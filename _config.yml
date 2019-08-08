@@ -20,10 +20,6 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
-collections:
-    who-we-are:
-        output: true
-
 # Resource Room and Pagination
 paginate: 12
 
@@ -47,9 +43,7 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
-  left-nav-one:
-    output: true
-  left-nav-two:
+  who-we-are:
     output: true
 resources_name:  resource-room
 
