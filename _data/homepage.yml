@@ -13,12 +13,12 @@ agency-logo: /images/logo-eoa.png
 # Hero Banner
 hero-title: Eye on Asia
 hero-subtitle: Your one-stop resource centre for connecting with Asia
-hero-banner: /images/hero-banner.png
+hero-banner: /images/hero-banner-eoa.png
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /who-we-are/
+  - text: Start Exploring
+    url: /country-listing/
     
 key-highlights:
   - title: Highlight A
@@ -33,7 +33,10 @@ key-highlights:
     description: Page A is important too
     url: /page-A/
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url:  resource-room/
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: 
+programmes-subtitle: Navigate the shifts in global economic power to Asia
+programmes-description: Tap into the insights of professionals who ventured into the region
+programmes-more-button: Start Exploring Now
+programmes-more-button-url: /country-listing/
