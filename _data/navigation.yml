@@ -12,7 +12,7 @@
   - title: Visit our Resource Centre
     url: /who-we-are/visit-our-resource-centre/
 - title: ASEAN Countries
-  url: /asean-countries/overview/
+  url: /asean-countries/
   sub-links:
   - title: Know
     url: /asean-countries/know/
@@ -21,7 +21,7 @@
   - title: Go
     url: /asean-countries/go/
 - title: China
-  url: /china/overview/
+  url: /china/
   sub-links:
   - title: Know
     url: /china/know/
@@ -30,7 +30,7 @@
   - title: Go
     url: /china/go/
 - title: India
-  url: /india/overview/
+  url: /india/
   sub-links:
   - title: Know
     url: /india/know/
