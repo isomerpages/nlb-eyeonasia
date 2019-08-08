@@ -10,11 +10,25 @@ typora-root-url: ..
 
 Located at Level 7 of the National Library Building (100 Victoria Street, Singapore 188064), the **Eye on Asia Resource Centre** showcases the National Library’s collections and resources related to ASEAN countries, China and India, which have been curated by our reference librarians.
 
-<img src="/images/EOA-Resource-Centre-pic1-300x200.jpg" alt="Eye on Asia resource centre" style="width:300px;" /><img src="/images/EOA-Resource-Centre-pic2-300x200.jpg" alt="Eye on Asia resource centre" style="width:300px;" />
+<div class="w3-row">
+  <div class="w3-half w3-container w3-green">
+    <h2><img src="/images/EOA-Resource-Centre-pic1-300x200.jpg" alt="Eye on Asia resource centre" style="width:300px;" /></h2> 
+  </div>
+  <div class="w3-half w3-container">
+    <h2><img src="/images/EOA-Resource-Centre-pic2-300x200.jpg" alt="Eye on Asia resource centre" style="width:300px;" /></h2> 
+  </div>
+</div>
 
 Find the information you need through our varied resources ranging from digital and physical books to a selection of leading regional newspapers (available via the National Library’s multimedia station) from ASEAN countries, China as well as India.
 
-<img src="/images/EOA-Resource-Centre-pic3-300x200.jpg" alt="Eye on Asia resource centre" style="width:300px;" /><img src="/images/EOA-Resource-Centre-pic4-300x200.jpg" alt="Eye on Asia resource centre" style="width:300px;" />
+<div class="w3-row">
+  <div class="w3-half w3-container w3-green">
+    <h2><img src="/images/EOA-Resource-Centre-pic3-300x200.jpg" alt="Eye on Asia resource centre" style="width:300px;" /></h2> 
+  </div>
+  <div class="w3-half w3-container">
+    <h2><img src="/images/EOA-Resource-Centre-pic4-300x200.jpg" alt="Eye on Asia resource centre" style="width:300px;" /></h2> 
+  </div>
+</div>
 
 To borrow our ebooks on ASEAN countries, China and India from these digital book shelves, simply download the NLB mobile app and scan the QR code displayed.
 
