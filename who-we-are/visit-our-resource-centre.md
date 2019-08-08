@@ -33,8 +33,8 @@ Located at Level 7 of the National Library Building (100 Victoria Street, Singap
 <div class="divTable">
 	<div class="divTableBody">
 		<div class="divTableRow">
-			<div class="divTableCell"><img src="/images/EOA-Resource-Centre-pic1-300x200.jpg" alt="Eye on Asia resource centre" style="width:50%;" /></div>
-			<div class="divTableCell"><img src="/images/EOA-Resource-Centre-pic2-300x200.jpg" alt="Eye on Asia resource centre" style="width:50%;" /></div>
+			<div class="divTableCell"><img src="/images/EOA-Resource-Centre-pic1-300x200.jpg" alt="Eye on Asia resource centre" style="width:100%;" /></div>
+			<div class="divTableCell"><img src="/images/EOA-Resource-Centre-pic2-300x200.jpg" alt="Eye on Asia resource centre" style="width:100%;" /></div>
 		</div>
 	</div>
 </div>
@@ -44,8 +44,8 @@ Find the information you need through our varied resources ranging from digital 
 <div class="divTable">
 	<div class="divTableBody">
 		<div class="divTableRow">
-			<div class="divTableCell"><img src="/images/EOA-Resource-Centre-pic3-300x200.jpg" alt="Eye on Asia resource centre" style="width:50%;" /></div>
-			<div class="divTableCell"><img src="/images/EOA-Resource-Centre-pic4-300x200.jpg" alt="Eye on Asia resource centre" style="width:50%;" /></div>
+			<div class="divTableCell"><img src="/images/EOA-Resource-Centre-pic3-300x200.jpg" alt="Eye on Asia resource centre" style="width:100%;" /></div>
+			<div class="divTableCell"><img src="/images/EOA-Resource-Centre-pic4-300x200.jpg" alt="Eye on Asia resource centre" style="width:100%;" /></div>
 		</div>
 	</div>
 </div>
