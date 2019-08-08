@@ -12,14 +12,7 @@
   - title: Visit our Resource Centre
     url: /who-we-are/visit-our-resource-centre/
 - title: ASEAN Countries
-  url: /asean-countries/
-  sub-links:
-  - title: Know
-    url: /asean-countries/know/
-  - title: Share
-    url: /asean-countries/share/
-  - title: Go
-    url: /asean-countries/go/
+  collection: asean-countries
 - title: China
   url: /china/overview/
   sub-links:
