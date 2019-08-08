@@ -5,14 +5,14 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-eoa.png
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/logo-eoa.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Eye on Asia
+hero-subtitle: Your one-stop resource centre for connecting with Asia
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
