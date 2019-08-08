@@ -46,3 +46,5 @@ collections:
   left-nav-two:
     output: true
 resources_name:  resource-room
+
+is_government: false
