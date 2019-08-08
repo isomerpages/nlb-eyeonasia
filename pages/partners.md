@@ -1,5 +1,5 @@
 ---
-layout: our-team
+layout: simple-page
 title: Our Partners
 permalink: /our-partners/
 breadcrumb: Our Partners
