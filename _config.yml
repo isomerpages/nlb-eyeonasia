@@ -1,12 +1,11 @@
 title: National Library Board
 title-abbreviated: NLB
-description: >- # this means to ignore newlines until "baseurl:"
-  Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore to provide resources for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities abroad. Focusing on ASEAN countries, China and India including emerging cities, you will discover a broad overview of useful resources to help you be more aware of developments in these countries as Singapore gears itself for the future economy.
+description: Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore to provide resources for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities abroad. Focusing on ASEAN countries, China and India including emerging cities, you will discover a broad overview of useful resources to help you be more aware of developments in these countries as Singapore gears itself for the future economy.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 
 plugins:
@@ -41,6 +40,8 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 
 collections:
   who-we-are:
+    output: true
+  asean-countries:
     output: true
     
 # Resource Room and Pagination
