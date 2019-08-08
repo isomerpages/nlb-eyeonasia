@@ -4,7 +4,6 @@
 #                                #
 ##################################
 
-links:
 - title: Who We Are
   url: /who-we-are/about-eye-on-asia/
   sub-links:
@@ -13,7 +12,14 @@ links:
   - title: Visit our Resource Centre
     url: /who-we-are/visit-our-resource-centre/
 - title: ASEAN Countries
-  collection: asean-countries
+  url: /asean-countries/asean-countries/
+  sub-links:
+  - title: Know
+    url: /asean-countries/know/
+  - title: Share
+    url: /asean-countries/share/
+  - title: Go
+    url: /asean-countries/go/
 - title: China
   url: /china/overview/
   sub-links:
