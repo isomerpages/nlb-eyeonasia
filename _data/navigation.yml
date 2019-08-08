@@ -9,32 +9,43 @@
   sub-links:
   - title: About Eye on Asia
     url: /about/about-eye-on-asia/
-  - title: About National Library
-    url: /about/about-national-library/
+  - title: Visit our Resource Centre
+    url: /about/visit-our-resource-centre/
 - title: ASEAN Countries
-  url: /left-nav-one/sub-page-A/
+  url: /asean-countries/
   sub-links:
-  - title: Sub Page A
-    url: /left-nav-one/sub-page-A/
-  - title: Sub Page B
-    url: /left-nav-one/sub-page-B/
+  - title: Know
+    url: /asean-countries/know/
+  - title: Share
+    url: /asean-countries/share/
+  - title: Go
+    url: /asean-countries/go/
 - title: China
-  url: /left-nav-two/sub-page-C/
+  url: /china/
   sub-links:
-  - title: Sub Page C
-    url: /left-nav-two/sub-page-C/
-  - title: Sub Page D
-    url: /left-nav-two/sub-page-D/
+  - title: Know
+    url: /china/know/
+  - title: Share
+    url: /china/share/
+  - title: Go
+    url: /china/go/
 - title: India
-  url: /left-nav-two/sub-page-C/
+  url: /india/
   sub-links:
-  - title: Sub Page C
-    url: /left-nav-two/sub-page-C/
-  - title: Sub Page D
-    url: /left-nav-two/sub-page-D/
+  - title: Know
+    url: /india/know/
+  - title: Share
+    url: /india/share/
+  - title: Go
+    url: /india/go/
 - title: Events
-  url: /left-nav-one/sub-page-A/
+  url: /events/
+  sub-links:
+  - title: Upcoming Events
+    url: /events/upcoming-events/
+  - title: Past Events
+    url: /events/past-events
 - title: Our Partners
-  url: /left-nav-one/sub-page-A/
+  url: /our-partners/
 - title: Contact Us
   url: /contact-us/
