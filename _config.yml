@@ -20,6 +20,16 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
+collections:
+    asean-countries:
+        output: true
+    china:
+        output: true
+    india:
+        output: true
+    events:
+        output: true
+
 # Resource Room and Pagination
 paginate: 12
 
