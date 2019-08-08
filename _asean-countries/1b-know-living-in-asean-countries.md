@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Overview of ASEAN Countries
+title: Living in ASEAN Countries
 permalink: /asean-countries/know/living-in-asean-countries/
 breadcrumb: Living in ASEAN Countries
 collection_name: asean-countries
