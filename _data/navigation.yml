@@ -5,14 +5,14 @@
 ##################################
 
 - title: Who We Are
-  url: /who-we-are/
+  url: /who-we-are/about-eye-on-asia/
   sub-links:
   - title: About Eye on Asia
     url: /who-we-are/about-eye-on-asia/
   - title: Visit our Resource Centre
     url: /who-we-are/visit-our-resource-centre/
 - title: ASEAN Countries
-  url: /asean-countries/
+  url: /asean-countries/overview/
   sub-links:
   - title: Know
     url: /asean-countries/know/
@@ -21,7 +21,7 @@
   - title: Go
     url: /asean-countries/go/
 - title: China
-  url: /china/
+  url: /china/overview/
   sub-links:
   - title: Know
     url: /china/know/
@@ -30,7 +30,7 @@
   - title: Go
     url: /china/go/
 - title: India
-  url: /india/
+  url: /india/overview/
   sub-links:
   - title: Know
     url: /india/know/
