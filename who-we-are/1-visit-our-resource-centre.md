@@ -1,9 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Visit our Resource Centre
 permalink: /who-we-are/visit-our-resource-centre/
 breadcrumb: Visit our Resource Centre
-typora-root-url: ..
+collection_name: who-we-are
 ---
 
 <style>
