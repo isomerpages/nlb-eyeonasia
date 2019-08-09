@@ -4,62 +4,10 @@ title: Our Partners
 permalink: /our-partners/
 breadcrumb: Our Partners
 ---
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.div-row {
-  display: -ms-flexbox; /* IE10 */
-  display: flex;
-  -ms-flex-wrap: wrap; /* IE10 */
-  flex-wrap: wrap;
-  padding: 0 4px;
-  margin: 0 auto;
-  max-width: 90%;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-/* Create three equal columns that sits next to each other */
-.div-column {
-  -ms-flex: 33%; /* IE10 */
-  flex: 33%;
-  max-width: 33%;
-  padding: 20px 20px;
-}
-
-.div-column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 90%;
-  padding: 20px 20px;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .div-column {
-    -ms-flex: 33%;
-    flex: 33%;
-    max-width: 33%;
-	padding: 20px 20px;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .div-column {
-    -ms-flex: 90%;
-    flex: 90%;
-    max-width: 90%;
-	padding: 20px 20px;
-  }
-}
-</style>
 
 We thank our partners for contributing to the initiative by allowing us access to their resources on ASEAN countries, China and India, providing information on the work and learning opportunities in these countries as well as first-hand accounts of people who have lived and worked there.
 
-<h2>Founding Partners</h2>
+<h3>Founding Partners</h3>
 
 <div class="div-row">
 	<div class="div-column">
@@ -73,7 +21,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 	</div>
 </div>
 
-<h2>Partners</h2>
+<h3>Partners</h3>
 <div class="div-row">
 	<div class="div-column">
 		<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School" style="width:100%"></a>
