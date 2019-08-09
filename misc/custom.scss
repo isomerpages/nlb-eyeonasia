@@ -367,7 +367,16 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .partner-col {
   flex: 1;
-  padding: 16px;
+  padding: 20px 20px;
+  vertical-align:middle;
+}
+
+@media screen and (max-width: 600px) {
+.partner-col {
+  display: block;
+  width: 100%;
+  padding: 20px 20px;
+  vertical-align:middle;
 }
 
 
