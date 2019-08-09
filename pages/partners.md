@@ -32,15 +32,17 @@ breadcrumb: Our Partners
 .div-column img {
   margin-top: 8px;
   vertical-align: middle;
-  width: 80%;
+  width: 90%;
+  padding: 20px 20px;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
   .div-column {
-    -ms-flex: 25%;
-    flex: 25%;
-    max-width: 25%;
+    -ms-flex: 33%;
+    flex: 33%;
+    max-width: 33%;
+	padding: 20px 20px;
   }
 }
 
@@ -50,6 +52,7 @@ breadcrumb: Our Partners
     -ms-flex: 90%;
     flex: 90%;
     max-width: 90%;
+	padding: 20px 20px;
   }
 }
 </style>
@@ -60,13 +63,13 @@ We thank our partners for contributing to the initiative by allowing us access t
 
 <div class="div-row">
 	<div class="div-column">
-		<a href="https://www.enterprisesg.gov.sg/" target="_blank"><img src="/images/partners/Enterprise-SG-logo-270x85-1.png" alt="EnterpriseSG" style="width:100%"></a>
+		<a href="https://www.enterprisesg.gov.sg/"><img src="/images/partners/Enterprise-SG-logo-270x85-1.png" alt="EnterpriseSG" style="width:100%"></a>
 	</div>
 	<div class="div-column">
-		<a href="http://www.businesschina.org.sg/en.php" target="_blank"><img src="/images/partners/BC-Logo-White-BG-270x113-1.jpg" alt="Business China Singapore" style="width:100%"></a>
+		<a href="http://www.businesschina.org.sg/en.php"><img src="/images/partners/BC-Logo-White-BG-270x113-1.jpg" alt="Business China Singapore" style="width:100%"></a>
 	</div>
 	<div class="div-column">
-		<a href="http://iti.smu.edu.sg/" target="_blank"><img src="/images/partners/SMU-logo-370x93-1.jpg" alt="Singapore Management Univserity International Trading Institute" style="width:100%"></a>
+		<a href="http://iti.smu.edu.sg/"><img src="/images/partners/SMU-logo-370x93-1.jpg" alt="Singapore Management Univserity International Trading Institute" style="width:100%"></a>
 	</div>
 </div>
 
