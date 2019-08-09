@@ -379,6 +379,7 @@ $desktop: 960px + (2 * $gap) !default;
   flex: 33%;
   max-width: 33%;
   padding: 20px 20px;
+  vertical-align:middle;
 }
 
 .div-column img {
@@ -386,6 +387,7 @@ $desktop: 960px + (2 * $gap) !default;
   vertical-align: middle;
   width: 90%;
   padding: 20px 20px;
+  vertical-align:middle;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
@@ -395,6 +397,7 @@ $desktop: 960px + (2 * $gap) !default;
     flex: 33%;
     max-width: 33%;
 	padding: 20px 20px;
+	vertical-align:middle;
   }
 }
 
@@ -405,5 +408,6 @@ $desktop: 960px + (2 * $gap) !default;
     flex: 90%;
     max-width: 90%;
 	padding: 20px 20px;
+	vertical-align:middle;
   }
 }
