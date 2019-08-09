@@ -60,24 +60,25 @@ We thank our partners for contributing to the initiative by allowing us access t
 
 <div class="div-row">
 	<div class="div-column">
-		<a href="https://www.enterprisesg.gov.sg/" target="_blank"><img src="/images/partners/Enterprise-SG-logo-270x85-1.png" alt="EnterpriseSG" style"width:70%"></a>
+		<a href="https://www.enterprisesg.gov.sg/" target="_blank"><img src="/images/partners/Enterprise-SG-logo-270x85-1.png" alt="EnterpriseSG" style="width:70%"></a>
 	</div>
 	<div class="div-column">
-		<a href="http://www.businesschina.org.sg/en.php" target="_blank"><img src="/images/partners/BC-Logo-White-BG-270x113-1.jpg" alt="Business China Singapore" style"width:70%"></a>
+		<a href="http://www.businesschina.org.sg/en.php" target="_blank"><img src="/images/partners/BC-Logo-White-BG-270x113-1.jpg" alt="Business China Singapore" style="width:70%"></a>
 	</div>
 	<div class="div-column">
-		<a href="http://iti.smu.edu.sg/" target="_blank"><img src="/images/partners/SMU-logo-370x93-1.jpg" alt="Singapore Management Univserity International Trading Institute" style"width:70%"></a>
+		<a href="http://iti.smu.edu.sg/" target="_blank"><img src="/images/partners/SMU-logo-370x93-1.jpg" alt="Singapore Management Univserity International Trading Institute" style="width:70%"></a>
 	</div>
 </div>
 
 <h2>Partners</h2>
-<div class="div-column">
-		<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx" target="_blank"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School" style"width:70%"></a>
+<div class="div-row">
+	<div class="div-column">
+		<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx" target="_blank"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School" style="width:70%"></a>
 	</div>
 	<div class="div-column">
-		<a href="https://www.np.edu.sg/Pages/default.aspx" target="_blank"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Ngee Ann Polytechnic" style"width:70%"></a>
+		<a href="https://www.np.edu.sg/Pages/default.aspx" target="_blank"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Ngee Ann Polytechnic" style="width:70%"></a>
 	</div>
 	<div class="div-column">
-		<a href="https://www.osg.sg/" target="_blank"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style"width:70%"></a>
+		<a href="https://www.osg.sg/" target="_blank"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style="width:70%"></a>
 	</div>
 </div>
