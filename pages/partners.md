@@ -37,11 +37,9 @@ We thank our partners for contributing to the initiative by allowing us access t
 <div class="partner-col-container">
 	<div class="partner-col">
 		<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp_logo_spot.png" alt="Singapore Polytechnic" style="width:100%;"></a>
-		<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/YaleNUSCollege.png" alt="Yale NUS College" style="width:100%;"></a>
 	</div>
 	<div class="partner-col">
 		<a href="http://www.suss.edu.sg/Pages/index.aspx"><img src="/images/partners/Singapore-University-of-Social-Sciences_Horizontal-Format_Version-A_White-Background_RGB-370x187.png" alt="Singapore University of Social Sciences" style="width:100%;"></a>
-		<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="width:100%;"></a>
 	</div>
 	<div class="partner-col">
 		<a href="http://www.tp.edu.sg/"><img src="/images/partners/TP-Logo-1-270x84.png" alt="Temasek Polytechnic" style="width:100%;"></a>
