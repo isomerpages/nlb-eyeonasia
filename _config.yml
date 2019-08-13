@@ -43,6 +43,8 @@ collections:
     output: true
   asean-countries:
     output: true
+  asean-countries-know-overview:
+    output: true
     
 # Resource Room and Pagination
 paginate: 12
