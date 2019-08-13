@@ -4,7 +4,6 @@ title: ASEAN - A regional profile
 permalink: /asean/know/overview/asean-a-regional-profile
 breadcrumb: ASEAN - A regional profile
 collection_name: asean-countries-know-overview
-typora-root-url: ..
 ---
 
 This article provides an overview of ASEAN countries for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.

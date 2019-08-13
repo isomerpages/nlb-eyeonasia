@@ -4,7 +4,6 @@ title: ASEAN Countries
 permalink: /asean-countries/overview/
 breadcrumb: Know
 collection_name: asean-countries
-typora-root-url: ..
 ---
 
 ![banner-asean-overview](/images/banner-asean-overview.jpg)
