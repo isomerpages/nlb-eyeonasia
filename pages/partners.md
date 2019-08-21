@@ -31,7 +31,18 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic" style="max-width:270px; width:auto; height:auto; position:relative; margin:auto;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.osg.sg/"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style="max-width:270px; width:auto; height:auto; position:relative; margin:auto;"></a>
+			<a href="https://www.osg.sg/"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style="max-width:220px; width:auto; height:auto; position:relative; margin:auto;"></a>
+		</div>
+	</div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp_logo_spot.png" alt="Singapore Polytechnic"  style="max-width:270px; width:auto; height:auto; position:relative; margin:auto;"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="http://www.suss.edu.sg/Pages/index.aspx"><img src="/images/partners/Singapore-University-of-Social-Sciences_Horizontal-Format_Version-A_White-Background_RGB-370x187.png" alt="Singapore University of Social Sciences" style="max-width:270px; width:auto; height:auto; position:relative; margin:auto;"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="http://www.tp.edu.sg/"><img src="/images/partners/TP-Logo-1-270x84.png" alt="Temasek Polytechnic"  style="max-width:270px; width:auto; height:auto; position:relative; margin:auto;"></a>
 		</div>
 	</div>
 </div>
