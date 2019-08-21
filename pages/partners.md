@@ -23,7 +23,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 
 <h3>Partners</h3>
 <div>
-	<div class="row is-multiline" style="height: 200px;">
+	<div class="row is-multiline" style="line-height: 200px;">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School" style="width:100%; vertical-align:middle;"></a>
 		</div>
