@@ -10,7 +10,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
+		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean/know/overview/asean-a-regional-profile/" class="project-link">
 				<img src="/images/asean-countries/ASEAN-main-page-banner-370x150.jpg" alt="ASEAN - A Regional Profile" class="project-image">
 			<div class="project-card">
@@ -20,7 +20,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</div>
 			</a>
 		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
+		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean/know/overview/regional-newspapers/" class="project-link">
 				<img src="/images/asean-countries/Regional-Newspapers-1-370x150.jpg" alt="Regional Newspapers" class="project-image">
 			<div class="project-card">
@@ -30,7 +30,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</div>
 			</a>
 		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
+		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean/know/overview/brunei-a-country-profile/" class="project-link">
 				<img src="/images/asean-countries/Brunei-Snapshot-370x150.jpg" alt="Brunei: A Country Profile" class="project-image">
 			<div class="project-card">
