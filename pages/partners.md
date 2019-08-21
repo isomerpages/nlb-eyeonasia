@@ -4,29 +4,6 @@ title: Our Partners
 permalink: /our-partners/
 breadcrumb: Our Partners
 ---
-<style>
-.frame {
-    height: 25px;      /* equals max image height */
-    width: 160px;
-    border: 1px solid red;
-    white-space: nowrap;
-    
-    text-align: center; margin: 1em 0;
-}
-
-.helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
-}
-
-img {
-    vertical-align: middle;
-    max-height: 112px;
-    max-width: 270px;
-}
-</style>
-
 We thank our partners for contributing to the initiative by allowing us access to their resources on ASEAN countries, China and India, providing information on the work and learning opportunities in these countries as well as first-hand accounts of people who have lived and worked there.
 
 <h3>Founding Partners</h3>
@@ -48,22 +25,13 @@ We thank our partners for contributing to the initiative by allowing us access t
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<div class="frame">
-				<span class="helper"></span>
-				<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School" style="height:112px;"></a>
-			</div>
+			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School" style="max-width:100%; max-height:100%; width:auto; height:auto; position:absolute; margin:auto;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<div class="frame">
-				<span class="helper"></span>
-				<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic" style="height:112px;"></a>
-			</div>
+			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic" style="max-width:100%; max-height:100%; width:auto; height:auto; position:absolute; margin:auto;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<div class="frame">
-				<span class="helper"></span>
-				<a href="https://www.osg.sg/"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style="height:112px;"></a>
-			</div>
+			<a href="https://www.osg.sg/"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style="max-width:100%; max-height:100%; width:auto; height:auto; position:absolute; margin:auto;"></a>
 		</div>
 	</div>
 </div>
