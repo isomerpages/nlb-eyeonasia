@@ -20,3 +20,18 @@ We thank our partners for contributing to the initiative by allowing us access t
 		</div>
 	</div>
 </div>
+
+<h3>Partners</h3>
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School" style="width:100%;"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic" style="width:100%;"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="https://www.osg.sg/"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style="width:100%;"></a>
+		</div>
+	</div>
+</div>
