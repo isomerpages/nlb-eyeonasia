@@ -25,32 +25,32 @@ We thank our partners for contributing to the initiative by allowing us access t
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<center><a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School"></a></center>
+			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<center><a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic"></a></center>
+			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<center><a href="https://www.osg.sg/"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style="max-height:80%;max-width:80%;"></a></center>
-		</div>
-	</div>
-	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<center><a href="https://www.sp.edu.sg/"><img src="/images/partners/sp_logo_spot.png" alt="Singapore Polytechnic"></a></center>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<center><a href="http://www.suss.edu.sg/Pages/index.aspx"><img src="/images/partners/Singapore-University-of-Social-Sciences_Horizontal-Format_Version-A_White-Background_RGB-370x187.png" alt="Singapore University of Social Sciences" style="max-height:80%;max-width:80%;"></a></center>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<center><a href="http://www.tp.edu.sg/"><img src="/images/partners/TP-Logo-1-270x84.png" alt="Temasek Polytechnic"></a></center>
+			<a href="https://www.osg.sg/"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds" style="max-height:80%;max-width:80%;"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<center><a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/YaleNUSCollege.png" alt="Yale NUS College"></a></center>
+			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp_logo_spot.png" alt="Singapore Polytechnic"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<center><a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="max-height:80%;max-width:80%;"></a></center>
+			<a href="http://www.suss.edu.sg/Pages/index.aspx"><img src="/images/partners/Singapore-University-of-Social-Sciences_Horizontal-Format_Version-A_White-Background_RGB-370x187.png" alt="Singapore University of Social Sciences" style="max-height:80%;max-width:80%;"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="http://www.tp.edu.sg/"><img src="/images/partners/TP-Logo-1-270x84.png" alt="Temasek Polytechnic"></a>
+		</div>
+	</div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/YaleNUSCollege.png" alt="Yale NUS College"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="max-height:80%;max-width:80%;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			
