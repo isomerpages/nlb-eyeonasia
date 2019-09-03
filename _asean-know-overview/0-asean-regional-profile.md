@@ -23,3 +23,7 @@ Since its founding, ASEAN has become one of the modern economic success stories.
 [^3]: ASEAN 50 1967-2017: ASEAN economic progress. (2017). *Association of Southeast Asian Nations*. Retrieved December 22, 2017, from <http://www.aseanstats.org/wp-content/uploads/2017/08/ASEAN_economic_progress.pdf>{:target=”_blank”}
 
 [^4]: Delios, A. (2017, May 3). Commentary: Is ASEAN’s economic integration still work in progress?  *Channel NewsAsia.* Retrieved December 15, 2017, from <http://www.channelnewsasia.com/news/business/commentary-is-asean-s-economic-integration-still-a-work-in-8814696>{:target=”_blank”}
+
+The ASEAN economy is expected to grow five percent in 2017 and 2018 as countries in the region continue to enjoy ‘robust economic activity’. For countries that are linked to the global electronics supply chain, their economies are also boosted by demand for electronics.[^5]
+
+[^5]: K.Y., Wong. (2017, October 4). Asean to grow 5% in 2017: S&P Global.*The Business Times.*Retrieved December 12, 2017, from <http://www.businesstimes.com.sg/government-economy/asean-to-grow-5-in-2017-sp-global>{:target=”_blank”}
