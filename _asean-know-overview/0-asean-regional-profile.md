@@ -27,3 +27,9 @@ Since its founding, ASEAN has become one of the modern economic success stories.
 The ASEAN economy is expected to grow five percent in 2017 and 2018 as countries in the region continue to enjoy ‘robust economic activity’. For countries that are linked to the global electronics supply chain, their economies are also boosted by demand for electronics.[^5]
 
 [^5]: K.Y., Wong. (2017, October 4). Asean to grow 5% in 2017: S&P Global.*The Business Times.*Retrieved December 12, 2017, from <http://www.businesstimes.com.sg/government-economy/asean-to-grow-5-in-2017-sp-global>{:target=”_blank”}
+
+### **ASEAN Economic Community (AEC)**
+
+In 2015, the ASEAN Economic Community (AEC) was established to promote regional economic integration. The AEC Blueprint 2025 seeks to achieve “the vision of having an AEC by 2025 that is highly integrated and cohesive; competitive, innovative and dynamic; with enhanced connectivity and sectoral cooperation; and a more resilient, inclusive, and people-oriented, people-centred community, integrated with the global economy.” It also seeks to ensure that the 10 countries are “sustainably and gainfully integrated in the global economy, thus contributing to the goal of shared prosperity.”[^6]
+
+[^6]: ASEAN economic community. (n.d.). *Association of Southeast Asian Nations.* Retrieved December 15, 2017, from <http://asean.org/asean-economic-community/>{:target=”_blank”}
