@@ -39,7 +39,8 @@ Under the AEC, Singapore manufacturers can export to other ASEAN countries witho
 [^7]: Foo, M.Y., Koh, W.L., Lai, S.H., & Lam,m Y.Y. (2015, May). ASEAN Economic Community: Opportunities through economic integration in Southeast Asia. *22. IE Insights.* Retrieved December 15, 2017, from <https://go.gov.sg/vol22-asean-economic-opportunities>{:target="_blank"}
 
 ![ASEAN Countries in brief](/images/ASEAN-Snapshot-Table-1-new.png)
-[^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25]
+*References for snapshot table above*
+[^8] [^9] [^10] [^11] [^12] [^13] [^14] [^15] [^16] [^17] [^18] [^19] [^20] [^21] [^22] [^23] [^24] [^25] [^26] [^27] [^28] [^29] [^30] [^31] [^32] [^33] [^34] [^35] [^36] [^37] [^38] [^39] [^40] [^41] [^42] [^43] [^44] [^45] [^46] [^47] [^48] [^49] [^50] [^51] [^52] [^53] [^54] [^55] [^56] [^57] [^58] [^59] [^60] [^61] 
 
 [^8]: About Brunei. (2015). *Prime Minister’s Office Brunei Darussalam.* Retrieved November 1, 2017, from <http://www.pmo.gov.bn/Pages/AboutBrunei.aspx>{:target=”_blank”}
 [^9]: Population. (2017). *Department of Economic Planning and Development.* Retrieved November 1, 2017, from <http://www.depd.gov.bn/SitePages/Population.aspx>{:target=”_blank”}
