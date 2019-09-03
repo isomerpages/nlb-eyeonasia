@@ -43,6 +43,8 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 	</div>
 </div>
 
+<p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
@@ -77,6 +79,8 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 		</div>
 	</div>
 </div>
+
+<p><p>
 
 <div>
 	<div class="row is-multiline">
