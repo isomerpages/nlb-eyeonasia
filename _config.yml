@@ -36,7 +36,7 @@ collections:
     output: true
   asean-countries:
     output: true
-  asean-countries-know-overview:
+  asean-know-overview:
     output: true
     
 # Resource Room and Pagination
