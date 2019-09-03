@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Regional Newspapers
-permalink: /asean/know/overview/regional-newspapers/
+permalink: /asean/know/regional-newspapers/
 breadcrumb: Regional Newspapers
 collection_name: asean-countries-know-overview
 ---
