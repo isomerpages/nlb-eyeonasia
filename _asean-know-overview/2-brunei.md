@@ -65,28 +65,28 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 
 [^7]: Business in Brunei. (2016). Ministry of Foreign Affairs and Trade. Retrieved November 1, 2017, from [http://www.mofat.gov.bn/jordan-amman/SitePages/businessinbrunei.aspx](http://www.mofat.gov.bn){:target=”_blank”}
 
-[^8] New strategies in Brunei Darussalam’s industrial sector to expand opportunities. (2017). Oxford Business Group. Retrieved December 12, 2017, from [https://oxfordbusinessgroup.com/overview/turning-tides-new-strategies-should-lead-expanded-opportunities](https://oxfordbusinessgroup.com){:target=”_blank”}
+[^8]: New strategies in Brunei Darussalam’s industrial sector to expand opportunities. (2017). Oxford Business Group. Retrieved December 12, 2017, from [https://oxfordbusinessgroup.com/overview/turning-tides-new-strategies-should-lead-expanded-opportunities](https://oxfordbusinessgroup.com){:target=”_blank”}
 
-[^9] Wawasan Brunei 2035. (n.d.). Gov.bn. Retrieved December 15, 2017, from [https://www.brunei.gov.bn/SitePages/Wawasan%20Brunei%202035.aspx](https://www.brunei.gov.bn){:target=”_blank”}
+[^9]: Wawasan Brunei 2035. (n.d.). Gov.bn. Retrieved December 15, 2017, from [https://www.brunei.gov.bn/SitePages/Wawasan%20Brunei%202035.aspx](https://www.brunei.gov.bn){:target=”_blank”}
 
-[^10] Population. (2017). Department of Economic Planning and Development. Retrieved November 1, 2017, from [http://www.depd.gov.bn/SitePages/Population.aspx](http://www.depd.gov.bn/){:target=”_blank”}
+[^10]: Population. (2017). Department of Economic Planning and Development. Retrieved November 1, 2017, from [http://www.depd.gov.bn/SitePages/Population.aspx](http://www.depd.gov.bn/){:target=”_blank”}
 
-[^11] National accounts. (2017). Department of Economic Planning and Development. Retrieved November 1, 2017, from [http://www.depd.gov.bn/SitePages/National%20Accounts.aspx](http://www.depd.gov.bn/){:target=”_blank”}
+[^11]: National accounts. (2017). Department of Economic Planning and Development. Retrieved November 1, 2017, from [http://www.depd.gov.bn/SitePages/National%20Accounts.aspx](http://www.depd.gov.bn/){:target=”_blank”}
 
-[^12] Brunei Darussalam statistical yearbook. (2016). Department of Economic Planning and Development. Retrieved November 1, 2017, from [http://www.depd.gov.bn/DEPD%20Documents%20Library/DOS/BDSYB/BDSYB_2015.pdf](http://www.depd.gov.bn/){:target=”_blank”}
+[^12]: Brunei Darussalam statistical yearbook. (2016). Department of Economic Planning and Development. Retrieved November 1, 2017, from [http://www.depd.gov.bn/DEPD%20Documents%20Library/DOS/BDSYB/BDSYB_2015.pdf](http://www.depd.gov.bn/){:target=”_blank”}
 
-[^13] Ley Choon makes further inroads into Brunei with B$29 million new project wins. (2013, July 17). Ley Choon Group Holdings Limited. Retrieved November 9, 2017, from [http://www.leychoon.com/wp-content/uploads/2015/05/Ley-Choon-makes-further-inroads-into-Brunei-with-B29.pdf](http://www.leychoon.com){:target=”_blank”}
+[^13]: Ley Choon makes further inroads into Brunei with B$29 million new project wins. (2013, July 17). Ley Choon Group Holdings Limited. Retrieved November 9, 2017, from [http://www.leychoon.com/wp-content/uploads/2015/05/Ley-Choon-makes-further-inroads-into-Brunei-with-B29.pdf](http://www.leychoon.com){:target=”_blank”}
 
-[^14] ST Engineering secures $66.5mln project in Brunei. (2010, June 14). Singapore Business Review. Retrieved November 9, 2017, from [http://sbr.com.sg/building-engineering/news/st-engineering-secures-665mln-project-in-brunei](http://sbr.com.sg){:target=”_blank”}
+[^14]: ST Engineering secures $66.5mln project in Brunei. (2010, June 14). Singapore Business Review. Retrieved November 9, 2017, from [http://sbr.com.sg/building-engineering/news/st-engineering-secures-665mln-project-in-brunei](http://sbr.com.sg){:target=”_blank”}
 
-[^15] Construction. (2015). Greatearth. Retrieved November 9, 2017, from [http://www.greatearth.sg/bd-construction.php](http://www.greatearth.sg){:target=”_blank”}
+[^15]: Construction. (2015). Greatearth. Retrieved November 9, 2017, from [http://www.greatearth.sg/bd-construction.php](http://www.greatearth.sg){:target=”_blank”}
 
-[^16] The energy sector in Brunei Darussalam. (2017). Energy and Industry Department. Retrieved November 1, 2017, from [http://www.ei.gov.bn/SitePages/Energy%20Sector%20in%20Brunei%20Darussalam.aspx](http://www.ei.gov.bn){:target=”_blank”}
+[^16]: The energy sector in Brunei Darussalam. (2017). Energy and Industry Department. Retrieved November 1, 2017, from [http://www.ei.gov.bn/SitePages/Energy%20Sector%20in%20Brunei%20Darussalam.aspx](http://www.ei.gov.bn){:target=”_blank”}
 
-[^17] Gross domestic product: Second quarter 2017. (2017). Department of Economic Planning and Development. Retrieved November 1, 2017, from [http://www.depd.gov.bn/DEPD%20Documents%20Library/DOS/GDP/2017/1.%20GDP_Q22017.pdf](http://www.depd.gov.bn){:target=”_blank”}
+[^17]: Gross domestic product: Second quarter 2017. (2017). Department of Economic Planning and Development. Retrieved November 1, 2017, from [http://www.depd.gov.bn/DEPD%20Documents%20Library/DOS/GDP/2017/1.%20GDP_Q22017.pdf](http://www.depd.gov.bn){:target=”_blank”}
 
-[^18] Mission, vision and strategic objectives. (2017). Ministry of Primary Resources and Tourism. Retrieved November 1, 2017, from [http://www.tourism.gov.bn/SitePages/Mission,%20Vision%20and%20Strategic%20Objectives.aspx](http://www.tourism.gov.bn){:target=”_blank”}
+[^18]: Mission, vision and strategic objectives. (2017). Ministry of Primary Resources and Tourism. Retrieved November 1, 2017, from [http://www.tourism.gov.bn/SitePages/Mission,%20Vision%20and%20Strategic%20Objectives.aspx](http://www.tourism.gov.bn){:target=”_blank”}
 
-[^19] International tourist arrivals (by air), 2011-2016. (2017). Ministry of Primary Resources and Tourism. Retrieved November 1, 2017, from [http://www.mprt.gov.bn/SitePages/International%20Tourist%20Arrivals%20(By%20Air),2011-2016.aspx](http://www.mprt.gov.bn){:target=”_blank”}
+[^19]: International tourist arrivals (by air), 2011-2016. (2017). Ministry of Primary Resources and Tourism. Retrieved November 1, 2017, from [http://www.mprt.gov.bn/SitePages/International%20Tourist%20Arrivals%20(By%20Air),2011-2016.aspx](http://www.mprt.gov.bn){:target=”_blank”}
 
-[^20] Brunei show development in tourism industry the last 18 months. (2017, January 18). Energy and Industry Department. Retrieved November 1, 2017, from [http://www.ei.gov.bn/Lists/Industry%20News/NewDispForm.aspx?ID=394](http://www.ei.gov.bn){:target=”_blank”}
+[^20]: Brunei show development in tourism industry the last 18 months. (2017, January 18). Energy and Industry Department. Retrieved November 1, 2017, from [http://www.ei.gov.bn/Lists/Industry%20News/NewDispForm.aspx?ID=394](http://www.ei.gov.bn){:target=”_blank”}
