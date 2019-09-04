@@ -58,7 +58,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean/know/indonesia-country-profile/" class="project-link">
+			<a href="/asean/know/indonesia-a-country-profile/" class="project-link">
 				<img src="/images/asean-countries/Indonesia-Snapshot-370x150.jpg" alt="Indonesia - A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -85,7 +85,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean/know/malaysia-country-profile/" class="project-link">
+			<a href="/asean/know/malaysia-a-country-profile/" class="project-link">
 				<img src="/images/asean-countries/Malaysia-Snapshot-370x150.jpg" alt="Malaysia - A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -95,7 +95,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean/know/myanmar-country-profile/" class="project-link">
+			<a href="/asean/know/myanmar-a-country-profile/" class="project-link">
 				<img src="/images/asean-countries/Myanmar-Profile-370x150.jpg" alt="Myanmar - A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -122,7 +122,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean/know/thailand-country-profile/" class="project-link">
+			<a href="/asean/know/thailand-a-country-profile/" class="project-link">
 				<img src="/images/asean-countries/Thailand-Profile-370x150.jpg" alt="Thailand - A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -132,7 +132,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean/know/vietnam-country-profile/" class="project-link">
+			<a href="/asean/know/vietnam-a-country-profile/" class="project-link">
 				<img src="/images/asean-countries/Vietnam-Snapshot-370x150.jpg" alt="Vietnam - A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
