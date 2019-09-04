@@ -48,7 +48,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean/know/cambodia-country-profile/" class="project-link">
+			<a href="/asean/know/cambodia-a-country-profile/" class="project-link">
 				<img src="/images/asean-countries/Cambodia-Profile-370x150.jpg" alt="Cambodia - A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
