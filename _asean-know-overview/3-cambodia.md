@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Cambodia: A Country Profile
-permalink: /asean/know/cambodia-country-profile/
+permalink: /asean/know/cambodia-a-country-profile/
 breadcrumb: Cambodia: A Country Profile
 collection_name: asean-know-overview
 ---
