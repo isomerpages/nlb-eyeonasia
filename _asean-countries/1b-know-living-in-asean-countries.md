@@ -202,7 +202,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean/living/transportation-in-laos/" class="project-link">
-				<img src="/images/asean-living/Transportation-Laos-370x150" alt="Transportation in Laos" class="project-image">
+				<img src="/images/asean-living/Transportation-Laos-370x150.jpg" alt="Transportation in Laos" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Transportation in Laos</b></h5>
@@ -256,7 +256,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean/living/transportation-in-malaysia/" class="project-link">
-				<img src="/images/asean-living/Transportation-Malaysia-370x150" alt="Transportation in Malaysia" class="project-image">
+				<img src="/images/asean-living/Transportation-Malaysia-370x150.jpg" alt="Transportation in Malaysia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Transportation in Malaysia</b></h5>
@@ -310,7 +310,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean/living/transportation-in-myanmar/" class="project-link">
-				<img src="/images/asean-living/Transportation-Myanmar-370x150" alt="Transportation in Myanmar" class="project-image">
+				<img src="/images/asean-living/ASEAN-Guides-Myanmar-370x150.jpg" alt="Transportation in Myanmar" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Transportation in Myanmar</b></h5>
@@ -364,7 +364,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean/living/transportation-in-philippines/" class="project-link">
-				<img src="/images/asean-living/Transportation-Philippines-370x150" alt="Transportation in Philippines" class="project-image">
+				<img src="/images/asean-living/Transportation-Philippines-370x150.jpg" alt="Transportation in Philippines" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Transportation in Philippines</b></h5>
@@ -418,7 +418,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean/living/transportation-in-thailand/" class="project-link">
-				<img src="/images/asean-living/Transportation-Thailand-370x150" alt="Transportation in Thailand" class="project-image">
+				<img src="/images/asean-living/Transportation-Thailand-370x150.jpg" alt="Transportation in Thailand" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Transportation in Thailand</b></h5>
@@ -472,7 +472,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean/living/transportation-in-vietnam/" class="project-link">
-				<img src="/images/asean-living/Transportation-Vietnam-370x150" alt="Transportation in Vietnam" class="project-image">
+				<img src="/images/asean-living/ASEAN-Guides-Vietnam-370x150" alt="Transportation in Vietnam" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Transportation in Vietnam</b></h5>
