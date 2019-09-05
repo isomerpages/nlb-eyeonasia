@@ -33,7 +33,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean/living/financial-services-brunei/" class="project-link">
-				<img src="/images/asean-countries/ASEAN-Brunei-Banking-Cover-370x150" alt="Financial services, banking and payment systems in Brunei" class="project-image">
+				<img src="/images/asean-countries/ASEAN-Brunei-Banking-Cover-370x150.jpg" alt="Financial services, banking and payment systems in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Financial services, banking and payment systems in Brunei</b></h5>
@@ -50,7 +50,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean/living/housing-in-brunei/" class="project-link">
-				<img src="/images/asean-living/ASEAN-Brunei-Housing-Cover-370x150" alt="Housing in Brunei" class="project-image">
+				<img src="/images/asean-living/ASEAN-Brunei-Housing-Cover-370x150.jpg" alt="Housing in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Housing in Brunei</b></h5>
@@ -60,7 +60,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean/living/transportation-in-cambodia/" class="project-link">
-				<img src="/images/asean-living/ASEAN-Guides-Cambodia-370x150" alt="Transportation in Cambodia" class="project-image">
+				<img src="/images/asean-living/ASEAN-Guides-Cambodia-370x150.jpg" alt="Transportation in Cambodia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Transportation in Cambodia</b></h5>
