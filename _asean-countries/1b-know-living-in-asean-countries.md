@@ -472,7 +472,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean/living/transportation-in-vietnam/" class="project-link">
-				<img src="/images/asean-living/ASEAN-Guides-Vietnam-370x150" alt="Transportation in Vietnam" class="project-image">
+				<img src="/images/asean-living/ASEAN-Guides-Vietnam-370x150.jpg" alt="Transportation in Vietnam" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Transportation in Vietnam</b></h5>
