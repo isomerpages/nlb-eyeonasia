@@ -42,6 +42,14 @@ collections:
     output: true
   asean-know-sharing:
     output: true
+  china:
+    output: true
+  china-overview:
+    output: true
+  china-know-living:
+    output: true
+  china-know-sharing:
+    output: true
     
 # Resource Room and Pagination
 paginate: 12
