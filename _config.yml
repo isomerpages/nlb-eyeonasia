@@ -50,6 +50,8 @@ collections:
     output: true
   china-know-sharing:
     output: true
+  india:
+    output: true
     
 # Resource Room and Pagination
 paginate: 12
