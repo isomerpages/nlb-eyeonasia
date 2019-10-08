@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Singapore Communities in ASEAN Countries
-permalink: /china/go/singapore-communities-in-asean-countries/
-breadcrumb: Singapore Communities in ASEAN Countries
+permalink: /china/go/singapore-communities-in-china/
+breadcrumb: Singapore Communities in China
 collection_name: china
 second_nav_title: "Go"
 ---
