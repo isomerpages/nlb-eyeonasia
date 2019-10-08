@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: China
-permalink: /china/know/overview-china/
+permalink: /china/know/overview/
 breadcrumb: China
 collection_name: china
 ---
