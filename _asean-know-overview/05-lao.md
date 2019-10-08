@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Lao PDR - A country profile
-permalink: /asean/know/lao-a-country-profile/
+permalink: /asean-countries/know/overview-of-asean-countries/lao-a-country-profile/
 breadcrumb: Lao PDR - A country profile
 collection_name: asean-know-overview
 ---

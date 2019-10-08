@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Brunei - A country profile
-permalink: /asean/know/brunei-a-country-profile/
+permalink: /asean-countries/know/overview-of-asean-countries/brunei-a-country-profile/
 breadcrumb: Brunei - A country profile
 collection_name: asean-know-overview
 ---
