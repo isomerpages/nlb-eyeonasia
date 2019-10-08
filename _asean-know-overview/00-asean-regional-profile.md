@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: ASEAN - A regional profile
-permalink: /asean/know/asean-a-regional-profile/
+permalink: /asean-countries/know/overview-of-asean-countries/asean-a-regional-profile/
 breadcrumb: ASEAN - A regional profile
 collection_name: asean-know-overview
 ---
