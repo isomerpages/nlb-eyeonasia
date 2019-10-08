@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: ASEAN Countries
-permalink: /asean-countries/overview/
+permalink: /asean-countries/know/overview/
 breadcrumb: Know
 collection_name: asean-countries
 ---
