@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: ASEAN Countries
 permalink: /asean-countries/know/overview/
-breadcrumb: Know
+breadcrumb: ASEAN Countries
 collection_name: asean-countries
 ---
 
