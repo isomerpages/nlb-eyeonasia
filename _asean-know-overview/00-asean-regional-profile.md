@@ -38,7 +38,7 @@ Under the AEC, Singapore manufacturers can export to other ASEAN countries witho
 
 [^7]: Foo, M.Y., Koh, W.L., Lai, S.H., & Lam,m Y.Y. (2015, May). ASEAN Economic Community: Opportunities through economic integration in Southeast Asia. *22. IE Insights.* Retrieved December 15, 2017, from <https://go.gov.sg/vol22-asean-economic-opportunities>{:target="_blank"}
 
-![ASEAN Countries in brief](/images/ASEAN-Snapshot-Table-1-new.png)
+![ASEAN Countries in brief](/images/ASEAN-Snapshot-Table-1-new.png)[^8][^9][^10]
 
 [^8]: About Brunei. (2015). *Prime Minister’s Office Brunei Darussalam.* Retrieved November 1, 2017, from <http://www.pmo.gov.bn/Pages/AboutBrunei.aspx>{:target=”_blank”}
 [^9]: Population. (2017). *Department of Economic Planning and Development.* Retrieved November 1, 2017, from <http://www.depd.gov.bn/SitePages/Population.aspx>{:target=”_blank”}
