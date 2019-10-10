@@ -256,3 +256,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 		</div>
 	</div>
 </div>
+
+
+
+![](1a-know-overview-of-asean-countries/5 keys to understanding China - A Samsung veteran shares how to succeed in China.jpg)
