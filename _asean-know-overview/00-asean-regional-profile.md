@@ -10,7 +10,6 @@ collection_name: asean-know-overview
 
 This article provides an overview of ASEAN countries for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
-[Test link](http://google.com){:target="_blank"}
 
 ### **Introduction**
 
@@ -41,6 +40,12 @@ In 2015, the ASEAN Economic Community (AEC) was established to promote regional 
 Under the AEC, Singapore manufacturers can export to other ASEAN countries without having to pay tariffs for most products, thus improving manufacturers’ access to these countries. In addition, the freer flow of goods within ASEAN should reduce manufacturing and production costs due to lower costs for raw materials or inputs sourced within the region, thereby increasing the competitiveness of Singapore-manufactured goods.[^7]
 
 [^7]: Foo, M.Y., Koh, W.L., Lai, S.H., & Lam,m Y.Y. (2015, May). ASEAN Economic Community: Opportunities through economic integration in Southeast Asia. *22. IE Insights.* Retrieved December 15, 2017, from <https://go.gov.sg/vol22-asean-economic-opportunities>{:target="_blank"}
+
+| Country           | Land Area (sq km) | Population                | National / Official Language(s) | Currency           | GDP                        | GDP Per Capita                  |
+| ----------------- | ----------------- | ------------------------- | ------------------------------- | ------------------ | -------------------------- | ------------------------------- |
+| Brunei Darussalam | 5,765[^8]         | 0.422678 million[^9]      | Malay[^10]                      | Brunei Dollar[^11] | BND 15,747 bn (2016)[^12]  | BND 37,257 (2016)[^13]          |
+| Cambodia          | 176,520[^14]      | 14.976 million[^15]       | Khmer[^16]                      | Riel[^17]          | KHR 74,423 bn (2015)[^18]  | KHR 4,903 (2015)[^19]           |
+| Indonesia         | 1,913,578.68[^20] | 258.7 million (2016)[^21] | Bahasa Indonesia[^22]           | Rupiah[^23]        | IDR 12,406.8 trillion[^24] | IDR 47,9574 million (2016)[^25] |
 
 ![ASEAN Countries in brief](/images/ASEAN-Snapshot-Table-1-new.png)
 
