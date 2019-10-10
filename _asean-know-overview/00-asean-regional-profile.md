@@ -53,8 +53,6 @@ Under the AEC, Singapore manufacturers can export to other ASEAN countries witho
 | Thailand          | 513,119[^50]       | 67.2 million (2015)[^51]   | Thai[^52]                                                 | Baht[^53]             | THB 13,537.5 billion (2015)[^54]                             | THB 201,343 (2015)[^55]                  |
 | Vietnam           | 331,230[^56]       | 92.7 million (2016)[^57]   | Vietnamese[^58]                                           | Dong[^59]             | VND 4,502.7 trillion (2016) (US$ equivalent not available)[^60] | VND 48.6 million / US$ 2,215 (2016)[^61] |
 
-![ASEAN Countries in brief](/images/ASEAN-Snapshot-Table-1-new.png)
-
 [^8]: About Brunei. (2015). *Prime Minister’s Office Brunei Darussalam.* Retrieved November 1, 2017, from <http://www.pmo.gov.bn/Pages/AboutBrunei.aspx>{:target="_blank"}
 [^9]: Population. (2017). *Department of Economic Planning and Development.* Retrieved November 1, 2017, from <http://www.depd.gov.bn/SitePages/Population.aspx>{:target="_blank"}
 [^10]: About Brunei. (2015). *Prime Minister’s Office Brunei Darussalam.* Retrieved November 1, 2017, from <http://www.pmo.gov.bn/Pages/AboutBrunei.aspx>{:target="_blank"}
