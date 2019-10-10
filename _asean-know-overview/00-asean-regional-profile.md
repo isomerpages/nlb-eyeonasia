@@ -46,6 +46,12 @@ Under the AEC, Singapore manufacturers can export to other ASEAN countries witho
 | Brunei Darussalam | 5,765[^8]         | 0.422678 million[^9]      | Malay[^10]                      | Brunei Dollar[^11] | BND 15,747 bn (2016)[^12]  | BND 37,257 (2016)[^13]          |
 | Cambodia          | 176,520[^14]      | 14.976 million[^15]       | Khmer[^16]                      | Riel[^17]          | KHR 74,423 bn (2015)[^18]  | KHR 4,903 (2015)[^19]           |
 | Indonesia         | 1,913,578.68[^20] | 258.7 million (2016)[^21] | Bahasa Indonesia[^22]           | Rupiah[^23]        | IDR 12,406.8 trillion[^24] | IDR 47,9574 million (2016)[^25] |
+| Lao PR            |                   |                           |                                 |                    |                            |                                 |
+| Malaysia          |                   |                           |                                 |                    |                            |                                 |
+| Myanmar           |                   |                           |                                 |                    |                            |                                 |
+| Philippines       |                   |                           |                                 |                    |                            |                                 |
+| Thailand          |                   |                           |                                 |                    |                            |                                 |
+| Vietnam           |                   |                           |                                 |                    |                            |                                 |
 
 ![ASEAN Countries in brief](/images/ASEAN-Snapshot-Table-1-new.png)
 
@@ -106,8 +112,3 @@ Under the AEC, Singapore manufacturers can export to other ASEAN countries witho
 ---
 ### **References**
 
-
-
-61. Statistical yearbook of Viet Nam 2016 – Foreword. (2017). *Statistical Publishing House*, p. 16. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target="_blank"}
-
-Statistical yearbook of Viet Nam 2016 – Foreword. (2017). *Statistical Publishing House*, p. 16. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target="_blank"}
