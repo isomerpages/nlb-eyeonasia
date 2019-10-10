@@ -103,4 +103,6 @@ Under the AEC, Singapore manufacturers can export to other ASEAN countries witho
 
 
 
-61. Statistical yearbook of Viet Nam 2016 – Foreword. (2017). *Statistical Publishing House*, p. 16. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target=”_blank”}
+61. Statistical yearbook of Viet Nam 2016 – Foreword. (2017). *Statistical Publishing House*, p. 16. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target="_blank"}
+
+Statistical yearbook of Viet Nam 2016 – Foreword. (2017). *Statistical Publishing House*, p. 16. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target="_blank"}
