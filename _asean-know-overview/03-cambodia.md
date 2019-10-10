@@ -58,44 +58,24 @@ The number of tourists visiting Cambodia has been steadily increasing, from 2.9 
 ---
 ### **References**
 
-[^1]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [External link](https://www.britannica.com/place/Cambodia){:target="_blank"}
-
-[^2]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target="_blank"}
-
-[^3]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target=”_blank”}
-
-[^4]: Cambodia Geography. (2018). Tourism of Cambodia. Retrieved June 26, 2018, from [https://www.britannica.com](http://www.tourismcambodia.com/about-cambodia/geography.htm){:target=”_blank”}
-
-[^5]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [https://www.britannica.com](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target=”_blank”}
-
-[^6]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target=”_blank”}
-
-[^7]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target=”_blank”}
-
-[^8]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target=”_blank”}
-
-[^9]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [http://www.nis.gov.kh](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target=”_blank”}
-
-[^10]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [http://www.nis.gov.kh](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target=”_blank”}
-
-[^11]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target=”_blank”}
-
-[^12]: Phnom Penh – French Built City. (2017). Tourism Cambodia. Retrieved October 16, 2017, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/attractions/phnompenh.htm){:target=”_blank”}
-
-[^13]: Battambang. (2017). Tourism Cambodia. Retrieved October 16, 2017, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/travelguides/provinces/battambang.htm){:target=”_blank”}
-
-[^14]: Siem Reap. (2017). Siem Reap Tourism Website. Retrieved October 16, 2017, from [http://www.siemreap.me](http://www.siemreap.me/information/){:target=”_blank”}
-
-[^15]: Cambodia: Sustaining strong growth for the benefit of all. (2017). World Bank Group. Retrieved October 16, 2017, from [https://openknowledge.worldbank.org](https://openknowledge.worldbank.org/bitstream/handle/10986/27149/Cambodia-SCD-May-9-SEPCO-05242017.pdf?sequence=5&isAllowed=y){:target=”_blank”}
-
-[^16]: Economic Situation. (2017). Council for the Development of Cambodia. Retrieved October 16, 2017, from [http://www.cambodiainvestment.gov.kh](http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target=”_blank”}
-
-[^17]: Economic Situation. (2017). Council for the Development of Cambodia. Retrieved October 16, 2017, from [http://www.cambodiainvestment.gov.kh](http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target=”_blank”}
-
-[^18]: Cambodia: Sustaining strong growth for the benefit of all. (2017). World Bank Group. Retrieved October 16, 2017, from [https://openknowledge.worldbank.org](https://openknowledge.worldbank.org/bitstream/handle/10986/27149/Cambodia-SCD-May-9-SEPCO-05242017.pdf?sequence=5&isAllowed=y){:target=”_blank”}
-
-[^19]: Cambodia Services. (2017). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia/Trade){:target=”_blank”}
-
-[^20]: Tourism Statistics Report. (2017). Ministry of Tourism, Cambodia. Retrieved July 16, 2018, from [http://cambodia-tourism.org](http://cambodia-tourism.org/my_content/uploads/2018/06/tourism_statistics_2017.pdf){:target=”_blank”}
-
-[^21]: Key figures and their forecasts for Cambodia’s economy in 2017. (2016, December 30). Khmer Times. Retrieved October 16, 2017, from [http://www.khmertimeskh.com](http://www.khmertimeskh.com/news/33767/key-figures-and-their-forecasts-for-cambodia—s-economy-in-2017/){:target=”_blank”}
+[^1]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target=”_blank”}
+[^2]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target=”_blank”}
+[^3]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target=”_blank”}
+[^4]: Cambodia Geography. (2018). Tourism of Cambodia. Retrieved June 26, 2018, from [http://www.tourismcambodia.com/about-cambodia/geography.htm](http://www.tourismcambodia.com/about-cambodia/geography.htm){:target=”_blank”}
+[^5]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target=”_blank”}
+[^6]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target=”_blank”}
+[^7]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target=”_blank”}
+[^8]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target=”_blank”}
+[^9]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target=”_blank”}
+[^10]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target=”_blank”}
+[^11]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target=”_blank”}
+[^12]: Phnom Penh – French Built City. (2017). Tourism Cambodia. Retrieved October 16, 2017, from [http://www.tourismcambodia.com/attractions/phnompenh.htm](http://www.tourismcambodia.com/attractions/phnompenh.htm){:target=”_blank”}
+[^13]: Battambang. (2017). Tourism Cambodia. Retrieved October 16, 2017, from [http://www.tourismcambodia.com/travelguides/provinces/battambang.htm](http://www.tourismcambodia.com/travelguides/provinces/battambang.htm){:target=”_blank”}
+[^14]: Siem Reap. (2017). Siem Reap Tourism Website. Retrieved October 16, 2017, from [http://www.siemreap.me/information/](http://www.siemreap.me/information/){:target=”_blank”}
+[^15]: Cambodia: Sustaining strong growth for the benefit of all. (2017). World Bank Group. Retrieved October 16, 2017, from [https://openknowledge.worldbank.org/bitstream/handle/10986/27149/Cambodia-SCD-May-9-SEPCO-05242017.pdf?sequence=5&isAllowed=y](https://openknowledge.worldbank.org/bitstream/handle/10986/27149/Cambodia-SCD-May-9-SEPCO-05242017.pdf?sequence=5&isAllowed=y){:target=”_blank”}
+[^16]: Economic Situation. (2017). Council for the Development of Cambodia. Retrieved October 16, 2017, from [http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html](http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target=”_blank”}
+[^17]: Economic Situation. (2017). Council for the Development of Cambodia. Retrieved October 16, 2017, from [http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html](http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target=”_blank”}
+[^18]: Cambodia: Sustaining strong growth for the benefit of all. (2017). World Bank Group. Retrieved October 16, 2017, from [https://openknowledge.worldbank.org/bitstream/handle/10986/27149/Cambodia-SCD-May-9-SEPCO-05242017.pdf?sequence=5&isAllowed=y](https://openknowledge.worldbank.org/bitstream/handle/10986/27149/Cambodia-SCD-May-9-SEPCO-05242017.pdf?sequence=5&isAllowed=y){:target=”_blank”}
+[^19]: Cambodia Services. (2017). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia/Trade](https://www.britannica.com/place/Cambodia/Trade){:target=”_blank”}
+[^20]: Tourism Statistics Report. (2017). Ministry of Tourism, Cambodia. Retrieved July 16, 2018, from [http://cambodia-tourism.org/my_content/uploads/2018/06/tourism_statistics_2017.pdf](http://cambodia-tourism.org/my_content/uploads/2018/06/tourism_statistics_2017.pdf){:target=”_blank”}
+[^21]: Key figures and their forecasts for Cambodia’s economy in 2017. (2016, December 30). Khmer Times. Retrieved October 16, 2017, from [http://www.khmertimeskh.com/news/33767/key-figures-and-their-forecasts-for-cambodia---s-economy-in-2017/](http://www.khmertimeskh.com/news/33767/key-figures-and-their-forecasts-for-cambodia—s-economy-in-2017/){:target=”_blank”}
