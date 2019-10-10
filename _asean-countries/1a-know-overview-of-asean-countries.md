@@ -5,7 +5,7 @@ permalink: /asean-countries/know/overview-of-asean-countries/
 breadcrumb: Overview of ASEAN Countries
 collection_name: asean-countries
 second_nav_title: "Know"
-typora-root-url: ..\images\asean-countries
+
 ---
 The Association of Southeast Asian Nations, or ASEAN, is a regional organization comprising ten Southeast Asian nations that promotes economic growth, social progress, cultural development and cooperation in the region. ASEAN fosters a peaceful community of nations that is strengthened by active collaboration and close ties with one another.
 
@@ -260,5 +260,5 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 
 
 
-![](/5 keys to understanding China - A Samsung veteran shares how to succeed in China.jpg)
+![Book Cover 1](/images/asean-countries/A Biography of innovations - From birth to maturity-1570683701302.jpg)
 
