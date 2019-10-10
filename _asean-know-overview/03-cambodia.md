@@ -60,7 +60,7 @@ The number of tourists visiting Cambodia has been steadily increasing, from 2.9 
 
 [^1]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [External link](https://www.britannica.com/place/Cambodia){:target="_blank"}
 
-[^2]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target=”_blank”}
+[^2]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com/place/Cambodia](https://www.britannica.com/place/Cambodia){:target="_blank"}
 
 [^3]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target=”_blank”}
 
