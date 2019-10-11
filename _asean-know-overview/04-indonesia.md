@@ -13,7 +13,7 @@ This article provides an overview of Indonesia for those keen on exploring the p
 ### **Key facts**
 
 - **Official name:** Republic of Indonesia (Republik Indonesia)
-- **Capital:** Jakarta1
+- **Capital:** Jakarta[^1]
 - **Geography:** 34 provinces
 - **Land area:** 1,916,862.20 sq km2
 - **Population (2017):** 261.9 million3
@@ -67,7 +67,55 @@ International tourist arrivals in Indonesia reached 14.04 million in 2017, up fr
 
 Indonesia also promotes itself as a key halal destination in the region by developing areas such as Banda Aceh, Aceh Besar, Sabang, and Lake Laut Tawar.24 Apart from luring Muslim tourists, it is also seeking to develop international medical tourism.25
 
+[^1]:ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from http://asean.org/asean/asean-member-states/
 
+2Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+3Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+4Profil presiden  Republik Indonesia. (2017). *Kementerian Sekretariat Negara Republik Indonesia.* Retrieved October 17, 2017, from http://indonesia.go.id/?page_id=439
+
+5ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from http://asean.org/asean/asean-member-states/
+
+6Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+7Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+8Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, pp. 3-4*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+9About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 17, 2017, from http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx
+
+10UNESCO Jakarta marks “Batik Day” by wearing batik to work. (2017, October 3). *UNESCO Jakarta Regional Science Bureau for Asia and the Pacific.* Retrieved October 17, 2017, from http://www.unesco.org/new/en/jakarta/about-this-office/single-view/news/unesco_jakarta_marks_batik_day_by_wearing_batik_to_wor/
+
+11Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+12World development indicators. (2018). *The World Bank*. Retrieved September 11, 2018, from https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?end=2016&locations=ID&start=1996&view=chart
+
+13Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 87*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+14Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 85*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+15Kewarganegaraan, suku bangsa, agama dan bahasa sehari-hari penduduk Indonesia: Hasil sensus penduduk 2010. (2011). *Badan Pusat Statistik*, pp. 8-9. Retrieved September 11, 2018, from http://demografi.bps.go.id/phpfiletree/bahan/kumpulan_tugas_mobilitas_pak_chotib/Kelompok_1/Referensi/BPS_kewarganegaraan_sukubangsa_agama_bahasa_2010.pdf; Yuniarni, S. (2016, July 16). Unity in diversity: Indonesia’s six largest ethnic groups. *Jakarta Globe.* Retrieved September 11, 2018, from http://jakartaglobe.id/features/unity-diversity-indonesias-six-largest-ethnic-groups/
+
+16Tan, G., & Ong, S. Y. (2017, September 30). Going east- Indonesia beyond Jakarta: Opportunities in Central and East Indonesia. *IE Insights. 30*. Retrieved October 17, 2017, from https://www.iesingapore.gov.sg/-/media/IE-Singapore/Files/Publications/IE-Insights/Vol30_Indonesia_v5.ashx
+
+17Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+18Lee, J. S. (2015, April 21). Indonesia’s new administration: Infrastructure and manufacturing opportunities. *IE Singapore.* Retrieved October 17, 2017, from [https://www.iesingapore.gov.sg/~/media/IE%20Singapore/Files/Publications/IE%20Insights/Vol%2021%20Indonesia%20New%20Administration%20Infrastructure%20and%20Manufacturing%20Opportunities.pdf](https://www.iesingapore.gov.sg/~/media/IE Singapore/Files/Publications/IE Insights/Vol 21 Indonesia New Administration Infrastructure and Manufacturing Opportunities.pdf)
+
+19ASEAN in focus: The Indonesian consumer market. (2017, February 15). *HKTDC Business.* Retrieved October 17, 2017, from http://hkmb.hktdc.com/en/1X0A91HG/hktdc-research/ASEAN-in-Focus-The-Indonesian-Consumer-Market
+
+20About Indonesia. (2018, July 17). *Ministry of Tourism, Republic of Indonesia.* Retrieved September 11, 2018, from https://www.indonesia.travel/gb/en/general-information/about-indonesia; Bali Indonesia. (2018). *Ministry of Tourism, Republic of Indonesia.* Retrieved September 11, 2018, from https://www.indonesia.travel/gb/en/destinations/bali-nusa-tenggara/bali
+
+21Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 377*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+
+22Soeriaatmadja, W. (2017, April 12). Indonesia targets tourism growth to boost revenue. *The Straits Times.* Retrieved October 17, 2017, from http://www.straitstimes.com/asia/se-asia/indonesia-targets-tourism-growth-to-boost-revenue
+
+23Tourism sector Indonesia: Rising foreign exchange earnings. (2017, January 22). *Indonesia Investments.* Retrieved October 17, 2017, from https://www.indonesia-investments.com/news/todays-headlines/tourism-sector-indonesia-rising-foreign-exchange-earnings/item7547?
+
+24Ragavan, S. (2017, September 13). Indonesia targets China for promotion of halal tourism. *Asian Respondent.* Retrieved October 17, 2017, from https://asiancorrespondent.com/2017/09/indonesia-targets-china-promotion-halal-tourism/#rLrxiFBPbOYE3zq3.97
+
+25Tourism and health ministries to develop medical tourism in Indonesia. (2017, September 27). *The Jakarta Post.* Retrieved October 17, 2017, from [http://www.thejakartapost.com/travel/2017/09/27/tourism-and-health-ministries-to-develop-medical-tourism-i  n-indonesia.html](http://www.thejakartapost.com/travel/2017/09/27/tourism-and-health-ministries-to-develop-medical-tourism-in-indonesia.html)
 
 ---
 ### **References**
