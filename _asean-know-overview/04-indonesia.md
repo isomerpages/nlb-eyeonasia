@@ -67,11 +67,11 @@ International tourist arrivals in Indonesia reached 14.04 million in 2017, up fr
 
 Indonesia also promotes itself as a key halal destination in the region by developing areas such as Banda Aceh, Aceh Besar, Sabang, and Lake Laut Tawar.24 Apart from luring Muslim tourists, it is also seeking to develop international medical tourism.25
 
-[^1]:ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from http://asean.org/asean/asean-member-states/
+[^1]:ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from <http://asean.org/asean/asean-member-states/>{:target="_blank"}
 
-2Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+2Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from <https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html>{:target="_blank"}
 
-3Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+3Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from <https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html>{:target="_blank"}
 
 4Profil presiden  Republik Indonesia. (2017). *Kementerian Sekretariat Negara Republik Indonesia.* Retrieved October 17, 2017, from http://indonesia.go.id/?page_id=439
 
@@ -95,7 +95,7 @@ Indonesia also promotes itself as a key halal destination in the region by devel
 
 14Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 85*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
 
-15Kewarganegaraan, suku bangsa, agama dan bahasa sehari-hari penduduk Indonesia: Hasil sensus penduduk 2010. (2011). *Badan Pusat Statistik*, pp. 8-9. Retrieved September 11, 2018, from http://demografi.bps.go.id/phpfiletree/bahan/kumpulan_tugas_mobilitas_pak_chotib/Kelompok_1/Referensi/BPS_kewarganegaraan_sukubangsa_agama_bahasa_2010.pdf; Yuniarni, S. (2016, July 16). Unity in diversity: Indonesia’s six largest ethnic groups. *Jakarta Globe.* Retrieved September 11, 2018, from http://jakartaglobe.id/features/unity-diversity-indonesias-six-largest-ethnic-groups/
+15Kewarganegaraan, suku bangsa, agama dan bahasa sehari-hari penduduk Indonesia: Hasil sensus penduduk 2010. (2011). *Badan Pusat Statistik*, pp. 8-9. Retrieved September 11, 2018, from <http://demografi.bps.go.id/phpfiletree/bahan/kumpulan_tugas_mobilitas_pak_chotib/Kelompok_1/Referensi/BPS_kewarganegaraan_sukubangsa_agama_bahasa_2010.pdf>; Yuniarni, S. (2016, July 16). Unity in diversity: Indonesia’s six largest ethnic groups. *Jakarta Globe.* Retrieved September 11, 2018, from <http://jakartaglobe.id/features/unity-diversity-indonesias-six-largest-ethnic-groups/>
 
 16Tan, G., & Ong, S. Y. (2017, September 30). Going east- Indonesia beyond Jakarta: Opportunities in Central and East Indonesia. *IE Insights. 30*. Retrieved October 17, 2017, from https://www.iesingapore.gov.sg/-/media/IE-Singapore/Files/Publications/IE-Insights/Vol30_Indonesia_v5.ashx
 
