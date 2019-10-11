@@ -41,7 +41,17 @@ Under the AEC, Singapore manufacturers can export to other ASEAN countries witho
 
 [^7]: Foo, M.Y., Koh, W.L., Lai, S.H., & Lam,m Y.Y. (2015, May). ASEAN Economic Community: Opportunities through economic integration in Southeast Asia. *22. IE Insights.* Retrieved December 15, 2017, from <https://www.iesingapore.gov.sg/-/media/IE-Singapore/Files/Publications/IE-Insights/Vol22_ASEAN_Economic_Community_Opportunities_through_Economic_Integration_in_Southeast_Asia.ashx>{:target="_blank"}
 
-
+| Country           | Land Area (sq km)  | Population                 | National / Official Language(s)                           | Currency              | GDP                                                          | GDP Per Capita                           |
+| ----------------- | ------------------ | -------------------------- | --------------------------------------------------------- | --------------------- | ------------------------------------------------------------ | ---------------------------------------- |
+| Brunei Darussalam | 5,765[^8]          | 0.422678 million[^9]       | Malay[^10]                                                | Brunei Dollar[^11]    | BND 15,747 billion (2016)[^12]                               | BND 37,257 (2016)[^13]                   |
+| Cambodia          | 176,520[^14]       | 14.976 million[^15]        | Khmer[^16]                                                | Riel[^17]             | KHR 74,423 billion (2015)[^18]                               | KHR 4,903 (2015)[^19]                    |
+| Indonesia         | 1,913,578.68[^20]  | 258.7 million (2016)[^21]  | Bahasa Indonesia[^22]                                     | Rupiah[^23]           | IDR 12,406.8 trillion[^24]                                   | IDR 47,9574 million (2016)[^25]          |
+| Lao PDR           | 236,800[^26]       | 6.9 million[^27]           | Lao[^28]                                                  | Kip[^29]              | USD 15.903 billion (2016)[^30]                               | USD 2,353.15 (2016)[^31]                 |
+| Malaysia          | 330,713[^32]       | 31.63 million[^33]         | Bahasa Malaysia[^34]                                      | Ringgit Malaysia[^35] | RM 1,108.2 billion (2016)[^36]                               | RM 38,887 (2016)[^37]                    |
+| Myanmar           | 676,552.69738[^38] | 51.49 million (2015)[^39]  | Burmese[^40]                                              | Kyat[^41]             | Kyat 65,437,095.3 (2014-2015)[^42]                           | Kyat 1,265,659 (2015)[^43]               |
+| Philippines       | 343,448[^44]       | 100.98 million (2015)[^45] | Filipino (national and official); English (official)[^46] | Peso[^47]             | USD 329.716 billion (2017)[^48]                              | USD 3,102.362 (2017)[^49]                |
+| Thailand          | 513,119[^50]       | 67.2 million (2015)[^51]   | Thai[^52]                                                 | Baht[^53]             | THB 13,537.5 billion (2015)[^54]                             | THB 201,343 (2015)[^55]                  |
+| Vietnam           | 331,230[^56]       | 92.7 million (2016)[^57]   | Vietnamese[^58]                                           | Dong[^59]             | VND 4,502.7 trillion (2016) (US$ equivalent not available)[^60] | VND 48.6 million / US$ 2,215 (2016)[^61] |
 
 [^8]: About Brunei. (2015). *Prime Minister’s Office Brunei Darussalam.* Retrieved November 1, 2017, from <http://www.pmo.gov.bn/Pages/AboutBrunei.aspx>{:target="_blank"}
 [^9]: Population. (2017). *Department of Economic Planning and Development.* Retrieved November 1, 2017, from <http://www.depd.gov.bn/SitePages/Population.aspx>{:target="_blank"}
