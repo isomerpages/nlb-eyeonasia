@@ -37,7 +37,7 @@ In 2015, the ASEAN Economic Community (AEC) was established to promote regional 
 
 [^6]: ASEAN economic community. (n.d.). *Association of Southeast Asian Nations.* Retrieved December 15, 2017, from <http://asean.org/asean-economic-community/>{:target="_blank"}
 
-Under the AEC, Singapore manufacturers can export to other ASEAN countries without having to pay tariffs for most products, thus improving manufacturers’ access to these countries. In addition, the freer flow of goods within ASEAN should reduce manufacturing and production costs due to lower costs for raw materials or inputs sourced within the region, thereby increasing the competitiveness of Singapore-manufactured goods.[^7]
+Under the AEC, Singapore manufacturers can export to other ASEAN countries without having to pay tariffs for most products, thus improving manufacturers’ access to these countries. In addition, the freer flow of goods within ASEAN should reduce manufacturing and production costs due to lower costs for raw materials or inputs sourced within the region, thereby increasing the competitiveness of Singapore-manufactured goods.
 
 [^7]: Foo, M.Y., Koh, W.L., Lai, S.H., & Lam,m Y.Y. (2015, May). ASEAN Economic Community: Opportunities through economic integration in Southeast Asia. *22. IE Insights.* Retrieved December 15, 2017, from <https://www.iesingapore.gov.sg/-/media/IE-Singapore/Files/Publications/IE-Insights/Vol22_ASEAN_Economic_Community_Opportunities_through_Economic_Integration_in_Southeast_Asia.ashx>{:target="_blank"}
 
