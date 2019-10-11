@@ -6,7 +6,7 @@ breadcrumb: Brunei - A country profile
 collection_name: asean-know-overview
 ---
 
-<img src="\images\asean-countries\Brunei-Snapshot-370x150.jpg" alt="Brunei snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Brunei snapshot cover iso.jpg" alt="Brunei snapshot banner" style="width:800px;" />
 
 This article provides an overview of Brunei for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
