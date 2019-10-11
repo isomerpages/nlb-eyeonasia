@@ -52,12 +52,7 @@ Bilateral trade between Singapore and Lao PDR amounted to US$51 million in 2016.
 
 ### **Tourism**
 
-<img src="/images/asean-countries/Kuang-Si-Falls.jpg" alt="Laos snapshot image 1" style="width:400px;" />
-
-<p align="middle">Kuang Si Falls. Image source: Pixabay.com</p>
-
 <div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Kuang-Si-Falls.jpg" alt="Laos snapshot image 1" width="width" height="height" style="padding-bottom:0.5em; width:400px;" />Kuang Si Falls. Image source: Pixabay.com</div>
-
 Tourist arrivals grew from 1,095,315 in 2005 to 4,684,429 in 2015, averaging 16.45 percent year-on year. However, visitor arrivals decreased to 4,239,047 and 3,868,838 in 2016 and 2017 respectively, thus registering a 10 percent and 8,73 percent decline respectively. On average, their average length of stay between 2007 and 2017 was 4.7 days. In 2017, tourism receipts amounted to around US$648 million, which is a decrease from US$724,191,957 received in 2016. Chinese tourists form the largest source of tourist arrivals, with its 639,185 nationals accounting for 16.52 percent of all visitor arrivals in Lao PDR in 2017. Singapore accounted for 6,829 visitors or 0.18 percent of tourist arrivals during the same period.²⁰
 
  
