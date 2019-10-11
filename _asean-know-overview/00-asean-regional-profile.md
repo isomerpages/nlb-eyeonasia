@@ -37,7 +37,7 @@ In 2015, the ASEAN Economic Community (AEC) was established to promote regional 
 
 [^6]: ASEAN economic community. (n.d.). *Association of Southeast Asian Nations.* Retrieved December 15, 2017, from <http://asean.org/asean-economic-community/>{:target="_blank"}
 
-Under the AEC, Singapore manufacturers can export to other ASEAN countries without having to pay tariffs for most products, thus improving manufacturers’ access to these countries. In addition, the freer flow of goods within ASEAN should reduce manufacturing and production costs due to lower costs for raw materials or inputs sourced within the region, thereby increasing the competitiveness of Singapore-manufactured goods.[^7][^59]
+Under the AEC, Singapore manufacturers can export to other ASEAN countries without having to pay tariffs for most products, thus improving manufacturers’ access to these countries. In addition, the freer flow of goods within ASEAN should reduce manufacturing and production costs due to lower costs for raw materials or inputs sourced within the region, thereby increasing the competitiveness of Singapore-manufactured goods.[^7]
 
 [^7]: Foo, M.Y., Koh, W.L., Lai, S.H., & Lam,m Y.Y. (2015, May). ASEAN Economic Community: Opportunities through economic integration in Southeast Asia. *22. IE Insights.* Retrieved December 15, 2017, from <https://www.iesingapore.gov.sg/-/media/IE-Singapore/Files/Publications/IE-Insights/oksoyouretryingtotellmeifmyurlisveryverylongthepagewilljustnot-formatproperlyandwillgoallthewaytotheright-areyousure/>{:target="_blank"}
 
@@ -94,7 +94,7 @@ Under the AEC, Singapore manufacturers can export to other ASEAN countries witho
 [^56]: Statistical yearbook of Viet Nam 2016 – Population and employment. (2017). *Statistical Publishing House*, p. 77. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target="_blank"}
 [^57]: Statistical yearbook of Viet Nam 2016 – Foreword. (2017). *Statistical Publishing House*, p. 20. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target="_blank"}
 [^58]: Vietnamese language history. (2017). *Vietnam Culture*. Retrieved October 31, 2017, from <http://www.vietnam-culture.com/vietnamese-language-history.aspx>{:target="_blank"}
-[^59]: Exchange Rate. (2017). *The State Bank of Vietnam*. Retrieved October 31, 2017, from <https://www.sbv.gov.vn/webcenter/portal/en/home/rm/er?_afrLoop=413306837040000#%40%3F_afrLoop%3D413306837040000%26centerWidth%3D80%2525%26leftWidth%3D20%2525%26rightWidth%3D0%2525%26showFooter%3Dfalse%26showHeader%3Dfalse%26_adf.ctrl-state%3Dxjw78a3k1_172/>{:target="_blank"}
+[^59]: Exchange Rate. (2017). *The State Bank of Vietnam*. Retrieved October 31, 2017, from <https://www.sbv.gov.vn/webcenter/portal/en/home/rm/er?_afrLoop=413306837040000#%40%3F_afrLoop%3D413306837040000%26centerWidth%3D80%2525%26leftWidth%3D20%2525%26rightWidth%3D0%2525%26showFooter%3Dfalse%26showHeader%3Dfalse%26_adf.ctrl-state%3Dxjw78a3k1_172>{:target="_blank"}
 [^60]: Statistical yearbook of Viet Nam 2016 – Foreword. (2017). *Statistical Publishing House*, p. 16. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target="_blank"}
 [^61]: Statistical yearbook of Viet Nam 2016 – Foreword. (2017). *Statistical Publishing House*, p. 16. Retrieved October 31, 2017, from <https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533>{:target="_blank"}
 ---
