@@ -95,6 +95,8 @@ Tourist arrivals grew from 1,095,315 in 2005 to 4,684,429 in 2015, averaging 16.
 
 *²⁰*Statistical report on tourism in Thailand 2017. (2018). *Tourism Marketing Department, Ministry of Information, Culture and Tourism.* Retrieved March 11, 2019, from [http://www.tourismlaos.org/files/files/Statistical%20Report%20on%20Tourism%20in%20Laos/2017%20Statistical%20Report%20on%20tourism%20in%20Laos.pdf](http://www.tourismlaos.org/files/files/Statistical Report on Tourism in Laos/2017 Statistical Report on tourism in Laos.pdf)
 
+
+
 ---
 
 ### **References**
