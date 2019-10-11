@@ -56,14 +56,3 @@ Thailand is home to Buddhist temples, exotic wildlife and spectacular islands. I
 ---
 
 ### **References**
-
-- **Official** **name**: Kingdom of Thailand1
-- Capital: Bangkok2
-- Geography: 77 provinces and two special local territories – Bangkok and Pattaya3
-- Land area (2018): 513,120 sq km4
-- Population (2017): 66.19 million5
-- Head of government: Prime Minister General Prayut Chan-o-cha6
-- National language: Thai7
-- Currency: Thai Baht (THB)
-- Gross domestic product (GDP) (2017): 15,450.1 billion baht8
-- GDP per capita (2017): 228,373 baht9
