@@ -12,16 +12,22 @@ This is a selection of resources on Discovering Yangon available from the NLB ca
 
 ### **You may also like**
 
-<a href=" https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf" target="blank"><img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:200px;" /></a>
-
+<table>
+<tr>
+<td>
+<img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:200px;" />
 <a href=" https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf" target="blank">**Doing business in Yangon 2018**</a>
 
 Yangon is home to over seven million people and its youthful and educated population is expected to reach 10 million by 2030. It serves as the country’s financial centre and logistics hub. This guide gives readers an overview of the information that would be handy if they are going to do business and provide insights on opportunities in certain key sectors in Yangon.
+</td>
 
-
-
+<td>
 <img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:200px;" />
 
 **Invest Myanmar: Yangon**
 
 This website provides an overview of the Yangon region, home of the Thilawa Special Economic Zone. While Burmese is the primary language used, English is the main second language. The website also outlines the key cities, demographics and major industries found there.
+</td>
+</tr>
+
+</table>
