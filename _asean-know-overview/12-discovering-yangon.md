@@ -35,3 +35,9 @@ This article looks at the major issues confronting Yangon as it develops, such a
 **Myanmar’s Yangon International Airport reveals growth plans**
 
 Currently serving 31 airlines, Yangon International Airport is scheduled for upgrades so as to accommodate more international flights, despite experiencing its slowest growth rate in passenger traffic in five years.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hdlZIGRiz5U?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Yangon, Myanmar 2019**
+
+This video provides an overview of the city of Yangon, including its architecture, green spaces, accommodation and tourist spots.
