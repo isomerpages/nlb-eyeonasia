@@ -35,8 +35,3 @@ This article looks at the major issues confronting Yangon as it develops, such a
 **Myanmar’s Yangon International Airport reveals growth plans**
 
 Currently serving 31 airlines, Yangon International Airport is scheduled for upgrades so as to accommodate more international flights, despite experiencing its slowest growth rate in passenger traffic in five years.
-
-| <img src="/images/resources/Article 3.jpg" alt="article icon 3" style="heigth:200px;" /> | <img src="/images/resources/Article 4.jpg" alt="article icon 4" style="height:200px;" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <a href=" https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf" target="blank">**Doing business in Yangon 2018**</a><br />Yangon is home to over seven million people and its youthful and educated population is expected to reach 10 million by 2030. It serves as the country’s financial centre and logistics hub. This guide gives readers an overview of the information that would be handy if they are going to do business and provide insights on opportunities in certain key sectors in Yangon. | **Invest Myanmar: Yangon**<br />This website provides an overview of the Yangon region, home of the Thilawa Special Economic Zone. While Burmese is the primary language used, English is the main second language. The website also outlines the key cities, demographics and major industries found there. |
-
