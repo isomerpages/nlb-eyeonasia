@@ -149,7 +149,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/overview/yangon-a-city-profile/" class="project-link">
+			<a href="/asean-countries/know/overview-of-asean-countries/yangon-a-city-profile/" class="project-link">
 				<img src="/images/asean-countries/Yangon-A-profile-370x150.jpg" alt="Yangon: A City Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
