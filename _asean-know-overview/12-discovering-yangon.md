@@ -43,3 +43,13 @@ Currently serving 31 airlines, Yangon International Airport is scheduled for upg
 **Yangon, Myanmar 2019**
 
 This video provides an overview of the city of Yangon, including its architecture, green spaces, accommodation and tourist spots.
+
+<table class="table-v">
+  <tr>
+    <td><img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:200px;" /> </td>
+    <td>
+		<h4><a href=" https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf" target="blank">**Doing business in Yangon 2018**</a></h4><br/>
+		Yangon is home to over seven million people and its youthful and educated population is expected to reach 10 million by 2030. It serves as the country’s financial centre and logistics hub. This guide gives readers an overview of the information that would be handy if they are going to do business and provide insights on opportunities in certain key sectors in Yangon.
+	</td>
+  </tr>
+</table>
