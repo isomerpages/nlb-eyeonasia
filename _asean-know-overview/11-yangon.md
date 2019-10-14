@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Yangon - A country profile
-permalink: /asean-countries/know/overview-of-asean-countries/yangon-a-country-profile/
+title: Yangon - A city profile
+permalink: /asean-countries/know/overview-of-asean-countries/yangon-a-city-profile/
 breadcrumb: Yangon - A city profile
 collection_name: asean-know-overview
 ---
@@ -12,15 +12,11 @@ This article provides an overview of Yangon for those keen on exploring the poss
 
 ### **Key facts**
 
-Land area: 598.75 sq km¹
-
-Population (2014): 7.361 million²
-
-Mayor: U Maung Maung Soe³
-
-National language:
-
-Currency: Kyat⁴
+- **Land area**: 598.75 sq km¹
+- **Population (2014)**: 7.361 million²
+- **Mayor**: U Maung Maung Soe³
+- **National language**:
+- **Currency**: Kyat⁴
 
 ### **Introduction**
 
