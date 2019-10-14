@@ -12,5 +12,5 @@ This is a selection of resources on Discovering Yangon available from the NLB ca
 
 ### **You may also like**
 
-<img src="/images/resources/Article 3.jpg" alt="article icon 3" />
+<img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:200px;" />
 
