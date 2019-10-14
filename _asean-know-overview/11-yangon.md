@@ -6,7 +6,7 @@ breadcrumb: Yangon - A city profile
 collection_name: asean-know-overview
 ---
 
-<img src="/images/asean-countries/Yangon snapshot iso.jpg" alt="Laos snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Yangon snapshot iso.jpg" alt="Yangon snapshot banner" style="width:800px;" />
 
 This article provides an overview of Yangon for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
