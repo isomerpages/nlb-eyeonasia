@@ -14,3 +14,6 @@ This is a selection of resources on Discovering Yangon available from the NLB ca
 
 <img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:200px;" />
 
+**Doing business in Yangon 2018**
+
+Yangon is home to over seven million people and its youthful and educated population is expected to reach 10 million by 2030. It serves as the country’s financial centre and logistics hub. This guide gives readers an overview of the information that would be handy if they are going to do business and provide insights on opportunities in certain key sectors in Yangon.
