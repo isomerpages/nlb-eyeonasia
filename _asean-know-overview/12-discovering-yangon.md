@@ -20,7 +20,7 @@ Yangon is home to over seven million people and its youthful and educated popula
 
 <img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:200px;" />
 
-**Invest Myanmar: Yangon**
+[**Invest Myanmar: Yangon**](https://investmyanmar2019.com/regions/yangon/){:target="_blank"}
 
 This website provides an overview of the Yangon region, home of the Thilawa Special Economic Zone. While Burmese is the primary language used, English is the main second language. The website also outlines the key cities, demographics and major industries found there.
 
