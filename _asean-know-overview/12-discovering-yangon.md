@@ -14,7 +14,7 @@ This is a selection of resources on Discovering Yangon available from the NLB ca
 
 <img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:200px;" />
 
-<a href=" https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf" target="blank">**Doing business in Yangon 2018**</a>
+[**Doing business in Yangon 2018**](https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf){:target="_blank"}
 
 Yangon is home to over seven million people and its youthful and educated population is expected to reach 10 million by 2030. It serves as the country’s financial centre and logistics hub. This guide gives readers an overview of the information that would be handy if they are going to do business and provide insights on opportunities in certain key sectors in Yangon.
 
@@ -64,7 +64,7 @@ This video provides an overview of the city of Yangon, including its architectur
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdlZIGRiz5U?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></td>
     <td width="60%">
-		<h4>Yangon, Myanmar 2019<</h4><br/>
+		<h4>Yangon, Myanmar 2019</h4><br/>
 		This video provides an overview of the city of Yangon, including its architecture, green spaces, accommodation and tourist spots.
 	</td>
   </tr>
