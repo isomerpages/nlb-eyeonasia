@@ -26,13 +26,13 @@ This website provides an overview of the Yangon region, home of the Thilawa Spec
 
 <img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:200px;" />
 
-**The new Yangon city project: An urban planner’s view**
+[**The new Yangon city project: An urban planner’s view**](http://www.vdb-loi.com/wp-content/uploads/2018/09/Energy-and-Infrastructure-Myanmar-Update-2018.pdf){:target="_blank"}
 
 This article looks at the major issues confronting Yangon as it develops, such as the need for more land (Yangon is currently about 207 square kilometres) for present and future activities; rising land and accommodation costs; and the state of Yangon’s infrastructure.
 
 <img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:200px;" />
 
-**Myanmar’s Yangon International Airport reveals growth plans**
+[**Myanmar’s Yangon International Airport reveals growth plans**](http://www.airport-world.com/news/general-news/6906-myanmar-s-yangon-international-airport-reveals-growth-plans.html){:target="_blank"}
 
 Currently serving 31 airlines, Yangon International Airport is scheduled for upgrades so as to accommodate more international flights, despite experiencing its slowest growth rate in passenger traffic in five years.
 
