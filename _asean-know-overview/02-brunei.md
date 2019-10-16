@@ -27,7 +27,7 @@ Brunei Darussalam is located at the northwestern part of the island of Borneo, f
 Brunei’s commitment to continued prosperity and stable macroeconomics is underscored by Wawasan 2035, its government’s national vision.[^7]  Wawasan 2035 provides for the promotion of investments both in downstream industries and economic clusters beyond the oil and gas industry.[^8] It comprises 13 strategies that include education, political stability and security, institutional development, local business development, infrastructure, social security, and environment.[^9]
 
 ### **Demographic Profile**
-<img src="/images/asean-countries/BN-ethnicgrps.png" alt="Brunei snapshot image 1" style="width:400px;" />
+<img src="/images/asean-countries/BN-ethnicgrps.png" alt="Brunei snapshot image 1" style="width:350px;" />
 In 2016, the Bruneian population was 422,678, up from 416,500 the previous year. Brunei citizens accounted for the largest share of the population with 76.8 percent (324,472 persons), while permanent residents and temporary residents made up eight percent (33,816 persons) and 15.2 percent (64,390 persons) of the population respectively. More than 71 percent of its population were aged between 15 and 64 years old, 22.3 percent were below 15 years of age and 5.9 percent were 65 years and older. Malays form the majority of the population at 65.7 percent.[^10]
 
 ### **Economic Profile**
@@ -81,7 +81,7 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 
 [^14]: ST Engineering secures $66.5mln project in Brunei. (2010, June 14). Singapore Business Review. Retrieved November 9, 2017, from [http://sbr.com.sg](http://sbr.com.sg/building-engineering/news/st-engineering-secures-665mln-project-in-brunei){:target="_blank"}
 
-[^15]: Construction. (2015). Greatearth. Retrieved November 9, 2017, from [http://www.greatearth.sg/bd-construction.php](http://www.greatearth.sg){:target="_blank"}
+[^15]: Construction. (2015). Greatearth. Retrieved November 9, 2017, from [http://www.greatearth.sg/](http://www.greatearth.sg/bd-construction.php){:target="_blank"}
 
 [^16]: The energy sector in Brunei Darussalam. (2017). Energy and Industry Department. Retrieved November 1, 2017, from [http://www.ei.gov.bn](http://www.ei.gov.bn/SitePages/Energy%20Sector%20in%20Brunei%20Darussalam.aspx){:target="_blank"}
 
