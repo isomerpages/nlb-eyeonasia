@@ -59,4 +59,13 @@ This video provides an overview of the city of Yangon, including its architectur
 		This website provides an overview of the Yangon region, home of the Thilawa Special Economic Zone. While Burmese is the primary language used, English is the main second language. The website also outlines the key cities, demographics and major industries found there.
 	</td>
   </tr>
+  <tr>
+    <td width="40%" valign="center"><div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hdlZIGRiz5U?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+    <td width="60%">
+		<h4>Yangon, Myanmar 2019<</h4><br/>
+		This video provides an overview of the city of Yangon, including its architecture, green spaces, accommodation and tourist spots.
+	</td>
+  </tr>
 </table>
