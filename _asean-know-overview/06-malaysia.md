@@ -92,13 +92,13 @@ In 2016, tourism brought 26.8 million international tourist arrivals who contrib
 
 [^22]:Explore Malaysia. (2017). Tourism Malaysia. Retrieved October 20, 2017, from [http://www.malaysia.travel](http://www.malaysia.travel/en/sg/places){:target="_blank"}
 
-[^23]:About Malaysia. (2017). Tourism Malaysia. Retrieved October 20, 2017, from http://www.malaysia.travel/en/sg/about-malaysia{:target="_blank"}
+[^23]:About Malaysia. (2017). Tourism Malaysia. Retrieved October 20, 2017, from [http://www.malaysia.travel](http://www.malaysia.travel/en/sg/about-malaysia){:target="_blank"}
 
-[^24]:Malaysia’s 2016 tourist arrivals grow 4.0%. (2017). Tourism Malaysia. Retrieved October 20, 2017, from http://www.tourism.gov.my/media/view/malaysia-s-2016-tourist-arrivals-grow-4-0; Tourism satellite account 2016. (2017, September 15). Department of Statistics Malaysia. Retrieved October 20, 2017, from https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=111&bul_id=c3FvNkJUL0VwaHB6SWMvY2w5NmFuZz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09{:target="_blank"}
+[^24]:Malaysia’s 2016 tourist arrivals grow 4.0%. (2017). Tourism Malaysia. Retrieved October 20, 2017, from [http://www.tourism.gov.my](http://www.tourism.gov.my/media/view/malaysia-s-2016-tourist-arrivals-grow-4-0){:target="_blank"}; Tourism satellite account 2016. (2017, September 15). Department of Statistics Malaysia. Retrieved October 20, 2017, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=111&bul_id=c3FvNkJUL0VwaHB6SWMvY2w5NmFuZz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
 
-[^25]:Tourism satellite account 2016. (2017, September 15). Department of Statistics Malaysia. Retrieved October 20, 2017, from https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=111&bul_id=c3FvNkJUL0VwaHB6SWMvY2w5NmFuZz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09{:target="_blank"}; Malaysia tourist arrivals by country of nationality December 2016. (2017). Tourism Malaysia. Retrieved October 20, 2017, from http://mytourismdata.tourism.gov.my/wp-content/uploads/2017/03/Top-45-Jan-Dec-2016-website.pdf{:target="_blank"}
+[^25]:Tourism satellite account 2016. (2017, September 15). Department of Statistics Malaysia. Retrieved October 20, 2017, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=111&bul_id=c3FvNkJUL0VwaHB6SWMvY2w5NmFuZz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}; Malaysia tourist arrivals by country of nationality December 2016. (2017). Tourism Malaysia. Retrieved October 20, 2017, from [http://mytourismdata.tourism.gov.my](http://mytourismdata.tourism.gov.my/wp-content/uploads/2017/03/Top-45-Jan-Dec-2016-website.pdf){:target="_blank"}
 
-[^26]:Idris Jala. (2016, April 11). Tourism a key economic sector at these difficult times. The Star Online. Retrieved January 31, 2018, from https://www.thestar.com.my/opinion/columnists/transformation-unplugged/2016/04/11/tourism-a-key-economic-sector/{:target="_blank"}
+[^26]:Idris Jala. (2016, April 11). Tourism a key economic sector at these difficult times. The Star Online. Retrieved January 31, 2018, from [https://www.thestar.com.my](https://www.thestar.com.my/opinion/columnists/transformation-unplugged/2016/04/11/tourism-a-key-economic-sector/){:target="_blank"}
 
 ---
 
