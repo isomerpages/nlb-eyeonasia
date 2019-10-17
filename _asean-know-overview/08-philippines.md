@@ -54,3 +54,53 @@ China was the country’s top trading partner during the first semester with a t
 The Philippines is described as a “safe and fun destination” for tourists. The Philippines Department of Tourism’s tagline is: “It’s more fun in the Philippines.” The country has many touristic offerings, including natural wonders; historical landmarks; culture and tradition; arts and crafts; shopping; and recreation and entertainment. Tourism activities thrive in the country’s different regions, each with its own unique  destinations and products.²¹
 
 For the month of May 2017, visitor arrivals reached a total of 532,757, an increase of 19.6 percent compared with the May 2016 visitor count of 445,449. This positive growth in arrivals can be attributed to aggressive marketing efforts as well as international events, such as the ASEAN@50 meetings, held in the country.²²
+
+[^]: 
+
+---
+
+### **References**
+
+[^1]:About the Philippines. (2017). Philippine Government Portal. Retrieved October 30, 2017, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"}
+
+[^2]:About the Philippines. (2017). Philippine Government Portal. Retrieved October 30, 2017, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"}
+
+[^3]:More islands, more fun in PH. (2016, February 20). CNN Philippines. Retrieved October 30, 2017, from [http://cnnphilippines.com](http://cnnphilippines.com/videos/2016/02/20/More-islands-more-fun-in-PH.html){:target="_blank"}
+
+[^4]:About the Philippines. (2017). Philippine Government Portal. Retrieved October 30, 2017, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"}
+
+[^5]:Highlights of the Philippine Population, 2015 Census of Population. (2015). Philippine Statistics Authority. Retrieved October 30, 2017, from [https://www.psa.gov.ph](https://www.psa.gov.ph/sites/default/files/attachments/hsd/pressrelease/2015%20population%20counts%20Summary_0.xlsx){:target="_blank"}
+
+[^6]:President Rodrigo Roa Duterte. (2017). Office of the President of the Philippines. Retrieved October 30, 2017, from <http://president.gov.ph/>{:target="_blank"}
+
+[^7]:About the Philippines. (2017). Philippine Government Portal. Retrieved October 30, 2017, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"}
+
+[^8]:About the Philippines. (2017). Philippine Government Portal. Retrieved October 30, 2017, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"}
+
+[^9]:Report for selected countries and subjects. (2017). International Monetary Fund. Retrieved October 30, 2017, from [http://www.imf.org](http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=59&pr.y=10&sy=2017&ey=2017&scsm=1&ssd=1&sort=country&ds=.&br=1&c=566&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=){:target="_blank"}
+
+[^10]:Report for selected countries and subjects. (2017). International Monetary Fund. Retrieved October 30, 2017, from [http://www.imf.org](http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=59&pr.y=10&sy=2017&ey=2017&scsm=1&ssd=1&sort=country&ds=.&br=1&c=566&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=){:target="_blank"}
+
+[^11]:More islands, more fun in PH. (2016, February 20). CNN Philippines. Retrieved October 30, 2017, from [http://cnnphilippines.com](http://cnnphilippines.com/videos/2016/02/20/More-islands-more-fun-in-PH.html){:target="_blank"}
+
+[^12]:Philippines. (2017). Encyclopedia Britannica. Retrieved October 30, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Philippines){:target="_blank"}
+
+[^13]:Philippines. (2017). Encyclopedia Britannica. Retrieved October 30, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Philippines){:target="_blank"}
+
+[^14]:About the Philippines. (2017). Philippine Government Portal. Retrieved October 30, 2017, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"}
+
+[^15]:Philippines. (2017). Encyclopedia Britannica. Retrieved October 30, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Philippines){:target="_blank"}
+
+[^16]:Highlights of the Philippine Population, 2015 Census of Population. (2015). Philippine Statistics Authority. Retrieved October 30, 2017, from [https://www.psa.gov.ph](https://www.psa.gov.ph/sites/default/files/attachments/hsd/pressrelease/2015%20population%20counts%20Summary_0.xlsx){:target="_blank"}
+
+[^17]:Viray, P. L. (2017, August 17). Philippine economy grows 6.5% in Q2 2017. Philstar Global. Retrieved October 30, 2017, from [http://www.philstar.com](http://www.philstar.com/business/2017/08/17/1730056/philippine-economy-GDP-growth-2nd-quarter){:target="_blank"}
+
+[^18]:Nelz, J. (2017). Philippines ranks as world’s 10th fastest growing economy in 2017. Philippine News. Retrieved October 30, 2017, from [https://philnews.ph](https://philnews.ph/2017/06/23/philippines-ranks-worlds-10th-fastest-growing-economy-2017/){:target="_blank"}
+
+[^19]:4 Growing Industries in the Philippines. (2017, April 29). Philippine Primer. Retrieved October 30, 2017, from [http://primer.com.ph](http://primer.com.ph/blog/2017/04/29/4-growing-industries-in-the-philippines/){:target="_blank"}
+
+[^20]:Highlights of foreign trade statistics of the Philippines: First semester 2017. (2017, October 10). Philippine Statistics Authority. Retrieved October 30, 2017, from [https://psa.gov.ph](https://psa.gov.ph/content/highlights-foreign-trade-statistics-philippines-first-semester-2017){:target="_blank"}
+
+[^21]:Philippines tourism continues. (2016). Department of Tourism, Philippines. Retrieved October 30, 2017, from [http://tourism.gov.ph](http://tourism.gov.ph/Pages/20131118aPHILIPPINETOURISMCONTINUES.aspx){:target="_blank"}
+
+[^22]:Industry performance for travel and tourism. (May 2017). Department of Tourism Philippines. Retrieved October 30, 2017, from [http://www.tourism.gov.ph](http://www.tourism.gov.ph/pages/industryperformance.aspx){:target="_blank"}
