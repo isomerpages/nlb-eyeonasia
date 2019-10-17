@@ -15,19 +15,19 @@ This article provides an overview of Indonesia for those keen on exploring the p
 - **Official name:** Republic of Indonesia (Republik Indonesia)
 - **Capital:** Jakarta[^1]
 - **Geography:** 34 provinces
-- **Land area:** 1,916,862.20 sq km2
-- **Population (2017):** 261.9 million3
-- **Head of state:** President Joko Widodo (since October 2014)4
+- **Land area:** 1,916,862.20 sq km[^2]
+- **Population (2017):** 261.9 million[^3]
+- **Head of state:** President Joko Widodo (since October 2014)[^4]
 - **National language:** Bahasa Indonesia
-- **Currency:** Rupiah (IDR)5
-- **GDP (2017):** IDR 13,588.8 trillion6
-- **GDP per capita (2017):** IDR 51.9 million7
+- **Currency:** Rupiah (IDR)[^5]
+- **GDP (2017):** IDR 13,588.8 trillion[^6]
+- **GDP per capita (2017):** IDR 51.9 million[^7]
 
 ### **Introduction**
 
-The Republic of Indonesia is located between the continents of Asia and Australia. It comprises 16,056 islands, with 34 provinces spreading over five main islands and four archipelagos. The five main islands include Sumatra, Java, Kalimantan, Sulawesi and Papua. The four archipelagos are Riau, Bangka Belitung, Nusa Tenggara, and Maluku. Papua (319,036.05 sq km) is the largest of the 34 provinces and the smallest is Daerah Khusus Ibukota (DKI) Jakarta (664.01 sq km).8
+The Republic of Indonesia is located between the continents of Asia and Australia. It comprises 16,056 islands, with 34 provinces spreading over five main islands and four archipelagos. The five main islands include Sumatra, Java, Kalimantan, Sulawesi and Papua. The four archipelagos are Riau, Bangka Belitung, Nusa Tenggara, and Maluku. Papua (319,036.05 sq km) is the largest of the 34 provinces and the smallest is Daerah Khusus Ibukota (DKI) Jakarta (664.01 sq km).[^8]
 
-Apart from its vast territory, Indonesia has a dense population and is rich in natural resources. It is also rich in cultural diversity, with each region having its own unique cultural characteristics, local language, dance, custom and costume.9 On 2 October 2009, UNESCO inscribed Indonesian batik on its Representative List of the Intangible Cultural Heritage of Humanity.10
+Apart from its vast territory, Indonesia has a dense population and is rich in natural resources. It is also rich in cultural diversity, with each region having its own unique cultural characteristics, local language, dance, custom and costume.[^9] On 2 October 2009, UNESCO inscribed Indonesian batik on its Representative List of the Intangible Cultural Heritage of Humanity.[^10]
 
 
 
@@ -35,7 +35,7 @@ Apart from its vast territory, Indonesia has a dense population and is rich in n
 
 <img src="/images/asean-countries/Indonesia-chart-1-1570778692085.png" alt="Indonesia snapshot image 1" style="width:400px;" />
 
-Indonesia’s population reached 261.9 million in 2017, up from 258.7 million in 2016. The population growth rate was 1.34 percent.11 In 2017, the urban population made up 55.177 percent of the total population.12 The gender ratio for the total population for the same year was 1.01 males to one female.13
+Indonesia’s population reached 261.9 million in 2017, up from 258.7 million in 2016. The population growth rate was 1.34 percent.[^11] In 2017, the urban population made up 55.177 percent of the total population.12 The gender ratio for the total population for the same year was 1.01 males to one female.13
 
 The most populous province in 2017 was West Java (48.0376 million), while the least populous province was West Papua (915,400), which is located in the far eastern region of Indonesia.14 According to its 2010 census, the largest ethnic group in Indonesia is Javanese (95.2 million), followed by Sundanese (36.7 million), Batak (8.5 million), Sulawesi (7.6 million), Madurese (7.2 million) and Betawi (6.8 million).15
 
@@ -67,27 +67,30 @@ International tourist arrivals in Indonesia reached 14.04 million in 2017, up fr
 
 Indonesia also promotes itself as a key halal destination in the region by developing areas such as Banda Aceh, Aceh Besar, Sabang, and Lake Laut Tawar.24 Apart from luring Muslim tourists, it is also seeking to develop international medical tourism.25
 
-[^1]:ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from <http://asean.org/asean/asean-member-states/>{:target="_blank"}
 
-2Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from <https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html>{:target="_blank"}
 
-3Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from <https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html>{:target="_blank"}
+[^1]: ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from <http://asean.org/asean/asean-member-states/>{:target="_blank"}
 
-4Profil presiden  Republik Indonesia. (2017). *Kementerian Sekretariat Negara Republik Indonesia.* Retrieved October 17, 2017, from http://indonesia.go.id/?page_id=439
+[^2]Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
 
-5ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from http://asean.org/asean/asean-member-states/
+[^3]Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
 
-6Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+[^4]Profil presiden  Republik Indonesia. (2017). *Kementerian Sekretariat Negara Republik Indonesia.* Retrieved October 17, 2017, from (http://indonesia.go.id)[http://indonesia.go.id/?page_id=439]{:target="_blank"}
 
-7Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+[^5]ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from (http://asean.org)[http://asean.org/asean/asean-member-states/]{:target="_blank"}
 
-8Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, pp. 3-4*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+[^6]Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from (https://www.bps.go.id)[https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html]{:target="_blank"}
 
-9About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 17, 2017, from http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx
+[^7]Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from (https://www.bps.go.id)[https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html]{:target="_blank"}
 
-10UNESCO Jakarta marks “Batik Day” by wearing batik to work. (2017, October 3). *UNESCO Jakarta Regional Science Bureau for Asia and the Pacific.* Retrieved October 17, 2017, from http://www.unesco.org/new/en/jakarta/about-this-office/single-view/news/unesco_jakarta_marks_batik_day_by_wearing_batik_to_wor/
+[^8]Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, pp. 3-4*.* Retrieved September 11, 2018, from (https://www.bps.go.id)[https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html]{:target="_blank"}
 
-11Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html
+[^9]About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 17, 2017, from (http://www.bi.go.id)([http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx]{:target="_blank"}
+
+
+[^10]UNESCO Jakarta marks “Batik Day” by wearing batik to work. (2017, October 3). *UNESCO Jakarta Regional Science Bureau for Asia and the Pacific.* Retrieved October 17, 2017, from (http://www.unesco.org)[http://www.unesco.org/new/en/jakarta/about-this-office/single-view/news/unesco_jakarta_marks_batik_day_by_wearing_batik_to_wor/]{:target="_blank"}
+
+[^11]Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from (https://www.bps.go.id)[https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html]{:target="_blank"}
 
 12World development indicators. (2018). *The World Bank*. Retrieved September 11, 2018, from https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?end=2016&locations=ID&start=1996&view=chart
 
