@@ -67,20 +67,26 @@ International tourist arrivals in Indonesia reached 14.04 million in 2017, up fr
 
 Indonesia also promotes itself as a key halal destination in the region by developing areas such as Banda Aceh, Aceh Besar, Sabang, and Lake Laut Tawar.24 Apart from luring Muslim tourists, it is also seeking to develop international medical tourism.25
 
-
-
-[^1]: ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from <http://asean.org/asean/asean-member-states/>{:target="_blank"}
+[^1]: ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from [http://asean.org](http://asean.org/asean/asean-member-states/){:target="_blank"}
 
 [^2]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
+
 [^3]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-[^4]:Profil presiden  Republik Indonesia. (2017). *Kementerian Sekretariat Negara Republik Indonesia.* Retrieved October 17, 2017, from (http://indonesia.go.id)[http://indonesia.go.id/?page_id=439]{:target="_blank"}
-[^5]:ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from (http://asean.org)[http://asean.org/asean/asean-member-states/]{:target="_blank"}
-[^6]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from (https://www.bps.go.id)[https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html]{:target="_blank"}
-[^7]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from (https://www.bps.go.id)[https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html]{:target="_blank"}
-[^8]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, pp. 3-4*.* Retrieved September 11, 2018, from (https://www.bps.go.id)[https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html]{:target="_blank"}
-[^9]:About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 17, 2017, from (http://www.bi.go.id)([http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx]{:target="_blank"}
+
+[^4]:Profil presiden  Republik Indonesia. (2017). *Kementerian Sekretariat Negara Republik Indonesia.* Retrieved October 17, 2017, from [http://indonesia.go.id](http://indonesia.go.id/?page_id=439){:target="_blank"}
+
+[^5]:ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from [http://asean.org](http://asean.org/asean/asean-member-states/){:target="_blank"}
+
+[^6]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
+
+[^7]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
+
+[^8]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, pp. 3-4*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
+
+[^9]:About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 17, 2017, from [http://www.bi.go.id](http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx){:target="_blank"}
+
 [^10]:UNESCO Jakarta marks “Batik Day” by wearing batik to work. (2017, October 3). *UNESCO Jakarta Regional Science Bureau for Asia and the Pacific.* Retrieved October 17, 2017, from (http://www.unesco.org)[http://www.unesco.org/new/en/jakarta/about-this-office/single-view/news/unesco_jakarta_marks_batik_day_by_wearing_batik_to_wor/]{:target="_blank"}
-[^11]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from (https://www.bps.go.id)[https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html]{:target="_blank"}
+[^11]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
 
 12World development indicators. (2018). *The World Bank*. Retrieved September 11, 2018, from https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?end=2016&locations=ID&start=1996&view=chart
 
