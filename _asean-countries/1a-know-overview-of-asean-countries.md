@@ -75,7 +75,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/overview/lao-a-country-profile/" class="project-link">
+			<a href="/asean-countries/know/overview-of-asean-countries/lao-a-country-profile/" class="project-link">
 				<img src="/images/asean-countries/Laos-Snapshot-370x150.jpg" alt="Lao PDR: A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
