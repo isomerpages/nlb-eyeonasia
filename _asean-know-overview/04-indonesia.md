@@ -33,10 +33,7 @@ Apart from its vast territory, Indonesia has a dense population and is rich in n
 
 ### **Demographic profile**
 
-<img src="/images/asean-countries/Indonesia-chart-1-1570778692085.png" alt="Indonesia snapshot image 1" style="width:400px;" />
-
-Data source: The World Bank, 2018. 
-
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Indonesia-chart-1-1570778692085.png" alt="Indonesia snapshot image 1" style="width:400px;" />Source: The World Bank, 2018.</div>
 Indonesia’s population reached 261.9 million in 2017, up from 258.7 million in 2016. The population growth rate was 1.34 percent.[^11] In 2017, the urban population made up 55.177 percent of the total population.[^12]The gender ratio for the total population for the same year was 1.01 males to one female.[^13]
 
 The most populous province in 2017 was West Java (48.0376 million), while the least populous province was West Papua (915,400), which is located in the far eastern region of Indonesia.[^14] According to its 2010 census, the largest ethnic group in Indonesia is Javanese (95.2 million), followed by Sundanese (36.7 million), Batak (8.5 million), Sulawesi (7.6 million), Madurese (7.2 million) and Betawi (6.8 million).[^15]
@@ -63,10 +60,7 @@ Due to its location, Indonesia has a diverse landscape from “from the vibrant 
 
 The island of Bali is also a popular beach holiday destination among tourists.[^20]
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Indonesia-chart-2.jpg" alt="Indonesia snapshot image 2" style="width:400px;" />Data Source: Badan Pusat Statistik, 2018. </div>
-
-Data Source: Badan Pusat Statistik, 2018. 
-
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Indonesia-chart-2.jpg" alt="Indonesia snapshot image 2" style="width:400px;" />Source: Badan Pusat Statistik, 2018. </div>
 International tourist arrivals in Indonesia reached 14.04 million in 2017, up from 11.52 million recorded in 2016.[^21] The country is eager to grow its tourism sector to boost revenue and help it diversify its sources of economic growth, which is currently largely dependent on commodities.[^22] It has invested in infrastructure development to enhance connectivity, including the development of new airports and harbours and upgrading existing airports and air navigation facilities. Additionally, the government has also allowed visa-free access to 169 countries to attract foreign visitors.[^23]
 
 Indonesia also promotes itself as a key halal destination in the region by developing areas such as Banda Aceh, Aceh Besar, Sabang, and Lake Laut Tawar.[^24] Apart from luring Muslim tourists, it is also seeking to develop international medical tourism.[^25]
