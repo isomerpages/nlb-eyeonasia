@@ -12,7 +12,7 @@ collection_name: asean-know-overview
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Tourism-and-opportunities-for-economic-development-in-Asia.jpg" style="length:200px;" />
+<img src="/images/book-covers/Tourism-and-opportunities-for-economic-development-in-Asia.jpg" style="height:200px;" />
 
 [**Tourism and opportunities for economic development in Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202899676){:target="_blank"}
 
@@ -20,7 +20,7 @@ Tourism is growing in Asian countries at a phenomenal rate and has caused signif
 
 All rights reserved, Philadelphia: IGI Global, 2017.
 
-<img src="/images/book-covers/Rethinking-cultural-resource-management-in-Southeast-Asia.jpg" style="length:200px;" />
+<img src="/images/book-covers/Rethinking-cultural-resource-management-in-Southeast-Asia.jpg" style="height:200px;" />
 
 [**Rethinking cultural resource management in Southeast Asia: Preservation, development, and neglect** ](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14500035){:target="_blank"}
 
