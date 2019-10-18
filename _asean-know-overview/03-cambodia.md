@@ -47,9 +47,7 @@ With the aim of increasing exports and diversifying the economy, the Cambodian g
 
 ### **Tourism**
 
-<img src="/images/asean-countries/Cambodia-profile-new-chart-1.png" alt="Cambodia snapshot image 1" style="width:400px;" />
-
-Data source: Ministry of Tourism, Cambodia, 2017.
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Cambodia-profile-new-chart-1.png" alt="Cambodia snapshot image 1" style="width:400px;" />Data source: Ministry of Tourism, Cambodia, 2017.</div>
 
 The most important service activity in Cambodia is tourism, one of the major sources of overseas investment and the fastest-growing segment of the economy. Tourism has become an important source of revenue as well as foreign exchange and has helped mitigate the effects of large trade deficits. Much of this investment goes into constructing hotels, developing resorts and enhancing facilities serving tourists visiting the Angkor Wat and Phnom Penh.[^19]
 
