@@ -29,6 +29,8 @@ Vietnam, a strip of land shaped like the letter “S”, lies on the eastern par
 
 ### **Demographic profile**
 
+<img src="/images/asean-countries/VN-demographics" alt="Vietnam snapshot image 1" style="width:350px;" />
+
 The population of Vietnam reached 92.70 million persons in 2016. The urban population accounted for 34.51 percent (31.99 million persons) while the rural population accounted for 65.49 percent (60.71 million persons). Around 49.31 percent (45.71 million persons) were male, while 50.69 percent (46.99 million persons) were female. The labour force aged 15 and above nationwide was estimated at 54.45 million persons.[^11] In 2016, the population in the provinces was 21.13 million in the Red River Delta; 11.98 million in the Northern Midlands and mountain areas; 19.80 million in the North Central and Central coastal areas; 5.69 million in the Central Highlands; 16.42 million in the South East; and 17.66 million in the Mekong River Delta.[^12] Currently, there are 54 different ethnic groups living in Vietnam. The Kinh (Viet) people make up nearly 90 percent of the whole population while the other 53 ethnic groups make up over 10 percent.[^13]
 
 ### **Economic profile**
