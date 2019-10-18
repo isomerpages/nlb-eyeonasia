@@ -63,7 +63,7 @@ Due to its location, Indonesia has a diverse landscape from “from the vibrant 
 
 The island of Bali is also a popular beach holiday destination among tourists.[^20]
 
-<img src="/images/asean-countries/Indonesia-chart-2.jpg" alt="Indonesia snapshot image 2" style="width:400px;" />
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Indonesia-chart-2.jpg" alt="Indonesia snapshot image 2" style="width:400px;" />Data Source: Badan Pusat Statistik, 2018. </div>
 
 Data Source: Badan Pusat Statistik, 2018. 
 
