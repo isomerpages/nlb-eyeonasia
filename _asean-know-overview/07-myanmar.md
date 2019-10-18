@@ -27,6 +27,8 @@ Myanmar shares a border with China to the north and northeast. It borders Lao PD
 
 ### **Economic Profile**
 
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Myanmar-chart-1.png" alt="Myanmar snapshot image 1" style="width:400px;" />Data source: World Bank in Myanmar, 2017.</div>
+
 Myanmar is one of Southeast Asia’s fastest growing economies. Its economy grew 7.3 percent in 2012, 8.4 percent in 2013, 8 percent in 2014, 7 percent in 2015 and 5.9 percent in 2016.[^9]  In the medium term, economic growth is expected at 7.1 percent per year. Growth will be driven mainly by economic reforms, public consumption and private investments.[^10]
 
 Myanmar’s economy is being liberalised to develop a market-oriented system as well as to provide support to the development of the agriculture, industry and infrastructure sectors.  Foreign exchange control was abolished in April 2012, and in 2014, the Central Bank of Myanmar gave nine foreign banks the license to operate in the country.
