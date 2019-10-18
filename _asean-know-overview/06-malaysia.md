@@ -28,6 +28,8 @@ Malaysia comprises two regions: the Peninsular Malaysia and the states of Sabah 
 
 ### **Demographic profile**
 
+<img src="/images/asean-countries/MY-ethnicgrps.png" alt="Malaysia snapshot image 1" style="width:400px;" />
+
 In 2016, the population in Malaysia was 31.63 million, with 28.4 million citizens and 3.23 million non-citizens. The population grew 1.4 percent, an increase from the 31.19 million recorded in 2015. The population of males outnumbers that of females: in 2016, the gender ratio is 1.07 male to one female. The Malaysian population comprises many ethnic groups. In 2016, more than 61 percent of the population were Bumiputera, which included Malays, Orang Asli, and Sabah and Sarawak natives.[^11]
 
 ### **Economic profile**
