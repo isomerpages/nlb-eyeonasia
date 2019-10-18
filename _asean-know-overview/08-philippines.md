@@ -53,6 +53,8 @@ China was the country’s top trading partner during the first semester with a t
 
 ### **Tourism**
 
+<img src="/images/asean-countries/PL-tourism.png" alt="Philippines snapshot chart 2" style="width:350px;" />
+
 The Philippines is described as a “safe and fun destination” for tourists. The Philippines Department of Tourism’s tagline is: “It’s more fun in the Philippines.” The country has many touristic offerings, including natural wonders; historical landmarks; culture and tradition; arts and crafts; shopping; and recreation and entertainment. Tourism activities thrive in the country’s different regions, each with its own unique  destinations and products.[^21]
 
 For the month of May 2017, visitor arrivals reached a total of 532,757, an increase of 19.6 percent compared with the May 2016 visitor count of 445,449. This positive growth in arrivals can be attributed to aggressive marketing efforts as well as international events, such as the ASEAN@50 meetings, held in the country.[^22]
