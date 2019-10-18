@@ -29,6 +29,8 @@ Thailand is situated in the heart of Southeast Asia, bordered by the Laos and Ca
 
 ### **Demographic profile**
 
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Thailand-chart-1.png" alt="Thailand snapshot image 1" style="width:400px;" />Data source: National Statistical Office, 2018.</div>
+
 The total population of Thailand was almost 66.19 million in 2017. Around 49.05 percent (32.46 million persons) were male and 50.95 percent (33.72 million persons) female. The sex ratio is 96.3 males per 100 females. Most of the population lived in the northeastern region (33.22 percent), followed by the northern region (18.28 percent), Bangkok (16.37 percent), the southern region (14.2 percent) and the eastern region (7.56 percent). Around 17.08 percent of the population were children within the ages 0 to 14 years; 65.11 percent were of working age (15–59 years); and 15.45 percent were the elderly, aged 60 years and above. Majority of the population are Buddhists, followed by Muslims and Christians.[^11]
 
 ### **Economy**
