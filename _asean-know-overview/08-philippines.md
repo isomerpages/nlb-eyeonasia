@@ -29,7 +29,7 @@ The Philippines, an island country in Southeast Asia, is an archipelago made up 
 
 ### **Major cities**
 
-<img src="/images/asean-countries/PL-demographics.png" alt="Philippines snapshot chart 1" style="width:253px;" />
+<img src="/images/asean-countries/PL-demographics.png" alt="Philippines snapshot chart 1" style="width:350px;" />
 
 Manila is the capital city of the Philippines while Quezon City is its most-populous city. Both are part of the National Capital Region (Metro Manila), located in Luzon, the largest island.[^15] Other major cities in the Philippines (according to population) include Davao City, Caloocan, Cebu City, Zamboanga City, Taguig, Antipolo, Pasig and Cagayan de Oro.[^16]
 
