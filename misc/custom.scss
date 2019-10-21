@@ -32,14 +32,6 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-b{
-  color: $primary;
-}
-
-p{
-  color: $primary;
-}
-
 // Background
 .bg{
   &-primary{
