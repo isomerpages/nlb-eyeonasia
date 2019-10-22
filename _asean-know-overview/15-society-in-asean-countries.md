@@ -27,3 +27,11 @@ All rights reserved, Abingdon: Routledge, 2016.
 This book chronicles the developments that have contributed to the rise of a new social, cultural and economic order in Laos in the 21st century. Some of these developments include power structures, territorial politics and new social relations in emerging urban spaces.
 
 All rights reserved, Singapore: NUS Press, 2017.
+
+<img src="/images/book-covers/Communities-of-potential-Social-assemblages-in-Thailand-and-beyond.jpg" style="width:180px;" />
+
+[**Communities of potential: Social assemblages in Thailand and beyond**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202750160){:target="_blank"}
+
+This book offers insights into community movements in Southeast Asia, with particular reference to Thailand, Cambodia and Myanmar. It examines different types of movements, ranging from personal and social ones based on Buddhist principles to wider community movements based on other religious, spiritual and traditional practices.
+
+All rights reserved, Chiang Mai: Silkworm Books, 2016.
