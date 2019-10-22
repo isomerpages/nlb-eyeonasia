@@ -75,3 +75,19 @@ All rights reserved, United Kingdom: Cambridge University Press, 2016.
 The launch of the ASEAN Economic Community (AEC) raises key issues: the deepening of regional trade and the associated problem of exchange rate management. This volume questions the capacity of ASEAN to deal with complex impacts on employment and inequality.
 
 All rights reserved, New York: Palgrave Macmillan, 2016.
+
+<img src="/images/book-covers/The-3rd-ASEAN-reader.jpg" style="width:180px;" />
+
+[**The 3rd ASEAN reader**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202061552){:target="_blank"}
+
+This book is a compilation of abridged articles by researchers from the ISEAS–Yusof Ishak Institute. It studies the trends and events of recent years, and discusses the future of Southeast Asia with the rise of China and India bringing new challenges to the region’s power equation, and the impact of the 2008 global financial crisis.
+
+All rights reserved, Singapore: ISEAS Yusof Ishak Institute, 2015.
+
+<img src="/images/book-covers/From-treaty-making-to-treaty-breaking-Models-for-ASEAN-external-trade-agreements.jpg" style="width:180px;" />
+
+[**From treaty-making to treaty-breaking: Models for ASEAN external trade agreements**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201296994){:target="_blank"}
+
+This book examines ASEAN’s external trade agreements with non-ASEAN states. It sets out the consequences of ASEAN’s prevailing method of treaty-making, with suggested guidelines for the future.
+
+All rights reserved, United Kingdom: Cambridge University Press, 2015.
