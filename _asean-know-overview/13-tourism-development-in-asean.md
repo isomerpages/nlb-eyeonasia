@@ -44,3 +44,42 @@ This book explores contemporary practices within the new institution of internat
 
 All rights reserved, London: Routledge, 2015.
 
+<img src="/images/book-covers/Tourism-in-the-green-economy.jpg" style="width:180px;" />
+
+[**Tourism in the green economy**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201484965){:target="_blank"}
+
+People are more aware now that the tourism sector can in fact make a major contribution to the green economy through more sustainable practices, climate change mitigation and ecotourism. However, there are ambiguities about how tourism and allied industries can maximise their contribution to human well-being and ensure environmental sustainability. The chapters on Malaysia and Thailand demonstrate the extent of the challenges and range of opportunities available for the tourism industry in these countries.
+
+All rights reserved, London: Routledge, 2015.
+
+<img src="/images/book-covers/Heritage-tourism-in-Southeast-Asia.png" style="width:180px;" />
+
+[**Heritage tourism in Southeast Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13719151){:target="_blank"}
+
+This book examines heritage tourism across the Southeast Asian region from different disciplinary perspectives. Set against a backdrop of the demands, motivations and impacts of heritage tourism, the volume focuses on disputes and conflicts over what heritage is, what it means, and how it has been presented, re-presented, developed and protected for the sake of tourism. It weighs in on various issues from the ownership of heritage, access versus conservation needs to heritage as a commodity, as entertainment and as an educational medium.
+
+All rights reserved, Copenhagen: NIAS Press, 2010.
+
+<img src="/images/book-covers/Rethinking-Asian-tourism-Culture-encounters-and-local-response.jpg" style="width:180px;" />
+
+[**Rethinking Asian tourism: Culture, encounters and local response**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+This title addresses some of the latest developments in tourism research in Southeast Asia (Thailand, Vietnam, Indonesia, the Philippines, Malaysia). This book deconstructs the field of tourism studies, acknowledging that it is an open-ended, shifting, fluid and complex category of encounters.
+
+Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this database.
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**Regional tourism development in Southeast Asia**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=p){:target="_blank"}
+
+This paper addresses the role of tourism in the regional economic development of Southeast Asian economies. It also explores strategies required to develop tourism. The tourism industry in Southeast Asia has the potential to benefit from economies of scale if it were successful in overcoming the challenges posed by regional tourism developments.
+
+Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
+
+<img src="/images/book-covers/Tourism-in-Southeast-Asia-Challenges-and-new-Directions-199x300.jpg" style="width:180px;" />
+
+[**Tourism in Southeast Asia : Challenges and new Directions**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+This title offers an analysis of the state of tourism development and associated issues in one of the world’s most dynamic tourism destinations. The contributors discuss challenges faced by Southeast Asian tourism at a critical stage of transition and transformation, and following a recent series of crises and disasters.
+
+Retrieved from EBSCOhost database. *myLibrary* ID is required to access this database.
