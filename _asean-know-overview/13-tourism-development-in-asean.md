@@ -83,3 +83,13 @@ Retrieved from ProQuest Central. *myLibrary* ID is required to access this datab
 This title offers an analysis of the state of tourism development and associated issues in one of the world’s most dynamic tourism destinations. The contributors discuss challenges faced by Southeast Asian tourism at a critical stage of transition and transformation, and following a recent series of crises and disasters.
 
 Retrieved from EBSCOhost database. *myLibrary* ID is required to access this database.
+
+---
+
+### **You may also like**
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Brunei branches into ecotourism**](http://www.straitstimes.com/asia/se-asia/brunei-branches-into-ecotourism){:target="_blank"}
+
+Brunei plans to tap on tourism dollars by developing its infrastructure to attract tourists to its pristine rainforests and waters by 2020.
