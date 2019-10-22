@@ -19,3 +19,11 @@ This is a selection of resources on international and regional economic cooperat
 This book provides refreshing perspectives on a wide range of issues concerning Brunei, from the nation’s rich history to its society and ethnicities.
 
 All rights reserved, Abingdon: Routledge, 2016.
+
+<img src="/images/book-covers/Changing-lives-in-Laos-Society-politics-and-culture-in-a-post-socialist-state.jpg" style="width:180px;" />
+
+[**Changing lives in Laos: Society, politics, and culture in a post-socialist state**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202556738){:target="_blank"}
+
+This book chronicles the developments that have contributed to the rise of a new social, cultural and economic order in Laos in the 21st century. Some of these developments include power structures, territorial politics and new social relations in emerging urban spaces.
+
+All rights reserved, Singapore: NUS Press, 2017.
