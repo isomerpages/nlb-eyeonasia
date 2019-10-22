@@ -28,3 +28,18 @@ This book examines the various economic agreement levels from the ASEAN Free Tra
 
 All rights reserved, London: Palgrave Macmillan, 2017.
 
+<img src="/images/book-covers/The-ASEAN-economic-community-and-beyond-Myths-and-realities.jpg" style="width:180px;" />
+
+[**The ASEAN economic community and beyond: Myths and realities**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202365079){:target="_blank"}
+
+This book covers the major economic and strategic issues related to the ASEAN Economic Community (AEC) and other important regional initiatives in the Asia-Pacific region. Recent Chinese initiatives including the One-Belt, One-Road program and the Asian Infrastructure Investment Bank (AIIB) are also discussed in connection with ASEAN’s future economic linkages with China.
+
+All rights reserved, Singapore: ISEAS Yusof Ishak Institute, 2016
+
+<img src="/images/book-covers/ASEAN-economic-cooperation-and-integration-Progress-challenges-and-future-directions.jpg" style="width:180px;" />
+
+[**ASEAN economic cooperation and integration: Progress, challenges and future directions**](ASEAN-economic-cooperation-and-integration-Progress-challenges-and-future-directions.jpg){:target="_blank"}
+
+This book investigates various ASEAN and ASEAN-centric economic integration initiatives, focusing in particular on the ASEAN Economic Community (AEC). It also examines the implementation challenges that ASEAN faces as it completes the AEC project, and considers the AEC in the context of the Regional Comprehensive Economic Partnership (RCEP).
+
+All rights reserved, United Kingdom: Cambridge University Press, 2015.
