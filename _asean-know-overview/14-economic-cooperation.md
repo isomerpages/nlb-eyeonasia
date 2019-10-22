@@ -43,3 +43,35 @@ All rights reserved, Singapore: ISEAS Yusof Ishak Institute, 2016
 This book investigates various ASEAN and ASEAN-centric economic integration initiatives, focusing in particular on the ASEAN Economic Community (AEC). It also examines the implementation challenges that ASEAN faces as it completes the AEC project, and considers the AEC in the context of the Regional Comprehensive Economic Partnership (RCEP).
 
 All rights reserved, United Kingdom: Cambridge University Press, 2015.
+
+<img src="/images/book-covers/Engaging-the-neighbours-Australia-and-ASEAN-since-1974.jpg" style="width:180px;" />
+
+[**Engaging the neighbours: Australia and ASEAN since 1974**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+Australia and ASEAN have engaged and cooperated on many issues of mutual concern, including the initiation of the Asia-Pacific Economic Cooperation grouping (1989) and the conclusion of the ASEAN–Australia–New Zealand Free Trade Agreement (signed in 2008). This book provides the history of the evolution of Australia’s interactions with countries in the ASEAN.
+
+Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this database.
+
+<img src="/images/book-covers/Indonesia-and-ASEAN-Plus-Three-financial-cooperation-Domestic-politics-power-relations-and-regulatory-regionalism.jpg" style="width:180px;" />
+
+[**Indonesia and ASEAN Plus Three financial cooperation: Domestic politics, power relations, and regulatory regionalism**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202928317){:target="_blank"}
+
+Financial regionalism in East Asia has stimulated a transformation in Indonesia’s national regulatory framework. This book explores how new financial alliances and regulatory frameworks will bring economic growth to Indonesia.
+
+All rights reserved, Singapore: Palgrave Macmillan, 2017.
+
+<img src="/images/book-covers/The-ASEAN-Economic-Community-A-conceptual-approach.jpg" style="width:180px;" />
+
+[**The ASEAN Economic Community: A conceptual approach**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202758924){:target="_blank"}
+
+This book provides an analysis of the ASEAN Economic Community (AEC) and its intricacies. It sets out ASEAN’s ambition, scrutinises its economic integration logic, detects its deficits and elaborates on its achievements.
+
+All rights reserved, United Kingdom: Cambridge University Press, 2016.
+
+<img src="/images/book-covers/ASEAN-Economic-Community-A-model-for-Asia-wide-regional-integration.jpg" style="width:180px;" />
+
+[**ASEAN Economic Community: A model for Asia-wide regional integration**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202468020){:target="_blank"}
+
+The launch of the ASEAN Economic Community (AEC) raises key issues: the deepening of regional trade and the associated problem of exchange rate management. This volume questions the capacity of ASEAN to deal with complex impacts on employment and inequality.
+
+All rights reserved, New York: Palgrave Macmillan, 2016.
