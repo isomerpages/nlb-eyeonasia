@@ -63,3 +63,15 @@ In this article, Ai Lei Tao looks at the current state of artificial intelligenc
 [**The ASEAN digital revolution**](http://www.southeast-asia.atkearney.com/documents/10192/6986374/ASEAN+Digital+Revolution.pdf/86c51659-c7fb-4bc5-b6e1-22be3d801ad2){:target="_blank"}
 
 AT Kearney, a leading consulting firm, looks at the opportunities for ASEAN as a region to leapfrog into the top five digital economy in 2025, the barriers faced and measures that policy makers could consider to address these challenges.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Spotlight on: Stimulating innovation in Southeast Asia**](https://sea-eu.net/object/document/154/attach/SEA-EU-NET_Buch_Web.pdf){:target="_blank"}
+
+This report presents the results of a study on the variety of innovation support policies, programmes and instruments available in selected Southeast Asian countries. The first part of the report provides a regional overview followed by country specific chapters. The countries covered are Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Innovation in Southeast Asia**](http://www.oecd.org/sti/inno/innovation-in-southeast-asia-2012-9789264128712-en.htm){:target="_blank"}
+
+This OECD review highlights the recent economic development specifically innovation in Southeast Asia and provides an assessment of the region’s current capacity and dynamics in science, technology and innovation. The review also provides a set of profiles of the national innovation systems of each Southeast Asian country.

@@ -131,3 +131,4 @@ Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this
 This book presents the impacts of social transformation and social development on peoples in social care and well-being, community life and nation building. It sheds light on the challenges of social development with relevant case studies addressing issues such as welfare, workforce and community development.
 
 All rights reserved, Abingdon; New York: Routledge, 2017.
+
