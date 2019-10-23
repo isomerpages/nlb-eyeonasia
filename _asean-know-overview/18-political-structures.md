@@ -61,3 +61,11 @@ All rights reserved, London: Routledge, 2013.
 *Conflict in Myanmar* is a collection of papers originally presented at the Myanmar/Burma Update Conference 2015 held at the Australian National University, Canberra. Themed “Making Sense of Conflict”, the conference examined the ongoing political, social and armed conflict in Myanmar from various perspectives.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this database.)
+
+<img src="/images/book-covers/Citizenship-and-democratization-in-Southeast-Asia.png" style="width:180px;" />
+
+[**Citizenship and democratization in Southeast Asia**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=J){:target="_blank"}
+
+Download this compilation of essays about topics such as everyday citizenship in rural Java, elections and emerging citizenship in Cambodia, and the role of digital media in Malaysia’s electoral reform movement.
+
+Retrieved from JSTOR. (*myLibrary* ID is required to access this database)
