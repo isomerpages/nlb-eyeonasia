@@ -75,4 +75,3 @@ All rights reserved, Singapore: ISEAS-Yusof Ishak Institute, 2017.
 This book investigates the effects of trade liberalisation on economic growth and poverty in Vietnam when the country launched *Doi Moi*, a programme of economic and trade reforms in the mid-1980s, placing the economy on a transitional path from central planning to a market economy.
 
 All rights reserved, New York : Routledge, 2016.
-
