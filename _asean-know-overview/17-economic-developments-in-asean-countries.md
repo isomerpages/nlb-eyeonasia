@@ -27,3 +27,19 @@ All rights reserved, Malaysia: Strategic Information and Research Development Ce
 To place Myanmar’s modern economy in context, this book considers its historical background and policies so as to lay out its future roadmap.
 
 All rights reserved, Tokyo: Springer, 2016.
+
+<img src="/images/book-covers/Brunei-From-the-age-of-commerce-to-the-21st-century.jpg" style="width:180px;" />
+
+[**Brunei: From the age of commerce to the 21st century**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200953233){:target="_blank"}
+
+The book offers a look at Brunei’s history beginning with the end of the Ice Age and to its emergence as a modern sultanate. It contains information and analysis of her economic, social, cultural and political issues. The economic history section is devoted to conditions that have arisen over recent decades, and offers an analysis of the dominant economic role of revenues from hydrocarbon resources during this period.
+
+All rights reserved, Singapore: NUS Press in association with Research Institute on Contemporary Southeast Asia, 2015.
+
+<img src="/images/book-covers/State-structure-policy-formation-and-economic-development-in-Southeast-Asia-The-political-economy-of-Thailand-and-the-Philippines.jpg" style="width:180px;" />
+
+[**State structure, policy formation, and economic development in Southeast Asia: The political economy of Thailand and the Philippines**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14267644){:target="_blank"}
+
+This book focuses on a historical and comparative analysis of Thailand and the Philippines, showing that differences in respective institutional configurations of state power had led to the different economic policies implemented, particularly when dealing with any economic crisis.
+
+All rights reserved, London: Routledge, 2012.
