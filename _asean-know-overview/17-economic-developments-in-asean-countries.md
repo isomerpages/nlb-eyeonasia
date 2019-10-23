@@ -43,3 +43,19 @@ All rights reserved, Singapore: NUS Press in association with Research Institute
 This book focuses on a historical and comparative analysis of Thailand and the Philippines, showing that differences in respective institutional configurations of state power had led to the different economic policies implemented, particularly when dealing with any economic crisis.
 
 All rights reserved, London: Routledge, 2012.
+
+<img src="/images/book-covers/Cambodia’s-economic-transformation.jpg" style="width:180px;" />
+
+[**Cambodia’s economic transformation**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14179873){:target="_blank"}
+
+This book examines the political economy of the Cambodian boom from 2002, analysing the changing structure of the economy, the relationship between state and market, and outcomes for the poor.
+
+All rights reserved, Copenhagen: Nias Press, 2011.
+
+<img src="/images/book-covers/Economic-change-in-modern-Indonesia-Colonial-and-post-colonial-comparisons.jpg" style="width:180px;" />
+
+[**Economic change in modern Indonesia: Colonial and post-colonial comparisons**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202499360){:target="_blank"}
+
+The first part of this book offers a chronological study of Indonesia’s economic development from the late 19th to the early 21st century, while the second part explores topics including the persistence of economic nationalism and the ongoing tensions among Indonesia’s diverse regions.
+
+All rights reserved, United Kingdom : Cambridge University Press, 2016.
