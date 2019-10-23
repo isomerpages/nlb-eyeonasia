@@ -12,5 +12,34 @@ collection_name: asean-know-overview
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Blood-and-silk-Power-and-conflict-in-modern-Southeast-Asia.png" style="width:180px;" />
+<img src="/images/book-covers/Malaysian-maverick-Mahathir-Mohamad-in-turbulent-times.jpg" style="width:180px;" />
 
+[**Malaysian maverick: Mahathir Mohamad in turbulent times**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+Mahathir Mohamad, who served as Malaysia’s prime minister from 1981 to 2003, contested and won in the 2018 general election under the coalition, Pakatan Harapan. Read this biography of Mahathir to find out more about the person who was returned to power after 15 years, becoming the oldest elected head of state at 92 years old.
+
+Retrieved from EBSCOhost database. (*myLibrary* ID is required to access this database)
+
+<img src="/images/book-covers/Sukarno-A-political-biography.jpg" style="width:180px;" />
+
+[**Sukarno: A political biography**](https://nlb.overdrive.com/media/%7B47E012AF-2A1D-4C94-8044-D4BC6609357E%7D){:target="_blank"}
+
+This new edition of the classic biography of Sukarno, written by J. D. Legge and first published in 1972, has been updated based on new scholarship on the charismatic orator who was the first president of Indonesia.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this database)
+
+<img src="/images/book-covers/Ho-Chi-Minh-A-life.jpg" style="width:180px;" />
+
+[**Ho Chi Minh: A life**](https://nlb.overdrive.com/media/1226624){:target="_blank"}
+
+This biography of Ho Chi Minh, largely regarded as the “father of modern Vietnam”, helps readers to understand the constellation of forces that led to the Vietnam War, as well as the consequences thereafter. In addition to discussing Ho’s motivations, author William J. Duiker delves into the roles of the Soviet Union and China during the war.
+
+Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
+
+<img src="/images/book-covers/Datuk-Seri-Najib-Malaysia’s-first-political-blue-blood.png" style="width:180px;" />
+
+[**Datuk Seri Najib: Malaysia’s first political blue blood**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13583181){:target="_blank"}
+
+This book traces former Malaysian Prime Minister Datuk Seri Najib’s journey to premiership, 33 years since he first stepped into the world of politics.
+
+All rights reserved, Kuala Lumpur: Partisan, 2009.
