@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: ASEAN countries: A look at technology and innovation
+title: ASEAN countries - A look at technology and innovation
 permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-a-look-at-technology-and-innovation/
-breadcrumb: ASEAN countries: A look at technology and innovation
+breadcrumb: ASEAN countries - A look at technology and innovation
 collection_name: asean-know-overview
 ---
 
