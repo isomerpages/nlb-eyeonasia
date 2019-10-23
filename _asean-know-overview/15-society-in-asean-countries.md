@@ -91,3 +91,43 @@ All rights reserved, Singapore: Springer Nature, 2017.
 This book examines religious diversity in Asian societies with particular focus on the interactions that occur among people of different religious traditions and beliefs.
 
 All rights reserved, Abingdon; New York: Routledge, 2014.
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**Southeast Asia’s demographic situation, regional variations and national challenges**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+This article provides a comprehensive analysis of the demographic situation in Southeast Asia, with reference to the distinctive challenges and socio-economic conditions in each country in the region.
+
+Retrieved from ProQuest social science journals database. *myLibrary* ID is required to access this database.
+
+<img src="/images/book-covers/State-society-and-minorities-in-South-and-Southeast-Asia.jpg" style="width:180px;" />
+
+[**State, society, and minorities in South and Southeast Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201511896){:target="_blank"}
+
+This book highlights the challenges facing South and Southeast Asian societies during the rise of minority ethnic and/or religion based conflicts and tensions.
+
+All rights reserved, Lanham: Lexington Books, 2015.
+
+<img src="/images/book-covers/The-house-in-Southeast-Asia-A-changing-social-economic-and-political-domain.jpg" style="width:180px;" />
+
+[**The house in Southeast Asia: A changing social, economic and political domain**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+This book explores the position of ‘the house’ in Southeast Asian societies amidst the social, economic and political transformations in the region.
+
+Retrieved from EBSCOhost database. *myLibrary* ID is required to access this database.
+
+<img src="/images/book-covers/The-peoples-of-Southeast-Asia-today-Ethnography-ethnology-and-change-in-a-complex-region.jpg" style="width:180px;" />
+
+[**The peoples of Southeast Asia today: Ethnography, ethnology, and change in a complex region**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+This book undertakes an anthropological approach to explore the ethnology and ethnography of the mainland and insular regions in Southeast Asia. In addition to providing an overview of the region, it also focuses on how the cultural ways and patterns of adaptation of Southeast Asia’s peoples have evolved over time.
+
+Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this database.
+
+<img src="/images/book-covers/Transforming-society.jpg" style="width:180px;" />
+
+[**Transforming society: Strategies for social development from Singapore, Asia and around the world**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202925084){:target="_blank"}
+
+This book presents the impacts of social transformation and social development on peoples in social care and well-being, community life and nation building. It sheds light on the challenges of social development with relevant case studies addressing issues such as welfare, workforce and community development.
+
+All rights reserved, Abingdon; New York: Routledge, 2017.
