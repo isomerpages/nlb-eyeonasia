@@ -60,3 +60,34 @@ This book presents a collection of essays that describe the diverse nature of th
 
 Retrieved from EBSCOhost database. *myLibrary* ID is required to access this database.
 
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**Governing Southeast Asia: New perspectives on states and state-society relations**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+This article discusses the varying nature of states and state-society relations across Southeast Asia.
+
+Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
+
+<img src="/images/book-covers/Law-and-society-in-Malaysia-Pluralism-religion-and-ethnicity.jpg" style="width:180px;" />
+
+[**Law and society in Malaysia: Pluralism, religion and ethnicity**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203099219){:target="_blank"}
+
+This book discusses the importance of the legal system in relation to multiculturalism, religion, politics and society in Malaysia.
+
+All rights reserved, Abingdon; New York: Routledge, 2018.
+
+<img src="/images/book-covers/New-religiosities-modern-capitalism-and-moral-complexities-in-Southeast-Asia.jpg" style="width:180px;" />
+
+[**New religiosities, modern capitalism, and moral complexities in Southeast Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202776817){:target="_blank"}
+
+Economic modernisation has posed a threat to the existence of religious and moral practices in Southeast Asia. This book discusses the moral complexities that Southeast Asian societies face with the convergence of religious and economic developments.
+
+All rights reserved, Singapore: Springer Nature, 2017.
+
+<img src="/images/book-covers/Religious-pluralism-state-and-society-in-Asia.jpg" style="width:180px;" />
+
+[**Religious pluralism, state and society in Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200349844){:target="_blank"}
+
+This book examines religious diversity in Asian societies with particular focus on the interactions that occur among people of different religious traditions and beliefs.
+
+All rights reserved, Abingdon; New York: Routledge, 2014.
