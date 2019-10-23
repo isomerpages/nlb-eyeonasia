@@ -43,3 +43,19 @@ Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
 This book traces former Malaysian Prime Minister Datuk Seri Najib’s journey to premiership, 33 years since he first stepped into the world of politics.
 
 All rights reserved, Kuala Lumpur: Partisan, 2009.
+
+<img src="/images/book-covers/Strongman-The-extraordinary-life-of-Hun-Sen.jpg" style="width:180px;" />
+
+[**Strongman: The extraordinary life of Hun Sen: From pagoda boy to prime minister of Cambodia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14713814){:target="_blank"}
+
+Read about the life of Hun Sen, Cambodia’s prime minister since 1985. This edition is an updated version of the original published in 1999, based on recently declassified records and new interviews conducted with Hun Sen as well as his family members and peers.
+
+All rights reserved, Singapore: Marshall Cavendish Editions, 2013.
+
+<img src="/images/book-covers/From-exile-to-deliverance-Thailand’s-populist-tycoon-tells-his-story.jpg" style="width:180px;" />
+
+[**From exile to deliverance: Thailand’s populist tycoon tells his story: Conversations with Thaksin**](https://nlb.overdrive.com/media/%7B766BE5CA-59EF-4D94-9856-CC53AAD7C32F%7D){:target="_blank"}
+
+Former Thai Prime Minister Thaksin Shinawatra was sent into exile following a military coup in 2006. Find out more about the man as he shares his perspectives on topics such as politics, poverty and democracy with journalist Tom Plate.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this database)
