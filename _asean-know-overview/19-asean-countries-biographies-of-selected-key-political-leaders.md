@@ -59,3 +59,19 @@ All rights reserved, Singapore: Marshall Cavendish Editions, 2013.
 Former Thai Prime Minister Thaksin Shinawatra was sent into exile following a military coup in 2006. Find out more about the man as he shares his perspectives on topics such as politics, poverty and democracy with journalist Tom Plate.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this database)
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**The tough guy**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+This is an article that details the personal life and political career of Philippine president Rodrigo Duterte, published in the American *New Yorker* magazine.
+
+Retrieved from EBSCOhost database. (*myLibrary* ID is required to access this database)
+
+<img src="/images/book-covers/The-lady-and-the-peacock-The-life-of-Aung-San-Suu-Kyi.jpg" style="width:180px;" />
+
+[**The lady and the peacock: The life of Aung San Suu Kyi**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14642240){:target="_blank"}
+
+Learn about Aung San Suu Kyi, Myanmar’s state counsellor, a role akin to prime minister. She was placed under house arrest for 15 years, and in 2015 won the country’s first openly contested election in 25 years.
+
+All rights reserved, London: Rider, 2012.
