@@ -75,3 +75,15 @@ This report presents the results of a study on the variety of innovation support
 [**Innovation in Southeast Asia**](http://www.oecd.org/sti/inno/innovation-in-southeast-asia-2012-9789264128712-en.htm){:target="_blank"}
 
 This OECD review highlights the recent economic development specifically innovation in Southeast Asia and provides an assessment of the region’s current capacity and dynamics in science, technology and innovation. The review also provides a set of profiles of the national innovation systems of each Southeast Asian country.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Why youth will determine ASEAN’s success in the digital revolution**](http://www.digitalistmag.com/improving-lives/2017/06/22/youth-determine-aseans-success-in-digital-revolution-05161532){:target="_blank"}
+
+In this article, Michael Zipf discusses the efforts made to help equip the young people in ASEAN with the skills they need to meet the United Nations Sustainable Development Goals which were announced in 2015.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Harnessing digitization to power up governance in ASEAN**](http://www.digitalistmag.com/improving-lives/2017/10/31/harnessing-digitization-to-power-up-governance-in-asean-05468879){:target="_blank"}
+
+Claus Andresen shares his opinions on what digitisation could do to solve problems and accelerate growth for countries, such as Vietnam, Indonesia and Singapore.
