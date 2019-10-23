@@ -35,3 +35,28 @@ All rights reserved, Singapore: NUS Press, 2017.
 This book offers insights into community movements in Southeast Asia, with particular reference to Thailand, Cambodia and Myanmar. It examines different types of movements, ranging from personal and social ones based on Buddhist principles to wider community movements based on other religious, spiritual and traditional practices.
 
 All rights reserved, Chiang Mai: Silkworm Books, 2016.
+
+<img src="/images/book-covers/Demographic-change-in-Southeast-Asia-recent-histories-and-future-directions.jpg" style="width:180px;" />
+
+[**Demographic change in Southeast Asia: recent histories and future directions**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14440170){:target="_blank"}
+
+This book chronicles the demographic transformations that have accompanied the social, political and economic changes in Southeast Asia since decolonisation. It outlines the government policies that have been implemented thus far and addresses the current demographic challenges facing societies with increased mobility and globalisation.
+
+All rights reserved, New York: Cornell University Southeast Asia Program Publications, 2012.
+
+<img src="/images/book-covers/Ethnic-and-religious-identities-and-integration-in-Southeast-Asia.jpg" style="width:180px;" />
+
+[**Ethnic and religious identities and integration in Southeast Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202898913){:target="_blank"}
+
+This book examines the influences ethnic change and religious traditions have upon local, national and regional identities in Southeast Asia.
+
+All rights reserved, Chiang Mai: Silkworm Books, 2017.
+
+<img src="/images/book-covers/Everyday-Life-in-Southeast-Asia.jpg" style="width:180px;" />
+
+[**Everyday Life in Southeast Asia**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+This book presents a collection of essays that describe the diverse nature of the peoples, cultures and societies of Southeast Asia. It explores the everyday lives and experiences of the ordinary people living in the mainland and island regions by surveying aspects such as household organisation, environment and popular culture.
+
+Retrieved from EBSCOhost database. *myLibrary* ID is required to access this database.
+
