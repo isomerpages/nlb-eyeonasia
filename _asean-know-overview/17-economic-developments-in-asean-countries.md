@@ -59,3 +59,20 @@ All rights reserved, Copenhagen: Nias Press, 2011.
 The first part of this book offers a chronological study of Indonesia’s economic development from the late 19th to the early 21st century, while the second part explores topics including the persistence of economic nationalism and the ongoing tensions among Indonesia’s diverse regions.
 
 All rights reserved, United Kingdom : Cambridge University Press, 2016.
+
+<img src="/images/book-covers/A-regional-economic-history-of-Thailand.jpg" style="width:180px;" />
+
+[**A regional economic history of Thailand**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203094539){:target="_blank"}
+
+This book presents an economic history of Thailand from the signing of the Bowring Treaty in 1855 to the present. It looks at each of the principal regions (Bangkok, the Central region, the North, the South, and Northeastern regions), and concentrate on the long-term economic and social changes and the various forces that had promoted the changes.
+
+All rights reserved, Singapore: ISEAS-Yusof Ishak Institute, 2017.
+
+<img src="/images/book-covers/Trade-liberalisation-and-poverty-Vietnam-now-and-beyond.jpg" style="width:180px;" />
+
+[**Trade liberalisation and poverty: Vietnam now and beyond**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202246065){:target="_blank"}
+
+This book investigates the effects of trade liberalisation on economic growth and poverty in Vietnam when the country launched *Doi Moi*, a programme of economic and trade reforms in the mid-1980s, placing the economy on a transitional path from central planning to a market economy.
+
+All rights reserved, New York : Routledge, 2016.
+
