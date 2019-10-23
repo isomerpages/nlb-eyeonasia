@@ -6,7 +6,7 @@ breadcrumb: ASEAN countries - Political structures
 collection_name: asean-know-overview
 ---
 
-<img src="/images/asean-countries/ASEAN-countries-Political-structures.jpg" alt="Economic Coorperation banner" style="width:800px;" />
+<img src="/images/asean-countries/ASEAN-countries-Political-structures.jpg" alt="political structures banner" style="width:800px;" />
 
 This is a selection of resources on political structures in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so we can share them with our readers.
 
