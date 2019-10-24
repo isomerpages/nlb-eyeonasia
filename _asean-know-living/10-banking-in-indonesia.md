@@ -22,7 +22,7 @@ All rights reserved, Singapore: World Scientific, 2012.
 
 <img src="/images/book-covers/Cultureshock-Jakarta-A-survival-guide-to-customs-and-etiquette.jpg" style="width:150px;" />
 
-[**Cultureshock! Jakarta : A survival guide to customs and etiquette**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200129124){:target="_blank"}
+[**Cultureshock! Jakarta : A survival guide to customs and etiquette**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=2153BA72-BC54-4781-AF08-51A2CF6901A4){:target="_blank"}
 
 From this book, readers can find out more about common and reliable financial and banking services in Jakarta, from telegraphic transfers to the issuance of credit cards.
 
