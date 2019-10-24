@@ -28,3 +28,18 @@ Section IV of the book, “Adat Istiadat and Societal Management”, examines re
 
 All rights reserved, Singapore: Published by NUS Press in association with Research Institute on Contemporary Southeast Asia, 2015.
 
+<img src="/images/book-covers/Social-customs-and-courtesies-of-Brunei-Darussalam.jpg" style="width:180px;" />
+
+[**Social customs and courtesies of Brunei Darussalam**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12442182){:target="_blank"}
+
+Still a largely conservative Muslim country, this book provides a simple guide on the norms, social practices, fashion, food and drink, as well as how to address and engage in conversation with others in Brunei.
+
+All rights reserved, Bandar Seri Begawan: Dept. of Information, Prime Minister’s Office, 1996.
+
+<img src="/images/book-covers/Brunei-society-culture-complete-report-An-all-inclusive-profile-combining-all-of-our-society-and-culture-reports.png" style="width:180px;" />
+
+[**Brunei society & culture complete report: An all-inclusive profile combining all of our society and culture reports**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+This report features useful information on greetings and courtesies, stereotypes accepted and rejected by Bruneians, taboo gifts and the general attitude towards time and punctuality for business and social engagements.
+
+Retrieved from ProQuest Ebook Central. (*myLibrary ID* is required to access this database).
