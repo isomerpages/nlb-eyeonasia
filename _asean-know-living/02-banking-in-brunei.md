@@ -32,7 +32,7 @@ All rights reserved, Memphis, Tenn.: Books LLC, 2011.
 
 ### **You may also like**
 
-<div class="resp-container">
-    <iframe class="resp-iframe" src="https://www.youtube.com/embed/P_TqzMl9nEg" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P_TqzMl9nEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
