@@ -12,7 +12,7 @@ This is a selection of resources on housing in Brunei available from the [NLB ca
 
 ### **NLB print resources**
 
-<img src="/images/book-covers/Brunei-Darussalam-2011-The-report.png" style="width:180px;" />
+<img src="/images/book-covers/Brunei-Darussalam-2011-The-report.png" style="width:150px;" />
 
 [**Brunei Darussalam 2011: The report**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14686531){:target="_blank"}
 
