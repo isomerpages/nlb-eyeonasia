@@ -48,3 +48,20 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
 ### **You may also like**
 
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**In Jakarta, ride-sharing apps for motorcycle taxis rev up**](https://www.wsj.com/articles/in-jakarta-ride-sharing-apps-for-motorcycle-taxis-rev-up-1447899407){:target="_blank"}
+
+Ride-sharing apps are gaining traction in Jakarta with key industry players such as GoJek and Grab. Unique to Jakarta, motorcycle taxis or *ojek* are common as they provide a quick and cheap way of commuting.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Working in Jakarta for expats: Advice on how to navigate the workplace**](http://thehoneycombers.com/jakarta/working-in-jakarta-for-expats-advice-on-how-to-navigate-the-workplace/){:target="_blank"}
+
+This webpage summarises the types of transportation available for those working in Jakarta – from ride-sharing services to public transport.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Transportation in Jakarta: How to get around**](http://thehoneycombers.com/jakarta/transportation-in-jakarta-how-to-get-around/){:target="_blank"}
+
+From hiring a part-time driver to getting your groceries delivered by a motorcycle taxi, Jakarta offers various modes of transportation for all your different needs.
