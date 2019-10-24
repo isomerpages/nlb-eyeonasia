@@ -28,3 +28,15 @@ This book is a comprehensive guide to Jakarta, from its people to cultural festi
 
 All rights reserved, Footscray, Victoria: Lonely Planet Global Limited, 2017.
 
+<img src="/images/book-covers/Customs-etiquette-of-Indonesia.jpg" style="width:150px;" />
+
+[**Customs & etiquette of Indonesia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12864384){:target="_blank"}
+
+Learn about the importance of body language and gestures when communicating with Indonesians. This book also explores aspects of customs and dress that play significant roles in Indonesian culture and identity.
+
+All rights reserved, London: Simple Guides, 2007.
+
+---
+
+### **You may also like**
+
