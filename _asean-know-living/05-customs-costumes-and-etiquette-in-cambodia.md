@@ -27,3 +27,35 @@ All rights reserved, London: Kuperard, 2008.
 This guide provides basic knowledge of the history and culture of Cambodia as well as tips on food, handy phrases, transport and sightseeing attractions for visitors.
 
 All rights reserved, South Carolina: North Charleston, 2017.
+
+<img src="/images/book-covers/Spirits-world-Cambodia-the-Buddha-and-the-Naga.jpg" style="width:150px;" />
+
+[**Spirits world: Cambodia, the Buddha and the Naga**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202428622){:target="_blank"}
+
+This book examines the unique aspects of Cambodian religion and beliefs that have been encrypted into the Cambodian way of life.
+
+All rights reserved, Oxford: John Beaufoy Publishing, 2015.
+
+<img src="/images/book-covers/Cambodia-Society-Culture.jpg" style="width:150px;" />
+
+[**Cambodia: Society & Culture**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+This handy report provides an overview of different aspects of Cambodian culture, such as its etiquette, folklore, superstitions and religion. It helps visitors avoid cultural pitfalls and form connections with ease.
+
+Retrieved from Ebscohost database. (*myLibrary* ID is required to access this database).
+
+---
+
+### **You may also like**
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Get to know Khmer culture**](http://www.movetocambodia.com/about-cambodia/get-to-know-khmer-culture/){:target="_blank"}
+
+This website provides tips that enable visitors to understand the basic Cambodian values, etiquette and traditions.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Khmer culture & religion: Customs and traditions**](http://www.cambodiainsight.com/issue/3.pdf){:target="_blank"}
+
+The third issue of this quarterly online edition of *Cambodia Insight Magazine* provides readers with informative content on Khmer culture, customs and traditions.
