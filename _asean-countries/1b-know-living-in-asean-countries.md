@@ -114,7 +114,6 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 		</div>
 	</div>
 </div>
-
 <p><p>
 <div>
 	<div class="row is-multiline">
@@ -140,6 +139,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 		</div>
 	</div>
 </div>
+
 
 <p><p>
 <div>
