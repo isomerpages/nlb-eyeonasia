@@ -36,3 +36,15 @@ This is a guide to resources and information on accommodation in Phnom Penh.
 
 This article provides practical information and advice on the cost of living and platforms to find the right accommodation in Cambodia.
 
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Cambodia guide – Housing & rentals**](https://www.justlanded.com/english/Cambodia/Cambodia-Guide/Housing-Rentals){:target="_blank"}
+
+This guide provides practical advice on the rental and purchase of property in Cambodia.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Rough guides – Accommodation**](https://www.roughguides.com/destinations/asia/cambodia/accommodation/){:target="_blank"}
+
+From budget guesthouses and hotels to luxury villas, this guide features different types of accommodation across various price points in Cambodia.
+
