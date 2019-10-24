@@ -14,7 +14,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/transportation-in-brunei/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/transportation-in-brunei/" class="project-link">
 				<img src="/images/asean-living/Transportation-Brunei-370x150.jpg" alt="Transportation in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
