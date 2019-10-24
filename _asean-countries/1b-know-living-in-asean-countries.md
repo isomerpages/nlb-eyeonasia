@@ -24,7 +24,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/customs-costumes-etiquette-brunei/" class="project-link">
+			<a href="/asean-countries/living-in-asean-countries/customs-costumes-etiquette-brunei/" class="project-link">
 				<img src="/images/asean-living/Customs-Brunei-370x150.jpg" alt="Customs, Costumes & Etiquette in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -37,11 +37,10 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/financial-services-brunei/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/financial-banking-payment-in-brunei/" class="project-link">
 				<img src="/images/asean-living/ASEAN-Brunei-Banking-Cover-370x150.jpg" alt="Financial services, banking and payment systems in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -51,7 +50,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/housing-in-brunei/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/housing-in-brunei/" class="project-link">
 				<img src="/images/asean-living/ASEAN-Brunei-Housing-Cover-370x150.jpg" alt="Housing in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -64,11 +63,10 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/transportation-in-cambodia/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/transportation-in-cambodia/" class="project-link">
 				<img src="/images/asean-living/ASEAN-Guides-Cambodia-370x150.jpg" alt="Transportation in Cambodia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -78,7 +76,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/customs-costumes-etiquette-cambodia/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-cambodia/" class="project-link">
 				<img src="/images/asean-living/Customs-Cambodia-370x150.jpg" alt="Customs, Costumes & Etiquette in Cambodia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -91,11 +89,10 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/transportation-in-brunei/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/transportation-in-brunei/" class="project-link">
 				<img src="/images/asean-living/Transportation-Brunei-370x150.jpg" alt="Transportation in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -105,7 +102,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/customs-costumes-etiquette-brunei/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-brunei/" class="project-link">
 				<img src="/images/asean-living/Customs-Brunei-370x150.jpg" alt="Customs, Costumes & Etiquette in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -118,11 +115,10 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/financial-services-cambodia/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/financial-banking-payment-in-cambodia/" class="project-link">
 				<img src="/images/asean-living/ASEAN-Cambodia-Banking-Cover-370x150.jpg" alt="Financial services, banking and payment systems in Cambodia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -132,7 +128,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/housing-in-cambodia/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/housing-in-cambodia/" class="project-link">
 				<img src="/images/asean-living/ASEAN-Cambodia-Housing-Cover-370x150.jpg" alt="Housing in Cambodia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -145,11 +141,10 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/transportation-in-indonesia/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/transportation-in-indonesia/" class="project-link">
 				<img src="/images/asean-living/Transportation-Indonesia-370x150.jpg" alt="Transportation in Indonesia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -159,7 +154,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/customs-costumes-etiquette-indonesia/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-indonesia/" class="project-link">
 				<img src="/images/asean-living/Customs-Indonesia-370x150.jpg" alt="Customs, Costumes & Etiquette in Indonesia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -172,11 +167,10 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/financial-services-indonesia/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/financial-banking-payment-in-indonesia/" class="project-link">
 				<img src="/images/asean-living/ASEAN-Indonesia-Banking-Cover-370x150.jpg" alt="Financial services, banking and payment systems in Indonesia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -186,7 +180,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/living/housing-in-brunei/" class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/housing-in-indonesia/" class="project-link">
 				<img src="/images/asean-living/ASEAN-Indonesia-Housing-Cover-370x150.jpg" alt="Housing in Indonesia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
