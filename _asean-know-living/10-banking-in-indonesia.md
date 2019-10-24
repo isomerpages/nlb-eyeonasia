@@ -40,3 +40,14 @@ All rights reserved, Singapore: John Wiley & Sons Inc, 2013.
 
 ### **You may also like**
 
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Obtaining a bank account, tax number & BPJS-K**](http://indonesiaexpat.biz/featured/obtaining-bank-account-tax-number-bpjs-k/){:target="_blank"}
+
+This article explains how to set up a local bank account and obtain insurance cards that are necessary for employment in Indonesia.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**How the world can learn from Indonesia’s microfinance scene**](http://fintechnews.sg/10393/personalfinance/world-can-learn-indonesias-microfinance-scene/){:target="_blank"}
+
+According to this article, Laku Pandai is a branchless banking programme in Indonesia initiated by the Financial Services Authority (OJK) that enables banks to serve its clients without having to open physical branches.
