@@ -52,6 +52,6 @@ This article provides detailed background information on transportation in Cambo
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-(**Welcome to Phnom Penh Smart City Master Plan**)(http://citynet-ap.org/wp-content/uploads/2015/07/Phnom-Penh.pdf){:target="_blank"}
+[**Welcome to Phnom Penh Smart City Master Plan**](http://citynet-ap.org/wp-content/uploads/2015/07/Phnom-Penh.pdf){:target="_blank"}
 
 This is the 2035 Urban Transport Master Plan to improve urban transportation in Phnom Penh as well as encourage sustainable growth and healthy economic activities that reduce the burden on the environment while enhancing quality of life.
