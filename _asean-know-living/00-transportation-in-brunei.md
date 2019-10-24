@@ -6,7 +6,7 @@ breadcrumb: Transportation in Brunei
 collection_name: asean-know-living
 ---
 
-<img src="/images/asean-living/Transportation-Brunei.jpg" alt="Society in ASEAN banner" style="width:800px;" />
+<img src="/images/asean-living/Transportation-Brunei.jpg" alt="Transportation Brunei banner" style="width:800px;" />
 
  This is a selection of resources on transportation in Brunei available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
