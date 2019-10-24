@@ -40,3 +40,16 @@ All rights reserved, London: Simple Guides, 2007.
 
 ### **You may also like**
 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N0w3eakSCik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Jakarta after hours tour with Tara Basro**
+
+Jakarta is a city that truly comes to life at night. Jakarta local Tara Basro takes us on a tour of her hometown, revealing the best spots to catch a show and why the city’s street food is the best.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**South Jakarta by those who know it best**](https://video.vice.com/en_id/video/down-south/59b0b74bdd8f9ba15752dea3){:target="_blank"}
+
+Take a tour of South Jakarta, known for its Little Chinatown, and discover its best kept secrets from record hunting to delicious *sate taichan* (a spicy satay dish).
