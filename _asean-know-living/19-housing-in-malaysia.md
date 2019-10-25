@@ -1,14 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Housing in Laos
-permalink: /asean-countries/know/living-in-asean-countries/housing-in-laos/
-breadcrumb: Housing in Laos	
+title: Housing in Malaysia
+permalink: /asean-countries/know/living-in-asean-countries/housing-in-malaysia/
+breadcrumb: Housing in Malaysia
 collection_name: asean-know-living
 ---
 
-<img src="/images/asean-living/ASEAN-Laos-Housing.jpg" alt="Housing in Laos banner" style="width:800px;" />
+<img src="/images/asean-living/ASEAN-Malaysia-Housing.jpg" alt="Housing in Malaysia banner" style="width:800px;" />
 
-This is a selection of resources on housing in Laos available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
+This is a selection of resources on housing in Malaysia available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
 ### **Discover more**
 
