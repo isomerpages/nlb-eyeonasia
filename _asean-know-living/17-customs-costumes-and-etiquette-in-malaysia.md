@@ -1,53 +1,69 @@
 ---
 layout: leftnav-page-content
-title: Customs, costumes & etiquette in Laos
-permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-laos/
-breadcrumb: Customs, costumes & etiquette in Laos
+title: Customs, costumes & etiquette in Malaysia
+permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-malaysia/
+breadcrumb: Customs, costumes & etiquette in Malaysia
 collection_name: asean-know-living
 ---
 
-<img src="/images/asean-living/Customs-Laos.jpg" alt="Customs in Laos banner" style="width:800px;" />
+<img src="/images/asean-living/Customs-Malaysia.jpg" alt="Customs in Malaysia banner" style="width:800px;" />
 
-This is a selection of resources on customs, costumes and etiquette in Laos available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
+This is a selection of resources on customs, costumes and etiquette in Malaysia available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Culture-and-Customs-of-Laos.png" style="width:150px;" />
+<img src="/images/book-covers/CultureShock-A-survival-guide-to-customs-and-etiquette-Malaysia.jpg" style="width:150px;" />
 
-[**Culture and Customs of Laos**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=E6802DBE-90A4-405F-9771-23EF7C6E929F){:target="_blank"}
+[**CultureShock!: A survival guide to customs and etiquette, Malaysia**](https://nlb.overdrive.com/media/1077594){:target="_blank"}
 
-This book offers a comprehensive look at the contemporary culture of Laos from Buddhist traditions and Laotian cuisine to everyday customs.
+A guide to help you understand the customs and etiquette observed by the different ethnic communities living in Malaysia. Be sure to consult this book if you want to avoid cultural gaffes when out and about in the country.
 
-Retrieved from OverDrive (*myLibrary* ID is required to access this ebook)
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
-<img src="/images/book-covers/Siho-and-Naga-Lao-Textiles-Reflecting-a-people’s-tradition-and-change.png" style="width:150px;" />
+<img src="/images/book-covers/Forever-Malaysia.png" style="width:150px;" />
 
-[**Siho and Naga – Lao Textiles: Reflecting a people’s tradition and change**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Forever Malaysia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202343826){:target="_blank"}
 
-Find out more about the enchanting Laotian traditional textiles and be enthralled by the dyeing and weaving techniques that go into creating the Laotian textiles.
+A compilation of comic strips from Datuk Mohammad Nor Khalid, or better known as Lat, one of the most well-known cartoonists in Malaysia. Lat portrays Malaysian everyday life and depicts how Malaysians perceive themselves through these comic strips.
 
-Retrieved from Ebscohost (*myLibrary* ID is required to access this database)
+All rights reserved, Malaysia: MPH Group Printing, 2015.
 
-<img src="/images/book-covers/Laos-Society-Culture.jpg" style="width:150px;" />
+<img src="/images/book-covers/Culture-and-customs-of-Singapore-and-Malaysia.jpg" style="width:150px;" />
 
-[**Laos: Society & Culture**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Culture and customs of Singapore and Malaysia**](https://nlb.overdrive.com/media/357391){:target="_blank"}
 
-Interested in Laos and want to find out more? Check out this all-inclusive culture report to get up to speed on all aspects of culture in Laos, including lifecycle, superstitions and folklore, sports, holidays and festivals as well as  etiquette.
+This book examines aspects of contemporary cultural life in these two geographically close and historically and culturally connected nations. Peruse the book to understand the ways in which various ethnic communities in Singapore and Malaysia are maintaining their traditional customs.
 
-Retrieved from EbscoHost. *(myLibrary* ID is required to access this database)
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
+
+<img src="/images/book-covers/The-A-to-Z-of-Malaysia.jpg" style="width:150px;" />
+
+[**The A to Z of Malaysia**](https://nlb.overdrive.com/media/1145038){:target="_blank"}
+
+The A to Z of Malaysia charts the development of Malaysia. It covers not only its history but also politics, economy, multiethnic society, multiculturalism, scientific and technological developments, and the state of its environment.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
+
+<img src="/images/book-covers/Malaysia-The-essential-guide-to-customs-culture.jpg" style="width:150px;" />
+
+[**Malaysia: The essential guide to customs & culture**](https://nlb.overdrive.com/media/%7B7E5DA98B-1526-4405-8B4B-C969ACA6608C%7D){:target="_blank"}
+
+This guide provides essential information on the attitudes, beliefs and behaviour in Malaysia. Arm yourself with knowledge of the basic manners, common courtesies and sensitive issues in Malaysia before you reach your destination.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
 ---
 
 ### **You may also like**
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Laos Culture**](http://www.laos-guide-999.com/Laos-culture.html){:target="_blank"}
+[**Culture & Heritage – People**](http://www.malaysia.travel/en/es/about-malaysia/culture-n-heritage){:target="_blank"}
 
-Find out more about Laos through their culture and traditional practices in life events such as weddings.
+This official Malaysia tourism website provides an overview of the ethnic groups in Malaysia. These include the three main groups namely the Malays, Chinese and Indians, as well as the indigenous ethnic groups.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Etiquette and customs in Laos**](http://factsanddetails.com/southeast-asia/Laos/sub5_3b/entry-2952.html)
+[**Traditional attire**](http://www.malaysia.travel/en/es/about-malaysia/culture-n-heritage/traditional-attire){:target="_blank"}
 
-Learn about traditional etiquette for mealtimes in Laos, forms of greetings as well as customs of various hill tribes in Laos.
+This official Malaysia tourism website provides an overview of the traditional attires of the different ethnic groups of Malaysia. Some examples include the Malay *baju kebaya*, Indian *saree* and Chinese *cheongsam*.
