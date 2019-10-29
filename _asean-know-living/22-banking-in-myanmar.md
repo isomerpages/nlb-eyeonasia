@@ -23,3 +23,4 @@ An essential move by any new arrival to a country is to open a bank account in t
 [**Expat Banking: Everything you wanted to know, and more**](https://frontiermyanmar.net/en/business/expat-banking-everything-you-wanted-to-know-and-more){:target="_blank"}
 
 This article describes the complexities involved in banking for a foreigner, and dispenses advice on how to open a bank account in Myanmar, which bank to use and which currency is best. It also provides information with regards to withdrawal limits from ATMs, account fees, currency transfers and credit card usage.
+

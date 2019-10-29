@@ -53,3 +53,23 @@ An informative article on understanding the road signs found in the Philippines.
 [**Manila in 5 minutes? Businessmen turn to air travel to beat traffic jams**](https://www.rappler.com/business/features/127968-asian-aerospace-air-transport-traffic-manila){:target="_blank"}
 
 The bad traffic congestion in Manila has led to businessmen paying more to travel by helicopter in order to save time.
+
+### **You may also like**
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**9 facts you may not know about Philippine national symbols**](http://ncca.gov.ph/about-culture-and-arts/in-focus/9-facts-you-may-not-know-about-philippine-national%20-symbols/){:target="_blank"}
+
+An article from the National Commission for Culture and the Arts, it lists and provides a brief explanation on the nine national symbols of the Philippines that represent the country’s traditions, ideals and sovereignty.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Traditional costumes of the Philippines**](http://philippinestravelsite.com/traditional-costumes-philippines/){:target="_blank"}
+
+This article presents a brief introduction to the traditional costumes of the Philippines, with some photographs.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**The Philippine costumes**](https://aboutphilippines.ph/documents-etc/Philippine-traditional-Costumes.pdf){:target="_blank"}
+
+This article highlights 22 commonly seen costumes in the Philippines, including the official national costume and the attire of the indigenous tribes. Each costume is accompanied with photographs.
