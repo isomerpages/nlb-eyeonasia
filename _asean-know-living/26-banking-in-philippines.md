@@ -12,7 +12,7 @@ This is a selection of resources on financial services, banking and payment syst
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Philippines-society-culture-complete-report-An-all-inclusive-profile-combining-all-of-our-society-and-culture-report.png" style="width:150px;" />
+<img src="/images/book-covers/Sin-tax-reform-in-the-Philippines.jpg" style="width:150px;" />
 
 [**Sin tax reform in the Philippines: Transforming public finance, health, and governance for more inclusive development**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202770872){:target="_blank"}
 
