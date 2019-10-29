@@ -22,7 +22,7 @@ All rights reserved, Singapore: Lonely Planet, 2017.
 
 ### **You may also like**
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Yangon International Airport**](http://yangonairport.aero/){:target="_blank"}
 
@@ -34,7 +34,7 @@ This site provides a useful listing of airlines and airports that connect to Yan
 
 This is a list of bus routes plotted on Google Maps. Click on the “Transit Map” tab to see all the bus routes but note that the text is in Burmese.
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**Taxi service firms compete hard for Yangon’s customers**](https://www.mmtimes.com/business/26348-taxi-service-firms-compete-hard-for-yangon-s-customers.html){:target="_blank"}
 
@@ -46,7 +46,7 @@ This 12 June 2017 *Myanmar Times* article provides useful information on the sta
 
 Aside from public transport, there is, of course, the option of driving your own vehicle in Myanmar. The government department overseeing this is the Road Transport Administration Department, whose website hosts information about driving licenses to vehicle inspections. The site is in Burmese, with an English translation of basic information.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Myanma Railways**](http://www.myanmarailways1877.com/){:target="_blank"}
 
@@ -57,4 +57,3 @@ This site provides information for official train fares and schedules. However, 
 [**Yangon Water Bus**](http://www.yangonwaterbus.com/){:target="_blank"}
 
 The most recent addition (2017) to Yangon’s transport system is the water bus or ferry service along the Yangon River. The website has a map of the route and jetty locations as well as the ferry schedule. Tickets are available from ticketing counters or online.
-
