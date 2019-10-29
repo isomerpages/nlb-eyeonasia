@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Transportation in Malaysia
-permalink: /asean-countries/know/living-in-asean-countries/transportation-in-Malaysia/
+permalink: /asean-countries/know/living-in-asean-countries/transportation-in-malaysia/
 breadcrumb: Transportation in Malaysia
 collection_name: asean-know-living
 ---
