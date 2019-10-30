@@ -63,3 +63,15 @@ Retrieved from EBSCOHost (*myLibrary*ID is required to access this database)
 ---
 
 ### **You may also like**
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Tom’s two satang**](https://www.bangkok101.com/category/columns/two-satang-2/){:target="_blank"}
+
+Follow this column for Bangkok-born restauranteur and art lover Dr Tom Vitayakul’s light-hearted two cents (*satang* in Thai) on the unique aspects of Thai culture, customs and society.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Why Thai people love to laugh**](http://www.bbc.com/culture/story/20170915-why-thai-people-love-to-laugh){:target="_blank"}
+
+The popularity of Thai comedy reflects the easy-going disposition and humorous culture of its people. Watch this BBC video to find out more.
