@@ -36,6 +36,8 @@ This guidebook includes maps and basic information on getting around Bangkok usi
 
 Retrieved from OverDrive. (*myLibrary*ID is required to access this database)
 
+---
+
 ### **You may also like**
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
