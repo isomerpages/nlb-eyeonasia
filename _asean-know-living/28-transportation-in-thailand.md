@@ -12,64 +12,40 @@ collection_name: asean-know-living
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Are-Metro-Manila-households-willing-to-pay-for-cleaner-public-transport.png" style="width:150px;" />
+<img src="/images/book-covers/Living-abroad-in-Thailand.png" style="width:150px;" />
 
-[**Are Metro Manila households willing to pay for cleaner public transport?**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14206186){:target="_blank"}
+[**Living abroad in Thailand**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13736587){:target="_blank"}
 
-A study by the Economy and Environment Program for Southeast Asia on air pollution in Metro Manila, and investigates whether people would be willing to pay for a programme that would improve air quality by having a cleaner public transportation system.
+If you’ve ever imagined yourself living in Thailand, then this book is for you. Apart from information on visas, finances, employment, housing and healthcare, the book also introduces the types of public transport in Thailand as well as useful tips on how to get around Bangkok.
 
-All rights reserved, Singapore: Economy and Environment Program for Southeast Asia (EEPSEA), 2010.
+All rights reserved, California.: Avalon Travel, 2016.
 
-<img src="/images/book-covers/Jeep-ni-Juan-A-history-of-the-jeep-in-the-Philippines.png" style="width:150px;" />
+<img src="/images/book-covers/Trams-buses-and-rails-The-history-of-urban-transport-in-Bangkok.jpg" style="width:150px;" />
 
-[**Jeep ni Juan: A history of the jeep in the Philippines**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14086756){:target="_blank"}
+[**Trams, buses, and rails: The history of urban transport in Bangkok, 1886–2010**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201511980){:target="_blank"}
 
-This book traces the history of the jeepney, a ubiquitous form of transport in the Philippines.
+This book recounts the unique and little-known 130-year history of Bangkok’s transportation system, from the first horse-powered tramway in 1888 to the mass transit urban railway of the 21st century. It also traces the policies that have led to the urban transport network of today.
 
-All rights reserved, Manila: Published and exclusively distributed by Anvil Pub., 2011.
+All rights reserved, Bangkok: Silkworm Books, 2014.
+
+<img src="/images/book-covers/The-Rough-Guide-to-Bangkok.jpg" style="width:150px;" />
+
+[**The Rough Guide to Bangkok**](https://nlb.overdrive.com/media/9DB7A533-F6C1-4762-9B2D-15C401521B03){:target="_blank"}
+
+This guidebook includes maps and basic information on getting around Bangkok using public transport, such as useful bus routes, as well as a suggested list of car and bike rental agencies.
+
+Retrieved from OverDrive. (*myLibrary*ID is required to access this database)
 
 ### **You may also like**
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
-[**Creating sustainable transport systems: PH’s progress so far**](https://www.rappler.com/science-nature/environment/127075-philippines-sustainable-transportation-strategy){:target="_blank"}
-
-An article about the worsening traffic conditions in the Philippines and the need for long-term and environmentally sustainable transportation projects.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Carpooling app helps Manila commuters create transport fixes**](https://www.rappler.com/business/industries/215-tech-biz/142853-carpooling-wunder-metro-manila-transportation){:target="_blank"}
+[**Bangkok Mass Transit System (BTS) Service Routes Map**](http://www.bts.co.th/customer/en/02-route-current_new.aspx){:target="_blank"}
 
-The writer observes a growing trend in the use of carpooling apps to provide a sustainable and viable transport solution in Manila.
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
-[**These road signs keep you safe on the road**](https://www.rappler/com/move-ph/issues/road-safety/166081-philippines-road-signs-road-safety){:target="_blank"}
-
-An informative article on understanding the road signs found in the Philippines.
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
-[**Manila in 5 minutes? Businessmen turn to air travel to beat traffic jams**](https://www.rappler.com/business/features/127968-asian-aerospace-air-transport-traffic-manila){:target="_blank"}
-
-The bad traffic congestion in Manila has led to businessmen paying more to travel by helicopter in order to save time.
-
-### **You may also like**
-
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
-
-[**9 facts you may not know about Philippine national symbols**](http://ncca.gov.ph/about-culture-and-arts/in-focus/9-facts-you-may-not-know-about-philippine-national%20-symbols/){:target="_blank"}
-
-An article from the National Commission for Culture and the Arts, it lists and provides a brief explanation on the nine national symbols of the Philippines that represent the country’s traditions, ideals and sovereignty.
+This interactive map shows the latest service routes for the BTS Skytrain in Bangkok, with information about fares and travel time available. The website also provides tips on exploring Bangkok using the BTS network.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Traditional costumes of the Philippines**](http://philippinestravelsite.com/traditional-costumes-philippines/){:target="_blank"}
+[**Transit Bangkok**](http://www.transitbangkok.com/){:target="_blank"}
 
-This article presents a brief introduction to the traditional costumes of the Philippines, with some photographs.
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
-[**The Philippine costumes**](https://aboutphilippines.ph/documents-etc/Philippine-traditional-Costumes.pdf){:target="_blank"}
-
-This article highlights 22 commonly seen costumes in the Philippines, including the official national costume and the attire of the indigenous tribes. Each costume is accompanied with photographs.
+Transit Bangkok is your all-in-one guide to public transportation in Bangkok. It covers the bus services, MRT (Bangkok Metro), BTS Sky Trains, Chao Phraya Express Boats and Saen Saep Boat Service.
