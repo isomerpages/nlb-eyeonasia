@@ -32,13 +32,13 @@ All rights reserved, Tokyo: Tuttle Pub., c2013.
 
 ### **You may also like**
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**Securing the future of Philippine industries – Housing**](http://industry.gov.ph/industry/housing){:target="_blank"}
 
 This resource by the Department of Trade and Industry and the Board of Investments outlines the future plans for housing in the Philippines, aiming to eliminate the housing backlog by the year 2030.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Accommodation in Manila**](http://expat.com/en/guide/asia/philippines/12866-accommodation-in-manila.html){:target="_blank"}
 
