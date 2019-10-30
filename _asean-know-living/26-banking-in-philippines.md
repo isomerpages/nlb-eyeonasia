@@ -36,6 +36,8 @@ This country report highlights the issues plaguing the Philippines, assesses its
 
 Retrieved from ProQuest Ebook Central. (*myLibrary ID* is required to access this ebook.)
 
+---
+
 ### **You may also like**
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
