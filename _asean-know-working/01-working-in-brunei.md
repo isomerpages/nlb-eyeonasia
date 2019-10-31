@@ -6,7 +6,7 @@ breadcrumb: Working in Brunei
 collection_name: asean-know-working
 ---
 
-<img src="/images/asean-working/ASEAN-Brunei-Working.jpg" alt="Business culture Brunei banner" style="width:800px;" />
+<img src="/images/asean-working/ASEAN-Brunei-Working.jpg" alt="Working in Brunei banner" style="width:800px;" />
 
 This is a selection of resources on working in Brunei available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
