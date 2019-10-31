@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Business culture in Brunei
-permalink: /asean-countries/know/working-in-asean-countries/transportation-in-brunei/
+permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-brunei/
 breadcrumb: Transportation in Brunei
 collection_name: asean-know-living
 ---
