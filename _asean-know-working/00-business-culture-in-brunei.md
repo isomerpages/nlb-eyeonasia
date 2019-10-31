@@ -12,7 +12,7 @@ This is a selection of resources on business culture in Brunei available from th
 
 ### **NLB print resources**
 
-<img src="/images/book-covers/Brunei-Darussalam-long-term-development-plan-Wawasan-Brunei-2035.png" style="width:180px;" />
+<img src="/images/book-covers/Brunei-Darussalam-long-term-development-plan-Wawasan-Brunei-2035.png" style="width:150px;" />
 
 [**Brunei Darussalam long-term development plan: Wawasan Brunei 2035**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13117939){:target="_blank"}
 
@@ -20,11 +20,10 @@ While the book’s chapter on transport and communications acknowledges the prog
 
 All rights reserved, Bandar Seri Begawan: Council for the Long-Term Development Plan, 2007.
 
+<img src="/images/book-covers/Brunei-Darussalam-2011-The-report.png" style="width:150px;" />
 
+[**Brunei Darussalam 2011: The report**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14686531){:target="_blank"}
 
----
+A country profile on Brunei covering its political and economic landscapes. Interviews with key personalities from Brunei and international partners provide useful insights to Brunei’s growth potential.
 
-### **You may also like**
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
+All rights reserved, Oxford Business Group, 2011.
