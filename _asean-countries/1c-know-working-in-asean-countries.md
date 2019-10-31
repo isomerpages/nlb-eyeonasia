@@ -39,7 +39,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/business-culture-in-brunei/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-brunei/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Brunei-Business-Culture-Cover-370x150.jpg" alt="Business culture in Brunei" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
