@@ -12,32 +12,6 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/discussing-business-in-sea/" class="project-link">
-				<img src="/images/asean-working/Discussing-Business-in-Southeast-Asia-370x150.jpg" alt="Listen: Discussing business in Southeast Asia" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Listen: Discussing business in Southeast Asia</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/understanding-cultural-intelligence/" class="project-link">
-				<img src="/images/asean-working/Home-banner-370x150.jpg" alt="Understanding cultural intelligence" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Understanding cultural intelligence</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>
-
-<p><p>
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-brunei/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Brunei-Business-Culture-Cover-370x150.jpg" alt="Business culture in Brunei" class="project-image">
 			<div class="project-card">
@@ -242,6 +216,33 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Working in Vietnam</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean/working/discussing-business-in-sea/" class="project-link">
+				<img src="/images/asean-working/Discussing-Business-in-Southeast-Asia-370x150.jpg" alt="Listen: Discussing business in Southeast Asia" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Listen: Discussing business in Southeast Asia</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean/working/understanding-cultural-intelligence/" class="project-link">
+				<img src="/images/asean-working/Home-banner-370x150.jpg" alt="Understanding cultural intelligence" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Understanding cultural intelligence</b></h5>
 				</div>
 			</div>
 			</a>
