@@ -28,6 +28,8 @@ This book traces the history of the jeepney, a ubiquitous form of transport in t
 
 All rights reserved, Manila: Published and exclusively distributed by Anvil Pub., 2011.
 
+---
+
 ### **You may also like**
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
