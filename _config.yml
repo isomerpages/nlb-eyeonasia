@@ -40,6 +40,8 @@ collections:
     output: true
   asean-know-living:
     output: true
+  asean-know-working:
+    output: true
   asean-know-sharing:
     output: true
   china:
@@ -53,6 +55,7 @@ collections:
   india:
     output: true
     
+
 # Resource Room and Pagination
 paginate: 12
 
