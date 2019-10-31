@@ -10,20 +10,16 @@ collection_name: asean-know-working
 
 This is a selection of resources on working in Brunei available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
-### **NLB print resources**
+### **Discover more**
 
-<img src="/images/book-covers/Brunei-Darussalam-long-term-development-plan-Wawasan-Brunei-2035.png" style="width:150px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Brunei Darussalam long-term development plan: Wawasan Brunei 2035**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13117939){:target="_blank"}
+[**Employment & labour**](https://www.brunei.gov.bn/services/Employment%20and%20Labour.aspx){:target="_blank"}
 
-While the book’s chapter on transport and communications acknowledges the progress made in Brunei in the road and telecommunications sub-sectors, it recognises that the availability and reliability of public transportation is still unsatisfactory. For example, bus and taxi services are still infrequent and limited. It is vital that the development of the transport and communications infrastructure has been elevated as one of the key thrusts in Brunei’s long-term development plan.
+A useful resource for conducting official matters with the government of Brunei. A link to Job Centre Brunei is also provided for job seekers or those who wish to upgrade themselves through training.
 
-All rights reserved, Bandar Seri Begawan: Council for the Long-Term Development Plan, 2007.
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-<img src="/images/book-covers/Brunei-Darussalam-2011-The-report.png" style="width:150px;" />
+[**Ministry of Health – Foreign Workers Health Screening Programme**](http://www.moh.gov.bn/SitePages/Foreign%20Workers%20Health%20Screening%20Programme.aspx){:target="_blank"}
 
-[**Brunei Darussalam 2011: The report**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14686531){:target="_blank"}
-
-A country profile on Brunei covering its political and economic landscapes. Interviews with key personalities from Brunei and international partners provide useful insights to Brunei’s growth potential.
-
-All rights reserved, Oxford Business Group, 2011.
+Foreign workers are required to undergo health screening within one week of their arrival in Brunei. This website provides information on the process and procedures for both new foreign workers and those who are renewing their contracts.
