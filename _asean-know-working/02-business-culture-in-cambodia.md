@@ -10,20 +10,32 @@ collection_name: asean-know-working
 
 This is a selection of resources on business culture in Cambodia available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
-### **NLB print resources**
+### **NLB print and digital resources**
 
-<img src="/images/book-covers/Brunei-Darussalam-long-term-development-plan-Wawasan-Brunei-2035.png" style="width:150px;" />
+<img src="/images/book-covers/Cambodia-Culture-Smart.jpg" style="width:150px;" />
 
-[**Brunei Darussalam long-term development plan: Wawasan Brunei 2035**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13117939){:target="_blank"}
+[**Cambodia – Culture Smart! (The Essential Guide to Customs & Culture)**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13110838){:target="_blank"}
 
-While the book’s chapter on transport and communications acknowledges the progress made in Brunei in the road and telecommunications sub-sectors, it recognises that the availability and reliability of public transportation is still unsatisfactory. For example, bus and taxi services are still infrequent and limited. It is vital that the development of the transport and communications infrastructure has been elevated as one of the key thrusts in Brunei’s long-term development plan.
+*Cambodia – Culture Smart!* offers illuminating insights into Cambodian culture and society. This concise guide enhances the understanding of attitudes, beliefs and behaviour in Cambodia and helps expats display awareness and develop successful business connections.
 
-All rights reserved, Bandar Seri Begawan: Council for the Long-Term Development Plan, 2007.
+All rights reserved, London: Kuperard, 2008.
 
-<img src="/images/book-covers/Brunei-Darussalam-2011-The-report.png" style="width:150px;" />
+<img src="/images/book-covers/Doing-business-in-the-ASEAN-countries.jpg" style="width:150px;" />
 
-[**Brunei Darussalam 2011: The report**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14686531){:target="_blank"}
+[**Doing business in the ASEAN countries**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14192497){:target="_blank"}
 
-A country profile on Brunei covering its political and economic landscapes. Interviews with key personalities from Brunei and international partners provide useful insights to Brunei’s growth potential.
+This book is a practical and comprehensive guide for those keen on doing business in the various ASEAN countries. It describes the unique business environment in each country, addressing aspects such as business etiquette and management style.
 
-All rights reserved, Oxford Business Group, 2011.
+All rights reserved, New York: Business Expert Press, 2010.
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**Business practices in Southeast Asia: An interdisciplinary analysis of Theravada Buddhist countries**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=N){:target="_blank"}
+
+This ebook is an international business study that analyses the influence of Theravada Buddhist culture on Cambodia’s work practices.
+
+Retrieved from NetLibrary (eBooks on EBSCOHost). (*myLibrary*ID is required to access this database.)
+
+---
+
+### **You may also like**
