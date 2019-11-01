@@ -1,14 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Business culture in Philippines
+title: Business culture in the Philippines
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-philippines/
-breadcrumb: Business culture in Philippines
+breadcrumb: Business culture in the Philippines
 collection_name: asean-know-working
 ---
 
 <img src="/images/asean-working/ASEAN-Philippines-Business-Culture.jpg" alt="Business culture Philippines banner" style="width:800px;" />p
 
-This is a selection of resources on business culture in Philippines available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
+This is a selection of resources on business culture in the Philippines available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
 ### **NLB print and digital resources**
 
