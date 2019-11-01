@@ -38,7 +38,7 @@ All rights reserved, Vermont: Tuttle Publishing, 2016.
 
 This detailed guide covers the requirements for finding work in Thailand, the job-hunting process, the best places to find job openings, as well as recommended industries and employers.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Deloitte – Taxation and investment in Thailand 2017**](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/international-business-support/deloitte-cn-ibs-thailand-tax-invest-en-2017.pdf){:target="_blank"}
 
