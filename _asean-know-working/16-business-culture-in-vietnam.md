@@ -10,15 +10,23 @@ collection_name: asean-know-working
 
 This is a selection of resources on business culture in Vietnam available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
-### **NLB print resources**
+### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-way-Thais-lead-Face-as-social-capital.jpg" style="width:150px;" />
+<img src="/images/book-covers/Vietnam-business-guide-Getting-started-in-tomorrow’s-market-today.jpg" style="width:150px;" />
 
-[**The way Thais lead: Face as social capital**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202414732){:target="_blank"}
+[**Vietnam business guide: Getting started in tomorrow’s market today**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13568218){:target="_blank"}
 
-This book is an insider’s account of Thai leadership based on ethnographic research. It examines the critical importance of ‘face’ in Thai society. The failure to recognise situations where ‘face’ is involved not only leads to awkward relations and misunderstandings, but could also be costly in business interactions.
+This guide reveals the unique aspects of Vietnam’s business landscape for foreigners interested in entering its business market.
 
-All rights reserved, Bangkok: Silkworm Books, 2016.
+All rights reserved, Singapore: John Wiley & Sons (Asia), 2010.
+
+<img src="/images/book-covers/Doing-business-in-the-ASEAN-countries.jpg" style="width:150px;" />
+
+[**Doing business in the ASEAN countries**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14192497){:target="_blank"}
+
+A practical and comprehensive guide for those keen on doing business in the various ASEAN countries. It describes the unique business environment in each country, addressing aspects such as business etiquette and management style.
+
+All rights reserved, New York: Business Expert Press, 2010.
 
 ---
 
