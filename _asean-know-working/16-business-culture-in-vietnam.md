@@ -1,14 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Business culture in Thailand
-permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-thailand/
-breadcrumb: Business culture in Thailand
+title: Business culture in Vietnam
+permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-vietnam/
+breadcrumb: Business culture in Vietnam
 collection_name: asean-know-working
 ---
 
-<img src="/images/asean-working/ASEAN-Thailand-Business-Culture.jpg" alt="Business culture Thailand banner" style="width:800px;" />
+<img src="/images/asean-working/ASEAN-Vietnam-Business-Culture.jpg" alt="Business culture Vietnam banner" style="width:800px;" />
 
-This is a selection of resources on business culture in Thailand available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
+This is a selection of resources on business culture in Vietnam available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
 
 ### **NLB print resources**
 
