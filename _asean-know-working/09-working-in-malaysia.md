@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Working in Laos
-permalink: /asean-countries/know/working-in-asean-countries/working-in-laos/
-breadcrumb: Working in Laos
+title: Working in Malaysia
+permalink: /asean-countries/know/working-in-asean-countries/working-in-malaysia/
+breadcrumb: Working in Malaysia
 collection_name: asean-know-working
 ---
 
