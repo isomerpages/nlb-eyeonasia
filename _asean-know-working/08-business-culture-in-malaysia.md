@@ -14,7 +14,7 @@ This is a selection of resources on business culture in Malaysia available from 
 
 <img src="/images/book-covers/Doing-business-in-the-ASEAN-countries.jpg" style="width:150px;" />
 
-[**Doing business in the ASEAN countries**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14192497)
+[**Doing business in the ASEAN countries**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14192497){:target="_blank"}
 
 This book is a practical and comprehensive guide to succeeding in ASEAN countries including Malaysia. It allows for a deeper understanding of the business environment of these diverse economies.
 
