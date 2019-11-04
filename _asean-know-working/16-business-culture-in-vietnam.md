@@ -28,18 +28,34 @@ A practical and comprehensive guide for those keen on doing business in the vari
 
 All rights reserved, New York: Business Expert Press, 2010.
 
+<img src="/images/book-covers/Guerilla-capitalism-The-state-in-the-market-in-Vietnam.jpg" style="width:150px;" />
+
+[**Guerilla capitalism – The state in the market in Vietnam**](https://nlb.overdrive.com/media/1747903){:target="_blank"}
+
+Based on interviews conducted with managers of state-owned enterprises in Vietnam, this book analyses the nature of the country’s business system and culture.
+
+Retrieved from OverDrive. (*myLibrary ID* is required to access this ebook.)
+
+<img src="/images/book-covers/Vietnam-rising-Culture-and-change-in-Asia’s-tiger-cub.jpg" style="width:150px;" />
+
+[**Vietnam rising: Culture and change in Asia’s tiger cub**](https://nlb.overdrive.com/media/1556320){:target="_blank"}
+
+This title provides an overview of the cultural, political and economic changes in Vietnam’s history and its influences upon contemporary Vietnamese business environment. This is a useful guide for those establishing connections with Vietnamese businesses.
+
+Retrieved from OverDrive. (*myLibrary ID* is required to access this ebook.)
+
 ---
 
 ### **You may also like**
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Doing business in Thailand**](https://www.singaporethaicc.or.th/the-business-environment/){:target="_blank"}
+[**Business etiquette in Vietnam**](https://www.vietchamsg.org/business-etiquette-vietnam/){:target="_blank"}
 
-Planning to do business in Thailand? The Singapore-Thai Chamber of Commerce website provides general information on the business environment, legal issues, immigration requirements and more.
+This article provides advice on the key beliefs, values and attitudes upheld in Vietnamese businesses.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Doing business: Thailand**](http://www.doingbusiness.org/~/media/wbg/doingbusiness/documents/profiles/country/tha.pdf){:target="_blank"}
+[**Understand the concept of saving face in Vietnamese culture**](http://thevietnamguide.com/tvg/tag/business-culture/){:target="_blank"}
 
-This report by the World Bank sheds light on how to start a business in Thailand. It offers practical information on the procedures including registering a new firm, obtaining construction permits, getting electricity, credit as well as tax matters.
+This article provides an overview to concepts such as “saving face” and professional greetings to ensure your business starts off on the right foot in Vietnam.
