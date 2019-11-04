@@ -6,7 +6,7 @@ breadcrumb: Indonesia - Getting a world of experience
 collection_name: asean-share-youngpeople
 ---
 
-<img src="\images\asean-youngpeople\Getting-a-world-of-experience.jpg" alt="Myanmar travel and learn banner" style="width:800px;" />
+<img src="\images\asean-youngpeople\Getting-a-world-of-experience.jpg" alt="Indonesia geeting experience banner" style="width:800px;" />
 
 This extract is reproduced with permission:
 
