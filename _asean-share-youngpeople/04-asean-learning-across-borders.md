@@ -6,7 +6,7 @@ breadcrumb: Vietnam - Learning across borders
 collection_name: asean-share-youngpeople
 ---
 
-<img src="\images\asean-youngpeople\Flying-high-20-20.jpg" alt="Myanmar flying high banner" style="width:800px;" />
+<img src="\images\asean-youngpeople\Learning-across-borders.jpg" alt="Vietnam learning across borders banner" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 
