@@ -10,9 +10,9 @@ collection_name: asean-share-youngpeople
 
 **This extract is reproduced with permission:**
 
-While Vietnam’s seeds industry is largely fragmented with several players, Tropdicorp is considered a reputable and sizable player in the vegetable seeds market space. It excels because of its ability to tap into modern agricultural technology to aid farmer’s concerns on decreased arable land, crop infection and pest issues.
+*Bunge Vietnam has been one of the leading imported feed ingredient suppliers to the local market since 2002. The country is the fourth largest US soybean meal importer, with an equivalent of 18.4 million bushels in 2010. The processing plant is estimated to account for 30% of the total soybean oil and soybean meal consumption in Vietnam.*
 
-[Read more about SMU’s Industry Study Mission Vietnam 2014 visit to Tropdicorp.](http://www.eyeonasia.sg/wp-content/uploads/2017/12/ISM-Vietnam_compressed.pdf){:target="_blank"}
+[Read more about SMU’s Industry Study Mission Vietnam 2014 visit to Bunge Vietnam.](http://www.eyeonasia.sg/wp-content/uploads/2017/12/ISM-Vietnam_compressed.pdf){:target="_blank"}
 
 Credit: International Trading Institute@SMU
 

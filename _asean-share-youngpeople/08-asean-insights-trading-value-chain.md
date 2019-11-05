@@ -10,7 +10,7 @@ collection_name: asean-share-youngpeople
 
 **This extract is reproduced with permission:**
 
-The team was hosted by Great Wall Industries for the first leg of the trip. Great Wall’s activities stretch across sugar, wood, plantations and the service sector. As one of the industry leaders in the trading value chain, the ITC students had a lot to learn from the company on how business was conducted in Myanmar.
+*The team was hosted by Great Wall Industries for the first leg of the trip. Great Wall’s activities stretch across sugar, wood, plantations and the service sector. As one of the industry leaders in the trading value chain, the ITC students had a lot to learn from the company on how business was conducted in Myanmar.*
 
 [Read more about SMU’s Industry Study Mission Myanmar 2014 visit to Great Wall Industries.](http://www.eyeonasia.sg/wp-content/uploads/2017/12/ISM-Myanmar.pdf){:target="_blank"}
 
