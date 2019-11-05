@@ -44,6 +44,8 @@ collections:
     output: true
   asean-share-youngpeople:
     output: true
+  asean-share-employers:
+    output: true
   china:
     output: true
   china-overview:
