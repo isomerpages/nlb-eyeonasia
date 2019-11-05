@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Vietnam - Insights into the vegetable seeds industry
-permalink: /asean-countries/share/what-young-people-say/vietnam-insights-vegentable-industry/
+permalink: /asean-countries/share/what-young-people-say/vietnam-insights-vegetable-industry/
 breadcrumb: Vietnam - Insights into the vegetable seeds industry
 collection_name: asean-share-youngpeople
 ---
