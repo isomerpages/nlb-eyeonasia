@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Indonesia - Radio talk by industry experts, Victor Chan and Farid MN
 permalink: /asean-countries/share/what-employers-say/indonesia-radio-talk-by-industry-experts/
 breadcrumb: Indonesia - Radio talk by industry experts, Victor Chan and Farid MN
-collection_name: asean-share-youngpeople
+collection_name: asean-share-employers
 ---
 
 <img src="\images\asean-youngpeople\SP-Indonesia-bg.jpg" alt="Indonesia Insights about Yogyakarta banner" style="width:800px;" />
@@ -25,5 +25,4 @@ On 9 April 2018, our Eye on Asia partners, Victor Chan, CEO, Founder, Internatio
 </table>
 
 <iframe src="https://omny.fm/shows/money-fm-893/mind-your-business-victor-chan-ceo-founder-interna/embed?style=cover" width="100%" height="180" frameborder="0"></iframe>
-
 Source: Mind Your Business was hosted by Howie Lim as part of the show Midday with Howie Lim from 10am-2pm, weekdays on MONEY FM, 89.3, Singapore's first business and personal finance radio station.
