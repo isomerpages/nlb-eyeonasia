@@ -12,27 +12,17 @@ This article provides an overview of China for those keen on exploring the possi
 
 
 
-**<u>Fact Sheet</u>**
+### **Fact Sheet**
 
-**Official Name:** People’s Republic of China (Zhonghua Renmin Gongheguo)[^1]
+- **Official Name:** People’s Republic of China (Zhonghua Renmin Gongheguo)[^1]
+- **Capital:** Beijing[^2]
+- **Population:** 1,382,710,000 (2016)[^3]
+- **Chief of State:** President Xi Jinping (since 14 March 2013)[^4]
+- **Head of Government:** Premier Li Keqiang (since 18 March 2013)[^5]
+- **Government:** Communist state[^6]
+- **Currency:** Renminbi yuan (RMB)[^7]
 
-**Capital:** Beijing[^2]
-
-**Population:** 1,382,710,000 (2016)[^3]
-
-**Chief of State:** President Xi Jinping (since 14 March 2013)[^4]
-
-**Head of Government:** Premier Li Keqiang (since 18 March 2013)[^5]
-
-**Government:** Communist state[^6]
-
-**Currency:** Renminbi yuan (RMB)[^7]
-
-
-
-
-
-**Demographic profile**
+### **Demographic profile**
 
 In 2016, China’s population reached 1.3827 billion. Around 16.7 percent of the population were between the ages 0–14 years; 72.5 percent between 15–64 years; and 10.8 percent were 65 years and above.
 
@@ -42,17 +32,13 @@ In 2016, the urban population made up 57.35 percent of the total population. The
 
 The largest ethnic group in China is Han Chinese (91.6 percent).
 
-
-
-**Economic profile**
+### **Economic profile**
 
 The market reforms initiated in 1978 have transformed China from being centrally planned to a market-based economy. It has seen rapid economic growth with GDP (gross domestic product) growth averaging 10 percent per year. Today, it is the second-largest economy in the world and is increasingly playing an influential role in the global economy.
 
 In 2015, China’s strategic emerging industries accounted for about eight percent of its GDP. The 13th five-year plan (2016–2020) aims to increase it to 15 percent by 2020. The five major industries highlighted in the 13th five-year plan are: information technology; high-end manufacturing; biology; green and low carbon; and digital creation.
 
-
-
-**Major initiatives**
+### **Major initiatives**
 
 In 2013, President Xi Jinping unveiled China’s ambitious infrastructure and economic development strategy known Belt and Road Initiative BRI. China is spending around US$150 billion a year to connect more than 60 countries that have signed up to the scheme. They will be connected through a network of railways, roads, pipelines and utility grids linking China with Central Asia, West Asia and parts of South Asia. It comprises more than physical connections and aims to create a platform for economic cooperation, including policy coordination, trade and financing collaboration, and social and cultural cooperation. Its two main components are:
 
