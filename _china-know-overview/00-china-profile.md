@@ -12,24 +12,23 @@ This article provides an overview of China for those keen on exploring the possi
 
 
 
-<u>**Fact Sheet**</u>
+**<u>Fact Sheet</u>**
 
 **Official Name:** People’s Republic of China (Zhonghua Renmin Gongheguo)[^1]
 
 **Capital:** Beijing[^2]
 
-**Population:** 1,382,710,000 (2016)
+**Population:** 1,382,710,000 (2016)[^3]
 
-**Chief of State:** President Xi Jinping (since 14 March 2013)
+**Chief of State:** President Xi Jinping (since 14 March 2013)[^4]
 
-**Head of Government:** Premier Li Keqiang (since 18 March 2013)
+**Head of Government:** Premier Li Keqiang (since 18 March 2013)[^5]
 
 **Government:** Communist state
 
 **Currency:** Renminbi yuan (RMB)
 
-[^1]: Hucker, C.O., Kneightly, D.A., Rawski, E.S., & Lieberthal, K.G., et al. (2018, July 10). China. *Encyclopedia Britannica.* Retrieved July 12, 2018 from <https://www.britannica.com/place/China>{:target="_blank"}
-[^2]: Hucker, C.O., Kneightly, D.A., Rawski, E.S., & Lieberthal, K.G., et al. (2018, July 10). China. *Encyclopedia Britannica.* Retrieved July 12, 2018 from <https://www.britannica.com/place/China>{:target="_blank"}
+
 
 
 
@@ -65,3 +64,8 @@ The BRI is currently developing six international economic cooperation corridors
 ---
 ### **References**
 
+[^1]: Hucker, C.O., Kneightly, D.A., Rawski, E.S., & Lieberthal, K.G., et al. (2018, July 10). China. *Encyclopedia Britannica.* Retrieved July 12, 2018 from <https://www.britannica.com/place/China>{:target="_blank"}
+[^2]: Hucker, C.O., Kneightly, D.A., Rawski, E.S., & Lieberthal, K.G., et al. (2018, July 10). China. *Encyclopedia Britannica.* Retrieved July 12, 2018 from <https://www.britannica.com/place/China>{:target="_blank"}
+[^3]: 2-1: Population and Composition. China Statistical Yearbook 2017. (2017). *National Bureau of Statistics of China*. Retrieved July 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htmxeh.htm){:target="_blank"}
+[^4]:  Timeline – the rise of Chinese leader Xi Jinping. (2018, March 16). *Channel NewsAsia.* Retrieved July 12, 2018 from [https://www.channelnewsasia.com](https://www.channelnewsasia.com/news/asia/timeline---the-rise-of-chinese-leader-xi-jinping-10050280){:target="_blank"}
+[^5]:  Li Keqiang – Premier of China’s State Council (2018, March 19). *The State Council, The People’s Republic of China.* Retrieved July 12, 2018 from [http://english.gov.cn](http://english.gov.cn/premier/2018/03/19/content_281476082486006.htm){:target="_blank"} 
