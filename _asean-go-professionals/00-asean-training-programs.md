@@ -62,7 +62,7 @@ The Singapore Business Federation organises talks, briefings, seminars and confe
 
 - Brunei
   - Nil
--  Cambodia
+- Cambodia
   - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=cambodia>{:target="_blank"}
 - Indonesia
   - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=indonesia>{:target="_blank"}
