@@ -8,7 +8,7 @@ collection_name: asean-go-students
 
 <img src="\images\asean-students\overseas-internships.jpg" alt="overseas internship banner" style="width:800px;" />
 
-### Enterprise Singapore
+### **Enterprise Singapore**
 
 **Young Talent Programme**
 
