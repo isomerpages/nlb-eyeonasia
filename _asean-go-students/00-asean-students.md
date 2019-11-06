@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Overseas internships
-permalink: /asean-countries/go/for-students/overseas-internship/
+permalink: /asean-countries/go/for-students/overseas-internships/
 breadcrumb: Overseas internships
 collection_name: asean-go-students
 ---
 
-<img src="\images\asean-students\overseas-internship.jpg" alt="overseas internship banner" style="width:800px;" />
+<img src="\images\asean-students\overseas-internships.jpg" alt="overseas internship banner" style="width:800px;" />
 
 ### Enterprise Singapore
 
