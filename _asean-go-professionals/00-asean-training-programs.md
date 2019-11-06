@@ -67,14 +67,14 @@ The Singapore Business Federation organises talks, briefings, seminars and confe
 - Indonesia
   - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=indonesia>{:target="_blank"}
 - Laos
-  - [https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=laos]{:target="_blank"}
+  - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=laos>{:target="_blank"}
 - Malaysia
-  - [https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=malaysia]{:target="_blank"}
+  - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=malaysia>{:target="_blank"}
 - Myanmar
-  - [https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=myanmar]{:target="_blank"}
+  - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=myanmar>{:target="_blank"}
 - Philippines
-  - [https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=philippines]{:target="_blank"}
+  - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=philippines>{:target="_blank"}
 - Thailand
-  - [https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=thailand]{:target="_blank"}
+  - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=thailand>{:target="_blank"}
 - Vietnam
-  - [https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=vietnam]{:target="_blank"}
+  - <https://login.sbf.org.sg/sbf/Portal/Search?SearchTerms=vietnam>{:target="_blank"}
