@@ -46,6 +46,8 @@ collections:
     output: true
   asean-share-employers:
     output: true
+  asean-go-students:
+    output: true
   china:
     output: true
   china-overview:
