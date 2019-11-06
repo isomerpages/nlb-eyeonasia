@@ -6,7 +6,7 @@ breadcrumb: Singapore Aerospace Manufacturing – SAM banks on M&A for the long 
 collection_name: asean-share-employers
 ---
 
-<img src="\images\asean-employers\sam.jpg" alt="sam banner" style="width:800px;" />
+<img src="\images\asean-employers\sam-aerospace.jpg" alt="sam banner" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 
