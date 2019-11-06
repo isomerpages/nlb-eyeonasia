@@ -39,15 +39,15 @@ Nanyang Polytechnic
 
 Ngee Ann Polytechnic
 
-- https://www.np.edu.sg/studentlife/Pages/default.aspx{:target="_blank"}
+- <https://www.np.edu.sg/studentlife/Pages/default.aspx>{:target="_blank"}
 
 Republic Polytechnic
 
-- https://www.rp.edu.sg/going-international/overseas-internships{:target="_blank"}
+- <https://www.rp.edu.sg/going-international/overseas-internships>{:target="_blank"}
 
 Temasek Polytechnic
 
-- http://www.tp.edu.sg/global-and-industry/student-internship-programme{:target="_blank"}
+- <http://www.tp.edu.sg/global-and-industry/student-internship-programme>{:target="_blank"}
 
 Singapore Polytechnic
 
@@ -56,16 +56,17 @@ Singapore Polytechnic
 
 Nanyang Technological University
 
-- http://global.ntu.edu.sg/GMP/Pages/default.aspx{:target="_blank"}
+- <http://global.ntu.edu.sg/GMP/Pages/default.aspx>{:target="_blank"}
 
 National University of Singapore
 
-- http://nus.edu.sg/cfg/students/internships{:target="_blank"}
+- <http://nus.edu.sg/cfg/students/internships>{:target="_blank"}
 
 Singapore Management University
 
-- https://admissions.smu.edu.sg/why-smu/global-exposure{:target="_blank"}
+- <https://admissions.smu.edu.sg/why-smu/global-exposure>{:target="_blank"}
 
 Yale-NUS College
 
-- https://cipe.yale-nus.edu.sg/career-services/internships/{:target="_blank"}
+- <https://cipe.yale-nus.edu.sg/career-services/internships/>{:target="_blank"}
+
