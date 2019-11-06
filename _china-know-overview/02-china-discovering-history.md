@@ -27,3 +27,19 @@ All rights reserved, Oxford: Oxford University Press, 2016.
 An in-depth exploration of the artistic and cultural achievements of China’s “classical” era, this publication presents more than 150 works spanning the full breadth of Chinese artistic and decorative media. These include ceramics, metalwork, textiles, armor, sculpture and jewellery that demonstrate the unprecedented role of art in ancient Chinese culture.
 
 All rights reserved, New York: The Metropolitan Museum of Art, 2017.
+
+<img src="/images/book-covers/Great-books-of-China-From-ancient-times-to-the-present.jpg" style="width:150px;" />
+
+[**Great books of China: From ancient times to the present**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202823866){:target="_blank"}
+
+This publication introduces readers to outstanding works of various genres on China – ranging from fiction, drama and poetry to history, science and travel – written by philosophers, artists, government officials and scholars, both men and women across the centuries, to aid us in understanding the rich culture of past and present China.
+
+All rights reserved, New York: BlueBridge, 2017.
+
+<img src="/images/book-covers/Historical-dictionary-of-medieval-China.jpg" style="width:150px;" />
+
+[**Historical dictionary of medieval China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202945083){:target="_blank"}
+
+A rich resource for students and researchers who want to know more about medieval China, this dictionary offers more than 1,000 cross-referenced entries on key historical personalities, including thematic entries on nobility, art, architecture, archaeology, economy, agriculture, money, population, cities, literature, historiography, military, religion, Persia, India, Japan, Korea, Arabs, and Byzantium, among others.
+
+All rights reserved, Maryland: Rowman & Littlefield, 2017.
