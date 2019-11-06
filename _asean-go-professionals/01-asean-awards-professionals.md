@@ -22,7 +22,7 @@ This award provides its recipients with opportunities to deepen essential skill-
 
 **Enterprise Singapore**
 
-- ###### International Business Fellowship Executive Programme
+- ###### **International Business Fellowship Executive Programme**
 
 This comprises a series of short term programmes for middle and top management to gain market knowledge and build business networks.
 
@@ -34,7 +34,7 @@ Tap on the Enterprise Singapore’s network of partners to expand your local bus
 
 [Find out more](https://ie.enterprisesg.gov.sg/Assistance/ppn){:target="_blank"}
 
-- ###### Overseas Market Workshops
+- ###### **Overseas Market Workshops**
 
 These three-to five-day workshops help individuals build regional market understanding through knowledge sharing and networking with local and foreign practitioners, business owners and market experts.
 
