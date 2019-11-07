@@ -24,9 +24,13 @@ This article provides an overview of China for those keen on exploring the possi
 
 ### **Demographic profile**
 
+<img src="/images/china-overview/china-profile-chart1.png" style="width:250px;" />
+
 In 2016, China’s population reached 1.3827 billion. Around 16.7 percent of the population were between the ages 0–14 years; 72.5 percent between 15–64 years; and 10.8 percent were 65 years and above.
 
 In 2016, the population grew by 5.86 percent. It had a birth rate of12.95 per 1,000 population and a death rate of 7.09 per 1,000 population. The sex ratio for the total population was 1.05 males to one female.
+
+<img src="/images/china-overview/china-profile-chart2.png" style="width:250px;" />
 
 In 2016, the urban population made up 57.35 percent of the total population. The population of the major urban areas was as follows: Shanghai (24.2 million), Beijing (21.73 million), Chongqing (30.48 million), and Tianjin (15.62 million).
 
