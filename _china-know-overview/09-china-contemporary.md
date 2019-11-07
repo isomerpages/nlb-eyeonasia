@@ -296,4 +296,38 @@ Retrieved from EBSCOHost Databases. (*myLibrary* ID is required to access this d
 
 ### **You may also like**
 
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Chasing the Chinese dream: Aspirations and dilemmas of China’s new affluent consumer class**](http://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2017/jun/Chasing-The-Chinese-Dream.pdf){:target="_blank"}
+
+Read about the aspirations and consumer pursuits of the Chinese mass affluent population (individuals with RMB 650,000 to 6 million investable assets) in this 22-page report. This segment of the Chinese population is expected to reach 33 million in 2020 from the current 15 million recorded in 2015. The report also highlights the shift towards wealth and lifestyle, rising discontent due to the soaring cost of living and fresh opportunities for businesses and wealth managers in this new paradigm of domestic consumer spending.
+
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**China’s economic rise: History, trends, challenges, and implications for the United States**](https://fas.org/sgp/crs/row/RL33534.pdf){:target="_blank"}
+
+This report traces the advent of economic reforms and trade liberalisation in China which began 36 years ago and its current economic structure today. It also discusses the challenges which China faces in sustaining a rapidly growing economy and the Chinese government’s plan to implement sweeping economic reforms.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**OECD Economic Surveys China. April 2019**](https://www.oecd.org/economy/surveys/China-2019-OECD-economic-survey-overview.pdf){:target="_blank"}
+
+This report gives a detailed overview of the current state of China’s economy which is doing well but appears to be slowing down. The Chinese government is allocating sizeable funds on research and development to boost corporate dynamism and performance and the report recommends ensuring inclusive growth by improving the labour market opportunities for citizens.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**The real origins of the U.S.-China Cold War**](https://foreignpolicy.com/2019/06/02/the-real-origins-of-the-u-s-china-cold-war-big-think-communism/){:target="_blank"}
+
+This article analyses the reasons behind the current cold war between the US and China and the genesis of the decline in their bilateral relationship. The article concludes that shifting power dynamics and differences in political regimes forms the basis which has shaped a 40-year tussle over power, influence and global order.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Why China must wake up to demographic reality**](https://www.scmp.com/news/china/economy/article/2130737/why-china-must-wake-demographic-reality){:target="_blank"}
+
+China’s long growth potential may be hampered by its rapidly ageing population, coupled with a shortage of workers and students. Despite the introduction of the two-child policy, rising incomes have resulted in Chinese couples being less willing to have children, mirroring their counterparts in Japan and Germany.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Evolution of Sino-Japanese Relations: Implications for Northeast Asia and Beyond**](https://www.e-ir.info/2019/04/10/evolution-of-sino-japanese-relations-implications-for-northeast-asia-and-beyond/){:target="_blank"}
+
+China and Japan are two large economic giants in East Asia with a rivalry stemming from historical and cultural differences. This article focuses on the stability of Sino-Japanese relations over the next few years with an analysis of their contest for military, cyber and socio-economic power as well as territorial control in East Asia.
