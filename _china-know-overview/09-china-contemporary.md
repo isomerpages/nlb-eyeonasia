@@ -219,3 +219,81 @@ Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access thi
 The essays in this book written by leading Chinese scholars in the fields of international relations and political economy discuss the policies enacted by Xi Jinping, China’s current leader and analyse how these policies influence China’s governance, economy and foreign relations strategy.
 
 Retrieved from ProQuest Ebook Central. (*myLibrary* *ID* is required to access this ebook.)
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**China update series: China’s new sources of economic growth, volume 1: Reform, resources and climate change**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+Learn about the fallout of China’s demographic changes on its labour force and the factors which have contributed to the decline in China’s total factor productivity and growth in its capital stock from this book.
+
+Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**China’s domestic transformation in a global context**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+Read about the structural transformations occurring in many pockets of China’s domestic economy, from prioritizing government expenditure on education and research and development to energy and financial market reforms. Woven into the discussion is China’s strategy for participation in international trade policy negotiations.
+
+Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**China’s local governance in perspective: Instruments of central government control**](http://eresources.nlb.gov.sg/main/Browse?startsWith=E){:target="_blank"}
+
+Due to its sheer population size and land mass, China’s central government has had to design and deploy various strategies to govern even the most remote regions within its borders. This article discusses the seven dimensions of government control, which involve institutions, allocation of resources, personnel management, administrative monitoring, exertion of authority over local sectors and use of the military.
+
+Retrieved from EBSCOHost Databases. (*myLibrary* ID is required to access this database.)
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**Gender and migration: Employment of rural migrants in South China’s factories**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+This study uncovers the trend for rural women to secure factory employment more successfully compared with their male counterparts. From the factories’ perspective, women are considered to be more efficient and careful workers, while males are associated with “carelessness”, “laziness”, “violence” and “conflict”.
+
+Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database.)
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**Human capital and China’s future growth**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+Focusing on human capital, this article discusses the prospects for China’s economic growth. It examines China’s hukou policy which demarcates China’s labour force into two distinct camps of rural and urban workers and documents the progress which China has made in raising the education levels of its population.
+
+Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database.)
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**Sustainability strategies of China’s economic growth model**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+This article explores the links between China’s economic progress, CO2 emissions, China’s dependence on heavy industrial output and concerns about environmental sustainability in its industrial energy-intensive sectors.
+
+Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database.)
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**Filial obligation in contemporary China: Evolution of the culture-system**](http://eresources.nlb.gov.sg/main/Browse?startsWith=E){:target="_blank"}
+
+Despite changing cultural and social mores in China and the rise of ‘individualisation’ (shifting from collective needs to self-realisation and self-interest), filial piety still functions as an important familial obligation among Chinese families. The paper posits that the absence of a social welfare system will ensure the propagation of interdependent relations between parents and children.
+
+Retrieved from EBSCOHost Databases. (*myLibrary* ID is required to access this database.)
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**Leadership and the mandate of heaven: Political risk in China**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+Read this article to get an overall perspective of the possible derailers hindering China’s future prospects after having enjoyed over three decades of economic growth and social progress. It also highlights the problems China faces at present, such as income inequality, labour shortage due to its long-standing one-child policy, rising debt and environmental pollution.
+
+Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database.)
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**Policy response to low fertility in China: Too little, too late?**](http://eresources.nlb.gov.sg/main/Browse?startsWith=E){:target="_blank"}
+
+This four-page article details China’s declining fertility levels which began manifesting in the 1970s, before the one-child policy was implemented in 1980. Despite the total lifting of the one-child rule in November 2015, the number of births in China has only increased marginally. The author suggests that the Chinese government should introduce policies that will make it easier for citizens to have children and offer schemes to provide financial and healthcare support for its greying population.
+
+Retrieved from EBSCOHost Databases. (*myLibrary* ID is required to access this database.)
+
+---
+
+### **You may also like**
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
