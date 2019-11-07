@@ -144,3 +144,33 @@ This report details the potential benefits for India by participating in the Bel
 [**The EU, the Eurasian Economic Union and One Belt, One Road: Can they work together?**](http://www.cer.eu/sites/default/files/pb_eurasian_IB_16.3.17_0.pdf){:target="_blank"}
 
 How can the three main integration projects in the Eurasian landmass — the European Union, Eurasian Economic Union and One Belt, One Road initiative — work together for shared security and economic interests? This report also identifies obstacles that may hinder the smooth working relationship between the three projects, such as problems in the eurozone and differences in the values and political systems of the countries involved.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**One Belt, One Road initiative in Central Asia: Implications for competitiveness of Russian economy**](https://www.msm.nl/resources/uploads/2016/09/MSM-WP2016-9.pdf){:target="_blank"}
+
+What is the potential impact of China’s Belt and Road Initiative on Russia’s economy? The author posits that while the planned logistics platforms and transport routes to be built in Central Asia could raise mutual trade flow, the introduction of energy infrastructure projects in the same region could affect Russian economy negatively.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Europe and China’s New Silk Roads**](http://www.iai.it/sites/default/files/2016_etnc_report.pdf){:target="_blank"}
+
+This compilation of roundtable discussions on China’s Belt and Road Initiative (BRI) features the perspectives of the European Union member states. The individual chapters provide country-focused analysis from countries such as Denmark, France, Germany, Hungary, the Netherlands, Spain, Sweden and the U.K. on the potential challenges, threats and benefits of BRI on economic cooperation, foreign relations, trade and investment.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**The emerging political economy of OBOR: A report of the challenges of promoting connectivity in Central Asia and beyond**](https://csis-prod.s3.amazonaws.com/s3fs-public/publication/161021_Cooley_OBOR_Web.pdf){:target="_blank"}
+
+This report weighs in on the political economy of China’s One Belt, One Road (OBOR) initiative and examines the political and economic interactions in partner countries. It investigates the potential for large-scale investments in transportation infrastructure to stimulate economic activity and engender political stability. The author also analyses the impact of OBOR on Central Asia, which forms the nexus of OBOR’s planned routes and economic corridors.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**China’s One Belt One Road: Has the European Union missed the train?**](https://www.rsis.edu.sg/wp-content/uploads/2016/03/PR160307_China-One-Belt-One-Road.pdf){:target="_blank"}
+
+The sharing of the European Union’s (EU) social and environmental best practices with Beijing could potentially propel China towards its aims of regional stabilisation and structural reforms in South and Central Asia. The report considers the question of whether the EU should engage China’s Belt and Road Initiative to forge mutually beneficial ties in terms of security safeguards and investment relations.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Understanding China’s Belt and Road initiative**](https://www.lowyinstitute.org/sites/default/files/documents/Understanding%20China%E2%80%99s%20Belt%20and%20Road%20Initiative_WEB_1.pdf){:target="_blank"}
+
+This analysis argues that the main objective driving the Belt and Road Initiative (BRI) is China’s need to stimulate economic growth in its underdeveloped rural hinterland. Beijing also wants to leverage on OBOR to export China’s technological and engineering standards to upgrade the country’s industry.
