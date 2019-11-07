@@ -92,3 +92,130 @@ All rights reserved, New York: Oxford University Press, 2017.
 
 All rights reserved, Malden, MA: Polity Press, 2017.
 
+<img src="/images/book-covers/China-and-India-History-culture-cooperation-and-competition.jpg" style="width:150px;" />
+
+[**China and India: History, culture, cooperation and competition**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202749895){:target="_blank"}
+
+The essays by scholars and academicians from China and India help to paint an encompassing picture of the history, culture, political relations and economic functionalities of both countries.
+
+All rights reserved, Thousand Oaks, California: SAGE Publications, 2016.
+
+<img src="/images/book-covers/China’s-governance-puzzle-Enabling-transparency-and-participation-in-a-single-party-state.jpg" style="width:150px;" />
+
+[**China’s governance puzzle: Enabling transparency and participation in a single-party state**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202858319){:target="_blank"}
+
+Read about how China’s governance reforms have led to greater government transparency and increased public participation in policymaking. Learn about the impetus behind these reforms and the scope of their significance to Chinese civil society.
+
+All rights reserved, Cambridge, United Kingdom ; New York, NY, USA : Cambridge University Press, 2017.
+
+<img src="/images/book-covers/Understanding-Chinese-society-Changes-and-transformations.jpg" style="width:150px;" />
+
+[**Understanding Chinese society: Changes and transformations**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202433967){:target="_blank"}
+
+Different facets of Chinese society are analysed in this book, with topics covering Chinese family and kinship, the emergence of the new middle class, consumerism, medical tourism, delayed marriage, popular culture and media in post-reform China.
+
+All rights reserved, Singapore; New Jersey: World Scientific Publishing Co. Pte. Ltd, 2016.
+
+<img src="/images/book-covers/China-South-Korea-relations-in-the-new-era-Challenges-and-opportunities.jpg" style="width:150px;" />
+
+[**China-South Korea relations in the new era: Challenges and opportunities**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203003665){:target="_blank"}
+
+Ye provides an analytical review of the changing dynamics in the bilateral relations between China and South Korea as seen from both historical and theoretical perspectives. He also highlights the domestic politics of both countries which have seen the involvement and influence of a more vocal citizenry on state policies.
+
+All rights reserved, Lanham, Maryland: Lexington Books, 2017.
+
+<img src="/images/book-covers/Japan-China-relations-in-the-modern-era.jpg" style="width:150px;" />
+
+[**Japan-China relations in the modern era**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202864723){:target="_blank"}
+
+Gain a deeper understanding of the past, present and projected future of China’s bilateral relations with Japan in this book. The contributions are from Japanese scholars and are valuable for researchers studying Japan-Sino relations.
+
+All rights reserved, Abingdon, Oxon; New York, NY: Routledge, 2017.
+
+<img src="/images/book-covers/China’s-foreign-aid-60-years-in-retrospec.jpg" style="width:150px;" />
+
+[**China’s foreign aid: 60 years in retrospect**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202929013){:target="_blank"}
+
+Gain insights to the evolution of China’s foreign aid policy and mechanisms over the past 60 years and learn about China’s aid to Africa, Southeast and Central Asian countries, Latin America and the Caribbean region in this book. Written by Chinese scholars, the book argues that the administration of foreign aid to other countries has enabled China to strengthen its economic and political ties with many developing countries.
+
+All rights reserved, Singapore: Springer, 2017.
+
+<img src="/images/book-covers/The-China-challenge-Shaping-the-choices-of-a-rising-power.jpg" style="width:150px;" />
+
+[**The China challenge: Shaping the choices of a rising power**](https://nlb.overdrive.com/media/2308298){:target="_blank"}
+
+Christensen provides a new perspective on US-China relations and shows how China has become a regional leader with sufficient clout to cause instability in East Asia and to make an forceful impact on world economics, politics and security issues.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**Let 100 voices speak: How the Internet is transforming China and changing everything**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+Carter reveals how the Internet is enabling creative expression, social engagement and political discourse to flourish via Weibo (the Chinese version of Twitter) and the underground Internet in China.
+
+Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/China-Behind-the-miracle.jpg" style="width:150px;" />
+
+[**China: Behind the miracle**](https://nlb.overdrive.com/media/3013896){:target="_blank"}
+
+Dawra traces the success of China’s economy, which has enabled the fivefold increase in its per capita income in the three decades since Deng Xiaoping’s leadership. She also discusses the future of China’s continued growth in the light of its economic restructuring and policies supporting urbanisation, innovation in agriculture and manufacturing and the development of rural regions in central, southern and western China.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**The Internet, social media and a changing China**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+Gain new insights to the social media revolution which has transformed how Chinese authorities communicate with the public and enabled Chinese citizens to engage with each other, share information and express opinions in the borderless cyberspace.
+
+Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/Unmade-in-China-The-hidden-truth-about-China’s-economic-miracle.jpg" style="width:150px;" />
+
+[**Unmade in China: The hidden truth about China’s economic miracle**](https://nlb.overdrive.com/media/2355728){:target="_blank"}
+
+Haft takes a close look at the US-China trade relationship in this book. He examines how the risks posed by the unregulated manufacturing industry in China has led to increased opportunities in the US, with China shifting from its role as an exporter of “made-in-China” products to becoming a major importer of American goods.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**China’s futures: PRC elites debate economics, politics, and foreign policy**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+Find out how China’s movers and shakers assess the future of China from five angles – economy, politics, communication and the Internet, foreign policy strategy and global power rivalry.
+
+Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/Children-in-China.jpg" style="width:150px;" />
+
+[**Children in China**](https://nlb.overdrive.com/media/2697143){:target="_blank"}
+
+China’s government policies over the past decades have shaped the lives of the current generation today. Naftali explores issues such as the impact of the one-child policy and rural-urban migration trends which have impinged upon children’s education and development in both rural and city areas.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/Population-in-China.jpg" style="width:150px;" />
+
+[**Population in China**](https://nlb.overdrive.com/media/2786351){:target="_blank"}
+
+In recent years, China has been experiencing a decline in fertility and mortality rates and an increase in the influx of rural-urban migration. China’s decades-long population policies have impacted the gender ratio and the country has to tackle the current problems of a rapidly ageing population and the heightened inequality between rural and urban residents.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**The power of culture: Encounters between China and the United States**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+With contributions from mainly Chinese academics from Chinese universities and research institutes and several Western scholars, this volume explores the cultural dimensions of the Sino-American relationship alongside China’s growing international influence and power.
+
+Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**China under Xi Jinping: Its economic challenges and foreign policy initiatives**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
+
+The essays in this book written by leading Chinese scholars in the fields of international relations and political economy discuss the policies enacted by Xi Jinping, China’s current leader and analyse how these policies influence China’s governance, economy and foreign relations strategy.
+
+Retrieved from ProQuest Ebook Central. (*myLibrary* *ID* is required to access this ebook.)
