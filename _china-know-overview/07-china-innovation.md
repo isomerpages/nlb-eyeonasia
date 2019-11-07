@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Belt and Road Initiative
-permalink: /china/know/overview-of-china/belt-road-initiatives/
-breadcrumb: Belt and Road Initiative
+title: Innovation in China
+permalink: /china/know/overview-of-china/innovation-in-china/
+breadcrumb: Innovation in China
 collection_name: china-know-overview
 ---
 
-<img src="\images\china-overview\belt-and-road-initiative.jpg" alt="belt road banner" style="width:800px;" />
+<img src="\images\china-overview\innovation-in-china.jpg" alt="innovation china banner" style="width:800px;" />
 
 This is a selection of resources on China’s history and heritage available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
 
