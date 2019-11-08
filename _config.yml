@@ -54,6 +54,8 @@ collections:
     output: true
   china-know-overview:
     output: true
+  china-know-selected:
+    output: true
   china-know-living:
     output: true
   china-know-sharing:
