@@ -20,7 +20,7 @@ This overview covers the municipalities of Chongqing and Tianjin and provinces o
 
 With the exception of Liaoning, these six provinces and Chongqing experienced high economic growth between 2015 and 2016. Their Gross Regional Product (GRP) growth ranged from -22.4 percent in Liaoning to 12.85 percent in Chongqing.
 
-<img src="/images/china-selected/selected-china-chart-1.png" style="width:250px;" />
+<img src="/images/china-selected/selected-china-chart-1.png" style="width:750px;" />
 
 ##### **Chongqing**
 
