@@ -13,16 +13,75 @@ Wonder, China – land of the iconic Great Wall. Wonder, China – one of the cr
 
 Read on and wonder no more.
 
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/overview-of-china/china-a-country-profile/"><img src="/images/china/Facts-and-figures-China-a-country-profile-285x300.jpg" alt="China: A country profile"></a>
+			<a href="/china/know/overview-of-china/china-a-country-profile/" class="project-link">
+				<img src="/images/china/Facts-and-figures-China-a-country-profile-285x300.jpg" alt="China: A country profile" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>China: A Country Profile</b></h5>
+				</div>
+			</div>
+			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/overview-of-china/regional-newspapers/"><img src="/images/china/Regional-Newspapers-1-285x300.jpg" alt="Regional Newspapers"></a>
+			<a href="/china/know/overview-of-china/regional-newspapers/" class="project-link">
+				<img src="/images/china/Regional-Newspapers-1-285x300.jpg" alt="Regional Newspapers" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Regional Newspapers</b></h5>
+				</div>
+			</div>
+			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/overview-of-china/discovering-china-history/"><img src="/images/china/Discovering-China-1-285x300.jpg" alt="Discovering China History"></a>
+			<a href="/china/know/overview-of-china/discovering-china-history/" class="project-link">
+				<img src="/images/china/Discovering-China-1-285x300.jpg" alt="Discovering China History" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Discovering China History</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/overview-of-china/understanding-china/" class="project-link">
+				<img src="/images/china/Understanding-China-1-285x300.jpg" alt="Understanding China" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Understanding China</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/overview-of-china/learning-china-transformation/" class="project-link">
+				<img src="/images/china/Remaking-China-1-285x300" alt="Learning about China's transformation" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Learning about China's transformation</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/overview-of-china/china-influential-young/" class="project-link">
+				<img src="/images/china/Facts-and-figures-Chinas-influential-young-285x300.jpg" alt="China's influential young" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>China's influential young</b></h5>
+				</div>
+			</div>
+			</a>
 		</div>
 	</div>
 </div>
