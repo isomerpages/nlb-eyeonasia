@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: China
+title: India
 permalink: /india/know/overview/
 breadcrumb: India
 collection_name: india
