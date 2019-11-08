@@ -121,3 +121,8 @@ Apart from light industries such as textiles and garments (especially socks and 
 [^14]: Guangdong: Market profile. (2018, February 23). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Guangdong-Market-Profile/ff/en/1/1X000000/1X06BUOU.htm){:target="_blank"}
 [^15]: Guangdong. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-guangdong.aspx?lang=eng){:target="_blank"}
 [^16]: About Consulate General. (2012). *Ministry of Foreign Affairs.* Retrieved June 15, 2018, from [https://www.mfa.gov.sg](https://www.mfa.gov.sg/content/mfa/overseasmission/guangzhou.html){:target="_blank"}
+[^17]:  Guangdong: Market profile. (2016, November 24). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Guangdong-Market-Profile/ff/en/1/1X39VTST/1X06BUOU.htm){:target="_blank"}
+[^18]:   Guangdong. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-guangdong.aspx?lang=eng){:target="_blank"}
+[^19]:	 2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^20]:	Jiangsu’s facts. (2014). *Jiangsu.net.* Retrieved June 15, 2018, from [http://www.jiangsu.net](http://www.jiangsu.net/info/info/jiangsu_fact.php){:target="_blank"}
+
