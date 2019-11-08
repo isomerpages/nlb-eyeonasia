@@ -65,7 +65,7 @@ Read on and wonder no more.
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/china/know/overview-of-china/learning-china-transformation/" class="project-link">
-				<img src="/images/china/Remaking-China-1-285x300" alt="Learning about China's transformation" class="project-image">
+				<img src="/images/china/Remaking-China-1-285x300.jpg" alt="Learning about China's transformation" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Learning about China's transformation</b></h5>
@@ -79,6 +79,60 @@ Read on and wonder no more.
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>China's influential young</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/overview-of-china/belt-road-initiatives/" class="project-link">
+				<img src="/images/china/Belt-and-road-initiative-285x300.jpg" alt="Belt and Road Initiative" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Belt and Road Initiative</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/overview-of-china/innovation-in-china/" class="project-link">
+				<img src="/images/china/Innovation-in-China-285x300.jpg" alt="Learning about China's transformation" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Innovation in China</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/overview-of-china/china-digital-transformation/" class="project-link">
+				<img src="/images/china/Chinas-digital-transformation-285x300.jpg" alt="China's influential young" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>China's digital transformation</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/overview-of-china/contemporary-china/" class="project-link">
+				<img src="/images/china/Contemporary-China-banner-285x300.jpg" alt="Comtemporary China" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Comtemporary China</b></h5>
 				</div>
 			</div>
 			</a>
