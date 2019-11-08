@@ -62,7 +62,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-learning-across-borders/" class="project-link">
-				<img src="/images/asean-youngpeople/Learning-across-borders-through-the-TFI-SCALE-2-370x1500.jpg" alt="Vietnam: Learning across borders" class="project-image">
+				<img src="/images/asean-youngpeople/Learning-across-borders-through-the-TFI-SCALE-2-370x150.jpg" alt="Vietnam: Learning across borders" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Vietnam: Learning across borders</b></h5>
@@ -146,7 +146,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-soybean-industry/" class="project-link">
-				<img src="/images/asean-youngpeople/Brunei-Snapshot-370x150.jpg" alt="Myanmar: Insights into the soybean industry" class="project-image">
+				<img src="/images/asean-youngpeople/Vietnam-soybeans-industry.jpg" alt="Myanmar: Insights into the soybean industry" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Myanmar: Insights into the soybean industry</b></h5>
