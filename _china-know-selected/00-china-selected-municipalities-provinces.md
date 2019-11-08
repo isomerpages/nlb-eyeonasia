@@ -64,11 +64,11 @@ Liaoning’s pillar industries include machinery and equipment, food processing,
 
 ##### **Shandong**
 
-Shandong lies in the Bohai Bay economic region and covers an area of around 157,900 square kilometres.31Jinan serves as the province’s capital city and the port of Qingdao is among China’s busiest.32 The population of Shandong was 99.47 million in 2016.33 The province’s GRP grew 38.9 percent from RMB 6.3 trillion in 2015 to RMB 6.802 trillion in 2016.34
+Shandong lies in the Bohai Bay economic region and covers an area of around 157,900 square kilometres.[^31] Jinan serves as the province’s capital city and the port of Qingdao is among China’s busiest.[^32] The population of Shandong was 99.47 million in 2016.[^33] The province’s GRP grew 38.9 percent from RMB 6.3 trillion in 2015 to RMB 6.802 trillion in 2016.[^34]
 
 <u>Industries</u>
 
-Apart from food processing and manufacturing, Shandong also has oil and coal. Its heavy industry accounted for around 68 percent of its gross industrial output. Shandong is also home to some of China’s famous local brands such as Tsingtao Beer and Haier Electronics.35 Additionally, the city of Yantai is an export base for apples, peanuts and vegetables.36
+Apart from food processing and manufacturing, Shandong also has oil and coal. Its heavy industry accounted for around 68 percent of its gross industrial output. Shandong is also home to some of China’s famous local brands such as Tsingtao Beer and Haier Electronics.[^35] Additionally, the city of Yantai is an export base for apples, peanuts and vegetables.[^36]
 
 
 
