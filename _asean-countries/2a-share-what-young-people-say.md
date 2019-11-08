@@ -15,7 +15,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean-countries/share/what-young-people-say/indonesia-insights-about-yogyakarta/" class="project-link">
-				<img src="/images/asean-countries/ASEAN-main-page-banner-370x150.jpg" alt="Indonesia: Insights about Yogyakarta" class="project-image">
+				<img src="/images/asean-countries/SP-Indonesia-bg-370x150.jpg" alt="Indonesia: Insights about Yogyakarta" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Indonesia: Insights about Yogyakarta</b></h5>
@@ -25,7 +25,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean-countries/share/what-young-people-say/myanmar-travel-and-learn/" class="project-link">
-				<img src="/images/asean-countries/Regional-Newspapers-1-370x150.jpg" alt="Myanmar: Travel and Learn" class="project-image">
+				<img src="/images/asean-countries/Travel-and-learn-370x150.jpg" alt="Myanmar: Travel and Learn" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Myanmar: Travel and Learn</b></h5>
@@ -35,7 +35,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean-countries/share/what-young-people-say/indonesia-getting-a-world-of-experience/" class="project-link">
-				<img src="/images/asean-countries/Brunei-Snapshot-370x150.jpg" alt="Indonesia: Getting a World of Experience" class="project-image">
+				<img src="/images/asean-countries/Getting-a-world-of-experience-1-370x150.jpg" alt="Indonesia: Getting a World of Experience" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Indonesia: Getting a World of Experience</b></h5>
