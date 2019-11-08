@@ -24,17 +24,17 @@ With the exception of Liaoning, these six provinces and Chongqing experienced hi
 
 ##### **Chongqing**
 
-In 2016, Chongqing had a population of 30.48 million.[^3] On 14 March 1997, Chongqing became one of China’s four direct-controlled municipalities and the only one in west China.[^4] Its economy grew from RMB 1.572 trillion in 2015 to RMB 1.774 trillion in 2016.[^5] It is now the largest economic centre in west China and is also an important transportation hub and inland port.6 Given its strategic location, Chongqing is also “a key strategic node” of the One Belt One Road initiative unveiled in 2013 with the aim of connecting about 80 countries across three continents to China.7
+In 2016, Chongqing had a population of 30.48 million.[^3] On 14 March 1997, Chongqing became one of China’s four direct-controlled municipalities and the only one in west China.[^4] Its economy grew from RMB 1.572 trillion in 2015 to RMB 1.774 trillion in 2016.[^5] It is now the largest economic centre in west China and is also an important transportation hub and inland port.[^6] Given its strategic location, Chongqing is also “a key strategic node” of the One Belt One Road initiative unveiled in 2013 with the aim of connecting about 80 countries across three continents to China.[^7]
 
 <u>Industries</u>
 
-Chongqing’s major industries include automobiles, iron and steel and aluminium.8 It is moving away from heavy industry towards the manufacturing of electronic and high technology products.9 The move has prompted many leading multinational companies, such as Hewlett-Packard, Foxconn, Inventec, Acer, IBM and CISCO, to set up their businesses in Chongqing.10
+Chongqing’s major industries include automobiles, iron and steel and aluminium.[^8] It is moving away from heavy industry towards the manufacturing of electronic and high technology products.[^9] The move has prompted many leading multinational companies, such as Hewlett-Packard, Foxconn, Inventec, Acer, IBM and CISCO, to set up their businesses in Chongqing.[^10]
 
 
 
 ##### **Guangdong**
 
-Guangdong covers an area of 179,757 square kilometres.11 Its population was 109.99 million in 2016.12 Its GRP grew 36.8 percent from RMB 7.28 trillion in 2015 to 8.085 trillion in 2016.13 Its economic hub is the Pearl River Delta (PRD) Economic Zone.14 The Shenzhen Special Economic Zone in Guangdong is one of China’s most successful Special Economic Zones. The province’s capital city is Guangzhou.15 There is a Singapore Consulate-General Office there where Singaporeans can seek consular assistance.16
+Guangdong covers an area of 179,757 square kilometres.[^11] Its population was 109.99 million in 2016.[^12] Its GRP grew 36.8 percent from RMB 7.28 trillion in 2015 to 8.085 trillion in 2016.[^13] Its economic hub is the Pearl River Delta (PRD) Economic Zone.[^14] The Shenzhen Special Economic Zone in Guangdong is one of China’s most successful Special Economic Zones. The province’s capital city is Guangzhou.[^15] There is a Singapore Consulate-General Office there where Singaporeans can seek consular assistance.16
 
 <u>Industries</u>
 
@@ -115,10 +115,9 @@ Apart from light industries such as textiles and garments (especially socks and 
 [^8]: Chongqing: Market profile. (2018, January 29). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Chongqing-Market-Profile/ff/en/1/1X000000/1X06BPV2.htm){:target="_blank"}
 [^9]: Chongqing New North Zone. (2012, December 11). *HKTDC Research.* Retrieved June 15, 2018, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X09RJ78/hktdc-research/Chongqing-New-North-Zone){:target="_blank"}
 [^10]: Tse, W. V. (2017, July 31). Investing in inland China: Assessing Chongqing’s industrial zones. *China Briefing.* Retrieved June 15, 2018, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/07/31/investing-inland-china-assessing-chongqings-industrial-zones.html){:target="_blank"}
-[^]: 2-8: Total population by urban and rural residence and birth rate, death rate, natural growth rate by region (2016). China Statistical Yearbook 2017. (2017). *National Bureau of Statistics of China*. Retrieved July 12, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htmxeh.htm){:target="_blank"}
-[^11]: Largest ethnic groups in China. (2018). *Worldatlas.* Retrieved July 12, 2018, from [https://www.cia.gov](https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html){:target="_blank"}
-[^12]: The World Bank in China. (2018, April 19). *The World Bank*. Retrieved July 12, 2018, from [http://www.worldbank.org](http://www.worldbank.org/en/country/china/overview){:target="_blank"}
-[^13]: China issues plan to develop strategic emerging industries. (2016, December 19). *The State Council, The People’s Republic of China*. Retrieved July 12, 2018, from [http://english.gov.cn](http://english.gov.cn/policies/latest_releases/2016/12/19/content_281475520183484.htm){:target="_blank"}
-[^14]: China. (2018). *International Enterprise Singapore*. Retrieved July 12, 2018, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Overview){:target="_blank"}
-[^15]: J.P. (2017, May 15). What is China’s belt and road initiative? *The Economist*. Retrieved July 12, 2018, from [https://www.economist.com](https://www.economist.com/blogs/economist-explains/2017/05/economist-explains-11){:target="_blank"}
-[^16]: The Belt and Road Initiative (2018, May 3). *HKTDC Research.* Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/The-Belt-and-Road-Initiative/The-Belt-and-Road-Initiative/obor/en/1/1X000000/1X0A36B7.htm){:target="_blank"}
+[^11]: Guangdong: Market profile*.* (2018, February 23). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Guangdong-Market-Profile/ff/en/1/1X39VTST/1X06BUOU.htm){:target="_blank"}
+[^12]: 2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^13]: 3-9: Gross regional product and indices. (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^14]: Guangdong: Market profile. (2018, February 23). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Guangdong-Market-Profile/ff/en/1/1X000000/1X06BUOU.htm){:target="_blank"}
+[^15]: Guangdong. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-guangdong.aspx?lang=eng){:target="_blank"}
+[^16]: About Consulate General. (2012). *Ministry of Foreign Affairs.* Retrieved June 15, 2018, from [https://www.mfa.gov.sg](https://www.mfa.gov.sg/content/mfa/overseasmission/guangzhou.html){:target="_blank"}
