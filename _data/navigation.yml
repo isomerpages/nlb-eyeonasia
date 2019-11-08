@@ -24,20 +24,20 @@
   url: /china/know/overview/
   sub-links:
   - title: Know
-    url: /china/know/
+    url: /china/know/overview-of-china/
   - title: Share
-    url: /china/share/
+    url: /china/share/what-young-people-say/
   - title: Go
-    url: /china/go/
+    url: /china/go/for-students/
 - title: India
   url: /india/know/overview
   sub-links:
   - title: Know
-    url: /india/know/
+    url: /india/know/overview-of-india/
   - title: Share
-    url: /india/share/
+    url: /india/share/what-young-people-say/
   - title: Go
-    url: /india/go/
+    url: /india/go/for-students/
 - title: Events
   url: /events/
   sub-links:
