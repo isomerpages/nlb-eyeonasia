@@ -15,13 +15,13 @@ China is one of the fastest-growing economies in Asia and around the world. A va
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/overview-of-china"><img src="/images/asean-countries/Know-Test-1.jpg" alt="Know ASEAN Countries"></a>
+			<a href="/china/know/overview-of-china/china-a-country-profile/"><img src="/images/china/Facts-and-figures-China-a-country-profile-285x300.jpg" alt="China: A country profile"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/share/what-young-people-say/"><img src="/images/asean-countries/Share-Test-1.jpg" alt="Share ASEAN Countries"></a>
+			<a href="/china/know/overview-of-china/regional-newspapers/"><img src="/images/china/Regional-Newspapers-1-285x300.jpg" alt="Regional Newspapers"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/go/for-students/"><img src="/images/asean-countries/Go-Home-Icon.jpg" alt="Go ASEAN Countries"></a>
+			<a href="/china/know/overview-of-china/discovering-china-history/"><img src="/images/china/Discovering-China-1-285x300.jpg" alt="Discovering China History"></a>
 		</div>
 	</div>
 </div>
