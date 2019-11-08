@@ -20,7 +20,7 @@ This overview covers the municipalities of Chongqing and Tianjin and provinces o
 
 With the exception of Liaoning, these six provinces and Chongqing experienced high economic growth between 2015 and 2016. Their Gross Regional Product (GRP) growth ranged from -22.4 percent in Liaoning to 12.85 percent in Chongqing.
 
-
+<img src="/images/china-selected/selected-china-chart-1.png" style="width:250px;" />
 
 ##### **Chongqing**
 
@@ -42,7 +42,7 @@ Guangdong is noted for its light manufacturing industries such as television set
 
 
 
-**Jiangsu**
+##### **Jiangsu**
 
 Jiangsu, located on the Yangtze River delta, had a population of 79.99 million in 2016.19 Its land area is 102,600 square kilometres.20 The province’s GRP grew 10.35 percent from RMB 7.01 trillion in 2015 to RMB7.74 trillion in 2016.21 The capital city of the province is Nanjing.22
 
@@ -52,7 +52,7 @@ The main industries in Jiangsu are electronics, telecommunications, machinery, m
 
 
 
-**Liaoning**
+##### **Liaoning**
 
 Located in northeast China, Liaoning has a land area of 148,000 square kilometres.25 The province’s capital city is Shenyang. Its population in 2016 was 43.78 million.26 The province’s GRP declined 22.4 percent from RMB 2.87 trillion in 2015 to RMB 2.22 trillion in 2016.27
 
@@ -60,48 +60,47 @@ Located in northeast China, Liaoning has a land area of 148,000 square kilometre
 
 Liaoning’s pillar industries include machinery and equipment, food processing, metallurgy and petrochemicals.28 It is also an important production base for industrial equipment and machinery in China.29 Additionally, Liaoning is rich in mineral resources such as boron, coal, diamonds, iron ore, jade, magnesite and oil.30
 
----
+
+
+##### **Shandong**
+
+Shandong lies in the Bohai Bay economic region and covers an area of around 157,900 square kilometres.31Jinan serves as the province’s capital city and the port of Qingdao is among China’s busiest.32 The population of Shandong was 99.47 million in 2016.33 The province’s GRP grew 38.9 percent from RMB 6.3 trillion in 2015 to RMB 6.802 trillion in 2016.34
+
+<u>Industries</u>
+
+Apart from food processing and manufacturing, Shandong also has oil and coal. Its heavy industry accounted for around 68 percent of its gross industrial output. Shandong is also home to some of China’s famous local brands such as Tsingtao Beer and Haier Electronics.35 Additionally, the city of Yantai is an export base for apples, peanuts and vegetables.36
 
 
 
-### **Fact Sheet**
+##### **Sichuan**
 
-- **Official Name:** People’s Republic of China (Zhonghua Renmin Gongheguo)
-- **Capital:** Beijing[^2]
-- **Population:** 1,382,710,000 (2016)[^3]
-- **Chief of State:** President Xi Jinping (since 14 March 2013)[^4]
-- **Head of Government:** Premier Li Keqiang (since 18 March 2013)[^5]
-- **Government:** Communist state[^6]
-- **Currency:** Renminbi yuan (RMB)[^7]
+Sichuan is located along the upper reaches of the Yangtze River in southwestern China and is one of the most industrialised provinces in western China. It occupies a land area of 486,052 square kilometres.37 The province’s capital city is Chengdu. Its population was 82.62 million in 2016.38 Its GRP grew around 9.7 percent from RMB 3 trillion in 2015 to RMB 3.29 trillion in 2016.39 Singapore has a Consulate-General office in Chengdu that provides consular assistance to Singaporeans.40
 
-### **Demographic profile**
+<u>Industries</u>
 
-<img src="/images/china-overview/china-profile-chart1.png" style="width:250px;" />
+Apart from being a major agricultural producer, Sichuan is also expanding its industrial activities rapidly over the last two decades. Its major industries include gas, electricity, steel, cement, Chinese medicine and chemical fibre. Furthermore, Sichuan’s telecommunications equipment, computer and other electronic equipment sectors have grown rapidly in recent years.41
 
-In 2016, China’s population reached 1.3827 billion. Around 16.7 percent of the population were between the ages 0–14 years; 72.5 percent between 15–64 years; and 10.8 percent were 65 years and above.
 
-In 2016, the population grew by 5.86 percent. It had a birth rate of 12.95 per 1,000 population and a death rate of 7.09 per 1,000 population.[^8] The sex ratio for the total population was 1.05 males to one female.[^9]
 
-<img src="/images/china-overview/china-profile-chart2.png" style="width:250px;" />
+##### **Tianjin**
 
-In 2016, the urban population made up 57.35 percent of the total population. The population of the major urban areas was as follows: Shanghai (24.2 million), Beijing (21.73 million), Chongqing (30.48 million), and Tianjin (15.62 million).[^10]
+Tianjin, with a population of 15.62 million in 2016,42 has experienced fast economic growth in recent years.43 Its GRP in 2015 was RMB 1.65 trillion, which was an increase of about 46 percent from the RMB 1.1 trillion recorded in 2011.44 In 2016, it grew by another 8.36 percent to reach RMB 1.788 trillion.45
 
-The largest ethnic group in China is Han Chinese (91.6 percent).[^11]
+The Singapore-Tianjin Eco-city, a government-to-government project between Singapore and China, is located within the Tianjin Binhai New Area, one of China’s fastest growing regions. It is 40 kilometres from Tianjin City Centre and 150 kilometres from Beijing City Centre.46
 
-### **Economic profile**
+<u>Industries</u>
 
-The market reforms initiated in 1978 have transformed China from being centrally planned to a market-based economy. It has seen rapid economic growth with GDP (gross domestic product) growth averaging 10 percent per year. Today, it is the second-largest economy in the world and is increasingly playing an influential role in the global economy.[^12]
+The province’s main industries include high-tech (particularly electronic information) products, automotive, electronics, petrochemicals, metallurgy, medicine, energy and financial services.47 The service sector, in particular, is developing rapidly, In 2016, the industry’s two sub-sectors, wholesale and retail trade, and finance accounted for 22.4 percent and 17.8 percent of the service sector’s total added value respectively.48
 
-In 2015, China’s strategic emerging industries accounted for about eight percent of its GDP. The 13th five-year plan (2016–2020) aims to increase it to 15 percent by 2020. The five major industries highlighted in the 13th five-year plan are: information technology; high-end manufacturing; biology; green and low carbon; and digital creation.[^13]
 
-### **Major initiatives**
 
-In 2013, President Xi Jinping unveiled China’s ambitious infrastructure and economic development strategy known Belt and Road Initiative BRI.[^14] China is spending around US$150 billion a year to connect more than 60 countries that have signed up to the scheme.[^15] They will be connected through a network of railways, roads, pipelines and utility grids linking China with Central Asia, West Asia and parts of South Asia. It comprises more than physical connections and aims to create a platform for economic cooperation, including policy coordination, trade and financing collaboration, and social and cultural cooperation. Its two main components are:
+##### **Zhejiang**
 
-1. The Silk Road Economic Belt – which is envisioned as three routes connecting China to Europe (via Central Asia), the Persian Gulf, the Mediterranean (through West Asia), and the Indian Ocean (via South Asia).
-2. The 21st Century Maritime Silk Road – which plans to connect regional waterways.
+Zhejiang covers a land area of 101,800 square kilometres49 and is situated on China’s eastern coast. Hangzhou is the province’s capital city. In 2016, it had a population of 55.9 million.50 The province’s GRP grew from RMB 4.29 trillion in 2015 to RMB 4.725 trillion in 2016.51
 
-The BRI is currently developing six international economic cooperation corridors, including the New Eurasian Land Bridge, China–Mongolia–Russia, China–Central Asia–West Asia, China Indochina Peninsula, China–Pakistan, and Bangladesh–China–India–Myanmar.[^16]
+<u>Industries</u>
+
+Apart from light industries such as textiles and garments (especially socks and ties), Zhejiang also has heavy industries whose products include electrical equipment and machinery as well as chemicals.52 The province is also a leading centre for e-commerce. It is also home to Alibaba, the world’s largest e-business platform.53
 
 ---
 ### **References**
