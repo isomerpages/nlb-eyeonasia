@@ -34,27 +34,27 @@ Chongqing’s major industries include automobiles, iron and steel and aluminium
 
 ##### **Guangdong**
 
-Guangdong covers an area of 179,757 square kilometres.[^11] Its population was 109.99 million in 2016.[^12] Its GRP grew 36.8 percent from RMB 7.28 trillion in 2015 to 8.085 trillion in 2016.[^13] Its economic hub is the Pearl River Delta (PRD) Economic Zone.[^14] The Shenzhen Special Economic Zone in Guangdong is one of China’s most successful Special Economic Zones. The province’s capital city is Guangzhou.[^15] There is a Singapore Consulate-General Office there where Singaporeans can seek consular assistance.16
+Guangdong covers an area of 179,757 square kilometres.[^11] Its population was 109.99 million in 2016.[^12] Its GRP grew 36.8 percent from RMB 7.28 trillion in 2015 to 8.085 trillion in 2016.[^13] Its economic hub is the Pearl River Delta (PRD) Economic Zone.[^14] The Shenzhen Special Economic Zone in Guangdong is one of China’s most successful Special Economic Zones. The province’s capital city is Guangzhou.[^15] There is a Singapore Consulate-General Office there where Singaporeans can seek consular assistance.[^16]
 
 <u>Industries</u>
 
-Guangdong is noted for its light manufacturing industries such as television sets, electrical fans and refrigerators, as well as consumer products such as garments, toys, shoes and electronics.17 The provincial government is also seeking to grow the financial, tourism and cultural sectors.18
+Guangdong is noted for its light manufacturing industries such as television sets, electrical fans and refrigerators, as well as consumer products such as garments, toys, shoes and electronics.[^17] The provincial government is also seeking to grow the financial, tourism and cultural sectors.[^18]
 
 
 
 ##### **Jiangsu**
 
-Jiangsu, located on the Yangtze River delta, had a population of 79.99 million in 2016.19 Its land area is 102,600 square kilometres.20 The province’s GRP grew 10.35 percent from RMB 7.01 trillion in 2015 to RMB7.74 trillion in 2016.21 The capital city of the province is Nanjing.22
+Jiangsu, located on the Yangtze River delta, had a population of 79.99 million in 2016.[^19] Its land area is 102,600 square kilometres.[^20] The province’s GRP grew 10.35 percent from RMB 7.01 trillion in 2015 to RMB7.74 trillion in 2016.[^21] The capital city of the province is Nanjing.[^22]
 
 <u>Industries</u>
 
-The main industries in Jiangsu are electronics, telecommunications, machinery, metallurgy, machinery and equipment, chemicals, textiles and garments.23 Apart from being named “China Famous Software City”, Nanjing has a biomedical industry that has been averaging 30 percent growth per annum.24
+The main industries in Jiangsu are electronics, telecommunications, machinery, metallurgy, machinery and equipment, chemicals, textiles and garments.[^23] Apart from being named “China Famous Software City”, Nanjing has a biomedical industry that has been averaging 30 percent growth per annum.[^24]
 
 
 
 ##### **Liaoning**
 
-Located in northeast China, Liaoning has a land area of 148,000 square kilometres.25 The province’s capital city is Shenyang. Its population in 2016 was 43.78 million.26 The province’s GRP declined 22.4 percent from RMB 2.87 trillion in 2015 to RMB 2.22 trillion in 2016.27
+Located in northeast China, Liaoning has a land area of 148,000 square kilometres.[^25] The province’s capital city is Shenyang. Its population in 2016 was 43.78 million.[^26] The province’s GRP declined 22.4 percent from RMB 2.87 trillion in 2015 to RMB 2.22 trillion in 2016.27
 
 <u>Industries</u>
 
@@ -125,4 +125,9 @@ Apart from light industries such as textiles and garments (especially socks and 
 [^18]:   Guangdong. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-guangdong.aspx?lang=eng){:target="_blank"}
 [^19]:	 2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 [^20]:	Jiangsu’s facts. (2014). *Jiangsu.net.* Retrieved June 15, 2018, from [http://www.jiangsu.net](http://www.jiangsu.net/info/info/jiangsu_fact.php){:target="_blank"}
-
+[^21]:  3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
+[^22]:  Jiangsu’s facts. (2014). *Jiangsu.net.* Retrieved June 15, 2018, from [http://www.jiangsu.net](http://www.jiangsu.net/info/info/jiangsu_fact.php){:target="_blank"}
+[^23]:  Jiangsu: Market profile. (2018, January 10). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Jiangsu-Market-Profile/ff/en/1/1X39VTST/1X06BV87.htm){:target="_blank"}
+[^24]:   Jiangsu. (2016, September 9). *Government of Canada.* Retrieved June15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-jiangsu.aspx?lang=eng){:target="_blank"}
+[^25]:  Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"} 
+[^26]: 2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
