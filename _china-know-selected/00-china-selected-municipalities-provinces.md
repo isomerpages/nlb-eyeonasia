@@ -58,7 +58,7 @@ Located in northeast China, Liaoning has a land area of 148,000 square kilometre
 
 <u>Industries</u>
 
-Liaoning’s pillar industries include machinery and equipment, food processing, metallurgy and petrochemicals.[^28] It is also an important production base for industrial equipment and machinery in China.29 Additionally, Liaoning is rich in mineral resources such as boron, coal, diamonds, iron ore, jade, magnesite and oil.30
+Liaoning’s pillar industries include machinery and equipment, food processing, metallurgy and petrochemicals.[^28] It is also an important production base for industrial equipment and machinery in China.[^29] Additionally, Liaoning is rich in mineral resources such as boron, coal, diamonds, iron ore, jade, magnesite and oil.[^30]
 
 
 
@@ -132,5 +132,7 @@ Apart from light industries such as textiles and garments (especially socks and 
 [^25]:  Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"} 
 [^26]: 2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 [^27]:  3-9: Gross regional product and indices. (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^28]:   Liaoning. (2017, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-liaoning.aspx?lang=eng){:target="_blank"}; Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"}
+[^28]:  Liaoning. (2017, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-liaoning.aspx?lang=eng){:target="_blank"}; Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"}
+[^29]: Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"}
+[^30]:  Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"} 
 
