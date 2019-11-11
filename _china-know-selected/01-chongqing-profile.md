@@ -11,45 +11,64 @@ collection_name: china-know-selected
 This article provides an overview of Chongqing for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
 ### **Key Facts**
-- **Official name:** Brunei Darussalam
-- **Capital:** Bandar Seri Begawan
-- **Land area:** 5,765 sq km[^1]
-- **Population (2016):** 422,678[^2]
-- **Head of government:** ​His Majesty Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah Ibni Al-Marhum Sultan Haji Omar ‘Ali Saifuddien Sa’adul Khairi Waddien
-- **Official language:** Malay
-- **Currency:** Brunei Dollar (BND)[^3]
-- **GDP (2016):** BND15.7 billion
-- **GDP per capita (2016):** BND37,257
+
+- **Land area:** 82,400 sq km¹
+- **Population (2016):** 30.48 million²
+- **Gross Domestic Product (2016):** RMB 1,774.059 billion³
+- **Gross Domestic Product per capita (2016):** RMB 58,502⁴
 
 ### **Introduction**
-Brunei Darussalam is located at the northwestern part of the island of Borneo, facing the South China Sea and surrounded by East Malaysia.[^4] Oil and gas has been the backbone of the country’s economy since its discovery in 1929.[^5] The country’s culture is deeply rooted in its Malay origins. These are reflected in its language, architecture, ceremonies and customs.[^6]
+Chongqing is located at the confluence of the Yangtze and Jialing Rivers in southwest China. It is surrounded by Hubei and Hunan to the east, Guizhou to the south, Sichuan to the west and north, and Shaanxi at its northeast corner. It was established as one of the four direct-controlled municipalities in 1997 and the only one in west China. Chongqing reports directly to the central government.⁵ Comprising 21 districts and 17 counties,⁶ it has become the largest economic centre in west China as well as an important transportation hub and an inland port.⁷ 
 
-Brunei’s commitment to continued prosperity and stable macroeconomics is underscored by Wawasan 2035, its government’s national vision.[^7]  Wawasan 2035 provides for the promotion of investments both in downstream industries and economic clusters beyond the oil and gas industry.[^8] It comprises 13 strategies that include education, political stability and security, institutional development, local business development, infrastructure, social security, and environment.[^9]
+<img src="\images\china-selected\chongqing-chart-1.png" style="width:350px;" />
 
-### **Demographic Profile**
-<img src="/images/asean-countries/BN-ethnicgrps.png" alt="Brunei snapshot image 1" style="width:350px;" />
-In 2016, the Bruneian population was 422,678, up from 416,500 the previous year. Brunei citizens accounted for the largest share of the population with 76.8 percent (324,472 persons), while permanent residents and temporary residents made up eight percent (33,816 persons) and 15.2 percent (64,390 persons) of the population respectively. More than 71 percent of its population were aged between 15 and 64 years old, 22.3 percent were below 15 years of age and 5.9 percent were 65 years and older. Malays form the majority of the population at 65.7 percent.[^10]
+### **Economy**
 
-### **Economic Profile**
-In 2016, Brunei’s GDP achieved BND15.7 billion with a GDP per capita of BND37,257.  The economy declined due to the worldwide downturn in both oil and gas as well as the non-oil and gas sectors. Its GDP was valued at BND17.8 billion in 2015 and GDP per-capita was BND42,684.3.[^11]
+Chongqing is one of the fastest growing cities in China, with an annual GDP growth rate of more than 10 percent in recent years.⁸ Besides the construction of the Three Gorges Dam Project, its rapid economic growth could also be attributed to China’s “favourable policies”, particularly the “Go West” strategy launched in 2000, which aims to generate investment in western China. Chongqing has largely benefited from the policy and became a significant trading and manufacturing hub as well as a major gateway to west China.⁹ With its strategic location, Chongqing is also “a key strategic node” of the Belt and Road Initiative, which was unveiled in 2013 and aims to connect 65 countries across three continents through China.¹⁰
+
+
+
+### **Industry**
+
+Chongqing is one of China’s oldest industrial bases, and its major industries include automobiles, iron and steel and aluminium. Heavy industry is the backbone of Chongqing, accounting for 74.3 percent of its gross industrial output in 2015.¹¹ However, Chongqing is moving towards the manufacturing of electronic and high technology products. In December 2000, its municipal government established the Chongqing New North Zone (CNNZ), a modern industrial base aimed at developing high-tech industries.¹² This drove many leading multinational enterprises such as Hewlett-Packard, Foxconn, Inventec, Acer, IBM, Honeywell, CISCO and HP, to set up their businesses in Chongqing.¹³
+
+ 
 
 ### **Foreign trade and investment**
 
-Brunei’s foreign direct investment (FDI) totalled BND238.2 million in 2015. Singapore contributed the largest share of total investment with BND69.2 million (29 percent). This is an increase from the BND62 million recorded the previous year. Mining and quarrying sector was the largest recipient of FDI inflows in 2015 which amounted to BND244.2 million, followed by construction at BND12.3 million and financial and insurance activities at BND5.1 million.[^12]
+Chongqing’s total imports and exports reached US$74.5 billion in 2015 but declined to US$62.8 billion in 2016.¹⁴ The United States was its leading export market, accounting for 24 percent of its total exports.¹⁵ Other major export markets include Germany, Hong Kong and South Korea. Major import sources were Taiwan, South Korea and Malaysia. Singapore’s total imports and exports with Chongqing amounted to US$147.7 million in 2016, a decrease from the US$213.6 million achieved in 2015.¹⁶
 
-One of the Singapore companies in Brunei is Ley Choon Group Holdings Ltd, which “secured BND29.6 million worth of new contracts for the construction of a flyover bridge at Jalan Gadong, Jalan Telanai, Brunei and for infrastructure works involving the supply and installation of sewerage systems at Berangan, Kianggeh and Subok" in 2013.[^13]   In 2010, ST Engineering secured a S$66.5 million project in Brunei to design and construct a waste management facility in Sungai Paku.[^14]  Greatearth Construction Pte Ltd, through its subsidiary in Brunei, Greatearth (B) Sdn Bhd, has “an extensive track record in housing and infrastructure projects".[^15]
+Over the years, many multinational companies from the electronic industries have established their presence in Chongqing. By the end of 2016, 272 of the world’s top 500 companies have set up operations there.¹⁷ With the Belt and Road Initiative, Chongqing is expected to seek more foreign investment and trade opportunities.
 
-### **Industries**
+ 
 
-The energy sector – which includes oil and gas exploration and production, petrochemical and refineries, fuel, power, energy efficiency and conservation and renewable energy – is a core pillar of Brunei’s economy. A significant contributor to the government’s revenue, the energy sector also spurs development in other sectors of the economy.[^16]
+### **Consumer market**
 
-In 2016, the agriculture, forestry and fishery sectors declined by 3.6 percent, largely due to the 12.9-percent decline in fishery. The industrial sector posted a negative growth of 2.9 percent due to a fall in all its sub-activities, except for electricity and water, which increased by 4.8 percent. The services sector also fell by 1.6 percent in 2016, which resulted from decreases in wholesale and retail trade (3.5 percent), land transport (10 percent), water transport (9.5 percent), other transport services (15.2 percent), hotels (6.9 percent), restaurants (0.9 percent), health services (2.4 percent), education services (4.7 percent), business services (12.6 percent), other private services (7.8 percent), and government services (2.7 percent). Service activities that posted positive growth were air transport, communications, finance, real estate and domestic services.[^17]
+Chongqing is an important consumer market in southwest China due to its large population. Its per capita disposal income of urban households in 2016 was RMB 29,610, an increase of 8.7 percent from 2015.¹⁸ Its total retail sales of consumer goods reached RMB 727.1 billion in 2016, up 13.2 percent from the RMB 642.4 billion achieved the previous year.¹⁹ Some of the major local and overseas retailers that have established their presence in Chongqing include Gome from Beijing, Carrefour from France, Walmart from the United States and Metro from Germany.²⁰
+
+ 
 
 ### **Tourism**
 
-Brunei aims to double the number of tourist arrivals by air from 218,000 in 2015 to 451,000 by 2020 and increase services which relate to tourism that can contribute significantly to the growth of its GDP.[^18] In 2016, the country saw a total of 218,809 international tourist arrivals by air, up from 218,213 recorded in the previous year.[^19]
+Chongqing enjoys a great natural and cultural heritage. Besides its breathtaking landscapes of mountains, rivers, forests, springs, waterfall gorges and caves, Chongqing also has the Dazu Rock Carvings, the Three Gorges, Small Little Gorges and the Natural Pit and Land Crack in Fengjie. Chongqing boasts a number of historic sites and tourist attractions. These include the residence of General Joseph Stillwell, an American army general who was the Chief of Staff in the China Theater of Operations and Commander-in-Chief of the American army in the China Burma India (CBI) Theater, the site of the provisional government of the Republic of Korea, and the Fishermen’s Castle in Hechuan, an ancient battlefield and the Capital of the Ghost World in Fengdu.²¹
 
-To boost tourism, the country is focusing on strengthening the attractiveness and diversity of its tourism products and improve the quality of tourism services. To this end, it is working on refining existing tourist destinations such as Temburong, Bandar Seri Begawan, Kampong Ayer, Tutong, Belait, and other recreational destinations including its beaches, forests and parks. Brunei is also enhancing some activity-based products such as diving and birdwatching, as well as community-based tourism such as homestays and village activities.[^20]
+ 
+
+### **Singapore and Chongqing**
+
+Chongqing Connectivity Initiative (CCI) is a Singapore-China government-led project launched in 2015. The CCI is aimed at supporting China’s key development strategies and enhancing connectivity in the areas of finance, aviation, transport and logistics and info-communication technology.²²
+
+In August 2017, Singapore and Chongqing signed agreements for two joint ventures: the Chongqing Logistics Development Platform (CLDP) and the Multi-Modal Distribution and Connectivity (DC) Centre. These ventures aim to help “develop Chongqing into an inland international logistics hub and contribute to the development of the CCI Southern Transport Corridor”, which in turn aims to enhance connectivity between west China and Southeast Asia.²³
+
+Other commercial signings between Singapore and Chongqing include the following:
+
+- China-Europe Rail Logistics plans to develop less-than-container-load freight consolidation using Yu’Xin’Ou railway to expand China and Europe sales markets.
+- BASH @ Chongqing aims to establish an Innovation and Entrepreneurship Centre to groom talent, adopt acceleration/incubation methodologies from Singapore, and develop Chongqing as a springboard into the rest of China.
+- Data Analytics Collaboration wants to provide cross-border information services (e.g. credit ratings) and business assessment tools developed through advanced analytics, artificial intelligence, machine learning and other web technologies.
+- B2B Creative Services Platform works towards developing a B2B bilingual online creative services platform targeted at small medium enterprises (SMEs) in Singapore, Malaysia and other parts of Southeast Asia.
+- China-Singapore Talent Centre plans to implement joint projects in areas such as training of both government officials and the managers of state-owned companies. It also wants to develop technical personnel, talent exchange, corporate collaboration, project consultancy and knowledge transfer.
+- Cross-Border Financial Innovation and Cross-Border Trade Financing plan to promote in-depth collaboration on cross-border financial innovation so as to bring about, firstly, a modern connectivity of the China-Singapore (Chongqing) pilot project, and secondly, dual factoring service for trade financing respectively.
+- Singapore-Chongqing Medical Centre aims to promote a strategic cooperation partnership to cooperate in healthcare-related projects.²⁴
 
 ---
 ### **References**
