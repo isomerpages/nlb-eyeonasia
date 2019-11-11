@@ -145,6 +145,11 @@ Apart from light industries such as textiles and garments (especially socks and 
 [^38]:  2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 [^39]:  3-9: Gross regional product and indices (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 [^40]:  Consulate-General of the Republic of Singapore. (2012). *Ministry of Foreign Affairs.* Retrieved June 15, 2018, from [https://www.mfa.gov.sg](https://www.mfa.gov.sg/content/mfa/overseasmission/chengdu.html){:target="_blank"}
+[^41]:  Sichuan: Market profile. (2018, January 30). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Sichuan-Market-Profile/ff/en/1/1X39VTST/1X06BVRO.htm){:target="_blank"}
+[^42]:  2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^43]:  Tianjin. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-tianjin.aspx?lang=eng){:target="_blank"}
+[^44]:  3-9: Gross regional product and indices. (2015). *China Statistical Yearbook 2016.* Retrieved June 11, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}: 3-9: Gross regional product and indices. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^45]:  3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 
 
 
