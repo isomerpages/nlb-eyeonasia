@@ -78,29 +78,29 @@ Sichuan is located along the upper reaches of the Yangtze River in southwestern 
 
 <u>Industries</u>
 
-Apart from being a major agricultural producer, Sichuan is also expanding its industrial activities rapidly over the last two decades. Its major industries include gas, electricity, steel, cement, Chinese medicine and chemical fibre. Furthermore, Sichuan’s telecommunications equipment, computer and other electronic equipment sectors have grown rapidly in recent years.41
+Apart from being a major agricultural producer, Sichuan is also expanding its industrial activities rapidly over the last two decades. Its major industries include gas, electricity, steel, cement, Chinese medicine and chemical fibre. Furthermore, Sichuan’s telecommunications equipment, computer and other electronic equipment sectors have grown rapidly in recent years.[^41]
 
 
 
 ##### **Tianjin**
 
-Tianjin, with a population of 15.62 million in 2016,42 has experienced fast economic growth in recent years.43 Its GRP in 2015 was RMB 1.65 trillion, which was an increase of about 46 percent from the RMB 1.1 trillion recorded in 2011.44 In 2016, it grew by another 8.36 percent to reach RMB 1.788 trillion.45
+Tianjin, with a population of 15.62 million in 2016,[^42] has experienced fast economic growth in recent years.[^43] Its GRP in 2015 was RMB 1.65 trillion, which was an increase of about 46 percent from the RMB 1.1 trillion recorded in 2011.[^44] In 2016, it grew by another 8.36 percent to reach RMB 1.788 trillion.[^45]
 
-The Singapore-Tianjin Eco-city, a government-to-government project between Singapore and China, is located within the Tianjin Binhai New Area, one of China’s fastest growing regions. It is 40 kilometres from Tianjin City Centre and 150 kilometres from Beijing City Centre.46
+The Singapore-Tianjin Eco-city, a government-to-government project between Singapore and China, is located within the Tianjin Binhai New Area, one of China’s fastest growing regions. It is 40 kilometres from Tianjin City Centre and 150 kilometres from Beijing City Centre.[^46]
 
 <u>Industries</u>
 
-The province’s main industries include high-tech (particularly electronic information) products, automotive, electronics, petrochemicals, metallurgy, medicine, energy and financial services.47 The service sector, in particular, is developing rapidly, In 2016, the industry’s two sub-sectors, wholesale and retail trade, and finance accounted for 22.4 percent and 17.8 percent of the service sector’s total added value respectively.48
+The province’s main industries include high-tech (particularly electronic information) products, automotive, electronics, petrochemicals, metallurgy, medicine, energy and financial services.[^47] The service sector, in particular, is developing rapidly, In 2016, the industry’s two sub-sectors, wholesale and retail trade, and finance accounted for 22.4 percent and 17.8 percent of the service sector’s total added value respectively.[^48]
 
 
 
 ##### **Zhejiang**
 
-Zhejiang covers a land area of 101,800 square kilometres49 and is situated on China’s eastern coast. Hangzhou is the province’s capital city. In 2016, it had a population of 55.9 million.50 The province’s GRP grew from RMB 4.29 trillion in 2015 to RMB 4.725 trillion in 2016.51
+Zhejiang covers a land area of 101,800 square kilometres[^49] and is situated on China’s eastern coast. Hangzhou is the province’s capital city. In 2016, it had a population of 55.9 million.[^50] The province’s GRP grew from RMB 4.29 trillion in 2015 to RMB 4.725 trillion in 2016.[^51]
 
 <u>Industries</u>
 
-Apart from light industries such as textiles and garments (especially socks and ties), Zhejiang also has heavy industries whose products include electrical equipment and machinery as well as chemicals.52 The province is also a leading centre for e-commerce. It is also home to Alibaba, the world’s largest e-business platform.53
+Apart from light industries such as textiles and garments (especially socks and ties), Zhejiang also has heavy industries whose products include electrical equipment and machinery as well as chemicals.[^52] The province is also a leading centre for e-commerce. It is also home to Alibaba, the world’s largest e-business platform.[^53]
 
 ---
 ### **References**
@@ -150,6 +150,16 @@ Apart from light industries such as textiles and garments (especially socks and 
 [^43]:  Tianjin. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-tianjin.aspx?lang=eng){:target="_blank"}
 [^44]:  3-9: Gross regional product and indices. (2015). *China Statistical Yearbook 2016.* Retrieved June 11, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}: 3-9: Gross regional product and indices. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 [^45]:  3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^46]:  Sino-Singapore Tianjin Eco-city: A model for sustainable development. (2017, August 25). *Government of Singapore.* Retrieved June 15, 2018, from [http://www.tianjinecocity.gov.sg](http://www.tianjinecocity.gov.sg/bg_intro.htm){:target="_blank"}
+[^47]:  Tianjin. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-tianjin.aspx?lang=eng){:target="_blank"}
+[^48]:  Tianjin: Market profile. (2018, April 6). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Tianjin-Market-Profile/ff/en/1/1X39VTST/1X06BVTM.htm){:target="_blank"}
+[^49]:  Geographical and natural features. (2010). *Zhejiang.* Retrieved June 15, 2018, from [http://english.zj.gov.cn](http://english.zj.gov.cn/col/col11078/index.html){:target="_blank"}
+[^50]:  2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
+[^51]:  3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
+[^52]:  Zhejiang: Market profile. (2018, March 1). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
+[^53]:  Zhejiang. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-zhejiang.aspx?lang=eng){:target="_blank"}
+
+
 
 
 
