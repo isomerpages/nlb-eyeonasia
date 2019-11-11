@@ -35,7 +35,7 @@ The main engine of Guangdong’s economy is its manufacturing industries. One of
 
 
 
-### **Major cities[^14]**
+### **Major cities**[^14]
 
 Shenzhen and Shantou are two major cities located in the Guangdong province.
 
@@ -83,25 +83,25 @@ In 2016, Guangdong received 362 million domestic tourists and 35.2 million overs
 
 ---
 ### **References**
-[^1]: Chongqing: Market profile. (2018, January 29). *HKTDC Research.* Retrieved April 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Chongqing-Market-Profile/ff/en/1/1X000000/1X06BPV2.htm){:target="_blank"}
+[^1]: Guangdong: Market profile. (2018, February 23). HKTDC Research. Retrieved June 22, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Guangdong-Market-Profile/ff/en/1/1X000000/1X06BUOU.htm){:target="_blank"}
 
-[^2]: 2-6: Population at year-end by region. (2017). *National Bureau of Statistics of China.* Retrieved April 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^2]: China Statistical Yearbook 2017. (2017). National Bureau of Statistics of China. Retrieved June 22, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 
-[^3]: 3-9 Gross regional product. (2017). *China Statistical Yearbook 2017.* Retrieved April 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^3]: China Statistical Yearbook 2017. (2017). National Bureau of Statistics of China. Retrieved June 22, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 
-[^4]: 3-9 Gross regional product. (2017). *China Statistical Yearbook 2017.* Retrieved April 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^4]: China Statistical Yearbook 2017. (2017). National Bureau of Statistics of China. Retrieved June 22, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 
-[^5]: Chongqing: Market profile. (2018, January 29). *HKTDC Research.* Retrieved April 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Chongqing-Market-Profile/ff/en/1/1X000000/1X06BPV2.htm){:target="_blank"}; Chongqing (Chungking). (n.d.). *China Today.* Retrieved April 13, 2018, from [http://www.chinatoday.com](http://www.chinatoday.com/city/chongqing.htm){:target="_blank"}; Chongqing. (2016, September 9). *Government of Canada.* Retrieved April 13, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-chongqing.aspx?lang=eng){:target="_blank"};  History. (n.d.). *Chongqing Municipal Government.* Retrieved April 13, 2018, from [http://en.cq.gov.cn](http://en.cq.gov.cn/AboutChongqing/2007/6/12/981920.shtml){:target="_blank"}
+[^5]: Guangdong province. (n.d.). China Today. Retrieved September 18, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
 
-[^6]: Administrative divisions. (n.d.). *Chongqing Municipal Government.* Retrieved April 13, 2018, from [http://en.cq.gov.cn](http://en.cq.gov.cn/AboutChongqing/2007/6/12/981919.shtml){:target="_blank"}
+[^6]: Guangdong province. (n.d.). China Today. Retrieved September 18, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
 
-[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved April 13, 2018, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="_blank"}; Chongqing municipality. (2017). *New Zealand Foreign Affairs & Trade.* Retrieved April 13, 2018, from [https://www.mfat.govt.nz](https://www.mfat.govt.nz/en/countries-and-regions/north-asia/china/new-zealand-consulate-general-chengdu-china/chongqing-municipality/){:target="_blank"}
+[^7]: Falkenheim, V. C., Yeung, Y., & Chang, C. (2016). Guangdong. Encyclopaedia Britannica. Retrieved September 18, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="_blank"}; Guangdong province. (n.d.). China Today. Retrieved September 18, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
 
-[^8]: China’s big cities target slower growth in 2017. (2017, January 15). *Fortune.* Retrieved April 13, 2018, from [http://fortune.com](http://fortune.com/2017/01/15/china-cities-growth-2017/){:target="_blank"}
+[^8]: Doing business in Guangdong province of China. (n.d.). Ministry of Commerce of the People’s Republic of China. Retrieved September 18, 2017, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Guangdong.shtml){:target="_blank"}
 
-[^9]: Wong, P., Lin, M. C. Y. & Jackson, J. (2016, September). Best-performing cities: China 2016. *Milken Institute.* Retrieved April 13, 2018, from [http://best-cities-china.org](http://best-cities-china.org/best-performing-cities-china-2016.pdf){:target="_blank"}; Chongqing. (n.d.). *China Briefing.* Retrieved April 13, 2018, from [http://www.china-briefing.com](http://www.china-briefing.com/regional-intelligence/chongqing.html){:target="_blank"}; About Chongqing. (n.d.). *Chongqing Municipal Government.* Retrieved April 13, 2018, from [http://en.cq.gov.cn](http://en.cq.gov.cn/AboutChongqing/2007/6/12/981922.shtml){:target="_blank"}; New five-year plan brings hope to China’s west. (2016, December 27). *The State Council: The People’s Republic of China.* Retrieved April 13, 2018, from [http://english.gov.cn](http://english.gov.cn/premier/news/2016/12/27/content_281475526349906.htm){:target="_blank"}
+[^9]: Falkenheim, V. C., Yeung, Y., & Chang, C. (2016). Guangdong. Encyclopaedia Britannica. Retrieved September 18, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="_blank"}; Guangdong province. (n.d.). China Today. Retrieved September 18, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
 
-[^10]: Chongqing profile. (n.d.). *International Students’ Department.* Retrieved April 13, 2018, from [http://interstar.sisu.edu.cn](http://interstar.sisu.edu.cn/ywz/Profile/Chongqing_Profile.htm){:target="_blank"}; About Belt and Road Initiative. (2018). *Enterprise Singapore.* Retrieved April 13, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/About-OBOR){:target="_blank"}
+[^10]: Guangdong week. (2017). China’s Foreign Trade. 3(561): 26-27. Retrieved September 18, 2017, from [https://www.pressreader.com](https://www.pressreader.com/china/chinas-foreign-trade-english/20170620){:target="_blank"}
 
 [^11]: Chongqing: Market profile. (2018, January 29). *HKTDC Research.* Retrieved 13 April, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Chongqing-Market-Profile/ff/en/1/1X39VTST/1X06BPV2.htm){:target="_blank"}
 
