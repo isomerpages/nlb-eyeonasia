@@ -44,6 +44,22 @@ The author provides an account of the spatial transformations in Beijing, Shangh
 
 All rights reserved, Abingdon, Oxon: Routledge, 2014.
 
+<img src="/images/book-covers/Hainan-Guangdong-Southwest-China.jpg" style="width:150px;" />
+
+[**Hainan, Guangdong & Southwest China**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=28BF5B63-8035-49ED-97C5-0E52F1F2858D){:target="_blank"}
+
+An essential guide that highlights the top sights and less travelled zones including travel tips such as cultural insights, food, sight-seeing, shopping and hidden gems around these areas.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/Guangdongs-innovation-in-land-use.png" style="width:150px;" />
+
+[**Guangdong’s innovation in land use**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200588268){:target="_blank"}
+
+Find out more about the land renewal scheme implemented in Guangdong to address land shortage resulting from high though uneven economic growth in the province. Some of the cities did better than others while some faced obstacles in classifying property rights and convincing local government to share interests derived from value-added land with farmers.
+
+All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2013.
+
 ---
 
 ### **You may also like**
@@ -53,27 +69,3 @@ All rights reserved, Abingdon, Oxon: Routledge, 2014.
 [**Chongqing Municipal Government**](http://en.cq.gov.cn/index.shtml){:target="_blank"}
 
 This is the official website of the city of Chongqing and contains government-related information as well as resources for local residents, visitors and businesses.
-
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
-
-[**China (Chongqing) Pilot Free Trade Zone**](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/China-Chongqing-Pilot-Free-Trade-Zone/ff/en/1/1X000000/1X0A9NGN.htm){:target="_blank"}
-
-Officially launched on 1 April 2017, the *Chongqing Pilot Free Trade Zone* forms part of the third batch of government-endorsed *Pilot Free Trade Zones*. *China (Chongqing) Pilot Free Trade Zone* is a research report by professional economists from the Hong Kong Trade Development Council.
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
-[**Chongqing: Market profile**](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Chongqing-Market-Profile/ff/en/1/1X000000/1X06BPV2.htm){:target="_blank"}
-
-Gain a better understanding of Chongqing through this research report by professional economists from the Hong Kong Trade Development Council.
-
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
-
-[**CQNEWS.net**](http://english.cqnews.net/){:target="_blank"}
-
-This is a key news portal on Chongqing which covers various news media such as *Chongqing Daily*, *Chongqing Evening News*, *Chongqing Morning Post* and *Chongqing Commercial Daily*.
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
-[**Best-performing cities: China 2016**](http://best-cities-china.org/best-performing-cities-china-2016.pdf){:target="_blank"}
-
-This report analyses official data to track the economic performance of China’s best-performing cities. The ranking is based on nine indicators including job growth, wage growth, gross regional product per capita growth and foreign direct investment growth.
