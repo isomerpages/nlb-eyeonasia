@@ -60,12 +60,44 @@ Find out more about the land renewal scheme implemented in Guangdong to address 
 
 All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2013.
 
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**Does water governance matter to water sector performance? Evidence from ten provinces in China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+This paper assesses the data on water governance in 10 Chinese provinces (including Liaoning, Guangdong, Jiangsu and Sichuan) and explores the effects of water governance on the availability of water resources, the adequacy of drinking water and water productivity.
+
+Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
+
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Asian cities report: Guangzhou Office 1H 2017**](http://pdf.savills.asia/asia-pacific-research/asia-pacific-research/asian-cities---gz-off-1h-2017.pdf){:target="_blank"}
+
+Despite the slowdown of the national economy, Guangzhou continued to witness strong economic growth in 2016. This report provides information on the market overview and market outlook of Guangzhou in 2016 by Savills.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Guangzhou starts construction of 5 mega projects**](http://english.gz.gov.cn/gzgoven/s3617/Government.shtml){:target="_blank"}
+
+Mayor of Guangzhou Wen Guohui , announced the start of five large projects on 27 April 2017. They are Guangzhou Automobile Group (GAC) industrial park for New Energy Vehicles, Cisco (Guangzhou) smart city project, Hengli Island Development project at Nansha, Line 18 of Guangzhou Metro and Headquarter of China Railway Tunnel Group (CTG). These projects aim to expand the city’s international cooperation and serve the Guangdong-Hong Kong-Macao Greater Bay development.
+
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Chongqing Municipal Government**](http://en.cq.gov.cn/index.shtml){:target="_blank"}
+[**Singapore, China leaders laud deep, growing ties**](http://www.todayonline.com/chinaindia/china/singapore-china-leaders-laud-deep-growing-ties){:target="_blank"}
 
-This is the official website of the city of Chongqing and contains government-related information as well as resources for local residents, visitors and businesses.
+The article details the signing of a MOU between China’s State Intellectual Property Office, Singapore’s Intellectual Property Office and the People’s Government of Guangdong Province. The MOU establishes a framework agreement for all three parties to work together so as to facilitate the Intellectual Reform pilot programme in Sino-Singapore Guangzhou Knowledge City.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**South China expands as a huge market for U.S. wood and wood products**](https://gain.fas.usda.gov/Recent%20GAIN%20Publications/South%20China%20A%20Huge%20Market%20for%20U.S.%20Wood%20and%20Wood%20Products_Guangzhou_China%20-%20Peoples%20Republic%20of_2-9-2017.pdf){:target="_blank"}
+
+China is the largest market in the world for U.S. wood and wood products, with nearly 30 percent going to South China alone. The article also highlights that the demand continues to be strong for both U.S. hardwoods and softwoods, with hardwoods mainly used for furniture production and flooring, while softwoods are used in the furniture and the building sectors. Guangdong province in South China has the largest number of furniture producing companies in China, and is also the largest distribution centre for imported woods.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Best-performing cities: China 2016**](http://best-cities-china.org/best-performing-cities-china-2016.pdf){:target="_blank"}
+
+This report analyses official data to track the economic performance of China’s best-performing cities. The ranking is based on nine indicators including job growth, wage growth, gross regional product per capita growth and foreign direct investment growth.
