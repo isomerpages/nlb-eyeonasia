@@ -29,7 +29,7 @@ Jiangsu province, located in the eastern-central region of China, borders Shando
 
 ### **Economy**
 
-<img src="\images\china-selected\jiangsu-profile-chart-1.jpg" style="width:350px;" />
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\jiangsu-profile-chart-1.jpg" style="width:350px;" />Data Source: Jiangsu: Market Profile. (2018, January). Hong Kong Trade Development Council.</div>
 
 Since the beginning of China’s economic reforms in the 1990’s, Jiangsu has been a hotspot for economic development. Jiangsu’s GDP ranked the second in China in 2016, after Guangdong, accounting for about 10.4 percent of the national total. The southern Jiangsu area of Nanjing, Suzhou, Wuxi, Zhengjiang and Changzhou is the economic hub of the province. Suzhou has the highest GDP in the province followed by Nanjing and Wuxi.[^7]
 
