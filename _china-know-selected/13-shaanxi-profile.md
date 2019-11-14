@@ -1,91 +1,91 @@
 ---
 layout: leftnav-page-content
-title: Shandong - A profile
-permalink: /china/know/china-municipalities-provinces/shandong-profile/
-breadcrumb: Shandong - A profile
+title: Shaanxi - A profile
+permalink: /china/know/china-municipalities-provinces/shaanxi-profile/
+breadcrumb: Shaanxi - A profile
 collection_name: china-know-selected
 ---
 
-<img src="\images\china-selected\shandong-profile.jpg" alt="shandong profile banner" style="width:800px;" />
+<img src="\images\china-selected\shaanxi-profile.jpg" alt="shaanxi profile banner" style="width:800px;" />
 
-This article provides an overview of Shandong for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
+This article provides an overview of Shaanxi for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
 ### **Key Facts**
 
-- **Land area:** 157,900 sq km[^1]
-- **Population:** 99,470,000[^2]
-- **Provincial capital:** Jinan
-- **Gross Regional Product (GRP):** RMB 6,802.449 billion[^3]
-- **GRP per capita:** RMB 68,733[^4]
-- **Major cities:** Jinan, Qingdao, Weifang, Weihai, Yantai, Zibo[^5]
+- **Land area (2018):** 205,800 sq km1
+- **Population (2016):** 38.13 million2
+- **Provincial capital:** Xi’an3
+- **Gross Regional Product (2016):** RMB 19399.59 billion4
+- **Gross Regional Product per capita (2016)**: RMB 51,0155
+- **Major cities:** Xi’an, Xianyang, Baoji, Yulin, Tongchuan, Weinan, Yan’an, Hanzhong6
 
 
 
 ### **Introduction**
 
-Shandong province is located on the eastern coast of China. It borders Tianjin and Hebei to the north, Henan to the west, and Anhui and Shandong to the south. The province has a well-developed rail network system comprising the Beijing-Shanghai Railway, Beijing-Kowloon Railway and many other high-speed railway lines. It also has eight civil airports and seven sea ports, including Qingdao Port.[^6]
+ Shaanxi province lies in the east of the northwest region of China and is bound on the east by Shanxi through the Yellow river; on the west by Gansu and Ningxia; on the north by Inner Mongolia; on the south by Sichuan and Chongqing; and on the southeast by Henan and Hubei. It has an extremely varied topography with the Loess Plateau in the north, the Guanzhong Plain in the middle and the Qinba mountainous area in the south. The Changjiang river and Yellow river flow through Shaanxi.7 
 
 
 
-### **Economy**
+### **Economic profile**
 
- In 2016, Shandong’s economy was the third largest in China, after Guangdong and Jiangsu.[^7] 
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shanxi-chart-1.jpg" style="width:400px;" /></div>
+ Shaanxi contributes 2.6 percent to China’s gross domestic product (GDP) with natural gas contributing 30.1 percent of the national output, followed by crude oil (17.5 percent) and coal (15 percent). The GDP of major cities in Shaanxi in 2016 were: Xi’an – RMB 6282.65 billion; Tongchuan – RMB 311.61 billion; Baoji – RMB 1932.14 billion; Xianyang – RMB 2390.97 billion; Weinan – RMB 1488.62 billion; Yan’an – RMB 1082.91 billion; Hanzhong – RMB 1156.49 billion; Yulin – RMB 2773.05 billion; Ankang – RMB 842.86 billion; Shangluo – RMB 692.13 billion; Yangling – RMB 119.20 billion.8 
+
+
+### **Major cities**
+
+Some of Shaanxi’s major cities include Xi’an, Xianyang and Baoji. 
+
+##### **Xi’an**
+
+Shaanxi’s capital city, Xi’an is known as China’s ancient capital. It has abundant cultural and historical assets and has now become an IT powerhouse with the majority of the province’s software enterprises being located here.[^9] Xi’an is also the leading city of China’s Western Development Drive Programme since the 1990s and an important economic, cultural, industrial and educational centre of the central-northwest region equipped with modern and convenient facilities.[^10]
+
+##### **Xianyang**
+
+Xianyang is located in Guanzhong Plain with the Weihe river in the south, Zongshan Mountain in the north, Xi’an city to the east and Yangling High-tech Agricultural Demonstration Zone in the west. It is the first stop of the ancient Silk Road in China and has a history of more than 2,350 years. Due to its good transportation location, Xianyang is the new hub for the state dimensional transportation net. Xianyang International airport is one of the six large air harbours in China and the biggest air harbour in west China and inland export harbour. It is one of the important industrial cities in north-west China, the largest electronic industrial base in north-west China and an important base for energy, chemical and light industry. It has formed an industrial system with nine industries – energy, chemicals, textiles, electronics, machinery, food, pharmaceuticals, building material and logistics as a supporting industry – which has laid a strong foundation for its future development.[^11]
+
+##### **Baoji**
+
+Baoji is the second biggest city in Shaanxi province. It is surrounded by hills on three sides and is located in a valley opening out to the east. Part of the ancient Northern silk route, Baoji is now one of the communication hubs of the province that links up China. It is an important industrial base specialising in equipment manufacturing. It is also one of the most important production bases for commodities such as Qinchuan cattle, Chinese red pepper and kiwi fruit. It has been selected by the central government to be one of the sub-central cities in the development of Guanzhong-Tianshui Economic Zone.[^12]
 
 
 
 ### **Industries**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shandong-chart-1.jpg" style="width:400px;" />Data Source: CEIC</div>
-
-Heavy industry accounts for 68 percent of Shandong’s gross industrial output. The five main industry sectors in Shandong (by share of a value-added industrial output in percentage terms) are raw materials and chemical products (10.2 percent), food processing (7.8 percent), machinery manufacturing (6.4 percent), non-metallic mineral product manufacturing (5.9 percent) and textiles (5.7 percent). The province also produces one-third of China’s total crude oil output and has 50,000 sq km of coalfields.[^8] Agricultural production includes apples, peanuts and vegetables.[^9]
-
-
-
-### **Major cities**
-
- Jinan, Qingdao, Weifang, Weihai, Yantai and Zibo are some of the major cities in Shandong province.[^10]
-
-##### **Jinan**
-
-Jinan is the capital city of Shandong province. In 2016, its population was 7.23 million.[^11] Its GDP was estimated at RMB 720.2 billion in 2017.[^12] It is also known as the City of Springs due to the presence of over 700 natural springs around the city.[^13] Jinan is one of China’s first three software cities, the other two being Chengdu and Nanjing. Its economic focus is on logistics, water management, ICT, healthcare and machinery equipment.[^14]
-
-##### **Qingdao**
-
-Qingdao is Shandong’s economic centre. In 2016, it had an estimated population of 9.2 million.[^15] Its GDP in 2017 was estimated at RMB 1,103.73 billion.[^16] It was also the fifth largest container port in China in terms of throughput and home to well-known Chinese brands such as Tsingtao Beer and Haier.[^17] Many foreign companies operate there, including HSBC, Jusco, OCBC, Wal-Mart and Yamaguchi Bank Ltd, to name a few.[^18] Its main industries include logistics, shipbuilding and marine technology, ICT, water management, healthcare, wealth management, tourism, and fishery.[^19]
-
-##### **Weifang**
-
-Weifang is located in central Shandong. In 2016, it had an estimate population of 9.36 million[^20] while its  GDP was estimated at RMB 585.86 billion in 2017.[^21] Some of the city’s main industry sectors include agriculture, food and beverage processing, machinery equipment, textiles and chemicals.[^22] Shouguang, a prefectural city of Weifang, hosts the annual China International Vegetable SciTech Fair.[^23] The city is regard as China’s vegetable capital while Qingzhou, another prefectural city of Weifang, is famous for its horticulture.[^24]
-
-##### **Yantai**
-
-With an estimated GDP of RMB 733.9 billion in 2017[^25] and a population of 7.06 million in 2016, Yantai is Shandong’s largest industrial city.[^26] It is known as “Fairyland on Earth” and “City of Wine”[^27] and an export base for agricultural products such as apples, peanuts and vegetables.[^28] It is home to a large number of auto parts manufacturers, as well as companies specialising in logistics, shipbuilding and marine technology, chemical, electronics and IT, and agro-food.[^29]
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shandong-chart-2.jpg" style="width:400px;" />Data Source: Shaanxi Statistical Yearbook 2017[^14]</div>
+Shaanxi is developing four industry sectors: equipment manufacturing, high-tech industries, energy and chemicals, and traditional industries such as food processing. As for the service sector, its focus has been on tourism and cultural industries, logistics and finance. A major agricultural base, it is China’s leading producer of grains, vegetables, cured tobacco, apple and Chinese chestnut and a major production and processing centre for fruits. The abundance of natural reserves such as coal, natural gas and oil has made Shaanxi an important energy production base with a well-developed electricity generation and a sizeable iron and steel making sector. It is a national centre for research and production in aviation, aerospace, equipment manufacturing, electronics and agriculture. It also has an emerging pharmaceutical industry and a production centre of traditional Chinese medicine.[^13]
 
 
 
-### **Foreign Trade and Foreign Investment**
+### **Foreign trade**
 
-Shandong’s major exports comprise machinery, electronics, textiles, garments, vehicles and related parts, plastics and related products, and base metals and related products. Major export markets include the United States, Japan and South Korea. Its major imports include minerals, machinery and electrical equipment, seeds and fruits, and plastics and related products. Around 64.6 percent of foreign investments in Shandong are centred mainly on the manufacturing sector. Singapore is one of the major investors in Shandong.[^30]
+Hong Kong was Shaanxi’s largest export market in 2016 accounting for 22.2 percent of the provinces total export. Other major export markets included the United States, South Korea, Taiwan and Japan. Major exports include agricultural products, minerals, textiles and garments, metals and metal products, electrical and mechanical equipment, and transport equipment. Shaanxi imported mainly electrical and mechanical equipment and chemical products with its major sources being Taiwan, the United States, South Korea and Japan.[^15]
 
 
 
-### **Consumer Market**
+### **Foreign investment**
 
-In 2016, Shandong was the second largest consumer market (in terms of retail sales after Guangdong. Retail sales of consumer goods reached RMB 3,064.6 billion, accounting for 9.2 percent of China’s total. Annual per capita disposal income of urban households was RMB 34,012 in 2016.[^31]
+In 2016, the foreign direct investment (FDI) in Shaanxi amounted to US$5 billion, with 60.6 percent attributed to the manufacturing sector. The lead foreign investors were Hong Kong, which accounted for 38.2 percent of the utilised FDI  while South Korea accounted for 33.2 percent.[^16]
+
+ 
+
+### **Consumer market**
+
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shandong-chart-3.jpg" style="width:400px;" />Data Source: Shaanxi Statistical Yearbook 2017[^17]</div>
+Shaanxi’s per capita disposable income of urban households in 2016 was RMB 28,440 with the largest consumer centre being Xi’an. It accounted for 51.1 percent of the province’s total retail sales.
 
 
 
 ### **Tourism**
 
-Shandong is a popular tourist destination. In 2016, a total of 3.2882 million tourists visited the province, of which 2.3766 million were foreigners.[^32] Tourism receipts from foreign tourists was US$ 3.06342 billion[^33] while receipts from domestic tourists totalled RMB 740 billion.[^34] Shandong was the birthplace of influential cultural and historical figures such as Confucius and Mo Zi, and is also home to four UNESCO World Heritage sites: Mount Tai, Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu, the Grand Canal[^35] and the Great Wall of Qi, which forms part of the Great Wall of China.[^36]
+Shaanxi has a number of historical sites especially in the ancient capital Xi’an. Some of the popular sites include the terracotta army, Lantian Ape Man, Xi’an Forest of Steles, Wild Goose Pagoda and Huaqing Pool as well as the landscapes around Mount Huashan.[^18]
 
+ 
 
+### **Singapore and Xi’an**
 
-### **Singapore and Shandong**
-
-The Singapore-Shandong Business Council (SSBC) was the first council to be established between Singapore and Shandong.[^37] It was the result of a mutual desire to strengthen economic and trade cooperation by both Singapore and Shandong. Singapore-Shandong bilateral economic and trade relations has grown steadily over the years. Total trade between Singapore and Shandong amounted to RMB 17.93 billion (S$3.74 billion) in 2017, with actual investment worth a total of RMB 7.49 billion.[^38]
-
-SSBC has identified healthcare and logistics, including smart technologies, as key sectors that offer emerging opportunities for Singaporean companies in the province. Some Singaporean companies that have signed agreements with their Shandong counterparts include Global Logistics Properties, YCH Group and The Farrer Park Company.[^39] In addition, Singapore’s Mapletree Investments and the authorities in the city of Yantai signed a contract to build a S$52 million logistics warehouse in the city’s Fushan district. The company also has two other logistics parks in Shandong, namely in Jinan and Qingdao.[^40]
+Singapore and Xi’an have good bilateral ties. Electronic products, high-tech products and raw chemicals are the key products traded between Singapore and Xi’an. Singapore is one of its largest investment partners with Singapore companies having invested USD 1.4 billion in 150 projects in Xi’an at the end of 2016. The key industries of investment were urban infrastructure development and industrial park development, transport and logistics facilities, tourism infrastructure and service and modern services industry.[^19]
 
 ---
 ### **References**

@@ -35,3 +35,15 @@ Brief summary of major economic indicators pertaining to Shandong, such as the t
 [**Economic overview and opportunities of Shandong province**](http://www.rug.nl/about-us/internationalization/economic_overview_shandong_2016.pdf){:target="_blank"}
 
 Developed by the Netherlands Economic Network in China primarily for Dutch businesses, this report provides an overview of the economy of China’s coastal province Shandong and its future direction. Highlights both key cities in Shandong and the roles they play in Shandong’s economy and main industries.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Amazon launches innovation centre in Qingdao**](http://www.chinadaily.com.cn/business/2017-03/31/content_28760547.htm){:target="_blank"}
+
+Qingdao, the largest city in Shandong province, is home to the first global joint innovation centre by Amazon’s cloud-computing arm.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Opportunity report: Animal husbandry industry in Shandong province**](https://www.rvo.nl/sites/default/files/2016/06/Marktrapport-veeteelt-sector-in-de-provincie-Shandong.pdf){:target="_blank"}
+
+Overview of the animal and husbandry industry in Shandong as well as business opportunities.
