@@ -29,7 +29,7 @@ This article provides an overview of Shaanxi for those keen on exploring the pos
 
 ### **Economic profile**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-1.png" style="width:400px;" /></div>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-1.png" style="width:550px;" /></div>
  Shaanxi contributes 2.6 percent to China’s gross domestic product (GDP) with natural gas contributing 30.1 percent of the national output, followed by crude oil (17.5 percent) and coal (15 percent). The GDP of major cities in Shaanxi in 2016 were: Xi’an – RMB 6282.65 billion; Tongchuan – RMB 311.61 billion; Baoji – RMB 1932.14 billion; Xianyang – RMB 2390.97 billion; Weinan – RMB 1488.62 billion; Yan’an – RMB 1082.91 billion; Hanzhong – RMB 1156.49 billion; Yulin – RMB 2773.05 billion; Ankang – RMB 842.86 billion; Shangluo – RMB 692.13 billion; Yangling – RMB 119.20 billion.8 
 
 
@@ -53,7 +53,7 @@ Baoji is the second biggest city in Shaanxi province. It is surrounded by hills 
 
 ### **Industries**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-2.png" style="width:400px;" />Data Source: Shaanxi Statistical Yearbook 2017[^14]</div>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-2.png" style="width:550px;" />Data Source: Shaanxi Statistical Yearbook 2017[^14]</div>
 Shaanxi is developing four industry sectors: equipment manufacturing, high-tech industries, energy and chemicals, and traditional industries such as food processing. As for the service sector, its focus has been on tourism and cultural industries, logistics and finance. A major agricultural base, it is China’s leading producer of grains, vegetables, cured tobacco, apple and Chinese chestnut and a major production and processing centre for fruits. The abundance of natural reserves such as coal, natural gas and oil has made Shaanxi an important energy production base with a well-developed electricity generation and a sizeable iron and steel making sector. It is a national centre for research and production in aviation, aerospace, equipment manufacturing, electronics and agriculture. It also has an emerging pharmaceutical industry and a production centre of traditional Chinese medicine.[^13]
 
 
@@ -72,7 +72,7 @@ In 2016, the foreign direct investment (FDI) in Shaanxi amounted to US$5 billion
 
 ### **Consumer market**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-3.png" style="width:400px;" />Data Source: Shaanxi Statistical Yearbook 2017[^17]</div>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-3.png" style="width:550px;" />Data Source: Shaanxi Statistical Yearbook 2017[^17]</div>
 Shaanxi’s per capita disposable income of urban households in 2016 was RMB 28,440 with the largest consumer centre being Xi’an. It accounted for 51.1 percent of the province’s total retail sales.
 
 
