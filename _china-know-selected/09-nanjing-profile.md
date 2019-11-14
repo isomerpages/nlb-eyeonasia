@@ -23,7 +23,7 @@ This article provides an overview of Nanjing for those keen on exploring the pos
 
 ### **Introduction**
 
- Nanjing is the capital city of Jiangsu Province in East China. Founded 2,500 years ago, the city has long been “a major centre of culture, education, research, politics, economy, transport networks and tourism.”[^6] It has also been dubbed the “Capital of 10 Ancient Dynasties”, given that it served as the capital city for many Chinese dynasties, and twice as the capital of a united China until the Japanese conquered it in 1937.[^7]
+Nanjing is the capital city of Jiangsu Province in East China. Founded 2,500 years ago, the city has long been “a major centre of culture, education, research, politics, economy, transport networks and tourism.”[^6] It has also been dubbed the “Capital of 10 Ancient Dynasties”, given that it served as the capital city for many Chinese dynasties, and twice as the capital of a united China until the Japanese conquered it in 1937.[^7]
 
 
 
