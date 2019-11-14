@@ -92,44 +92,60 @@ In May 2016, Singapore and Liaoning signed 16 agreements for projects ranging fr
 
 ---
 ### **References**
-[^1]: Geographic position and natural environment. (2017). People’s Government of Jiangsu Province. Retrieved September 18, 2018, from [http://www.jiangsu.gov.cn](http://www.jiangsu.gov.cn/JSGOVEN08/){:target="_blank"}
+[^1]: Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved October 26, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
 
-[^2]: National Data. (2018). National Bureau of Statistics of China. Retrieved September 18, 2018, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^2]: Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved October 26, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
 
-[^3]: Charming Nanjing, the magnificent city. (2013). Nanjing, China. Retrieved September 18, 2018, from [http://english.nanjing.gov.cn](http://english.nanjing.gov.cn/gynj/overview/){:target="_blank"}
+[^3]: Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved October 26, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
 
-[^4]: National Data. (2018). National Bureau of Statistics of China. Retrieved September 18, 2018, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^4]: Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved October 26, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
 
-[^5]: National Data. (2018). National Bureau of Statistics of China. Retrieved September 18, 2018, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^5]: Doing business in Liaoning province of China. (n.d.). Ministry of Commerce of the People’s Republic of China. Retrieved September 20, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/liaoning.shtml){:target="_blank"}
 
-[^6]: Geographic position and natural environment. (2017). Jiangsu Provincial People’s Government. Retrieved, September 18, 2018, from [http://en.jiangsu.gov.cn](http://en.jiangsu.gov.cn/col/col54121/index.html){:target="_blank"}
+[^6]: Liaoning – survey. (2007, April 24). Ministry of Commerce, People’s Republic of China. Retrieved November 12, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aarticle/zt_business/lanmub/200704/20070404604925.html){:target="_blank"}
 
-[^7]: Jiangsu: Market Profile. (2018, January 10). Hong Kong Trade Development Council. Retrieved September 18, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Jiangsu-Market-Profile/ff/en/1/1X000000/1X06BV87.htm){:target="_blank"}
+[^7]: Doing business in Liaoning. (n.d.). China.org.cn. Retrieved November 12, 2018, from [http://www.china.org.cn](http://www.china.org.cn/living_in_china/abc/2009-06/24/content_18006511.htm){:target="_blank"}
 
-[^8]: Economic overview of Jiangsu province. (2013). Netherlands Business Support Office, Nanjing. Retrieved September 18, 2018, from [http://china.nlambassade.org](http://china.nlambassade.org/binaries/content/assets/postenweb/c/china/zaken-doen-in-china/2014/economic-overview-of-jiangsu-province.pdf){:target="_blank"}
+[^8]: Liaoning: Market profile. HKTDC Research. Retrieved November12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
 
-[^9]: Economic overview of Jiangsu province. (2013). Netherlands Business Support Office, Nanjing. September 18, 2018, from [http://china.nlambassade.org](http://china.nlambassade.org/binaries/content/assets/postenweb/c/china/zaken-doen-in-china/2014/economic-overview-of-jiangsu-province.pdf){:target="_blank"}
+[^9]: Shenyang. (2018). Encyclopaedia Britannica. Retrieved September 12, 2018, from [https://www.britannica.com](https://www.britannica.com/place/Shenyang){:target="_blank"}
 
-[^10]: Jiangsu: Market Profile. (2018, January 10). Hong Kong Trade Development Council. Retrieved September 18, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Jiangsu-Market-Profile/ff/en/1/1X000000/1X06BV87.htm){:target="_blank"}
+[^10]: Shenyang travel guide (2018). Travel China Guide. Retrieved November 12, 2018 from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/liaoning/shenyang/){:target="_blank"}
 
-[^11]: Economic overview of Jiangsu province. (2013). Netherlands Business Support Office, Nanjing. Retrieved September 18, 2018, from [http://china.nlambassade.org](http://china.nlambassade.org/binaries/content/assets/postenweb/c/china/zaken-doen-in-china/2014/economic-overview-of-jiangsu-province.pdf){:target="_blank"}
+[^11]: Kelly. (2017, September 19). The Forbidden City – Citadel of China’s last 24 emperors. China Highlights. Retrieved November 12, 2018, from [https://www.chinahighlights.com](https://www.chinahighlights.com/beijing/forbidden-city/){:target="_blank"}
 
-[^12]: Jiangsu: Market Profile. (2018, January 10). Hong Kong Trade Development Council. Retrieved September 18, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Jiangsu-Market-Profile/ff/en/1/1X000000/1X06BV87.htm){:target="_blank"}
+[^12]: Shenyang economy achieves steady growth. (2018, July 11). ChinaDaily.com. Retrieved November 9, 2018, from [http://govt-s.chinadaily.com.cn](http://govt-s.chinadaily.com.cn/regional/shenyang/2018-07/11/c_254768.htm){:target="_blank"}
 
-[^13]: Jiangsu: Market Profile. (2018, January 10). Hong Kong Trade Development Council. Retrieved September 18, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Jiangsu-Market-Profile/ff/en/1/1X000000/1X06BV87.htm){:target="_blank"}
+[^13]: Shenyang: An old industrial base. (2018, July 10). China Today. Retrieved November 7, 2018, from [http://www.chinatoday.com.cn](http://www.chinatoday.com.cn/ctenglish/2018/tourism/201807/t20180710_800134922.html){:target="_blank"}
 
-[^14]: Jiangsu: Market Profile. (2018, January 10). Hong Kong Trade Development Council. Retrieved September 18, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Jiangsu-Market-Profile/ff/en/1/1X000000/1X06BV87.htm){:target="_blank"}
+[^14]: Chen, C. (2016). Shenyang. China-Britain Business Council. Retrieved November 12, 2018, from [http://www.cbbc.org](http://www.cbbc.org/locations/china/shenyang/){:target="_blank"}
 
-[^15]: Education. (2014). Jiangsu Net. Retrieved, September 18, 2018, from [http://www.jiangsu.net](http://www.jiangsu.net/education/){:target="_blank"}
+[^15]: Zhong, N., & Wu, Y, (2018, September 12). Liaoning pursues revitalization. The State Council of the Republic of China. Retrieved October 26, 2018 from [http://english.gov.cn](http://english.gov.cn/news/top_news/2018/09/12/content_281476299560684.htm){:target="_blank"}
 
-[^16]: Geographic position and natural environment. (2017). Jiangsu Provincial People’s Government. Retrieved, September 18, 2018, from [http://en.jiangsu.gov.cn](http://en.jiangsu.gov.cn/col/col54121/index.html){:target="_blank"}
+[^16]: China’s Dalian looks to cooperation with Silicon Valley. (2018, November 5). Xinhua. Retrieved November 5, 2018, from [http://en.silkroad.news.cn](http://en.silkroad.news.cn/2018/1105/117402.shtml){:target="_blank"}
 
-[^17]: Jiangsu: Market Profile. (2018, January 10). Hong Kong Trade Development Council. Retrieved September 18, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Jiangsu-Market-Profile/ff/en/1/1X000000/1X06BV87.htm){:target="_blank"}
+[^17]: Shopping. (2018). Shangri-la Hotel, Dalian. Retrieved November 12, 2018, from [http://www.shangri-la.com](http://www.shangri-la.com/dalian/shangrila/about/local-guide/explore-dalian/shopping/){:target="_blank"}
 
-[^18]: Business councils between Singapore and China. (2018). Enterprise Singapore. Retrieved September 18, 2018, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
+[^18]: Liaoning: Market profile. (2018, March 22). HKTDC Research. Retrieved October 26, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
 
-[^19]: Singapore collaborates with Jiangsu, the biggest economy in East China, to drive opportunities for Singapore companies in trade, professional services, innovation and urban renewal. (2017, November 23). Enterprise Singapore. Retrieved September 18, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/Media-Releases/2017/11/Singapore-collaborates-with-Jiangsu-the-biggest-economy-in-East-China-to-drive-opportunities-for-Singapore-companies-in-trade-professional-services-innovation-and-urban-renewal){:target="_blank"}
+[^19]: Liaoning: Market profile. (2018, March 22). HKTDC Research. Retrieved October 26, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
 
-[^20]: Singapore collaborates with Jiangsu, the biggest economy in East China, to drive opportunities for Singapore companies in trade, professional services, innovation and urban renewal. (2017, November 23). Enterprise Singapore. Retrieved September 18, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/Media-Releases/2017/11/Singapore-collaborates-with-Jiangsu-the-biggest-economy-in-East-China-to-drive-opportunities-for-Singapore-companies-in-trade-professional-services-innovation-and-urban-renewal){:target="_blank"}
+[^20]: Zhong, N., & Wu, Y, (2018, September 12). Liaoning pursues revitalization. The State Council of the Republic of China. Retrieved October 26, 2018 from [http://english.gov.cn](http://english.gov.cn/news/top_news/2018/09/12/content_281476299560684.htm){:target="_blank"}
 
-[^21]: Cheong, D. (2018, June 1). S’pore companies ink MOUs with Nanjing. The Straits Times. Retrieved September 18, 2018, from [https://www.straitstimes.com](https://www.straitstimes.com/business/spore-companies-ink-mous-with-nanjing){:target="_blank"}
+[^21]: Liaoning: Market profile. (2018, March 22). HKTDC Research. Retrieved November 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
+
+[^22]: Liaoning: Market profile. (2018, March 22). HKTDC Research. Retrieved November 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Liaoning-Market-Profile/ff/en/1/1X000000/1X06BWFX.htm){:target="_blank"}
+
+[^23]: Liaoning travel guide. (2018, July 12). China Highlights. Retrieved November 12, 2018, from [https://www.chinahighlights.com](https://www.chinahighlights.com/liaoning/){:target="_blank"}
+
+[^24]: Top 10 attractions in Liaoning, China. (2013, July 8). China.org.cn. Retrieved November 12, 2018, from [http://www.china.org.cn](http://www.china.org.cn/top10/2013-07/08/content_29354647.htm){:target="_blank"}
+
+[^25]: Things to do in Liaoning. (2017). TripAdvisor. Retrieved November 12, 2018, from [https://www.tripadvisor.com.sg](https://www.tripadvisor.com.sg/Attractions-g297450-Activities-Liaoning.html){:target="_blank"}
+
+[^26]: 6th Singapore Liaoning Economic and Trade Council meeting held in Singapore. (2011, September 28). Enterprise Singapore. Retrieved November 12, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
+
+[^27]: Minister Tan Chuan-Jin leads business delegation to explore opportunities in Liaoning. (2016, September 22). Enterprise Singapore. Retrieved November 12, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/News/mc/Media-Releases/2016/9/Minister-Tan-Chuan-Jin-leads-business-delegation-to-explore-opportunities-in-Liaoning){:target="_blank"}
+
+[^28]: Hui, C, (2016, May 11). Singapore firms sign agreements to venture into Liaoning, China. Channel Newsasia. Retrieved November 12, 2018, from [http://www.channelnewsasia.com](http://www.channelnewsasia.com/news/singapore/singapore-firms-sign-agreements-to-venture-into-liaoning-china-8019796){:target="_blank"}
+
+[^29]: Business Councils between Singapore and China. (2017). Enterprise Singapore. Retrieved November 12, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}; Leong, C.T. (2017, September 10). Q&M Dental: Creating shareholder value in China investments. NextInsight. Retrieved November 12, 2018, from [https://www.nextinsight.net](https://www.nextinsight.net/story-archive-mainmenu-60/939-2017/11731-q-m-dental-how-its-china-investments-have-created-shareholder-value){:target="_blank"}
