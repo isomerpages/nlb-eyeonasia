@@ -30,7 +30,7 @@ This article provides an overview of Shaanxi for those keen on exploring the pos
 ### **Economic profile**
 
 <div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-1.png" style="width:550px;" /></div>
- Shaanxi contributes 2.6 percent to China’s gross domestic product (GDP) with natural gas contributing 30.1 percent of the national output, followed by crude oil (17.5 percent) and coal (15 percent). The GDP of major cities in Shaanxi in 2016 were: Xi’an – RMB 6282.65 billion; Tongchuan – RMB 311.61 billion; Baoji – RMB 1932.14 billion; Xianyang – RMB 2390.97 billion; Weinan – RMB 1488.62 billion; Yan’an – RMB 1082.91 billion; Hanzhong – RMB 1156.49 billion; Yulin – RMB 2773.05 billion; Ankang – RMB 842.86 billion; Shangluo – RMB 692.13 billion; Yangling – RMB 119.20 billion.8 
+Shaanxi contributes 2.6 percent to China’s gross domestic product (GDP) with natural gas contributing 30.1 percent of the national output, followed by crude oil (17.5 percent) and coal (15 percent). The GDP of major cities in Shaanxi in 2016 were: Xi’an – RMB 6282.65 billion; Tongchuan – RMB 311.61 billion; Baoji – RMB 1932.14 billion; Xianyang – RMB 2390.97 billion; Weinan – RMB 1488.62 billion; Yan’an – RMB 1082.91 billion; Hanzhong – RMB 1156.49 billion; Yulin – RMB 2773.05 billion; Ankang – RMB 842.86 billion; Shangluo – RMB 692.13 billion; Yangling – RMB 119.20 billion.8 
 
 
 ### **Major cities**
