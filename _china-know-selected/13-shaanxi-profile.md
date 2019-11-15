@@ -12,25 +12,25 @@ This article provides an overview of Shaanxi for those keen on exploring the pos
 
 ### **Key Facts**
 
-- **Land area (2018):** 205,800 sq km1
-- **Population (2016):** 38.13 million2
-- **Provincial capital:** Xi’an3
-- **Gross Regional Product (2016):** RMB 19399.59 billion4
-- **Gross Regional Product per capita (2016)**: RMB 51,0155
-- **Major cities:** Xi’an, Xianyang, Baoji, Yulin, Tongchuan, Weinan, Yan’an, Hanzhong6
+- **Land area (2018):** 205,800 sq km[^1]
+- **Population (2016):** 38.13 million[^2]
+- **Provincial capital:** Xi’an[^3]
+- **Gross Regional Product (2016):** RMB 19399.59 billion[^4]
+- **Gross Regional Product per capita (2016)**: RMB 51,015[^5]
+- **Major cities:** Xi’an, Xianyang, Baoji, Yulin, Tongchuan, Weinan, Yan’an, Hanzhong[^6]
 
 
 
 ### **Introduction**
 
- Shaanxi province lies in the east of the northwest region of China and is bound on the east by Shanxi through the Yellow river; on the west by Gansu and Ningxia; on the north by Inner Mongolia; on the south by Sichuan and Chongqing; and on the southeast by Henan and Hubei. It has an extremely varied topography with the Loess Plateau in the north, the Guanzhong Plain in the middle and the Qinba mountainous area in the south. The Changjiang river and Yellow river flow through Shaanxi.7 
+Shaanxi province lies in the east of the northwest region of China and is bound on the east by Shanxi through the Yellow river; on the west by Gansu and Ningxia; on the north by Inner Mongolia; on the south by Sichuan and Chongqing; and on the southeast by Henan and Hubei. It has an extremely varied topography with the Loess Plateau in the north, the Guanzhong Plain in the middle and the Qinba mountainous area in the south. The Changjiang river and Yellow river flow through Shaanxi.[^7]
 
 
 
 ### **Economic profile**
 
 <div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-1.png" style="width:550px;" /></div>
-Shaanxi contributes 2.6 percent to China’s gross domestic product (GDP) with natural gas contributing 30.1 percent of the national output, followed by crude oil (17.5 percent) and coal (15 percent). The GDP of major cities in Shaanxi in 2016 were: Xi’an – RMB 6282.65 billion; Tongchuan – RMB 311.61 billion; Baoji – RMB 1932.14 billion; Xianyang – RMB 2390.97 billion; Weinan – RMB 1488.62 billion; Yan’an – RMB 1082.91 billion; Hanzhong – RMB 1156.49 billion; Yulin – RMB 2773.05 billion; Ankang – RMB 842.86 billion; Shangluo – RMB 692.13 billion; Yangling – RMB 119.20 billion.8 
+Shaanxi contributes 2.6 percent to China’s gross domestic product (GDP) with natural gas contributing 30.1 percent of the national output, followed by crude oil (17.5 percent) and coal (15 percent). The GDP of major cities in Shaanxi in 2016 were: Xi’an – RMB 6282.65 billion; Tongchuan – RMB 311.61 billion; Baoji – RMB 1932.14 billion; Xianyang – RMB 2390.97 billion; Weinan – RMB 1488.62 billion; Yan’an – RMB 1082.91 billion; Hanzhong – RMB 1156.49 billion; Yulin – RMB 2773.05 billion; Ankang – RMB 842.86 billion; Shangluo – RMB 692.13 billion; Yangling – RMB 119.20 billion.[^8]
 
 
 ### **Major cities**
@@ -89,82 +89,40 @@ Singapore and Xi’an have good bilateral ties. Electronic products, high-tech p
 
 ---
 ### **References**
-[^1]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
+[^1]: Doing business in Shaanxi. (2018). Ministry of Commerce of the People’s Republic of China. Retrieved July 12, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shaanxi.shtml){:target="_blank"}
 
-[^2]: 2-6: Population at year-end by region. (2016). China Statistical Yearbook 2017. Retrieved September 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^2]: 2-6: Population at year-end by region. (2017). China Statistical Yearbook 2017. National Bureau of Statistics of China. Retrieved July 12, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 
-[^3]: 3-9: Gross regional product and indices. (2016). China Statistical Yearbook 2017. Retrieved September 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^3]: Doing business in Shaanxi. (2018). Ministry of Commerce of the People’s Republic of China. Retrieved July 12, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shaanxi.shtml){:target="_blank"}
 
-[^4]: 3-10: Per capita gross regional product and indices. (2017). China Statistical Yearbook 2017. Retrieved September 13, 2017, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
+[^4]: 3-9 Gross regional product. (2017). China Statistical Yearbook 2017. National Bureau of Statistics of China. Retrieved July 12, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 
-[^5]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
+[^5]: 3-9 Gross regional product. (2017). China Statistical Yearbook 2017. National Bureau of Statistics of China. Retrieved July 12, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 
-[^6]: Economic overview and opportunities of Shandong province. (2016, December). Netherlands Enterprise Agency. Retrieved September 6, 2017, from [http://www.rug.nl](http://www.rug.nl/about-us/internationalization/economic_overview_shandong_2016.pdf){:target="_blank"}
+[^6]: Doing business in Shaanxi. (2018). Ministry of Commerce of the People’s Republic of China. Retrieved July 12, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shaanxi.shtml){:target="_blank"}
 
-[^7]: 3-9: Gross regional product and indices. (2016). China Statistical Yearbook 2017. Retrieved September 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^7]: Doing business in Shaanxi. (2018). Ministry of Commerce of the People’s Republic of China. Retrieved July 12, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shaanxi.shtml){:target="_blank"}
 
-[^8]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
+[^8]: 3-11 Gross domestic product by city (district). Shaanxi Statistical Yearbook 2017. (2017). China Statistics Press. Retrieved July 12, 2018, from [http://www.shaanxitj.gov.cn](http://www.shaanxitj.gov.cn/upload/2018/7/zk/indexeh.htm){:target="_blank"}
 
-[^9]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
+[^9]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
 
-[^10]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
+[^10]: Xian travel guide. (2018). Travel China Guide. Retrieved July 12, 2018, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/xian.htm){:target="_blank"}
 
-[^11]: Jinan (Shandong) city information. (2018, April 24). Hong Kong Trade Development Council. Retrieved September 14, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Jinan-Shandong-City-Information/ff/en/1/1X39VTST/1X0A18QM.htm){:target="_blank"}
+[^11]: Xian Yang China. (n.d.). Xianyang Municipal Government. Retrieved July 12, 2018, from [http://www.xys.gov.cn](http://www.xys.gov.cn/yww/column/11453.htm){:target="_blank"}
 
-[^12]: China CN: GDP: Shandong: Jinan. (2018, February 9). CEIC. Retrieved September 14, 2018, from [https://www.ceicdata.com](https://www.ceicdata.com/en/china/gross-domestic-product-prefecture-level-city/cn-gdp-shandong-jinan){:target="_blank"}
+[^12]: Baoji: Shaanxi China. (2017, May 4). Shaanxi Provincial People’s Government. Retrieved July 12, 2018, from [http://en.shaanxi.gov.cn](http://en.shaanxi.gov.cn/about/cities/77753.htm){:target="_blank"}
 
-[^13]: Shandong Jinan, the city of springs. (n.d.) Friendly Shandong. Retrieved September 14, 2018, from [http://www.travelshandong.com](http://www.travelshandong.com/cities/jinan/){:target="_blank"}
+[^13]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
 
-[^14]: Economic overview and opportunities of Shandong province. ((2016, December). Netherlands Enterprise Agency. Retrieved September 6, 2017, from [http://www.rug.nl](http://www.rug.nl/about-us/internationalization/economic_overview_shandong_2016.pdf){:target="_blank"}
+[^14]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
 
-[^15]: China: Shandong. (2018, January 16). City Population. Retrieved September 14, 2018, from [http://www.citypopulation.de](http://www.citypopulation.de/China-Shandong.html){:target="_blank"}
+[^15]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
 
-[^16]: China CN: GDP: Shandong: Qingdao. (2018, February 9). CEIC. Retrieved September 14, 2018, from [https://www.ceicdata.com](https://www.ceicdata.com/en/china/gross-domestic-product-prefecture-level-city/cn-gdp-shandong-qingdao){:target="_blank"}
+[^16]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
 
-[^17]: Qingdao (Shandong) city information. (2017, January 20). Hong Kong Trade Development Council. Retrieved September 14, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Qingdao-Shandong-City-Information/ff/en/1/1X39VTST/1X0A18UI.htm){:target="_blank"}
+[^17]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
 
-[^18]: Focus on Qingdao, China. (2016, May 16). The Canadian Trade Commissioner Service. Retrieved September 14, 2018, from [http://tradecommissioner.gc.ca](http://tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/96286.aspx?lang=eng){:target="_blank"}
+[^18]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}; Tourism: Shaanxi China. (2018). Shaanxi Provincial People’s Government. Retrieved July 12, 2018, from [http://en.shaanxi.gov.cn](http://en.shaanxi.gov.cn/info/iIndex.jsp?cat_id=17483){:target="_blank"}
 
-[^19]: Economic overview and opportunities of Shandong province. (2016, December). Netherlands Enterprise Agency. Retrieved September 14, 2018, from [http://www.rug.nl](http://www.rug.nl/about-us/internationalization/economic_overview_shandong_2016.pdf){:target="_blank"}
-
-[^20]: China: Shandong. (2018, January 16). City Population. Retrieved September 14, 2018, from [http://www.citypopulation.de](http://www.citypopulation.de/China-Shandong.html){:target="_blank"}
-
-[^21]: China CN: GDP: Shandong: Weifang. (2018, February 9). CEIC. Retrieved September 14, 2018, from [https://www.ceicdata.com](https://www.ceicdata.com/en/china/gross-domestic-product-prefecture-level-city/cn-gdp-shandong-weifang){:target="_blank"}
-
-[^22]: Weifang (Shandong) city information. (2017, January 19). Hong Kong Trade Development Council. Retrieved September 14, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Weifang-Shandong-City-Information/ff/en/1/1X39VTST/1X0A18NP.htm){:target="_blank"}
-
-[^23]: Invitation: The 19th China (Shouguang) International Vegetable SciTech Fair. (2018, January 8). DVF Shouguang. Retrieved September 14, 2018, from [http://english.sgcbh.com](http://english.sgcbh.com/zhjs/show.php?itemid=1){:target="_blank"}
-
-[^24]: Economic overview and opportunities of Shandong province. (2016, December). Netherlands Enterprise Agency. Retrieved September 14, 2018, from [http://www.rug.nl](http://www.rug.nl/about-us/internationalization/economic_overview_shandong_2016.pdf){:target="_blank"}
-
-[^25]: China CN: GDP: Shandong: Yantai. (2018, February 9). CEIC. Retrieved September 14, 2018, from [https://www.ceicdata.com](https://www.ceicdata.com/en/china/gross-domestic-product-prefecture-level-city/cn-gdp-shandong-yantai){:target="_blank"}
-
-[^26]: Economic overview and opportunities of Shandong province. (2016, December). Netherlands Enterprise Agency. Retrieved September 14, 2018, from [http://www.rug.nl](http://www.rug.nl/about-us/internationalization/economic_overview_shandong_2016.pdf){:target="_blank"}
-
-[^27]: New city slogan for Yantai unveiled. (2018, July 7). Wonderland Yantai. Retrieved September 14, 2018, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/shandong/yantai/2018-07/20/content_36616178.htm){:target="_blank"}
-
-[^28]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 14, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
-
-[^29]: Economic overview and opportunities of Shandong province. (2016, December). Netherlands Enterprise Agency. Retrieved September 14, 2018, from [http://www.rug.nl](http://www.rug.nl/about-us/internationalization/economic_overview_shandong_2016.pdf){:target="_blank"}
-
-[^30]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
-
-[^31]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
-
-[^32]: 17-15: Number of oversea visitor arrivals by region. (2016). China Statistical Yearbook 2017. Retrieved September 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
-
-[^33]: 17-14: Number of oversea visitor arrivals by region. (2016). China Statistical Yearbook 2017. Retrieved September 13, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
-
-[^34]: Shandong: Market profile. (2018, April 4). Hong Kong Trade Development Council. Retrieved September 13, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shandong-Market-Profile/ff/en/1/1X000000/1X06BVNS.htm){:target="_blank"}
-
-[^35]: World Heritage list. (2017). UNESCO. Retrieved September 5, 2017, from [http://whc.unesco.org](http://whc.unesco.org/en/list/){:target="_blank"}
-
-[^36]: China starts restoring Great Wall’s oldest section. (2015, June 24). Xinhuanet. Retrieved September 5, 2017, from [http://news.xinhuanet.com](http://news.xinhuanet.com/english/2015-06/24/c_134352608.htm){:target="_blank"}
-
-[^37]: Singapore-Shandong Business Council. (2015, September 1). Enterprise Singapore. Retrieved September 13, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
-
-[^38]: Singapore looks to boost bilateral investments, trade with Shandong. (2018, April 18). Business Times. Retrieved September 13, 2018, from [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg/government-economy/singapore-looks-to-boost-bilateral-investments-trade-with-shandong){:target="_blank"}
-
-[^39]: Shandong, S’pore forge closer ties will 11 deals. (2016, September 7). The Straits Times. Retrieved September 13, 2018, from [http://www.straitstimes.com](http://www.straitstimes.com/business/shandong-spore-forge-closer-ties-with-11-deals){:target="_blank"}
-
-[^40]: Enhancing Singapore-Shandong collaboration to increase investments, trade and people-to-people exchanges. (2018, April 18). Enterprise Singapore. Retrieved September 13, 2018, from [https://www.gov.sg](https://www.gov.sg/~/sgpcmedia/media_releases/enterprise-sg/press_release/P-20180418-1/attachment/MR00418_Enterprise%20Singapore%20Statement_Enhancing%20Singapore-Shandong%20Collaboration_2018%2004%2018.pdf){:target="_blank"}
+[^19]: Yuan, A. (2017, April 7). Xi’an – Dynamic ancient city in Shaanxi China. Enterprise Singapore. Retrieved July 12, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/-/media/ie-singapore/files/download/slides/iadvisory-xi-an-and-urumqi/understanding-the-business-landscape-and-opportunities-in-xian-china.ashx?la=en){:target="_blank"}
