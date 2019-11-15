@@ -74,36 +74,32 @@ Both regions have also joined hands for other large-scale collaborations in rece
 
 ---
 ### **References**
-[^1]: Sichuan Province. (2017). China Today. Retrieved September 13, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/sichuan.htm){:target="_blank"}
+[^1]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
 
-[^2]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 13, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^2]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 20, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
 
-[^3]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 13, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^3]: Tianjin, China. (2017). Encyclopaedia Britannica. Retrieved September 21, 2018, from [http://www.britannica.com](http://www.britannica.com/place/Tianjin-China){:target="_blank"}
 
-[^4]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 13, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^4]: Tianjin economy continues to grow. (2016, June 13). China Daily. Retrieved September 20, 2017, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2012/2016-06/13/content_25690996.htm){:target="_blank"}
 
-[^5]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 13, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^5]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
 
-[^6]: Sichuan. (2017). Encyclopedia Britannica. Retrieved September 13, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Sichuan){:target="_blank"}
+[^6]: Tianjin Binhai New Area. (2012, March 22). China Daily. Retrieved September 21, 2017, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2011/2012-03/22/content_15988671.htm){:target="_blank"}
 
-[^7]: Top China provinces/municipalities by GDP in 2016. (2017, February 21). China Internet Watch. Retrieved September 13, 2017, from [https://www.chinainternetwatch.com](https://www.chinainternetwatch.com/19810/top-cities-gdp-2016/){:target="_blank"}
+[^7]: Tianjin Binhai New Area. (2012, March 22). China Daily. Retrieved September 21, 2017, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2011/2012-03/22/content_15988671.htm){:target="_blank"}
 
-[^8]: Economic overview of Sichuan province. (2017). Ministry of Foreign Affairs Netherlands. Retrieved December 15, 2017, from [https://www.rvo.nl](https://www.rvo.nl/sites/default/files/2017/11/Economic-overview-Sichuan-province-China.pdf){:target="_blank"}
+[^8]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
 
-[^9]: Major Industries in Chengdu. (2015, October 29). Intern China. Retrieved September 13, 2017, from [https://internchina.com](https://internchina.com/major-industries-in-chengdu/){:target="_blank"}
+[^9]: Tianjin Profile: China’s historic industrial hub. (2015, August 2015). BBC News. Retrieved September 21, 2017, from [http://www.bbc.com](http://www.bbc.com/news/business-33900741){:target="_blank"}
 
-[^10]: Chengdu retakes top spot as China’s best-performing big city. (2017, September 11). Bloomberg News. Retrieved September 13, 2017, from [https://www.bloomberg.com](https://www.bloomberg.com/news/articles/2017-09-11/chengdu-reclaims-top-spot-as-china-s-best-performing-major-city){:target="_blank"}
+[^10]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
 
-[^11]: Sichuan: Market Profile. (2017, February 9). Hong Kong Trade Development Council. Retrieved September 13, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Sichuan-Market-Profile/ff/en/1/1X000000/1X06BVRO.htm){:target="_blank"}
+[^11]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
 
-[^12]: Sichuan: Market Profile. (2017, February 9). Hong Kong Trade Development Council. Retrieved September 13, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Sichuan-Market-Profile/ff/en/1/1X000000/1X06BVRO.htm){:target="_blank"}
+[^12]: Brief introduction (Tianjin travel guide). (2012, October). China Daily. Retrieved September 21, 2017, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2012/2012-10/15/content_16056898.htm){:target="_blank"}
 
-[^13]: Sichuan: Market Profile. (2017, February 9). Hong Kong Trade Development Council. Retrieved September 13, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Sichuan-Market-Profile/ff/en/1/1X000000/1X06BVRO.htm){:target="_blank"}
+[^13]: Business councils between Singapore and China. (2017). IE Singapore. Retrieved September 21, 2017, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
 
-[^14]: Geography. (2017). Global Sichuan. Retrieved December 15, 2017, from [http://global.tsichuan.com](http://global.tsichuan.com/home/know/about#Geography){:target="_blank"}
+[^14]: Tan, V. (2017, June 25). Tianjin Eco-City masterplan to be reviewed: DPM Tharman. Channel NewsAsia. Retrieved December 22, 2017, from  [https://www.channelnewsasia.com](https://www.channelnewsasia.com/news/singapore/tianjin-eco-city-masterplan-to-be-reviewed-dpm-tharman-8977318){:target="_blank"}
 
-[^15]: Sichuan Province. (2017). China today. Retrieved September 13, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/sichuan.htm){:target="_blank"}
-
-[^16]: Sichuan cuisine. (2017, February). China Highlights. Retrieved September 13, 2017, from [https://www.chinahighlights.com](https://www.chinahighlights.com/travelguide/chinese-food/chuan-cuisine.htm){:target="_blank"}
-
-[^17]: Business Councils between Singapore and China. (2016). IE Singapore. Retrieved September 13, 2017, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
+[^15]: Tianjin Eco-City a role model: Tharman. (2017, June 26). Sino-Singapore Tianjin Eco-City. Retrieved December 22, 2017, from [https://www.tianjinecocity.gov.sg](https://www.tianjinecocity.gov.sg/news-articles/2017/20170626.htm){:target="_blank"}; Eco-City takes shape. (2017, January). Sino-Singapore Tianjin Eco-City. Retrieved December 22, 2017, from [https://www.tianjinecocity.gov.sg](https://www.tianjinecocity.gov.sg/news-articles/2017/201701.htm){:target="_blank"}
