@@ -149,7 +149,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/Micro-2000-Tech-370x150.jpg" alt="Micro 2000 Technology Pte Ltd - Tapping on readily available..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Micro 2000 Technology Pte Ltd - Tapping on readily available...</b></h5>
+					<h5><b>Micro 2000 Technology Pte Ltd - Tapping on readily...</b></h5>
 				</div>
 			</div>
 			</a>
