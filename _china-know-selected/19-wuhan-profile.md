@@ -12,94 +12,95 @@ This article provides an overview of Wuhan for those keen on exploring the possi
 
 ### **Key Facts**
 
-- **Land area:** 11,917sq km[^1]
-- **Population:** 15,469,500
-- **Gross domestic product (GDP) (2015):** 1,653.8 billion RMB
-- **GDP per capita (2015):** 107,960 RMB[^2]
+- **Province:** Hubei[^1]
+- **Land area:** 8,494 sq km[^2]
+- **Population (2017):** 10.89 million[^3]
+- **Mayor:** Zhou Xianwang[^4]
+- **GDP (2017):** RMB 1.341 billion[^5]
+- **GDP Per Capita:** RMB 123,831[^6]
 
 
 
 ### **Introduction**
 
-Tianjin is a metropolis in the northeastern coast of mainland China. It is one of the four autonomous municipalities in the country, along with Beijing, Shanghai and Chongqing, that are under the direct administration of the central government. It is northern China’s most important manufacturing centre and leading port.[^3]
+The city of Wuhan dates back 3,500 years.[^7] Today, it serves as the capital city of Hubei province in central China. Situated at the confluence of the Yangtze and Han Rivers,[^8] the city lies within 1,200 km of other major Chinese cities such as Beijing, Shanghai, Guangzhou, Chengdu and Xi’an.[^9]
 
 
 
 ### **Economy**
 
-Tianjin reached its 12th Five-Year Plan (2011–15) goals, with an overall GDP of RMB 1.65 trillion. Its GDP increased 12.4 percent annually during this period by supporting scientific innovation and improving the competitiveness of its industries. It also achieved growth by transforming its economic structure and developing its service industry to account for 52 percent of its economy, overtaking manufacturing. The private sector in Tianjin accounted for 46.7 percent of Tianjin’s GDP, as it opened up more to the outside world, attracting 1.55 billion RMB in domestic investment and US$85 trillion in foreign investment. In 2015, there were 162 of the Global Top 500 companies and 216 of China’s Top 500 investing there.⁴
+Described as a “high-growth city” by Lim Ming Yan, president and group CEO of CapitaLand in Singapore, Wuhan enjoys a reputation being the “major transport and commercial hub in central China with strong economic fundamentals and is set to benefit even more from China’s Belt and Road Initiative.[^10] In addition, its mayor, Mr Zhou Xianwang, said that the city “will promote high quality development and accelerate its internationalisation.” Wuhan is prioritising the development of “world class industrial clusters in optoelectronic information, automobiles and parts, biomedicine and medical equipment and environmental protection.” Alongside its plans to develop itself as a global logistics hub, it has plans to strengthen the supply chain cooperation and create a business-friendly environment.[^11]
+
+Wuhan is home to the country’s largest inland port. Moreover, it is where maritime, river, rail and road transport routes converge, thus enabling it to serve as a strategic distribution point for produce from the middle of the Yangtze valley and for west and southwest China.[^12] It is also one of the cities (apart from Shanghai, Shenzhen and Suzhou) that is emerging as a conducive place for tech companies to grow. In fact, Wuhan is known for its talent in innovation.[^13]
+
+The services sector accounts for 51 percent of the city’s GDP, followed by industrial production (45.7 percent) and agriculture (3.3 percent).[^14] The city’s major industries include automotive, steel and iron manufacturing, high-tech industries such as optoelectronic technology, pharmaceutical, biology engineering, new material industry and environmental protection. There are also a number of joint ventures with foreign companies, including Honda, Nissan and PSA Peugeot-Citroen.[^15]
 
 
 
-### **Binhai New Area**
+### **Education**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\tianjin-chart-1.jpg" style="width:500px;" />Datasource: Hong Kong Trade Development Council, 2016</div>
-With the aim of strengthening Tianjin’s position as the economic centre of the Bohai Bay region, priority has been given to the development of the Binhai New Area. Preferential policies have been enacted by the State Council to support the development of Binhai. In 2015, GDP of the Binhai New Area grew by 12.8 percent to reach RMB 927 billion.⁵ Binhai occupies a core position in the Bohai Economic Rim, facing Japan and the Korean Peninsula across the sea.⁶
-
-Binhai has abundant natural resources. It boasts 1,200 sq km of saline and alkaline wasteland that is expansive enough for eco-improvement and construction, and has 100 sq km of usable water surface and wetland. Binhai is also rich in petroleum and natural gas. It has more than 10 billion tonnes of verified oil resources, 193.7 billion cu m of natural gas deposits, and an annual output of 2.4 million tonnes of crude salt.⁷ 
-
-
-
-### **Industries**
-
-Described as the “cradle of China’s modern mechanic industry and textile industry”, Tianjin is an important industrial centre. Its industrial development owes much to the rapid growth of high- and new-tech industries such as electronics and information technology. In 2015, the added value of high-tech industry accounted for about 13.8 percent of Tianjin’s total added value of industrial output, up by 1.5 percent. Foreign-invested enterprises have contributed greatly to Tianjin’s industrial growth, particularly in high- and new-tech industries.⁸ Tianjin is also a major industrial base for manufacturing, car-making and petrochemicals. As a high-tech centre, Tianjin has a ready supply of hundreds of thousands of graduates available from the city’s numerous universities.⁹ 
-
-
-
-### **Foreign trade & foreign investment**
-
-Tianjin’s major exports include mechanical and electronic products. In 2015, high- and new-tech products accounted for 38.5 percent of the city’s total exports. The major export markets were the United States, South Korea, Japan, Vietnam and Hong Kong. Exports to Hong Kong amounted to US$2,880 million, or 5.6 percent, of Tianjin’s total exports. Major imports were machinery and transport equipment, and non-edible raw materials. In 2015, 52.1 percent of the utilised foreign direct investment went to the manufacturing sector. Hong Kong is the leading investor in Tianjin. In 2015 alone, utilised investment from Hong Kong stood at US$9.35 billion. Other major sources of foreign investment included Japan, Korea, the United States and Singapore.¹⁰ 
-
-
-
-### **Consumer market**
-
-In 2015, Tianjin’s annual per capita disposal income of urban households reached RMB 34,101.
-
-Some international supermarket companies have established chain stores in Tianjin, including *Metro*, *Walmart* and *Carrefour*. Domestic trade enterprises such as Shanghai’s *Lianhua*, Jiangsu’s *Suning* and Beijing’s Gome have also set up supermarkets there.¹¹
+There are 89 universities in Wuhan, of which Wuhan University and Huazhong University of Science and Technology are ranked 8th and 10th respectively among China’s universities.[^16] Total enrolment in these universities is more than 1.3 million. Each year, over 100,000 graduates remain in the city as entrepreneurs. In addition, 30 universities offer creative design majors.[^17] Singapore’s universities, such as Nanyang Technological University, National University of Singapore and Singapore Management University, offer study programmes with Wuhan University, which is reputed to enjoy one of China’s most beautiful campuses.[^18]
 
 
 
 ### **Tourism**
 
-The municipality’s colonial history left behind thousands of villas that lend an exotic flavour to the metropolis. Attractions include the Gu Wenhua Jie, Dagu Emplacement, Huangyaguan Great Wall, Dule Temple, Haihe River, Water Park, Panshan Mountain, Hotel Street and Food Street, Tianjin TV and Radio Tower and Zhonghuan Cailian.¹² 
+Wuhan is the gateway to the Three Gorges hydroelectric power dam on the Yangtze River.[^19] The Yellow Crane Tower and Hubei Provincial Museum are two places where visitors can appreciate ancient Chinese history and culture. Other places of interest include the villa of the late Chairman Mao Zedong on the scenic East Lake in Wuchang, the Yangtze River and the Yangtze River Bridge, to name a few.[^20]
 
 
 
-### **Singapore & Tianjin**
+### **Singapore and Wuhan**
 
-The Singapore-Tianjin Economic and Trade Council (STETC) was established on 25 January 2007 with the objective of promoting broader exchanges and cooperation between the business communities of Tianjin and Singapore. Since the STETC’s inception, economic ties between the two sides have continued to strengthen. In 2014, bilateral trade between Singapore and Tianjin grew 16 percent to reach US$3.47 billion.
+On 19 July 2018, a Singapore government and business delegation led by Mr Sam Tan (Minister of State for the Ministry of Foreign Affairs and Social and Family Development) visited Wuhan to discuss further cooperation. During the visit, a number of joint projects between companies from both Wuhan and Singapore were proposed.[^21]
 
-Both regions have also joined hands for other large-scale collaborations in recent years, most notably the Sino-Singapore Tianjin Eco-City.¹³ Its vision is to be “a thriving city which is socially harmonious, environmentally-friendly and resource-efficient – a model for sustainable development.”¹⁴ The eco-city will will be celebrating its tenth anniversary in 2018 and among its accomplishments include the opening of a water reclamation centre to treat 100,000 cubic metres of wastewater and produce 21,000 cubic metres of recycled daily attracting 4,500 registered companies with over RMB 200 billion in registered capital; and the opening of 14 schools for over 7,000 students.¹⁵
+Some Singapore companies have business interests in Wuhan. For instance, in 2015, Singapore-listed developer Perennial Real Estate Holdings entered Wuhan’s healthcare industry with a joint venture proposal in hospital services. Since 2017, it has expanded its presence in China to include other healthcare-related businesses, such as the building of another 1,077-bed nursing hospital and retirement home, in partnership with the Wuhan municipal government.[^22]
+
+On 17 January 2018, CapitaLand, through its wholly-owned subsidiary CapitaLand China, signed a strategic cooperation Memorandum of Understanding with Wuchang, a district of Wuhan, to develop a proposed integrated development of a prime site there. The proposed integrated development is expected to surpass all of CapitaLand’s existing properties in central China.[^23]
 
 ---
 ### **References**
-[^1]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
+[^1]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
 
-[^2]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 20, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^2]: China CN: Land area of administrative zone: Hubei: Wuhan. (n.d.). CEIC Data. Retrieved May 7, 2019, from [https://www.ceicdata.com](https://www.ceicdata.com/en/china/land-area-of-administrative-zone-prefecture-level-city?page=13){:target="_blank"}
 
-[^3]: Tianjin, China. (2017). Encyclopaedia Britannica. Retrieved September 21, 2018, from [http://www.britannica.com](http://www.britannica.com/place/Tianjin-China){:target="_blank"}
+[^3]: Wuhan (Hubei) city information. (2019, March 8). HKTDC Research. Retrieved May 7, 2019, from [https://hkmb.hktdc.com](https://hkmb.hktdc.com/en/1X0A121T/hktdc-research/Wuhan-Hubei-City-Information){:target="_blank"}
 
-[^4]: Tianjin economy continues to grow. (2016, June 13). China Daily. Retrieved September 20, 2017, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2012/2016-06/13/content_25690996.htm){:target="_blank"}
+[^4]: Yang, Y. (2019, March 24). Wuhan speeds up internationalization. China Daily. Retrieved May 7, 2019, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/a/201903/24/WS5c974130a3104842260b2341.html){:target="_blank"}
 
-[^5]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
+[^5]: Wuhan (Hubei) city information. (2019, March 8). HKTDC Research. Retrieved May 6, 2019, from [https://hkmb.hktdc.com](https://hkmb.hktdc.com/en/1X0A121T/hktdc-research/Wuhan-Hubei-City-Information){:target="_blank"}
 
-[^6]: Tianjin Binhai New Area. (2012, March 22). China Daily. Retrieved September 21, 2017, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2011/2012-03/22/content_15988671.htm){:target="_blank"}
+[^6]: Wuhan (Hubei) city information. (2019, March 8). HKTDC Research. Retrieved May 6, 2019, from [https://hkmb.hktdc.com](https://hkmb.hktdc.com/en/1X0A121T/hktdc-research/Wuhan-Hubei-City-Information){:target="_blank"}
 
-[^7]: Tianjin Binhai New Area. (2012, March 22). China Daily. Retrieved September 21, 2017, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2011/2012-03/22/content_15988671.htm){:target="_blank"}
+[^7]: Wuhan facts. (2019, May 5). Travel China Guide. Retrieved May 8, 2019, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/wuhan.htm){:target="_blank"}
 
-[^8]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
+[^8]: Geography. (n.d.) Wuhan.China. Retrieved May 7, 2019, from [http://english.wh.gov.cn](http://english.wh.gov.cn/whgk_3581/zrdl_3582/201809/t20180913_227368.html){:target="_blank"}
 
-[^9]: Tianjin Profile: China’s historic industrial hub. (2015, August 2015). BBC News. Retrieved September 21, 2017, from [http://www.bbc.com](http://www.bbc.com/news/business-33900741){:target="_blank"}
+[^9]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
 
-[^10]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
+[^10]: Zhu, M. (2018, January 18). CapitaLand signs MoU to build integrated development in Wuhan, China. The Edge. Retrieved May 8, 2019, from [https://www.theedgesingapore.com](https://www.theedgesingapore.com/capitaland-signs-mou-build-integrated-development-wuhan-china){:target="_blank"}
 
-[^11]: Tianjin: Market profile. (2016, November, 28). Hong Kong Trade Development Council. Retrieved September 21, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Tianjin-Market-Profile/ff/en/1/1X000000/1X06BVTM.htm){:target="_blank"}
+[^11]: Yang, Y. (2019, March 24). Wuhan speeds up internationalization: Mayor. China Daily. Retrieved May 7, 2019, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/a/201903/24/WS5c974130a3104842260b2341.html){:target="_blank"}
 
-[^12]: Brief introduction (Tianjin travel guide). (2012, October). China Daily. Retrieved September 21, 2017, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2012/2012-10/15/content_16056898.htm){:target="_blank"}
+[^12]: Wuhan, China. (2019). Encyclopaedia Britannica. Retrieved May 8, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Wuhan){:target="_blank"}
 
-[^13]: Business councils between Singapore and China. (2017). IE Singapore. Retrieved September 21, 2017, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
+[^13]: IE Singapore forms networks in China to help Singapore companies access its innovation ecosystem and tap market opportunities. (2017, October 2). Enterprise Singapore. Retrieved May 7, 2019, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/Media-Releases/2017/10/IE-Singapore-forms-networks-in-China-to-help-Singapore-companies-access-its-innovation-ecosystem-and-tap-market-opportunities#){:target="_blank"}
 
-[^14]: Tan, V. (2017, June 25). Tianjin Eco-City masterplan to be reviewed: DPM Tharman. Channel NewsAsia. Retrieved December 22, 2017, from  [https://www.channelnewsasia.com](https://www.channelnewsasia.com/news/singapore/tianjin-eco-city-masterplan-to-be-reviewed-dpm-tharman-8977318){:target="_blank"}
+[^14]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
 
-[^15]: Tianjin Eco-City a role model: Tharman. (2017, June 26). Sino-Singapore Tianjin Eco-City. Retrieved December 22, 2017, from [https://www.tianjinecocity.gov.sg](https://www.tianjinecocity.gov.sg/news-articles/2017/20170626.htm){:target="_blank"}; Eco-City takes shape. (2017, January). Sino-Singapore Tianjin Eco-City. Retrieved December 22, 2017, from [https://www.tianjinecocity.gov.sg](https://www.tianjinecocity.gov.sg/news-articles/2017/201701.htm){:target="_blank"}
+[^15]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
+
+[^16]: Best universities in China 2019. (2018, October 1). The World University Rankings. Retrieved May 9, 2019 from [https://www.timeshighereducation.com](https://www.timeshighereducation.com/student/best-universities/best-universities-china){:target="_blank"}; Wuhan: UNESCO city of design. (n.d.). Cities of Design Network. Retrieved May 7, 2019, from [https://www.designcities.net](https://www.designcities.net/city/wuhan/){:target="_blank"}
+
+[^17]: Wuhan: UNESCO city of design. (n.d.). Cities of Design Network. Retrieved May 7, 2019, from [https://www.designcities.net](https://www.designcities.net/city/wuhan/){:target="_blank"}
+
+[^18]: Summer studies: Wuhan University. (2018, December 27). Nanyang Technological University. Retrieved May 7, 2019, from [https://global.ntu.edu.sg](https://global.ntu.edu.sg/GMP/gemdiscoverer/Summer%20Studies/Pages/Wuhan-University.aspx){:target="_blank"}; Cooperation partners. (2014). Wuhan University. Retrieved May 9, 2019, from [https://en.whu.edu.cn](https://en.whu.edu.cn/International1/Cooperation_Partners.htm){:target="_blank"}; SMU ventures into Xi’an and cements ties with leading Chinese partner universities in Chengdu and Wuhan. (2018, June 28). Singapore Management University. Retrieved May 8, 2019, from [https://www.smu.edu.sg](https://www.smu.edu.sg/news/2018/06/28/smu-makes-first-foray-xian-cultivate-new-relationship-and-cements-ties-chengdu-and){:target="_blank"}
+
+[^19]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
+
+[^20]: Wuhan facts. (2019, May 5). Travel China Guide. Retrieved May 8, 2019, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/wuhan.htm){:target="_blank"}
+
+[^21]: Singapore delegation visits Wuhan. (2018, July 20). Hubei. China. Retrieved May 9, 2019, from [http://en.hubei.gov.cn](http://en.hubei.gov.cn/news/newslist/201807/t20180720_1320493.shtml){:target="_blank"}
+
+[^22]: Chong, K.P. (2017, February 26). Singapore firm takes on eldercare project in Hubei. The Straits Times. Retrieved May 7, 2019, from Newspaper.SG database.
+
+[^23]: Zhu, M. (2018, January 18). CapitaLand signs MoU to build integrated development in Wuhan, China. The Edge. Retrieved May 8, 2019, from [https://www.theedgesingapore.com](https://www.theedgesingapore.com/capitaland-signs-mou-build-integrated-development-wuhan-china){:target="_blank"}
