@@ -18,7 +18,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/Victor-Chan-and-Farid-MN_FM89.3-Live-Radio-Talk-9-April-2018-cover-370x150.jpg" alt="Indonesia: Radio talk by industry experts, Victor Chan..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Indonesia: Radio talk by industry experts, Victor Chan...</b></h5>
+					<h5><b>Indonesia: Radio talk by industry experts, Victor...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -55,17 +55,17 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/28981537-19_08_2013-rbsuper-e1512644363311-370x150.jpg" alt="Super Group - No Super foothold overseas without grit" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Super Group - No Super foothold overseas without grit</b></h5>
+					<h5><b>Super Group - No Super foothold overseas...</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean-countries/share/what-employers-say/select-group/" class="project-link">
-				<img src="/images/asean-employers/Select-Group-370x150.jpg" alt="Select Group bounces back from "painful" failure and now..." class="project-image">
+				<img src="/images/asean-employers/Select-Group-370x150.jpg" alt="Select Group bounces back from "painful" failure..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Select Group bounces back from "painful" failure and now...</b></h5>
+					<h5><b>Select Group bounces back from "painful" failure...</b></h5>
 				</div>
 			</div>
 			</a>
