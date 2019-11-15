@@ -175,7 +175,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-philippines/" class="project-link">
-				<img src="/images/asean-working/ASEAN-Phillipines-Business-Culture-Cover-370x150" alt="Business culture in Myanmar" class="project-image">
+				<img src="/images/asean-working/ASEAN-Phillipines-Business-Culture-Cover-370x150.jpg" alt="Business culture in Philippines" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Business culture in Philippines</b></h5>
@@ -185,7 +185,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/working-in-philippines/" class="project-link">
-				<img src="/images/asean-working/ASEAN-Philippines-Working" alt="Working in Myanmar" class="project-image">
+				<img src="/images/asean-working/ASEAN-Philippines-Working.jpg" alt="Working in Philippines" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Working in Philippines</b></h5>
