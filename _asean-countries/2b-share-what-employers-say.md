@@ -92,7 +92,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/28908742-12_08_2013-mtsats13-e1512645972785-370x150.jpg" alt="SATS - Taking a bit of Changi to the world's airports" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>SATS - Taking a bit of Changi to the world's airports</b></h5>
+					<h5><b>SATS - Taking a bit of Changi to the world's...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -102,7 +102,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/ymarmstrong27984520-16_05_2013-e1512645531689-370x150.jpg" alt="Armstrong Industrial - Collaborate not compete with..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Armstrong Industrial - Collaborate not compete with...</b></h5>
+					<h5><b>Armstrong Industrial - Collaborate not compete...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -129,7 +129,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/Wilmar_Mill01-370x150.jpg" alt="Wilmar International - Integration key to Wilmar's..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Wilmar International - Integration key to Wilmar's...</b></h5>
+					<h5><b>Wilmar International - Integration key to...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -149,7 +149,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/SAM-pic-370x150.jpg" alt="Singapore Aerospace Manufacturing - SAM banks..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Singapore Aerospace Manufacturing - SAM banks...</b></h5>
+					<h5><b>Singapore Aerospace Manufacturing - SAM...</b></h5>
 				</div>
 			</div>
 			</a>
