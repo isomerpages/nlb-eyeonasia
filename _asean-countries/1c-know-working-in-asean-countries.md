@@ -66,7 +66,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/business-culture-in-indonesia/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-indonesia/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Indonesia-Business-Culture-Cover-370x150.jpg" alt="Business culture in Indonesia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -76,7 +76,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/working-in-indonesia/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/working-in-indonesia/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Indonesia-Getting-Job-Cover-370x150.jpg" alt="Working in Indonesia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -93,7 +93,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/business-culture-in-laos/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-laos/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Laos-Business-Culture-Cover-370x150.jpg" alt="Business culture in Laos" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -103,7 +103,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/working-in-laos/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/working-in-laos/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Laos-Getting-Job-Cover-370x150.jpg" alt="Working in Laos" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -120,7 +120,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/business-culture-in-malaysia/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-malaysia/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Malaysia-Business-Culture-Cover-370x150.jpg" alt="Business culture in Malaysia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -130,7 +130,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/working-in-malaysia/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/working-in-malaysia/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Malaysia-Getting-Job-Cover-370x150.jpg" alt="Working in Malaysia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -147,7 +147,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/business-culture-in-myanmar/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-myanmar/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Myanmar-Business-Culture-Cover-370x150.jpg" alt="Business culture in Myanmar" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -157,7 +157,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/working-in-myanmar/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/working-in-myanmar/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Myanmar-Getting-Job-Cover-370x150.jpg" alt="Working in Myanmar" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -174,7 +174,34 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/business-culture-in-thailand/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-philippines/" class="project-link">
+				<img src="/images/asean-working/ASEAN-Phillipines-Business-Culture-Cover-370x150" alt="Business culture in Myanmar" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Business culture in Philippines</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/working-in-asean-countries/working-in-philippines/" class="project-link">
+				<img src="/images/asean-working/ASEAN-Philippines-Working" alt="Working in Myanmar" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Working in Philippines</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-thailand/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Thailand-Business-Culture-Cover-370x150.jpg" alt="Business culture in Thailand" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -184,7 +211,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/working-in-thailand/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/working-in-thailand/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Thailand-Getting-Job-Cover-370x150.jpg" alt="Working in Thailand" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -201,7 +228,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/business-culture-in-vietnam/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-vietnam/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Vietnam-Business-Culture-Cover-370x150.jpg" alt="Business culture in Vietnam" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -211,7 +238,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean/working/working-in-vietnam/" class="project-link">
+			<a href="/asean-countries/know/working-in-asean-countries/working-in-vietnam/" class="project-link">
 				<img src="/images/asean-working/ASEAN-Vietnam-Getting-Job-Cover-370x150.jpg" alt="Working in Vietnam" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
