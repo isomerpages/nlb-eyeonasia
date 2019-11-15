@@ -222,7 +222,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/overview/economic-cooperation/" class="project-link">
+			<a href="/asean-countries/know/overview-of-asean-countries/economic-cooperation/" class="project-link">
 				<img src="/images/asean-countries/International-and-regional-economic-cooperation-in-ASEAN-countries-370x150.jpg" alt="International and regional economic cooperation in ASEAN countries" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -239,7 +239,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/political-structures/" class="project-link">
+			<a href="/asean-countries/know/overview-of-asean-countries/asean-countries-political-structures/" class="project-link">
 				<img src="/images/asean-countries/ASEAN-countries-Political-structures-2-370x150.jpg" alt="ASEAN countries: Political structures" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -249,7 +249,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/biographies-of-selected-key-political-leaders/" class="project-link">
+			<a href="/asean-countries/know/overview-of-asean-countries/asean-countries-biographies-of-selected-key-political-leaders/" class="project-link">
 				<img src="/images/asean-countries/ASEAN-countries-Biographies-370x150.jpg" alt="ASEAN countries: Biographies of selected key political leaders" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
