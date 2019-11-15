@@ -92,7 +92,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/28908742-12_08_2013-mtsats13-e1512645972785-370x150.jpg" alt="SATS - Taking a bit of Changi to the world's airports" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>SATS - Taking a bit of Changi to the world's airports</b></h5>
+					<h5><b>SATS - Taking a bit of Changi to the world's...</b></h5>
 				</div>
 			</div>
 			</a>
