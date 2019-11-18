@@ -102,48 +102,72 @@ The Singapore-Zhejiang Economic and Trade Council was established on 18 November
 
 ---
 ### **References**
-[^1]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
+[^1]: Zhejiang: Market profile. (2016, November 23). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
 
-[^2]: China CN: Land area of administrative zone: Hubei: Wuhan. (n.d.). CEIC Data. Retrieved May 7, 2019, from [https://www.ceicdata.com](https://www.ceicdata.com/en/china/land-area-of-administrative-zone-prefecture-level-city?page=13){:target="_blank"}
+[^2]: 2-6 Population at year-end by region. (2016). China Statistical Yearbook. Retrieved October 4, 2017, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
 
-[^3]: Wuhan (Hubei) city information. (2019, March 8). HKTDC Research. Retrieved May 7, 2019, from [https://hkmb.hktdc.com](https://hkmb.hktdc.com/en/1X0A121T/hktdc-research/Wuhan-Hubei-City-Information){:target="_blank"}
+[^3]: 3-9 Gross regional product and indices. (2016). China Statistical Yearbook. Retrieved October 4, 2017, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
 
-[^4]: Yang, Y. (2019, March 24). Wuhan speeds up internationalization. China Daily. Retrieved May 7, 2019, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/a/201903/24/WS5c974130a3104842260b2341.html){:target="_blank"}
+[^4]: 3-10 Per capita gross regional product and indices. China Statistical Yearbook. Retrieved October 4, 2017, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
 
-[^5]: Wuhan (Hubei) city information. (2019, March 8). HKTDC Research. Retrieved May 6, 2019, from [https://hkmb.hktdc.com](https://hkmb.hktdc.com/en/1X0A121T/hktdc-research/Wuhan-Hubei-City-Information){:target="_blank"}
+[^5]: Zhejiang: Market profile. (2016, November 23). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
 
-[^6]: Wuhan (Hubei) city information. (2019, March 8). HKTDC Research. Retrieved May 6, 2019, from [https://hkmb.hktdc.com](https://hkmb.hktdc.com/en/1X0A121T/hktdc-research/Wuhan-Hubei-City-Information){:target="_blank"}
+[^6]: Falkenheim, V.C., & Fu, F.H. (2017). Zhejiang. Encyclopaedia Britannica. Retrieved October 4, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Zhejiang){:target="_blank"}
 
-[^7]: Wuhan facts. (2019, May 5). Travel China Guide. Retrieved May 8, 2019, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/wuhan.htm){:target="_blank"}
+[^7]: Handley, H. (2017, January 31). China regional focus: Investing in Zhejiang province. China Briefing. Retrieved October 4, 2017, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/01/31/china-regional-focus-zhejiang-fdi.html){:target="_blank"}
 
-[^8]: Geography. (n.d.) Wuhan.China. Retrieved May 7, 2019, from [http://english.wh.gov.cn](http://english.wh.gov.cn/whgk_3581/zrdl_3582/201809/t20180913_227368.html){:target="_blank"}
+[^8]: Handley, H. (2017, January 31). China regional focus: Investing in Zhejiang province. China Briefing. Retrieved October 4, 2017, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/01/31/china-regional-focus-zhejiang-fdi.html){:target="_blank"}
 
-[^9]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
+[^9]: China regional focus: Investing in Zhejiang province. (2017, January 31). China Briefing. Retrieved October 4, 2017, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/01/31/china-regional-focus-zhejiang-fdi.html){:target="_blank"}
 
-[^10]: Zhu, M. (2018, January 18). CapitaLand signs MoU to build integrated development in Wuhan, China. The Edge. Retrieved May 8, 2019, from [https://www.theedgesingapore.com](https://www.theedgesingapore.com/capitaland-signs-mou-build-integrated-development-wuhan-china){:target="_blank"}
+[^10]: Handley, H. (2017, January 31). China regional focus: Investing in Zhejiang province. China Briefing. Retrieved October 4, 2017, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/01/31/china-regional-focus-zhejiang-fdi.html){:target="_blank"}
 
-[^11]: Yang, Y. (2019, March 24). Wuhan speeds up internationalization: Mayor. China Daily. Retrieved May 7, 2019, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/a/201903/24/WS5c974130a3104842260b2341.html){:target="_blank"}
+[^11]: Urban legend: China’s tiered city system explained. (2016). South China Morning Post. Retrieved October 4, 2017, from [http://multimedia.scmp.com](http://multimedia.scmp.com/2016/cities/){:target="_blank"}
 
-[^12]: Wuhan, China. (2019). Encyclopaedia Britannica. Retrieved May 8, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Wuhan){:target="_blank"}
+[^12]: Hangzhou (Zhejiang) city information (2016, November 17). HKTDC Research. Retrieved September 28, 2017 from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Hangzhou-Zhejiang-City-Information/ff/en/1/1X000000/1X0A128M.htm){:target="_blank"}
 
-[^13]: IE Singapore forms networks in China to help Singapore companies access its innovation ecosystem and tap market opportunities. (2017, October 2). Enterprise Singapore. Retrieved May 7, 2019, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/Media-Releases/2017/10/IE-Singapore-forms-networks-in-China-to-help-Singapore-companies-access-its-innovation-ecosystem-and-tap-market-opportunities#){:target="_blank"}
+[^13]: Helping hand for Singapore startups in China. (2015, August 22). Today. Retrieved October 4, 2017, from [http://www.todayonline.com](http://www.todayonline.com/singapore/helping-hand-singapore-startups-china){:target="_blank"}
 
-[^14]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
+[^14]: Handley, H. (2017, January 31). China regional focus: Investing in Zhejiang province. China Briefing. Retrieved October 4, 2017, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/01/31/china-regional-focus-zhejiang-fdi.html){:target="_blank"}
 
-[^15]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
+[^15]: Hangzhou (Zhejiang) city information (2016, November 17). HKTDC Research. Retrieved September 28, 2017 from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Hangzhou-Zhejiang-City-Information/ff/en/1/1X000000/1X0A128M.htm){:target="_blank"}
 
-[^16]: Best universities in China 2019. (2018, October 1). The World University Rankings. Retrieved May 9, 2019 from [https://www.timeshighereducation.com](https://www.timeshighereducation.com/student/best-universities/best-universities-china){:target="_blank"}; Wuhan: UNESCO city of design. (n.d.). Cities of Design Network. Retrieved May 7, 2019, from [https://www.designcities.net](https://www.designcities.net/city/wuhan/){:target="_blank"}
+[^16]: Alibaba Group. (2017). Forbes. Retrieved September 28, 2017, from [https://www.forbes.com](https://www.forbes.com/companies/alibaba/){:target="_blank"}
 
-[^17]: Wuhan: UNESCO city of design. (n.d.). Cities of Design Network. Retrieved May 7, 2019, from [https://www.designcities.net](https://www.designcities.net/city/wuhan/){:target="_blank"}
+[^17]: Handley, H. (2017, January 31). China regional focus: Investing in Zhejiang province. China Briefing. Retrieved October 4, 2017, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/01/31/china-regional-focus-zhejiang-fdi.html){:target="_blank"}
 
-[^18]: Summer studies: Wuhan University. (2018, December 27). Nanyang Technological University. Retrieved May 7, 2019, from [https://global.ntu.edu.sg](https://global.ntu.edu.sg/GMP/gemdiscoverer/Summer%20Studies/Pages/Wuhan-University.aspx){:target="_blank"}; Cooperation partners. (2014). Wuhan University. Retrieved May 9, 2019, from [https://en.whu.edu.cn](https://en.whu.edu.cn/International1/Cooperation_Partners.htm){:target="_blank"}; SMU ventures into Xi’an and cements ties with leading Chinese partner universities in Chengdu and Wuhan. (2018, June 28). Singapore Management University. Retrieved May 8, 2019, from [https://www.smu.edu.sg](https://www.smu.edu.sg/news/2018/06/28/smu-makes-first-foray-xian-cultivate-new-relationship-and-cements-ties-chengdu-and){:target="_blank"}
+[^18]: Hangzhou (Zhejiang) city information (2016, November 17). HKTDC Research. Retrieved September 28, 2017 from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Hangzhou-Zhejiang-City-Information/ff/en/1/1X000000/1X0A128M.htm){:target="_blank"}
 
-[^19]: Economic Profile of China’s Hubei Province. (2018, August 1). The Canadian Trade Commissioner Service. Retrieved May 7, 2019, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
+[^19]: Handley, H. (2017, January 31). China regional focus: Investing in Zhejiang province. China Briefing. Retrieved October 4, 2017, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/01/31/china-regional-focus-zhejiang-fdi.html){:target="_blank"}
 
-[^20]: Wuhan facts. (2019, May 5). Travel China Guide. Retrieved May 8, 2019, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/wuhan.htm){:target="_blank"}
+[^20]: Ningbo (Zhejiang) city information. (2016, November 18). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Ningbo-Zhejiang-City-Information/ff/en/1/1X39VTST/1X0A127N.htm){:target="_blank"}
 
-[^21]: Singapore delegation visits Wuhan. (2018, July 20). Hubei. China. Retrieved May 9, 2019, from [http://en.hubei.gov.cn](http://en.hubei.gov.cn/news/newslist/201807/t20180720_1320493.shtml){:target="_blank"}
+[^21]: Ningbo (Zhejiang) city information. (2016, November 18). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Ningbo-Zhejiang-City-Information/ff/en/1/1X39VTST/1X0A127N.htm){:target="_blank"}
 
-[^22]: Chong, K.P. (2017, February 26). Singapore firm takes on eldercare project in Hubei. The Straits Times. Retrieved May 7, 2019, from Newspaper.SG database.
+[^22]: Zhejiang: Market profile. (2016, November 23). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
 
-[^23]: Zhu, M. (2018, January 18). CapitaLand signs MoU to build integrated development in Wuhan, China. The Edge. Retrieved May 8, 2019, from [https://www.theedgesingapore.com](https://www.theedgesingapore.com/capitaland-signs-mou-build-integrated-development-wuhan-china){:target="_blank"}
+[^23]: Zhejiang: Market profile. (2016, November 23). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
+
+[^24]: Zhejiang: Market profile. (2016, November 23). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
+
+[^25]: Zhejiang: Market profile. (2016, November 23). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
+
+[^26]: Zhejiang: Market profile. (2016, November 23). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
+
+[^27]: Kelly. (2016, September 2). Wuzhen water town. China Highlights. Retrieved October 4, 2017 from [https://www.chinahighlights.com](https://www.chinahighlights.com/hangzhou/attraction/ancient-village-wuzhen.htm){:target="_blank"}
+
+[^28]: Hangzhou (Zhejiang) city information (2016, November 17). HKTDC Research. Retrieved September 28, 2017 from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Hangzhou-Zhejiang-City-Information/ff/en/1/1X000000/1X0A128M.htm){:target="_blank"}
+
+[^29]: Zhejiang: Market profile. (2016, November 23). HKTDC Research. Retrieved October 4, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
+
+[^30]: Times Higher Education World University Rankings. (2018). Times Higher Education. Retrieved September 28, 2017, from [https://www.timeshighereducation.com](https://www.timeshighereducation.com/world-university-rankings/zhejiang-university){:target="_blank"}
+
+[^31]: SUTD ZJU. (2017). Singapore University of Technology and Design. Retrieved September 28, 2017, from [https://sutd.edu.sg](https://sutd.edu.sg/About-Us/Collaborations/ZJU){:target="_blank"}
+
+[^32]: International summer/winter programmes (I-SP) – Application through IRO. (2017). International Relations Office, National University of Singapore. Retrieved September 28, 2017, from [https://1pdf.net](https://1pdf.net/download/zhejiang-university-international-summer-school_585a9a66e12e89526e505715){:target="_blank"}
+
+[^33]: Exchange Programmes. (2017, April 19). Singapore Management University. Retrieved September 28, 2017, from [https://sis.smu.edu.sg](https://sis.smu.edu.sg/bsc-information-systems/learning/options/global-exposure/exchange){:target="_blank"}
+
+[^34]: Business Councils between Singapore and China. (2015, September 1). International Enterprise Singapore. Retrieved October 4, 2017, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
+
+[^35]: Senior Minister of State Sim Ann leads 30-member Singapore delegation to Zhejiang, reaffirms continuing Singapore-China relations. (2017, April 24). International Enterprise Singapore. Retrieved October 4, 2017, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/Media-Centre/Media-Releases/2017/4/Senior-Minister-of-State-Sim-Ann-leads-30-member-Singapore-delegation-to-Zhejiang-reaffirms-continuing-Singapore-China-bilateral-relations){:target="_blank"}
