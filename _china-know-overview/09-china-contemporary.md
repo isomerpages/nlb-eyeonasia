@@ -292,6 +292,14 @@ This four-page article details China’s declining fertility levels which began 
 
 Retrieved from EBSCOHost Databases. (*myLibrary* ID is required to access this database.)
 
+<img src="/images/book-covers/Young-China-hand.jpg" style="width:150px;" />
+
+[**Young China hand**](https://nlb.overdrive.com/media/2840905){:target="_blank"}
+
+Be inducted into the world of private equity in China through this nail-biting suspense thriller, which has an Ivy-league educated protagonist from Singapore matching (and losing) wits against his nemesis, a veteran duck farmer-turned CEO in China. Witten by authors who have lived and worked for over a decade in China, this book delivers insights to how real business is done in China.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
 ---
 
 ### **You may also like**
