@@ -1,14 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Chinese food culture
-permalink: /china/know/china-municipalities-provinces/food-culture/
-breadcrumb: Chinese food culture
+title: Looking at China’s financial and banking sector
+permalink: /china/know/china-municipalities-provinces/financial-and-banking-sector/
+breadcrumb: Looking at China’s financial and banking sector
 collection_name: china-know-living
 ---
 
-<img src="\images\china-living\food-culture.jpg" alt="food culture" style="width:800px;" />
+<img src="\images\china-living\financial-and-banking-sector.jpg" alt="financial and banking sector" style="width:800px;" />
 
-This is a selection of resources on China’s culture and cuisine available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on China’s financial and banking sector available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
 
 ### **NLB print and digital resources**
 
