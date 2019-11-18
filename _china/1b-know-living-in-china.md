@@ -82,3 +82,77 @@ People, food, arts and play are some aspects that shape a country’s cultural l
 		</div>
 	</div>
 </div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/china-municipalities-provinces/food-culture/" class="project-link">
+				<img src="/images/china-living/Knowing-social-China-1-285x300.jpg" alt="Understanding Chinese culture" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Understanding Chinese culture</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
+				<img src="/images/china-living/Personal-anecdotes-1-285x300.jpg" alt="Personal anecdotes" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Personal anecdotes</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
+				<img src="/images/china-living/Culture-and-language-1-285x300.jpg" alt="Chinese language" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Chinese language</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/china-municipalities-provinces/food-culture/" class="project-link">
+				<img src="/images/china-living/A-glimpse-into-Chinese-homes-1-285x300.jpg" alt="A glimpse into Chinese homes" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>A glimpse into Chinese homes</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
+				<img src="/images/china-living/Culture-and-etiquette-1-285x300.jpg" alt="Chinese etiquette and customs" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Chinese etiquette and customs</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
+				<img src="/images/china-living/The-future-of-mobility-in-China-1-285x300.jpg" alt="The future of mobility in China" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>The future of mobility in China</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
