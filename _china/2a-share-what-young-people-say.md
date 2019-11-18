@@ -38,7 +38,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="/images/china-youngpeople/Learning-about-Xian-business-culture-1-370x150.jpg" alt="Learning from Xi'an business culture through immersion" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Learning from Xi'an business culture through immersion</b></h5>
+					<h5><b>Learning from Xi'an business culture through...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -55,7 +55,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="/images/china-youngpeople/Business-China_Winter-Learning-Journey-Dec-2018_2-370x150.jpg" alt="Learning journey to Xiamen, Shanghai and Suzhou" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Learning journey to Xiamen, Shanghai and Suzhou</b></h5>
+					<h5><b>Learning journey to Xiamen, Shanghai and...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -92,7 +92,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="/images/china-youngpeople/Business-China_Winter-Learning-Journey-Dec-2018_2-370x150.jpg" alt="Student observations on the largest crude oil storage and..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Student observations on the largest crude oil storage and...</b></h5>
+					<h5><b>Student observations on the largest crude oil...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -102,7 +102,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="/images/china-youngpeople/Yale-NUS-College-China-Article-370x150.jpg" alt="Visit to BTP Pactual: Departments work together..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Visit to BTP Pactual: Departments work together...</b></h5>
+					<h5><b>Visit to BTP Pactual: Departments work...</b></h5>
 				</div>
 			</div>
 			</a>
