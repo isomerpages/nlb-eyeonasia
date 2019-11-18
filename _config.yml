@@ -58,6 +58,8 @@ collections:
     output: true
   china-know-living:
     output: true
+  china-know-working:
+    output: true
   china-know-sharing:
     output: true
   india:
