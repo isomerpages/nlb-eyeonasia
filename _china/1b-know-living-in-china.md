@@ -25,7 +25,7 @@ People, food, arts and play are some aspects that shape a country’s cultural l
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
-				<img src="Living-in-China-China-rising-cashless-society-285x300.jpg" alt="China's rising cashless society" class="project-image">
+				<img src="/images/china-living/Living-in-China-China-rising-cashless-society-285x300.jpg" alt="China's rising cashless society" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>China's rising cashless society</b></h5>
@@ -35,7 +35,7 @@ People, food, arts and play are some aspects that shape a country’s cultural l
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
-				<img src="Living-in-China-China-rising-cashless-society-285x300.jpg" alt="Understanding healthcare in China" class="project-image">
+				<img src="/images/china-living/Living-in-China-China-rising-cashless-society-285x300.jpg" alt="Understanding healthcare in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Understanding healthcare in China</b></h5>
