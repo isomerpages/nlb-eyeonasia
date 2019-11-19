@@ -1,17 +1,17 @@
 - title: ASEAN Countries
   category: 
-  desc: Located geographically within the tropics, these 10 nations collectively form one the fastest-growing economic blocs in Asia with tremendous growth opportunities
-  img: images/programme-bg-asean-countries.png
+  desc: Located geographically within the tropics, these 10 nations collectively form one the fastest-growing economic blocs in Asia with tremendous growth opportunities.
+  img: images/asean-countries/ASEAN banner new.jpg
   bg-color: bg-singpass
   
 - title: China
   category: 
-  desc: China description write-up here
-  img: images/programme-bg-asean-countries.png
+  desc: China is one of the fastest-growing economies in Asia and around the world. A vast country with an ancient history, rich culture and natural beauty, China’s rise as a regional and global power in recent decades is an opportunity for us to learn more about this nation and its story.
+  img: images/china/CHINA-banner-new.jpg
   bg-color: bg-beeline
   
 - title: India
   category: 
-  desc: India description write-up here
-  img: images/programme-bg-asean-countries.png
+  desc: India is a diverse and vibrant nation that is home to the world’s second-largest population. It is one of the fastest-growing major economies today and its increasing economic prosperity and cultural dynamism make it an attractive destination for all.
+  img: images/india/INDIA-banner-new.jpg
   bg-color: bg-parkingsg
