@@ -12,39 +12,6 @@ This is a selection of resources on the sharing economy in China available from 
 
 ### **NLB print and digital resources**
 
-<table class="table-v">
-  <tr>
-    <td><img src="/images/resources/Database 3.jpg" alt="Forget car-sharing" /></td>
-    <td>
-		[**Forget car-sharing. In China, you can rent umbrellas, basketballs, washers – for a fee**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"} 
-		
-		Find out more about China’s sharing economy in China through this *Washington Post* article, which describes the proliferation of various sharing services in the country and also reflects on the true meaning of “sharing economy”. 
-		
-		Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database)
-	</td>
-  </tr>
-  <tr>
-    <td><img src="/images/resources/Database 1.jpg" alt="Shared office space comes to China" /></td>
-    <td>
-		[**Shared office space comes to China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"} 
-		
-		The sharing of working space is yet another feature of China’s sharing economy. This article from the *Wall Street Journal* examines the emergence of office and workspace sharing in China and discusses the cost structure, demand and downsides associated with this service. 
-		
-		Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
-	</td>
-  </tr>
-  <tr>
-    <td><img src="/images/resources/Database 2.jpg" alt="Archives Online" /></td>
-    <td>
-		[**The gym comes to you in the sharing economy**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-		
-		One of the latest to jump onto the sharing economy wagon in China is the sharing of exercise spaces. Through this article, we can find out more about two of such companies – BULA, a platform for sharing yoga spaces, and Misspao, a start-up that provides compact gym booths.
-		
-		Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
-	</td>
-  </tr>
-</table>
-
 <img src="/images/resources/Database 3.jpg" style="width:180px;" /> 
 
 [**Forget car-sharing. In China, you can rent umbrellas, basketballs, washers – for a fee**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"} 
