@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chinese food culture
-permalink: /china/know/china-municipalities-provinces/food-culture/
+permalink: /china/know/living-in-china/food-culture/
 breadcrumb: Chinese food culture
 collection_name: china-know-living
 ---

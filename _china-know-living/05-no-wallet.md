@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: No wallet? Any problem?
-permalink: /china/know/china-municipalities-provinces/no-wallet-any-problem/
+permalink: /china/know/living-in-china/no-wallet-any-problem/
 breadcrumb: No wallet? Any problem?
 collection_name: china-know-living
 ---

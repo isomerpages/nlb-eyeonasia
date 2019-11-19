@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chinese language
-permalink: /china/know/china-municipalities-provinces/chinese-language/
+permalink: /china/know/living-in-china/chinese-language/
 breadcrumb: Chinese language
 collection_name: china-know-living
 ---

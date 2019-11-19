@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chinese etiquette and customs
-permalink: /china/know/china-municipalities-provinces/etiquette-customs/
+permalink: /china/know/living-in-china/etiquette-customs/
 breadcrumb: Chinese etiquette and customs
 collection_name: china-know-living
 ---

@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Understanding Chinese culture
-permalink: /china/know/china-municipalities-provinces/understanding-chinese-culture/
+permalink: /china/know/living-in-china/understanding-chinese-culture/
 breadcrumb: Understanding Chinese culture
 collection_name: china-know-living
 ---

@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Looking at China’s financial and banking sector
-permalink: /china/know/china-municipalities-provinces/financial-and-banking-sector/
+permalink: /china/know/living-in-china/financial-and-banking-sector/
 breadcrumb: Looking at China’s financial and banking sector
 collection_name: china-know-living
 ---

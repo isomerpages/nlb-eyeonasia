@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Personal anecdotes
-permalink: /china/know/china-municipalities-provinces/personal-anecdotes/
+permalink: /china/know/living-in-china/personal-anecdotes/
 breadcrumb: Personal anecdotes
 collection_name: china-know-living
 ---

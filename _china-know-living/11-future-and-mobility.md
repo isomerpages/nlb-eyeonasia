@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: The future of mobility in China
-permalink: /china/know/china-municipalities-provinces/future-of-mobility/
+permalink: /china/know/living-in-china/future-of-mobility/
 breadcrumb: The future of mobility in China
 collection_name: china-know-living
 ---

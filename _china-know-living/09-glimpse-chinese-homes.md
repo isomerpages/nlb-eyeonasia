@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: A glimpse into Chinese homes
-permalink: /china/know/china-municipalities-provinces/glimpse-chinese-homes/
+permalink: /china/know/living-in-china/glimpse-chinese-homes/
 breadcrumb: A glimpse into Chinese homes
 collection_name: china-know-living
 ---

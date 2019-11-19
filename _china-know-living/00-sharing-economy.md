@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Sharing economy in China
-permalink: /china/know/china-municipalities-provinces/sharing-economy-in-china/
+permalink: /china/know/living-in-china/sharing-economy-in-china/
 breadcrumb: Sharing economy in China
 collection_name: china-know-living
 ---

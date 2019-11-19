@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: China’s rising cashless society
-permalink: /china/know/china-municipalities-provinces/rising-cashless-society/
+permalink: /china/know/living-in-china/rising-cashless-society/
 breadcrumb: China’s rising cashless society
 collection_name: china-know-living
 ---

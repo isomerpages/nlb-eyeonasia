@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Understanding healthcare in China
-permalink: /china/know/china-municipalities-provinces/understanding-healthcare/
+permalink: /china/know/living-in-china/understanding-healthcare/
 breadcrumb: Understanding healthcare in China
 collection_name: china-know-living
 ---
