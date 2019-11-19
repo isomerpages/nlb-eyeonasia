@@ -36,7 +36,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry"></a>
+			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:75%;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp_logo_spot.png" alt="Singapore Polytechnic"></a>
