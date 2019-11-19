@@ -18,20 +18,18 @@ hero-banner: /images/hero-banner-eoa.png
 #Call to Action Button
 button:
   - text: Start Exploring
-    url: /country-listing/
+    url: /who-we-are/about-eye-on-asia
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: ASEAN Coutnries
+    description: Find out more about ASEAN countries' tremedous growth opportunities
+    url: /asean-countries/know/overview/
+  - title: China
+    description: Learn about China's rise as a regional & global power
+    url: /china/know/overview/
+  - title: India
+    description: Discover why India is an attractive destination for all
+    url: /india/know/overview/
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
