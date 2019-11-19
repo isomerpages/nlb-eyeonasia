@@ -20,7 +20,7 @@ This is a selection of resources on the sharing economy in China available from 
 		<p>
 		Find out more about China’s sharing economy in China through this *Washington Post* article, which describes the proliferation of various sharing services in the country and also reflects on the true meaning of “sharing economy”. 
 		<p>
-		<i>Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database)</i>
+		<i>Retrieved from ProQuest Central. (myLibrary ID is required to access this database)</i>
 	</td>
   </tr>
   <tr>
@@ -30,17 +30,7 @@ This is a selection of resources on the sharing economy in China available from 
 		<p>
 		The sharing of working space is yet another feature of China’s sharing economy. This article from the *Wall Street Journal* examines the emergence of office and workspace sharing in China and discusses the cost structure, demand and downsides associated with this service. 
 		<p>
-		<i>Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.</i>
-	</td>
-  </tr>
-  <tr>
-    <td><img src="/images/resources/Database 2.jpg" alt="Archives Online" /></td>
-    <td>
-		[**The gym comes to you in the sharing economy**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-		
-		One of the latest to jump onto the sharing economy wagon in China is the sharing of exercise spaces. Through this article, we can find out more about two of such companies – BULA, a platform for sharing yoga spaces, and Misspao, a start-up that provides compact gym booths.
-		
-		Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
+		<i>Retrieved from ProQuest Central. (myLibrary ID is required to access this database.)</i>
 	</td>
   </tr>
 </table>
