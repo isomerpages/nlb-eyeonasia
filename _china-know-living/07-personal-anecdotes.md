@@ -43,29 +43,3 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 This is a collection of letters that provides an intimate look into the daily lives of ordinary people: students, parents, teachers and professionals as well as a better understanding of Chinese customs and cultures.
 
 All rights reserved, Lanham: Rowman & Littlefield, 2012.
-
----
-
-### **You may also like**
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
-[**Chinese etiquette & protocol**](http://www.protocolprofessionals.com/articles_china_print.htm){:target="_blank"}
-
-President of Culture Savvy Joyce Millet shares her knowledge on Chinese customs and etiquette. She adds that anyone can benefit from learning about Chinese culture and customs.
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
-[**Guide to China: Etiquette, customs, culture & business**](http://www.kwintessential.co.uk/resources/guides/guide-to-china-etiquette-customs-culture-business/){:target="_blank"}
-
-This London-based translation company provides facts and figures on China before offering an in-depth discussion of its social and business etiquette.
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XQ2C5C3E-xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-**Understanding Chinese culture and etiquette**
-
-Produced by New Zealand Trade & Enterprise, this video creates awareness of Chinese protocols, rituals and superstition.
-
-Source: nzbusiness
