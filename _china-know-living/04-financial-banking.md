@@ -12,66 +12,106 @@ This is a selection of resources on China’s financial and banking sector avail
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Chinese-feasts-festivals-A-cookbook.jpg" style="width:150px;" />
+<img src="/images/book-covers/Recent-development-of-internet-finance-in-China.jpg" style="width:150px;" />
 
-[**Chinese feasts & festivals: A cookbook**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=01C2838F-D462-4FBF-A1FC-85A1071E9246){:target="_blank"}
+[**Recent development of Internet finance in China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202343211){:target="_blank"}
 
-Check out the rich culinary tradition of China through this beautifully illustrated cookbook featuring popular Chinese cuisine served at feasts and festivals, along with the significance of each dish and its recipe.
+This publication discusses the phenomenal growth of China’s Internet finance sector, which offers transaction services similar to those provided by traditional institutional banks. Some new entrants into this flourishing industry include WeBank, China’s first online-only private bank, and Alibaba’s Yu’ e Bao, which enables customers to invest money stored in their Alipay accounts.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2015
 
-<img src="/images/book-covers/The-ancient-art-of-tea-Wisdom-from-the-old-Chinese-tea-masters.jpg" style="width:150px;" />
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**The ancient art of tea: Wisdom from the old Chinese tea masters**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=5F42AC80-EDDF-41CE-A614-774F0A680384){:target="_blank"}
+[**Renminbi rising: A new global monetary system emerges**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
 
-This book takes a delightful look at the philosophy, history, and culture of tea in China. The health benefits of tea are well known. Learn more about the technique and taste which exemplifies some of the basic concepts of the philosophy of tea and tea enjoyment.
+This book examines the origins of the domestic financial reform driving the renminbi (RMB) internationlisation and analyses the current and future impacts of the RMB rise on existing financial services and products, the global financial ecosystem and the international business arena.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this database.)
 
-<img src="/images/book-covers/The-complete-Asian-cookbook-China.jpg" style="width:150px;" />
+<img src="/images/book-covers/Chinas-Emerging-Financial-Markets.jpg" style="width:150px;" />
 
-[**The complete Asian cookbook: China**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=9C0B5972-012C-4732-BF4C-AC8FAA72EEBD){:target="_blank"}
+[**China’s emerging financial markets**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=3C444236-8005-4A98-A73F-02C58679D1C2){:target="_blank"}
 
-Since its release in 1976, Charmaine Solomon’s *The Complete Asian Cookbook* has become a culinary classic, introducing Asian cooking to more than a million readers worldwide and garnering a dedicated following around the globe. The recipes from China are now available in this single volume. Pore through the easy-to-follow recipes and learn to cook favourites such as fried noodles, barbecued pork buns, lemon chicken and Peking duck. The gorgeous food photos will surely whet your appetite for more.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/Food-in-Chinese-culture.jpg" style="width:150px;" />
-
-[**Food in Chinese culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14608434){:target="_blank"}
-
-Find out how food plays a huge role in Chinese culture. Learn about iconic Chinese dishes as well as Chinese dining etiquette and culture.
-
-All rights reserved, New York: Commercial Press U.S., 2009.
-
-<img src="/images/book-covers/Musings-of-a-Chinese-gourmet.jpg" style="width:150px;" />
-
-[**Musings of a Chinese gourmet**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=A869D645-7259-4664-B8AA-151083227AF2){:target="_blank"}
-
-Written in the early 1950s by F. T. Cheng, a former Chinese ambassador to London, this book presents a cultured and entertaining view of the gastronomic aspect of Chinese life. It is a wonderful tribute to the richness and depth of Chinese culture from a man who was also well-versed with Western culture.
+This volume traces the historical development of China’s banking and finance sectors and presents the perspectives and opinions from some of China’s most prominent economists, bankers, private equity and hedge fund managers, credit analysts and Western authorities on the current status of China’s banking industry.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/Dim-sum-A-pocket-guide.jpg" style="width:150px;" />
+<img src="/images/book-covers/Chinas-banking-transformation.png" style="width:150px;" />
 
-[**Dim sum: A pocket guide**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=203E83E9-8F82-4B89-81D2-4000DE5E8249){:target="_blank"}
+[**China’s banking transformation: The untold story**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202772597){:target="_blank"}
 
-With its petite bite-sized portions usually served on small plates and endless array of dishes, dim sum has become increasingly popular over the years. This handy guide identifies the 50 most popular dim sum dishes, each accompanied with full-color photographs and short descriptions of the ingredients. The names of the dishes in English and Cantonese as well as the proper way of pronouncing them are also provided.
+This is a first account of the inner workings of Chinese banking written by a Westerner who was a board member of several China banks for 12 years. The author examines the governance and management of China’s banks from the perspective of the Chinese government and the role of the Communist Party.
+
+All rights reserved, New York: Oxford University Press, 2017.
+
+<img src="/images/book-covers/The-Chinese-Yuan.jpg" style="width:150px;" />
+
+[**The Chinese yuan: Internationalisation and financial products in China**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=907C880D-0DDC-4FFC-B808-7BE16BC3CCB3){:target="_blank"}
+
+This book provides an overview of the Chinese capital market and analyses China’s banking and foreign exchange system. It also examines *renminbi* derivative products in mainland China and abroad and offers insights into the internationalisation of the Chinese yuan.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/China’s-banking-and-financial-markets.jpg" style="width:150px;" />
+
+[**China’s banking and financial markets: The internal research report of the Chinese government**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=C313B673-5059-4E45-B1B2-296BF16D253E){:target="_blank"}
+
+Targeted at an international audience, this is a comprehensive reference on the landscape of China’s banking industry and financial markets. It introduces China’s macro-economy and monetary policies, the different financial institutions and markets in China, the reform of the *renminbi* exchange rate as well as China’s legal and institutional environment for financial development.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/The-China-Study-cookbook-Over-120-whole-food-plant-based-recipes.jpg" style="width:150px;" />
+<img src="/images/book-covers/Chinas-superbank.jpg" style="width:150px;" />
 
-[**The China Study cookbook: Over 120 whole food, plant-based recipes**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=AD8E2B5C-C174-4902-838C-1B5C7B394ABF){:target="_blank"}
+[**China’s superbank: Debt, oil and influence – How China Development Bank is rewriting the rule of finance**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14715388){:target="_blank"}
 
-With 850,000 copies sold, this publication has been hailed as one of the most important health and nutrition books ever published. It reveals that the traditional Western diet has resulted in a modern health crisis and the widespread growth of obesity, diabetes, heart disease and cancer. Based on the most comprehensive nutrition study ever conducted, the book also reveals that a plant-based diet leads to optimal health with the power to halt or reverse many diseases.
+The author attributes the stimulus behind China’s domestic economic growth to the China Development Bank (CDB), which has overtaken the World Bank as the world’s biggest development bank. Wholly owned by the Chinese government, CDB lends billions to both its local governments and to countries all over the globe so as to expand its policy goals and to widen its sphere of economic influence.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+All rights reserved, Singapore: John Wiley & Sons, 2013.
 
-<img src="/images/book-covers/Mini-northern-Chinese-favorites.jpg" style="width:150px;" />
+<img src="/images/book-covers/Shadow-banking-in-China.png" style="width:150px;" />
 
-[**Mini northern Chinese favorites**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=A9BF686D-0E5F-4176-A339-2AB1DDC8DBE5){:target="_blank"}
+[**Shadow banking in China: Risk, regulation and policy**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202729683){:target="_blank"}
 
-The evolution of northern Chinese cuisine has been heavily influenced by the relatively dry, cold climate and wind–swept steppes of northern China. It relies mainly on preserved foods and hearty fare to combat the harsh climate. Learn to make 40 easy and authentic Chinese favorites from this cookbook.
+The author examines the regulations governing shadow banking in China and the potential risks inherent in this emerging industry. Issues discussed include peer-to-peer (P2P) lending, wealth management products, local government debts and the underground lending market.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+All rights reserved, Cheltenham: Edward Elgar Publishing, 2016.
+
+<img src="/images/book-covers/Shadow-banking-and-the-rise-of-capitalism-in-China.jpg" style="width:150px;" />
+
+[**Shadow banking and the rise of capitalism in China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202941969){:target="_blank"}
+
+This book traces the rise of China’s free markets and the growth of shadow banking in China. The latter refers to financial activities carried out by non-formal banking institutions such as small-scale money lending businesses, online credit bureaus and state-owned banks.
+
+All rights reserved, Singapore: Palgrave Macmillan, 2017.
+
+---
+
+### **You may also like**
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**The rise of fintech in China: Redefining financial services**](http://www.ey.com/Publication/vwLUAssets/ey-the-rise-of-fintech-in-china/$FILE/ey-the-rise-of-fintech-in-china.pdf){:target="_blank"}
+
+This 48-page report discusses the emergence of China as the leader in the global financial technology (FinTech) market. Opportunities abound, both domestically and internationally, for Chinese FinTech firms to leverage big data, social media and other Internet-based services to transform customer experience and introduce innovative product offerings.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**What’s next for China’s booming fintech sector?**](http://www.mckinsey.com/industries/financial-services/our-insights/whats-next-for-chinas-booming-fintech-sector){:target="_blank"}
+
+This article predicts that China’s current booming Internet finance industry, with a market size that exceeded 12 trillion renminbi in 2015, will inevitably slow down. Hence. businesses will need to adapt to changes in the new regulatory environment to not only survive but to continue thriving.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**A wealth of opportunity: Chinese consumers and their shifting demand for financial services**](http://demandinstitute.org/demandwp/wp-content/uploads/2016/11/TDI-A-Wealth-of-Opportunity.pdf){:target="_blank"}
+
+This 36-page report describes the untapped drive for household financial services in China from consumers both in rural and urban areas. The report predicts that over the next decade the potential added consumption from these consumer groups is estimated to range from $650 to $950 billion.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w800y5tvUlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Insights from China: New regulatory challenges and opportunities in digital finance**
+
+This video provides an overview of the growth in digital finance in China, which has provided its citizens with greater access to financial services. The Chinese government is crafting new regulations to protect consumers from the risk of online fraudulent ponzi schemes.
+
+Source: CGAP
