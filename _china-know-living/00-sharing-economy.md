@@ -12,21 +12,16 @@ This is a selection of resources on the sharing economy in China available from 
 
 ### **NLB print and digital resources**
 
-<img src="/images/resources/Database 3.jpg" style="width:180px;" />
-
-[**Forget car-sharing. In China, you can rent umbrellas, basketballs, washers – for a fee**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+| <img src="/images/resources/Database 3.jpg" style="width:180px;" /> | [**Forget car-sharing. In China, you can rent umbrellas, basketballs, washers – for a fee**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
 Find out more about China’s sharing economy in China through this *Washington Post* article, which describes the proliferation of various sharing services in the country and also reflects on the true meaning of “sharing economy”.
 
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database)
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**Shared office space comes to China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database) |
+| <img src="/images/resources/Database 1.jpg" style="width:180px;" /> | [**Shared office space comes to China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
 The sharing of working space is yet another feature of China’s sharing economy. This article from the *Wall Street Journal* examines the emergence of office and workspace sharing in China and discusses the cost structure, demand and downsides associated with this service.
 
-Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
+Retrieved from ProQuest Central. *myLibrary* ID is required to access this database. |
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
