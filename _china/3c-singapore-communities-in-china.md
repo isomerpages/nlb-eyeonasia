@@ -12,7 +12,7 @@ second_nav_title: "Go"
 Connect with fellow Singaporeans based in China through these clubs, associations and communities. This is a selection of Singapore communities in China available from the Internet and is not meant to be an exhaustive list.
 
 * [International Enterprise Singapore Overseas Centres in China (Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Shandong [Qingdao], Shanghai, Wuhan, Xi’an)](#international-enterprise-singapore-overseas-centres-in-china-beijing-chengdu-chongqing-dalian-guangzhou-shandong-qingdao-shanghai-wuhan-xian)
-* [Overseas Singaporean Liaison – Greater China](#overseas-singaporean-liaison–greater--china)
+* [Overseas Singaporean Liaison – Greater China](#overseas-singaporean-liaison--greater-china)
 * [OSG – Globalising Young Singaporeans](#osg--globalising-young-singaporeans)
 * [Singapore Chamber of Commerce and Industry in China (SingCham)](#singapore-chamber-of-commerce-and-industry-in-china-singcham)
 * [Singapore Missions in China](#singapore-missions-in-china)
@@ -34,17 +34,23 @@ Get together, meet and connect with fellow Singaporeans in Greater China as well
 * [Facebook page](https://www.facebook.com/osl.greaterchina/){:target="_blank"}
 * WeChat – OSLChina
 
+<hr/>
+
 ### OSG – Globalising Young Singaporeans
 
 OSG is a non-profit social initiative dedicated to connecting Singapore youths to Singaporeans overseas by facilitating sharing between Singaporeans both abroad and at home.
 
 [Facebook page](https://www.facebook.com/overseassingapore/?hc_ref=ARSSXiMAPfSA2m5VtvGZvy-X4nxdLST9YyBe3si3FEWfnG-7DB3S0rqiCQ3BSck1lgI){:target="_blank"}
 
+<hr/>
+
 ### Singapore Chamber of Commerce and Industry in China (SingCham)
 
 SingCham aims to facilitate business, economic exchanges, understanding and friendly relations between its members and relevant Chinese authorities, enterprises and institutions, as well as Singapore firms with business interests in China.
 
 [Find out more](http://www.singcham.com.cn/){:target="_blank"}
+
+<hr/>
 
 ### Singapore Missions in China
 
