@@ -67,3 +67,7 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VMwjscSCcf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+**Cultural differences in business**
+
+In this TEDxHaarlem video, speaker Valerie Hoeks examines the cultural differences between China and the West. In particular, she highlights the importance of relationships in China, and how establishing the appropriate connections can help one get things done and succeed in China.
