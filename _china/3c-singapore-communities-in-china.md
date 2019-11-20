@@ -9,7 +9,7 @@ second_nav_title: "Go"
 
 ![banner-singapore-communities-in-china](\images\china\SG-Coummunities-in-China-cover-pic.jpg)
 
-CConnect with fellow Singaporeans based in China through these clubs, associations and communities. This is a selection of Singapore communities in China available from the Internet and is not meant to be an exhaustive list.
+Connect with fellow Singaporeans based in China through these clubs, associations and communities. This is a selection of Singapore communities in China available from the Internet and is not meant to be an exhaustive list.
 
 <hr/>
 
