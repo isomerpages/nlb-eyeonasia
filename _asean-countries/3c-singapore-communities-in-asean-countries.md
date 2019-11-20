@@ -182,7 +182,7 @@ VietCham Singapore supports the Vietnamese and Vietnam-related business communit
 
 We have listed the contact details of the Singapore Missions in ASEAN countries in the table below.
 
-| Mission | Contact |
+| **Mission** | **Contact** |
 | (Brunei) Singapore High Commission in Bandar Seri Begawan	| <Singhc_bwn@mfa.sg> |
 | (Cambodia) Singapore Embassy in Phnom Penh | <Singemb_pnh@mfa.sg> |
 | (Indonesia) Singapore Embassy in Jakarta | <Singemb_jkt@mfa.sg> |
