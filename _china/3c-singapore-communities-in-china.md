@@ -44,7 +44,7 @@ SingCham aims to facilitate business, economic exchanges, understanding and frie
 
 We have listed the contact details of the Singapore Missions in China in the table below.
 
-| Singapore Missions in China | Contact |
+| **Singapore Missions in China** | **Contact** |
 | Singapore Embassy in Beijing | <Singemb_bej@mfa.sg> |
 | Singapore Consulate-General in Chengdu | <Singcg_cgu@mfa.sg> |
 | Singapore Consulate-General in Guangzhou | <Singcg_gzu@mfa.sg> |
