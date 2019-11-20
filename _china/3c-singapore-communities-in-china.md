@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Singapore Communities in ASEAN Countries
+title: Singapore Communities in China
 permalink: /china/go/singapore-communities-in-china/
 breadcrumb: Singapore Communities in China
 collection_name: china
