@@ -136,15 +136,15 @@ The International Enterprise Singapore’s Overseas Centre in Kuala Lumpur provi
 We have listed the contact details of the Singapore Missions in ASEAN countries in the table below.
 
 | Mission | Contact |
-| (Brunei) Singapore High Commission in Bandar Seri Begawan	| Singhc_bwn@mfa.sg |
-| (Cambodia) Singapore Embassy in Phnom Penh | Singemb_pnh@mfa.sg |
-| (Indonesia) Singapore Embassy in Jakarta | Singemb_jkt@mfa.sg |
+| (Brunei) Singapore High Commission in Bandar Seri Begawan	| <Singhc_bwn@mfa.sg> |
+| (Cambodia) Singapore Embassy in Phnom Penh | <Singemb_pnh@mfa.sg> |
+| (Indonesia) Singapore Embassy in Jakarta | <Singemb_jkt@mfa.sg> |
 | (Indonesia) Singapore Consulate-General in Batam | 62 (0778) 470070 |
-| (Indonesia) Singapore Consulate-General in Medan | sporeconsulatemedan@mfa.sg |
-| (Lao PDR) Singapore Embassy in Vientiane | Singemb_vte@mfa.sg |
-| (Malaysia) Singapore High Commission in Kuala Lumpur | Singhc_kul@mfa.sg |
+| (Indonesia) Singapore Consulate-General in Medan | <sporeconsulatemedan@mfa.sg> |
+| (Lao PDR) Singapore Embassy in Vientiane | <Singemb_vte@mfa.sg> |
+| (Malaysia) Singapore High Commission in Kuala Lumpur | <Singhc_kul@mfa.sg> |
 | (Malaysia) Singapore Consulate-General in Johor Bahru | 60-7 226 5012 |
-| (Myanmar) Singapore Embassy in Yangon | Singemb_ygn@mfa.sg |
-| (Philippines) Singapore Embassy in Manila | Singemb_mnl@mfa.sg |
-| (Thailand) Singapore Embassy in Bangkok | Singemb_bkk@mfa.sg |
-| (Vietnam) Singapore Embassy in Hanoi | Singemb_han@mfa.sg |
+| (Myanmar) Singapore Embassy in Yangon | <Singemb_ygn@mfa.sg> |
+| (Philippines) Singapore Embassy in Manila | <Singemb_mnl@mfa.sg> |
+| (Thailand) Singapore Embassy in Bangkok | <Singemb_bkk@mfa.sg> |
+| (Vietnam) Singapore Embassy in Hanoi | <Singemb_han@mfa.sg> |
