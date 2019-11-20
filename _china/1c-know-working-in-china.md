@@ -14,7 +14,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/sharing-economy-in-china/" class="project-link">
+			<a href="/china/know/working-in-china/csr-china/" class="project-link">
 				<img src="/images/china-working/CSR-China-bg-285x300.jpg" alt="Corporate Social Responsibility in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
+			<a href="/china/know/working-in-china/entrepreneurship-in-china/" class="project-link">
 				<img src="/images/china-working/Entrepreneurship-in-China-285x300.jpg" alt="Entrepreneurship in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -34,7 +34,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/understanding-healthcare/" class="project-link">
+			<a href="/china/know/working-in-china/understanding-cultural-intelligence/" class="project-link">
 				<img src="/images/china-working/Home-banner-285x287.jpg" alt="Understanding cultural intelligence" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -51,7 +51,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/sharing-economy-in-china/" class="project-link">
+			<a href="/china/know/working-in-china/business-culture/" class="project-link">
 				<img src="/images/china-working/Looking-at-Chinas-business-culture-1-285x300.jpg" alt="Looking at China's business culture" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -61,7 +61,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
+			<a href="/china/know/working-in-china/working-in-china/" class="project-link">
 				<img src="/images/china-working/How-to-get-a-job-in-China-1-285x300.jpg" alt="Working in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
