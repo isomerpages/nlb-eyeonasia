@@ -90,8 +90,8 @@ The Singapore Association of Myanmar in Yangon brings together Singaporeans livi
 
 The association serves as a central resource for the Nanyang Technological University alumni community in Myanmar, often organising activities to bring the community together.
 
-[http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/Pages/Myanmar.aspx](http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/Pages/Myanmar.aspx){:target="_blank"}
-[http://www.ntuaamyanmar.org/](http://www.ntuaamyanmar.org/){:target="_blank"}
+* [http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/Pages/Myanmar.aspx](http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/Pages/Myanmar.aspx){:target="_blank"}
+* [http://www.ntuaamyanmar.org/](http://www.ntuaamyanmar.org/){:target="_blank"}
 
 #### Singapore Management University Alumni Chapter in Yangon, Myanmar
 
@@ -112,8 +112,8 @@ The International Enterprise Singapore’s Overseas Centre in Manila provides as
 
 The Singapore Philippines Association based in Makati City, Manila, provides a platform for Singaporeans living and working in the Philippines to network, promote mutual understanding and friendship between Singaporeans and Filipinos, as well as build stronger ties between Singaporeans and other nationalities living in the country.
 
-[http://www.singphil.org/](http://www.singphil.org/){:target="_blank"}
-Facebook page: [https://www.facebook.com/SingaporePhilippinesAssociationInc/](https://www.facebook.com/SingaporePhilippinesAssociationInc/){:target="_blank"}
+* [http://www.singphil.org/](http://www.singphil.org/){:target="_blank"}
+* Facebook page: [https://www.facebook.com/SingaporePhilippinesAssociationInc/](https://www.facebook.com/SingaporePhilippinesAssociationInc/){:target="_blank"}
 
 #### Singapore Ladies Club Philippines
 
@@ -161,8 +161,8 @@ The International Enterprise Singapore’s Overseas Centres in Hanoi and Ho Chi 
 
 With its base in Hanoi, the Singapore Business Association Vietnam aims to assist Singaporeans in their business ventures in Vietnam. Included in the association’s lineup of programmes and events are seminars and dialogues on relevant business-related topics of interest to members.
 
-[http://www.sbav-hanoi.org/](http://www.sbav-hanoi.org/){:target="_blank"}
-Facebook page: [https://www.facebook.com/mySBAV](https://www.facebook.com/mySBAV){:target="_blank"}
+* [http://www.sbav-hanoi.org/](http://www.sbav-hanoi.org/){:target="_blank"}
+* Facebook page: [https://www.facebook.com/mySBAV](https://www.facebook.com/mySBAV){:target="_blank"}
 
 #### Singapore Business Group HCM City Chapter
 
