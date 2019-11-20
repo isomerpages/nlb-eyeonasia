@@ -13,13 +13,13 @@ Connect with fellow Singaporeans based in ASEAN countries through these clubs, a
 
 - [Brunei](#brunei)
 - [Cambodia](#cambodia)
-- Indonesia
-- Malaysia
-- Myanmar
-- Philippines
-- Thailand
-- Vietnam
-- Singapore Missions in ASEAN countries
+- [Indonesia](#indonesia)
+- [Malaysia](#malaysia)
+- [Myanmar](#myanmar)
+- [Philippines](#phiippines)
+- [Thailand](#thailand)
+- [Vietnam](#thailand)
+- [Singapore Missions in ASEAN countries](#singapore-missions-in-asean-countries)
 
 <hr/>
 
