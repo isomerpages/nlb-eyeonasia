@@ -125,7 +125,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/sharing-economy-in-china/" class="project-link">
+			<a href="/china/know/working-in-china/conversation-and-manners/" class="project-link">
 				<img src="/images/china-working/The-art-of-conversation-and-manners-in-business-China-285x300.jpg" alt="The art of conversation and manners in business China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -135,7 +135,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
+			<a href="/china/know/working-in-china/inspiring-insights/" class="project-link">
 				<img src="/images/china-working/Inspiring-insights-and-success-stories-285x300.jpg" alt="Inspiring insights and success stories from China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -145,7 +145,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/understanding-healthcare/" class="project-link">
+			<a href="/china/know/working-in-china/consumer-market-and-culture/" class="project-link">
 				<img src="/images/china-working/China’s-dynamic-consumer-market-and-culture-285x300.jpg" alt="China's consumer market and culture" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
