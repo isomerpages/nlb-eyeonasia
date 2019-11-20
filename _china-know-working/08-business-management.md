@@ -20,7 +20,7 @@ Delve into the world of Chinese enterprise in this book, which covers the econom
 
 All rights reserved, New York: Routledge, 2016.
 
-<img src="/images/book-covers/Business-in-contemporary-China.jpg" style="width:150px;" />
+<img src="/images/book-covers/Multinational-companies-in-China-Navigating-the-eight-common-management-pitfalls.jpg" style="width:150px;" />
 
 [**Multinational companies in China: Navigating the eight common management pitfalls**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202928282){:target="_blank"}
 
