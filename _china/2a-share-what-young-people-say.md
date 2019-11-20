@@ -55,7 +55,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="/images/china-youngpeople/BCYC-Video-Cover-2-370x150.jpg" alt="Learning journey to Xiamen, Shanghai and Suzhou" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Learning journey to Xiamen, Shanghai and...</b></h5>
+					<h5><b>Learning journey to Xiamen, Shanghai...</b></h5>
 				</div>
 			</div>
 			</a>
