@@ -71,7 +71,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/understanding-healthcare/" class="project-link">
+			<a href="/china/know/working-in-china/talent-management/" class="project-link">
 				<img src="/images/china-working/Talent-management-4-285x300.jpg" alt="Talent management in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -88,7 +88,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/sharing-economy-in-china/" class="project-link">
+			<a href="/china/know/working-in-china/future-of-work/" class="project-link">
 				<img src="/images/china-working/Is-China-ready-for-the-future-of-work-2-285x300.jpg" alt="Gearing up for the future of work" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -98,7 +98,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/rising-cashless-society/" class="project-link">
+			<a href="/china/know/working-in-china/business-strategy/" class="project-link">
 				<img src="/images/china-working/Powering-yourself-with-Chinese-business-strategies-285x300.jpg" alt="Empowering yourself with Chinese business strategies" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -108,7 +108,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/china-municipalities-provinces/understanding-healthcare/" class="project-link">
+			<a href="/china/know/working-in-china/business-management/" class="project-link">
 				<img src="/images/china-working/Uncovering-business-management-in-China-285x300.jpg" alt="Uncovering business management in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
