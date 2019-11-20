@@ -11,6 +11,9 @@ second_nav_title: "Go"
 
 Connect with fellow Singaporeans based in China through these clubs, associations and communities. This is a selection of Singapore communities in China available from the Internet and is not meant to be an exhaustive list.
 
+* [Singapore Chamber of Commerce and Industry in China (SingCham)](#singapore-chamber-of-commerce-and-industry-in-china-(singcham))
+* [Singapore Missions in China](#singapore-missions-in-china)
+
 <hr/>
 
 ### International Enterprise Singapore Overseas Centres in China (Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Shandong [Qingdao], Shanghai, Wuhan, Xi’an)
