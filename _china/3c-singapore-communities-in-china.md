@@ -11,7 +11,7 @@ second_nav_title: "Go"
 
 CConnect with fellow Singaporeans based in China through these clubs, associations and communities. This is a selection of Singapore communities in China available from the Internet and is not meant to be an exhaustive list.
 
-* [International Enterprise Singapore Overseas Centres in China (Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Shandong [Qingdao], Shanghai, Wuhan, Xi’an)](#international-enterprise-singapore-overseas-centres-in-china-(beijing,-chengdu,-chongqing,-dalian,-guangzhou,-shandong-[Qingdao],-shanghai,-wuhan,-xi’an))
+* [International Enterprise Singapore Overseas Centres in China (Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Shandong [Qingdao], Shanghai, Wuhan, Xi’an)](#international-enterprise-singapore-overseas-centres-in-china-beijing-chengdu-chongqing-dalian-guangzhou-shandong-qingdao-shanghai-wuhan-xi’an)
 
 <hr/>
 
