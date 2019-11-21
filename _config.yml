@@ -66,6 +66,10 @@ collections:
     output: true
   china-share-employers:
     output: true
+  china-go-students:
+    output: true
+  china-go-professionals:
+    output: true
   india:
     output: true
     
