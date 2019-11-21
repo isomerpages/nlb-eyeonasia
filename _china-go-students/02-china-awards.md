@@ -31,3 +31,49 @@ This funding is available for students participating in internships, hybrid work
 
 
 ##### **Singapore University of Social Sciences (SUSS)– Singapore Federation of Chinese Clan Association (SFFCA)**
+
+
+
+###### **SUSS-SFCCA Sponsorship**
+
+This sponsorship award aims to encourage lifelong learning and to nurture a bilingual and bi-cultural workforce, and is targeted at applicants undertaking selected undergraduate programmes at SUSS.
+
+- [Find out more](http://www.sfcca.sg/en/scholarship/unisim){:target="_blank"}
+
+
+
+##### **Singapore Federation of Chinese Clan Associations**
+
+###### **SFCCA Scholarship**
+
+To foster bilingual and bicultural talents, this scholarship will be awarded annually to five outstanding students pursuing their studies in top-ranking Chinese universities to finance their studies and living expenses.
+
+- [Find out more](http://www.sfcca.sg/en/scholarship/sfccascholarship){:target="_blank"}
+
+
+
+### **Other programmes**
+
+##### **Business China Singapore – Go East**
+
+This initiative is targeted at Singapore students, particularly those in Institutes of Higher Learning. It aims to expose them to the changing face of Chinese society and help them gain ground experience working and living in China.
+
+- [Find out more](http://www.businesschina.org.sg/en.php/initiatives/goeast){:target="_blank"}
+
+
+
+##### **Business China Singapore Youth Chapter (BCYC)**
+
+Supported by Business China Singapore, the Business China Singapore Youth Chapter (BCYC) is a voluntary group of youths formed in 2010, which envisions itself to be the leading Singapore-based community that inspires youths to become China-savvy and facilitates connections with China. It has a vibrant calendar of year-round activities which serve the needs of the BCYC community.
+
+- [Find out more](https://www.businesschina.org.sg/en.php/initiatives/goeast/programmes/15){:target="_blank"}
+
+
+
+##### **Singapore Valley Awards (SVA)**
+
+This is an annual entrepreneurship award that offers students with the most compelling business ideas a fully sponsored internship in China with world-leading technology companies and venture capital firms in China. It is open to all full-time undergraduates, preferably in their third or fourth year, in any programme of study, matriculated in any local university.
+
+- [Find out more](http://www.singaporevalleyawards.com/index.html){:target="_blank"}
+
+  
