@@ -30,7 +30,7 @@ This funding is available for students participating in internships, hybrid work
 
 
 
-##### **Singapore University of Social Sciences (SUSS)– Singapore Federation of Chinese Clan Association (SFFCA)**
+##### **Singapore University of Social Sciences (SUSS)– Singapore Federation of Chinese Clan Association (SFCCA)**
 
 
 
