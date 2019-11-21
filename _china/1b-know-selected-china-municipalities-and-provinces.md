@@ -139,8 +139,8 @@ What are some of the faster-growing areas in China today that have attracted lar
 				<img src="/images/china-selected/Discovering-Nanjing-285x300.jpg" alt="Discovering Nanjing" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-				</div>
 					<h5><b>Discovering Nanjing</b></h5>
+				</div>
 			</div>
 			</a>
 		</div>
@@ -176,8 +176,8 @@ What are some of the faster-growing areas in China today that have attracted lar
 				<img src="/images/china-selected/Shaanxi-A-Profile-285x300.jpg" alt="Shaanxi: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-				</div>
 					<h5><b>Shaanxi: A profile</b></h5>
+				</div>
 			</div>
 			</a>
 		</div>
@@ -213,14 +213,14 @@ What are some of the faster-growing areas in China today that have attracted lar
 				<img src="/images/china-selected/Selected-China-provinces-Sichuan-Living-in-the-province-285x300.jpg" alt="Discovering Shichuan" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-				</div>
 					<h5><b>Discovering Shichuan</b></h5>
+				</div>
 			</div>
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/china/know/china-municipalities-provinces/tianjin-profile/" class="project-link">
-				<img src="/images/china-selected/Tianjing-Snapshot-285x300" alt="Tianjin: A profile" class="project-image">
+				<img src="/images/china-selected/Tianjing-Snapshot-285x300.jpg" alt="Tianjin: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Tianjin: A profile</b></h5>
@@ -250,8 +250,8 @@ What are some of the faster-growing areas in China today that have attracted lar
 				<img src="/images/china-selected/Wuhan-A-profile-285x300.jpg" alt="Wuhan: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-				</div>
 					<h5><b>Wuhan: A profile</b></h5>
+				</div>
 			</div>
 			</a>
 		</div>
