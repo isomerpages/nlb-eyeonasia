@@ -29,7 +29,7 @@ This 2-week immersion programme will allow students to attend cultural talks, vi
 
 
 
-### Nanyang Technological University
+### **Nanyang Technological University**
 
 ###### **Overseas Business Study Mission (Nanyang Business School)**
 
