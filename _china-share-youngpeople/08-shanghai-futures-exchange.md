@@ -6,7 +6,7 @@ breadcrumb: Study mission to the Shanghai Futures Exchange
 collection_name: china-share-youngpeople
 ---
 
-<img src="\images\china-youngpeople\shanghai-futures-exchange.jpg" alt="shanghai futures exchange" style="width:800px;" />
+<img src="\images\china-youngpeople\futures-exchange.jpg" alt="shanghai futures exchange" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 
