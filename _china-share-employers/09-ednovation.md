@@ -1,19 +1,21 @@
 ---
 layout: leftnav-page-content
-title: Kingsmen Creatives – Exhibiting a knack for staying ahead of the curve
-permalink: /china/share/what-employers-say/kingsmen-creatives/
-breadcrumb: Kingsmen Creatives – Exhibiting a knack for staying ahead of the curve
+title: Ednovation – China makes way for next level pre-school education
+permalink: /china/share/what-employers-say/ednovation/
+breadcrumb: Ednovation – China makes way for next level pre-school education
 collection_name: china-share-employers
 ---
 
-<img src="\images\china-employers\kingsmen-creatives.jpg" alt="kingsmen creatives" style="width:800px;" />
+<img src="\images\china-employers\ednovation.jpg" alt="ednovation" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 
-*“When we started in China 16 years ago, we serviced mostly the international brands, not the local ones because the local brands didn’t need such sophisticated offerings. At that time, we weren’t competitive enough to meet the local market’s needs but we adapted and grew slowly and started to take on more local business.”*
+*Following its first success, Ednovation tapped on IE Singapore’s Global Company Partnership grant to engage a consultant to create its pre-school franchise programme.*
 
-*Mr Soh [chairman of Kingsmen Creatives] emphasised that every market is different, presenting its own unique opportunities and challenges, but stressed that Kingsmen has always been dedicated to providing the same quality of services the firm has been known for since its establishment.*
+*Dr Yen [founder and managing director of Ednovation] is also grateful for IE’s mission trips that helped to offer a first-hand overview of the cities and regions he was interested in. IE’s well-established government relations also opened new doors and elevated Ednovation’s standing in China.*
 
-[Read more from Enterprise Singapore’s Success Stories.](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Success-Stories/cs/Success-Stories/Exhibiting-a-knack-for-staying-ahead-of-the-curve){:target="_blank"}
+*“We want to pay it forward and broaden our service offerings”, says Dr Yen, “We are now working with IE Singapore to adopt a ‘plug and play’ concept that will enable smaller SME pre-school enrichment companies to tap of Ednovation’s established China network to test the market there.”*
 
-Credit: Enterprise Singapore and Singapore Press Holdings (first published on The Straits Times)
+[Read more from Enterprise Singapore’s Success Stories.](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Success-Stories/cs/Success-Stories/China-makes-way-for-next-level-preschool-education){:target="_blank"}
+
+Credit: Enterprise Singapore
