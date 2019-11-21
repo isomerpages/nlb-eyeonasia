@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Student experience: A fascinating visit to the Yangshan Deepwater Port
+title: Student experience - A fascinating visit to the Yangshan Deepwater Port
 permalink: /china/share/what-young-people-say/yangshan-deepwater-port/
-breadcrumb: Student experience: A fascinating visit to the Yangshan Deepwater Port
+breadcrumb: Student experience - A fascinating visit to the Yangshan Deepwater Port
 collection_name: china-share-youngpeople
 ---
 
