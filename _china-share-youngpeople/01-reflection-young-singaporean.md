@@ -8,7 +8,7 @@ collection_name: china-share-youngpeople
 
 <img src="\images\china-youngpeople\reflection-young-singaporean.jpg" alt="reflection young singaporean.jpg" style="width:800px;" />
 
-This extract is reproduced with permission:
+**This extract is reproduced with permission:**
 
 *It has been an intriguing experience traveling in China thus far, especially given my background as a Chinese Singaporean. In particular, traveling in Xi’an, renowned for its rich history, has stood out for me. … I found myself in an interesting position to question my identity here.*
 
