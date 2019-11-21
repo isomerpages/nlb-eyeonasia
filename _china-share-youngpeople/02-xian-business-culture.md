@@ -6,7 +6,7 @@ breadcrumb: Learning about Xi’an business culture through immersion
 collection_name: china-share-youngpeople
 ---
 
-<img src="\images\china-youngpeople\reflection-young-singaporean.jpg" alt="reflection young singaporean.jpg" style="width:800px;" />
+<img src="\images\china-youngpeople\reflection-young-singaporean.jpg" alt="reflection young singaporean" style="width:800px;" />
 
 **This extract is reproduced with permission**:
 
