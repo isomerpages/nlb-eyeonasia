@@ -287,7 +287,6 @@ What are some of the faster-growing areas in China today that have attracted lar
 				<img src="/images/china-selected/Discovering-Zhejiang-285x300.jpg" alt="Discovering Zhejiang" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-				</div>
 					<h5><b>Discovering Zhejiang</b></h5>
 				</div>
 			</div>
