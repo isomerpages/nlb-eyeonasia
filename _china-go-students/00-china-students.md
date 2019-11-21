@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Overseas internships
-permalink: /asean-countries/go/for-students/overseas-internships/
+permalink: /china/go/for-students/overseas-internships/
 breadcrumb: Overseas internships
-collection_name: asean-go-students
+collection_name: china-go-students
 ---
 
 <img src="\images\asean-students\overseas-internships.jpg" alt="overseas internship banner" style="width:800px;" />
@@ -22,13 +22,9 @@ This programme aims to provide opportunities for young people to gain global exp
 
 There are various internship programmes available at institutes of higher learning for their students. Some are targeted to provide students with experience specific to their respective areas of study.
 
-Institute of Technical Education
 
-The Institute of Technical Education’s Global Education programme exposes students to new skills and perspectives, offering a deeper understanding of the culture and lifestyle of countries beyond Singapore’s shores. Participants are immersed in overseas student exchange programmes, industrial attachments, community service projects as well as cultural visits and sports competitions.
 
-- [Global Education programme](http://www.ite.edu.sg/wps/portal/iteglobal.ge){:target="_blank"}
-
-Nanyang Polytechnic
+<u>Nanyang Polytechnic</u>
 
 - [School of Business Management](http://www.nyp.edu.sg/schools/sbm/internships.html){:target="_blank"}
 - [School of Engineering](http://www.nyp.edu.sg/schools/seg/internships.html){:target="_blank"}
@@ -37,36 +33,31 @@ Nanyang Polytechnic
 - [School of Chemical & Life Sciences](http://www.nyp.edu.sg/schools/scl/internships.html){:target="_blank"}
 - [School of Interactive & Digital Media](http://www.nyp.edu.sg/schools/sidm/internships.html){:target="_blank"}
 
-Ngee Ann Polytechnic
 
-- <https://www.np.edu.sg/studentlife/Pages/default.aspx>{:target="_blank"}
 
-Republic Polytechnic
+<u>Ngee Ann Polytechnic</u>
+
+- Global Entrepreneurial Internship Programme
+
+  GEIP immerses student interns in overseas startup companies.
+
+  <http://www.geip.sg/>{:target="_blank"}
+
+
+
+<u>Republic Polytechnic</u>
 
 - <https://www.rp.edu.sg/going-international/overseas-internships>{:target="_blank"}
 
-Temasek Polytechnic
 
-- <http://www.tp.edu.sg/global-and-industry/student-internship-programme>{:target="_blank"}
 
-Singapore Polytechnic
-
-- [School of Business](http://www.sp.edu.sg/wps/portal/vp-spws/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJDPUxdjdxMTQz8AwNdDDxNwlwtHcNMvA3czPULsh0VAV5IGH0!/?WCM_GLOBAL_CONTEXT){:target="_blank"}
-- [School of Chemical & Life Sciences](http://www.sp.edu.sg/wps/portal/vp-spws/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJDPUxdjdxMTQzcQ8wsDTw9AoMCw5z8DT0MjPQLsh0VATEEXNE!/?WCM_GLOBAL_CONTEXT){:target="_blank"}
-
-Nanyang Technological University
-
-- <http://global.ntu.edu.sg/GMP/Pages/default.aspx>{:target="_blank"}
-
-National University of Singapore
+<u>National University of Singapore</u>
 
 - <http://nus.edu.sg/cfg/students/internships>{:target="_blank"}
 
-Singapore Management University
 
-- <https://admissions.smu.edu.sg/why-smu/global-exposure>{:target="_blank"}
 
-Yale-NUS College
+<u>Singapore Institute of Technology</u>
 
-- <https://cipe.yale-nus.edu.sg/career-services/internships/>{:target="_blank"}
+- <https://www.singaporetech.edu.sg/dual-studies-industry-sponsorship-programme>{:target="_blank"}
 
