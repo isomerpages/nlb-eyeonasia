@@ -1,57 +1,73 @@
 ---
 layout: leftnav-page-content
 title: Awards and other programmes (for students)
-permalink: /asean-countries/go/for-students/awards-for-students/
+permalink: /china/go/for-students/awards-for-students/
 breadcrumb: Awards and other programmes (for students)
-collection_name: asean-go-students
+collection_name: china-go-students
 ---
 
 <img src="\images\asean-students\awards-students.jpg" alt="awards students banner" style="width:800px;" />
 
 ### **Awards**
 
-**International Enterprise Singapore**
 
-The Go Southeast Asia Award offered by International Enterprise Singapore is for undergraduates from local participating universities. It matches students with local companies which are offering overseas internship programmes within Southeast Asia.
 
-[Find out more](https://www.iesingapore.gov.sg/Venture-Overseas/Talent-Development/Go-Southeast-Asia-Award){:target="_blank"}
+##### **National University of Singapore**
 
- 
+- NUS Global Internship Award
 
-**Temasek Foundation International Leadership Enrichment and Regional Networking (LEaRN) Programme**
+This is for enrolled students at the National University of Singapore. The [National University of Singapore (NUS) Global Internship Award](http://nus.edu.sg/cfg/sites/default/files/documents/Financial Support for Global Internships.pdf) provides support for NUS students embarking on NUS-approved internships.
 
-The programme offers awards to students studying in local universities for exchange programmes to Southeast Asia and Asia.
+[Find out more](http://nus.edu.sg/cfg/sites/default/files/documents/Financial Support for Global Internships.pdf){:target="_blank"}
 
-Nanyang Technological University
+- China Initiatives Steering Committee (CISC) Funding – National University of Singapore
 
-- [Find out more](http://global.ntu.edu.sg/GMP/gemexplorer/BeforeApplying/ScholarshipsFunding/Pages/TFLEaRN.aspx){:target="_blank"}
+This funding is available for students participating in internships, hybrid work and study programmes, research attachments, short-term study programmes or Study Trips for Engagement and Enrichment (STEER) programmes in China.
 
-National University of Singapore
+[Find out more](http://www.nus.edu.sg/iro/fa/sch/out/cisc.html){:target="_blank"}
 
-- [Find out more](http://www.nus.edu.sg/iro/fa/sch/out/tfilearn-out.html){:target="_blank"}
 
-Singapore Management University
 
-- [Find out more](https://www.smu.edu.sg/about/financial/scholarships/TFLEaRN){:target="_blank"}
+##### Singapore University of Social Sciences (SUSS)– Singapore Federation of Chinese Clan Association (SFFCA)
 
-Singapore University of Technology and Design
+- SUSS-SFCCA Sponsorship
 
-- [Find out more](https://sutd.edu.sg/Admissions/Undergraduate/Scholarship/Application-for-scholarships/Temasek-Foundation-Leadership-Enrichment-and-Regio){:target="_blank"}
+This sponsorship award aims to encourage lifelong learning and to nurture a bilingual and bi-cultural workforce, and is targeted at applicants undertaking selected undergraduate programmes at SUSS.
 
- 
+[Find out more](http://www.sfcca.sg/en/scholarship/unisim){:target="_blank"}
 
-### **Other programmes**
 
-**Singapore International Foundation**
 
-The Singapore International Foundation’s Arts for Good initiative aims to bring Singaporean artists and their international counterparts together to promote awareness of social issues, share best practices and enable action for positive impact.
+##### Singapore Federation of Chinese Clan Associations
 
-[Find out more](https://www.sif.org.sg/our-work/ce/afg/about){:target="_blank"}
+- SFCCA Scholarship
 
- 
+To foster bilingual and bicultural talents, this scholarship will be awarded annually to five outstanding students pursuing their studies in top-ranking Chinese universities to finance their studies and living expenses.
 
-**Projects Abroad**
+[Find out more](http://www.sfcca.sg/en/scholarship/sfccascholarship){:target="_blank"}
 
-Founded in 1992, Projects Abroad is an international volunteering organisation with headquarters in the United Kingdom and offices as well as projects in over 50 countries around the world. Since 1992, it has sent over 100,000 people to 38 countries for voluntary and internship work. Check out their website which highlights opportunities for people of all ages, from students to professionals and even retirees to volunteer and intern in a diverse range of projects in Asia.
 
-[Find out more](https://www.projects-abroad.org/volunteer-destinations/intern-in-asia/){:target="_blank"}
+
+### Other programmes
+
+###### **Business China Singapore – Go East**
+
+This initiative is targeted at Singapore students, particularly those in Institutes of Higher Learning. It aims to expose them to the changing face of Chinese society and help them gain ground experience working and living in China.
+
+- [Find out more](http://www.businesschina.org.sg/en.php/initiatives/goeast){:target="_blank"}
+
+
+
+###### **Business China Singapore Youth Chapter (BCYC)**
+
+Supported by Business China Singapore, the Business China Singapore Youth Chapter (BCYC) is a voluntary group of youths formed in 2010, which envisions itself to be the leading Singapore-based community that inspires youths to become China-savvy and facilitates connections with China. It has a vibrant calendar of year-round activities which serve the needs of the BCYC community.
+
+- [Find out more](https://www.businesschina.org.sg/en.php/initiatives/goeast/programmes/15){:target="_blank"}
+
+
+
+###### **Singapore Valley Awards (SVA)**
+
+This is an annual entrepreneurship award that offers students with the most compelling business ideas a fully sponsored internship in China with world-leading technology companies and venture capital firms in China. It is open to all full-time undergraduates, preferably in their third or fourth year, in any programme of study, matriculated in any local university.
+
+- [Find out more](http://www.singaporevalleyawards.com/index.html){:target="_blank"}
