@@ -22,25 +22,25 @@ This award provides opportunities to deepen essential skill-sets to navigate and
 
 **Enterprise Singapore**
 
-- ###### **China Ready Programme**
+- **China Ready Programme**
 
 If you are keen to develop in-market knowledge or are preparing to launch a new product in China, this 12-day in-market programme will equip participants with market insights from industry experts and market mentors.
 
 [Find out more](https://www.np.edu.sg/lifelonglearning/Pages/criag.aspx){:target="_blank"}
 
-- ###### **International Business Fellowship** **Executive Programme**
+- **International Business Fellowship** **Executive Programme**
 
 These are a series of short term programmes for middle and top management to gain market knowledge and build business networks.
 
 [Find out more](https://ie.enterprisesg.gov.sg/Assistance/Global-Company-Partnership/Manpower-Development/International-Business-Fellowship-Executive-Programme){:target="_blank"}
 
-- ###### Plug & Play Network
+- **Plug & Play Network**
 
 Tap on the Enterprise Singapore’s network of partners to expand your local business into China with useful resources on market research, business matching and co-working space providers.
 
 [Find out more](https://ie.enterprisesg.gov.sg/Assistance/ppn){:target="_blank"}
 
-- ###### **Overseas Market Workshops**
+- **Overseas Market Workshops**
 
 These workshops help individuals build regional market understanding through knowledge sharing and networking with local and foreign practitioners, business owners and market experts.
 
@@ -50,7 +50,7 @@ These workshops help individuals build regional market understanding through kno
 
 **Business China Singapore and Nanyang Business School**
 
-- ###### **Future China Advanced Leaders Programme**
+- **Future China Advanced Leaders Programme**
 
 This programme prepares individuals and organisations to be China-savvy and China-ready, thereby enhancing their business profiles to advance internationally.
 
@@ -60,7 +60,7 @@ This programme prepares individuals and organisations to be China-savvy and Chin
 
 **Business China Singapore and and Ngee Ann Polytechnic**
 
-- ###### **China-Ready: Insights into Asia’s Economic Giant**
+- **China-Ready: Insights into Asia’s Economic Giant**
 
 This programme allows individuals to gain an understanding of how key markets of China provide Singapore companies with opportunities for internationalisation.
 
@@ -70,7 +70,7 @@ This programme allows individuals to gain an understanding of how key markets of
 
 **Ngee Ann Polytechnic CET Academy**
 
-- ###### **Travel & Learn Programme**
+- **Travel & Learn Programme**
 
 Network with seasoned entrepreneurs, hear insider business viewpoints and visit local incubators. These are among the experiences on offer in the Travel & Learn Programme, a flagship initiative of Ngee Ann Polytechnic.
 
@@ -82,7 +82,7 @@ The Travel & Learn Programme which was first launched in March 2017, helps busin
 
 **Singapore University of Social Sciences**
 
-- ###### **Overseas Study Mission**
+- **Overseas Study Mission**
 
 Participants will attend academic seminars in Singapore to gain a better understanding of China, followed by a study mission trip. The programme provides participants with an understanding of the economic, political, historical and cultural characteristics of China.
 

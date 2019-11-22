@@ -18,7 +18,7 @@ Through a series of diploma, language and customised programmes, individuals wil
 
  
 
-### Singapore Chinese Chamber Institute of Business
+### **Singapore Chinese Chamber Institute of Business**
 
 Individuals can learn Business Mandarin and acquire a good understanding of the business culture in China.
 
