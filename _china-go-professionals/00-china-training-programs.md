@@ -23,3 +23,4 @@ Through a series of diploma, language and customised programmes, individuals wil
 Individuals can learn Business Mandarin and acquire a good understanding of the business culture in China.
 
 [Find out more](http://www.scciob.edu.sg/index.cfm?GPID=565){:target="_blank"}
+
