@@ -15,7 +15,7 @@ India is a diverse and vibrant nation that is home to the world’s second-large
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china"><img src="/images/asean-countries/Know-Test-1.jpg" alt="Know ASEAN Countries"></a>
+			<a href="/india/know/overview-of-india/"><img src="/images/asean-countries/Know-Test-1.jpg" alt="Know ASEAN Countries"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/india/share/what-young-people-say/"><img src="/images/asean-countries/Share-Test-1.jpg" alt="Share ASEAN Countries"></a>
