@@ -1,14 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Discovering India’s history
-permalink: /india/know/overview-of-india/discovering-india-history/
-breadcrumb: Discovering India’s history
+title: India’s influential young
+permalink: /india/know/overview-of-india/influential-young/
+breadcrumb: India’s influential young
 collection_name: india-know-overview
 ---
 
-<img src="\images\india-overview\discovering-india-history.jpg" alt="discovering india history" style="width:800px;" />
+<img src="\images\india-overview\influential-young.jpg" alt="influential young" style="width:800px;" />
 
-This is a selection of resources on discovering India’s history available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on India’s influential young available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
 
 ### **NLB print and digital resources**
 
