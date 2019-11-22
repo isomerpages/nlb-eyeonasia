@@ -14,7 +14,7 @@ Planning a career in ASEAN? Check out the programmes and opportunities available
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/share/what-employers-say/eu-yan-sang/" class="project-link">
+			<a href="/china/go/for-professionals/training-programmes/" class="project-link">
 				<img src="/images/china-professionals/Training-programmes-1-370x150.jpg" alt="Training programmes" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ Planning a career in ASEAN? Check out the programmes and opportunities available
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/share/what-employers-say/pico-art/" class="project-link">
+			<a href="/china/go/for-professionals/awards-professionals/" class="project-link">
 				<img src="/images/china-professionals/Awards-and-other-programmes-students-370x150.jpg" alt="Awards and other programmes (for young professionals)" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
