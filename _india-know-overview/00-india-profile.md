@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: India - A profile
 permalink: /india/know/overview-of-india/india-profile/
 breadcrumb: India - A profile
-collection_name: India-know-overview
+collection_name: india-know-overview
 ---
 
 <img src="\images\india-overview\india-profile.jpg" alt="india profile" style="width:800px;" />
