@@ -39,7 +39,7 @@ India’s GDP growth slowed from eight percent in FY 2015/16 to 7.1 percent in F
 
 ### **Consumer market**
 
-<img src="/images/india-overview/india-profile-chart-1.png" style="width:550px;" />
+<img src="/images/india-overview/india-profile-chart-1.png" style="width:600px;" />
 
 India has a large consumer market that offers abundant opportunities. It is set to become the world’s fifth largest consumer market worth around US$1.5 trillion by 2025. According to the Boston Consulting Group, India’s consumption expenditures is “expected to rise by a factor of three to reach US$4 trillion by 2025”. India’s nominal year-over-year expenditure growth of 12 percent is more than double the anticipated global rate of five percent and will make India the third-largest consumer market by 2025.” This growth is largely driven by rising affluence, with the number of those joining the elite and affluent segments of society expected to increase from eight percent in 2016 to 16 percent in 2025.[^18]
 
@@ -55,7 +55,7 @@ India is open to help from international partners, including private participati
 
 ### **India-Singapore economic relations**
 
-<img src="/images/india-overview/india-profile-chart-2.png" style="width:250px;" />
+<img src="/images/india-overview/india-profile-chart-2.png" style="width:300px;" />
 
 In 2005, the India-Singapore Comprehensive Economic Cooperation Agreement (CECA) was signed.[^26] This agreement covers tariff reduction/elimination for 82 percent of Singapore’s domestic exports.[^27]
 
