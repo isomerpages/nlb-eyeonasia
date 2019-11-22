@@ -72,6 +72,14 @@ collections:
     output: true
   india:
     output: true
+  india-know-overview:
+    output: true
+  india-know-selected:
+    output: true
+  india-know-living:
+    output: true
+  india-know-working:
+    output: true
     
 
 # Resource Room and Pagination
