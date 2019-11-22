@@ -22,8 +22,7 @@ Connect with fellow Singaporeans based in ASEAN countries through these clubs, a
 - [Singapore Missions in ASEAN countries](#singapore-missions-in-asean-countries)
 
 <hr/>
-
-### Brunei
+### **Brunei**
 #### Singaporean expatriates in Brunei
 
 This website enables Singaporeans living and working in Brunei to connect and get in touch with other fellow Singaporeans based in the country.
@@ -31,15 +30,13 @@ This website enables Singaporeans living and working in Brunei to connect and ge
 [http://www.expat.com/en/nationalities/singaporean/in/asia/brunei/](http://www.expat.com/en/nationalities/singaporean/in/asia/brunei/){:target="_blank"}
 
 <hr/>
-
-### Cambodia
+### **Cambodia**
 The Singapore Club Cambodia based in Phnom Penh is a social club that aims to connect and reach out to Singaporeans living or working in Cambodia. To foster closer ties among Singaporean families in Cambodia, the club organises major events each year to celebrate Lunar New Year, National Day, Mid-Autumn Festival, Christmas and Family Day. The club also organises “Shiok Night” on the first Friday of every month for entrepreneurs, the Singaporean business community as well as non-Singaporeans to network and interact socially.
 
 [http://www.singaporeclubcambodia.com/](http://www.singaporeclubcambodia.com/){:target="_blank"}
 
 <hr/>
-
-### Indonesia
+### **Indonesia**
 
 #### Singapore Chamber of Commerce Indonesia
 
@@ -63,8 +60,7 @@ Set up by NUS Enterprise in partnership with Salim Group, BLOCK71 Jakarta is an 
 [http://jakarta.block71.co/](http://jakarta.block71.co/){:target="_blank"}
 
 <hr/>
-
-### Malaysia
+### **Malaysia**
 #### International Enterprise Singapore Overseas Overseas Centre in Malaysia
 
 The International Enterprise Singapore’s Overseas Centre in Kuala Lumpur provides assistance to Singaporean companies that wish to venture into Malaysia or are already operating from there.
@@ -72,8 +68,7 @@ The International Enterprise Singapore’s Overseas Centre in Kuala Lumpur provi
 [https://www.iesingapore.gov.sg/Contact-Info/Global-Networks](https://www.iesingapore.gov.sg/Contact-Info/Global-Networks){:target="_blank"}
 
 <hr/>
-
-### Myanmar
+### **Myanmar**
 #### International Enterprise Singapore Overseas Centre in Myanmar
 
 The International Enterprise Singapore’s Overseas Centre in Yangon provides assistance to Singaporean companies that wish to venture into Myanmar or are already operating from there.
@@ -100,8 +95,7 @@ The Singapore Management University’s alumni chapter established in Yangon hel
 [https://www.smuaa.org.sg/alumni-leaders/](https://www.smuaa.org.sg/alumni-leaders/){:target="_blank"}
 
 <hr/>
-
-### Philippines
+### **Philippines**
 #### International Enterprise Singapore Overseas Centre in the Philippines
 
 The International Enterprise Singapore’s Overseas Centre in Manila provides assistance to Singaporean companies that wish to venture into the Philippines or are already operating from there.
@@ -122,8 +116,7 @@ The Singapore Ladies Club Philippines is an informal social network for Singapor
 Facebook page: [https://www.facebook.com/SingaporeLadiesClubPhilippines/](https://www.facebook.com/SingaporeLadiesClubPhilippines/){:target="_blank"}
 
 <hr/>
-
-### Thailand
+### **Thailand**
 #### International Enterprise Singapore Overseas Centre in Thailand
 
 The International Enterprise Singapore’s Overseas Centre in Bangkok provides assistance to Singaporean companies that wish to venture into Thailand or are already operating from there.
@@ -149,8 +142,7 @@ The association serves as a central resource for the Nanyang Technological Unive
 [http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/Pages/Thailand.aspx](http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/Pages/Thailand.aspx){:target="_blank"}
 
 <hr/>
-
-### Vietnam
+### **Vietnam**
 #### International Enterprise Singapore Overseas Centre in Vietnam
 
 The International Enterprise Singapore’s Overseas Centres in Hanoi and Ho Chi Minh City provide assistance to Singaporean companies that wish to venture into Vietnam or are already operating from there.
@@ -177,8 +169,7 @@ VietCham Singapore supports the Vietnamese and Vietnam-related business communit
 [https://www.vietchamsg.org](https://www.vietchamsg.org){:target="_blank"}
 
 <hr/>
-
-### Singapore Missions in ASEAN countries
+### **Singapore Missions in ASEAN countries**
 
 We have listed the contact details of the Singapore Missions in ASEAN countries in the table below.
 
