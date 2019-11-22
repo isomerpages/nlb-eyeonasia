@@ -20,7 +20,7 @@ This award provides opportunities to deepen essential skill-sets to navigate and
 
 ### **Other programmes**
 
-**Enterprise Singapore**
+##### **Enterprise Singapore**
 
 - **China Ready Programme**
 
@@ -48,7 +48,7 @@ These workshops help individuals build regional market understanding through kno
 
  
 
-**Business China Singapore and Nanyang Business School**
+##### **Business China Singapore and Nanyang Business School**
 
 - **Future China Advanced Leaders Programme**
 
@@ -58,7 +58,7 @@ This programme prepares individuals and organisations to be China-savvy and Chin
 
  
 
-**Business China Singapore and and Ngee Ann Polytechnic**
+##### **Business China Singapore and and Ngee Ann Polytechnic**
 
 - **China-Ready: Insights into Asia’s Economic Giant**
 
@@ -68,7 +68,7 @@ This programme allows individuals to gain an understanding of how key markets of
 
  
 
-**Ngee Ann Polytechnic CET Academy**
+##### **Ngee Ann Polytechnic CET Academy**
 
 - **Travel & Learn Programme**
 
@@ -80,7 +80,7 @@ The Travel & Learn Programme which was first launched in March 2017, helps busin
 
  
 
-**Singapore University of Social Sciences**
+##### **Singapore University of Social Sciences**
 
 - **Overseas Study Mission**
 
