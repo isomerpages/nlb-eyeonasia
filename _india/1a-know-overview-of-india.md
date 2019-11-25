@@ -14,7 +14,7 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/go/for-students/overseas-internships/" class="project-link">
+			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
 				<img src="/images/india-overview/India-A-country-profile-2-370x150.jpg" alt="India: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/go/for-students/international-exchange-programmes/" class="project-link">
+			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
 				<img src="/images/india-overview/Regional-Newspapers-1-370x150.jpg" alt="Regional newspapers" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -34,7 +34,7 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/go/for-students/awards-for-students/" class="project-link">
+			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
 				<img src="/images/india-overview/Understanding-India-370x150.jpg" alt="Understanding India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -51,7 +51,7 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/go/for-students/overseas-internships/" class="project-link">
+			<a href="/india/know/overview-of-india/discovering-india-history/" class="project-link">
 				<img src="/images/india-overview/Discovering-Indias-history-370x150.jpg" alt="Discovering India's history" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -61,7 +61,7 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/go/for-students/international-exchange-programmes/" class="project-link">
+			<a href="/india/know/overview-of-india/influential-young/" class="project-link">
 				<img src="/images/india-overview/Indias-influential-young-2-370x150.jpg" alt="India's influential young" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
