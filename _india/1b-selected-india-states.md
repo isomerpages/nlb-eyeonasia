@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Selected Indian States
-permalink: /india/know/selected-indian-state/
-breadcrumb: Selected Indian States
+title: Selected India States
+permalink: /india/know/selected-india-states/
+breadcrumb: Selected India States
 collection_name: india
 second_nav_title: "Know"
 ---
