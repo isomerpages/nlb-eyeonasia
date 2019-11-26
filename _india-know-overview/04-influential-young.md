@@ -12,84 +12,50 @@ This is a selection of resources on India’s influential young available from t
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-rediscovery-of-India.jpg" style="width:150px;" />
-
-[**The rediscovery of India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13372721){:target="_blank"}
-
-This book looks at India’s journey into the 21st century. It covers topics such as India’s commitment to the democratic process and the liberalisation of its economy.
-
-All rights reserved, Allen Lane, an imprint of Penguin Books, 2009.
-
-<img src="/images/book-covers/The-story-of-India.jpg" style="width:150px;" />
-
-[**The story of India**](https://nlb.overdrive.com/media/2201713){:target="_blank"}
-
-This book delves into India’s history, culture and famous personalities. It also shows how Indian ideas and inventions have shaped world history, and how ancient Indian conclusions about the nature of civilisations are still relevant today.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/book-covers/India-A-short-history.jpg" style="width:150px;" />
-
-[**India: A short history**](https://nlb.overdrive.com/media/1940023){:target="_blank"}
-
-This book takes the reader through India’s history, from the time of the early Indus Valley civilisation from 2600 to1900 BCE to becoming the world’s largest democracy in contemporary times.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/book-covers/India-A-wounded-civilization.jpg" style="width:150px;" />
-
-[**India: A wounded civilization**](https://nlb.overdrive.com/media/507447){:target="_blank"}
-
-Author V. S. Naipaul returned to India, the land of his ancestors, in 1975. Drawing from the time he spent there, Naipaul wrote this novel about a society that went through centuries of imperialism and is trapped in a mythical past.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/book-covers/Imagining-India-The-idea-of-a-nation-renewed.jpg" style="width:150px;" />
-
-[**Imagining India: The idea of a nation renewed**](https://nlb.overdrive.com/media/224561){:target="_blank"}
-
-What are the main ideas that have impacted India’s past and present? In this regard, how will India, as a global power, avoid the mistakes encountered in earlier development models? The author, Nandan Nilekani, a co-founder of Infosys, addresses these questions and discusses India’s future and its role in the world.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
 <img src="/images/book-covers/India-rising-Tales-from-a-changing-nation.jpg" style="width:150px;" />
 
 [**India rising: Tales from a changing nation**](https://nlb.overdrive.com/media/863969){:target="_blank"}
 
-Formerly a “lumbering elephant of Asia”, India’s economy is growing fast. What are the factors contributing to India’s rise? What makes the country tick? This book describes how India’s progress into the 21st century, while filled with tensions and uncertainties, is full of hope and optimism. With over 500 million Indians below the age of 25, the country’s future will be determined by its youth.
+Formerly a “lumbering elephant of Asia”, India’s economy is now growing fast. What are the factors contributing to India’s rise? This book describes how India’s progress in the 21st century, while filled with tension and uncertainties, is full of hope and optimism. With over 500 million Indians below the age of 25, the country’s future lies in the hands of its youth.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+
+<img src="/images/book-covers/The-end-of-karma-Hope-and-fury-among-India’s-young.jpg" style="width:150px;" />
+
+[**The end of karma: Hope and fury among India’s young**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202464403){:target="_blank"}
+
+This book explores India through the eyes of young people from different parts of India, such as a Maoist rebel and a brother who killed his sister for marrying the “wrong man.” Young people like these, “driven by inspiration – and thwarted at every step by state and society” are “making new demands on India’s democracy for equality in terms of opportunities, dignity for girls and civil liberties.”
+
+All rights reserved, W. W. Norton and Company, 2016.
+
+<img src="/images/book-covers/The-Modi-effect-Inside-Narendra-Modi’s-campaign-to-transform-India.jpg" style="width:150px;" />
+
+[**The Modi effect: Inside Narendra Modi’s campaign to transform India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202849795){:target="_blank"}
+
+When Narendra Modi went to the polls in 2014, his team used social media, the Internet, mobile devices and digital technologies extensively. Given India’s size, it was impossible for Modi to visit every city and village. The solution was to create a life-size hologram of him. Such pioneering techniques brought millions of young people to the polling stations and helped bring Modi to power.
+
+All rights reserved, London: Hodder & Stoughton, 2016.
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**An empirical study exploring factors influencing tweenagers’s purchase intention**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+As Indian children are increasingly recognised as an independent consumer group that can influence family spending, marketers need to understand them better if they want to have a slice of the pie.
+
+Retrieved from EBSCOhost Academic Search Primer. *myLibrary* ID is required to access this database
 
 ---
 
 ### **You may also like**
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bGieu3B-F-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-**Indian economy: Past, present and future**
+[**India consumer close-up: Tapping the spending power of a young, connected urban mass**](http://www.goldmansachs.com/our-thinking/pages/macroeconomic-insights-folder/rise-of-the-india-consumer/report.pdf){:target="_blank"}
 
-This video looks at the economic history of India after gaining independence in 1947. It looks at the factors that influenced earlier economic policies and its development into one of the world’s fastest-growing and largest economies. It also looks at what the future holds for the country.
+“With a young, tech-savvy population, improved education and rapid growth,” India’s consumer market “is deeply tied into mobility and connectivity.” This report proposes that the greatest opportunities in India lie in its emerging urban mass and explores how this can create opportunities in a range of goods and services.
 
-Source: Charging Point
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QdePQJJNlcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[**The rising connected consumer in rural India**](http://img-stg.bcg.com/BCG-The-Rising-Connected-Consumer-in-Rural-India-July-2016_tcm9-61868.pdf){:target="_blank"}
 
-**History of India in 10 minutes**
-
-This video outlines the history of India from the Indus Valley civilisations to the first Indian to land on the moon. It also traces the rise and fall of the various empires that have ruled India over the years, up to the post-independence period.
-
-Source: Knowledgia
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MjISa9_wYLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-**India rising**
-
-After independence, India adopted a socialist economic model. In the 1990s, however, India reformed its economy; after some initial difficulties, its economy is now growing, turning India into a major economic power.
-
-Source: Foreign Policy Association
+The number of connected consumers in rural parts of India is expected to increase from 120 million in 2015 to almost 315 million in 2020. This report examines the various categories of users, including those between the ages of 18 and 50, how they use the Internet; and how the web is influencing rural commerce.

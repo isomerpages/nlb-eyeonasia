@@ -28,7 +28,7 @@ This title captures the historical evaluation of banking reforms and structural 
 
 All rights reserved, Cham, Switzerland: Palgrave Macmillan, 2017.
 
-<img src="/images/book-covers/Banking-reforms-in-India-Consolidation-restructuring-and-performance.png" style="width:150px;" />
+<img src="/images/book-covers/India-Priorities-for-the-future.jpg" style="width:150px;" />
 
 [**India: Priorities for the future**](https://nlb.overdrive.com/media/3425293){:target="_blank"}
 
@@ -36,7 +36,7 @@ In the last four decades, India’s economy has transitioned from a strictly reg
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/Banking-reforms-in-India-Consolidation-restructuring-and-performance.png" style="width:150px;" />
+<img src="/images/book-covers/ASEAN-PRC-and-India-The-great-transformation.png" style="width:150px;" />
 
 [**ASEAN, PRC, and India: The great transformation**](https://nlb.overdrive.com/media/BCDFD0AB-DFE0-4F49-8417-5836DCF41DEF){:target="_blank"}
 
