@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Andhra Pradesh: A profile
+title: Andhra Pradesh - A profile
 permalink: /india/know/selected-india-states/andhra-pradesh-profile/
-breadcrumb: Andhra Pradesh: A profile
+breadcrumb: Andhra Pradesh - A profile
 collection_name: india-know-selected
 ---
 
