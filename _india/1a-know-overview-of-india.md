@@ -71,7 +71,7 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/go/for-students/awards-for-students/" class="project-link">
+			<a href="/india/know/overview-of-india/learning-about-transformation/" class="project-link">
 				<img src="/images/india-overview/Learning-about-Indias-transformation-2-370x150.jpg" alt="Learning about India's transformation" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
