@@ -41,7 +41,7 @@ Andhra Pradesh’s literacy rate in 2011 increased from 62.07 percent in 2001 to
 
 ### **Economy profile**
 
- Andhra Pradesh’s economy grew 15.86 percent in 2016–2017. It achieved Rs 695,491 crores in 2017 compared to the Rs 600,298 crores recorded in the previous year. Its per capita income grew 15.28 percent from Rs 107,276 in 2015–2016 to Rs 123,664 in 2016–2017.[^13]
+Andhra Pradesh’s economy grew 15.86 percent in 2016–2017. It achieved Rs 695,491 crores in 2017 compared to the Rs 600,298 crores recorded in the previous year. Its per capita income grew 15.28 percent from Rs 107,276 in 2015–2016 to Rs 123,664 in 2016–2017.[^13]
 
 
 
