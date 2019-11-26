@@ -28,7 +28,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/india-employers/Riding-the-digital-India-wave-with-Shopmatic-and-Shopmonk-370x150.jpg" alt="Riding the digital India wave with Shopmatic and Shopmonk" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Riding the digital India wave with Shopmatic and Shopmonk</b></h5>
+					<h5><b>Riding the digital India wave with Shopmatic and...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -38,7 +38,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/india-employers/Shopmatic-370x150.jpg" alt="Shopmatic discovers the key to unlocking India’s consumer..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Shopmatic discovers the key to unlocking India’s consumer...</b></h5>
+					<h5><b>Shopmatic discovers the key to unlocking India's...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -55,7 +55,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/india-employers/The-Hubs-Group-370x150.jpg" alt="The Hub’s Group: Top tips from a Singapore company..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>The Hub’s Group: Top tips from a Singapore company...</b></h5>
+					<h5><b>The Hub’s Group: Top tips from a Singapore...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -65,7 +65,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/india-employers/SgGoesGlobal-Webinar-Riding-the-Digital-India-Wave-2-370x150.jpg" alt="Watch – #SgGoesGlobal: Riding the Digital India Wave webinar" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Watch – #SgGoesGlobal: Riding the Digital India Wave webinar</b></h5>
+					<h5><b>Watch – #SgGoesGlobal: Riding the Digital India...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -75,7 +75,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/india-employers/Watch-–-91SpringBoard-370x150.jpg" alt="Watch – 91SpringBoard: What does a Singapore company..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Watch – 91SpringBoard: What does a Singapore company...</b></h5>
+					<h5><b>Watch – 91SpringBoard: What does a Singapore...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -92,7 +92,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/india-employers/Why-India’s-GST-implementation-is-a-boost-for-Singapore-companies-370x150.jpg" alt="Why India’s GST implementation is a boost for..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Why India’s GST implementation is a boost for...</b></h5>
+					<h5><b>Why India’s GST implementation is a boost...</b></h5>
 				</div>
 			</div>
 			</a>
