@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Discovering Andhra Pradesh
 permalink: /india/know/selected-india-states/andhra-pradesh-guide/
 breadcrumb: Discovering Andhra Pradesh
-collection_name: china-know-selected
+collection_name: india-know-selected
 ---
 
 <img src="\images\china-selected\chongqing-guide.jpg" alt="chongqing guide banner" style="width:800px;" />
