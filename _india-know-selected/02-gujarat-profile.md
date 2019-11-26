@@ -25,7 +25,7 @@ This article provides an overview of Gujarat for those keen on exploring the pos
 
 ### **Introduction**
 
- The Indian state of Gujarat is located on the country’s western coast, along the Arabian Sea. It encompasses the entire Kathiawar Peninsula as well as the surrounding area on the mainland. The state is bounded by Pakistan to the northwest and by the Indian states of Rajasthan to the north, Madhya Pradesh to the east and Maharashtra to the southeast. The coastline of Gujarat spans 1,596 km and no part of the state is more than 160 km from the sea. The capital is Gandhinagar, located on the outskirts of the north-central city of Ahmedabad. The largest city in the state and former capital of Gujarat, Ahmedabad is one of the most important textile centres in India.[^9]
+The Indian state of Gujarat is located on the country’s western coast, along the Arabian Sea. It encompasses the entire Kathiawar Peninsula as well as the surrounding area on the mainland. The state is bounded by Pakistan to the northwest and by the Indian states of Rajasthan to the north, Madhya Pradesh to the east and Maharashtra to the southeast. The coastline of Gujarat spans 1,596 km and no part of the state is more than 160 km from the sea. The capital is Gandhinagar, located on the outskirts of the north-central city of Ahmedabad. The largest city in the state and former capital of Gujarat, Ahmedabad is one of the most important textile centres in India.[^9]
 
 
 

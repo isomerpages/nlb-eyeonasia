@@ -6,7 +6,7 @@ breadcrumb: Discovering Gujarat
 collection_name: india-know-selected
 ---
 
-<img src="\images\india-selected\andhra-pradesh-guide.jpg" alt="andhra pradesh guide" style="width:800px;" />
+<img src="\images\india-selected\gujarat-guide.jpg" alt="gujarat guide" style="width:800px;" />
 
 This is a selection of resources on Gujarat available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
 
