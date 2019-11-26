@@ -6,74 +6,68 @@ breadcrumb: Discovering Andhra Pradesh
 collection_name: india-know-selected
 ---
 
-<img src="\images\china-selected\chongqing-guide.jpg" alt="chongqing guide banner" style="width:800px;" />
+<img src="\images\india-selected\andhra-pradesh-guide.jpg" alt="andhra pradesh guide" style="width:800px;" />
 
-This is a selection of resources on Chongqing available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Andhra Pradesh available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Annual-analysis-of-competitiveness-simulation-studies-and-development-perspective-for-34-greater-China-economies-2000-2010.jpg" style="width:150px;" />
+<img src="/images/book-covers/The-making-of-miracles-in-Indian-states-Andhra-Pradesh-Bihar-and-Gujarat.jpg" style="width:150px;" />
 
-[**Annual analysis of competitiveness, simulation studies and development perspective for 34 greater China economies: 2000-2010**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200190651){:target="_blank"}
+[**The making of miracles in Indian states: Andhra Pradesh, Bihar, and Gujarat**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202665108){:target="_blank"}
 
-Learn about the challenges, opportunities and development strategies of Chongqing (see Chapter Four), which outlines its major economic sectors and activities, infrastructure, official policies and competitiveness rankings from 2000 to 2010 among China’s 34 greater economies.
+Andhra Pradesh is one of three Indian states that have shown miracle levels of growth in the 21st century. Find out more about how Andhra Pradesh achieved this, in particular the impact of good and effective leadership quality in improving the growth outcomes.
 
-All rights reserved, Singapore: World Scientific Publishing, 2014.
+All rights reserved, Oxford: Oxford University Press, 2015.
 
-<img src="/images/book-covers/Yuzhong-District-Chongqing-investors-guide-The-Foreign-Trade-Economic-Relations-Bureau.png" style="width:150px;" />
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Yuzhong District Chongqing investors’ guide: The Foreign Trade & Economic Relations Bureau**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201112501){:target="_blank"}
+[**Eyeing capital gains**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
 
-Chongqing Yuzhou District is the central district of the Chongqing Municipality. This guide provides information on its commerce, finance, cultural and investment areas.
+Explore the building of Amaravati as Andhra Pradesh’s new capital city. Read about Singapore’s involvement in developing a masterplan for the city, and the financial challenges faced by the Indian state.
 
-All rights reserved, Yuzhong District Chongqing: Foreign Trade & Economic Relations Bureau, Yuzhong District of Chongqing, 2011.
-
-<img src="/images/book-covers/The-Singapore-Chongqing-government-to-government-project.png" style="width:150px;" />
-
-[**The Singapore-Chongqing government-to-government project**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202508419){:target="_blank"}
-
-This publication highlights the Chongqing Connectivity Initiative, one of three government-to-government level projects between Singapore and China. The project will focus on developing infrastructure for a logistics platform and a southern trade corridor that will leverage on Chongqing’s existing rail linkages to Europe.
-
-All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2016.
+Retrieved from EBSCOhost Business Source Complete. *myLibrary* ID is required to access this database.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**Are rural residents’ mental health influenced by the new countryside construction? An investigation in Chongqing, China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Eco-tourism dimensions and directions in India: An empirical study of Andhra Pradesh**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
 
-The Chinese government launched the “New Countryside Construction” (NCC) programme in the mid-2000s to improve the living conditions in rural regions. This paper analyses the effect of the implementation of NCC on the mental health of rural residents in 10 villages in Chongqing, southwest China. Findings revealed that the resultant infrastructure development and new housing opportunities yielded under the NCC scheme significantly improved the mental health of rural residents.
+This study defines eco-tourism as “responsible travel to natural areas that conserves the environment and improves the well-being of local people.” It examines the dimensions of eco-tourism services in Maredumilli, an eco-tourist spot located in the East Godavari district of Andhra Pradesh. It also discusses the future prospects of eco-tourism in Andhra Pradesh; and how eco-tourism in the state can be encouraged.
 
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
+Retrieved from EBSCOhost Business Source Complete. *myLibrary* ID is required to access this database.
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**Building smart cities in India: Allahabad, Ajmer and Visakhapatnam**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+Using Visakhapatnam as one of the examples, this report looks at the fundamental pillars that define smart cities in India and highlights governance challenges, infrastructure gaps, institutional arrangements, and financial tools that policymakers must consider to achieve their local ambitions. Read more about the policy recommendations that can help Indian cities design smart cities plans, improve their implementation, and build their economies.
+
+Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
 
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Socio economic survey 2017–18**](http://www.ap.gov.in/wp-content/uploads/2018/03/Socio-Economical-Survey-2017-18.pdf){:target="_blank"}
+
+This report by the Government of Andhra Pradesh presents the socio-economic changes that take place throughout the financial year. Take a look at the growth performance of the state’s economy and its progress in various key macro-economic aggregates.
+
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Chongqing Municipal Government**](http://en.cq.gov.cn/index.shtml){:target="_blank"}
+[**Scaling new heights: Vizag-Chennai industrial corridor**](https://www.adb.org/sites/default/files/publication/183392/scaling-new-heights-ind.pdf){:target="_blank"}
 
-This is the official website of the city of Chongqing and contains government-related information as well as resources for local residents, visitors and businesses.
-
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
-
-[**China (Chongqing) Pilot Free Trade Zone**](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/China-Chongqing-Pilot-Free-Trade-Zone/ff/en/1/1X000000/1X0A9NGN.htm){:target="_blank"}
-
-Officially launched on 1 April 2017, the *Chongqing Pilot Free Trade Zone* forms part of the third batch of government-endorsed *Pilot Free Trade Zones*. *China (Chongqing) Pilot Free Trade Zone* is a research report by professional economists from the Hong Kong Trade Development Council.
+The Vizag–Chennai Industrial Corridor (VCIC) is the first phase of India’s first coastal economic corridor, the East Coast Economic Corridor (ECEC). It spans more than 800 kilometres along India’s eastern coastline and “holds the promise of becoming one of the key drivers of economic growth in India.” Find out more about coastal economic corridor project, its potential, how it aligns with the government’s Make in India and Sagarmala (port-based development) initiatives and the future direction for VCIC.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Chongqing: Market profile**](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Chongqing-Market-Profile/ff/en/1/1X000000/1X06BPV2.htm){:target="_blank"}
+[**Andhra Pradesh Tourism Official Website**](http://www.aptdc.gov.in/home.html){:target="_blank"}
 
-Gain a better understanding of Chongqing through this research report by professional economists from the Hong Kong Trade Development Council.
+Discover what Andhra Pradesh has to offer with its vast geographical area combined with great historical and cultural heritage. Explore the nature and wild life experiences, heritage spots, beaches, and religious and spiritual destinations. This official website of the state’s tourism unit also includes travel information such as accommodation and tours.
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**CQNEWS.net**](http://english.cqnews.net/){:target="_blank"}
+[**Investment environment and opportunities in food processing: Andhra Pradesh**](http://foodprocessingindia.co.in/state-profile-pdf/andhra-pradesh.pdf){:target="_blank"}
 
-This is a key news portal on Chongqing which covers various news media such as *Chongqing Daily*, *Chongqing Evening News*, *Chongqing Morning Post* and *Chongqing Commercial Daily*.
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
-[**Best-performing cities: China 2016**](http://best-cities-china.org/best-performing-cities-china-2016.pdf){:target="_blank"}
-
-This report analyses official data to track the economic performance of China’s best-performing cities. The ranking is based on nine indicators including job growth, wage growth, gross regional product per capita growth and foreign direct investment growth.
+Gain insights into why Andhra Pradesh presents good investment opportunities in the food processing industry. Apart from being ranked first on Ease of Doing Business, the state is also a major agricultural belt with rich climatic and soil conditions and has an abundant of natural resources. Find out more about the state government initiatives, fiscal incentives and some of the potential investment projects.
