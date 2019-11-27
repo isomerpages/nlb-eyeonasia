@@ -24,7 +24,7 @@ This article provides an overview of National Capital Region of India for those 
 
 ### **Introduction**
 
-The National Capital Region (NCR) of India is a unique example of inter-state regional planning and development, covering the entire National Capital Territory of Delhi, 13 districts of the State of Haryana, seven districts of the State of Uttar Pradesh and two districts of the State of Rajasthan, with New Delhi, the nation’s capital as its core.8 The NCR and the associated NCR Planning Board were created in 1985 to plan the development of the region and to enact harmonised policies for the control of land use and development of infrastructure in the region so as to avoid any haphazard development of the region.9 The NCR Planning Board’s Regional Plan 2021 aims to promote economic growth and develop the entire NCR as a region of global excellence.10
+The National Capital Region (NCR) of India is a unique example of inter-state regional planning and development, covering the entire National Capital Territory of Delhi, 13 districts of the State of Haryana, seven districts of the State of Uttar Pradesh and two districts of the State of Rajasthan, with New Delhi, the nation’s capital as its core.[^8] The NCR and the associated NCR Planning Board were created in 1985 to plan the development of the region and to enact harmonised policies for the control of land use and development of infrastructure in the region so as to avoid any haphazard development of the region.[^9] The NCR Planning Board’s Regional Plan 2021 aims to promote economic growth and develop the entire NCR as a region of global excellence.[^10]
 
 | **Sub-Region** | **District**                                                 | **Area (Sq Km)** | **Population (2011)** |
 | -------------- | ------------------------------------------------------------ | ---------------- | --------------------- |
@@ -38,7 +38,7 @@ The National Capital Region (NCR) of India is a unique example of inter-state re
 
 ### **Economy profile**
 
-The National Capital Region has over the past decade, emerged as one of the foremost economic centres in India. It contributes significantly to India’s growth, accounting for about seven to eight percent of the total Gross Domestic Product (GDP).11 The Gross State Domestic Product (GSDP) growth of Delhi was 8.1 percent in 2017. That year, the services sector contributed 85 percent to the state economy. This was followed by manufacturing at 12 percent and agriculture at three percent.[^12]
+The National Capital Region has over the past decade, emerged as one of the foremost economic centres in India. It contributes significantly to India’s growth, accounting for about seven to eight percent of the total Gross Domestic Product (GDP).[^11] The Gross State Domestic Product (GSDP) growth of Delhi was 8.1 percent in 2017. That year, the services sector contributed 85 percent to the state economy. This was followed by manufacturing at 12 percent and agriculture at three percent.[^12]
 
 The government of Delhi is committed towards creating a progressive business environment. As per the new Industrial Policy for Delhi 2010-21, the government is keen on developing and promoting the high-tech, sophisticated, knowledge-based IT and ITeS industries in the state. The government has planned to set up a “Centre of Excellence” to promote innovation and entrepreneurship in the sectors to achieve this aim.[^13]
 
