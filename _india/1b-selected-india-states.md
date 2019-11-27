@@ -88,7 +88,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/selected-india-states/maharashtra-profile/" class="project-link">
 				<img src="/images/india-selected/Maharashtra-A-profile-285x300.jpg" alt="Maharashtra: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -98,7 +98,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/selected-india-states/maharashtra-guide/" class="project-link">
 				<img src="/images/india-selected/Discovering-Maharashtra-285x300.jpg" alt="Discovering Maharashtra" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -108,7 +108,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/selected-india-states/ncr-india-profile/" class="project-link">
 				<img src="/images/india-selected/National-Capital-Region-of-India-A-profile-285x300.jpg" alt="National Capital Region of India: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
