@@ -14,7 +14,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/selected-india-states/andhra-pradesh-profile/" class="project-link">
 				<img src="/images/india-selected/Andhra-Pradesh-A-profile-285x300.jpg" alt="Andhra Pradesh: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/selected-india-states/andhra-pradesh-guide/" class="project-link">
 				<img src="/images/india-selected/Discovering-Andhra-Pradesh-2-285x300.jpg" alt="Discovering Andhra Pradesh" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -34,7 +34,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/selected-india-states/gujarat-profile/" class="project-link">
 				<img src="/images/india-selected/Gujarat-A-profile-285x300.jpg" alt="Gujarat: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -51,7 +51,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/selected-india-states/gujarat-guide/" class="project-link">
 				<img src="/images/india-selected/Discovering-Gujarat-285x300.jpg" alt="Discovering Gujarat" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -61,7 +61,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/selected-india-states/haryana-profile/" class="project-link">
 				<img src="/images/india-selected/Haryana-A-profile-285x300.jpg" alt="Haryana: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -71,7 +71,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/selected-india-states/haryana-guide/" class="project-link">
 				<img src="/images/india-selected/Discovering-Haryana-285x300.jpg" alt="Discovering Haryana" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
