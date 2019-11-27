@@ -12,13 +12,13 @@ This article provides an overview of National Capital Region of India for those 
 
 ### **Key facts**
 
-- Land area: 53,817 sq km[^1]
-- Population (2011): 46,069,000[^2]
-- Regional Authority: National Capital Region Planning Board[^3]
-- Head: Hardeep Singh Puri, Minister of State (Independent Charge), Housing And Urban Affairs and Chairman of the NCR Planning Board[^4]
-- Languages: English, Hindi, Punjabi, Bihari and Haryanvi[^5]
-- GDP (2016): US$ 370 billion[^6]
-- Major cities: Delhi, Ghaziabad, Faridabad, Gurgaon (Gurugram), Noida & Meerut[^7]
+- **Land area:** 53,817 sq km[^1]
+- **Population (2011):** 46,069,000[^2]
+- **Regional Authority:** National Capital Region Planning Board[^3]
+- **Head:** Hardeep Singh Puri, Minister of State (Independent Charge), Housing And Urban Affairs and Chairman of the NCR Planning Board[^4]
+- **Languages:** English, Hindi, Punjabi, Bihari and Haryanvi[^5]
+- **GDP (2016):** US$ 370 billion[^6]
+- **Major cities:** Delhi, Ghaziabad, Faridabad, Gurgaon (Gurugram), Noida & Meerut[^7]
 
 
 
