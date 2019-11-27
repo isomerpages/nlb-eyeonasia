@@ -12,7 +12,7 @@ This is a selection of resources on Discovering Delhi National Capital Region av
 
 ### **NLB print and digital resources**
 
-<img src="/images/New-Delhi-The-last-imperial-city.jpg" style="width:150px;" />
+<img src="/images/book-covers/New-Delhi-The-last-imperial-city.jpg" style="width:150px;" />
 
 [**New Delhi: The last imperial city**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202665108){:target="_blank"}
 
