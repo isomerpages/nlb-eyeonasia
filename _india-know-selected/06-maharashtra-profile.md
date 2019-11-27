@@ -33,7 +33,7 @@ Maharashtra has seven domestic airports located in Mumbai, Pune, Nagpur, Auranga
 
 ### **Demographic profile**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\india-selected\maharashtra-chart-1.png" style="width:550px;" />Data Source: Registrar General and Census Commissioner, India. (2013).</div>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\india-selected\maharashtra-chart-1.png" style="width:650px;" />Data Source: Registrar General and Census Commissioner, India. (2013).</div>
 According to the 2011 population census, Maharashtra has a population of 112.4 million, making it the second most populated state after Uttar Pradesh. It is the third-largest state in terms of land area. With 45.2 percent of its population living in towns, Maharashtra is highly urbanised. Maharashtra has a sex ratio of 929 females per thousand males and a literacy rate of 82.3 percent.[^11] The most commonly spoken language is Marathi, with other prominent spoken languages being Hindi, English and Konkani.[^12]
 
 
