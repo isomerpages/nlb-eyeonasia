@@ -12,21 +12,14 @@ This article provides an overview of Rajasthan for those keen on exploring the p
 
 ### **Key facts**
 
-Capital: Jaipur[^1]
-
-Geography: 33 districts[^2]
-
-Land area: 342,239 sq km[^3]
-
-Population (2011): 68,548,437[^4]
-
-Head of government: Smt. Vasundhara Raje (Chief Minister)[^5]
-
-Languages: Hindi and Rajasthani dialects[^6]
-
-Currency: Indian Rupee (Rs)
-
-Major cities: Jaipur, Jodhpur, Udaipur, Kota, Ajmer, Bikaner, Bhilwara and Alwar[^7]
+- **Capital:** Jaipur[^1]
+- **Geography:** 33 districts[^2]
+- **Land area:** 342,239 sq km[^3]
+- **Population (2011):** 68,548,437[^4]
+- **Head of government:** Smt. Vasundhara Raje (Chief Minister)[^5]
+- **Languages:** Hindi and Rajasthani dialects[^6]
+- **Currency:** Indian Rupee (Rs)
+- **Major cities:** Jaipur, Jodhpur, Udaipur, Kota, Ajmer, Bikaner, Bhilwara and Alwar[^7]
 
 
 
