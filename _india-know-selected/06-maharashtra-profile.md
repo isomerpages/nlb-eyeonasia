@@ -33,8 +33,8 @@ Maharashtra has seven domestic airports located in Mumbai, Pune, Nagpur, Auranga
 
 ### **Demographic profile**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\india-selected\maharashtra-chart-1.png" style="width:550px;" />Data Source: Registrar General and Census Commissioner, India. (2013).[^11]</div>
-According to the 2011 population census, Maharashtra has a population of 112.4 million, making it the second most populated state after Uttar Pradesh. It is the third-largest state in terms of land area. With 45.2 percent of its population living in towns, Maharashtra is highly urbanised. Maharashtra has a sex ratio of 929 females per thousand males and a literacy rate of 82.3 percent.[^12] The most commonly spoken language is Marathi, with other prominent spoken languages being Hindi, English and Konkani.[^13]
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\india-selected\maharashtra-chart-1.png" style="width:550px;" />Data Source: Registrar General and Census Commissioner, India. (2013).</div>
+According to the 2011 population census, Maharashtra has a population of 112.4 million, making it the second most populated state after Uttar Pradesh. It is the third-largest state in terms of land area. With 45.2 percent of its population living in towns, Maharashtra is highly urbanised. Maharashtra has a sex ratio of 929 females per thousand males and a literacy rate of 82.3 percent.[^11] The most commonly spoken language is Marathi, with other prominent spoken languages being Hindi, English and Konkani.[^12]
 
 
 
@@ -46,19 +46,19 @@ In 2015-16, Maharashtra’s Gross State Domestic Product (GSDP) was US$300.51 bi
 
 ### **Industries**
 
-Maharashtra has a well-developed social, physical and industrial infrastructure.[^14] The key industries in Maharashtra are pharmaceuticals, biotechnology, information technology (IT) and IT-enabled services, electronics, engineering, auto and auto components, oil and gas, food and agro processing, gems and jewellery, banking, services and insurance (BFSI), and textiles. It is India’s leading producer of sugarcane and cotton and accounts for approximately 35.1 percent of the country’s automobile output by value. It is also a key hub for captive business outsourcing industries. Mumbai, the state’s capital, is also the commercial capital of India and has evolved into a global financial hub with several global banking and financial service firms located there. Pune, the state’s cultural capital, has emerged as an educational hub.[^15]
+Maharashtra has a well-developed social, physical and industrial infrastructure.[^13] The key industries in Maharashtra are pharmaceuticals, biotechnology, information technology (IT) and IT-enabled services, electronics, engineering, auto and auto components, oil and gas, food and agro processing, gems and jewellery, banking, services and insurance (BFSI), and textiles. It is India’s leading producer of sugarcane and cotton and accounts for approximately 35.1 percent of the country’s automobile output by value. It is also a key hub for captive business outsourcing industries. Mumbai, the state’s capital, is also the commercial capital of India and has evolved into a global financial hub with several global banking and financial service firms located there. Pune, the state’s cultural capital, has emerged as an educational hub.[^14]
 
  
 
 ### **Tourism**
 
-In 2016, the government’s new tourism policy, “Maharashtra Tourism Policy 2016“, was formulated to minimise delays, eliminate redundancies and enhance efficiency in the tourism sector. Around US$43.53 million was allocated to provide basic amenities across tourist spots.[^16] Maharashtra offers a variety of tourist destinations from beaches, forts, caves, hill stations and wildlife sanctuaries to temples and shrines, adventure sports, as well as lakes and waterfalls. It boasts five UNESCO World Heritage Sites: the Ajanta Caves, Ellora Caves, Elephanta Caves, Chhatrapati Shivaji Terminus (CST) (previously Victoria Terminus) in Mumbai and the Western Ghats. Other popular tourist destinations include the Gateway of India, Aurangabad city, Koyana dam, Tadoba Andhari Tiger Reserve, the Trimbakeshwar temple, and the Janjira Fort.[^17]
+In 2016, the government’s new tourism policy, “Maharashtra Tourism Policy 2016“, was formulated to minimise delays, eliminate redundancies and enhance efficiency in the tourism sector. Around US$43.53 million was allocated to provide basic amenities across tourist spots.[^15] Maharashtra offers a variety of tourist destinations from beaches, forts, caves, hill stations and wildlife sanctuaries to temples and shrines, adventure sports, as well as lakes and waterfalls. It boasts five UNESCO World Heritage Sites: the Ajanta Caves, Ellora Caves, Elephanta Caves, Chhatrapati Shivaji Terminus (CST) (previously Victoria Terminus) in Mumbai and the Western Ghats. Other popular tourist destinations include the Gateway of India, Aurangabad city, Koyana dam, Tadoba Andhari Tiger Reserve, the Trimbakeshwar temple, and the Janjira Fort.[^16]
 
  
 
 ### **Singapore and Maharashtra**
 
-Singapore and the state of Maharashtra have formed a number of partnerships. The Singapore Manufacturing Federation is helping to set up a manufacturing base in Maharashtra.[^18] The Monetary Authority of Singapore (MAS) and the Government of Maharashtra signed a memorandum of understanding (MoU) in 2018 to co-develop educational programmes on FinTech and explore potential joint innovation projects on the application of key technologies such as digital and mobile payments, blockchain and big data.[^19] In September 2017, Maharashtra and Singapore signed an MoU to promote partnership in the development of ports and airports in the state.[^20]
+Singapore and the state of Maharashtra have formed a number of partnerships. The Singapore Manufacturing Federation is helping to set up a manufacturing base in Maharashtra.[^17] The Monetary Authority of Singapore (MAS) and the Government of Maharashtra signed a memorandum of understanding (MoU) in 2018 to co-develop educational programmes on FinTech and explore potential joint innovation projects on the application of key technologies such as digital and mobile payments, blockchain and big data.[^18] In September 2017, Maharashtra and Singapore signed an MoU to promote partnership in the development of ports and airports in the state.[^19]
 
 ---
 ### **References**
@@ -73,16 +73,15 @@ Singapore and the state of Maharashtra have formed a number of partnerships. The
 [^8]: Maharashtra: Gateway to India. (2018, February). India Brand Equity Foundation. Retrieved March 28, 2018, from [https://www.ibef.org](https://www.ibef.org/download/Maharashtra-February-2018.pdf){:target="_blank"}
 [^9]: Economic survey of Maharashtra 2017-18. (2018). Directorate of Economics and Planning. Retrieved March 28, 2018, from [http://admin.indiaenvironmentportal.org.in](http://admin.indiaenvironmentportal.org.in/files/file/ESM_17_18_eng.pdf){:target="_blank"}
 [^10]: Maharashtra: Gateway to India. (2018, February). India Brand Equity Foundation. Retrieved March 28, 2018, from [https://www.ibef.org](https://www.ibef.org/download/Maharashtra-February-2018.pdf){:target="_blank"}
-[^11]: Registrar General and Census Commissioner, India. (2013). Retrieved March 28, 2018, from [http://mahasdb.maharashtra.gov.in](http://mahasdb.maharashtra.gov.in/SDB_Reports/Population_Census/HTML/Population%20&%20Population%20Density,%20Sex%20Ratio,%20Literacy%20Rate%20For%20The%20Year%201991,%202001%20&%202011.html){:target="_blank"}
-[^12]: Economic survey of Maharashtra 2017-18. (2018). Directorate of Economics and Planning. Retrieved March 28, 2018, from [http://admin.indiaenvironmentportal.org.in](http://admin.indiaenvironmentportal.org.in/files/file/ESM_17_18_eng.pdf){:target="_blank"}
+[^11]: Economic survey of Maharashtra 2017-18. (2018). Directorate of Economics and Planning. Retrieved March 28, 2018, from [http://admin.indiaenvironmentportal.org.in](http://admin.indiaenvironmentportal.org.in/files/file/ESM_17_18_eng.pdf){:target="_blank"}
+[^12]: Maharashtra. (2018). India Brand Equity Foundation. Retrieved March 28, 2018, from [https://www.ibef.org](https://www.ibef.org/states/maharashtra.aspx){:target="_blank"}
 [^13]: Maharashtra. (2018). India Brand Equity Foundation. Retrieved March 28, 2018, from [https://www.ibef.org](https://www.ibef.org/states/maharashtra.aspx){:target="_blank"}
 [^14]: Maharashtra. (2018). India Brand Equity Foundation. Retrieved March 28, 2018, from [https://www.ibef.org](https://www.ibef.org/states/maharashtra.aspx){:target="_blank"}
 [^15]: Maharashtra. (2018). India Brand Equity Foundation. Retrieved March 28, 2018, from [https://www.ibef.org](https://www.ibef.org/states/maharashtra.aspx){:target="_blank"}
 [^16]: Maharashtra. (2018). India Brand Equity Foundation. Retrieved March 28, 2018, from [https://www.ibef.org](https://www.ibef.org/states/maharashtra.aspx){:target="_blank"}
-[^17]: Maharashtra. (2018). India Brand Equity Foundation. Retrieved March 28, 2018, from [https://www.ibef.org](https://www.ibef.org/states/maharashtra.aspx){:target="_blank"}
-[^18]: Singapore-India partnership: Friends for life. (2015, December 14). Enterprise Singapore. Retrieved April 2, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/IE-Blog/ISEC-2015/Singapore-India-Partnership){:target="_blank"}
-[^19]: Bhunia, P. (2018, February 26). MAS signs MOU with state government of Maharashtra in India for Fintech cooperation. Open Gov. Retrieved April 2, 2018, from [https://www.opengovasia.com](https://www.opengovasia.com/articles/mas-signs-mou-with-state-government-of-maharashtra-in-india-for-fintech-cooperation){:target="_blank"}
-[^20]: Maharashtra signs ports, airports deal with Singapore. (2017, September 30). Indian Express. Retrieved April 2, 2018, from [http://indianexpress.com](http://indianexpress.com/article/cities/mumbai/maharashtra-signs-ports-airports-deal-with-singapore-devendra-fadnavis-4867639/){:target="_blank"}
+[^17]: Singapore-India partnership: Friends for life. (2015, December 14). Enterprise Singapore. Retrieved April 2, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/IE-Blog/ISEC-2015/Singapore-India-Partnership){:target="_blank"}
+[^18]: Bhunia, P. (2018, February 26). MAS signs MOU with state government of Maharashtra in India for Fintech cooperation. Open Gov. Retrieved April 2, 2018, from [https://www.opengovasia.com](https://www.opengovasia.com/articles/mas-signs-mou-with-state-government-of-maharashtra-in-india-for-fintech-cooperation){:target="_blank"}
+[^19]: Maharashtra signs ports, airports deal with Singapore. (2017, September 30). Indian Express. Retrieved April 2, 2018, from [http://indianexpress.com](http://indianexpress.com/article/cities/mumbai/maharashtra-signs-ports-airports-deal-with-singapore-devendra-fadnavis-4867639/){:target="_blank"}
 
 
 
