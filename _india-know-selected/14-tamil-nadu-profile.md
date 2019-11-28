@@ -12,111 +12,89 @@ This article provides an overview of Tamil Nadu for those keen on exploring the 
 
 ### **Key facts**
 
-Capital: Jaipur[^1]
-
-Geography: 33 districts[^2]
-
-Land area: 342,239 sq km[^3]
-
-Population (2011): 68,548,437[^4]
-
-Head of government: Smt. Vasundhara Raje (Chief Minister)[^5]
-
-Languages: Hindi and Rajasthani dialects[^6]
-
-Currency: Indian Rupee (Rs)
-
-Major cities: Jaipur, Jodhpur, Udaipur, Kota, Ajmer, Bikaner, Bhilwara and Alwar[^7]
+- **State capital**: Chennai[^1]
+- **Land area:** 130,058 sq km[^2]
+- **Population (2011 census):** 72,147,030[^3]
+- **Head of government:** Edappadi K. Palaniswami (Chief Minister)[^4]
+- **State languages:** Tamil & English[^5]
+- **GSDP (Gross State Domestic Product):** US$ 207.79 billion (2016–17)[^6]
+- **Major cities:** Chennai, Coimbatore, Madurai, Tiruchirappalli, Salem & Tirunelveli. (According to population)[^7]
 
 
 
 ### **Introduction**
 
-Rajasthan is located in northwestern India, bounded on the west and northwest by Pakistan and shares domestic borders with the states of Punjab, Haryana, Uttar Pradesh, Madhya Pradesh and Gujarat. With a land area of 342,239 sq km, Rajasthan is the largest state in India geographically.[^8] The state is divided into 33 districts and comprises nine regions – Ajmer State, Hadoti, Dhundhar, Gorwar, Shekhawati, Mewar, Marwar, Vagad and Mewat.[^9]
-
-The western part of Rajasthan is relatively dry and infertile. Rajasthan is home to the Thar Desert, also known as the Great Indian Desert, and the Chambal River, which is solely responsible for the water supply in the region.[^10] Jaipur, Udaipur, Kota and Ajmer are known as the four smart cities in Rajasthan.[^11]
+Tamil Nadu, or land of the Tamils, is the fourth largest state of India and is located in the extreme south of the Indian subcontinent. It is bounded by the Indian Ocean to the east and south, and by the states of Kerala to the west, Karnataka to the northwest, and Andhra Pradesh to the north. Along the north-central coast of Tamil Nadu are enclaves of Puducherry and Karaikal, both of which form part of the Puducherry union territory. Chennai (formerly known as Madras) is the capital city, located on the northeastern coast of the state. Tamil Nadu represents the Tamil-speaking area of what was formerly the Madras Presidency of British India.[^8]
 
 
 
 ### **Demographic Profile**
 
-In 2011, the population in Rajasthan was 68.5 million. The population grew 21.2 percent from the 56.5 million recorded in 2001. The population of males outnumbered that of females: in 2011, the gender ratio was 0.928 female to one male.[^12] In 2011, 45.57 percent of workers in Rajasthan were cultivators, 17.53 percent were agricultural labourers and 2.41 percent were employed in the household industry. In the same year, the state had a literacy rate of 66.1 percent, work participation rate of 43.6 percent and a population density of 200 persons per sq km.[^13]
+According to Indian census data (2011), Tamil Nadu has a population of 72,147,030, an increase of 15.61 percent from 62,405,679 that was reported in the 2001 census. Tamil Nadu constituted 5.96 percent of India’s population in 2011. The average literacy rate of Tamil Nadu is 80.09 percent.[^9]
 
 
 
 
 ### **Economy profile**
 
-Rajasthan’s estimated gross state domestic product (GSDP) for 2016–2017 was Rs 759,235 crore, a growth of 11.04 percent from the previous year. In 2015–2016, the state achieved a GSDP of Rs 683,758 crore and grew 11.05 percent. The per capita income for 2016–2017 was Rs 92,076. This is an increase of 9.64 percent compared with the Rs 83,977 achieved in 2015–2016.[^14]
+The Gross State Domestic Product (GSDP) of Tamil Nadu grew at a compound annual growth rate (CAGR) of 7.87 percent between 2011–12 and 2016–17, reaching US$207.79 billion in 2016–17. In line with the plan for infrastructure development, Vision 2023, Tamil Nadu aims to increase investment in infrastructure to 11.5 percent of the GSDP by 2019. According to the Department of Industrial Policy and Promotion, cumulative foreign direct investment in Tamil Nadu during April 2000 to December 2017 was US$26.52 billion.[^10]
 
-Agriculture accounted for 25.5 percent of total output in 2016–2017. The industries sector, which includes mining, manufacturing, electricity, gas, water supply and other utility services, and construction, contributed 28.38 percent, while the services sector contributed 46.12 percent.[^15]
+Some key facets and goals of Tamil Nadu’s Vision 2023 include enhanced economic dynamism; best in class human development indicators; a well-developed infrastructure that provides universal access to basic services; an investment climate that compares with the best in Asia; and its evolution into India’s foremost knowledge and innovation hub.[^11]
 
  
 
 ### **Industries**
 
-**Agriculture**
+Tamil Nadu has a diversified manufacturing sector and leads in several industries such as automobiles and auto components, engineering, pharmaceuticals, garments, textile products, leather products, chemicals and plastics. Due to its achievements as an auto production hub, Chennai has been dubbed as the “Detroit of India”, referencing Detroit in Michigan, U.S., known as the centre of the U.S. automobile industry. Tamil Nadu has a 21.2 percent share in overall automobile exports from India. It also accounted for a 15.8 percent share in domestic production and a 14.9 percent share in domestic sales of the automobile sector in the country.[^12]
 
-Agriculture is an important sector in Rajasthan. It forms the backbone of the state’s economy and is a significant contributor to the GSDP. The state has been implementing several programmes to ensure growth in agricultural production and to provide better living conditions to the population who engage in agricultural and allied activities. Rajasthan is the highest producer of mustard, gram and bajra (millet) in India.[^16]
+Major textile centres in Tamil Nadu are located in Tirupur and Coimbatore, known respectively as the “Knitting City” and the “Manchester of South India”. Tamil Nadu accounted for a share of about 34.4 percent of India’s overall spun yarn production in 2015-16.[^13]
 
-
-**Mining and minerals**
-
-Rajasthan boasts huge mineral reserves. It produces 79 varieties of minerals such as wollastonite, lead, zinc, calcite, gypsum, rock phosphate, silver, marble, sandstone and serpentine (green marble).[^17]
+In March 2018, the government of Tamil Nadu announced plans to invest US$607 million to develop the heavy engineering sector of the state over the next two years. As of December 2017, Tamil Nadu had 37 operational special economic zones for IT and IT enabled services (IteS). Tamil Nadu has about 350,000 people directly employed in IT and ITeS companies, and 750,000 through indirect employment.[^14]
 
 
-**Cement**
 
-Rajasthan has one of the highest limestone reserves, making it a hub for industries such as cement production. The state is one of the largest producers of cement grade limestone and steel grade limestone in India, and the largest producer in the northern and western parts of India. With 24 major cement plants, Rajasthan produces more than 44 million tonnes of limestone per annum.[^18]
+### **Foreign investment**
 
-
-**Renewable energy**
-
-Two key factors that contribute to Rajasthan’s favourable solar energy production are its high level of solar radiation and large tracts of relatively flat and undeveloped land.[^19] As at January 2018, Rajasthan’s total installed power generation capacity was 20,954.54 megawatt (MW).[^20]
+Tamil Nadu, with its strong industrial base, is presently ranked third in the list of Indian states attracting foreign direct investment (FDI). Tamil Nadu has implemented several financial incentives, including capital subsidies, power tariff concessions and sales tax waiver schemes, making it very attractive for FDI. The top five countries investing in Tamil Nadu are Mauritius, Singapore, Japan, USA and Netherlands.[^15]
 
 
 
 ### **Tourism**
 
-Rajasthan is one of the most beautiful tourist destinations in India. Its palaces and forts are major attractions that draw many tourists to the state each year. Behind each palace and fort is a riveting story about its kings, their kingdoms and the colourful culture of Rajasthan. Six of the forts – Chittorgarh Fort, Kumbhalgarh Fort, Ranthambhore Fort, Gagaron Fort, Amber Fort and Jaisalmer Fort – were declared UNESCO World Heritage Sites in 2013.[^21]
+Tamil Nadu is a state with diverse tourist attractions and a thriving tourism industry. Visitors are attracted to its mountains and vegetation, beaches, wildlife, monuments and temples, as well as rustic rural life. Popular hill resorts include Ooty, Kodaikanal, Yercaud, Elagiri, Javvadhu Hills, Kolli Hills, Sirumalai Hills, Valparai, Topslip, Parvathamalai Hills and Pachamalai Hills. Famous waterfalls include the cascades in Courtallam, Hogenakkal, Thiruparappu, Monkey Falls, Thirumurthi Hills, Agaya Gangai and Papanasam Falls.[^16]
 
-Rajasthan also attracts tourists with its fairs and festivals, handicrafts, heritage hotels, adventure tourism, rural and eco-tourism, religious tourism and temple architecture. In recent years, the state has made significant efforts to develop and boost tourism. In 2017, Rajasthan received 1.61 million visits from foreign tourists.[^22]
+Tamil Nadu has excellent national parks such as the Guindy National Park and Anamalai National Park, and wildlife sanctuaries in Mudumalai, Kodiakarai, Kalakkad Mundanthurai, and Berijam. The vast coastline of Tamil Nadu has many silvery beaches like the Marina, Elliots, Thiruvanmiyur, Tiruchendur, Rameswaram and Kanyakumari beaches.[^17]
+
+Famous temples at Madurai, Thanjavur, Rameswaram, Kumbakonam, Chidambaram and Tiruchirappalli showcase Tamil Nadu’s rich culture, artistic excellence and architectural splendour. The “Great Living Chola Temples” in Thanjavur, Gangaikonda Cholapuram and Darasuram as well as the group of monuments in Mamallapuram are designated UNESCO World Heritage Sites.[^18]
 
  
 
-### **Singapore and Rajasthan**
+### **Singapore and Tamil Nadu**
 
-In October 2016, IE Singapore signed a Memorandum of Understanding (MOU) with the Government of Rajasthan to “facilitate collaboration between Singapore and Rajasthan companies in smart urban solutions and tourism development.” This provides opportunities for Singapore companies that are seeking to expand overseas, particularly in these two sectors.[^23]
-
-In the same month, a tourism skills training centre was also launched in Udaipur by Prime Minister Lee Hsien Loong. The curriculum for the Centre of Excellence for Tourism Training is prepared by Singapore’s Institute of Technical Education Services. The centre offers up to six courses including retail services, hospitality operations and culinary arts, with an annual intake of 480 students.[^24]
+In November 2017, Singapore’s Consul General in Chennai, Roy Kho announced that Singapore was keen to start new ventures in Tamil Nadu and strengthen its ties with India. He said that Singapore accounted for 3.4 percent of India’s foreign trade and was keen on starting new ventures in Tamil Nadu for improving trade and business. He noted that India was investment-friendly, especially Tamil Nadu which is known for its “investment-friendly policies, amazing architecture and rich culture.” Noting that Singapore was the second largest foreign investor in India, the Consul General said that India and Singapore had marked 50 years of diplomatic relations.[^19]
 
 ---
 ### **References**
 
-[^1]: About Rajasthan. (n.d.). Government of Rajasthan. Retrieved March 7, 2018, from [https://rajasthan.gov.in](https://rajasthan.gov.in/AboutRajasthan/Pages/default.aspx){:target="_blank"}
-[^2]: About Rajasthan. (n.d.). Rajasthan Tourism. Retrieved March 7, 2018, from [http://tourism.rajasthan.gov.in](http://tourism.rajasthan.gov.in/about-rajasthan.html){:target="_blank"}
-[^3]: About Rajasthan. (n.d.). Rajasthan Tourism. Retrieved March 7, 2018, from [http://tourism.rajasthan.gov.in](http://tourism.rajasthan.gov.in/about-rajasthan.html){:target="_blank"}
-[^4]: Basic statistics Rajasthan 2013. (2013). Directorate of Economics & Statistics. p. 1. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/Basic%20statistics/basic%20statistics%202013.pdf){:target="_blank"}
-[^5]: Chief Minister. (n.d.). Government of Rajasthan. Retrieved March 7, 2018, from [https://rajasthan.gov.in](https://rajasthan.gov.in/Government/ChiefMinister/Pages/default.aspx){:target="_blank"}
-[^6]: Demographics. (2018). Resurgent Rajasthan. Retrieved March 7, 2018, from [http://resurgent.rajasthan.gov.in](http://resurgent.rajasthan.gov.in/investing-in-rajasthan/demographics){:target="_blank"}
-[^7]: Demographics. (2018). Resurgent Rajasthan. Retrieved March 7, 2018, from [http://resurgent.rajasthan.gov.in](http://resurgent.rajasthan.gov.in/investing-in-rajasthan/demographics){:target="_blank"}
-[^8]: Demographics. (2018). Resurgent Rajasthan. Retrieved March 7, 2018, from [http://resurgent.rajasthan.gov.in](http://resurgent.rajasthan.gov.in/investing-in-rajasthan/demographics){:target="_blank"}; Land and environment. (n.d.). Government of Rajasthan. Retrieved March 7, 2018, from [http://rajasthan.gov.in](http://rajasthan.gov.in/AboutRajasthan/LandAndEnvironment/Pages/default.aspx){:target="_blank"}
-[^9]: Districts. (n.d.). Government of Rajasthan. Retrieved March 7, 2018, from [http://rajasthan.gov.in](http://rajasthan.gov.in/Government/DistrictGovernment/Pages/default.aspx){:target="_blank"}
-[^10]: Land and environment. (n.d.). Government of Rajasthan. Retrieved March 7, 2018, from [http://rajasthan.gov.in](http://rajasthan.gov.in/AboutRajasthan/LandAndEnvironment/Pages/default.aspx){:target="_blank"}; About us. (n.d.). Rajasthan Tourism. Retrieved March 7, 2018, from [http://tourism.rajasthan.gov.in](http://tourism.rajasthan.gov.in/about-rajasthan.html){:target="_blank"}
-[^11]: Smart city mission. (2017, April 11). Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation. Retrieved March 19, 2018, from [http://urban.rajasthan.gov.in](http://urban.rajasthan.gov.in/content/raj/udh/rudsico/en/sectors-programmes/smart-city.html){:target="_blank"}
-[^12]: Some facts about Rajasthan 2016. (2016). Directorate of Economics & Statistics, Department of Planning Rajasthan. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/some%20fact%20about%20rajasthan/Some%20Facts%20about%20Rasthan_2016.pdf){:target="_blank"}
-[^13]: Some facts about Rajasthan 2016. (2016). Directorate of Economics & Statistics, Department of Planning Rajasthan. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/some%20fact%20about%20rajasthan/Some%20Facts%20about%20Rasthan_2016.pdf){:target="_blank"}
-[^14]: Economic review 2017-18. (2018, February). Government of Rajasthan. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/economic%20review%20english/Economic_Review_English_17-18.pdf){:target="_blank"}
-[^15]: Economic review 2017-18. (2018, February). Government of Rajasthan. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/economic%20review%20english/Economic_Review_English_17-18.pdf){:target="_blank"}
-[^16]: Economic review 2017-18. (2018, February). Government of Rajasthan. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/economic%20review%20english/Economic_Review_English_17-18.pdf){:target="_blank"}
-[^17]: Minerals and ceramics. (n.d.). Resurgent Rajasthan. Retrieved March 7, 2018, from [http://resurgent.rajasthan.gov.in](http://resurgent.rajasthan.gov.in/focus-sectors/minerals-ceramics){:target="_blank"}
-[^18]: Information about Rajasthan: Tourism, cement, agriculture industries and geography. (2017, November). India Brand Equity Foundation. Retrieved March 7, 2018, from [https://www.ibef.org](https://www.ibef.org/states/rajasthan.aspx){:target="_blank"}; Minerals and ceramics. (n.d.). Resurgent Rajasthan. Retrieved March 7, 2018, from [http://resurgent.rajasthan.gov.in](http://resurgent.rajasthan.gov.in/focus-sectors/minerals-ceramics){:target="_blank"}
-[^19]: Renewable energy. (n.d.). Resurgent Rajasthan. Retrieved March 7, 2018, from [http://resurgent.rajasthan.gov.in](http://resurgent.rajasthan.gov.in/focus-sectors/new-renewable-source-of-energy){:target="_blank"}
-[^20]: Information about Rajasthan: Tourism, cement, agriculture industries and geography. (2018, February). India Brand Equity Foundation. Retrieved March 7, 2018, from [https://www.ibef.org](https://www.ibef.org/states/rajasthan.aspx){:target="_blank"}
-[^21]: Singh, M. P. (2013, June 22). Unesco declares 6 Rajasthan forts world heritage sites. The Hindu. Retrieved March 7, 2018, from [http://www.thehindu.com](http://www.thehindu.com/news/national/other-states/unesco-declares-6-rajasthan-forts-world-heritage-sites/article4838107.ece){:target="_blank"}; Economic review 2017-18. (2018, February). Government of Rajasthan. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/economic%20review%20english/Economic_Review_English_17-18.pdf){:target="_blank"}
-[^22]: Economic review 2017-18. (2018, February). Government of Rajasthan. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/economic%20review%20english/Economic_Review_English_17-18.pdf){:target="_blank"}
-[^23]: IE Singapore signs MOU with Rajasthan to help Singapore companies capture opportunities in smart urban solutions and tourism. (2016, October 6). IE Singapore. Retrieved March 16, 2017, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Africa-Middle-East/Oman/News/mc/Media-Releases/2016/10/IES-signs-MOU-with-Rajasthan-to-help-SG-COYS-capture-opps-in-smart-urban-solutions-and-tourism){:target="_blank"}
-[^24]: Ganapathy, N. (2016, October 3). Training centre in Rajasthan a collaboration with Singapore. The Straits Times. Retrieved March 16, 2017, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/News/2016/10/Training-centre-in-Rajasthan-a-collaboration-with-Singapore){:target="_blank"}; Yong, C. (2016, October 6). PM Lee launches Singapore’s second skills training in India. The Straits Times. Retrieved March 16, 2017, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/News/2016/10/PM-Lee-launches-Singapores-second-skills-training-centre-in-India){:target="_blank"}
+[^1]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^2]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^3]: Census of India 2011: Primary Census Abstract Figures at a Glance Tamil Nadu. (2017). Office of the Registrar General & Census Commissioner, India. Retrieved March 27, 2018, from [http://www.censusindia.gov.in](http://www.censusindia.gov.in/2011census/PCA/PCA_Highlights/pca_highlights_file/Tamil_Nadu/6.Figures_Glance_Tamil%20Nadu.pdf){:target="_blank"}
+[^4]: T. Ramakrishnan. (2017, February 17). Edappadi Palaniswami sworn in as Tamil Nadu Chief Minister. The Hindu. Retrieved March 27, 2018, from [http://www.thehindu.com](http://www.thehindu.com/news/national/tamil-nadu/Edappadi-Palaniswami-sworn-in-as-Tamil-Nadu-Chief-Minister/article17315261.ece){:target="_blank"}
+[^5]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^6]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^7]: Tamil Nadu population census data 2011. (2015). Census 2011 Organisation, India. Retrieved March 27, 2018, from [http://www.census2011.co.in](http://www.census2011.co.in/census/state/tamil+nadu.html){:target="_blank"}
+[^8]: Tamil Nadu. (2018). Encyclopedia Britannica. Retrieved March 27, 2018, from [https://www.britannica.com](https://www.britannica.com/place/Tamil-Nadu){:target="_blank"}; About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^9]: Tamil Nadu population census data 2011. (2015). Census 2011 Organisation, India. Retrieved March 27, 2018, from [http://www.census2011.co.in](http://www.census2011.co.in/census/state/tamil+nadu.html){:target="_blank"}
+[^10]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^11]: Vision Tamil Nadu 2023. (2012, March). Government of Tamil Nadu. Retrieved March 27, 2018, from [http://www.investingintamilnadu.com](http://www.investingintamilnadu.com/doc/TN_Vision_2023.pdf){:target="_blank"}
+[^12]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^13]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^14]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2018). India Brand Equity Foundation. Retrieved March 27, 2018, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
+[^15]: Rajasenan, D.; & Pradeep, S. (2016). Policy impacts on FDI in India: An analysis among the southern states. Journal of Economic Policy and Research, 11 (2). Retrieved March 27, 2018, from ProQuest Central database.
+[^16]: Tourism – An overview. (2018). Tamil Nadu Tourism. Retrieved March 27, 2018, from  [http://www.tamilnadutourism.org](http://www.tamilnadutourism.org/TN-Overview.html){:target="_blank"}
+[^17]: Tourism – An overview. (2018). Tamil Nadu Tourism. Retrieved March 27, 2018, from  [http://www.tamilnadutourism.org](http://www.tamilnadutourism.org/TN-Overview.html){:target="_blank"}
+[^18]: Tourism – An overview. (2018). Tamil Nadu Tourism. Retrieved March 27, 2018, from  [http://www.tamilnadutourism.org](http://www.tamilnadutourism.org/TN-Overview.html){:target="_blank"}
+[^19]: Singapore keen on starting new ventures in Tamil Nadu: Consul General. (2017, November 11). The Tribune, India. Retrieved March 27, 2018, from [http://www.tribuneindia.com](http://www.tribuneindia.com/news/nation/singapore-keen-on-starting-new-ventures-in-tamil-nadu-consul-general/496068.html){:target="_blank"}
 
 
 
