@@ -125,7 +125,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/selected-india-states/ncr-india-guide/" class="project-link">
 				<img src="/images/india-selected/Discovering-Delhi-National-Capital-Region-285x300.jpg" alt="Discovering Delhi National Capital Region" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -135,7 +135,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/selected-india-states/pune-profile/" class="project-link">
 				<img src="/images/india-selected/Pune-A-city-profile-285x300.jpg" alt="Pune: A city profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -145,7 +145,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/selected-india-states/pune-guide/" class="project-link">
 				<img src="/images/india-selected/Discovering-Pune-285x300.jpg" alt="Discovering Pune" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -162,7 +162,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/selected-india-states/rajasthan-profile/" class="project-link">
 				<img src="/images/india-selected/Rajasthan-A-profile-285x300.jpg" alt="Rajasthan: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -172,7 +172,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/selected-india-states/rajasthan-guide/" class="project-link">
 				<img src="/images/india-selected/Discovering-Rajasthan-285x300.jpg" alt="Discovering Rajasthan" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -182,7 +182,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/selected-india-states/tamil-nadu-profile/" class="project-link">
 				<img src="/images/india-selected/Tamil-Nadu-A-profile-285x300.jpg" alt="Tamil Nadu: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -199,7 +199,7 @@ Read about some of the fastest-growing states in India today, known for their ro
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/selected-india-states/tamil-nadu-guide/" class="project-link">
 				<img src="/images/india-selected/Discovering-Tamil-Nadu-285x300.jpg" alt="Discovering Tamil Nadu" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
