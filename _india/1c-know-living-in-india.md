@@ -14,7 +14,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/living-in-india/architecture-in-india/" class="project-link">
 				<img src="/images/india-living/Architecture-in-India-370x150.jpg" alt="Architecture in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/living-in-india/commuting-in-india/" class="project-link">
 				<img src="/images/india-living/Commuting-in-India-370x150.jpg" alt="Commuting in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -34,7 +34,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/living-in-india/entertainment-in-india/" class="project-link">
 				<img src="/images/india-living/Entertainment-in-India-370x150.jpg" alt="Entertainment in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -51,7 +51,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/living-in-india/festivals-in-india/" class="project-link">
 				<img src="/images/india-living/Festivals-in-India-370x150.jpg" alt="Festivals in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -61,7 +61,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/living-in-india/financial-banking-in-india/" class="project-link">
 				<img src="/images/india-living/Financial-in-India-370x150.jpg" alt="Financial and banking services in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -71,7 +71,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/living-in-india/food-and-cuisines-in-india/" class="project-link">
 				<img src="/images/india-living/Food-in-India-370x150.jpg" alt="Food and cuisines in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -88,7 +88,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/living-in-india/indian-fashion/" class="project-link">
 				<img src="/images/india-living/Indian-fashion-370x150.jpg" alt="Indian fashion" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -98,7 +98,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/living-in-india/media-in-india/" class="project-link">
 				<img src="/images/india-living/Media-in-India-370x150.jpg" alt="Media in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -108,7 +108,7 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/living-in-india/sports-and-recreation-in-india/" class="project-link">
 				<img src="/images/india-living/Sports-in-India-370x150.jpg" alt="Sports and recreation in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
