@@ -12,24 +12,78 @@ This is a selection of resources on Corporate Social Responsibility in India ava
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Landscapes-of-accumulation-Real-estate-and-the-neoliberal-imagination-in-contemporary-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/Corporate-social-responsibility-in-India-Some-empirical-evidence.jpg" style="width:150px;" />
 
-[**Landscapes of accumulation: Real estate and the neoliberal imagination in contemporary India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202681412){:target="_blank"}
+[**Corporate social responsibility in India: Some empirical evidence**](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203013356){:target="_blank"}
 
-With India’s booming developments, the urban transformation of the country has also brought about gleaming business complexes, giant condominium communities and spacious air-conditioned malls alongside open-air markets. This title documents the new private sector partnerships and practices that are transforming India’s built environment and presents how India’s land is rapidly transforming from a site of agricultural and industrial production to an international finance resource.
+Gain insights on community development and corporate social responsibility in India through this book, which presents corporate social responsibility in two parts. The first part covers the contributors’ experiences with corporate social responsibility in various regions of India, while the second explains the methods used to understand and assess the needs on the ground.
 
-All rights reserved, Chicago: The University of Chicago Press, 2016.
+All rights reserved, Singapore: Springer, 2017.
+
+<img src="/images/book-covers/Indian-business-Notions-and-practices-of-responsibility.png" style="width:150px;" />
+
+[**Indian business: Notions and practices of responsibility**](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203126447){:target="_blank"}
+
+How has the concept of corporate social responsibility evolved in India? How do Indian businesses and non-governmental organisations see the issue of corporate social responsibility? Find out from this book today, which examines the Indian notion of corporate social responsibility from the historical, legal and social contexts.
+
+All rights reserved, New York: Routledge, 2018.
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**House, but no garden: Apartment living in Bombay’s Suburbs, 1898 – 1964**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Coupling corporate social responsibility into Millennium Development Goals: A case study of Tata Steel Limited in Jharkhand**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
-The author examines the challenge of converting lands from agrarian to urban use through the organisation of the middle-class neighbourhood which had become ubiquitous in the mid-20th century of Bombay’s city fabric. Apartment living is self-contained and represents a novel form of urban life. The author helps us to understand how built environments and urban identities constitute one another.
+Using the case study of corporate social responsibility in Tata Steel Limited in Jharkhand, this report looks at how India’s Companies Act 2013 and the United Nation’s Millennium Development Goals have impacted the country’s corporate social responsibility initiatives.
 
-Retrieved from ProQuest Ebook Central. *myLibrary* ID login is required to access this ebook.
+Retrieved from ProQuest Central. (*myLibrary*ID is required to access this database.)
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**Corporate social responsibility of public sector company: A case study of BHEL**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+This report looks at the concept of corporate social responsibility in BHEL, a public sector company and one of the largest engineering firms in India. Besides describing the various corporate social responsibility activities which BHEL has adopted from 2009 to 2014, it also provides an analysis of its spending on corporate social responsibility.
+
+Retrieved from ProQuest Central. (myLibraryID is required to access this database.)
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**A study of CSR in Indian banks with special reference to State Bank of India**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+Through this article, take a closer look at how the State Bank of India played a part to improve community welfare, health, education and agriculture through its various corporate social responsibility activities from 2012 to 2015.
+
+Retrieved from EBSCOHost Databases. (myLibraryID is required to access this database.)
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**Joy of giving at Snapdeal: A case study**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+
+Snapdeal is a technology start-up and one India’s largest e-commerce sites. Learn about how the company rolled out innovative corporate social responsibility interventions without the need to invest huge funds on its corporate social responsibility initiatives.
+
+Retrieved from EBSCOHost Databases. (myLibraryID is required to access this database.)
 
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**CSRBOX**](http://csrbox.org/index.php){:target="_blank"}
+
+CSRBOX is a comprehensive analytics and information platform covering corporate social responsibility in India. Besides news and information about corporate social responsibility, it provides a list of over 1,000 Indian companies and details about their initiatives and financial spendings on corporate social responsibility.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**INDIACSR**](http://indiacsr.in/){:target="_blank"}
+
+Said to be India’s largest corporate social responsibility network, INDIACSR is a news portal dedicated to the sharing of information, news and best practices of corporate social responsibility and sustainability in India. In addition, it includes interviews with prominent business leaders on the corporate social responsibility efforts and initiatives adopted by their companies.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Indian law requires companies to give 2% of profits to charity. Is it working?**](https://www.theguardian.com/sustainable-business/2016/apr/05/india-csr-law-requires-companies-profits-to-charity-is-it-working){:target="_blank"}
+
+Has the Companies Act 2013 increased contributions to corporate social responsibility in India? This article attempts to seek the answer as it examines the development of corporate social responsibility in India two years after the Companies Act passed in 2014 made corporate social responsibility mandatory.
+
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Microsoft India – Real impact for a better tomorrow**](https://www.microsoft.com/en-in/about/citizenship/overview.aspx){:target="_blank"}
+
+Learn about how Microsoft India contributes to the community through its corporate social responsibility, sustainability, volunteerism and humanitarian initiatives that help to empower the locals, raise funds and address societal challenges in India.
