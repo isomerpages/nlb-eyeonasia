@@ -80,6 +80,14 @@ collections:
     output: true
   india-know-working:
     output: true
+  india-share-youngpeople:
+    output: true
+  india-share-employers:
+    output: true
+  india-go-students:
+    output: true
+  india-go-professionals:
+    output: true
     
 
 # Resource Room and Pagination
