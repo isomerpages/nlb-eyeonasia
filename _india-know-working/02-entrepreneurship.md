@@ -83,7 +83,7 @@ Despite being nephews of tycoon Rahul Bajaj, Anurang and his twin Tarang struck 
 In 2016, Hyderabad’s Ronak Kumar Samantray made it into Forbes 30 under 30 Asia list. Read on to find out how he became an entrepreneur and co-founded *NowFloats*, a start-up that helps small businesses to get online.
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mYxdg9ywwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mYxdg9ywwMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **Entrepreneurship: A journey in self discovery**
