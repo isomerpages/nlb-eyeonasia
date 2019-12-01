@@ -12,86 +12,82 @@ This is a selection of resources on entrepreneurship available from the [NLB cat
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Doing-business-in-India-A-framework-for-strategic-understanding.jpg" style="width:150px;" />
+<img src="/images/book-covers/Womentrepreneurs-Inspiring-stories-of-success.jpg" style="width:150px;" />
 
-[**Doing business in India: A framework for strategic understanding**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202355066){:target="_blank"}
+[**Womentrepreneurs: Inspiring stories of success**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202776221){:target="_blank"}
 
-This book discusses the cultural and consumer profile of the people of India and how these fit into the macroeconomic context of understanding India. Human resource management practices for successful cross-cultural management of Indian managers and employees, the appropriate types of leadership required for managing the Indian workforce as well as business strategies for both rural and urban markets in India are some of the areas covered.
+The successes and tribulations of 10 women entrepreneurs from all walks of life are covered in this collection. Based on personal interview, the book shows that motivation for starting entrepreneurial ventures no longer need to arise from the need to supplement income but increasingly from fulfilling a need for creative expression and individual growth.
 
-All rights reserved, Amsterdam, Netherlands: Elsevier, 2015
+All rights reserved, New Delhi: SAGE, 2016.
 
-<img src="/images/book-covers/Inaugural-2016-ease-of-doing-business-index-on-attractiveness-to-investors.png" style="width:150px;" />
+<img src="/images/book-covers/Entrepreneurship-innovations-and-start-ups-in-India.jpg" style="width:150px;" />
 
-[**Inaugural 2016 ease of doing business index on attractiveness to investors, business friendliness and competitive policies (EDB index ABC) for 21 sub-national economies of India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203064350){:target="_blank"}
+[**Entrepreneurship, innovations and start-ups in India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203007551){:target="_blank"}
 
-As one of the world’s fastest growing emerging economy, this publication considers three key aspects of doing business in India: (i) Attractiveness to investors, (ii) Business friendliness, and (iii) Competitive policies.
+India declared the years 2010 to 2020 to be the “Decade of Innovation”, with an emphasis on the importance to synergise science, technology and innovation. This book presents a broad overview of policies and programmes for the development of entrepreneurship and innovations in India in conjunction with the flagship initiative Start-up India.
 
-All rights reserved, Singapore: World Scientific Publishing, 2017.
+All rights reserved, New Delhi: New Century Publications, 2017.
 
-<img src="/images/book-covers/Investigating-cultural-aspects-in-Indian-organisations-Empirical-evidence.jpg" style="width:150px;" />
+<img src="/images/book-covers/Social-entrepreneurship.jpg" style="width:150px;" />
 
-[**Investigating cultural aspects in Indian organisations : Empirical evidence**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202667789){:target="_blank"}
+[**Social entrepreneurship**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202835976){:target="_blank"}
 
-The Indian society can be at best described as a combination of multiple cultures, value systems, and socio-political and institutional orientations. Gain a deeper understanding of India’s organisational culture through topics such as human resource management; cross-cultural communication and coaching; cultural similarity; cultural literacy; multiculturalism; generational cultural values; talent acquisition; and knowledge management.
+Social entrepreneurship is the art of creating a socially responsible business with the objective of generating profit while also solving social and environmental problems. Comprising 16 papers, this publication provides deep insights into the social and ethical aspects of modern business practices. Chapters 8 and 11 elaborate on the social entrepreneurship perspective in India and the challenges faced by social entrepreneurs in India respectively.
 
-All rights reserved, Cham: Springer, 2015.
+ All rights reserved, New Delhi, India: New Century Publications, 2016.
 
-<img src="/images/book-covers/CultureShock-India-A-survival-guide-to-customs-and-etiquette.jpg" style="width:150px;" />
+<img src="/images/book-covers/Building-winning-partnerships-A-ringside-view.jpg" style="width:150px;" />
 
-[**India – CultureSmart! The essential guide to customs & culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202729157){:target="_blank"}
+[**Building winning partnerships: A ringside view**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201109166){:target="_blank"}
 
-India’s population of more than 1.2 billion is as varied and colourful as the spice markets of Old Delhi. Each region and community has its own culture, language and social customs that reflect its unique history and way of life. Learn to navigate the cultural differences of Indian society and be aware of the changes taking place in India, as the country transforms from a developing, third world nation into one of the world’s fastest growing economy.
+In 1998, Xerox India launched the Out Source Service Agents Programme which saw the transformation of a group of service technicians with no business backgrounds into successful entrepreneurs. Find out about their challenges as they embarked on an unfamiliar journey and gradually learned the ropes with some encountering setbacks while others enjoyed success.
 
-All rights reserved, London: Kuperard, 2016.
+All rights reserved, Bloomington, Indiana: Partridge, a Penguin Random House Company, 2014.
 
-<img src="/images/book-covers/Indian-etiquette-A-matter-of-course.png" style="width:150px;" />
+<img src="/images/book-covers/The-Z-Factor-My-journey-as-the-wrong-man-at-the-right-time.jpg" style="width:150px;" />
 
-[**Indian etiquette: A matter of course**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202979495){:target="_blank"}
+[**The Z Factor: My journey as the wrong man at the right time**](https://nlb.overdrive.com/media/3019457){:target="_blank"}
 
-Observe the proper way to behave through this book which covers key aspects of India’s rich culture, from gift giving, presenting a garland and eating with fingers to coping with unfamiliar food and making home visits.
+Subhash Chandra, the promoter of Essel/ Zee Group, is an unlikely mogul. Hailing from a small town in Haryana, a North Indian state where his family ran grain mills, he started work as a teen to pay off family debts. With gumption, sheer hard work and luck, he made a fortune in rice exports to the USSR. He went on to broadcasting and now focuses on infrastructure and smart cities. Read this candid memoir of a true self-made businessman who came to Delhi at age 20 with 17 rupees in his pocket.
 
-All rights reserved, Singapore: Landmark Books, 2017.
+Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/India-CultureSmart-The-essential-guide-to-customs-culture.jpg" style="width:150px;" />
+<img src="/images/book-covers/Vij-A-chefs-one-way-ticket-to-Canada-with-Indian-spices-in-his-suitcase.jpg" style="width:150px;" />
 
-[**India – CultureSmart! The essential guide to customs & culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202739467){:target="_blank"}
+[**Vij: A chef’s one-way ticket to Canada with Indian spices in his suitcase**](https://nlb.overdrive.com/media/2841603){:target="_blank"}
 
-India’s population of more than 1.2 billion is as varied and colourful as the spice markets of Old Delhi. Each region and community has its own culture, language and social customs that reflect its unique history and way of life. Learn to navigate the cultural differences of Indian society and be aware of the changes taking place in India, as the country transforms from a developing, third world nation into one of the world’s fastest growing economy.
+Vikram Vij, one of Canada’s great chefs, shares his story of the trials and triumphs in building a world-renowned food empire. He shares a rags-to-riches tale of a college dropout from northern India who made it to Europe’’ temples of high cuisine, then with a one-way ticket bound for Canada, found fame serving some of the world’s most transcendent Indian cuisine.
 
-All rights reserved, London: Kuperard, 2016.
-
-<img src="/images/book-covers/How-India-works-Making-sense-of-a-complex-corporate-culture.jpg" style="width:150px;" />
-
-[**How India works: Making sense of a complex corporate culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203227357){:target="_blank"}
-
-Having a sense of cultural awareness when working abroad plays a key role in success at one’s job. Written by a native author with rich experience in the working culture in India, *How India Works* is a useful guide for those who wish to tackle the nuances and complexities of working in India.
-
-All rights reserved, Noida: Haprer Business, 2018
+Retrieved from OverDrive. *myLibrary ID* is required to access this ebook.
 
 ---
 
 ### **You may also like**
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Ease of doing business : An enterprise survey of Indian States**](http://www.niti.gov.in/writereaddata/files/document_publication/EoDB_Report.pdf){:target="_blank"}
+[**How an indigenous operating system overtook Apple iOS, Microsoft Windows**](https://economictimes.indiatimes.com/articleshow/62400218.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst){:target="_blank"}
 
-The National Institution for Transforming India (NITI Aayog) and IDFC Institute, a research-based think tank, surveyed over 3,000 Indian firms to find out how easy it is to do business in India. After examining the business climate, reforms were proposed to facilitate ease of doing business and create enabling ecosystems.
+Find out how three friends thought of an idea to build an operating system that worked seamlessly with Indian languages. In 2012, they rolled out Indus OS, the indigenous operating system that boasts 10 million users and is second only to Android in India.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**India’s best companies to work for 2017**](https://economictimes.indiatimes.com/best_company_2017.cms){:target="_blank"}
+[**How Rahul Bajaj’s twin nephews Anurag and Tarang rode into the billionaire’s club**](https://economictimes.indiatimes.com/articleshow/63088847.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst){:target="_blank"}
 
-Being touted as a great place to work at is one of the highest accolades a company can hope to receive. Check out this resource that lists the best 100 companies to work for in India. The 2017 edition of the award by *The Economic Times*, an English-language Indian daily newspaper, js now in its 10th year.
-
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
-
-[**Five things I have learned while working in India**](https://www.britishcouncil.org/voices-magazine/five-things-learned-while-working-india){:target="_blank"}
-
-The writer, who is completing a five-month teaching placement in India through the British Council, shares his experience from his interaction with the people he has met there.
+Despite being nephews of tycoon Rahul Bajaj, Anurang and his twin Tarang struck out on their own to run two separate auto- components businesses – Endurance and Varroc. Read on to find out about their trials and tribulations of their journeys.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Working in India**](http://www.expatarrivals.com/india/working-in-india){:target="_blank"}
+[**Ronak now floats into Forbes list**](https://www.deccanchronicle.com/lifestyle/viral-and-trending/080316/ronak-now-floats-into-forbes-list.html){:target="_blank"}
 
-A useful online resource for expatriates planning to live and work in India.
+In 2016, Hyderabad’s Ronak Kumar Samantray made it into Forbes 30 under 30 Asia list. Read on to find out how he became an entrepreneur and co-founded *NowFloats*, a start-up that helps small businesses to get online.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mYxdg9ywwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Entrepreneurship: A journey in self discovery**
+
+Watch this TEDx Janpath Talk (11:42 mins) by Ameera Shah who runs Metropolis Healthcare – a chain of diagnostics labs across India, Sri Lanka, the Middle East and Africa as she reflects on her own journey and the challenges she had faced while building the business across the globe.
+
+Source: TEDx Talks
