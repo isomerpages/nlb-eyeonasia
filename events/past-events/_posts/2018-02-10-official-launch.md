@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Official launch – 10 February 2018
-permalink: /past-events/official-launch-10-february-2018/
+permalink: /events/past-events/official-launch-10-february-2018/
 date: 2018-02-10
 ---
 

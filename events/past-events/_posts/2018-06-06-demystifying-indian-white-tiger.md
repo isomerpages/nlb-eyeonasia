@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demystifying the Indian ‘white tiger’
-permalink: /past-events/06-jun-2018/
+permalink: /events/past-events/06-jun-2018/
 date: 2018-06-06
 ---
 

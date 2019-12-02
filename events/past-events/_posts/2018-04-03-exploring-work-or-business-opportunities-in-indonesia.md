@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring work or business opportunities in Indonesia?
-permalink: /past-events/03-apr-2018/
+permalink: /events/past-events/03-apr-2018/
 date: 2018-04-03
 ---
 

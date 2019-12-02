@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are you aspiring to work beyond Singapore?
-permalink: /past-events/20-mar-2018/
+permalink: /events/past-events/20-mar-2018/
 date: 2018-03-20
 ---
 
