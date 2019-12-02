@@ -14,7 +14,7 @@ Planning a career in India? Check out the programmes and opportunities available
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/go/for-professionals/training-programmes/" class="project-link">
+			<a href="/china/go/for-professionals/awards-professionals/" class="project-link">
 				<img src="/images/india-professionals/Awards-and-other-programmes-students-370x150.jpg" alt="Awards and other programmes (for students)" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ Planning a career in India? Check out the programmes and opportunities available
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/go/for-professionals/awards-professionals/" class="project-link">
+			<a href="/india/go/for-professionals/training-programmes/" class="project-link">
 				<img src="/images/india-professionals/Training-programmes-1-370x150.jpg" alt="International exchange programmes" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
