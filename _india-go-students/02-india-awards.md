@@ -10,70 +10,52 @@ collection_name: india-go-students
 
 ### **Awards**
 
+**Enterprise Singapore: Youth Talent Programme – Market Immersion**
 
+This programme offers work opportunities for students with Singapore-based companies that operate overseas. Students from local universities, polytechnics and the Institute of Technical Education are welcome to apply for placements via their school’s career service office. The costs of sending Singaporeans or Singapore PR students for overseas immersion stints will be shared jointly between Enterprise Singapore and the participating local education institutions.
 
-##### **National University of Singapore**
-
-###### **NUS Global Internship Award**
-
-This is for enrolled students at the National University of Singapore. The National University of Singapore (NUS) Global Internship Award provides support for NUS students embarking on NUS-approved internships.
-
-- [Find out more](http://nus.edu.sg/cfg/sites/default/files/documents/Financial Support for Global Internships.pdf){:target="_blank"}
+[Find out more](https://ie.enterprisesg.gov.sg/Venture-Overseas/talent-development/ytp-market-immersion){:target="_blank"}
 
 
 
-###### **China Initiatives Steering Committee (CISC) Funding – National University of Singapore**
+**Temasek Foundation International Leadership Enrichment and Regional Networking (LEaRN) Programme**
 
-This funding is available for students participating in internships, hybrid work and study programmes, research attachments, short-term study programmes or Study Trips for Engagement and Enrichment (STEER) programmes in China.
+The programme offers awards to students studying in local universities for exchange programmes to Southeast Asia and Asia.
 
-- [Find out more](http://www.nus.edu.sg/iro/fa/sch/out/cisc.html){:target="_blank"}
+Nanyang Technological University
 
+- [Find out more](http://global.ntu.edu.sg/GMP/gemexplorer/BeforeApplying/ScholarshipsFunding/Pages/TFLEaRN.aspx){:target="_blank"}
 
+National University of Singapore
 
-##### **Singapore University of Social Sciences (SUSS)– Singapore Federation of Chinese Clan Association (SFCCA)**
+- [Find out more](http://www.nus.edu.sg/iro/fa/sch/out/tfilearn-out.html){:target="_blank"}
 
+Singapore Management University
 
-
-###### **SUSS-SFCCA Sponsorship**
-
-This sponsorship award aims to encourage lifelong learning and to nurture a bilingual and bi-cultural workforce, and is targeted at applicants undertaking selected undergraduate programmes at SUSS.
-
-- [Find out more](http://www.sfcca.sg/en/scholarship/unisim){:target="_blank"}
-
-
-
-##### **Singapore Federation of Chinese Clan Associations**
-
-###### **SFCCA Scholarship**
-
-To foster bilingual and bicultural talents, this scholarship will be awarded annually to five outstanding students pursuing their studies in top-ranking Chinese universities to finance their studies and living expenses.
-
-- [Find out more](http://www.sfcca.sg/en/scholarship/sfccascholarship){:target="_blank"}
+- [Find out more](https://www.smu.edu.sg/about/financial/scholarships/TFLEaRN){:target="_blank"}
 
 
 
 ### **Other programmes**
 
-##### **Business China Singapore – Go East**
+**NGO Volunteers**
 
-This initiative is targeted at Singapore students, particularly those in Institutes of Higher Learning. It aims to expose them to the changing face of Chinese society and help them gain ground experience working and living in China.
+This non-profit organisation provides a platform for people looking for volunteer work opportunities and programmes supported by non-governmental organisations across India. Volunteer work projects average between two to four weeks in duration and cover areas such as child education, healthcare, women empowerment, natural resource management and documentation and research.
 
-- [Find out more](http://www.businesschina.org.sg/en.php/initiatives/goeast){:target="_blank"}
+[Find out more](http://ngovolunteers.com/){:target="_blank"}
 
+ 
 
+**Singapore International Foundation**
 
-##### **Business China Singapore Youth Chapter (BCYC)**
+The Singapore International Foundation’s Arts for Good initiative aims to bring Singaporean artists and their international counterparts together to promote awareness of social issues, share best practices and enable action for positive impact.
 
-Supported by Business China Singapore, the Business China Singapore Youth Chapter (BCYC) is a voluntary group of youths formed in 2010, which envisions itself to be the leading Singapore-based community that inspires youths to become China-savvy and facilitates connections with China. It has a vibrant calendar of year-round activities which serve the needs of the BCYC community.
+[Find out more](https://www.sif.org.sg/our-work/ce/afg/about){:target="_blank"}
 
-- [Find out more](https://www.businesschina.org.sg/en.php/initiatives/goeast/programmes/15){:target="_blank"}
+ 
 
+**Voluntary Service Overseas (VSO)**
 
+VSO is a British organisation which offers opportunities worldwide to individuals and organisations to make positive contributions and lasting impacts to some of the poorest and most marginalised communities in the world. VSO also offers a Youth Citizen Service which is designed to promote youth volunteerism and provides development exposure to youth volunteers.
 
-##### **Singapore Valley Awards (SVA)**
-
-This is an annual entrepreneurship award that offers students with the most compelling business ideas a fully sponsored internship in China with world-leading technology companies and venture capital firms in China. It is open to all full-time undergraduates, preferably in their third or fourth year, in any programme of study, matriculated in any local university.
-
-- [Find out more](http://www.singaporevalleyawards.com/index.html){:target="_blank"}
-
-  
+[Find out more](https://www.vsointernational.org/volunteering/where-do-volunteers-work/india){:target="_blank"}
