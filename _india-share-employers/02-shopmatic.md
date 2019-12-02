@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Riding the digital India wave with Shopmatic and Shopmonk
-permalink: /india/share/what-employers-say/digital-wave/
-breadcrumb: Riding the digital India wave with Shopmatic and Shopmonk
+title: Shopmatic discovers the key to unlocking India’s consumer market: mobile
+permalink: /india/share/what-employers-say/shopmatic/
+breadcrumb: Shopmatic discovers the key to unlocking India’s consumer market: mobile
 collection_name: india-share-employers
 ---
 
