@@ -88,6 +88,8 @@ collections:
     output: true
   india-go-professionals:
     output: true
+  past-events:
+    output: true
     
 
 # Resource Room and Pagination
