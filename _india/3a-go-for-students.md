@@ -14,7 +14,7 @@ Are you thinking that you might like to work in India after you graduate but don
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/go/for-students/overseas-internships/" class="project-link">
 				<img src="/images/india-students/Awards-and-other-programmes-professionals-370x150.jpg" alt="Awards and other programmes (for students)" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ Are you thinking that you might like to work in India after you graduate but don
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/go/for-students/international-exchange-programmes/" class="project-link">
 				<img src="/images/india-students/International-exchange-programmes-370x150.jpg" alt="International exchange programmes" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -34,7 +34,7 @@ Are you thinking that you might like to work in India after you graduate but don
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/go/for-students/awards-for-students/" class="project-link">
 				<img src="/images/india-students/Overseas-internships-1-370x150.jpg" alt="Overseas internship" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
