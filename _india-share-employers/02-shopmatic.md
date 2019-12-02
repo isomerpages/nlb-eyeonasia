@@ -10,14 +10,12 @@ collection_name: india-share-employers
 
 **This extract is reproduced with permission:**
 
-*With the fastest-growing e-commerce market in the world and Internet users in the country expected to double to 730 million by 2020, India is on the cusp of a “digital revolution.”*
+*Shopmatic may be based in Singapore but when the e-marketplace service provider start-up launched, it went global first – entering the challenging but promising Indian market before even Singapore’s.*
 
-*Singapore companies, said the two business leaders, can — and should — embrace the many opportunities emerging from India’s digital transformation.*
+*“Some companies believe that you have to build your base here in Singapore first… but for us, we were thinking global from day one,” said Mr. Avula [co-founder and CEO of Shopmatic]. “The Singapore market is great and it’s important to us, but it’s equally if not more important to leverage the opportunities that other global markets have.”*
 
-*“There’s still a huge gap in India for Singapore companies to tap into,” said Mr Narula [CEO of Shopmonk]. “The market promises to pan out very aggressively over the next 5 to 10 years, and Singaporean companies could benefit the most from this. They just have to be there at the right time when the consumer is looking for those quality products and services that Singapore can provide.”*
+*“Our goal is to extend our footprint into multiple emerging economies,” said Mr. Avula. “It’s a tougher route, clearly. you’re going into countries that don’t necessarily understand e-commerce. So you work with that and build for that. But when the comprehension comes in and when there’s a tipping point in the market, then you’re very well placed to leverage the benefits that accrue out of that.”*
 
-*Without the need to invest in costly physical infrastructure, there are fewer barriers to entry for Singapore companies looking to win big in India’s digital space. “Digital infrastructure makes it easier for someone to enter the market,” said Mr Avula [CEO and co-founder of Shopmatic]. “It means you don’t have to have physical infrastructure in multiple places, which leapfrogs [companies] into being able to reach out to many consumers.”*
-
-[Read more from Enterprise Singapore’s Doing Business in India.](https://ie.enterprisesg.gov.sg/IE-Blog/iAdvisory-Seminar-India-GST/Riding-The-Digital-India-Wave-with-Shopmatic-and-Shopmonk){:target="_blank"}
+[Read more #SgGoesGlobal stories by Enterprise Singapore.](https://ie.enterprisesg.gov.sg/Venture-Overseas/SgGoesGlobal/Shopmatic){:target="_blank"}
 
 Credit: Enterprise Singapore
