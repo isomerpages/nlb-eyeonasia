@@ -19,3 +19,5 @@ collection_name: india-share-youngpeople
 *Most of all, India changed her life. … It planted the seed that she wanted to do work that would bring positive impact to others more directly.*
 
 [Read more from Nanyang Business School’s News](http://www.nbs.ntu.edu.sg/NewsnEvents/Pages/News-Details.aspx?news=630e51da-4e68-4ef5-8ec3-ee8ff2a9aee7){:target="_blank"}
+
+Credit: Nanyang Business School
