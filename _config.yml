@@ -92,7 +92,9 @@ collections:
     output: true
     
 
-# Resource Room and Pagination
+# Resources and pagination
+resources_name: events
 paginate: 12
+paginate_path: "/events/page:num"
 
 is_government: false
