@@ -14,7 +14,7 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/working-in-india/csr-in-india/" class="project-link">
 				<img src="/images/india-working/CSR-India-bg-370x150.jpg" alt="Corporate Social Responsibility in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/working-in-india/business-culture/" class="project-link">
 				<img src="/images/india-working/Business-culture-in-India-2-370x150.jpg" alt="Business culture in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -34,7 +34,7 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/working-in-india/entrepreneurship/" class="project-link">
 				<img src="/images/india-working/Entrepreneurship-in-India-2-370x150.jpg" alt="Entrepreneurship in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -51,7 +51,7 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/working-in-india/future-economy/" class="project-link">
 				<img src="/images/india-working/Future-economy-in-India-370x150.jpg" alt="Future economy" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -61,7 +61,7 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/working-in-india/consumer-market/" class="project-link">
 				<img src="/images/india-working/Indias-consumer-market-and-culture-1-370x150.jpg" alt="India’s consumer market and culture" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -71,7 +71,7 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/know/working-in-india/innovation-india/" class="project-link">
 				<img src="/images/india-working/Innovation-in-India-2-370x150.jpg" alt="Innovation in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -88,7 +88,7 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/know/working-in-india/inspiring-stories/" class="project-link">
 				<img src="/images/india-working/Inspiring-stories-and-insights-370x150.jpg" alt="Inspiring stories and insights" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -98,7 +98,7 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/know/working-in-india/talent-management/" class="project-link">
 				<img src="/images/india-working/Talent-management-370x150.jpg" alt="Talent management" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
