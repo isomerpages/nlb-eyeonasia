@@ -6,7 +6,7 @@ breadcrumb: Shopmatic discovers the key to unlocking India’s consumer market -
 collection_name: india-share-employers
 ---
 
-<img src="\images\india-employers\digital-wave.jpg" alt="digital wave" style="width:800px;" />
+<img src="\images\india-employers\shopmatic.jpg" alt="shopmatic" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 
