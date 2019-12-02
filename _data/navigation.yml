@@ -40,11 +40,6 @@
     url: /india/go/for-students/
 - title: Events
   url: /events/
-  sub-links:
-  - title: Upcoming Events
-    url: /events/upcoming-events/
-  - title: Past Events
-    url: /events/past-events
 - title: Our Partners
   url: /our-partners/
 - title: Contact Us
