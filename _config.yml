@@ -90,7 +90,8 @@ collections:
     output: true
   past-events:
     output: true
-    
+  events:
+    output: true    
 
 # Resources and pagination
 resources_name: events
