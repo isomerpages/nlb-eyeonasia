@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Insights into the banking industry
-permalink: /india/share/what-employers-say/banking-industry/
+permalink: /india/share/what-young-people-say/banking-industry/
 breadcrumb: Insights into the banking industry
 collection_name: india-share-youngpeople
 ---
 
-<img src="\images\india-employers\banking-industry.jpg" alt="banking industry" style="width:800px;" />
+<img src="\images\india-youngpeople\banking-industry.jpg" alt="banking industry" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 

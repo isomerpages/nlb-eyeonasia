@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: A posting in India changed her life
-permalink: /india/share/what-employers-say/india-posting/
+permalink: /india/share/what-young-people-say/india-posting/
 breadcrumb: A posting in India changed her life
 collection_name: india-share-youngpeople
 ---
 
-<img src="\images\india-employers\india-posting.jpg" alt="india posting" style="width:800px;" />
+<img src="\images\india-youngpeople\india-posting.jpg" alt="india posting" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 
