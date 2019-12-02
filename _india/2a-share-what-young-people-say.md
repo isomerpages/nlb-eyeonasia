@@ -14,7 +14,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/share/what-young-people-say/india-posting/" class="project-link">
 				<img src="/images/india-youngpeople/NBS-alumna-Rebecca-shows-the-way-370x150.jpg" alt="A posting in India changed her life" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/share/what-young-people-say/banking-industry/" class="project-link">
 				<img src="/images/india-youngpeople/IMG_2461-370x150.jpg" alt="Insights into the banking industry" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -34,11 +34,11 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/share/what-young-people-say/commodity-industry/" class="project-link">
 				<img src="/images/india-youngpeople/Insights-into-the-commodity-exchange-industry-370x150.jpg" alt="Insights into the commodity exchange industry" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Insights into the commodity exchange industry</b></h5>
+					<h5><b>Insights into the commodity exchange...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -51,7 +51,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/share/what-young-people-say/oil-palm-industry/" class="project-link">
 				<img src="/images/india-youngpeople/Insights-into-the-oil-palm-industry-1-370x150.jpg" alt="Insights into the oil palm industry" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -61,7 +61,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
+			<a href="/india/share/what-young-people-say/oil-refinery-industry/" class="project-link">
 				<img src="/images/india-youngpeople/Insights-into-the-oil-refinery-industry-370x150.jpg" alt="Insights into the oil refinery industry" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -71,7 +71,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+			<a href="/india/share/what-young-people-say/aviation-internship/" class="project-link">
 				<img src="/images/india-youngpeople/Poly-aviation-students-shine-in-India-internship-370x150.jpg" alt="Poly aviation students shine in India internship" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -88,7 +88,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
+			<a href="/india/share/what-young-people-say/internship-perspectives/" class="project-link">
 				<img src="/images/india-youngpeople/Life-changing-internships-abroad-offer-new-perspectives-and-added-skills-1-370x150.jpg" alt="Life-changing internships abroad offer new..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
