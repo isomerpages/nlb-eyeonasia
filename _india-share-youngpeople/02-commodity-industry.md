@@ -6,7 +6,7 @@ breadcrumb: Insights into the commodity exchange industry
 collection_name: india-share-youngpeople
 ---
 
-<img src="\images\india-youngpeople\commodity-industry" alt="commodity industry" style="width:800px;" />
+<img src="\images\india-youngpeople\commodity-industry.jpg" alt="commodity industry" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 

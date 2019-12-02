@@ -6,7 +6,7 @@ breadcrumb: Insights into the oil palm industry
 collection_name: india-share-youngpeople
 ---
 
-<img src="\images\india-youngpeople\oil-palm-industry" alt="oil palm industry" style="width:800px;" />
+<img src="\images\india-youngpeople\oil-palm-industry.jpg" alt="oil palm industry" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 

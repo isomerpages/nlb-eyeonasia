@@ -6,7 +6,7 @@ breadcrumb: Insights into the oil refinery industry
 collection_name: india-share-youngpeople
 ---
 
-<img src="\images\india-youngpeople\oil-refinery-industry" alt="oil refinery industry" style="width:800px;" />
+<img src="\images\india-youngpeople\oil-refinery-industry.jpg" alt="oil refinery industry" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 
