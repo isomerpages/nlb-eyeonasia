@@ -43,9 +43,9 @@ He is the author of When Change Happens… A Story of Organisational Transformat
 
 Lalit’s career has taken him across India and he has worked in cities from Mumbai, Chennai and Hyderabad to Calcutta, Bangalore and Cochin. His experiences in these diverse Indian cities and states have given him a unique cultural insight into living and working in India.
 
-|   <a href="\images\past-events\06-Jun-2018\image-1.jpg"><img src="\images\past-events\06-Jun-2018\image-1.jpg" style="width:200px;" /></a>   | <a href="\images\past-events\06-Jun-2018\image-2.jpg"><img src="\images\past-events\06-Jun-2018\image-2.jpg" style="width:200px;" /></a>     |    <a href="\images\past-events\06-Jun-2018\image-3.jpg"><img src="\images\past-events\06-Jun-2018\image-3.jpg" style="width:200px;" /></a>  |   <a href="\images\past-events\06-Jun-2018\image-4.jpg"><img src="\images\past-events\06-Jun-2018\image-4.jpg" style="width:200px;" /></a>   |
-| ---- | ---- | ---- | ---- |
-|      |      |      |      |
+| <a href="\images\past-events\06-Jun-2018\image-1.jpg"><img src="\images\past-events\06-Jun-2018\image-1.jpg" style="width:200px;" /></a> | <a href="\images\past-events\06-Jun-2018\image-2.jpg"><img src="\images\past-events\06-Jun-2018\image-2.jpg" style="width:100px;" /></a> | <a href="\images\past-events\06-Jun-2018\image-3.jpg"><img src="\images\past-events\06-Jun-2018\image-3.jpg" style="width:200px;" /></a> | <a href="\images\past-events\06-Jun-2018\image-4.jpg"><img src="\images\past-events\06-Jun-2018\image-4.jpg" style="width:200px;" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |                                                              |
 
 
 <img src="\images\past-events\06-Jun-2018\edm.jpg" style="width:650px;" />
