@@ -26,26 +26,19 @@ Eye on Asia presents the Human Library Collection where participants are able to
 **Group A:**
 
 Michelle Leong
-
 CEO, 1010Life Training Consultancy
 
 Selvaraj Ramakrishnan
-
 Project Engineer, Product Engineer
-
 Cost Estimation Lead
-
 
 **Group B:**
 
 Koh Chaik Ming
-
 Managing Director & CEO, Forchn International, Forchn Real Estate Fund Management
 
 Prasoon Mukherjee
-
 Vice Chairman
-
 Singapore Indian Chamber of Commerce & Industry and South Asia Business Group, Singapore Business Federation
 
  
