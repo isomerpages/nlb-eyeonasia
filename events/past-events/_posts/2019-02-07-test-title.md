@@ -40,13 +40,13 @@ Free admission. Please register via [this link](https://bit.ly/2SVvHuu)
 #####  **Watch highlights of the programme:** 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tk5sq5VTqGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_P3EhXMZId0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ##### **Watch the full programme:**
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qAqs_kfx4Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9mUaS0HcM0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <img src="\images\past-events\07-Feb-2019\edm.jpg" style="width:650px;" />
