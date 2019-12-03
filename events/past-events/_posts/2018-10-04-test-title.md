@@ -17,8 +17,6 @@ This is one of the talks under the Eye on Asia programme series for everyone inc
 
 
 
-
-
 Drawn by China’s strong economic growth and modernising efforts, Singaporeans Kenneth Sun, Chief Strategy Officer of Riverwood Pte Ltd, and Elston Sam, a final year student at Nanyang Technological University, took the leap of faith to explore opportunities that the Chinese market had to offer.
 
 Join them as they share what they have learnt as well as their personal experiences from taking the road less travelled.
@@ -31,9 +29,14 @@ Join them as they share what they have learnt as well as their personal experien
 
 **National Library Building**
 
-Free admission. Register now via https://bit.ly/2O3Nopu
+Free admission. Register now via [this link](https://bit.ly/2O3Nopu)
 
 **Eye on Asia** offers resources on ASEAN countries, China and India for everyone, including young Singaporeans exploring opportunities in the region and beyond.
+
+| <a href="\images\past-events\04-Oct-2018\image-1.jpg"><img src="\images\past-events\04-Oct-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-2.jpg"><img src="\images\past-events\04-Oct-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-3.jpg"><img src="\images\past-events\04-Oct-2018\image-3.jpg" style="width:250px;" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="\images\past-events\04-Oct-2018\image-4.jpg"><img src="\images\past-events\04-Oct-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-5.jpg"><img src="\images\past-events\04-Oct-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |
+
 
 ##### **About the Speakers**
 
@@ -56,10 +59,6 @@ Elston Sam is a final year student at Nanyang Technological University, majoring
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v8UdoV832Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-| <a href="\images\past-events\04-Oct-2018\image-1.jpg"><img src="\images\past-events\04-Oct-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-2.jpg"><img src="\images\past-events\04-Oct-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-3.jpg"><img src="\images\past-events\04-Oct-2018\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="\images\past-events\04-Oct-2018\image-4.jpg"><img src="\images\past-events\04-Oct-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-5.jpg"><img src="\images\past-events\04-Oct-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |
 
 <img src="\images\past-events\04-Oct-2018\edm.jpg" style="width:650px;" />
 
