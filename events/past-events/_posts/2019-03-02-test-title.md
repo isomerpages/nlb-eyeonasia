@@ -23,23 +23,17 @@ The booming growth in India, particularly the service sector is suitable for Sin
 
 Eye on Asia presents the Human Library Collection where participants are able to connect and interact with human “books” over various topics. In this session, tap on the experiences of these living resources and find out more about the opportunities, challenges and key considerations of living and working in ASEAN countries, China and India.
 
-**Group A:**
+##### **Group A:**
 
-Michelle Leong
-CEO, 1010Life Training Consultancy
+**Michelle Leong** - CEO, 1010Life Training Consultancy
 
-Selvaraj Ramakrishnan
-Project Engineer, Product Engineer
-Cost Estimation Lead
+**Selvaraj Ramakrishnan** - Project Engineer, Product Engineer, Cost Estimation Lead
 
-**Group B:**
+##### **Group B:**
 
-Koh Chaik Ming
-Managing Director & CEO, Forchn International, Forchn Real Estate Fund Management
+**Koh Chaik Ming** - Managing Director & CEO, Forchn International, Forchn Real Estate Fund Management
 
-Prasoon Mukherjee
-Vice Chairman
-Singapore Indian Chamber of Commerce & Industry and South Asia Business Group, Singapore Business Federation
+**Prasoon Mukherjee** - Vice Chairman, Singapore Indian Chamber of Commerce & Industry and South Asia Business Group, Singapore Business Federation
 
  
 
