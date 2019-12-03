@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are you aspiring to work beyond Singapore?
+title: Evolution of education and trends in China
 permalink: /events/past-events/04-may-2018/
 date: 2018-05-04
 ---
