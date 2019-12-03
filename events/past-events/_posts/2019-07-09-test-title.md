@@ -5,7 +5,7 @@ permalink: /events/past-events/09-jul-2019/
 date: 2019-07-09
 ---
 
-<img src="\images\past-events\09-Jul-2019\banner.jpg" alt="30-May-2019 banner" style="width:800px;" />
+<img src="\images\past-events\09-Jul-2019\banner.jpg" alt="09-Jul-2019 banner" style="width:800px;" />
 
 Interested in exploring business opportunities in India? Pick up practical tips from entrepreneur, educationalist and IT professional Mr Kamaludeen during this session where he will cover topics such as Indian business company registration and customs procedures, existing government schemes, export costing and pricing, as well as Indian GST practices.
 
