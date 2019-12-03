@@ -200,6 +200,10 @@ $desktop: 960px + (2 * $gap) !default;
   background-color: $primary !important;
 }
 
+.bp-section.bg-secondary {
+  background-color: $primary !important;
+}
+
 // Pagination
 .pagination {
 	span {
