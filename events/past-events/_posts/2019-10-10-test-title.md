@@ -17,7 +17,7 @@ In this climate where both opportunities and intense competition abound, compani
 
 **National Library Building**
 
-Free Admission. Register now via https://go.gov.sg/nl-programme-10oct
+Free Admission. Register now via <https://go.gov.sg/nl-programme-10oct>
 
 ##### **About the Speaker**
 
