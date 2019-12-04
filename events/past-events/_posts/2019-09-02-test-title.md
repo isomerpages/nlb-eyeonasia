@@ -21,7 +21,7 @@ So then, what other opportunities are there for engineers? Join Mr Jameel Ahmed 
 
 For access to The Pod, please proceed to the lift lobby opposite the information counter at Level 1.
 
-Free Admission. Register now via https://go.gov.sg/nl-eyeonasia-sep
+Free Admission. Register now via <https://go.gov.sg/nl-eyeonasia-sep>
 
  
 
@@ -30,6 +30,8 @@ Free Admission. Register now via https://go.gov.sg/nl-eyeonasia-sep
 Jameel Ahmed Basheer Ahmed has more than 20 years of experience in Energy and Chemical Engineering works. He is currently the founder and managing director of several marine energy companies such as IES Energy Marine Services SB, Malaysia, International Energy Project PL, Singapore and Terminal Subsea Solutions Marine LLC, UAE.
 
 
+
+##### **Event gallery**
 
 | <a href="\images\past-events\02-Sep-2019\image-1.jpg"><img src="\images\past-events\02-Sep-2019\image-1.jpg" style="width:350px;" /></a> | <a href="\images\past-events\02-Sep-2019\image-2.jpg"><img src="\images\past-events\02-Sep-2019\image-2.jpg" style="width:350px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
