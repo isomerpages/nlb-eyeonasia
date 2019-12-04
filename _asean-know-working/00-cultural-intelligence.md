@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Understanding cultural intelligence
-permalink: /china/know/working-in-china/understanding-cultural-intelligence/
+permalink: /asean/know/working-in-asean/understanding-cultural-intelligence/
 breadcrumb: Understanding cultural intelligence
 collection_name: asean-know-working
 ---
