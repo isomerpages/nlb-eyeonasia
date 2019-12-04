@@ -14,6 +14,8 @@ We thank our partners for contributing to the initiative by allowing us access t
 
 ### **Founding Partners**
 
+
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
@@ -28,7 +30,9 @@ We thank our partners for contributing to the initiative by allowing us access t
 	</div>
 </div>
 
-### **Founding Partners**
+### **Partners**
+
+
 
 <div>
 	<div class="row is-multiline">
