@@ -344,7 +344,7 @@ Each ASEAN country has its history, language and dynamism. Understand the way of
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-philippines/ class="project-link">
+			<a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-philippines/" class="project-link">
 				<img src="/images/asean-living/Customs-Philippines-370x150.jpg" alt="Customs, Costumes & Etiquette in Philippines" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
