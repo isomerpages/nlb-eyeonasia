@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Listen - Discussing business in Southeast Asia
-permalink: /asean/know/working-in-asean/discussing-business-in-sea/
+permalink: /asean-countries/know/working-in-asean/discussing-business-in-sea/
 breadcrumb: Listen - Discussing business in Southeast Asia
 collection_name: asean-know-working
 ---
