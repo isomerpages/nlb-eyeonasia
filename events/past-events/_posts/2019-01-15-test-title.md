@@ -43,6 +43,8 @@ This programme is in partnership with Business China.
 
 **Dr Koh Chin Yee** is the Vice-president of South Seas Society, an 80-year-old academic body with a focus on Southeast Asia research. He has held appointments in China affairs in several government bodies and corporations before starting his own business in 2014. He has lectured for the National University of Singapore’s (NUS) Chinese Studies Department as well as NUS Business School’s executive education programmes, and is regularly invited overseas to speak at various universities.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\15-Jan-2019\image-1.jpg"><img src="\images\past-events\15-Jan-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\15-Jan-2019\image-2.jpg"><img src="\images\past-events\15-Jan-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\15-Jan-2019\image-3.jpg"><img src="\images\past-events\15-Jan-2019\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\15-Jan-2019\image-4.jpg"><img src="\images\past-events\15-Jan-2019\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\15-Jan-2019\image-5.jpg"><img src="\images\past-events\15-Jan-2019\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\15-Jan-2019\image-6.jpg"><img src="\images\past-events\15-Jan-2019\image-6.jpg" style="width:250px;" /></a> |

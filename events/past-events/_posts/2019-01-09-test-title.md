@@ -33,6 +33,8 @@ Free admission. Register now via [this link](https://bit.ly/2zwiTTE)
 
 **Mikhail** is the CEO of Have Halal, Will Travel, a travel and lifestyle portal. Mikhail’s specialisation in digital marketing, coupled with his deep understanding of the Muslim segment, has provided him with a unique perspective of the industry.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\09-Jan-2019\image-1.jpg"><img src="\images\past-events\09-Jan-2019\image-1.jpg" style="width:200px;" /></a> | <a href="\images\past-events\09-Jan-2019\image-2.jpg"><img src="\images\past-events\09-Jan-2019\image-2.jpg" style="width:200px;" /></a> | <a href="\images\past-events\09-Jan-2019\image-3.jpg"><img src="\images\past-events\09-Jan-2019\image-3.jpg" style="width:200px;" /></a> | <a href="\images\past-events\09-Jan-2019\image-4.jpg"><img src="\images\past-events\09-Jan-2019\image-4.jpg" style="width:200px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |                                                              |

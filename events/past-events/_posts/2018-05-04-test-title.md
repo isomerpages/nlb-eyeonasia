@@ -41,6 +41,8 @@ Curated by librarians from the National Library, Eye on Asia offers resources on
 
 Joseph Chong is the managing director of Ulearning Technology (International) Pte Ltd, which provides interactive digital content, a SaaS online cloud-based platform and online learning services with a focus on higher education as well as professional and corporate training.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\04-May-2018\image-1.jpg"><img src="\images\past-events\04-May-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-May-2018\image-2.jpg"><img src="\images\past-events\04-May-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-May-2018\image-3.jpg"><img src="\images\past-events\04-May-2018\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\04-May-2018\image-4.jpg"><img src="\images\past-events\04-May-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-May-2018\image-5.jpg"><img src="\images\past-events\04-May-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |

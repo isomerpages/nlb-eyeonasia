@@ -34,6 +34,8 @@ Free admission. Register now via [this link](https://bit.ly/2yUmKJn)
 **About the Speaker**
 Dr Tan Eng Han has spent most of his 24 years in China in the area of education management, representing both Singapore (Informatics Education) and U.S. education firms (Educational Testing Service and ACT). Eng Han founded Overseas SG Ltd and is an executive member of the Shanghai Singapore Business Association.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\08-Nov-2018\image-1.jpg"><img src="\images\past-events\08-Nov-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-Nov-2018\image-2.jpg"><img src="\images\past-events\08-Nov-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-Nov-2018\image-3.jpg"><img src="\images\past-events\08-Nov-2018\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\08-Nov-2018\image-4.jpg"><img src="\images\past-events\08-Nov-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-Nov-2018\image-5.jpg"><img src="\images\past-events\08-Nov-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |

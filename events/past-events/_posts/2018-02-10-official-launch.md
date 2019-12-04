@@ -13,6 +13,8 @@ Curated by librarians, Eye on Asia showcases the National Library’s collection
 
 Are you inspired by Eye on Asia? Did you learn something useful from our resources? Or do you have a new idea to share with us? Drop us a [note](http://www.eyeonasia.sg/contact/){:target="_blank"} and tell us what you think!
 
+##### **Event gallery**
+
 | <a href="\images\past-events\10-Feb-2018\EOA-Launch-1.jpg"><img src="\images\past-events\10-Feb-2018\EOA-Launch-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\10-Feb-2018\EOA-Launch-2.jpg"><img src="\images\past-events\10-Feb-2018\EOA-Launch-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\10-Feb-2018\EOA-Launch-3.jpg"><img src="\images\past-events\10-Feb-2018\EOA-Launch-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\10-Feb-2018\EOA-Launch-4.jpg"><img src="\images\past-events\10-Feb-2018\EOA-Launch-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\10-Feb-2018\EOA-Launch-5.jpg"><img src="\images\past-events\10-Feb-2018\EOA-Launch-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\10-Feb-2018\EOA-Launch-6.jpg"><img src="\images\past-events\10-Feb-2018\EOA-Launch-6.jpg" style="width:250px;" /></a> |

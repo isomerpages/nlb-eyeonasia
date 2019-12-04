@@ -25,6 +25,8 @@ Eye on Asia offers resources on ASEAN countries, China and India for young Singa
 
 Liew Mun Leong is the Chairman of Changi Airport Group and is responsible for the operation and development of Changi Airport and Surbana Jurong Group. He is also a Senior International Business Advisor of Temasek.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\11-Apr-2019\image-1.jpg"><img src="\images\past-events\11-Apr-2019\image-1.jpg" style="width:210px;" /></a> | <a href="\images\past-events\11-Apr-2019\image-2.jpg"><img src="\images\past-events\11-Apr-2019\image-2.jpg" style="width:255px;" /></a> | <a href="\images\past-events\11-Apr-2019\image-3.jpg"><img src="\images\past-events\11-Apr-2019\image-3.jpg" style="width:255px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |

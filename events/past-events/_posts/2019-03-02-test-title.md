@@ -47,6 +47,8 @@ To ensure that this event can accommodate as many participants as possible, plea
 
 Free admission. Register now via [this link](https://bit.ly/2G2p9aF)
 
+##### **Event gallery**
+
 | <a href="\images\past-events\02-Mar-2019\image-1.jpg"><img src="\images\past-events\02-Mar-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-2.jpg"><img src="\images\past-events\02-Mar-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-3.jpg"><img src="\images\past-events\02-Mar-2019\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\02-Mar-2019\image-4.jpg"><img src="\images\past-events\02-Mar-2019\image-4.jpg" style="width:110px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-5.jpg"><img src="\images\past-events\02-Mar-2019\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-6.jpg"><img src="\images\past-events\02-Mar-2019\image-6.jpg" style="width:250px;" /></a> |

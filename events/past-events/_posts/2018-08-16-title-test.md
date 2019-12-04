@@ -45,6 +45,8 @@ Anselm has also contributed to society through his voluntary youth service as th
 
 He holds a Bachelor of Arts in Political Science & History from the National University of Singapore; Master of Arts in Contemporary China from Nanyang Technological University; Diploma in TESOL from the London Teachers’ Training College; as well as a Diploma in Training and Development from SIM & Institute of Training & Development UK.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\16-Aug-2018\image-1.jpg"><img src="\images\past-events\16-Aug-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\16-Aug-2018\image-2.jpg"><img src="\images\past-events\16-Aug-2018\image-2.jpg" style="width:200px;" /></a> | <a href="\images\past-events\16-Aug-2018\image-3.jpg"><img src="\images\past-events\16-Aug-2018\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\16-Aug-2018\image-4.jpg"><img src="\images\past-events\16-Aug-2018\image-4.jpg" style="width:200px;" /></a> | <a href="\images\past-events\16-Aug-2018\image-5.jpg"><img src="\images\past-events\16-Aug-2018\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\16-Aug-2018\image-6.jpg"><img src="\images\past-events\16-Aug-2018\image-6.jpg" style="width:250px;" /></a> |

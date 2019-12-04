@@ -41,6 +41,8 @@ As China’s demand for logistics and professional services in China continues t
 **Elston Sam**
 Elston Sam is a final year student at Nanyang Technological University, majoring in business analytics. He spent a year in Beijing on an exchange programme at Peking University and was also an intern at Airbnb and Jumei.com (China’s leading e-commerce platform for health and beauty products). He recently completed an internship at Grab in Singapore.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\04-Oct-2018\image-1.jpg"><img src="\images\past-events\04-Oct-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-2.jpg"><img src="\images\past-events\04-Oct-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-3.jpg"><img src="\images\past-events\04-Oct-2018\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\04-Oct-2018\image-4.jpg"><img src="\images\past-events\04-Oct-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-5.jpg"><img src="\images\past-events\04-Oct-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |

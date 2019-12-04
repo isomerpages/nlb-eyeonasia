@@ -23,6 +23,8 @@ Free admission. Register now via [this link](https://go.gov.sg/eoa-sustainable-d
 
 Muhammad Yani bAS has more than 25 years’ experience in the entrepreneurship, project development and management industry. He specialises in devising overall strategy and administration of project portfolios, development and execution of project planning and milestones, and manages Special Purpose Vehicle (SPV) entities for project implementation.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\07-Aug-2019\image-1.jpg"><img src="\images\past-events\07-Aug-2019\image-1.jpg" style="width:350px;" /></a> | <a href="\images\past-events\07-Aug-2019\image-2.jpg"><img src="\images\past-events\07-Aug-2019\image-2.jpg" style="width:350px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |

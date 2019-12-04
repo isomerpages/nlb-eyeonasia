@@ -29,6 +29,8 @@ Curated by librarians from the National Library, Eye on Asia offers resources on
 
 Farid MN is an accountant by training and has over 15 years of regional experience in business development, management, marketing and sales. He is currently the President Director of PT Walletku Indompet Indonesia and Executive Director of TNG Indonesia Pte Ltd.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\03-Apr-2018\image-1.jpg"><img src="\images\past-events\03-Apr-2018\image-1.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-2.jpg"><img src="\images\past-events\03-Apr-2018\image-2.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-3.jpg"><img src="\images\past-events\03-Apr-2018\image-3.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-4.jpg"><img src="\images\past-events\03-Apr-2018\image-4.jpg" style="width:200px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\03-Apr-2018\image-5.jpg"><img src="\images\past-events\03-Apr-2018\image-5.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-6.jpg"><img src="\images\past-events\03-Apr-2018\image-6.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-7.jpg"><img src="\images\past-events\03-Apr-2018\image-7.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-8.jpg"><img src="\images\past-events\03-Apr-2018\image-8.jpg" style="width:200px;" /></a> |

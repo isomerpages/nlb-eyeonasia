@@ -57,6 +57,8 @@ Wilfred’s core portfolio includes young Singaporeans’ programs and board-wid
 
 Abdul Rahim has an in-depth understanding of supply chain management and industry practice in the region.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\20-Mar-2018\image-1.jpg"><img src="\images\past-events\20-Mar-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\20-Mar-2018\image-2.jpg"><img src="\images\past-events\20-Mar-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\20-Mar-2018\image-3.jpg"><img src="\images\past-events\20-Mar-2018\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |

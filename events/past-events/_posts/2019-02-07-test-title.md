@@ -33,6 +33,8 @@ Free admission. Please register via [this link](https://bit.ly/2SVvHuu)
 
 **Associate Professor Ding Ding** is the head of BSc. in Finance Programme at the School of Business at SUSS. She graduated from Nanyang Technological University with a PhD in economics and is also a Chartered Financial Analyst (CFA). Her research interests lie in financial technology and digital inclusion, China’s economy, and international capital markets.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\07-Feb-2019\image-1.jpg"><img src="\images\past-events\07-Feb-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\07-Feb-2019\image-2.jpg"><img src="\images\past-events\07-Feb-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\07-Feb-2019\image-3.jpg"><img src="\images\past-events\07-Feb-2019\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |

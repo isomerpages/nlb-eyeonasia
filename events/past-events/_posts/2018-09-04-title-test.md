@@ -37,6 +37,8 @@ Vikas Goel is an engineer, entrepreneur and investor who has more than 10 years 
 
 He is also a part of Indian Institute of Technology Alumni Association Singapore and was actively involved on events such as PBD ASEAN India aim to identify global entrepreneurs with a commercially viable solution who want to leverage on their innovative business solutions (be it product, service or processes) to solve for India’s priority sectors.
 
+##### **Event gallery**
+
 | <a href="\images\past-events\04-Sep-2018\image-1.jpg"><img src="\images\past-events\04-Sep-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Sep-2018\image-2.jpg"><img src="\images\past-events\04-Sep-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Sep-2018\image-3.jpg"><img src="\images\past-events\04-Sep-2018\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |
