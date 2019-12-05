@@ -12,15 +12,14 @@ agency-logo: /images/logo-eoa.png
 
 # Hero Banner
 hero-title: Eye on Asia
-hero-subtitle: Your one-stop resource centre for connecting with Asia
+hero-subtitle: Navigating with you the shift of growth opportunities to Asia
 hero-banner: /images/shared/eoa-new-banner.png
 
 #Call to Action Button
 button:
 
-  - text: Start Exploring
+  - text: #GoGlobal
     url: /who-we-are/about-eye-on-asia
-    
 
 key-highlights:
   - title: ASEAN Countries
@@ -36,7 +35,7 @@ key-highlights:
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title: 
-programmes-subtitle:  Navigating with you the shift of growth opportunities to Asia
+programmes-subtitle: Keen to explore opportunities in ASEAN countries, China and India including emerging Asian cities?
 programmes-description: Tap into the insights of professionals who ventured into the region
-programmes-more-button: Start Exploring Now
+programmes-more-button: Find out more
 programmes-more-button-url: /events/
