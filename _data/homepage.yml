@@ -23,7 +23,7 @@ button:
     
 
 key-highlights:
-  - title: ASEAN Coutnries
+  - title: ASEAN Countries
     description: Find out more about ASEAN countries' tremedous growth opportunities
     url: /asean-countries/know/overview/
   - title: China
@@ -36,7 +36,7 @@ key-highlights:
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title: 
-programmes-subtitle:  Navigate the shift of growth opportunities to Asia with Eye on Asia’s curated programmes and resources
+programmes-subtitle:  Navigating with you the shift of growth opportunities to Asia
 programmes-description: Tap into the insights of professionals who ventured into the region
-programmes-more-button: Start Exploring Now
-programmes-more-button-url: /country-listing/
+programmes-more-button: Grow Your Possibilities
+programmes-more-button-url: /events/
