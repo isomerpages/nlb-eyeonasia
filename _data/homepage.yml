@@ -18,7 +18,7 @@ hero-banner: /images/shared/eoa-new-banner.png
 #Call to Action Button
 button:
 
-  - text: #GoGlobal
+  - text: Go Global
     url: /who-we-are/about-eye-on-asia
 
 key-highlights:
@@ -35,7 +35,7 @@ key-highlights:
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title: 
-programmes-subtitle: Keen to explore opportunities in ASEAN countries, China and India including emerging Asian cities?
-programmes-description: Tap into the insights of professionals who ventured into the region
+programmes-subtitle: Keen to explore opportunities in emerging Asian cities?
+programmes-description: Tap into the insights of professionals who have ventured into the region
 programmes-more-button: Find out more
 programmes-more-button-url: /events/
