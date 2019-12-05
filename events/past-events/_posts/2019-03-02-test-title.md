@@ -54,17 +54,5 @@ Free admission. Register now via [this link](https://bit.ly/2G2p9aF)
 | <a href="\images\past-events\02-Mar-2019\image-4.jpg"><img src="\images\past-events\02-Mar-2019\image-4.jpg" style="width:110px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-5.jpg"><img src="\images\past-events\02-Mar-2019\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-6.jpg"><img src="\images\past-events\02-Mar-2019\image-6.jpg" style="width:250px;" /></a> |
 | <a href="\images\past-events\02-Mar-2019\image-7.jpg"><img src="\images\past-events\02-Mar-2019\image-7.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-8.jpg"><img src="\images\past-events\02-Mar-2019\image-8.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-9.jpg"><img src="\images\past-events\02-Mar-2019\image-9.jpg" style="width:250px;" /></a> |
 
-#####  **Watch highlights of the programme:** 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_P3EhXMZId0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9mUaS0HcM0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <img src="\images\past-events\02-Mar-2019\edm.jpg" style="width:650px;" />
 
