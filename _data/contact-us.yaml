@@ -7,9 +7,9 @@
 #Contact Us
 
 locations:
-  # HQ Address [REQUIRED]
-  - title: Are you inspired by Eye on Asia?
-    address: Did you learn something useful from our resources? Or do you have a new idea to share with us? 
+  # Are you inspired by Eye on Asia? [REQUIRED]
+  - title: Did you learn something useful from our resources? Or do you have a new idea to share with us? 
+    address: 
     
     
   # Operating Hours [OPTIONAL]
@@ -19,6 +19,7 @@ locations:
 column:
   - title: General Enquiries & Feedback
     content:
+    
     - line: rp@nlb.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
