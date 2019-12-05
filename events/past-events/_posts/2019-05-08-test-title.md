@@ -27,7 +27,7 @@ Eye on Asia offers resources on ASEAN countries, China and India for young Singa
 
 ##### **Event gallery**
 
-| <a href="\images\past-events\08-May-2019\image-1.jpg"><img src="\images\past-events\08-May-2019\image-1.jpg" style="width:220px;" /></a> | <a href="\images\past-events\08-May-2019\image-2.jpg"><img src="\images\past-events\08-May-2019\image-2.jpg" style="width:260px;" /></a> | <a href="\images\past-events\08-May-2019\image-3.jpg"><img src="\images\past-events\08-May-2019\image-3.jpg" style="width:260px;" /></a> |
+| <a href="\images\past-events\08-May-2019\image-1.jpg"><img src="\images\past-events\08-May-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-May-2019\image-2.jpg"><img src="\images\past-events\08-May-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-May-2019\image-3.jpg"><img src="\images\past-events\08-May-2019\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |
 
