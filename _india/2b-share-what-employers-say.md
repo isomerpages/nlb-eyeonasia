@@ -61,33 +61,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
-				<img src="/images/india-employers/SgGoesGlobal-Webinar-Riding-the-Digital-India-Wave-2-370x150.jpg" alt="Watch – #SgGoesGlobal: Riding the Digital India Wave webinar" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Watch – #SgGoesGlobal: Riding the Digital India...</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
-				<img src="/images/india-employers/Watch-–-91SpringBoard-370x150.jpg" alt="Watch – 91SpringBoard: What does a Singapore company..." class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Watch – 91SpringBoard: What does a Singapore...</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/india/share/what-employers-say/india-gst/" class="project-link">
 				<img src="/images/india-employers/Why-India’s-GST-implementation-is-a-boost-for-Singapore-companies-370x150.jpg" alt="Why India’s GST implementation is a boost for..." class="project-image">
 			<div class="project-card">
