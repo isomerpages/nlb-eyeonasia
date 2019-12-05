@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Our Partners
-permalink: /our-partners/
-breadcrumb: Our Partners
+title: Partners
+permalink: /partners/
+breadcrumb: Partners
 ---
 <img src="/images/partners/partners-banner.jpg" alt="partners banner" style="width:800px;" />
 
