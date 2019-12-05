@@ -21,9 +21,10 @@ locations:
 
 # Contact Us
 column:
-  - title: Are you inspired by Eye on Asia? Did you learn something useful from our resources? Or do you have a new idea to share with us? Tell us what you think! 
+  - title: Are you inspired by Eye on Asia? 
     content:
     
+    - line:  Did you learn something useful from our resources? Or do you have a new idea to share with us? Tell us what you think! 
     - line: rp@nlb.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
