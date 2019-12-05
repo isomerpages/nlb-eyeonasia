@@ -13,13 +13,14 @@ agency-logo: /images/logo-eoa.png
 # Hero Banner
 hero-title: Eye on Asia
 hero-subtitle: Your one-stop resource centre for connecting with Asia
-hero-banner: /images/hero-banner-eoa.png
+hero-banner: /images/shared/eoa-new-banner.png
 
 #Call to Action Button
 button:
   - text: Start Exploring
     url: /who-we-are/about-eye-on-asia
     
+
 key-highlights:
   - title: ASEAN Coutnries
     description: Find out more about ASEAN countries' tremedous growth opportunities
