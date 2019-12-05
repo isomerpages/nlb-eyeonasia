@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Visit our Resource Centre
-permalink: /who-we-are/visit-our-resource-centre/
+permalink: /about/visit-our-resource-centre/
 breadcrumb: Visit our Resource Centre
-collection_name: who-we-are
+collection_name: about
 ---
 
 <style>

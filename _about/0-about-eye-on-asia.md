@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: About Eye on Asia
-permalink: /who-we-are/about-eye-on-asia
+permalink: /about/about-eye-on-asia
 breadcrumb: About Eye on Asia
-collection_name: who-we-are
+collection_name: about
 ---
 
 <style>
