@@ -252,7 +252,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 				<img src="/images/asean-countries/International-and-regional-economic-cooperation-in-ASEAN-countries-370x150.jpg" alt="International and regional economic cooperation in ASEAN countries" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>International and regional economic cooperation in...</b></h5>
+					<h5><b>International and regional economic cooperation in ASEAN countries</b></h5>
 				</div>
 			</div>
 			</a>
