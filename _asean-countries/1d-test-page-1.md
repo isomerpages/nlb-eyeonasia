@@ -232,7 +232,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 				<img src="/images/asean-countries/Technology-and-innovation-in-ASEAN-370x150.jpg" alt="ASEAN countries: A look at technology and innovation" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN countries: A look at technology and innovation</b></h5>
+					<h5><b>ASEAN countries - A look at technology and innovation</b></h5>
 				</div>
 			</div>
 			</a>
