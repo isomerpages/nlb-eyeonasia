@@ -15,7 +15,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 
 |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="/asean-countries/know/overview-of-asean-countries/cambodia-a-country-profile/" class="project-link"><img src="/images/asean-countries/Cambodia snapshot cover.jpg">**Cambodia - A country profile**</a> | <a href="/asean-countries/know/overview-of-asean-countries/indonesia-a-country-profile/" class="project-link"><img src="/images/asean-countries/Indonesia snapshot cover iso.jpg">I**Indonesia - A country profile**</a> | <a href="/asean-countries/know/overview-of-asean-countries/lao-a-country-profile/" class="project-link"><img src="/images/asean-countries/Laos snapshot cover iso.jpg">**Laos - A country profile**</a> |
+| <a href="/asean-countries/know/overview-of-asean-countries/cambodia-a-country-profile/" class="project-link"><img src="/images/asean-countries/Cambodia snapshot cover.jpg">**Cambodia - A country profile**</a> | <a href="/asean-countries/know/overview-of-asean-countries/indonesia-a-country-profile/" class="project-link"><img src="/images/asean-countries/Indonesia snapshot cover iso.jpg">**Indonesia - A country profile**</a> | <a href="/asean-countries/know/overview-of-asean-countries/lao-a-country-profile/" class="project-link"><img src="/images/asean-countries/Laos snapshot cover iso.jpg">**Laos - A country profile**</a> |
 | <a href="/asean-countries/know/overview-of-asean-countries/cambodia-a-country-profile/" class="project-link"><img src="/images/asean-countries/Cambodia snapshot cover.jpg">Cambodia - A country profile</a> | <a href="/asean-countries/know/overview-of-asean-countries/indonesia-a-country-profile/" class="project-link"><img src="/images/asean-countries/Indonesia snapshot cover iso.jpg">Indonesia - A country profile</a> | <a href="/asean-countries/know/overview-of-asean-countries/lao-a-country-profile/" class="project-link"><img src="/images/asean-countries/Laos snapshot cover iso.jpg">Laos - A country profile</a> |
 
 
@@ -26,6 +26,14 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 | **The Philippines**                                          |                                                              |
 | <a href="/asean-countries/know/living-in-asean-countries/transportation-in-philippines/" class="project-link"><img src="/images/asean-living/Transportation-Philippines.jpg" class="project-image">**Transporation in the Philippines**</a> | <a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-philippines/" class="project-link"><img src="/images/asean-living/Customs-Philippines.jpg" class="project-image">**Customs in the Philippines**</a> |
 |                                                              |                                                              |
+
+
+
+|                                                              |
+| ------------------------------------------------------------ |
+| <a href="/asean-countries/know/living-in-asean-countries/transportation-in-brunei/" class="project-link"><img src="/images/asean-living/Transportation-Brunei.jpg" class="project-image">**Transportation in Brunei**</a> |
+| <a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-brunei/" class="project-link"><img src="/images/asean-living/Customs-Brunei.jpg" class="project-image">**Customs in Brunei**</a> |
+| <a href="/asean-countries/know/living-in-asean-countries/transportation-in-philippines/" class="project-link"><img src="/images/asean-living/Transportation-Philippines.jpg" class="project-image">**Transporation in the Philippines**</a> |
 
 
 
