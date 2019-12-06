@@ -22,7 +22,10 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 
 | Brunei                                                       |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="/asean-countries/know/living-in-asean-countries/transportation-in-brunei/" class="project-link"><img src="/images/asean-living/Transportation-Brunei.jpg" class="project-image">Transportation in Brunei</a> | <a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-brunei/" class="project-link"><img src="/images/asean-living/Customs-Brunei.jpg" class="project-image">Customs in Brunei</a> |
+| <a href="/asean-countries/know/living-in-asean-countries/transportation-in-brunei/" class="project-link"><img src="/images/asean-living/Transportation-Brunei.jpg" class="project-image">**Transportation in Brunei**</a> | <a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-brunei/" class="project-link"><img src="/images/asean-living/Customs-Brunei.jpg" class="project-image">**Customs in Brunei**</a> |
+| **The Philippines**                                          |                                                              |
+| <a href="/asean-countries/know/living-in-asean-countries/transportation-in-philippines/" class="project-link"><img src="/images/asean-living/Transportation-Philippines.jpg" class="project-image">**Transporation in the Philippines**</a> | <a href="/asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-philippines/" class="project-link"><img src="/images/asean-living/Customs-Philippines.jpg" class="project-image">**Customs in the Philippines**</a> |
+|                                                              |                                                              |
 
 
 
