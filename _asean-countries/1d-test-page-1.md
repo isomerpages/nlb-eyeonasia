@@ -65,7 +65,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean-countries/know/overview-of-asean-countries/brunei-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Brunei-Snapshot-370x150.jpg" alt="Brunei: A Country Profile" class="project-image">
+				<img src="/images/asean-living/ASEAN-Brunei-Housing-Cover-small.jpg" alt="Brunei: A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Brunei: A Country Profile</b></h5>
