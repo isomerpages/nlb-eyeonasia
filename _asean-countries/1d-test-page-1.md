@@ -36,7 +36,30 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 | <a href="/asean-countries/know/living-in-asean-countries/transportation-in-philippines/" class="project-link"><img src="/images/asean-living/Transportation-Philippines.jpg" class="project-image">**Transporation in the Philippines**</a> |
 
 
-
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/working-in-asean/understanding-cultural-intelligence/" class="project-link">
+				<img src="/images/asean-living/ASEAN-Brunei-Housing-Cover-small.jpg" alt="Brunei: A Country Profile" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Understanding cultural intelligence</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/working-in-asean/discussing-business-in-sea/" class="project-link">
+				<img src="/images/asean-working/Discussing-Business-in-Southeast-Asia-370x150.jpg" alt="Listen: Discussing business in Southeast Asia" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Listen: Discussing business in Southeast Asia</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
 
 
 
