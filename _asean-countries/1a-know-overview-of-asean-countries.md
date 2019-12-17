@@ -164,44 +164,58 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 	</div>
 </div>
 
-
-
-<p><p>
-
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/thailand-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Thailand-Profile-370x150.jpg" alt="Thailand - A Country Profile" class="project-image">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/discovering-yangon/" class="project-link">
+				<img src="/images/asean-countries/Discovering-Yangon-small.jpg" alt="Discovering Yangon" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Thailand: A Country Profile</b></h5>
+					<h5><b>Discovering Yangon</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/vietnam-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Vietnam-Snapshot-370x150.jpg" alt="Vietnam - A Country Profile" class="project-image">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/tourism-development-in-asean/" class="project-link">
+				<img src="/images/asean-countries/Tourism-in-ASEAN-small.jpg" alt="Tourism Development in ASEAN Countries" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Vietnam: A Country Profile</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/yangon-a-city-profile/" class="project-link">
-				<img src="/images/asean-countries/Yangon-A-profile-370x150.jpg" alt="Yangon: A City Profile" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Yangon: A City Profile</b></h5>
+					<h5><b>Tourism Development in ASEAN Countries</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 	</div>
 </div>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/society-in-asean-countries/" class="project-link">
+				<img src="/images/asean-countries/Society-in-ASEAN-small.jpg" alt="Society in ASEAN Countries" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Society in ASEAN Countries</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/asean-countries-a-look-at-technology-and-innovation/" class="project-link">
+				<img src="/images/asean-countries/Technology-and-innovation-in-ASEAN-small.jpg" alt="ASEAN countries: A look at technology and innovation" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>ASEAN countries: A look at technology and innovation</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+
+<p><p>
 
 <p><p>
 
