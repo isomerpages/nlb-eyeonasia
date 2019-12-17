@@ -36,6 +36,8 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
+<p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
