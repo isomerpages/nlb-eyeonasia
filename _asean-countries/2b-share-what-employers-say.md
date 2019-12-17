@@ -18,7 +18,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/Indonesia-radio-talk-small.jpg" alt="Indonesia: Radio talk by industry experts, Victor Chan..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Indonesia: Radio talk by industry experts, Victor...</b></h5>
+					<h5><b>Indonesia - Radio talk by industry experts, Victor Chan and Farid MN</b></h5>
 				</div>
 			</div>
 			</a>
@@ -45,7 +45,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="/images/asean-employers/ATC-banner-small.jpg" alt="Applied Total Control Treatment (ATC) - Head..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Applied Total Control Treatment (ATC) - Head...</b></h5>
+					<h5><b>Applied Total Control Treatment (ATC) – Head abroad when local customer base dries up</b></h5>
 				</div>
 			</div>
 			</a>
@@ -62,6 +62,8 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 		</div>
 	</div>
 </div>
+
+<p><p>
 
 <div>
 	<div class="row is-multiline">
@@ -88,6 +90,8 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
+<p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -112,6 +116,8 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 		</div>
 	</div>
 </div>
+
+<p><p>
 
 <div>
 	<div class="row is-multiline">
@@ -138,6 +144,8 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
+<p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -163,6 +171,8 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
+<p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -187,6 +197,8 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 		</div>
 	</div>
 </div>
+
+<p><p>
 
 <div>
 	<div class="row is-multiline">
