@@ -214,63 +214,11 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 	</div>
 </div>
 
-
-<p><p>
-
-<p><p>
-
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/discovering-yangon/" class="project-link">
-				<img src="/images/asean-countries/Discovering-Yangon-370x150.jpg" alt="Discovering Yangon" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Discovering Yangon</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/tourism-development-in-asean/" class="project-link">
-				<img src="/images/asean-countries/Tourism-in-ASEAN-370x150.jpg" alt="Tourism Development in ASEAN Countries" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Tourism Development in ASEAN Countries</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/society-in-asean-countries/" class="project-link">
-				<img src="/images/asean-countries/Society-in-ASEAN-370x150.jpg" alt="Society in ASEAN Countries" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Society in ASEAN Countries</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/asean-countries-a-look-at-technology-and-innovation/" class="project-link">
-				<img src="/images/asean-countries/Technology-and-innovation-in-ASEAN-370x150.jpg" alt="ASEAN countries: A look at technology and innovation" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN countries: A look at technology and innovation</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/economic-developments-in-asean-countries/" class="project-link">
-				<img src="/images/asean-countries/Economic-developments-in-ASEAN-countries-370x150.jpg" alt="Economic developments in ASEAN countries" class="project-image">
+				<img src="/images/asean-countries/Economic-developments-in-ASEAN-countries-small.jpg" alt="Economic developments in ASEAN countries" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Economic developments in ASEAN countries</b></h5>
@@ -278,9 +226,9 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/economic-cooperation/" class="project-link">
-				<img src="/images/asean-countries/International-and-regional-economic-cooperation-in-ASEAN-countries-370x150.jpg" alt="International and regional economic cooperation in ASEAN countries" class="project-image">
+				<img src="/images/asean-countries/International-and-regional-economic-cooperation-in-ASEAN-countries-small.jpg" alt="International and regional economic cooperation in ASEAN countries" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>International and regional economic cooperation in...</b></h5>
@@ -291,13 +239,11 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 	</div>
 </div>
 
-<p><p>
-
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/asean-countries-political-structures/" class="project-link">
-				<img src="/images/asean-countries/ASEAN-countries-Political-structures-2-370x150.jpg" alt="ASEAN countries: Political structures" class="project-image">
+				<img src="/images/asean-countries/ASEAN-countries-Political-structures-small.jpg" alt="ASEAN countries: Political structures" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>ASEAN countries: Political structures</b></h5>
@@ -305,9 +251,9 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/asean-countries-biographies-of-selected-key-political-leaders/" class="project-link">
-				<img src="/images/asean-countries/ASEAN-countries-Biographies-370x150.jpg" alt="ASEAN countries: Biographies of selected key political leaders" class="project-image">
+				<img src="/images/asean-countries/ASEAN-countries-biographies-small.jpg" alt="ASEAN countries: Biographies of selected key political leaders" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>ASEAN countries: Biographies of selected key political leaders</b></h5>
@@ -315,12 +261,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-		</div>
 	</div>
 </div>
 
-
-
-
-
+<p><p>
