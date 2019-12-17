@@ -114,35 +114,11 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 	</div>
 </div>
 
-
-
-<p><p>
-
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/malaysia-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Malaysia-Snapshot-370x150.jpg" alt="Malaysia - A Country Profile" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Malaysia: A Country Profile</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries/myanmar-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Myanmar-Profile-370x150.jpg" alt="Myanmar - A Country Profile" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Myanmar: A Country Profile</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/philippines-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Philippines-Snapshot-370x150.jpg" alt="Philippines: A Country Profile" class="project-image">
+				<img src="/images/asean-countries/Philippines-snapshot-small.jpg" alt="Philippines: A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Philippines: A Country Profile</b></h5>
@@ -150,10 +126,48 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</div>
 			</a>
 		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/thailand-a-country-profile/" class="project-link">
+				<img src="/images/asean-countries/Thailand-snapshot-small.jpg" alt="Thailand - A Country Profile" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Thailand: A Country Profile</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
 	</div>
 </div>
 
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/vietnam-a-country-profile/" class="project-link">
+				<img src="/images/asean-countries/Vietnam-snapshot-small.jpg" alt="Vietnam - A Country Profile" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Vietnam: A Country Profile</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/yangon-a-city-profile/" class="project-link">
+				<img src="/images/asean-countries/Yangon-snapshot-small.jpg" alt="Yangon: A City Profile" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Yangon: A City Profile</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+
+
 <p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
