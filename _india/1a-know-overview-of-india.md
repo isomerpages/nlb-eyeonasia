@@ -13,9 +13,9 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/overview-of-india/india-profile/" class="project-link">
-				<img src="/images/india-overview/India-A-country-profile-2-370x150.jpg" alt="India: A profile" class="project-image">
+				<img src="/images/india-overview/india-profile-small.jpg" alt="India: A profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>India: A profile</b></h5>
@@ -23,22 +23,12 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/overview-of-china/regional-newspapers/" class="project-link">
-				<img src="/images/india-overview/Regional-Newspapers-1-370x150.jpg" alt="Regional newspapers" class="project-image">
+				<img src="/images/india-overview/Regional-Newspapers-small.jpg" alt="Regional newspapers" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Regional newspapers</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
-				<img src="/images/india-overview/Understanding-India-370x150.jpg" alt="Understanding India" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Understanding India</b></h5>
 				</div>
 			</div>
 			</a>
@@ -50,9 +40,19 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/india/know/overview-of-india/understanding-india/" class="project-link">
+				<img src="/images/india-overview/understanding-india-small.jpg" alt="Understanding India" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Understanding India</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/overview-of-india/discovering-india-history/" class="project-link">
-				<img src="/images/india-overview/Discovering-Indias-history-370x150.jpg" alt="Discovering India's history" class="project-image">
+				<img src="/images/india-overview/discovering-india-history-small.jpg" alt="Discovering India's history" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Discovering India's history</b></h5>
@@ -60,9 +60,16 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/overview-of-india/influential-young/" class="project-link">
-				<img src="/images/india-overview/Indias-influential-young-2-370x150.jpg" alt="India's influential young" class="project-image">
+				<img src="/images/india-overview/influential-young-small.jpg" alt="India's influential young" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>India's influential young</b></h5>
@@ -70,9 +77,9 @@ Besides being one of the world’s oldest civilisations, India is also one of th
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/overview-of-india/learning-about-transformation/" class="project-link">
-				<img src="/images/india-overview/Learning-about-Indias-transformation-2-370x150.jpg" alt="Learning about India's transformation" class="project-image">
+				<img src="/images/india-overview/learning-about-transformation-small.jpg" alt="Learning about India's transformation" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Learning about India's transformation</b></h5>
