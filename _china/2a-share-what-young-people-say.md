@@ -15,7 +15,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-young-people-say/learning-journey/" class="project-link">
-				<img src="img src="/images/china-youngpeople/Winter-Learning-Journey-Dec-2018-small.jpg" alt="Learning journey to Qingdao, Jinan and Beijing" class="project-image">
+				<img src="/images/china-youngpeople/Winter-Learning-Journey-Dec-2018-small.jpg" alt="Learning journey to Qingdao, Jinan and Beijing" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Learning journey to Qingdao, Jinan and Beijing</b></h5>
