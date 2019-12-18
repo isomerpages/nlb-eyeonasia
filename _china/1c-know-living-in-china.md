@@ -68,7 +68,7 @@ People, food, arts and play are some aspects that shape a country’s cultural l
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/know/living-in-china/rising-cashless-society/" class="project-link">
+			<a href="/china/know/living-in-china/financial-and-banking-sector/" class="project-link">
 				<img src="/images/china-living/financial-and-banking-sector-small.jpg" alt="Looking at China's financial and banking sector" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -78,7 +78,7 @@ People, food, arts and play are some aspects that shape a country’s cultural l
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/know/living-in-china/rising-cashless-society/" class="project-link">
+			<a href="/china/know/living-in-china/no-wallet-any-problem/" class="project-link">
 				<img src="/images/china-living/no-wallet-small.jpg" alt="No wallet any problem" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
