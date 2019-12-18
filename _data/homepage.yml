@@ -5,35 +5,37 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-eoa.png
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/logo-eoa.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: Eye on Asia
+hero-subtitle: Navigating with you the shift of growth opportunities to Asia
+hero-banner: /images/shared/eoa-new-banner.png
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /who-we-are/
-    
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url:  resource-room/
+  - text: Go Global
+    url: /who-we-are/about-eye-on-asia
+
+key-highlights:
+  - title: ASEAN Countries
+    description:  Venture into one of the fastest-growing economic blocs in Asia with tremendous growth opportunities
+    url: /asean-countries/know/overview/
+  - title: China
+    description: Learn more about China’s rise as a regional and global power in recent decades 
+    url: /china/know/overview/
+  - title: India
+    description: Discover India's increasing economic prosperity and cultural dynamism 
+    url: /india/know/overview/
+
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: 
+programmes-subtitle: Keen to explore opportunities in emerging Asian cities?
+programmes-description: Tap into the insights of professionals who have ventured into the region
+programmes-more-button: Find out more
+programmes-more-button-url: /events/

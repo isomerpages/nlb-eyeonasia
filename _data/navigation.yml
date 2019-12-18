@@ -4,30 +4,43 @@
 #                                #
 ##################################
 
-- title: Contact Us
+- title: ASEAN Countries
+  url: /asean-countries/know/overview/
+  sub-links:
+  - title: Know
+    url: /asean-countries/know/overview-of-asean-countries/
+  - title: Share
+    url: /asean-countries/share/what-young-people-say/
+  - title: Go
+    url: /asean-countries/go/for-students/
+- title: China
+  url: /china/know/overview/
+  sub-links:
+  - title: Know
+    url: /china/know/overview-of-china/
+  - title: Share
+    url: /china/share/what-young-people-say/
+  - title: Go
+    url: /china/go/for-students/
+- title: India
+  url: /india/know/overview
+  sub-links:
+  - title: Know
+    url: /india/know/overview-of-india/
+  - title: Share
+    url: /india/share/what-young-people-say/
+  - title: Go
+    url: /india/go/for-students/
+- title: About
+  url: /about/about-eye-on-asia/
+  sub-links:
+  - title: About Eye on Asia
+    url: /about/about-eye-on-asia/
+  - title: Visit our Resource Centre
+    url: /about/visit-our-resource-centre/
+- title: Events
+  url: /events/
+- title: Partners
+  url: /partners/
+- title: Contact
   url: /contact-us/
-- title: Left Nav One
-  url: /left-nav-one/sub-page-A/
-  sub-links:
-  - title: Sub Page A
-    url: /left-nav-one/sub-page-A/
-  - title: Sub Page B
-    url: /left-nav-one/sub-page-B/
-- title: Left Nav Two
-  url: /left-nav-two/sub-page-C/
-  sub-links:
-  - title: Sub Page C
-    url: /left-nav-two/sub-page-C/
-  - title: Sub Page D
-    url: /left-nav-two/sub-page-D/
-- title:  resource Room
-  url: / resource-room/
-  sub-links:
-  - title: All
-    url: / resource-room/
-  - title: Subcategory A
-    url: / resource-room/subcategory-A/
-  - title: Subcategory B
-    url: / resource-room/subcategory-B/
-  - title: Subcategory C
-    url: / resource-room/subcategory-C/
