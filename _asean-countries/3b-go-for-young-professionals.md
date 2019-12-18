@@ -13,9 +13,9 @@ Planning a career in ASEAN? Check out the programmes and opportunities available
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/go/for-professionals/training-programmes/" class="project-link">
-				<img src="/images/asean-professionals/Training-programmes-1-370x150.jpg" alt="Training programmes" class="project-image">
+				<img src="/images/asean-professionals/training-programmes-small.jpg" alt="Training programmes" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Training programmes</b></h5>
@@ -23,9 +23,9 @@ Planning a career in ASEAN? Check out the programmes and opportunities available
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/go/for-professionals/awards-professionals/" class="project-link">
-				<img src="/images/asean-professionals/Awards-and-other-programmes-students-370x150.jpg" alt="Awards and other programmes for young professionals" class="project-image">
+				<img src="/images/asean-professionals/awards-professionals-small.jpg" alt="Awards and other programmes for young professionals" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Awards and other programmes (for young professionals)</b></h5>
