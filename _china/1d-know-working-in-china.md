@@ -13,9 +13,9 @@ Is China big enough for your dreams? Discover this land of opportunities through
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/csr-china/" class="project-link">
-				<img src="/images/china-working/CSR-China-bg-285x300.jpg" alt="Corporate Social Responsibility in China" class="project-image">
+				<img src="/images/china-working/csr-china-small.jpg" alt="Corporate Social Responsibility in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Corporate Social Responsibility in China</b></h5>
@@ -23,22 +23,12 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/entrepreneurship-in-china/" class="project-link">
-				<img src="/images/china-working/Entrepreneurship-in-China-285x300.jpg" alt="Entrepreneurship in China" class="project-image">
+				<img src="/images/china-working/entrepreneurship-china-small.jpg" alt="Entrepreneurship in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Entrepreneurship in China</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/working-in-china/understanding-cultural-intelligence/" class="project-link">
-				<img src="/images/china-working/Home-banner-285x287.jpg" alt="Understanding cultural intelligence" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Understanding cultural intelligence</b></h5>
 				</div>
 			</div>
 			</a>
@@ -50,9 +40,19 @@ Is China big enough for your dreams? Discover this land of opportunities through
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/know/working-in-china/understanding-cultural-intelligence/" class="project-link">
+				<img src="/images/china-working/cultural-intelligence-small.jpg" alt="Understanding cultural intelligence" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Understanding cultural intelligence</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/business-culture/" class="project-link">
-				<img src="/images/china-working/Looking-at-Chinas-business-culture-1-285x300.jpg" alt="Looking at China's business culture" class="project-image">
+				<img src="/images/china-working/business-culture-small.jpg" alt="Looking at China's business culture" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Looking at China's business culture</b></h5>
@@ -60,9 +60,16 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/working-in-china/" class="project-link">
-				<img src="/images/china-working/How-to-get-a-job-in-China-1-285x300.jpg" alt="Working in China" class="project-image">
+				<img src="/images/china-working/working-in-china-small.jpg" alt="Working in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Working in China</b></h5>
@@ -70,9 +77,9 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/talent-management/" class="project-link">
-				<img src="/images/china-working/Talent-management-4-285x300.jpg" alt="Talent management in China" class="project-image">
+				<img src="/images/china-working/talent-management-small.jpg" alt="Talent management in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Talent management in China</b></h5>
@@ -87,9 +94,9 @@ Is China big enough for your dreams? Discover this land of opportunities through
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/future-of-work/" class="project-link">
-				<img src="/images/china-working/Is-China-ready-for-the-future-of-work-2-285x300.jpg" alt="Gearing up for the future of work" class="project-image">
+				<img src="/images/china-working/future-of-work-small.jpg" alt="Gearing up for the future of work" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Gearing up for the future of work</b></h5>
@@ -97,22 +104,12 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/business-strategy/" class="project-link">
-				<img src="/images/china-working/Powering-yourself-with-Chinese-business-strategies-285x300.jpg" alt="Empowering yourself with Chinese business strategies" class="project-image">
+				<img src="/images/china-working/business-strategy-small.jpg" alt="Empowering yourself with Chinese business strategies" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Empowering yourself with Chinese business strategies</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/china/know/working-in-china/business-management/" class="project-link">
-				<img src="/images/china-working/Uncovering-business-management-in-China-285x300.jpg" alt="Uncovering business management in China" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Uncovering business management in China</b></h5>
 				</div>
 			</div>
 			</a>
@@ -124,9 +121,19 @@ Is China big enough for your dreams? Discover this land of opportunities through
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/know/working-in-china/business-management/" class="project-link">
+				<img src="/images/china-working/business-management-small.jpg" alt="Uncovering business management in China" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Uncovering business management in China</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/conversation-and-manners/" class="project-link">
-				<img src="/images/china-working/The-art-of-conversation-and-manners-in-business-China-285x300.jpg" alt="The art of conversation and manners in business China" class="project-image">
+				<img src="/images/china-working/art-of-conversation-and-manners-small.jpg" alt="The art of conversation and manners in business China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>The art of conversation and manners in business China</b></h5>
@@ -134,9 +141,16 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/inspiring-insights/" class="project-link">
-				<img src="/images/china-working/Inspiring-insights-and-success-stories-285x300.jpg" alt="Inspiring insights and success stories from China" class="project-image">
+				<img src="/images/china-working/inspiring-insights-small.jpg" alt="Inspiring insights and success stories from China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Inspiring insights and success stories from China</b></h5>
@@ -144,9 +158,9 @@ Is China big enough for your dreams? Discover this land of opportunities through
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/working-in-china/consumer-market-and-culture/" class="project-link">
-				<img src="/images/china-working/China’s-dynamic-consumer-market-and-culture-285x300.jpg" alt="China's consumer market and culture" class="project-image">
+				<img src="/images/china-working/consumer-market-and-culture-small.jpg" alt="China's consumer market and culture" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>China's consumer market and culture</b></h5>
