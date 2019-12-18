@@ -13,9 +13,9 @@ Are you thinking that you might like to work in India after you graduate but don
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/go/for-students/awards-for-students/" class="project-link">
-				<img src="/images/india-students/Awards-and-other-programmes-professionals-370x150.jpg" alt="Awards and other programmes (for students)" class="project-image">
+				<img src="/images/india-students/awards-students-small.jpg" alt="Awards and other programmes (for students)" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Awards and other programmes (for students)</b></h5>
@@ -23,9 +23,9 @@ Are you thinking that you might like to work in India after you graduate but don
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/go/for-students/international-exchange-programmes/" class="project-link">
-				<img src="/images/india-students/International-exchange-programmes-370x150.jpg" alt="International exchange programmes" class="project-image">
+				<img src="/images/india-students/international-exchange-programmes-small.jpg" alt="International exchange programmes" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>International exchange programmes</b></h5>
@@ -33,9 +33,16 @@ Are you thinking that you might like to work in India after you graduate but don
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/go/for-students/overseas-internships/" class="project-link">
-				<img src="/images/india-students/Overseas-internships-1-370x150.jpg" alt="Overseas internship" class="project-image">
+				<img src="/images/india-students/overseas-internships-small.jpg" alt="Overseas internship" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Overseas internship</b></h5>
