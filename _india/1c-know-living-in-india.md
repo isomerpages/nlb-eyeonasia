@@ -13,9 +13,9 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/living-in-india/architecture-in-india/" class="project-link">
-				<img src="/images/india-living/Architecture-in-India-370x150.jpg" alt="Architecture in India" class="project-image">
+				<img src="/images/india-living/architecture-in-india-small.jpg" alt="Architecture in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Architecture in India</b></h5>
@@ -23,22 +23,12 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/living-in-india/commuting-in-india/" class="project-link">
-				<img src="/images/india-living/Commuting-in-India-370x150.jpg" alt="Commuting in India" class="project-image">
+				<img src="/images/india-living/commuting-in-india-small.jpg" alt="Commuting in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Commuting in India</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/india/know/living-in-india/entertainment-in-india/" class="project-link">
-				<img src="/images/india-living/Entertainment-in-India-370x150.jpg" alt="Entertainment in India" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Entertainment in India</b></h5>
 				</div>
 			</div>
 			</a>
@@ -50,9 +40,19 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/india/know/living-in-india/entertainment-in-india/" class="project-link">
+				<img src="/images/india-living/entertainment-in-india-small.jpg" alt="Entertainment in India" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Entertainment in India</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/living-in-india/festivals-in-india/" class="project-link">
-				<img src="/images/india-living/Festivals-in-India-370x150.jpg" alt="Festivals in India" class="project-image">
+				<img src="/images/india-living/festivals-in-india-small.jpg" alt="Festivals in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Festivals in India</b></h5>
@@ -60,9 +60,16 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/living-in-india/financial-banking-in-india/" class="project-link">
-				<img src="/images/india-living/Financial-in-India-370x150.jpg" alt="Financial and banking services in India" class="project-image">
+				<img src="/images/india-living/financial-banking-in-india-small.jpg" alt="Financial and banking services in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Financial and banking services in India</b></h5>
@@ -70,9 +77,9 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/living-in-india/food-and-cuisines-in-india/" class="project-link">
-				<img src="/images/india-living/Food-in-India-370x150.jpg" alt="Food and cuisines in India" class="project-image">
+				<img src="/images/india-living/food-and-cuisines-in-india-small.jpg" alt="Food and cuisines in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Food and cuisines in India</b></h5>
@@ -87,9 +94,9 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/living-in-india/indian-fashion/" class="project-link">
-				<img src="/images/india-living/Indian-fashion-370x150.jpg" alt="Indian fashion" class="project-image">
+				<img src="/images/india-living/indian-fashion-small.jpg" alt="Indian fashion" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Indian fashion</b></h5>
@@ -97,9 +104,9 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/living-in-india/media-in-india/" class="project-link">
-				<img src="/images/india-living/Media-in-India-370x150.jpg" alt="Media in India" class="project-image">
+				<img src="/images/india-living/media-in-india-small.jpg" alt="Media in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Media in India</b></h5>
@@ -107,9 +114,16 @@ Living in India offers a slice of life like no other thanks to the eclectic mix 
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/know/living-in-india/sports-and-recreation-in-india/" class="project-link">
-				<img src="/images/india-living/Sports-in-India-370x150.jpg" alt="Sports and recreation in India" class="project-image">
+				<img src="/images/india-living/sports-in-india-small.jpg" alt="Sports and recreation in India" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Sports and recreation in India</b></h5>
