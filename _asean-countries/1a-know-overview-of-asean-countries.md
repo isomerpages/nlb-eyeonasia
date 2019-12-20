@@ -7,7 +7,7 @@ collection_name: asean-countries
 second_nav_title: "Know"
 
 ---
-<img src="/images/asean-countries/Overview of ASEAN cover pic.jpg" alt="ASEAN overview banner" style="width:800px;" />
+<img src="/images/asean-countries/Overview of ASEAN new.jpg" alt="ASEAN overview banner" style="width:800px;" />
 
 ![](../images/asean-countries/Overview of ASEAN cover pic.jpg)
 
