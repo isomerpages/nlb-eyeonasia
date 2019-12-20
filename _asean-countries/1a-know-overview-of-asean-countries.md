@@ -9,8 +9,6 @@ second_nav_title: "Know"
 ---
 <img src="/images/asean-countries/Overview of ASEAN new.jpg" alt="ASEAN overview banner" style="width:800px;" />
 
-![](../images/asean-countries/Overview of ASEAN cover pic.jpg)
-
 The Association of Southeast Asian Nations, or ASEAN, is a regional organization comprising ten Southeast Asian nations that promotes economic growth, social progress, cultural development and cooperation in the region. ASEAN fosters a peaceful community of nations that is strengthened by active collaboration and close ties with one another.
 
 
