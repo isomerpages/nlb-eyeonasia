@@ -91,7 +91,9 @@ collections:
   past-events:
     output: true
   events:
-    output: true    
+    output: true
+  upcoming-events:
+    output: true
 
 # Resources and pagination
 resources_name: events
