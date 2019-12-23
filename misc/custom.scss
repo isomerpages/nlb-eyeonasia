@@ -15,6 +15,8 @@ $media-color-three: #00838f;
 $media-color-four: #00838f;
 $media-color-five: #00838f;
 
+$test-color-one: #e88866;
+
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
@@ -39,6 +41,9 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-secondary {
     background-color: $secondary !important;
+  }
+  &-test-color-one {
+    background-color: $test-color-one;
   }
   &-media-color {
   	&-1 {
