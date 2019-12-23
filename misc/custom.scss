@@ -45,13 +45,13 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $secondary !important;
   }
   &-banner-color-one {
-    background-color: $test-color-one;
+    background-color: $banner-color-one;
   }
   &-banner-color-two {
-    background-color: $test-color-two;
+    background-color: $banner-color-two;
   }
   &-banner-color-three {
-    background-color: $test-color-three;
+    background-color: $banner-color-three;
   }
   &-media-color {
   	&-1 {
