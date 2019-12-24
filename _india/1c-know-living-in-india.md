@@ -7,7 +7,7 @@ collection_name: india
 second_nav_title: "Know"
 ---
 
-![banner-living-in-india](\images\india-living\Living-in-India-1-1920x450.jpg)
+![banner-living-in-india](\images\india-living\Living-in-India-new.jpg)
 
 Living in India offers a slice of life like no other thanks to the eclectic mix of different cultures and people who call the country home.
 

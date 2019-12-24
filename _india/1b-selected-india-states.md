@@ -7,7 +7,7 @@ collection_name: india
 second_nav_title: "Know"
 ---
 
-![banner-selected-indian-states](\images\india-selected\Selected-India-states-1-1920x450.jpg)
+![banner-selected-indian-states](\images\india-selected\Selected-India-state-new.jpg)
 
 Read about some of the fastest-growing states in India today, known for their robust economies and business dynamism. Each state offers its own unique opportunities for living and working in India.
 
