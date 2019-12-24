@@ -7,7 +7,7 @@ collection_name: india
 second_nav_title: "Go"
 ---
 
-![banner-singapore-communities-in-india](\images\china\SG-Coummunities-in-China-new.jpg)
+![banner-singapore-communities-in-india](\images\china\sg-communities-new.jpg)
 
 Connect with fellow Singaporeans based in India through these clubs, associations and communities. This is a selection of Singapore communities in India available from the Internet and is not meant to be an exhaustive list.
 
