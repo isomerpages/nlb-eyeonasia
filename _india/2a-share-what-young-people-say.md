@@ -7,7 +7,7 @@ collection_name: india
 second_nav_title: "Share"
 ---
 
-![banner-what-young-people-say](\images\india-youngpeople\What-young-people-new.jpg)
+![banner-what-young-people-say](\images\india-youngpeople\What-young-people-say-new.jpg)
 
 Read firsthand experiences and stories from young enterprising Singaporeans who have visited India for study trips and see India from their perspectives.
 
