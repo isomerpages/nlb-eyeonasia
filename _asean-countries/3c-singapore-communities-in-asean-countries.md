@@ -7,7 +7,7 @@ collection_name: asean-countries
 second_nav_title: "Go"
 ---
 
-![banner-singapore-communities-in-asean-countries](\images\asean-countries\sg-coummunities-new.jpg)
+![banner-singapore-communities-in-asean-countries](\images\asean-countries\sg-communities-new.jpg)
 
 Connect with fellow Singaporeans based in ASEAN countries through these clubs, associations and communities. This is a selection of Singapore communities in ASEAN countries available from the Internet and is not meant to be an exhaustive list.
 

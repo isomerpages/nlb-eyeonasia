@@ -7,7 +7,7 @@ collection_name: china
 second_nav_title: "Go"
 ---
 
-![banner-singapore-communities-in-china](\images\china\sg-coummunities-new.jpg)
+![banner-singapore-communities-in-china](\images\china\sg-communities-new.jpg)
 
 Connect with fellow Singaporeans based in China through these clubs, associations and communities. This is a selection of Singapore communities in China available from the Internet and is not meant to be an exhaustive list.
 
