@@ -7,7 +7,7 @@ collection_name: china
 second_nav_title: "Go"
 ---
 
-![banner-china-go-for-professionals](\images\china-professionals\For-young-professionals-cover-pic.jpg)
+![banner-china-go-for-professionals](\images\china-professionals\For-young-professionals-new.jpg)
 
 Planning a career in ASEAN? Check out the programmes and opportunities available so that you can better prepare and develop your competencies!
 
