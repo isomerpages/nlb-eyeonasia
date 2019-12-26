@@ -3,8 +3,6 @@ layout: simple-page
 title: Events
 permalink: /events-test/
 breadcrumb: Events
-collection_name: asean-countries
-second_nav_title: "Know"
 
 ---
 <img src="/images/asean-countries/Overview of ASEAN new.jpg" alt="ASEAN overview banner" style="width:800px;" />
