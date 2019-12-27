@@ -7,7 +7,7 @@ collection_name: india
 second_nav_title: "Go"
 ---
 
-![banner-for-professionals](\images\india-professionals\For-young-professionals-cover-pic.jpg)
+![banner-for-professionals](\images\india-professionals\For-young-professionals-new.jpg)
 
 Planning a career in India? Check out the programmes and opportunities available so that you can better prepare and develop your competencies!
 

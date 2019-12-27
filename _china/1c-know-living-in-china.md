@@ -7,7 +7,7 @@ collection_name: china
 second_nav_title: "Know"
 ---
 
-![banner-china-living-in-china](\images\china-living\Living-in-China-cover-pic.jpg)
+![banner-china-living-in-china](\images\china-living\Living-in-China-new.jpg)
 
 People, food, arts and play are some aspects that shape a country’s cultural life. Understand China’s social norms and be empowered to become a more intuitive global citizen in today’s interconnected world.
 

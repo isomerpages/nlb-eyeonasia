@@ -7,7 +7,7 @@ collection_name: asean-countries
 second_nav_title: "Know"
 ---
 
-<img src="/images/asean-living/Living in ASEAN.jpg" alt="ASEAN overview banner" style="width:800px;" />
+<img src="/images/asean-living/Living in ASEAN new.jpg" alt="ASEAN overview banner" style="width:800px;" />
 
 Each ASEAN country has its history, language and dynamism. Understand the way of life, customs, laws and infrastructure of each ASEAN country through our curated resources.
 

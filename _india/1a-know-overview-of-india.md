@@ -7,7 +7,7 @@ collection_name: india
 second_nav_title: "Know"
 ---
 
-![banner-overview-ofindia](\images\india-overview\Overview-of-India-1-1920x450.jpg)
+![banner-overview-ofindia](\images\india-overview\Overview-of-India-new.jpg)
 
 Besides being one of the world’s oldest civilisations, India is also one of the most industrialised countries, with a well-developed infrastructure, highly diversified industrial base, vast pool of scientific and engineering talent, topped off with a rich culture and heritage.
 

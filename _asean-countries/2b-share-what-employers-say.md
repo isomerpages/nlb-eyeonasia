@@ -7,7 +7,7 @@ collection_name: asean-countries
 second_nav_title: "Share"
 ---
 
-![banner-asean-share-what-employers-say](\images\asean-employers\What-employers-say-cover-pic.jpg)
+![banner-asean-share-what-employers-say](\images\asean-employers\What-employers-say-new.jpg)
 
 Outstanding Singapore businessmen, entrepreneurs, professionals and organisations have entered the ASEAN markets over the decades. Learn more about their ventures and what it takes to make that first step.
 

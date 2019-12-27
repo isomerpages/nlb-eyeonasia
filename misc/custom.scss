@@ -15,6 +15,10 @@ $media-color-three: #00838f;
 $media-color-four: #00838f;
 $media-color-five: #00838f;
 
+$banner-color-one: #e88866;
+$banner-color-two: #55c3bf;
+$banner-color-three: #7ca3d6;
+
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
@@ -39,6 +43,15 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-secondary {
     background-color: $secondary !important;
+  }
+  &-banner-color-one {
+    background-color: $banner-color-one;
+  }
+  &-banner-color-two {
+    background-color: $banner-color-two;
+  }
+  &-banner-color-three {
+    background-color: $banner-color-three;
   }
   &-media-color {
   	&-1 {

@@ -7,7 +7,7 @@ collection_name: asean-countries
 second_nav_title: "Go"
 ---
 
-![banner-asean-go-for-professionals](\images\asean-professionals\For-young-professionals-cover-pic.jpg)
+![banner-asean-go-for-professionals](\images\asean-professionals\For-young-professionals-new.jpg)
 
 Planning a career in ASEAN? Check out the programmes and opportunities available so that you can better prepare and develop your competencies!
 

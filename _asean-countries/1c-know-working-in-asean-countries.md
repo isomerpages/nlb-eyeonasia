@@ -7,7 +7,7 @@ collection_name: asean-countries
 second_nav_title: "Know"
 ---
 
-<img src="/images/asean-working/Working in ASEAN cover.jpg" style="width:800px;" />
+<img src="/images/asean-working/Working in ASEAN new.jpg" style="width:800px;" />
 
 With rapid economic developments in Southeast Asia, ASEAN cities offer many opportunities in various industries and sectors for people who wish to work there. Let our curated resources offer insights to working in an ASEAN city.
 

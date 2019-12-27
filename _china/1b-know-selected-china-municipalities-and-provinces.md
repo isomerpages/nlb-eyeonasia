@@ -7,7 +7,7 @@ collection_name: china
 second_nav_title: "Know"
 ---
 
-![banner-china-selected-china-municipalities-and-provinces](\images\china\Selected-China-Provinces-cover-pic.jpg)
+![banner-china-selected-china-municipalities-and-provinces](\images\china-selected\Selected-China-Provinces-new.jpg)
 
 What are some of the faster-growing areas in China today that have attracted large financial investments from both the local governments and overseas, including Singapore? Read about some of these Chinese provinces and cities.
 
