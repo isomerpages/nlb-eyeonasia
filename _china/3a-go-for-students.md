@@ -7,7 +7,7 @@ collection_name: china
 second_nav_title: "Go"
 ---
 
-![banner-china-go-for-students](\images\china-students\For-students-cover-pic.jpg)
+![banner-china-go-for-students](\images\china-students\for-students-new.jpg)
 
 Are you thinking that you might like to work in China after you graduate but don’t know where to start your research? Find out more about the overseas internships, exchange opportunities or awards applicable to you in Singapore so as to get you started on your plan to venture into China.
 

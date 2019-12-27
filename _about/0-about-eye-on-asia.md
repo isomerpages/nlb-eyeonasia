@@ -22,7 +22,7 @@ collection_name: about
 }
 </style>
 
-<img src="\images\shared\eoa-new-banner.png" alt="about banner" style="width:800px;" />
+<img src="\images\shared\eoa-banner.jpg" alt="about banner" style="width:800px;" />
 
 Navigate the shifts in global economic power to Asia with Eye on Asia’s curated programmes and resources. Tap into the insight of professionals who have ventured into the region.
 

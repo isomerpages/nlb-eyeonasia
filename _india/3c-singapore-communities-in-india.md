@@ -7,7 +7,7 @@ collection_name: india
 second_nav_title: "Go"
 ---
 
-![banner-singapore-communities-in-india](\images\china\SG-Coummunities-in-China-cover-pic.jpg)
+![banner-singapore-communities-in-india](\images\china\sg-communities-new.jpg)
 
 Connect with fellow Singaporeans based in India through these clubs, associations and communities. This is a selection of Singapore communities in India available from the Internet and is not meant to be an exhaustive list.
 
@@ -19,7 +19,6 @@ Connect with fellow Singaporeans based in India through these clubs, association
 * [Singapore Missions in India](#singapore-missions-in-india)
 
 <hr/>
-
 ### Enterprise Singapore Overseas Centres in India (Chennai, Mumbai, New Delhi)
 
 Enterprise Singapore’s Overseas Centres in India (Chennai, Mumba and New Delhi) provide assistance to Singaporean companies that wish to venture into India or are already operating from there.
@@ -27,7 +26,6 @@ Enterprise Singapore’s Overseas Centres in India (Chennai, Mumba and New Delhi
 [Find out more](https://ie.enterprisesg.gov.sg/Contact-Info/Global-Networks){:target="_blank"}
 
 <hr/>
-
 ### Nanyang Technological University Alumni Association (Northern India)
 
 The association serves as a central resource for the Nanyang Technological University alumni community in Northern India, often organising activities to bring the community together.
@@ -35,7 +33,6 @@ The association serves as a central resource for the Nanyang Technological Unive
 [Find out more](http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/India/Pages/NorthernIndia.aspx){:target="_blank"}
 
 <hr/>
-
 ### Nanyang Technological University Alumni Association (Central India)
 
 The association serves as a central resource for the Nanyang Technological University alumni community in Central India, often organising activities to bring the community together.
@@ -43,7 +40,6 @@ The association serves as a central resource for the Nanyang Technological Unive
 [Find out more](http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/India/Pages/CentralIndia.aspx){:target="_blank"}
 
 <hr/>
-
 ### Nanyang Technological University Alumni Association (Southern India)
 
 The association serves as a central resource for the Nanyang Technological University alumni community in Southern India, often organising activities to bring the community together.
@@ -51,7 +47,6 @@ The association serves as a central resource for the Nanyang Technological Unive
 [Find out more](http://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/India/Pages/SouthernIndia.aspx){:target="_blank"}
 
 <hr/>
-
 ### Singaporean expatriates in India
 
 This website enables Singaporeans living and working in India to connect and get in touch with other fellow Singaporeans based in the country.
@@ -59,7 +54,6 @@ This website enables Singaporeans living and working in India to connect and get
 [Find out more](http://www.expat.com/en/network/asia/india/){:target="_blank"}
 
 <hr/>
-
 ### Singapore Missions in India
 
 We have listed the contact details of the Singapore Missions in India in the table below.

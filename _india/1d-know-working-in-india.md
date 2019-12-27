@@ -7,7 +7,7 @@ collection_name: india
 second_nav_title: "Know"
 ---
 
-![banner-working-in-india](\images\india-working\Working-in-India-1-1920x450.jpg)
+![banner-working-in-india](\images\india-working\Working-in-India-new.jpg)
 
 India is home to one of the world's fastest-growing IT industries and is one of the major exporters of software services. Other rapidly growing sectors are engineering, biotechnology, pharmaceuticals research, manufacturing, aeronautics and consumer electronics. These sectors offer abundant opportunities for those looking to work in India.
 

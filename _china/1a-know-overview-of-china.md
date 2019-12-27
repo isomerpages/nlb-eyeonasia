@@ -7,7 +7,7 @@ collection_name: china
 second_nav_title: "Know"
 ---
 
-![banner-china](\images\china\Overview-of-China-cover-pic.jpg)
+![banner-china](\images\china\Overview-of-China-new.jpg)
 
 Wonder, China – land of the iconic Great Wall. Wonder, China – one of the cradles of early human civilisation. Wonder, China – a society of leading eminence.
 

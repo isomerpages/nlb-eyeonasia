@@ -7,7 +7,7 @@ collection_name: china
 second_nav_title: "Know"
 ---
 
-![banner-china-living-in-china](\images\china-working\Working-in-China-cover-pic.jpg)
+![banner-china-living-in-china](\images\china-working\Working-in-China-new.jpg)
 
 Is China big enough for your dreams? Discover this land of opportunities through curated resources about its business culture and the meaning of work with inspiring success stories.
 

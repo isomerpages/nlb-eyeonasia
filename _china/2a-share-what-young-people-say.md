@@ -7,7 +7,7 @@ collection_name: china
 second_nav_title: "Share"
 ---
 
-![banner-china-share-what-young-people-say](\images\china-youngpeople\What-young-people-say-cover-pic.jpg)
+![banner-china-share-what-young-people-say](\images\china-youngpeople\What-young-people-say-new.jpg)
 
 Read firsthand experiences and stories from young enterprising Singaporeans who have visited ASEAN countries for study trips and see ASEAN from their perspectives.
 
