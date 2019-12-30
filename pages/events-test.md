@@ -261,3 +261,30 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		</div>
 	</div>
 </div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/04-may-2018/" class="project-link">
+				<img src="/images/past-events/test-19.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Evolution of education and trends in China</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/03-apr-2018/" class="project-link">
+				<img src="/images/past-events/test-20.jpg"  class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Exploring work or business opportunities in Indonesia?</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
