@@ -153,3 +153,30 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		</div>
 	</div>
 </div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/15-jan-2019/" class="project-link">
+				<img src="/images/past-events/test-11.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>China’s Belt & Road Initiative - Opportunities and Implications</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/09-jan-2019/" class="project-link">
+				<img src="/images/past-events/test-12.jpg"  class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>The Halal Travel Industry – Next Big Wave</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
