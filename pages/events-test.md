@@ -207,3 +207,30 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		</div>
 	</div>
 </div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/04-sep-2018/" class="project-link">
+				<img src="/images/past-events/test-15.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Bridging India and Singapore</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/16-aug-2018/" class="project-link">
+				<img src="/images/past-events/test-16.jpg"  class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Belt and Road Initiative - Opportunities in China and Cambodia</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
