@@ -12,6 +12,6 @@ collection_name: asean-share-youngpeople
 
 *Vietnam is known for its high-quality anthracite products. Because of geographical proximity, Vietnam’s coal is well suited for the southern Chinese market.*
 
-[Read more about SMU’s Industry Study Mission Vietnam 2014 visit to Mineral Industry Holding Corp Ltd. Vinacomin – Nuibeo.](http://www.eyeonasia.sg/wp-content/uploads/2017/12/ISM-Vietnam_compressed.pdf){:target="_blank"}
+[Read more about SMU’s Industry Study Mission Vietnam 2014 visit to Mineral Industry Holding Corp Ltd. Vinacomin – Nuibeo.](/resources/ISM-Vietnam_compressed.pdf){:target="_blank"}
 
 Credit: International Trading Institute@SMU
