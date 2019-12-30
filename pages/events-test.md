@@ -180,3 +180,30 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		</div>
 	</div>
 </div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/08-nov-2018/" class="project-link">
+				<img src="/images/past-events/test-13.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Are you ready to be a China-savvy young Singaporean?</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/04-oct-2018/" class="project-link">
+				<img src="/images/past-events/test-14.jpg"  class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Exploring China - Opportunities and challenges</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
