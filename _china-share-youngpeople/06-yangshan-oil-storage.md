@@ -20,6 +20,6 @@ collection_name: china-share-youngpeople
 
 *We saw this terminal as strategically very significant to China’s position in crude oil and derivatives in the region, and were able to get an insight into its highly efficient and automated operations. Data from large oil terminals such as Yangshan Shengang is critical to traders when examining the different strategies being used in the market, and to pre-empt the impact of these strategies regional pricing.*
 
-[Read more about SMU’s Industry Study Mission China visit to Yangshan Shengang International Oil Logistics Co. Ltd.](http://www.eyeonasia.sg/wp-content/uploads/2017/09/ISM-China-2015.pdf){:target="_blank"}
+[Read more about SMU’s Industry Study Mission China visit to Yangshan Shengang International Oil Logistics Co. Ltd.](/resources/ISM-China-2015.pdf){:target="_blank"}
 
 Credit: International Trading Institute@SMU
