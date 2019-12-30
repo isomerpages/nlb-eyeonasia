@@ -234,3 +234,30 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		</div>
 	</div>
 </div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/05-jul-2018/" class="project-link">
+				<img src="/images/past-events/test-17.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Starting up in an evolving China</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/06-jun-2018/" class="project-link">
+				<img src="/images/past-events/test-18.jpg"  class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Demystifying the Indian ‘white tiger’</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
