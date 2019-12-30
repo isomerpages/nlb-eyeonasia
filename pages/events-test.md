@@ -100,4 +100,29 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	</div>
 </div>
 
-<p><p>
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/08-may-2019/" class="project-link">
+				<img src="/images/past-events/test-7.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Digital Transformation in China’s Automotive Industry</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/11-apr-2019/" class="project-link">
+				<img src="/images/past-events/test-8.jpg"  class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>The Aviation Industry is Booming, but the World is Critically Short of Airports</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
