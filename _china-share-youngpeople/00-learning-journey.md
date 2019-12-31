@@ -14,16 +14,16 @@ From 15 to 23 December 2018, 18 BCYC members embarked on a 9-day China Learning 
 
 Read more about BCYC’s Winter Learning Journey 2018 to Qingdao:
 
-- [Qingdao City Report](http://www.eyeonasia.sg/wp-content/uploads/2019/04/1.-Qingdao-City-Report-opt.pdf){:target="_blank"}
+- [Qingdao City Report](/resources/1.-Qingdao-City-Report-opt.pdf){:target="_blank"}
 
 Read more about BCYC’s Winter Learning Journey 2018 to Jinan:
 
-- [Jinan City Report](http://www.eyeonasia.sg/wp-content/uploads/2019/04/2.-Jinan-City-Report-opt.pdf){:target="_blank"}
+- [Jinan City Report](/resources/2.-Jinan-City-Report-opt.pdf){:target="_blank"}
 
 Read more about BCYC’s Winter Learning Journey 2018 to Beijing:
 
-- [Beijing City Report 1](http://www.eyeonasia.sg/wp-content/uploads/2019/04/3.-Group-City-Report-Beijing-opt.pdf){:target="_blank"}
-- [Beijing City Report 2](http://www.eyeonasia.sg/wp-content/uploads/2019/04/4.-Beijing-City-Report.pdf){:target="_blank"}
+- [Beijing City Report 1](/resources/3.-Group-City-Report-Beijing-opt.pdf){:target="_blank"}
+- [Beijing City Report 2](/resources/4.-Beijing-City-Report.pdf){:target="_blank"}
 
 **About Business China Youth Chapter**
 

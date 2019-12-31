@@ -14,7 +14,7 @@ collection_name: asean-share-youngpeople
 
 *“In 2013, Phu My Port served 480 vessels, 2,300 barges, 225,270 trucks and achieved a total throughput capacity of 4.8 million metric tonnes. In December 2004, Bunge Agribusiness Singapore, a business unit of Bunge, signed a ten-year agreement with Phu My Port operator Baria Serece Joint Venture Company to exclusively use the port facilities for the shipment of agricultural commodities to Vietnam.”*
 
-[Read more about SMU’s Industry Study Mission Vietnam 2014 visits to Saigon Newport Corporation and Phu My Port.](http://www.eyeonasia.sg/wp-content/uploads/2017/12/ISM-Vietnam_compressed.pdf){:target="_blank"}
+[Read more about SMU’s Industry Study Mission Vietnam 2014 visits to Saigon Newport Corporation and Phu My Port.](/resources/ISM-Vietnam_compressed.pdf){:target="_blank"}
 
 Credit: International Trading Institute@SMU
 
