@@ -42,12 +42,16 @@
 <<<<<<< HEAD
 - title: Other Asian Cities
   url: /other-asian-cities/
+<<<<<<< HEAD
 - title: Event
 =======
 =======
 >>>>>>> parent of f5cbeb8... Update navigation.yml
 - title: Events
 >>>>>>> parent of f5cbeb8... Update navigation.yml
+=======
+- title: Events
+>>>>>>> parent of bedbf46... Update navigation.yml
   url: /events/
 - title: Partners
   url: /partners/
