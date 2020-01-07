@@ -94,6 +94,8 @@ collections:
     output: true
   upcoming-events:
     output: true
+  other-asian-cities:
+	output: true
 
 # Resources and pagination
 resources_name: events
