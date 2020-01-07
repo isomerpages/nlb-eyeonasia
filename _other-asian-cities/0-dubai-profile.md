@@ -6,18 +6,28 @@ breadcrumb: Dubai - A city profile
 collection_name: other-asian-cities
 ---
 
-<img src="\images\asean-countries\asean-banner.jpg" alt="ASEAN snapshot banner" style="width:800px;" />
+<img src="\nlb-eoa\images\test\dubai-profile-test.jpg" alt="Dubai snapshot banner" style="width:800px;" />
 
-This article provides an overview of ASEAN countries for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
+This article provides an overview of Dubai for those keen to explore the possibility of living and working there. Gathered from open sources, the information presented is not exhaustive or meant to supplement or substitute legal and professional advice.
 
 
 ### **Introduction**
 
-The Association of Southeast Asian Nations (ASEAN) is a 10-nation regional organisation made up of Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand and Vietnam. ASEAN was first established on 8 August 1967 in Bangkok, Thailand when the Foreign Ministers of Indonesia, Malaysia, Philippines, Singapore and Thailand signed the ASEAN Declaration.[^1] ASEAN subsequently became a 10-member regional organisation when Brunei Darussalam joined on 7 January 1984, Vietnam on 28 July 1995, Lao PDR and Myanmar on 23 July 1997, and Cambodia on 30 April 1999.[^2]
+Dubai is located on the eastern coast of the Arabian Peninsula and in the southwest corner of the Arabian Gulf.[^1] To its southeast sits the Sultanate of Oman. Dubai is the second largest emirate in the United Arab Emirates (UAE), after the Emirate of Abu Dhabi, which is located to its south. Sharjah, the third largest city in the UAE, is located 18 km to its northeast.
 
-[^1]: History: The founding of ASEAN. (n.d.). *Association of Southeast Asian Nations.* Retrieved November 20, 2017, from [http://asean.org](http://asean.org/asean/about-asean/history/){:target="_blank"}
-[^2]: Overview. (n.d.). *Association of Southeast Asian Nations.* Retrieved November 20, 2017, from [http://asean.org](http://asean.org/asean/about-asean/overview/){:target="_blank"}
+The Emirate of Dubai covers an area of 4,114 square kilometres. Within the Emirate of Dubai, the city of Dubai covers an area of about 35 square kilometres but is expected to double in area with the addition of five man-made islands and the completion of desert construction work. 
 
+
+
+------
+
+[^1]: About Dubai. (2019, September 23). *Government of Dubai.* Retrieved September 25, 2019, from http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspxhttp://www.dubai.ae/en/aboutdubai/Pages/default.aspx 
+
+[^2]: Geography, location & climate, (n.d.) *Government of Dubai.* Retrieved September 24, 2019, from http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx 
+
+[^3]: Sharjah. (2019). *Dubai Travel.* Retrieved October 14, 2019, from http://www.justdubai.org/sharjah.asp 
+
+[^4]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from https://www.dubai.com/v/geography/ 
 
 ### **Economic growth and integration**
 
