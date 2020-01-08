@@ -53,25 +53,25 @@ The UAE Singapore Business Council conducts talks for members on relevant busine
 
 At the government level, the Monetary Authority of Singapore and the Dubai Financial Services Authority signed an agreement on 29 August 2018 that would allow each party to refer fintech companies to each other, as well as facilitate information sharing on innovation in the financial sector. They also agreed to work on joint projects, such as digital and mobile payments, blockchain and distribution ledgers, Big Data and Application Programming interfaces.[^28]
 
-[^1]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from https://www.dubai.com/v/geography/ 
+[^1]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from [https://www.dubai.com](https://www.dubai.com/v/geography/) 
 
-[^2]: Language. (2019). *Dubai Online.* Retrieved September 24, 2019, from https://www.dubai-online.com/essential/language/
+[^2]: Language. (2019). *Dubai Online.* Retrieved September 24, 2019, from [https://www.dubai-online.com](https://www.dubai-online.com/essential/language/)
 
-[^3]: Money. (2019). *Dubai Online.* Retrieved September 24, 2019, from https://www.dubai-online.com/essential/money/
+[^3]: Money. (2019). *Dubai Online.* Retrieved September 24, 2019, from [https://www.dubai-online.com](https://www.dubai-online.com/essential/money/)
 
-[^4]: About Dubai. (2019, September 23). *Government of Dubai.* Retrieved September 25, 2019, from http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspxhttp://www.dubai.ae/en/aboutdubai/Pages/default.aspx 
+[^4]: About Dubai. (2019, September 23). *Government of Dubai.* Retrieved September 25, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspxhttp://www.dubai.ae/en/aboutdubai/Pages/default.aspx) 
 
-[^5]: Geography, location & climate, (n.d.) *Government of Dubai.* Retrieved September 24, 2019, from http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx 
+[^5]: Geography, location & climate, (n.d.) *Government of Dubai.* Retrieved September 24, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx)
 
-[^6]: Sharjah. (2019). *Dubai Travel.* Retrieved October 14, 2019, from http://www.justdubai.org/sharjah.asp 
+[^6]: Sharjah. (2019). *Dubai Travel.* Retrieved October 14, 2019, from [http://www.justdubai.org](http://www.justdubai.org/sharjah.asp)
 
-[^7]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from https://www.dubai.com/v/geography/
+[^7]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from [https://www.dubai.com](https://www.dubai.com/v/geography/)
 
-[^8]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx
+[^8]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx)
 
-[^9]: Population bulletin, Emirate of Dubai 2018. (2019, April). *Dubai Statistics Center.* Retrieved September 23, 2019, from [https://www.dsc.gov.ae/Publication/Population%20Bulletin%20Emirate%20of%20Dubai%202018.pdf](https://www.dsc.gov.ae/Publication/Population Bulletin Emirate of Dubai 2018.pdf)
+[^9]: Population bulletin, Emirate of Dubai 2018. (2019, April). *Dubai Statistics Center.* Retrieved September 23, 2019, from [https://www.dsc.gov.ae](https://www.dsc.gov.ae/Publication/Population%20Bulletin%20Emirate%20of%20Dubai%202018.pdf)
 
-[^10]: Demographics. (2019). *Dubai Info.* Retrieved September 24, 2019, from http://www.dubai-info.org/en/facts/good-to-know/demographics
+[^10]: Demographics. (2019). *Dubai Info.* Retrieved September 24, 2019, from [http://www.dubai-info.org](http://www.dubai-info.org/en/facts/good-to-know/demographics)
 
 [^11]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from http://www.dubai.ae/en/aboutdubai/Pages/DubaiAttractions.aspx
 
