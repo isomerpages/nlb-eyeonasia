@@ -53,59 +53,59 @@ The UAE Singapore Business Council conducts talks for members on relevant busine
 
 At the government level, the Monetary Authority of Singapore and the Dubai Financial Services Authority signed an agreement on 29 August 2018 that would allow each party to refer fintech companies to each other, as well as facilitate information sharing on innovation in the financial sector. They also agreed to work on joint projects, such as digital and mobile payments, blockchain and distribution ledgers, Big Data and Application Programming interfaces.[^28]
 
-[^1]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from [https://www.dubai.com](https://www.dubai.com/v/geography/) 
+[^1]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from [https://www.dubai.com](https://www.dubai.com/v/geography/){:target="_blank"}
 
-[^2]: Language. (2019). *Dubai Online.* Retrieved September 24, 2019, from [https://www.dubai-online.com](https://www.dubai-online.com/essential/language/)
+[^2]: Language. (2019). *Dubai Online.* Retrieved September 24, 2019, from [https://www.dubai-online.com](https://www.dubai-online.com/essential/language/){:target="_blank"}
 
-[^3]: Money. (2019). *Dubai Online.* Retrieved September 24, 2019, from [https://www.dubai-online.com](https://www.dubai-online.com/essential/money/)
+[^3]: Money. (2019). *Dubai Online.* Retrieved September 24, 2019, from [https://www.dubai-online.com](https://www.dubai-online.com/essential/money/){:target="_blank"}
 
-[^4]: About Dubai. (2019, September 23). *Government of Dubai.* Retrieved September 25, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspxhttp://www.dubai.ae/en/aboutdubai/Pages/default.aspx) 
+[^4]: About Dubai. (2019, September 23). *Government of Dubai.* Retrieved September 25, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspxhttp://www.dubai.ae/en/aboutdubai/Pages/default.aspx){:target="_blank"}
 
-[^5]: Geography, location & climate, (n.d.) *Government of Dubai.* Retrieved September 24, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx)
+[^5]: Geography, location & climate, (n.d.) *Government of Dubai.* Retrieved September 24, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx){:target="_blank"}
 
-[^6]: Sharjah. (2019). *Dubai Travel.* Retrieved October 14, 2019, from [http://www.justdubai.org](http://www.justdubai.org/sharjah.asp)
+[^6]: Sharjah. (2019). *Dubai Travel.* Retrieved October 14, 2019, from [http://www.justdubai.org](http://www.justdubai.org/sharjah.asp){:target="_blank"}
 
-[^7]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from [https://www.dubai.com](https://www.dubai.com/v/geography/)
+[^7]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from [https://www.dubai.com](https://www.dubai.com/v/geography/){:target="_blank"}
 
-[^8]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx)
+[^8]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx){:target="_blank"}
 
-[^9]: Population bulletin, Emirate of Dubai 2018. (2019, April). *Dubai Statistics Center.* Retrieved September 23, 2019, from [https://www.dsc.gov.ae](https://www.dsc.gov.ae/Publication/Population%20Bulletin%20Emirate%20of%20Dubai%202018.pdf)
+[^9]: Population bulletin, Emirate of Dubai 2018. (2019, April). *Dubai Statistics Center.* Retrieved September 23, 2019, from [https://www.dsc.gov.ae](https://www.dsc.gov.ae/Publication/Population%20Bulletin%20Emirate%20of%20Dubai%202018.pdf){:target="_blank"}
 
-[^10]: Demographics. (2019). *Dubai Info.* Retrieved September 24, 2019, from [http://www.dubai-info.org](http://www.dubai-info.org/en/facts/good-to-know/demographics)
+[^10]: Demographics. (2019). *Dubai Info.* Retrieved September 24, 2019, from [http://www.dubai-info.org](http://www.dubai-info.org/en/facts/good-to-know/demographics){:target="_blank"}
 
-[^11]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from http://www.dubai.ae/en/aboutdubai/Pages/DubaiAttractions.aspx
+[^11]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from [http://www.dubai.ae](http://www.dubai.ae/en/aboutdubai/Pages/DubaiAttractions.aspx){:target="_blank"}
 
-[^12]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai
+[^12]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
 
-[^13]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 24. 2019 http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx 
+[^13]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 24. 2019 [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx){:target="_blank"}
 
-[^14]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 23. 2019, from http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx
+[^14]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 23. 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx){:target="_blank"}
 
-[^15]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai
+[^15]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
 
-[^16]: Key sectors. (2019). *Visit Dubai.* Retrieved September 24, 2010, from https://www.visitdubai.com/en/business-in-dubai/why-dubai/key-sectors
+[^16]: Key sectors. (2019). *Visit Dubai.* Retrieved September 24, 2010, from [https://www.visitdubai.com](https://www.visitdubai.com/en/business-in-dubai/why-dubai/key-sectors){:target="_blank"}
 
-[^17]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai
+[^17]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
 
 [^18]: Dubai attractions. (2000-2018). *Smart Dubai Government.* Retrieved September 23, 2019, from 
 
-[^19]: Things to do in Dubai. (2019). *Visit Dubai.* Retrieved September 23, 2019, from https://www.visitdubai.com/en/discover/things-to-do-in-dubai 
+[^19]: Things to do in Dubai. (2019). *Visit Dubai.* Retrieved September 23, 2019, from [https://www.visitdubai.com](https://www.visitdubai.com/en/discover/things-to-do-in-dubai){:target="_blank"}
 
-[^20]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 2019, http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx
+[^20]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 2019, [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx){:target="_blank"}
 
-[^21]: Automotive & Aerospace: Autonomous vehicles take flight. (2019). *Visit Dubai.* Retrieved September 24, 2019, from https://www.visitdubai.com/en/business-in-dubai/automotive-and-aerospace  
+[^21]: Automotive & Aerospace: Autonomous vehicles take flight. (2019). *Visit Dubai.* Retrieved September 24, 2019, from [https://www.visitdubai.com](https://www.visitdubai.com/en/business-in-dubai/automotive-and-aerospace){:target="_blank"}
 
-[^22]: Smith, O. (2019, April 29). The incredible rise of Dubai as the world’s travel hub. *The Telegraph.* Retrieved September 24, 2019, from https://www.telegraph.co.uk/travel/destinations/middle-east/united-arab-emirates/dubai/articles/The-incredible-rise-of-Dubai-as-the-worlds-air-travel-hub/ 
+[^22]: Smith, O. (2019, April 29). The incredible rise of Dubai as the world’s travel hub. *The Telegraph.* Retrieved September 24, 2019, from [https://www.telegraph.co.uk](https://www.telegraph.co.uk/travel/destinations/middle-east/united-arab-emirates/dubai/articles/The-incredible-rise-of-Dubai-as-the-worlds-air-travel-hub/){:target="_blank"}
 
 [^23]: Speech by SMS Koh at the UAE-Singapore Business and Investment Forum. (2018, February 8). *Singapore Government News.* Retrieved September 23, 2019, from ProQuest Central database. 
 
-[^24]: His Highness Sheikh Maktoum bin Mohammed bin Rashid Al Maktoum officially opens Bank of Singapore's branch in Dubai International Financial Centre. (2017, February 19). *Bank of Singapore.* Retrieved September 24, 2017, from https://www.bankofsingapore.com/media-releases/2017/his-highness-sheikh-maktoum-bin-mohammed-bin-rashid-al-maktoum-officially-opens-bank-of-singapore-branch-in-dubai-international-financial-centre-19-feb-2017.html
+[^24]: His Highness Sheikh Maktoum bin Mohammed bin Rashid Al Maktoum officially opens Bank of Singapore's branch in Dubai International Financial Centre. (2017, February 19). *Bank of Singapore.* Retrieved September 24, 2017, from [https://www.bankofsingapore.com](https://www.bankofsingapore.com/media-releases/2017/his-highness-sheikh-maktoum-bin-mohammed-bin-rashid-al-maktoum-officially-opens-bank-of-singapore-branch-in-dubai-international-financial-centre-19-feb-2017.html){:target="_blank"}
 
-[^25]: Corporate profile. (2017). *NSL.* Retrieved September 24. 2019, https://www.nsl.com.sg/about-us/corporate-profile; About us. (2019). *KS International.* Retrieved September 24, 2019, from https://ksinternational.co/about-us/
+[^25]: Corporate profile. (2017). *NSL.* Retrieved September 24. 2019, [https://www.nsl.com.sg](https://www.nsl.com.sg/about-us/corporate-profile){:target="_blank"}; About us. (2019). *KS International.* Retrieved September 24, 2019, from [https://ksinternational.co](https://ksinternational.co/about-us/){:target="_blank"}
 
-[^26]: Events (2018). *UAE Singapore Business Council.* Retrieved September 24, 2019, from http://uaesbc.com/events/ 
+[^26]: Events (2018). *UAE Singapore Business Council.* Retrieved September 24, 2019, from [http://uaesbc.com](http://uaesbc.com/events/){:target="_blank"}
 
-[^27]: Market research and business matching: Dubai. (2019). *Enterprise Singapore.* Retrieved September25, 2019, from https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/new-market-entry-support/ppn/customised-market-research-and-customised-business-matching/dubai 
+[^27]: Market research and business matching: Dubai. (2019). *Enterprise Singapore.* Retrieved September25, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/new-market-entry-support/ppn/customised-market-research-and-customised-business-matching/dubai){:target="_blank"}
 
 [^28]: MAS and Dubai authority sign accord to support fintech development. (2018, August 29). *The Straits Times.* Retrieved September 25, 2019, from Factiva.com.
 
