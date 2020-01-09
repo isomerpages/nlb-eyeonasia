@@ -10,6 +10,27 @@ collection_name: other-asian-cities
 
 This is a selection of resources on Discovering Yangon available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers. 
 
+### **NLB print and digital resources**
+
+<img src="/images/book-covers/Dubai - The epicentre of modern innovation.jpg" style="width:180px;" />
+
+[**Dubai: The epicentre of modern innovation**](){:target="_blank"}
+
+This book discusses the implementation of sustained innovation success within several industry segments. It also identifies the past, current and future innovation-related successes that lead to Dubai's rise as the epicenter of innovation in the Middle East and the world. The authors share key innovation leadership philosophies from Sheikh Mohammed bin Al Maktoum and recognised business leaders in the UAE.
+
+Retrieved from OverDrive. *myLibrary* ID is required to access this database.
+
+All rights reserved. Boca Raton: CRC Press, 2017.
+
+<img src="/images/book-covers/Culture Shock! Dubai - A survival guide to customs and etiquette.jpg" style="width:180px;" />
+
+[**Culture Shock! Dubai: A survival guide to customs and etiquette**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202586939){:target="_blank"}
+
+This book is a survival guide for anyone wanting to discover life in the emirate known as the City of Gold. This guide draws on insider knowledge to take visitors through the process of settling in, whether for short or longer stays.
+
+All rights reserved. Singapore: Marshall Cavendish Editions, 2016.
+
+
 ### **You may also like**
 
 <img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:180px;" />
