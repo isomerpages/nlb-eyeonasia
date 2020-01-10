@@ -20,12 +20,6 @@ This article provides an overview of Nur-Sultan for those keen to explore the po
 
 **Currency:** Tenge[^3]
 
-[^1]: Ministry of National Economy of the Republic of Kazakhstan Statistics Committee. (2019). *Government of Kazakhstan.* Retrieved October 27, 2019, from http://stat.gov.kz/
-[^2]: The Constitution of the Republic of Kazakhstan. (2019). *Parliament of the Republic of* *Kazakhstan*. Retrieved October 27, 2019, from http://www.parlam.kz/en/constitution
-[^3]: Introduction. (2019). *National Bank of Kazakhstan.* Retrieved October 27, 2019, from https://nationalbank.kz/?docid=170&switch=english
-
- 
-
 ### **Introduction**
 
 **Nur-Sultan**, known as **Astana before March 2019**, is the capital city of Kazakhstan. It is located in the north-central part of the country, along the Ishim River, at the junction of the Trans-Kazakhstan and South Siberian railways.[^4] Founded in 1824 as a Russian military outpost, Nur-Sultan became an administrative centre in 1868. Its population had reached 33,000 when it was made an *oblast* (province) in 1939.[^5]
@@ -34,19 +28,9 @@ The city grew in importance during the Soviet period by the government’s Virgi
 
 After he took office in 1990, President Nursultan Nazarbayev began spending the country’s oil profits on a drastic expansion and reconstruction of Astana. The government hired Japanese architect Kurokawa Kishō to design the plan for Astana’s new broad avenues and blue and gold buildings, including the Presidential Palace. Nazarbayev also employed British architect Sir Norman Foster to design the new Palace of Peace and Reconciliation, a 62-metre-high pyramid that includes, among other things, a library and an opera house. The city continued to develop rapidly throughout Nazarbayev’s presidency, and, on 20 March 2019, the day after he left office, the city was renamed Nur-Sultan in his honour.[^7]
 
-[^4]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
-
-[^5]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
-
-[^6]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
-
-[^7]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
-
 ### **Geography**
 
 Located in the centre of Kazakhstan, the territory of Nur-Sultan exceeds 722 square kilometres with a population of more than one million. The city consists of three districts – former capital Almaty, Saryaka and Yessil. Situated in the dry steppe zone, which is a sub-zone of dry grass steppes, Nur-Sultan’s climate is sharply continental with cold and long winters and hot, moderately arid summers. Its convenient location in the centre of the Eurasian continent makes Nur-Sultan an economically advantageous transport, communication and logistics centre, described as a “transit bridge” between Europe and Asia.[^8]
-
-[^8]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from http://astana.gov.kz/en/news/astana-history/rubrics/206
 
 ### **Economic Profile**
 
@@ -56,8 +40,6 @@ Facilities such as the Tselinograd car-repair plant, Tsesna-Astyk concern, Tulpa
 
 With a dynamic entrepreneurial culture, the city is home to more than 128,000 small and medium-sized businesses, making it one of the largest business centres in Kazakhstan. 
 
-[^9]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from http://astana.gov.kz/en/news/astana-history/rubrics/206
-
 ### **Tourism** 
 
 Nur-Sultan boasts futuristic architecture with a skyline that rivals Dubai’s. The city is also home to educational and cultural institutions, including several universities, an opera, a symphony orchestra, museums and shopping malls.[^10] Nur-Sultan is distinctly modern, thanks to President Nursultan Nazarbayev’s efforts to make it a culturally advanced city in Central Asia. The city has been spending billions of dollars hiring international architects, making Nur-Sultan an interesting site with a unique mix of futuristic architecture and Kazakh flair. It is home to many impressive government buildings, such as the Presidential Palace, Parliament House and Supreme Court.[^11] 
@@ -65,13 +47,6 @@ Nur-Sultan boasts futuristic architecture with a skyline that rivals Dubai’s. 
 Noteworthy tourist spots include the Bayterek, a 97-metre high monument and observation tower completed in 1997. It is meant to embody a Kazakh folk tale about a mythical tree of life and a magic bird of happiness. The height of the tower commemorates the year that Nur-Sultan became the nation’s capital in 1997.[^12]
 
 Unveiled in 2006, the Khan Shatyr is a giant, glowing tent built in the neo-futurist style. Standing at 150 metres, the tent has an enormous 140,000 square metre base. Inside, it houses a park large enough to fit 10 football stadiums. It also has numerous shopping and entertainment venues, a boating river and a mini golf course. Designed by British architect Norman Foster, it is the highest tent structure in the world. During the day, it is entirely flooded with sunlight, while at night, the Khan Shatyr is a site to behold, as it is brilliantly lit up by changing colours.[^13]
-
-[^10]: Cohen, A. (2018, June 18). Kazakhstan's new capital is growing up quick. (2019). *Forbes.* Retrieved October 27, 2019, from https://www.forbes.com/sites/arielcohen/2018/06/08/kazakhstans-new-capital-is-growing-up-quick/#1d8a1f991c44 
-[^11]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
-[^12]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
-[^13]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, fro https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
-
- 
 
 ### **Singapore and Nur-Sultan**
 
@@ -83,7 +58,31 @@ Senior Minister Teo Chee Hean visited Kazakhstan's capital Nur-Sultan on 14 Octo
 
 Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of Singapore companies that has made a mark in Kazakhstan. When she was 22, Ms Lee decided to set up a tour consultancy business in Kazakhstan as she was attracted by the immense potential for tourism in what was then considered an “exotic” location in Central Asia. Other Singapore companies in Kazakhstan include education consultancy Educare, urban planning company RSP Architects Planners and Engineers, and coffee and tea manufacturing company Food Empire.[^17]
 
-------
+[^1]: Ministry of National Economy of the Republic of Kazakhstan Statistics Committee. (2019). *Government of Kazakhstan.* Retrieved October 27, 2019, from http://stat.gov.kz/
+
+[^2]: The Constitution of the Republic of Kazakhstan. (2019). *Parliament of the Republic of* *Kazakhstan*. Retrieved October 27, 2019, from http://www.parlam.kz/en/constitution
+
+[^3]: Introduction. (2019). *National Bank of Kazakhstan.* Retrieved October 27, 2019, from https://nationalbank.kz/?docid=170&switch=english
+
+[^4]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
+
+[^5]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
+
+[^6]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
+
+[^7]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
+
+[^8]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from http://astana.gov.kz/en/news/astana-history/rubrics/206
+
+[^9]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from http://astana.gov.kz/en/news/astana-history/rubrics/206
+
+[^10]: Cohen, A. (2018, June 18). Kazakhstan's new capital is growing up quick. (2019). *Forbes.* Retrieved October 27, 2019, from https://www.forbes.com/sites/arielcohen/2018/06/08/kazakhstans-new-capital-is-growing-up-quick/#1d8a1f991c44
+
+[^11]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
+
+[^12]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
+
+[^13]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, fro https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
 
 [^14]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*. Retrieved October 27, 2019, from https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty
 
