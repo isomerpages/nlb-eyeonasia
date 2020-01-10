@@ -58,83 +58,40 @@ With a dynamic entrepreneurial culture, the city is home to more than 128,000 sm
 
 [^9]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from http://astana.gov.kz/en/news/astana-history/rubrics/206
 
- 
-
-### **Industry**
-
-Dubai’s economy is based largely on natural resources. However, in the latter half of the 20th century, Dubai’s fast growing knowledge-based and services economy soon matched and almost replaced its revenue from oil. Currently over 90 percent of business activity in Dubai involves trade, logistics, financial services, hospitality and tourism, real estate, construction and manufacturing.[^16]
-
-Under the Dubai Industrial Strategy 2030, there are plans to strengthen the industrial sector to create more jobs for Emiratis. These include 75 key initiatives to generate revenue worth up to US$44 billion, create 27,000 jobs and boost exports by US$4 billion by 2030. The six priority industry sectors that have been identified are aerospace, aluminium and fabricated metals, food and beverage, machinery and equipment, maritime and pharmaceuticals and medical equipment.[^17]
-
 ### **Tourism** 
 
-Dubai offers visitors a kaleidoscope of attractions. For instance, the Dubai Museum, located inside the Al Fahidi Fort, offers insights into Arabian culture. In addition, visitors can explore its contrasting landscapes, archaeological sites and a natural sea-water inlet, known as The Creek, which cuts cross the city centre and is the “focal point of life in Dubai”.[^18] Among its top attractions are the Burj Khalifa, Dubai mall and Palm Jumeirah.[^19]
+Nur-Sultan boasts futuristic architecture with a skyline that rivals Dubai’s. The city is also home to educational and cultural institutions, including several universities, an opera, a symphony orchestra, museums and shopping malls.[^10] Nur-Sultan is distinctly modern, thanks to President Nursultan Nazarbayev’s efforts to make it a culturally advanced city in Central Asia. The city has been spending billions of dollars hiring international architects, making Nur-Sultan an interesting site with a unique mix of futuristic architecture and Kazakh flair. It is home to many impressive government buildings, such as the Presidential Palace, Parliament House and Supreme Court.[^11] 
 
-To meet growing demands from the tourism sector, Dubai has developed extensive, world-class hospitality and tourism facilities.[^20] In 2017, 88.2 million passengers passed through the Al Maktoum International Airport, one of the world’s busiest airports.[^21] Plans are laid to start the building of a new airport about 65 kilometres further south.[^22]
+Noteworthy tourist spots include the Bayterek, a 97-metre high monument and observation tower completed in 1997. It is meant to embody a Kazakh folk tale about a mythical tree of life and a magic bird of happiness. The height of the tower commemorates the year that Nur-Sultan became the nation’s capital in 1997.[^12]
 
-### **Singapore and Dubai**
+Unveiled in 2006, the Khan Shatyr is a giant, glowing tent built in the neo-futurist style. Standing at 150 metres, the tent has an enormous 140,000 square metre base. Inside, it houses a park large enough to fit 10 football stadiums. It also has numerous shopping and entertainment venues, a boating river and a mini golf course. Designed by British architect Norman Foster, it is the highest tent structure in the world. During the day, it is entirely flooded with sunlight, while at night, the Khan Shatyr is a site to behold, as it is brilliantly lit up by changing colours.[^13]
 
-A number of Singapore companies and start-ups have set up businesses in Dubai in sectors such as financial services, logistics, hospitality and urban solutions.[^23] For instance, the Bank of Singapore’s branch in Dubai’s International Financial Centre was officially opened on 19 February 2017.[^24] Others that have followed suit include NSL Limited and KS International.[^25] As for start-ups, in 2018, four percent of the more than 300 applications for Dubai’s fintech accelerator programme were from Singapore. 
+[^10]: Cohen, A. (2018, June 18). Kazakhstan's new capital is growing up quick. (2019). *Forbes.* Retrieved October 27, 2019, from https://www.forbes.com/sites/arielcohen/2018/06/08/kazakhstans-new-capital-is-growing-up-quick/#1d8a1f991c44 
+[^11]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
+[^12]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
+[^13]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, fro https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
 
-The UAE Singapore Business Council conducts talks for members on relevant business issues as well as conduct trade missions to both Dubai and Abu Dhabi.[^26] Enterprise Singapore has also collaborated with FT Consulting to support Singapore companies keen to set up business in Dubai.[^27]
+ 
 
-At the government level, the Monetary Authority of Singapore and the Dubai Financial Services Authority signed an agreement on 29 August 2018 that would allow each party to refer fintech companies to each other, as well as facilitate information sharing on innovation in the financial sector. They also agreed to work on joint projects, such as digital and mobile payments, blockchain and distribution ledgers, Big Data and Application Programming interfaces.[^28]
+### **Singapore and Nur-Sultan**
 
-[^1]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from [https://www.dubai.com](https://www.dubai.com/v/geography/){:target="_blank"}
+In 2016, trade in services between Singapore and Kazakhstan amounted to $40 million, while total bilateral trade in goods between Singapore and Kazakhstan was valued at $133.6 million in 2017. Singapore's imports from Kazakhstan amounted to $110.7 million, while Singapore's exports to the country stood at $23 million. As of 2016, Kazakhstan's cumulative foreign direct investment in Singapore amounted to $2.5 billion, mainly in the financial and insurance services sector, while Singapore has invested $180 million in Kazakhstan.[^14]
 
-[^2]: Language. (2019). *Dubai Online.* Retrieved September 24, 2019, from [https://www.dubai-online.com](https://www.dubai-online.com/essential/language/){:target="_blank"}
+On 21 November 2019, Singapore and Kazakhstan signed a bilateral investment treaty. The agreement was exchanged by Senior Minister of State for Trade and Industry Koh Poh Koon and Kazakhstan Minister for Investment and Development Zhenis Kassymbek, in the presence of Prime Minister Lee Hsien Loong and Kazakhstan Prime Minister Bakytzhan Sagintayev at the Istana. The treaty sought to support greater investment flows between both countries by protecting the interests of investors from Singapore and Kazakhstan and providing them with more confidence to seize investment opportunities. Another 12 agreements were signed at the Kazakhstan-Singapore Business Forum held at the Shangri-La hotel on the same day.[^15]
 
-[^3]: Money. (2019). *Dubai Online.* Retrieved September 24, 2019, from [https://www.dubai-online.com](https://www.dubai-online.com/essential/money/){:target="_blank"}
+Senior Minister Teo Chee Hean visited Kazakhstan's capital Nur-Sultan on 14 October 2019 and held meetings with the country's leaders. At the meetings, they reaffirmed the warm ties between Singapore and Kazakhstan and welcomed the signing of a free trade agreement between Singapore and the Eurasian Economic Union on 1 Oct 2019. The agreement is expected to strengthen trade and investment links between Singapore, Kazakhstan and the trade bloc, which comprises Kazakhstan, Armenia, Belarus, Kyrgyzstan and Russia. Mr Teo and Kazakhstan's leaders also discussed ways to strengthen cooperation in areas such as civil service transformation and governance, digital economy and financial technology, legal and judicial exchanges, and people-to-people exchanges.[^16]
 
-[^4]: About Dubai. (2019, September 23). *Government of Dubai.* Retrieved September 25, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspxhttp://www.dubai.ae/en/aboutdubai/Pages/default.aspx){:target="_blank"}
+Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of Singapore companies that has made a mark in Kazakhstan. When she was 22, Ms Lee decided to set up a tour consultancy business in Kazakhstan as she was attracted by the immense potential for tourism in what was then considered an “exotic” location in Central Asia. Other Singapore companies in Kazakhstan include education consultancy Educare, urban planning company RSP Architects Planners and Engineers, and coffee and tea manufacturing company Food Empire.[^17]
 
-[^5]: Geography, location & climate, (n.d.) *Government of Dubai.* Retrieved September 24, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx){:target="_blank"}
+------
 
-[^6]: Sharjah. (2019). *Dubai Travel.* Retrieved October 14, 2019, from [http://www.justdubai.org](http://www.justdubai.org/sharjah.asp){:target="_blank"}
+[^14]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*. Retrieved October 27, 2019, from https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty
 
-[^7]: Dubai geography. (2019). *Dubai.com.* Retrieved September 24, 2019, from [https://www.dubai.com](https://www.dubai.com/v/geography/){:target="_blank"}
+[^15]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*.  Retrieved October 27, 2019, from https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty
 
-[^8]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/geographic-location-and-climate.aspx){:target="_blank"}
+[^16]: Singapore, Kazakhstan reaffirm ties during SM Teo Chee Hean's visit. (2019, October 15). *The Straits Times*. Retrieved October 29, 2019, from https://www.straitstimes.com/asia/spore-kazakhstan-reaffirm-ties-during-sm-teos-visit
 
-[^9]: Population bulletin, Emirate of Dubai 2018. (2019, April). *Dubai Statistics Center.* Retrieved September 23, 2019, from [https://www.dsc.gov.ae](https://www.dsc.gov.ae/Publication/Population%20Bulletin%20Emirate%20of%20Dubai%202018.pdf){:target="_blank"}
-
-[^10]: Demographics. (2019). *Dubai Info.* Retrieved September 24, 2019, from [http://www.dubai-info.org](http://www.dubai-info.org/en/facts/good-to-know/demographics){:target="_blank"}
-
-[^11]: Geographic location and climate. (n.d.). *Government of Dubai.* Retrieved September 24, 2019, from [http://www.dubai.ae](http://www.dubai.ae/en/aboutdubai/Pages/DubaiAttractions.aspx){:target="_blank"}
-
-[^12]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
-
-[^13]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 24. 2019 [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx){:target="_blank"}
-
-[^14]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 23. 2019, from [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx){:target="_blank"}
-
-[^15]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
-
-[^16]: Key sectors. (2019). *Visit Dubai.* Retrieved September 24, 2010, from [https://www.visitdubai.com](https://www.visitdubai.com/en/business-in-dubai/why-dubai/key-sectors){:target="_blank"}
-
-[^17]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
-
-[^18]: Dubai attractions. (2000-2018). *Smart Dubai Government.* Retrieved September 23, 2019, from 
-
-[^19]: Things to do in Dubai. (2019). *Visit Dubai.* Retrieved September 23, 2019, from [https://www.visitdubai.com](https://www.visitdubai.com/en/discover/things-to-do-in-dubai){:target="_blank"}
-
-[^20]: The emirate of Dubai. (n.d.). *Government of Dubai.* Retrieved September 2019, [http://mediaoffice.ae](http://mediaoffice.ae/en/public-info/the-emirate-of-dubai.aspx){:target="_blank"}
-
-[^21]: Automotive & Aerospace: Autonomous vehicles take flight. (2019). *Visit Dubai.* Retrieved September 24, 2019, from [https://www.visitdubai.com](https://www.visitdubai.com/en/business-in-dubai/automotive-and-aerospace){:target="_blank"}
-
-[^22]: Smith, O. (2019, April 29). The incredible rise of Dubai as the world’s travel hub. *The Telegraph.* Retrieved September 24, 2019, from [https://www.telegraph.co.uk](https://www.telegraph.co.uk/travel/destinations/middle-east/united-arab-emirates/dubai/articles/The-incredible-rise-of-Dubai-as-the-worlds-air-travel-hub/){:target="_blank"}
-
-[^23]: Speech by SMS Koh at the UAE-Singapore Business and Investment Forum. (2018, February 8). *Singapore Government News.* Retrieved September 23, 2019, from ProQuest Central database. 
-
-[^24]: His Highness Sheikh Maktoum bin Mohammed bin Rashid Al Maktoum officially opens Bank of Singapore's branch in Dubai International Financial Centre. (2017, February 19). *Bank of Singapore.* Retrieved September 24, 2017, from [https://www.bankofsingapore.com](https://www.bankofsingapore.com/media-releases/2017/his-highness-sheikh-maktoum-bin-mohammed-bin-rashid-al-maktoum-officially-opens-bank-of-singapore-branch-in-dubai-international-financial-centre-19-feb-2017.html){:target="_blank"}
-
-[^25]: Corporate profile. (2017). *NSL.* Retrieved September 24. 2019, [https://www.nsl.com.sg](https://www.nsl.com.sg/about-us/corporate-profile){:target="_blank"}; About us. (2019). *KS International.* Retrieved September 24, 2019, from [https://ksinternational.co](https://ksinternational.co/about-us/){:target="_blank"}
-
-[^26]: Events (2018). *UAE Singapore Business Council.* Retrieved September 24, 2019, from [http://uaesbc.com](http://uaesbc.com/events/){:target="_blank"}
-
-[^27]: Market research and business matching: Dubai. (2019). *Enterprise Singapore.* Retrieved September25, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/new-market-entry-support/ppn/customised-market-research-and-customised-business-matching/dubai){:target="_blank"}
-
-[^28]: MAS and Dubai authority sign accord to support fintech development. (2018, August 29). *The Straits Times.* Retrieved September 25, 2019, from Factiva.com.
+[^17]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved October 27, 2019, from https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan
 
 ---
 ### **References**
