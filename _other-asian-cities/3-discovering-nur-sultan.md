@@ -12,15 +12,13 @@ This is a selection of resources on Discovering Nur Sultan available from the [N
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Dubai - The epicentre of modern innovation.jpg" style="width:180px;" />
+<img src="/images/book-covers/Nazarbayev and the making of Kazakhstan.jpg" style="width:180px;" />
 
-[**Dubai: The epicentre of modern innovation**](){:target="_blank"}
+[**Nazarbayev and the making of Kazakhstan**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13201136){:target="_blank"}
 
-This book discusses the implementation of sustained innovation success within several industry segments. It also identifies the past, current and future innovation-related successes that lead to Dubai's rise as the epicenter of innovation in the Middle East and the world. The authors share key innovation leadership philosophies from Sheikh Mohammed bin Al Maktoum and recognised business leaders in the UAE.
+For centuries, the tribes of Kazakhstan had been plundered and conquered by foreign invaders. The most ruthless of these were the 20th century leaders of the Soviet Union; however, after its collapse, it was Nursultan Nazarbayev (after whom the city of Nur-Sultan is named), who emerged as the new President of the nation state. This book tells a riveting story of how Kazakhstan has capitalised on its natural resources (including oil) to become one of the great economic success stories of the modern era. 
 
-Retrieved from OverDrive. *myLibrary* ID is required to access this database.
-
-All rights reserved. Boca Raton: CRC Press, 2017.
+All rights reserved, London: Continuum, 2009.
 
 <img src="/images/book-covers/Culture Shock! Dubai - A survival guide to customs and etiquette.jpg" style="width:180px;" />
 
