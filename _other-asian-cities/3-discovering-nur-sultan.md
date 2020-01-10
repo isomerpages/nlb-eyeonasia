@@ -56,18 +56,18 @@ Retrieved from ProQuest Central. (myLibrary ID is required to access this databa
 
 <img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:180px;" />
 
-[**Investment opportunity in Dubai**](https://www.visitdubai.com/en/business-in-dubai/grow-your-business/dynamic-dubai/doing-business-in-dubai-investment-opportunity){:target="_blank"}
+[**Eco-friendly transportation may be the next big thing in Kazakhstan**](https://caspiannews.com/news-detail/eco-friendly-transportation-may-be-the-next-big-thing-in-kazakhstan-2019-10-4-14/){:target="_blank"}
 
-Dubai continues to offer investment opportunities. In 2016, it attracted US$7.8 billion in greenfield FDI, making it the world’s sixth top city for foreign capital. The Dubai Financial Market provides investors with innovative products and services to conduct trading, clearing and settlement in an efficient, transparent and liquid environment. In addition, the Dubai International Financial Centre (DIFC) is a major financial hub for the Middle East, Africa and South Asia (MEASA) markets.
+This article reports that traditional diesel buses in Kazakhstan’s city streets could gradually become a thing of the past as officials in Nur-Sultan plan to launch fleets of electric buses to curb air pollution and carbon emissions. Kazakhstan’s second-largest city of one million people may introduce its first fleet of 100 electric buses by the end of this year, according to Altai Kulginov, Nur-Sultan’s mayor.
 
 <img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:180px;" />
 
-[**Mohammed launches Dubai Industrial Strategy 2030**](https://www.emirates247.com/news/government/mohammed-launches-2030-dubai-industrial-strategy-2016-06-26-1.633991){:target="_blank"}
+[**Kazakhstan’s capital seeks new role amidst shifting global markets**](https://www.worldfinance.com/markets/kazakhstans-capital-seeks-new-role-amidst-shifting-global-markets){:target="_blank"}
 
-The 2030 Dubai Industrial Strategy aims to develop and implement long-term industrial policies to enhance the competitiveness and sustainability of the industrial sector in Dubai and across its free zones. It identifies target industrial sectors and focuses on strengthening industrial integration – connecting the target sector with educational and research institutions to stimulate innovation and creativity with a view to developing strategic industries. In addition, the Dubai Industrial Strategy aims to create an attractive environment for these strategic industries.
+The city of Nur-Sultan is joining a long list of global financial centres. Although it has much to do to catch up with the likes of London and Frankfurt, it is already making impressive progress. Kazakhstan may not be that well known, as a financial centre or otherwise, but this looks set to change thanks to its central location near Asia, Russia and Europe.
 
-<img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;" />
 
-[**Dubai Plan 2021**](https://www.dubaiplan2021.ae/dubai-plan-2021/){:target="_blank"}
+[**Nur-Sultan: "Smart City" pioneer**](https://www.euronews.com/2019/10/17/nur-sultan-smart-city-pioneer){:target="_blank"}
 
-The plan addresses the urban environment including both natural and built assets, and looks at the living experience of the people of Dubai and its visitors as a result of their interaction with this environment and the economic and social services provided. In addition, the plan also focuses on the economy, which is the city’s development engine and its fuel for its march forward.
+The World Tourism Organisation (UNWTO) held its annual global conference in Nur-Sultan, the capital of Kazakhstan in 2019, thanks to the city’s attempts to use technology to improve resident’s lives. Nur-Sultan’s population has tripled since the nineties and the Kazakh capital is relatively young which makes it a lot easier to begin implementing new approaches to develop the urban environment. One example is the city’s mobile application, that in several clicks, gives residents access to more than 75 services in the city - public transport, education, taxes and medical services.
