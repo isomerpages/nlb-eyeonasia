@@ -20,14 +20,37 @@ For centuries, the tribes of Kazakhstan had been plundered and conquered by fore
 
 All rights reserved, London: Continuum, 2009.
 
-<img src="/images/book-covers/Culture Shock! Dubai - A survival guide to customs and etiquette.jpg" style="width:180px;" />
+<img src="/images/book-covers/Kazakhstan-Surprises and stereotypes after 20 years of independence.jpg" style="width:180px;" />
 
-[**Culture Shock! Dubai: A survival guide to customs and etiquette**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202586939){:target="_blank"}
+[**Kazakhstan: Surprises and stereotypes after 20 years of independence**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14301837){:target="_blank"}
 
-This book is a survival guide for anyone wanting to discover life in the emirate known as the City of Gold. This guide draws on insider knowledge to take visitors through the process of settling in, whether for short or longer stays.
+This book seeks to understand the national identity of Kazakhstan, the “newest powerhouse of Asia” and an increasingly successful player on the world stage. “From its President to its painters, poets, economists and entrepreneurs, this is a nation confidently on the move.” 
 
-All rights reserved. Singapore: Marshall Cavendish Editions, 2016.
+All rights reserved, London: Continuum, 2012.
 
+<img src="/images/book-covers/The Kazakhstan way.jpg" style="width:180px;" />
+
+[**The Kazakhstan way**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201168828){:target="_blank"}
+
+In the economic, political and social arenas, Kazakhstan is increasingly seen as an example of prosperity, sound management, national – while ethnically diverse – cohesion, and international sagacity befitting its pivotal geo-political position. 
+
+All rights reserved, London: Stacey International, 2008.
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**Kazakhstan's new era**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+Since 1998, a wave of new, sometimes futuristic, construction has transformed Astana (now known as Nur-Sultan), the once-sleepy left bank of the Ishim river that criss-crosses the area. The pace of change has been a testament to the country's tremendous resources-powered economic growth as glittering buildings designed by the likes of renowned British architect Norman Foster sprang up in just a few years.
+
+Retrieved from ProQuest Central. (myLibrary ID is required to access this database).
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**Kazakhstan Tourism Report - Q3 2019**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+
+Kazakhstan is targeting tourism as a key growth area, as the country looks to diversify its sources of income and reduce its reliance on commodities. Under the original 2020 Tourism Development Strategy, the target for inbound travel was set at eight million visitors by 2020 (a target that was achieved in 2018) alongside 270,000 tourism-related jobs. Development of tourism has been divided into several sectors including Nur-Sultan, Heart of Eurasia; Almaty, Free Cultural Zone of Kazakhstan; Revival of the Great Silk Road; Caspian Gates (beach tourism and cultural tourism); and Pearl of Altai (the World of Natural Wonders and ecological tourism).
+
+Retrieved from ProQuest Central. (myLibrary ID is required to access this database).
 
 ### **You may also like**
 
