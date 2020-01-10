@@ -83,8 +83,6 @@ Senior Minister Teo Chee Hean visited Kazakhstan's capital Nur-Sultan on 14 Octo
 
 Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of Singapore companies that has made a mark in Kazakhstan. When she was 22, Ms Lee decided to set up a tour consultancy business in Kazakhstan as she was attracted by the immense potential for tourism in what was then considered an “exotic” location in Central Asia. Other Singapore companies in Kazakhstan include education consultancy Educare, urban planning company RSP Architects Planners and Engineers, and coffee and tea manufacturing company Food Empire.[^17]
 
-------
-
 [^14]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*. Retrieved October 27, 2019, from https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty
 
 [^15]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*.  Retrieved October 27, 2019, from https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty
