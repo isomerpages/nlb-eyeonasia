@@ -20,7 +20,7 @@ This article reports that the Tashkent region was responsible for the largest sh
 
 Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
 
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
 [**Dispossession and urban development in new Tashkent**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
