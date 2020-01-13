@@ -12,13 +12,12 @@ This article provides an overview of Nur-Sultan for those keen to explore the po
 
 ### **Key Facts**
 
-**Country**: Kazakhstan 
+- **Country**: Kazakhstan 
+- **Land area:** 810.2 km sq[^1]
 
-**Land area:** 810.2 km sq[^1]
+- **Official language:** Kazakh[^2]
 
-**Official language:** Kazakh[^2]
-
-**Currency:** Tenge[^3]
+- **Currency:** Tenge[^3]
 
 ### **Introduction**
 
