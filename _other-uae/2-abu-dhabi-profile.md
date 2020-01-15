@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Abu Dhabi - A city profile
-permalink: /other-asian-cities/abu-dhabi-a-city-profile/
+permalink: /other-asian-cities/uae/abu-dhabi-a-city-profile/
 breadcrumb: Abu Dhabi - A city profile
-collection_name: other-asian-cities
+collection_name: other-uae
 ---
 
 <img src="\images\test\abu-dhabi-profile.jpg" alt="Abu Dhabi snapshot banner" style="width:800px;" />

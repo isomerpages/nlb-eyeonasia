@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Discovering Dubai
-permalink: /other-asian-cities/discovering-dubai/
+permalink: /other-asian-cities/uae/discovering-dubai/
 breadcrumb: Discovering Dubai
-collection_name: other-asian-cities
+collection_name: other-uae
 ---
 
 <img src="\images\test\dubai-guide-test.jpg" alt="Dubai guide banner" style="width:800px;" />

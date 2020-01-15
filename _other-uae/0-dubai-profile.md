@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Dubai - A city profile
-permalink: /other-asian-cities/dubai-a-city-profile/
+permalink: /other-asian-cities/uae/dubai-a-city-profile/
 breadcrumb: Dubai - A city profile
-collection_name: other-asian-cities
+collection_name: other-uae
 ---
 
 <img src="\images\test\dubai-profile-test.jpg" alt="Dubai snapshot banner" style="width:800px;" />
