@@ -6,84 +6,97 @@ breadcrumb: Abu Dhabi - A city profile
 collection_name: other-uae
 ---
 
-<img src="\images\test\abu-dhabi-profile.jpg" alt="Abu Dhabi snapshot banner" style="width:800px;" />
+<img src="\images\test\abu-dhabi-profile-test.jpg" alt="Abu Dhabi snapshot banner" style="width:800px;" />
 
 This article provides an overview of Abu Dhabi for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
 - ### **Key Facts**
 
-- **Country**: Uzbekistan 
+**Country**: United Arab Emirates[^1]
 
-- **Land area**: 335 sq km
+**National language**: Arabic[^2]
 
-- **National language**: Uzbek
-
-- **Currency**: Uzbek som/sum/soum
+**Currency**: Dirham[^3]
 
 
 
-### **Introduction**
+**Introduction**
 
-The ancient city of Tashkent is the country’s capital city and one of the largest in Central Asia.  Located in the eastern part of Uzbekistan, Tashkent is architecturally and historically significant due to its transformation during and after the Soviet period. Tashkent was once an “important international transport junction”, as it was one of the main travel and trade hubs along the Silk Road.[^1]
+The city of Abu Dhabi is the largest city in the United Arab Emirates (UAE) after Dubai.[^4] “Abu Dhabi” means “land of the gazelle” in Arabic.[^5] Located on an island, the city is connected to the mainland by two main bridges, the Maqta and Mussafah. More bridges linking the city to the mainland are currently under construction.[^6]
 
- 
-
-### **Demographic profile**
-
-As of July 2019, the population of Tashkent was 2.54 million and its employment rate was the highest in the country. Tashkent is a cosmopolitan and multi-ethnic city, home to Uzbeks, Russians, Tajiks, Uyghurs and Kazakhs.[^2]
+With a land area of 67,340 square kilometres, the Emirate of Abu Dhabi is also the largest emirate in the UAE, making up 87 percent of the total area of the UAE. Abu Dhabi shares a border with the kingdoms of Oman to the east, Saudi Arabia to the south and the Emirate of Dubai to the northeast.[^7]
 
  
+**Demographic profile**
 
-### **Economic profile**
-
-Uzbekistan’s economy is reaping the benefits of structural reforms implemented in September 2017. Its government unified the exchange rate, liberalised the foreign exchange market, as well as initiated price and trade liberalisation.[^3] 
-
- 
-
-### **Industry**
-
-Tashkent’s main industries comprise agricultural and textile machinery manufacturing, cotton textile production and food processing industries. The city also exports silk, cotton and other textiles to Eastern European countries. Other exports include oil, coal, copper, sulphur, rice and manufactured products such as televisions, automobiles and tractors.[^4]
-
-To attract foreign investment, Uzbekistan’s President Shavkat Mirziyoyev initiated a plan to re-design the centre of Tashkent to create a favourable business climate. The Tashkent City project is a mega property re-development that involves the construction of a series of shopping malls, parks, luxury apartments and business centres in the heart of the city. The project seeks to rebrand and transform Tashkent as an investor-friendly, modern and open international business centre.[^5] 
+In 2016, the population in Abu Dhabi was 2.908 million, of which 2.36 million were expatriates and the remaining 23.4 percent (551,535) Emirati citizens. Its population comprised 1.86 million males and slightly over a million women.[^8]
 
  
+**Economic profile** 
 
-### **Tourism** 
-
-Tourism plays a big role in Uzbekistan’s economy. As of 2019, citizens of 46 countries, including Singapore, are eligible for 30-day visa-free travel to Uzbekistan.[^6] Uzbekistan is also proactively building its tourism sector to encourage more Muslim visitors.[^7] 
-
-The architecture of Tashkent “harmoniously fits the buildings of different epochs beginning with ancient settlements, medieval buildings, Soviet era buildings, modern luxury apartments and business centres.” Some of the historical and architectural monuments of Tashkent include Medrese of Barak-han (Madrasah of Barakhan), The Square of Amir Temur, and the Mausoleum of Kaffal-Shashi.[^8] 
+In 2017, Abu Dhabi’s Gross Domestic Product (GDP) was worth 785,591 million dirhams (US$213,911 million). Its oil sector contributed 35.9 percent to the GDP, while the non-oil sector accounted for 64.1 percent.[^9]
 
  
+**Industry**
 
-### **Singapore and Tashkent** 
+Abu Dhabi’s economy is supported largely by natural resources. However, it is making efforts to diversify its economy by growing its non-oil knowledge-based sectors. Among these include the US$13.6 billion Ghadan 21 reforms that include a series of initiatives aimed at attracting foreign businesses and investments. Apart from offering loans and encouraging investment and eco-tourism in its underdeveloped areas, Abu Dhabi is seeking industrial sector investments from SMEs, as well as establishing downstream manufacturing clusters around the petrochemical, aluminium and steel industries.[^10]
 
-In April 2019, Singapore’s Senior Minister of State Maliki Osman visited Uzbekistan. He acknowledged the increasing cooperation between Singapore and Uzbekistan in areas such as tourism, business and education. SMS Maliki also noted the growing interest of Singapore’s private sector in Uzbekistan’s pre-school education sector, and further discussed economic opportunities in Uzbekistan.[^9]
+ 
+**Tourism** 
 
-In 2008, the Management Development Institute of Singapore (MDIS) set up its Tashkent campus, which offers tertiary education to students from the Central Asia region. Their academic programmes include entrepreneurship and management, business and marketing, banking and finance, accounting and finance, business computing and international hospitality management. MDIS Tashkent is officially recognised as a university by the government of Uzbekistan.[^10]
+Tourism is one of the key non-oil sectors of Abu Dhabi.[^11] The emirate has been one of the fastest growing tourist destinations in the Middle East over the past decade, with its average nominal growth of gross value added for tourism reaching 12.8 percent between 2006 and 2016, thus contributing 2.7 percent to its GDP. In 2017, it received 4.875 million guests, which was a 9.8 percent increase from 2016. Visitors from countries such as China, India, the United Kingdom, the Philippines and the United States formed the largest groups of non-UAE tourists.[^12] Abu Dhabi is currently seeking to grow its tourism sector as part of efforts to diversify its economy and reduce its dependence on oil revenue. Besides tourism, it is seeking to grow its business, medical and cultural sectors.[^13]
 
-[^1]: Matyakubova, D. (2018, June). Who is “Tashkent City” for? Nation-branding and public dialogue in Uzbekistan. *Central Asia Program.* Retrieved August 30, 2019, from [https://centralasiaprogram.org/](https://centralasiaprogram.org/wp-content/uploads/2018/06/Matyakubova-CAP-Fellows-Paper-June-2018.pdf){:target="_blank"}; Tourism. (n.d.). *Ministry of Foreign Affairs of the Republic of Uzbekistan.* Retrieved August 30, 2019, from [https://mfa.uz/](https://mfa.uz/en/uzbekistan/330/){:target="_blank"}; Tashkent capital of Uzbekistan. (2019). *Uzbekistan.Travel.* Retrieved August 30, 2019, from Tashkent capital of Uzbekistan
+ 
+**Singapore and Abu Dhabi**
 
-[^2]: Population. (2019). *The Government Portal of the Republic of Uzbekistan.* Retrieved August 30, 2019, from [https://www.gov.uz](https://www.gov.uz/en/pages/population){:target="_blank"}; Tashkent. (n.d.). *New World Encyclopedia.* Retrieved August 30, 2019, from [https://www.newworldencyclopedia.org/](https://www.newworldencyclopedia.org/entry/Tashkent){:target="_blank"}; Toward a new economy. (2019). *World Bank Group.* Retrieved August 30, 2019, from [http://documents.worldbank.org/](http://documents.worldbank.org/curated/en/866501562572675697/pdf/Uzbekistan-Toward-a-New-Economy-Country-Economic-Update.pdf){:target="_blank"}
+Since the first Abu Dhabi-Singapore Joint Forum (ADSJF) was set up in 2007, a number of Singapore companies dealing with energy, water, urban solutions and consumer goods and services have established themselves in Abu Dhabi.[^14] Among them are DBS Bank, SembCorp Utilities and education provider MindChamps.[^15] Companies from Abu Dhabi that have investments in Singapore include ground handling firm Dnata and GlobalFoundries.[^16]
 
-[^3]: Toward a new economy. (2019). *World Bank Group.* Retrieved August 30, 2019, from [http://documents.worldbank.org/](http://documents.worldbank.org/curated/en/866501562572675697/pdf/Uzbekistan-Toward-a-New-Economy-Country-Economic-Update.pdf){:target="_blank"} 
+During Minister S Iswaran’s visit to Abu Dhabi on 13 and 14 November 2019, both parties sought to deepen their collaboration on space industries and develop “partnerships on innovation with the UAE’s large enterprises, such as GlobalFoundries and Abu Dhabi National Oil Company.” In addition, the Abu Dhabi National Oil Company also expressed its interest in partnering Singapore in the area of innovation.[^17]
 
-[^4]: Tashkent. (n.d.). *New World Encyclopedia.* Retrieved August 30, 2019, from [https://www.newworldencyclopedia.org/](https://www.newworldencyclopedia.org/entry/Tashkent){:target="_blank"}
-
-[^5]: Matyakubova, D. (2018, June). Who is “Tashkent City” for? Nation-branding and public dialogue in Uzbekistan. *Central Asia Program.* Retrieved August 30, 2019, from [https://centralasiaprogram.org/](https://centralasiaprogram.org/wp-content/uploads/2018/06/Matyakubova-CAP-Fellows-Paper-June-2018.pdf){:target="_blank"}; Tashkent City will become a modern center of Tashkent. (2018, July 18). *Embassy of the Republic of Uzbekistan to the Republic of Latvia.* Retrieved August 30, 2019, from [https://uzbekistan.lv/](https://uzbekistan.lv/en/tashkent-city-will-become-a-modern-center-of-tashkent/){:target="_blank"} 
-
-[^6]: Allan, A. (2019, February 12). 23 things to know before you go to Tashkent. *Roads & Kingdoms.* Retrieved August 30, 2019, from [https://roadsandkingdoms.com/](https://roadsandkingdoms.com/2019/know-before-you-go-to-tashkent/){:target="_blank"}
-
-[^7]: Uzbekistan in a hurry to grow its Islamic economy. (2019, June 17). *Global Islamic Economy Gateway.* Retrieved August 30, 2019, from [https://www.salaamgateway.com/](https://www.salaamgateway.com/en/story/profile__uzbekistan_in_a_hurry_to_grow_its_islamic_economy-SALAAM17062019184554/){:target="_blank"}
-
-[^8]: Tashkent: Capital of Uzbekistan. (2019). *Uzbekistan.Travel.* Retrieved August 30, 2019, from [https://uzbekistan.travel/](https://uzbekistan.travel/i/tashkent/){:target="_blank"}; Tashkent. (2019). *Ministry of Foreign Affairs of the Republic of Uzbekistan.* Retrieved August 30, 2019, from [https://mfa.uz/](https://mfa.uz/en/uzbekistan/340/){:target="_blank"}
-
-[^9]: Senior Minister Dr Maliki Osman introductory visit to Uzbekistan. (2019, June 6). *In Diplomacy.* Retrieved August 30, 2019, from [http://www.indiplomacy.com/](http://www.indiplomacy.com/2019/06/06/senior-minister-dr-maliki-osman-introductory-visit-to-uzbekistan/) 
-
-[^10]: About MDIS Tashkent. (2018). *MDIS Tashkent.* Retrieved August 30, 2019, from [http://www.mdis.uz/](http://www.mdis.uz/about){:target="_blank"}
+On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global Market signed a Cooperation Agreement that would provide “a strategic framework for both regulators to assist start-ups and innovators to better understand the regulatory regime in each jurisdiction and provide support through the application and authorisation process”. In addition, both parties “will also undertake and explore joint innovation projects on the application of key technologies including digital and mobile payments, blockchain and distributed ledgers, big data, flexible platforms (API), and other new technologies”.[^18] Other areas where Singapore and Abu Dhabi have collaborated include urban planning, wastewater management, and semiconductor research and development.[^19]
 
 
-[^17]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved October 27, 2019, from [https://www.todayonline.com](https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan){:target="_blank"}
+[^1]: Facts and figures. (2019). *Tamm.* Retrieved November 5, 2019, from https://www.tamm.abudhabi/factsandfigures
+
+[^2]: Facts and figures. (2019). *Tamm.* Retrieved November 5, 2019, from https://www.tamm.abudhabi/factsandfigures
+
+[^3]: Facts and figures. (2019). *Tamm.* Retrieved November 5, 2019, from https://www.tamm.abudhabi/factsandfigures
+
+[^4]: Explore. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from https://www.abudhabi.com/v/city-info/ 
+
+[^5]: UAE capital & surrounds. (2019). *Department of Culture and Tourism Abu Dhabi.* Retrieved November 5, 2019, from https://visitabudhabi.cn/en/explore/regions/uae.capital.aspx
+
+[^6]: Abu Dhabi geography. (2019). Retrieved November 5, 2019, from https://www.abudhabi.com/v/geography/
+
+[^7]: Abu Dhabi geography. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from https://www.abudhabi.com/v/geography/ 
+
+[^8]: Facts and figures. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from https://www.abudhabi.com/v/geography/
+
+[^9]: Facts and figures. (2019). *TAMM.* Retrieved November 22, 2019, from https://www.tamm.abudhabi/en/factsandfigures
+
+[^10]: Thompson, R. (2019, July 22). Russia’s GMIS 2019 summit casts spotlight on Abu Dhabi’s industrial revolution. *MEED.* Retrieved November 22, 2019, from https://www.meed.com/abu-dhabi-puts-advanced-manufacturing-at-core-of-industrial-strategy/; Edmond, C. (2019, November 1). From fishing village to futuristic metropolis: Dubai’s remarkable transformation. *World Economic Forum.* Retrieved November 22, 2019, from https://www.weforum.org/agenda/2019/11/dubai-uae-transformation/
+
+[^11]: Tourism and the private sector in Abu Dhabi. (2018, October). *Abu Dhabi Chamber.* Retrieved 22 November 2019, from [https://www.abudhabichamber.ae/OurDocuments/Tourism%20and%20the%20private%20sector%20in%20Abu%20Dhabi%20-%205099179c-5daf-4bd9-b82a-57d5c7004247/Tourism%20English%20low1.pdf](https://www.abudhabichamber.ae/OurDocuments/Tourism and the private sector in Abu Dhabi - 5099179c-5daf-4bd9-b82a-57d5c7004247/Tourism English low1.pdf)
+
+[^12]: Tourism and the private sector in Abu Dhabi. (2018, October). *Abu Dhabi Chamber.* Retrieved 22 November 2019, from [https://www.abudhabichamber.ae/OurDocuments/Tourism%20and%20the%20private%20sector%20in%20Abu%20Dhabi%20-%205099179c-5daf-4bd9-b82a-57d5c7004247/Tourism%20English%20low1.pdf](https://www.abudhabichamber.ae/OurDocuments/Tourism and the private sector in Abu Dhabi - 5099179c-5daf-4bd9-b82a-57d5c7004247/Tourism English low1.pdf) 
+
+[^13]: Kamel, D. (2019, February 23). Abu Dhabi tourism grows in 2018 to 10.27 million boosted by Indian and Chinese travellers. *The National.* Retrieved November 22, 2019, from https://www.thenational.ae/business/travel-and-tourism/abu-dhabi-tourism-grows-in-2018-to-10-27-million-boosted-by-indian-and-chinese-travellers-1.830881 
+
+[^14]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved November 21, 2019, from https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/10/Abu-Dhabi-and-Singapore-to-explore-potential-areas-of-cooperation-at-12th-Abu-DhabiSingapore-Joint-F.pdf
+
+[^15]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved from https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore; Nurturing the champion mindset. (2018). *Bloom Education.* Retrieved November 22, 2019, from http://www.mindchamps.ae/
+
+[^16]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved from https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore
+
+[^17]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved November 21, 2019, from https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/10/Abu-Dhabi-and-Singapore-to-explore-potential-areas-of-cooperation-at-12th-Abu-DhabiSingapore-Joint-F.pdf 
+
+[^18]: Monetary Authority of Singapore and Abu Dhabi Global Market collaborate to foster fintech innovation and cross-border activities. *Monetary Authority of Singapore.* Retrieved November 22, 2019, from https://www.mas.gov.sg/news/media-releases/2017/monetary-authority-of-singapore-and-abu-dhabi-global-market
+
+[^19]: Singapore bolsters trade relations with Abu Dhabi. (2019). *Rikvin.* Retrieved November 21, 2019, from https://www.rikvin.com/press-releases/spore-bolsters-trade-relations-with-abu-dhabi/; Osman, H. (2017, March 8). The Singapore and Abu Dhabi governments are working together to promote fintech. *TechinAsia.* Retrieved November 21, 2019, from https://www.techinasia.com/singapore-abudhabi-fintech-partnership 
+
+
+
+{:target="_blank"}
 
 ---
 ### **References**
