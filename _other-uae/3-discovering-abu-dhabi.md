@@ -12,41 +12,39 @@ This is a selection of resources on Discovering Abu Dhabi available from the [NL
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Dubai - The epicentre of modern innovation.jpg" style="width:180px;" />
+<img src="/images/book-covers/Abu Dhabi, United Arab Emirates.jpg" style="width:180px;" />
 
-[**Dubai: The epicentre of modern innovation**](){:target="_blank"}
+[**A diamond in the desert: Behind the scenes in Abu Dhabi, the world’s richest city**](https://nlb.overdrive.com/media/1266760){:target="_blank"}
 
-This book discusses the implementation of sustained innovation success within several industry segments. It also identifies the past, current and future innovation-related successes that lead to Dubai's rise as the epicenter of innovation in the Middle East and the world. The authors share key innovation leadership philosophies from Sheikh Mohammed bin Al Maktoum and recognised business leaders in the UAE.
+Jo Tatchell first arrived in the city of Abu Dhabi as a child in 1974, when the discovery of oil was quickly turning a small fishing town into a growing international community. Here, Tatchell returns to Abu Dhabi, exploring the city and its contradictions.
 
-Retrieved from OverDrive. *myLibrary* ID is required to access this database.
+Retrieved from Overdrive. (*myLibrary* ID is required to access this database).
 
-All rights reserved. Boca Raton: CRC Press, 2017.
+<img src="/images/book-covers/A diamond in the desert - Behind the scenes in Abu Dhabi, the world’s richest city.jpg" style="width:180px;" />
 
-<img src="/images/book-covers/Culture Shock! Dubai - A survival guide to customs and etiquette.jpg" style="width:180px;" />
+[**Abu Dhabi, United Arab Emirates**](https://nlb.overdrive.com/media/276802){:target="_blank"}
 
-[**Culture Shock! Dubai: A survival guide to customs and etiquette**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202586939){:target="_blank"}
+Like something out of One Thousand and One Nights, Abu Dhabi is a perfect example of the miraculous transformation of a poor desert emirate into one of the richest states in the world. Learn more about Abu Dhabi’s attractions, architecture and heritage in this video.
 
-This book is a survival guide for anyone wanting to discover life in the emirate known as the City of Gold. This guide draws on insider knowledge to take visitors through the process of settling in, whether for short or longer stays.
-
-All rights reserved. Singapore: Marshall Cavendish Editions, 2016.
+Retrieved from Overdrive. (myLibrary ID is required to access this database).
 
 
 ### **You may also like**
 
 <img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:180px;" />
 
-[**Investment opportunity in Dubai**](https://www.visitdubai.com/en/business-in-dubai/grow-your-business/dynamic-dubai/doing-business-in-dubai-investment-opportunity){:target="_blank"}
+[**Abu Dhabi’s initiatives to fast-track non-oil growth**](https://oxfordbusinessgroup.com/news/abu-dhabi%E2%80%99s-initiatives-fast-track-non-oil-growth){:target="_blank"}
 
-Dubai continues to offer investment opportunities. In 2016, it attracted US$7.8 billion in greenfield FDI, making it the world’s sixth top city for foreign capital. The Dubai Financial Market provides investors with innovative products and services to conduct trading, clearing and settlement in an efficient, transparent and liquid environment. In addition, the Dubai International Financial Centre (DIFC) is a major financial hub for the Middle East, Africa and South Asia (MEASA) markets.
+Abu Dhabi has launched a series of initiatives to support the growth of its non-oil sector as part of its efforts to diversify its economy away from hydrocarbons. In June 2019, it announced the creation of a US$1.1 billion fund to boost R&D in the emirate. The fund, which seeks to incentivise greater levels of innovation, provides rebates to companies that invest in R&D and launch new business ventures.
 
 <img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:180px;" />
 
-[**Mohammed launches Dubai Industrial Strategy 2030**](https://www.emirates247.com/news/government/mohammed-launches-2030-dubai-industrial-strategy-2016-06-26-1.633991){:target="_blank"}
+[**Abu Dhabi economic vision 2030**](https://www.actvet.gov.abudhabi/en/Media/Lists/ELibraryLD/economic-vision-2030-full-versionEn.pdf){:target="_blank"}
 
 The 2030 Dubai Industrial Strategy aims to develop and implement long-term industrial policies to enhance the competitiveness and sustainability of the industrial sector in Dubai and across its free zones. It identifies target industrial sectors and focuses on strengthening industrial integration – connecting the target sector with educational and research institutions to stimulate innovation and creativity with a view to developing strategic industries. In addition, the Dubai Industrial Strategy aims to create an attractive environment for these strategic industries.
 
 <img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;" />
 
-[**Dubai Plan 2021**](https://www.dubaiplan2021.ae/dubai-plan-2021/){:target="_blank"}
+[**Dubai, Abu Dhabi continue to rank highest for quality of living**](https://www.gulftoday.ae/business/2019/03/23/dubai-abu-dhabi-continue-to-rank-highest-for-quality-of-living){:target="_blank"}
 
-The plan addresses the urban environment including both natural and built assets, and looks at the living experience of the people of Dubai and its visitors as a result of their interaction with this environment and the economic and social services provided. In addition, the plan also focuses on the economy, which is the city’s development engine and its fuel for its march forward.
+Mercer’s 21st annual Quality of Living survey revealed that Dubai continues to have the highest quality of living in the Middle East, followed closely by Abu Dhabi. These cities have integrated aggressive targets to use less energy, as well as facilitate the development of smart cities.
