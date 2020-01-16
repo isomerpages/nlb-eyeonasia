@@ -31,19 +31,19 @@ Retrieved from Overdrive. (myLibrary ID is required to access this database).
 
 ### **You may also like**
 
-<img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;" />
 
 [**Abu Dhabi’s initiatives to fast-track non-oil growth**](https://oxfordbusinessgroup.com/news/abu-dhabi%E2%80%99s-initiatives-fast-track-non-oil-growth){:target="_blank"}
 
 Abu Dhabi has launched a series of initiatives to support the growth of its non-oil sector as part of its efforts to diversify its economy away from hydrocarbons. In June 2019, it announced the creation of a US$1.1 billion fund to boost R&D in the emirate. The fund, which seeks to incentivise greater levels of innovation, provides rebates to companies that invest in R&D and launch new business ventures.
 
-<img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;" />
 
 [**Abu Dhabi economic vision 2030**](https://www.actvet.gov.abudhabi/en/Media/Lists/ELibraryLD/economic-vision-2030-full-versionEn.pdf){:target="_blank"}
 
 The 2030 Dubai Industrial Strategy aims to develop and implement long-term industrial policies to enhance the competitiveness and sustainability of the industrial sector in Dubai and across its free zones. It identifies target industrial sectors and focuses on strengthening industrial integration – connecting the target sector with educational and research institutions to stimulate innovation and creativity with a view to developing strategic industries. In addition, the Dubai Industrial Strategy aims to create an attractive environment for these strategic industries.
 
-<img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:180px;" />
 
 [**Dubai, Abu Dhabi continue to rank highest for quality of living**](https://www.gulftoday.ae/business/2019/03/23/dubai-abu-dhabi-continue-to-rank-highest-for-quality-of-living){:target="_blank"}
 
