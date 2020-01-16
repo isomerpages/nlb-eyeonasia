@@ -79,18 +79,18 @@ All rights reserved, London: I. B. Tauris, 2019
 
 <img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;" />
 
-[**Abu Dhabi’s initiatives to fast-track non-oil growth**](https://oxfordbusinessgroup.com/news/abu-dhabi%E2%80%99s-initiatives-fast-track-non-oil-growth){:target="_blank"}
+[**Your guide to expat life in United Arab Emirates: Living in the UAE**](https://expatexplorer.hsbc.com/country-guides/united-arab-emirates/living){:target="_blank"}
 
-Abu Dhabi has launched a series of initiatives to support the growth of its non-oil sector as part of its efforts to diversify its economy away from hydrocarbons. In June 2019, it announced the creation of a US$1.1 billion fund to boost R&D in the emirate. The fund, which seeks to incentivise greater levels of innovation, provides rebates to companies that invest in R&D and launch new business ventures.
-
-<img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;" />
-
-[**Abu Dhabi economic vision 2030**](https://www.actvet.gov.abudhabi/en/Media/Lists/ELibraryLD/economic-vision-2030-full-versionEn.pdf){:target="_blank"}
-
-The 2030 Dubai Industrial Strategy aims to develop and implement long-term industrial policies to enhance the competitiveness and sustainability of the industrial sector in Dubai and across its free zones. It identifies target industrial sectors and focuses on strengthening industrial integration – connecting the target sector with educational and research institutions to stimulate innovation and creativity with a view to developing strategic industries. In addition, the Dubai Industrial Strategy aims to create an attractive environment for these strategic industries.
+Written by HSBC, this guide provides a brief but informative overview of the expatriate life in the United Arab Emirates. It covers key facts and tips such as the types of accommodation available, school curriculum and fees, mobile networks, healthcare options, tax and banking.
 
 <img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:180px;" />
 
-[**Dubai, Abu Dhabi continue to rank highest for quality of living**](https://www.gulftoday.ae/business/2019/03/23/dubai-abu-dhabi-continue-to-rank-highest-for-quality-of-living){:target="_blank"}
+[**Cultural reflections from the United Arab Emirates UAE**](https://www.zu.ac.ae/main/en/colleges/colleges/__college_of_comm_media_sciences/_publication/culture.pdf){:target="_blank"}
 
-Mercer’s 21st annual Quality of Living survey revealed that Dubai continues to have the highest quality of living in the Middle East, followed closely by Abu Dhabi. These cities have integrated aggressive targets to use less energy, as well as facilitate the development of smart cities.
+Compiled by Zayed University in Dubai, this 26-page online publication captures the heritage, culture and way of life in the UAE in a series of photographs and interviews with the locals. It explores three main themes- family, community and environment in the country.
+
+<img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;" />
+
+[**UAE and the 2030 Agenda for Sustainable Development: Excellence in implementation**](https://sustainabledevelopment.un.org/content/documents/20161UAE_SDGs_Report_Full_English.pdf){:target="_blank"}
+
+This report examines the United Arab Emirates’ (UAE) efforts in implementing the Sustainable Development Goals (SDGs) formulated by the United Nations. It also maps out how the SGDs are aligned with the UAE’s Vision 2021 plan for national development.
