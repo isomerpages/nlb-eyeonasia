@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Living in UAE
+title: Living in the UAE
 permalink: /other-asian-cities/uae/living-in-uae/
-breadcrumb: Living in UAE
+breadcrumb: Living in the UAE
 collection_name: other-uae
 ---
 
