@@ -12,7 +12,7 @@ This is a selection of resources on Discovering Abu Dhabi available from the [NL
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Abu Dhabi, United Arab Emirates.jpg" style="width:180px;" />
+<img src="/images/book-covers/A diamond in the desert - Behind the scenes in Abu Dhabi, the world’s richest city.jpg" style="width:180px;" />
 
 [**A diamond in the desert: Behind the scenes in Abu Dhabi, the world’s richest city**](https://nlb.overdrive.com/media/1266760){:target="_blank"}
 
@@ -20,7 +20,7 @@ Jo Tatchell first arrived in the city of Abu Dhabi as a child in 1974, when the 
 
 Retrieved from Overdrive. (*myLibrary* ID is required to access this database).
 
-<img src="/images/book-covers/A diamond in the desert - Behind the scenes in Abu Dhabi, the world’s richest city.jpg" style="width:180px;" />
+<img src="/images/book-covers/Abu Dhabi, United Arab Emirates.jpg" style="width:180px;" />
 
 [**Abu Dhabi, United Arab Emirates**](https://nlb.overdrive.com/media/276802){:target="_blank"}
 
