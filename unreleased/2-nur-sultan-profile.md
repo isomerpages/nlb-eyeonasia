@@ -12,13 +12,12 @@ This article provides an overview of Nur-Sultan for those keen to explore the po
 
 ### **Key Facts**
 
-**Country**: Kazakhstan 
+- **Country**: Kazakhstan 
+- **Land area:** 810.2 km sq[^1]
 
-**Land area:** 810.2 km sq[^1]
+- **Official language:** Kazakh[^2]
 
-**Official language:** Kazakh[^2]
-
-**Currency:** Tenge[^3]
+- **Currency:** Tenge[^3]
 
 ### **Introduction**
 
@@ -58,39 +57,39 @@ Senior Minister Teo Chee Hean visited Kazakhstan's capital Nur-Sultan on 14 Octo
 
 Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of Singapore companies that has made a mark in Kazakhstan. When she was 22, Ms Lee decided to set up a tour consultancy business in Kazakhstan as she was attracted by the immense potential for tourism in what was then considered an “exotic” location in Central Asia. Other Singapore companies in Kazakhstan include education consultancy Educare, urban planning company RSP Architects Planners and Engineers, and coffee and tea manufacturing company Food Empire.[^17]
 
-[^1]: Ministry of National Economy of the Republic of Kazakhstan Statistics Committee. (2019). *Government of Kazakhstan.* Retrieved October 27, 2019, from http://stat.gov.kz/
+[^1]: Ministry of National Economy of the Republic of Kazakhstan Statistics Committee. (2019). *Government of Kazakhstan.* Retrieved October 27, 2019, from <http://stat.gov.kz/>{:target="_blank"}
 
-[^2]: The Constitution of the Republic of Kazakhstan. (2019). *Parliament of the Republic of* *Kazakhstan*. Retrieved October 27, 2019, from http://www.parlam.kz/en/constitution
+[^2]: The Constitution of the Republic of Kazakhstan. (2019). *Parliament of the Republic of* *Kazakhstan*. Retrieved October 27, 2019, from [http://www.parlam.kz](http://www.parlam.kz/en/constitution){:target="_blank"}
 
-[^3]: Introduction. (2019). *National Bank of Kazakhstan.* Retrieved October 27, 2019, from https://nationalbank.kz/?docid=170&switch=english
+[^3]: Introduction. (2019). *National Bank of Kazakhstan.* Retrieved October 27, 2019, from [https://nationalbank.kz](https://nationalbank.kz/?docid=170&switch=english){:target="_blank"}
 
-[^4]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
+[^4]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Astana){:target="_blank"}
 
-[^5]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
+[^5]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Astana){:target="_blank"}
 
-[^6]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
+[^6]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Astana){:target="_blank"}
 
-[^7]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from https://www.britannica.com/place/Astana
+[^7]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Astana){:target="_blank"}
 
-[^8]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from http://astana.gov.kz/en/news/astana-history/rubrics/206
+[^8]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from [http://astana.gov.kz](http://astana.gov.kz/en/news/astana-history/rubrics/206){:target="_blank"}
 
-[^9]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from http://astana.gov.kz/en/news/astana-history/rubrics/206
+[^9]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from [http://astana.gov.kz](http://astana.gov.kz/en/news/astana-history/rubrics/206){:target="_blank"}
 
-[^10]: Cohen, A. (2018, June 18). Kazakhstan's new capital is growing up quick. (2019). *Forbes.* Retrieved October 27, 2019, from https://www.forbes.com/sites/arielcohen/2018/06/08/kazakhstans-new-capital-is-growing-up-quick/#1d8a1f991c44
+[^10]: Cohen, A. (2018, June 18). Kazakhstan's new capital is growing up quick. (2019). *Forbes.* Retrieved October 27, 2019, from [https://www.forbes.com](https://www.forbes.com/sites/arielcohen/2018/06/08/kazakhstans-new-capital-is-growing-up-quick/#1d8a1f991c44){:target="_blank"}
 
-[^11]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
+[^11]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms){:target="_blank"}
 
-[^12]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
+[^12]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms){:target="_blank"}
 
-[^13]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, fro https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms
+[^13]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, fro [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms){:target="_blank"}
 
-[^14]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*. Retrieved October 27, 2019, from https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty
+[^14]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*. Retrieved October 27, 2019, from [https://www.straitstimes.com](https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty){:target="_blank"}
 
-[^15]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*.  Retrieved October 27, 2019, from https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty
+[^15]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*.  Retrieved October 27, 2019, from [https://www.straitstimes.com](https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty){:target="_blank"}
 
-[^16]: Singapore, Kazakhstan reaffirm ties during SM Teo Chee Hean's visit. (2019, October 15). *The Straits Times*. Retrieved October 29, 2019, from https://www.straitstimes.com/asia/spore-kazakhstan-reaffirm-ties-during-sm-teos-visit
+[^16]: Singapore, Kazakhstan reaffirm ties during SM Teo Chee Hean's visit. (2019, October 15). *The Straits Times*. Retrieved October 29, 2019, from [https://www.straitstimes.com](https://www.straitstimes.com/asia/spore-kazakhstan-reaffirm-ties-during-sm-teos-visit){:target="_blank"}
 
-[^17]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved October 27, 2019, from https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan
+[^17]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved October 27, 2019, from [https://www.todayonline.com](https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan){:target="_blank"}
 
 ---
 ### **References**
