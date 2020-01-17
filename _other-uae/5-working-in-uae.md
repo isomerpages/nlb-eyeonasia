@@ -93,7 +93,7 @@ Published by the Ministry of Economy of the United Arab Emirates (UAE), the Annu
 
 <img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;" />
 
-[**UAE banking perspectives 2018 **](https://assets.kpmg/content/dam/kpmg/ae/pdf/uae-banking-perspectives.pdf){:target="_blank"}
+[**UAE banking perspectives 2018**](https://assets.kpmg/content/dam/kpmg/ae/pdf/uae-banking-perspectives.pdf){:target="_blank"}
 
 The United Arab Emirates (UAE), in particular Dubai, has emerged as a key financial hub of the Middle East in recent years. Find out how developments such as technological innovation, regulations, culture and governance will impact the banking sector in UAE in the near future from this report.
 
