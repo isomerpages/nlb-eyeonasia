@@ -6,7 +6,7 @@ breadcrumb: Working in the UAE
 collection_name: other-uae
 ---
 
-<img src="\images\test\abu-dhabi-guide-test.jpg" alt="Abu Dhabi guide banner" style="width:800px;" />
+<img src="\images\test\working-in-uae-test.jpg" alt="Working in the UAE banner" style="width:800px;" />
 
 This is a selection of resources on Working in the UAE available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers. 
 
