@@ -6,7 +6,7 @@ breadcrumb: Discovering Dubai
 collection_name: other-uae
 ---
 
-<img src="\images\test\dubai-guide-test.jpg" alt="Dubai guide banner" style="width:800px;" />
+<img src="\images\uae\dubai-guide.jpg" alt="Dubai guide banner" style="width:800px;" />
 
 This is a selection of resources on Discovering Dubai available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers. 
 

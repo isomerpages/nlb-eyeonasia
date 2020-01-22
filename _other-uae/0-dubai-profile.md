@@ -6,7 +6,7 @@ breadcrumb: Dubai - A city profile
 collection_name: other-uae
 ---
 
-<img src="\images\test\dubai-profile-test.jpg" alt="Dubai snapshot banner" style="width:800px;" />
+<img src="\images\uae\dubai-profile.jpg" alt="Dubai snapshot banner" style="width:800px;" />
 
 This article provides an overview of Dubai for those keen to explore the possibility of living and working there. Gathered from open sources, the information presented is not exhaustive or meant to supplement or substitute legal and professional advice.
 
