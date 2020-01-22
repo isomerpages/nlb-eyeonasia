@@ -19,9 +19,9 @@ This article provides an overview of Dubai for those keen to explore the possibi
 
 ### **Introduction**
 
-Dubai is located on the eastern coast of the Arabian Peninsula and in the southwest corner of the Arabian Gulf.[^4] To its southeast sits the Sultanate of Oman. Dubai is the second largest emirate in the United Arab Emirates (UAE), after the Emirate of Abu Dhabi, which is located to its south. Sharjah, the third largest city in the UAE, is located 18 km to its northeast.
+Dubai is located on the eastern coast of the Arabian Peninsula and in the southwest corner of the Arabian Gulf.[^4] To its southeast sits the Sultanate of Oman. Dubai is the second largest emirate in the United Arab Emirates (UAE), after the Emirate of Abu Dhabi, which is located to its south.[^5] Sharjah, the third largest city in the UAE, is located 18 km to its northeast.[^6]
 
-The Emirate of Dubai covers an area of 4,114 square kilometres. Within the Emirate of Dubai, the city of Dubai covers an area of about 35 square kilometres but is expected to double in area with the addition of five man-made islands and the completion of desert construction work. 
+The Emirate of Dubai covers an area of 4,114 square kilometres. Within the Emirate of Dubai, the city of Dubai covers an area of about 35 square kilometres but is expected to double in area with the addition of five man-made islands and the completion of desert construction work.[^7] 
 
 ### **Demographic Profile**
 
