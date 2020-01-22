@@ -87,7 +87,7 @@ At the government level, the Monetary Authority of Singapore and the Dubai Finan
 
 [^17]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
 
-[^18]: Dubai attractions. (2000-2018). *Smart Dubai Government.* Retrieved September 23, 2019, from 
+[^18]: Visit Dubai for your next vacation. (2020). *Dubai Tourism Board.* Retrieved January 22, 2020, from [https://promotions.americanexpress.com.sg/](https://promotions.americanexpress.com.sg/offers/travel-hotels/dubai-tourism-board/?inav){:target="_blank"}
 
 [^19]: Things to do in Dubai. (2019). *Visit Dubai.* Retrieved September 23, 2019, from [https://www.visitdubai.com](https://www.visitdubai.com/en/discover/things-to-do-in-dubai){:target="_blank"}
 

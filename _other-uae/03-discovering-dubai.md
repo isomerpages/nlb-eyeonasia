@@ -14,7 +14,7 @@ This is a selection of resources on Discovering Dubai available from the [NLB ca
 
 <img src="/images/book-covers/Dubai - The epicentre of modern innovation.jpg" style="width:180px;" />
 
-[**Dubai: The epicentre of modern innovation**](){:target="_blank"}
+[**Dubai: The epicentre of modern innovation**](https://nlb.overdrive.com/media/4020299){:target="_blank"}
 
 This book discusses the implementation of sustained innovation success within several industry segments. It also identifies the past, current and future innovation-related successes that lead to Dubai's rise as the epicenter of innovation in the Middle East and the world. The authors share key innovation leadership philosophies from Sheikh Mohammed bin Al Maktoum and recognised business leaders in the UAE.
 
