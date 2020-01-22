@@ -8,7 +8,7 @@ collection_name: other-uae
 ---
 <img src="/images/uae/uae-banner.jpg" alt="UAE banner" style="width:800px;" />
 
-The Association of Southeast Asian Nations, or ASEAN, is a regional organization comprising ten Southeast Asian nations that promotes economic growth, social progress, cultural development and cooperation in the region. ASEAN fosters a peaceful community of nations that is strengthened by active collaboration and close ties with one another.
+The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A country with a rich history, its rapid growth, modern infrastructure and future-oriented initiatives make it an attractive nation to live and work in.
 
 
 <div>
