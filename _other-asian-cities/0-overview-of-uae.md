@@ -1,13 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Overview of ASEAN Countries
-permalink: /asean-countries/know/overview-of-asean-countries/
-breadcrumb: Overview of ASEAN Countries
-collection_name: asean-countries
-second_nav_title: "Know"
+title: United Arab Emirates
+permalink: /other-asian-cities/uae/
+breadcrumb: United Arab Emirates
+collection_name: other-uae
 
 ---
-<img src="/images/asean-countries/Overview of ASEAN new.jpg" alt="ASEAN overview banner" style="width:800px;" />
+<img src="/images/uae/uae-banner.jpg" alt="UAE	 banner" style="width:800px;" />
 
 The Association of Southeast Asian Nations, or ASEAN, is a regional organization comprising ten Southeast Asian nations that promotes economic growth, social progress, cultural development and cooperation in the region. ASEAN fosters a peaceful community of nations that is strengthened by active collaboration and close ties with one another.
 
@@ -15,21 +14,21 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/overview-of-asean-countries/asean-a-regional-profile/" class="project-link">
-				<img src="/images/asean-countries/asean-small.jpg" alt="ASEAN - A Regional Profile" class="project-image">
+			<a href="/other-asian-cities/uae/abu-dhabi-a-city-profile/" class="project-link">
+				<img src="/images/uae/abu-dhabi-profile-small.jpg" alt="Abu Dhabi Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN: A Regional Profile</b></h5>
+					<h5><b>Abu Dhabi: A Profile</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/overview-of-asean-countries/regional-newspapers/" class="project-link">
-				<img src="/images/asean-countries/Regional-Newspapers-small.jpg" alt="Regional Newspapers" class="project-image">
+			<a href="/other-asian-cities/uae/abu-dhabi-a-city-profile/" class="project-link">
+				<img src="/images/uae/abu-dhabi-guide-small.jpg" alt="Abu Dhabi Guide" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Regional Newspapers</b></h5>
+					<h5><b>Discovering Abu Dhabi</b></h5>
 				</div>
 			</div>
 			</a>
