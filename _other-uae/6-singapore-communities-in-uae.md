@@ -22,8 +22,8 @@ Enterprise Singapore’s Overseas Centre in Dubai, United Arab Emirates, provide
 
 The Singapore Business Council is a non-profit organisation bridging Singaporeans, expats, enterprises and communities in the United Arab Emirates. It was established with the support of the Embassy of Singapore in Abu Dhabi and Consulate General of Singapore in Dubai.
 
-[Find out more](http://sbcuae.org/){:target="_blank"}_
-_[LinkedIn](https://www.linkedin.com/company/sbcuae){:target="_blank"}
+[Find out more](http://sbcuae.org/){:target="_blank"}<br>
+[LinkedIn](https://www.linkedin.com/company/sbcuae){:target="_blank"}
 
 <hr/>
 ### Singapore Community Events in the UAE
@@ -44,8 +44,8 @@ The Singapore Malay-Muslim Group is an informal non-profit organisation founded 
 
 The SMU Alumni Chapter in the UAE engages the community of SMU’s alumni in the United Arab Emirates and keeps them connected with one another.
 
-[Find out more](https://alumni.smu.edu.sg/alumni-chapters){:target="_blank"}
-Imran Manasawala, Co-President, Dubai <mailto:imran@faglass.com>
+[Find out more](https://alumni.smu.edu.sg/alumni-chapters){:target="_blank"}<br>
+Imran Manasawala, Co-President, Dubai <mailto:imran@faglass.com><br>
 Nadir Ali Zafar, Co-President, Abu Dhabi <mailto:nadir.zafar@gmail.com> 
 
 <hr/>
