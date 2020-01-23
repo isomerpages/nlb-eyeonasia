@@ -62,37 +62,37 @@ On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global 
 
 [^3]: Facts and figures. (2019). *Tamm.* Retrieved November 5, 2019, from [https://www.tamm.abudhabi/](https://www.tamm.abudhabi/factsandfigures){:target="_blank"}
 
-[^4]: Explore. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/city-info/)
+[^4]: Explore. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/city-info/){:target="_blank"}
 
-[^5]: UAE capital & surrounds. (2019). *Department of Culture and Tourism Abu Dhabi.* Retrieved November 5, 2019, from [https://visitabudhabi.cn/](https://visitabudhabi.cn/en/explore/regions/uae.capital.aspx)
+[^5]: UAE capital & surrounds. (2019). *Department of Culture and Tourism Abu Dhabi.* Retrieved November 5, 2019, from [https://visitabudhabi.cn/](https://visitabudhabi.cn/en/explore/regions/uae.capital.aspx){:target="_blank"}
 
-[^6]: Abu Dhabi geography. (2019). Retrieved November 5, 2019, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/geography/)
+[^6]: Abu Dhabi geography. (2019). Retrieved November 5, 2019, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/geography/){:target="_blank"}
 
-[^7]: Abu Dhabi geography. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/geography/)
+[^7]: Abu Dhabi geography. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/geography/){:target="_blank"}
 
-[^8]: Facts and figures. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/geography/)
+[^8]: Facts and figures. (2019). *AbuDhabi.com.* Retrieved November 5, 2019, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/geography/){:target="_blank"}
 
-[^9]: Facts and figures. (2019). *TAMM.* Retrieved November 22, 2019, from [https://www.tamm.abudhabi/](https://www.tamm.abudhabi/en/factsandfigures)
+[^9]: Facts and figures. (2019). *TAMM.* Retrieved November 22, 2019, from [https://www.tamm.abudhabi/](https://www.tamm.abudhabi/en/factsandfigures){:target="_blank"}
 
-[^10]: Thompson, R. (2019, July 22). Russia’s GMIS 2019 summit casts spotlight on Abu Dhabi’s industrial revolution. *MEED.* Retrieved November 22, 2019, from [https://www.meed.com/](https://www.meed.com/abu-dhabi-puts-advanced-manufacturing-at-core-of-industrial-strategy/); Edmond, C. (2019, November 1). From fishing village to futuristic metropolis: Dubai’s remarkable transformation. *World Economic Forum.* Retrieved November 22, 2019, from [https://www.weforum.org/](https://www.weforum.org/agenda/2019/11/dubai-uae-transformation/)
+[^10]: Thompson, R. (2019, July 22). Russia’s GMIS 2019 summit casts spotlight on Abu Dhabi’s industrial revolution. *MEED.* Retrieved November 22, 2019, from [https://www.meed.com/](https://www.meed.com/abu-dhabi-puts-advanced-manufacturing-at-core-of-industrial-strategy/){:target="_blank"}; Edmond, C. (2019, November 1). From fishing village to futuristic metropolis: Dubai’s remarkable transformation. *World Economic Forum.* Retrieved November 22, 2019, from [https://www.weforum.org/](https://www.weforum.org/agenda/2019/11/dubai-uae-transformation/){:target="_blank"}
 
-[^11]: Tourism and the private sector in Abu Dhabi. (2018, October). *Abu Dhabi Chamber.* Retrieved 22 November 2019, from [https://www.abudhabichamber.ae/](https://www.abudhabichamber.ae/OurDocuments/Tourism%20and%20the%20private%20sector%20in%20Abu%20Dhabi%20-%205099179c-5daf-4bd9-b82a-57d5c7004247/Tourism%20English%20low1.pdf)
+[^11]: Tourism and the private sector in Abu Dhabi. (2018, October). *Abu Dhabi Chamber.* Retrieved 22 November 2019, from [https://www.abudhabichamber.ae/](https://www.abudhabichamber.ae/OurDocuments/Tourism%20and%20the%20private%20sector%20in%20Abu%20Dhabi%20-%205099179c-5daf-4bd9-b82a-57d5c7004247/Tourism%20English%20low1.pdf){:target="_blank"}
 
-[^12]: Tourism and the private sector in Abu Dhabi. (2018, October). *Abu Dhabi Chamber.* Retrieved 22 November 2019, from [https://www.abudhabichamber.ae/](https://www.abudhabichamber.ae/OurDocuments/Tourism%20and%20the%20private%20sector%20in%20Abu%20Dhabi%20-%205099179c-5daf-4bd9-b82a-57d5c7004247/Tourism%20English%20low1.pdf) 
+[^12]: Tourism and the private sector in Abu Dhabi. (2018, October). *Abu Dhabi Chamber.* Retrieved 22 November 2019, from [https://www.abudhabichamber.ae/](https://www.abudhabichamber.ae/OurDocuments/Tourism%20and%20the%20private%20sector%20in%20Abu%20Dhabi%20-%205099179c-5daf-4bd9-b82a-57d5c7004247/Tourism%20English%20low1.pdf){:target="_blank"}
 
-[^13]: Kamel, D. (2019, February 23). Abu Dhabi tourism grows in 2018 to 10.27 million boosted by Indian and Chinese travellers. *The National.* Retrieved November 22, 2019, from [https://www.thenational.ae/](https://www.thenational.ae/business/travel-and-tourism/abu-dhabi-tourism-grows-in-2018-to-10-27-million-boosted-by-indian-and-chinese-travellers-1.830881)
+[^13]: Kamel, D. (2019, February 23). Abu Dhabi tourism grows in 2018 to 10.27 million boosted by Indian and Chinese travellers. *The National.* Retrieved November 22, 2019, from [https://www.thenational.ae/](https://www.thenational.ae/business/travel-and-tourism/abu-dhabi-tourism-grows-in-2018-to-10-27-million-boosted-by-indian-and-chinese-travellers-1.830881){:target="_blank"}
 
-[^14]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved November 21, 2019, from [https://www.mti.gov.sg/](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/10/Abu-Dhabi-and-Singapore-to-explore-potential-areas-of-cooperation-at-12th-Abu-DhabiSingapore-Joint-F.pdf)
+[^14]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved November 21, 2019, from [https://www.mti.gov.sg/](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/10/Abu-Dhabi-and-Singapore-to-explore-potential-areas-of-cooperation-at-12th-Abu-DhabiSingapore-Joint-F.pdf){:target="_blank"}
 
-[^15]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore); Nurturing the champion mindset. (2018). *Bloom Education.* Retrieved November 22, 2019, from <http://www.mindchamps.ae/>
+[^15]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="_blank"}; Nurturing the champion mindset. (2018). *Bloom Education.* Retrieved November 22, 2019, from <http://www.mindchamps.ae/>{:target="_blank"}
 
-[^16]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore)
+[^16]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="_blank"}
 
-[^17]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved November 21, 2019, from [https://www.mti.gov.sg/](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/10/Abu-Dhabi-and-Singapore-to-explore-potential-areas-of-cooperation-at-12th-Abu-DhabiSingapore-Joint-F.pdf) 
+[^17]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved November 21, 2019, from [https://www.mti.gov.sg/](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/10/Abu-Dhabi-and-Singapore-to-explore-potential-areas-of-cooperation-at-12th-Abu-DhabiSingapore-Joint-F.pdf){:target="_blank"}
 
-[^18]: Monetary Authority of Singapore and Abu Dhabi Global Market collaborate to foster fintech innovation and cross-border activities. *Monetary Authority of Singapore.* Retrieved November 22, 2019, from [https://www.mas.gov.sg/](https://www.mas.gov.sg/news/media-releases/2017/monetary-authority-of-singapore-and-abu-dhabi-global-market)
+[^18]: Monetary Authority of Singapore and Abu Dhabi Global Market collaborate to foster fintech innovation and cross-border activities. *Monetary Authority of Singapore.* Retrieved November 22, 2019, from [https://www.mas.gov.sg/](https://www.mas.gov.sg/news/media-releases/2017/monetary-authority-of-singapore-and-abu-dhabi-global-market){:target="_blank"}
 
-[^19]: Singapore bolsters trade relations with Abu Dhabi. (2019). *Rikvin.* Retrieved November 21, 2019, from [https://www.rikvin.com/](https://www.rikvin.com/press-releases/spore-bolsters-trade-relations-with-abu-dhabi/); Osman, H. (2017, March 8). The Singapore and Abu Dhabi governments are working together to promote fintech. *TechinAsia.* Retrieved November 21, 2019, from [https://www.techinasia.com/](https://www.techinasia.com/singapore-abudhabi-fintech-partnership)
+[^19]: Singapore bolsters trade relations with Abu Dhabi. (2019). *Rikvin.* Retrieved November 21, 2019, from [https://www.rikvin.com/](https://www.rikvin.com/press-releases/spore-bolsters-trade-relations-with-abu-dhabi/){:target="_blank"}; Osman, H. (2017, March 8). The Singapore and Abu Dhabi governments are working together to promote fintech. *TechinAsia.* Retrieved November 21, 2019, from [https://www.techinasia.com/](https://www.techinasia.com/singapore-abudhabi-fintech-partnership){:target="_blank"}
 
 ---
 ### **References**

@@ -14,7 +14,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/other-asian-cities/uae/abu-dhabi-a-city-profile/" class="project-link">
+			<a href="/other-asian-countries/uae/abu-dhabi-a-city-profile/" class="project-link">
 				<img src="/images/uae/abu-dhabi-profile-small.jpg" alt="Abu Dhabi Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -24,7 +24,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/other-asian-cities/uae/abu-dhabi-a-city-profile/" class="project-link">
+			<a href="/other-asian-countries/uae/abu-dhabi-a-city-profile/" class="project-link">
 				<img src="/images/uae/abu-dhabi-guide-small.jpg" alt="Abu Dhabi Guide" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -41,7 +41,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/other-asian-cities/uae/dubai-a-city-profile/" class="project-link">
+			<a href="/other-asian-countries/uae/dubai-a-city-profile/" class="project-link">
 				<img src="/images/uae/dubai-profile-small.jpg" alt="Dubai Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -51,7 +51,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/other-asian-cities/uae/discovering-dubai/" class="project-link">
+			<a href="/other-asian-countries/uae/discovering-dubai/" class="project-link">
 				<img src="/images/uae/dubai-guide-small.jpg" alt="Dubai Guide" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -68,7 +68,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/other-asian-cities/uae/living-in-uae/" class="project-link">
+			<a href="/other-asian-countries/uae/living-in-uae/" class="project-link">
 				<img src="/images/uae/living-in-uae-small.jpg" alt="Living in the UAE" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -78,7 +78,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/other-asian-cities/uae/working-in-uae/" class="project-link">
+			<a href="/other-asian-countries/uae/working-in-uae/" class="project-link">
 				<img src="/images/uae/working-in-uae-small.jpg" alt="Working in the UAE" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -95,7 +95,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/other-asian-cities/uae/singapore-communities-in-uae/" class="project-link">
+			<a href="/other-asian-countries/uae/singapore-communities-in-uae/" class="project-link">
 				<img src="/images/shared/sg-communities-new.jpg" alt="SG Communities" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
