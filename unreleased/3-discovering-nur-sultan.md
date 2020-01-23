@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Discovering Nur Sultan
 permalink: /other-asian-cities/discovering-nur-sultan/
 breadcrumb: Discovering Nur Sultan
-collection_name: other-asian-cities
+collection_name: 
 ---
 
 <img src="\images\test\nur-sultan-guide-test.jpg" alt="Nur Sultan guide banner" style="width:800px;" />

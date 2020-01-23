@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Nur Sultan - A city profile
 permalink: /other-asian-cities/nur-sultan-a-city-profile/
 breadcrumb: Nur Sultan - A city profile
-collection_name: other-asian-cities
+collection_name: 
 ---
 
 <img src="\images\test\nur-sultan-profile-test.jpg" alt="Nur Sultan snapshot banner" style="width:800px;" />
