@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Discovering Abu Dhabi
-permalink: /other-asian-cities/uae/discovering-abu-dhabi/
+permalink: /other-asian-countries/uae/discovering-abu-dhabi/
 breadcrumb: Discovering Abu Dhabi
 collection_name: other-uae
 ---

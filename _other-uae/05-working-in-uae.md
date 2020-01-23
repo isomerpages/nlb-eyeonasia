@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Working in the UAE
-permalink: /other-asian-cities/uae/working-in-uae/
+permalink: /other-asian-countries/uae/working-in-uae/
 breadcrumb: Working in the UAE
 collection_name: other-uae
 ---

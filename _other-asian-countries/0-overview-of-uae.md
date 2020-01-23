@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: United Arab Emirates
-permalink: /other-asian-cities/uae/
+permalink: /other-asian-countries/uae/
 breadcrumb: United Arab Emirates
 collection_name: other-uae
 

@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Dubai - A city profile
-permalink: /other-asian-cities/uae/dubai-a-city-profile/
+permalink: /other-asian-countries/uae/dubai-a-city-profile/
 breadcrumb: Dubai - A city profile
 collection_name: other-uae
 ---

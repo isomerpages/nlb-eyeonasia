@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Abu Dhabi - A city profile
-permalink: /other-asian-cities/uae/abu-dhabi-a-city-profile/
+permalink: /other-asian-countries/uae/abu-dhabi-a-city-profile/
 breadcrumb: Abu Dhabi - A city profile
 collection_name: other-uae
 ---

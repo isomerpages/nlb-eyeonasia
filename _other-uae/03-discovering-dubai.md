@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Discovering Dubai
-permalink: /other-asian-cities/uae/discovering-dubai/
+permalink: /other-asian-countries/uae/discovering-dubai/
 breadcrumb: Discovering Dubai
 collection_name: other-uae
 ---

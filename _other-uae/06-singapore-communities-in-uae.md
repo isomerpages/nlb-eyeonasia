@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Singapore Communities in the UAE
-permalink: /other-asian-cities/uae/singapore-communities-in-uae/
+permalink: /other-asian-countries/uae/singapore-communities-in-uae/
 breadcrumb: Singapore Communities in the UAE
 collection_name: other-uae
 ---

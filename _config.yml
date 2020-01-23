@@ -94,8 +94,8 @@ collections:
     output: true
   upcoming-events:
     output: true
-  other-asian-cities:
-    output: false
+  other-asian-countries:
+    output: true
   other-uae:
     output: true
 
