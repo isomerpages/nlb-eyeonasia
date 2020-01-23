@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Abu Dhabi - A city profile
-permalink: /other-asian-cities/uae/abu-dhabi-a-city-profile/
+permalink: /other-asian-countries/uae/abu-dhabi-a-city-profile/
 breadcrumb: Abu Dhabi - A city profile
 collection_name: other-uae
 ---
 
-<img src="\images\test\abu-dhabi-profile-test.jpg" alt="Abu Dhabi snapshot banner" style="width:800px;" />
+<img src="\images\uae\abu-dhabi-profile.jpg" alt="Abu Dhabi snapshot banner" style="width:800px;" />
 
 This article provides an overview of Abu Dhabi for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 

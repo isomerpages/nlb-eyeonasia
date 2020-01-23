@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Dubai - A city profile
-permalink: /other-asian-cities/uae/dubai-a-city-profile/
+permalink: /other-asian-countries/uae/dubai-a-city-profile/
 breadcrumb: Dubai - A city profile
 collection_name: other-uae
 ---
 
-<img src="\images\test\dubai-profile-test.jpg" alt="Dubai snapshot banner" style="width:800px;" />
+<img src="\images\uae\dubai-profile.jpg" alt="Dubai snapshot banner" style="width:800px;" />
 
 This article provides an overview of Dubai for those keen to explore the possibility of living and working there. Gathered from open sources, the information presented is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -19,9 +19,9 @@ This article provides an overview of Dubai for those keen to explore the possibi
 
 ### **Introduction**
 
-Dubai is located on the eastern coast of the Arabian Peninsula and in the southwest corner of the Arabian Gulf.[^4] To its southeast sits the Sultanate of Oman. Dubai is the second largest emirate in the United Arab Emirates (UAE), after the Emirate of Abu Dhabi, which is located to its south. Sharjah, the third largest city in the UAE, is located 18 km to its northeast.
+Dubai is located on the eastern coast of the Arabian Peninsula and in the southwest corner of the Arabian Gulf.[^4] To its southeast sits the Sultanate of Oman. Dubai is the second largest emirate in the United Arab Emirates (UAE), after the Emirate of Abu Dhabi, which is located to its south.[^5] Sharjah, the third largest city in the UAE, is located 18 km to its northeast.[^6]
 
-The Emirate of Dubai covers an area of 4,114 square kilometres. Within the Emirate of Dubai, the city of Dubai covers an area of about 35 square kilometres but is expected to double in area with the addition of five man-made islands and the completion of desert construction work. 
+The Emirate of Dubai covers an area of 4,114 square kilometres. Within the Emirate of Dubai, the city of Dubai covers an area of about 35 square kilometres but is expected to double in area with the addition of five man-made islands and the completion of desert construction work.[^7] 
 
 ### **Demographic Profile**
 
@@ -87,7 +87,7 @@ At the government level, the Monetary Authority of Singapore and the Dubai Finan
 
 [^17]: Profiled cities. (2019, April 25). *Enterprise Singapore.* Retrieved September 24, 2019, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
 
-[^18]: Dubai attractions. (2000-2018). *Smart Dubai Government.* Retrieved September 23, 2019, from 
+[^18]: Visit Dubai for your next vacation. (2020). *Dubai Tourism Board.* Retrieved January 22, 2020, from [https://promotions.americanexpress.com.sg/](https://promotions.americanexpress.com.sg/offers/travel-hotels/dubai-tourism-board/?inav){:target="_blank"}
 
 [^19]: Things to do in Dubai. (2019). *Visit Dubai.* Retrieved September 23, 2019, from [https://www.visitdubai.com](https://www.visitdubai.com/en/discover/things-to-do-in-dubai){:target="_blank"}
 

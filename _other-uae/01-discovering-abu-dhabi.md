@@ -1,18 +1,18 @@
 ---
 layout: leftnav-page-content
 title: Discovering Abu Dhabi
-permalink: /other-asian-cities/uae/discovering-abu-dhabi/
+permalink: /other-asian-countries/uae/discovering-abu-dhabi/
 breadcrumb: Discovering Abu Dhabi
 collection_name: other-uae
 ---
 
-<img src="\images\test\abu-dhabi-guide-test.jpg" alt="Abu Dhabi guide banner" style="width:800px;" />
+<img src="\images\uae\abu-dhabi-guide.jpg" alt="Abu Dhabi guide banner" style="width:800px;" />
 
 This is a selection of resources on Discovering Abu Dhabi available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers. 
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Abu Dhabi, United Arab Emirates.jpg" style="width:180px;" />
+<img src="/images/book-covers/A diamond in the desert - Behind the scenes in Abu Dhabi, the world’s richest city.jpg" style="width:180px;" />
 
 [**A diamond in the desert: Behind the scenes in Abu Dhabi, the world’s richest city**](https://nlb.overdrive.com/media/1266760){:target="_blank"}
 
@@ -20,7 +20,7 @@ Jo Tatchell first arrived in the city of Abu Dhabi as a child in 1974, when the 
 
 Retrieved from Overdrive. (*myLibrary* ID is required to access this database).
 
-<img src="/images/book-covers/A diamond in the desert - Behind the scenes in Abu Dhabi, the world’s richest city.jpg" style="width:180px;" />
+<img src="/images/book-covers/Abu Dhabi, United Arab Emirates.jpg" style="width:180px;" />
 
 [**Abu Dhabi, United Arab Emirates**](https://nlb.overdrive.com/media/276802){:target="_blank"}
 

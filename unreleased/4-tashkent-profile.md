@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Tashkent - A city profile
-permalink: /other-asian-cities/tashkent-a-city-profile/
+permalink: 
 breadcrumb: Tashkent - A city profile
-collection_name: other-asian-cities
+collection_name: 
 ---
 
 <img src="\images\test\tashkent-profile-test.jpg" alt="Tashkent snapshot banner" style="width:800px;" />

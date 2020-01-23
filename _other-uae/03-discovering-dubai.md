@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Discovering Dubai
-permalink: /other-asian-cities/uae/discovering-dubai/
+permalink: /other-asian-countries/uae/discovering-dubai/
 breadcrumb: Discovering Dubai
 collection_name: other-uae
 ---
 
-<img src="\images\test\dubai-guide-test.jpg" alt="Dubai guide banner" style="width:800px;" />
+<img src="\images\uae\dubai-guide.jpg" alt="Dubai guide banner" style="width:800px;" />
 
 This is a selection of resources on Discovering Dubai available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers. 
 
@@ -14,7 +14,7 @@ This is a selection of resources on Discovering Dubai available from the [NLB ca
 
 <img src="/images/book-covers/Dubai - The epicentre of modern innovation.jpg" style="width:180px;" />
 
-[**Dubai: The epicentre of modern innovation**](){:target="_blank"}
+[**Dubai: The epicentre of modern innovation**](https://nlb.overdrive.com/media/4020299){:target="_blank"}
 
 This book discusses the implementation of sustained innovation success within several industry segments. It also identifies the past, current and future innovation-related successes that lead to Dubai's rise as the epicenter of innovation in the Middle East and the world. The authors share key innovation leadership philosophies from Sheikh Mohammed bin Al Maktoum and recognised business leaders in the UAE.
 
