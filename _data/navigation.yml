@@ -31,11 +31,10 @@
     url: /india/share/what-young-people-say/
   - title: Go
     url: /india/go/for-students/
-- title: Other Asian Cities
-  url: /other-asian-cities/uae/
+- title: Other Asian Countries
   sub-links:
   - title: United Arab Emirates
-    url: /other-asian-cities/uae/
+    url: /other-asian-countries/uae/
 - title: About
   url: /about/about-eye-on-asia/
   sub-links:
