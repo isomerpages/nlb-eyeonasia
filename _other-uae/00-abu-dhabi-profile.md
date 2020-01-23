@@ -10,7 +10,7 @@ collection_name: other-uae
 
 This article provides an overview of Abu Dhabi for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
-- ### **Key Facts**
+### **Key Facts**
 
 **Country**: United Arab Emirates[^1]
 

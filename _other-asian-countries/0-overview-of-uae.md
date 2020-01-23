@@ -24,7 +24,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/other-asian-countries/uae/abu-dhabi-a-city-profile/" class="project-link">
+			<a href="/other-asian-countries/uae/discovering-abu-dhabi/" class="project-link">
 				<img src="/images/uae/abu-dhabi-guide-small.jpg" alt="Abu Dhabi Guide" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
