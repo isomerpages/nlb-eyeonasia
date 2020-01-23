@@ -95,7 +95,7 @@ collections:
   upcoming-events:
     output: true
   other-asian-cities:
-    output: true
+    output: false
   other-uae:
     output: true
 
