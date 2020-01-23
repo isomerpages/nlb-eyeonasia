@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Tashkent - A city profile
-permalink: /other-asian-cities/tashkent-a-city-profile/
+permalink: 
 breadcrumb: Tashkent - A city profile
 collection_name: 
 ---

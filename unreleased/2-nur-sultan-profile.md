@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Nur Sultan - A city profile
-permalink: /other-asian-cities/nur-sultan-a-city-profile/
+permalink: 
 breadcrumb: Nur Sultan - A city profile
 collection_name: 
 ---

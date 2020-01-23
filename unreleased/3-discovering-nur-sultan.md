@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Discovering Nur Sultan
-permalink: /other-asian-cities/discovering-nur-sultan/
+permalink: 
 breadcrumb: Discovering Nur Sultan
 collection_name: 
 ---

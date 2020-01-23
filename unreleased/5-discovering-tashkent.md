@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Discovering Tashkent
-permalink: /other-asian-cities/discovering-tashkent/
+permalink: 
 breadcrumb: Discovering Tashkent
 collection_name: 
 ---
