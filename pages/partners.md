@@ -68,7 +68,6 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/YaleNUSCollege.png" alt="Yale NUS College"></a>
 		</div>
 	</div>
-	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="max-height:80%;max-width:80%;"></a>
