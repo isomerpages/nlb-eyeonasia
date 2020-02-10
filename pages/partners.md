@@ -13,7 +13,7 @@ Eye on Asia is a collaborative effort by the National Library, Singapore with pa
 We thank our partners for contributing to the initiative by allowing us access to their resources on ASEAN countries, China and India, providing information on the work and learning opportunities in these countries as well as first-hand accounts of people who have lived and worked there.
 
 ### **Founding Partners**
-<br><br>
+<br>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
@@ -29,7 +29,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 </div>
 
 ### **Partners**
-<br><br>
+<br>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
