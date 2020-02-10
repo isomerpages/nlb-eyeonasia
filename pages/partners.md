@@ -65,7 +65,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="http://www.tlr.asia/"><img src="/images/partners/ASEAN Living Room Logo 2.png" alt="The ASEAN Living Room"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/YaleNUSCollege.png" alt="Yale NUS College"></a>
+			<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/YaleNUSCollege2.png" alt="Yale NUS College"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
