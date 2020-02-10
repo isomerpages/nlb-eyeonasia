@@ -31,5 +31,16 @@ Qi Ming is the Culture and Talent Director of McGraw-Hill Education Asia. He has
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |
 
-<img src="\images\past-events\10-Oct-2019\edm.jpg" style="width:650px;" />
+#####  **Watch highlights of the programme:** 
 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/129qW7jVYEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uizYLlaY1oU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<img src="\images\past-events\10-Oct-2019\edm.jpg" style="width:650px;" />
