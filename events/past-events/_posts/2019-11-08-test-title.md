@@ -29,5 +29,17 @@ This programme is organised in collaboration with the Overseas SG Ltd (OSG).
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |
 
+#####  **Watch highlights of the programme:** 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hPlDoLh0oM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uQ2JBM6IA7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <img src="\images\past-events\08-Nov-2019\edm.jpg" style="width:650px;" />
 
