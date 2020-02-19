@@ -11,12 +11,12 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 
 
-### **Upcoming Event**
+<!-- ### **Upcoming Event**
 
 
 <a href="/events/upcoming-events/14-jan-2020/"><img src="\images\past-events\14-Jan-2020\EOA website new.jpg" style="width:600px;" /></a>
 
-
+-->
 
 ### **Past Events**
 
@@ -33,13 +33,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/08-nov-2019/" class="project-link">
 				<img src="/images/past-events/test-1.jpg" class="project-image">
@@ -50,6 +43,14 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
+		
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/10-oct-2019/" class="project-link">
 				<img src="/images/past-events/test-2.jpg"  class="project-image">
