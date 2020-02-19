@@ -91,7 +91,7 @@ collections:
   past-events:
     output: true
   events:
-    output: true
+    output: false
   upcoming-events:
     output: true
   other-asian-countries:
