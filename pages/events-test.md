@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Events
-permalink: /events-test/
+permalink: /events-page/
 breadcrumb: Events
 
 ---
