@@ -50,7 +50,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 <div>
 	<div class="row is-multiline">
-		
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/10-oct-2019/" class="project-link">
 				<img src="/images/past-events/test-2.jpg"  class="project-image">
@@ -61,13 +60,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/02-sep-2019/" class="project-link">
 				<img src="/images/past-events/test-3.jpg" class="project-image">
@@ -78,6 +70,13 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/07-aug-2019/" class="project-link">
 				<img src="/images/past-events/test-4.jpg"  class="project-image">
@@ -88,13 +87,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/09-jul-2019/" class="project-link">
 				<img src="/images/past-events/test-5.jpg" class="project-image">
@@ -105,6 +97,13 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/30-may-2019/" class="project-link">
 				<img src="/images/past-events/test-6.jpg"  class="project-image">
@@ -115,13 +114,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/08-may-2019/" class="project-link">
 				<img src="/images/past-events/test-7.jpg" class="project-image">
@@ -132,6 +124,13 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/11-apr-2019/" class="project-link">
 				<img src="/images/past-events/test-8.jpg"  class="project-image">
@@ -142,13 +141,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/02-mar-2019/" class="project-link">
 				<img src="/images/past-events/test-9.jpg" class="project-image">
@@ -159,6 +151,13 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/07-feb-2019/" class="project-link">
 				<img src="/images/past-events/test-10.jpg"  class="project-image">
@@ -169,13 +168,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/15-jan-2019/" class="project-link">
 				<img src="/images/past-events/test-11.jpg" class="project-image">
@@ -186,6 +178,13 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/09-jan-2019/" class="project-link">
 				<img src="/images/past-events/test-12.jpg"  class="project-image">
@@ -196,13 +195,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/08-nov-2018/" class="project-link">
 				<img src="/images/past-events/test-13.jpg" class="project-image">
@@ -213,6 +205,13 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/04-oct-2018/" class="project-link">
 				<img src="/images/past-events/test-14.jpg"  class="project-image">
@@ -223,13 +222,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/04-sep-2018/" class="project-link">
 				<img src="/images/past-events/test-15.jpg" class="project-image">
@@ -240,6 +232,13 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/16-aug-2018/" class="project-link">
 				<img src="/images/past-events/test-16.jpg"  class="project-image">
@@ -250,13 +249,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/05-jul-2018/" class="project-link">
 				<img src="/images/past-events/test-17.jpg" class="project-image">
@@ -267,6 +259,13 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/06-jun-2018/" class="project-link">
 				<img src="/images/past-events/test-18.jpg"  class="project-image">
@@ -277,13 +276,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/04-may-2018/" class="project-link">
 				<img src="/images/past-events/test-19.jpg" class="project-image">
@@ -294,12 +286,29 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/03-apr-2018/" class="project-link">
 				<img src="/images/past-events/test-20.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Exploring work or business opportunities in Indonesia?</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/20-mar-2018/" class="project-link">
+				<img src="/images/past-events/test-21.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Are you aspiring to work beyond Singapore?</b></h5>
 				</div>
 			</div>
 			</a>
@@ -311,16 +320,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/events/past-events/20-mar-2018/" class="project-link">
-				<img src="/images/past-events/test-21.jpg" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Are you aspiring to work beyond Singapore?</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/official-launch-10-february-2018/" class="project-link">
 				<img src="/images/past-events/test-22.jpg"  class="project-image">
