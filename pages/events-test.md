@@ -28,7 +28,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="\images\past-events\14-Jan-2020\EOA 14 Jan 2020_Image Banner 2.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Let’s Talk Social Impact - The Road Less Travelled Around ASEAN</b></h5>
+					<h5><b>Let’s Talk Social Impact ...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -55,7 +55,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="/images/past-events/test-2.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Talent Management in China - Attracting and Retaining Talent for SMEs</b></h5>
+					<h5><b>Talent Management in China ...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -72,7 +72,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="/images/past-events/test-3.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Engineering and Reinventing Yourself as an Entrepreneur in an Uncertain World</b></h5>
+					<h5><b>Engineering and Reinventing Yourself as an Entrepreneur ...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -82,7 +82,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="/images/past-events/test-4.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Sustainable Economic Development Through Environmental Programmes</b></h5>
+					<h5><b>Sustainable Economic Development ...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -109,7 +109,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="/images/past-events/test-6.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Traditional to Trendy - Ya Kun’s Journey of Internationalisation and Branding</b></h5>
+					<h5><b>Traditional to Trendy - Ya Kun’s Journey of Internationalisation ...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -136,7 +136,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="/images/past-events/test-8.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>The Aviation Industry is Booming, but the World is Critically Short of Airports</b></h5>
+					<h5><b>The Aviation Industry is Booming ...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -217,7 +217,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="/images/past-events/test-14.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Exploring China - Opportunities and challenges</b></h5>
+					<h5><b>Exploring China - Opportunities and Challenges</b></h5>
 				</div>
 			</div>
 			</a>
@@ -244,7 +244,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="/images/past-events/test-16.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Belt and Road Initiative - Opportunities in China and Cambodia</b></h5>
+					<h5><b>Belt and Road Initiative ...</b></h5>
 				</div>
 			</div>
 			</a>
