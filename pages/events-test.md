@@ -24,6 +24,23 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/14-jan-2020/" class="project-link">
+				<img src="\images\past-events\14-Jan-2020\EOA 14 Jan 2020_Image Banner 2.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Let’s Talk Social Impact - The Road Less Travelled Around ASEAN</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/08-nov-2019/" class="project-link">
 				<img src="/images/past-events/test-1.jpg" class="project-image">
 			<div class="project-card">
