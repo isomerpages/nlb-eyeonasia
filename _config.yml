@@ -100,9 +100,8 @@ collections:
     output: true
 
 # Resources and pagination
-<!--resources_name: events
+resources_name: events
 paginate: 12
 paginate_path: "/events/page:num"
 
 is_government: false
--->
