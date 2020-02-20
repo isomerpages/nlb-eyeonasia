@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Events
-permalink: /eoa-events/
+permalink: /events-page/
 breadcrumb: Events
 
 ---
