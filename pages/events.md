@@ -7,7 +7,7 @@ breadcrumb: Events
 ---
 <img src="/images/past-events/events-banner.jpg" style="width:900px;" />
 
-Keen to explore opportunities in ASEAN countries, China and India including emerging Asian cities? Or curious to learn more about the growing trends and developments in these countries? Discover tips and gain insights from these speakers who have ventured into the region through the Eye on Asia programme series!!
+Keen to explore opportunities in ASEAN countries, China and India including emerging Asian cities? Or curious to learn more about the growing trends and developments in these countries? Discover tips and gain insights from these speakers who have ventured into the region through the Eye on Asia programme series! 
 
 
 
