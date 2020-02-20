@@ -28,7 +28,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 				<img src="\images\past-events\14-Jan-2020\EOA 14 Jan 2020_Image Banner 2.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Let’s Talk Social Impact: The Road Less Travelled around ASEAN</b></h5>
+					<h5><b>Let’s Talk Social Impact - The Road Less Travelled around ASEAN</b></h5>
 				</div>
 			</div>
 			</a>
