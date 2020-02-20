@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring China - Opportunities and challenges
+title: Exploring China - Opportunities and Challenges
 permalink: /events/past-events/04-oct-2018/
 date: 2018-10-04
 ---
