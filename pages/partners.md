@@ -20,7 +20,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.enterprisesg.gov.sg/"><img src="/images/partners/Enterprise-SG-logo-270x85-1.png" alt="EnterpriseSG"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="http://www.businesschina.org.sg/en.php"><img src="/images/partners/BC-Logo-White-BG-270x113-1.jpg" alt="Business China Singapore"></a>
+			<a href="http://www.businesschina.org.sg/en.php"><img src="/images/partners/BC-Logo-new.png" alt="Business China Singapore"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://iti.smu.edu.sg/"><img src="/images/partners/SMU-logo-370x93-1.jpg" alt="Singapore Management Univserity International Trading Institute"></a>
