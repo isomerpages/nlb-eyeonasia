@@ -56,6 +56,9 @@ $desktop: 960px + (2 * $gap) !default;
   &-banner-color-three {
     background-color: $banner-color-three;
   }
+  &-banner-color-four {
+    background-color: $banner-color-four;
+  }  
   &-media-color {
   	&-1 {
   		background-color: $media-color-one;
