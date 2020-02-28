@@ -17,7 +17,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.enterprisesg.gov.sg/"><img src="/images/partners/esing-logo.png" alt="EnterpriseSG"></a>
+			<a href="https://www.enterprisesg.gov.sg/"><img src="/images/partners/Enterprise-SG-logo-270x85-1.png" alt="EnterpriseSG"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.businesschina.org.sg/en.php"><img src="/images/partners/BC-Logo-new.png" alt="Business China Singapore"></a>
