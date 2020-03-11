@@ -22,7 +22,13 @@ collection_name: about
 }
 </style>
 
-<img src="\images\shared\eoa-banner.jpg" alt="about banner" style="width:800px;" />
+<!--img src="\images\shared\eoa-banner.jpg" alt="about banner" style="width:800px;" /-->
+
+#### **Eye on Asia - Know. Share. Go.**
+
+<div class="resp-container">
+    <iframe class="resp-iframe" src="https://www.youtube.com/embed/0QJvI8X7pW0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
 
 Navigate the shifts in global economic power to Asia with Eye on Asia’s curated programmes and resources. Tap into the insight of professionals who have ventured into the region.
 
@@ -32,8 +38,8 @@ Besides this portal, do come by our [resource centre](/about/visit-our-resource-
 
 
 
-#### **Eye on Asia video – Would you consider working overseas?**
+<!--#### **Eye on Asia video – Would you consider working overseas?**
 
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://www.youtube.com/embed/Crkl4QKWGtM" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+</div>-->
