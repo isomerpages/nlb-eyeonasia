@@ -27,7 +27,7 @@ collection_name: about
 #### **Eye on Asia - Know. Share. Go.**
 
 <div class="resp-container">
-    <iframe class="resp-iframe" src="https://www.youtube.com/embed/0QJvI8X7pW0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe class="resp-iframe" src="https://www.youtube.com/embed/OIsYBDLt1gQ" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
 Navigate the shifts in global economic power to Asia with Eye on Asia’s curated programmes and resources. Tap into the insight of professionals who have ventured into the region.
