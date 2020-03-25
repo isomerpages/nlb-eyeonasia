@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Visit our Resource Centre
-permalink: /about/visit-our-resource-centre/
-breadcrumb: Visit our Resource Centre
+title: Visit our Online Resources
+permalink: /about/visit-our-online-resources/
+breadcrumb: Visit our Online Resources
 collection_name: about
 ---
 
@@ -55,3 +55,7 @@ To borrow our ebooks on ASEAN countries, China and India from these digital book
 ![Eye on Asia Resource Centre](/images/EOA-Resource-Centre-pic7-1024x682.jpg)
 
 Visit the resource centre during the library’s opening hours between 10.00 am and 9.00 pm from Mondays to Sundays except public holidays. The library will close at 5.00 pm on the eves of Christmas, New Year and Chinese New Year.
+
+Testing testing. Text. Something like that.
+
+<img src="\images\logo-eoa - Copy.png" alt="resource centre banner" style="width:800px;" />
