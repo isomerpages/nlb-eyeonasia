@@ -59,3 +59,8 @@ Visit the resource centre during the library’s opening hours between 10.00 am 
 Testing testing. Text. Something like that.
 
 <img src="\images\logo-eoa - Copy.png" alt="resource centre banner" />
+
+| Row 1 | Row 2 |
+| ----- | ----- |
+| Row 3 | Row 4 |
+
