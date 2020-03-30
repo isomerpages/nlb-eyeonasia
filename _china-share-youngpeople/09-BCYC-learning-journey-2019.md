@@ -12,11 +12,11 @@ The annual China Learning Journey for selected Business China Youth Chapter (BCY
 
 **This text is reproduced with permission:**
 
-From 7 to 14 December 2019, 19 Business China Youth Chapter (BCYC) members embarked on an 8-day learning journey to the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) where they explored the cities of Shenzhen, Guangzhou and Foshan. 
+*From 7 to 14 December 2019, 19 Business China Youth Chapter (BCYC) members embarked on an 8-day learning journey to the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) where they explored the cities of Shenzhen, Guangzhou and Foshan.* 
 
-Accompanied by the winning team from Business China Youth Showdown 2019, they visited a diverse set of companies ranging from traditional industries such as manufacturing and real estate to new emerging economies such as artificial intelligence (AI). Participants had the privilege of learning the business models, best practices of these corporations and gaining valuable insights on how Singapore may tap on the region’s exceptional growth to enhance bilateral partnerships and cooperation.
+*Accompanied by the winning team from Business China Youth Showdown 2019, they visited a diverse set of companies ranging from traditional industries such as manufacturing and real estate to new emerging economies such as artificial intelligence (AI). Participants had the privilege of learning the business models, best practices of these corporations and gaining valuable insights on how Singapore may tap on the region’s exceptional growth to enhance bilateral partnerships and cooperation.*
 
-[Read more about BCYC’s Winter Learning Journey 2019 to Shenzhen, Guangzhou and Foshan.](https://www.businesschina.org.sg/en/for-youths/bcyc-delegates-explore-vibrant-opportunities-in-the-greater-bay-area/)
+[Read more about BCYC’s Winter Learning Journey 2019 to Shenzhen, Guangzhou and Foshan.](https://www.businesschina.org.sg/en/for-youths/bcyc-delegates-explore-vibrant-opportunities-in-the-greater-bay-area/){:target="_blank"}
 
 **About Business China Youth Chapter**
 
