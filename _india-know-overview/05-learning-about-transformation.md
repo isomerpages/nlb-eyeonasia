@@ -44,25 +44,31 @@ This book traces the prospects and challenges of growth and transformation of As
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/The-Outsourcer-The-story-of-India’s-IT-revolution-–-History-of-Computing.png" style="width:150px;" />
+<img src="/images/book-covers/india-rising-fresh-hopes-new-fears.jpg" style="width:150px;" />
 
-[**The Outsourcer: The story of India’s IT revolution – History of Computing**](https://nlb.overdrive.com/media/E87A0D5E-CA8C-476C-9C58-348FB3BE1AF6){:target="_blank"}
+[**India rising: Fresh hope new fears, my diary of an Indian decade**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202420587){:target="_blank"}
 
-Learn more about the transformation of India’s information technology industry since the foundation of its IT revolution before Independence to its spectacular growth today.
+A decade of Congress Party rule under Manmohan Singh saw several significant events that reverberated throughout India, culminating in the rise of Narendra Modi. Through his connections, Ravi Velloor gained unprecedented access to India’s political circle and key decision-makers. In his book, he insightfully discusses major events and its effect on India’s politics and society in recent years.
 
-Retrieve from OverDrive. *myLibrary* ID is required to access this ebook.
+All rights reserved, Singapore: Straits Times Press, 2016.
 
 <img src="/images/book-covers/Recasting-India-How-entrepreneurship-is-revolutionizing-the-world’s-largest-democracy.png" style="width:150px;" />
 
-[**Recasting India: How entrepreneurship is revolutionizing the world’s largest democracy**](https://nlb.overdrive.com/media/A67AC4CF-7FCB-425B-8004-4A165B0742F9){:target="_blank"}
+[**Wonked!: India in search of an economic ideology**](https://nlb.overdrive.com/media/5202490){:target="_blank"}
 
-The explosion of local businesses across India is drastically changing the country’s politics, upending the caste system and creating a “middle India” full of unprecedented opportunities. Read more on how ordinary, enterprising Indians are redefining the world’s largest democracy.
+More than two decades since India was forces to liberalize its economy, the country has undergone radical transformation. Today, India is at a crossroads. Economist Vivan Sharan breaks down the challenges facing the Indian economy today, and lays down a framework for policymakers and other stakeholders to agree on India’s future paths.
 
-Retrieve from OverDrive. *myLibrary* ID is required to access this ebook.
+ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 ---
 
 ### **You may also like**
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+Digital India: Targeting inclusive growth**](https://pwc.in/assets/pdfs/publications/2017/digital-india-targeting-inclusive-growth.pdf)
+
+As digital innovation continues to disrupt economies and industries, digital technology has touched all aspects of Indian lives. Indian citizens are now more tech-savvy than ever, demanding better quality of services and city governance. How has Digital India transformed people’s lives since its inception in 2014? Find out in this report by PWC India.
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xe0fjTtYXvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
