@@ -12,13 +12,13 @@ This is a selection of resources on discovering India’s history available from
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-rediscovery-of-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/India-3-0.jpg" style="width:150px;" />
 
-[**The rediscovery of India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13372721){:target="_blank"}
+[**India 3.0: The rise of a billion people**](https://nlb.overdrive.com/media/4607541){:target="_blank"}
 
-This book looks at India’s journey into the 21st century. It covers topics such as India’s commitment to the democratic process and the liberalisation of its economy.
+Professor Arun Tiwari analyses the three watersheds in Indian history – Independence (India 1.0), Liberalization (India 2.0), and Demonetization (India 3.0). Tracing the path and trajectory of India’s destiny, get a deeper understanding of India’s aspirations.
 
-All rights reserved, Allen Lane, an imprint of Penguin Books, 2009.
+ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/book-covers/The-story-of-India.jpg" style="width:150px;" />
 
@@ -30,59 +30,56 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/book-covers/India-A-short-history.jpg" style="width:150px;" />
 
-[**India: A short history**](https://nlb.overdrive.com/media/1940023){:target="_blank"}
+[**India: A short history**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203931980){:target="_blank"}
 
 This book takes the reader through India’s history, from the time of the early Indus Valley civilisation from 2600 to1900 BCE to becoming the world’s largest democracy in contemporary times.
 
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+All rights reserved, London: Thames & Hudson, 2019.
 
-<img src="/images/book-covers/India-A-wounded-civilization.jpg" style="width:150px;" />
+<img src="/images/book-covers/india-after-ghandi.png" style="width:150px;" />
 
-[**India: A wounded civilization**](https://nlb.overdrive.com/media/507447){:target="_blank"}
+[**India after Ghandi: The history of the world’s
+largest democracy**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203982146){:target="_blank"}
 
-Author V. S. Naipaul returned to India, the land of his ancestors, in 1975. Drawing from the time he spent there, Naipaul wrote this novel about a society that went through centuries of imperialism and is trapped in a mythical past.
+Dealing with politics, economics, religion, language, caste and gender, this book gives a definitive history of post-partition India, providing insights into the lives of India’s citizens. Get a historical understanding of the nation up to the rise of Narendra Modi with this deeply informative title.
 
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+ All rights reserved, New York: HarperCollins, 2019.
 
-<img src="/images/book-covers/Imagining-India-The-idea-of-a-nation-renewed.jpg" style="width:150px;" />
+<img src="/images/book-covers/incarnations-india-in-50-lives.jpg" style="width:150px;" />
 
-[**Imagining India: The idea of a nation renewed**](https://nlb.overdrive.com/media/224561){:target="_blank"}
+[**Incarnations: A history of India in fifty lives**](https://nlb.overdrive.com/media/2607007){:target="_blank"}
 
-What are the main ideas that have impacted India’s past and present? In this regard, how will India, as a global power, avoid the mistakes encountered in earlier development models? The author, Nandan Nilekani, a co-founder of Infosys, addresses these questions and discusses India’s future and its role in the world.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/book-covers/India-rising-Tales-from-a-changing-nation.jpg" style="width:150px;" />
-
-[**India rising: Tales from a changing nation**](https://nlb.overdrive.com/media/863969){:target="_blank"}
-
-Formerly a “lumbering elephant of Asia”, India’s economy is growing fast. What are the factors contributing to India’s rise? What makes the country tick? This book describes how India’s progress into the 21st century, while filled with tensions and uncertainties, is full of hope and optimism. With over 500 million Indians below the age of 25, the country’s future will be determined by its youth.
+Indian scholar Sunil Khilnani briefly examines fifty historical personalities, elucidating India’s historical narrative through their lives and their stories. Engaging and educational, this book informs us, while provoking contemporary questions today.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+
+<img src="/images/book-covers/india-china-and-the-world.jpg" style="width:150px;" />
+
+[**India, China, and the world: A connected history**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203229447){:target="_blank"}
+
+Examining India-China relations in the broader context of Asian and world history, this book provides a completely new perspective to view India’s history from the third century BCE, up to recent developments in China’s Belt and Road Initiative. Tansen Sen’s study on India-China relations sheds light on the transnational politics of the two nations today.
+
+All rights reserved, Lanham, Maryland: Rowman & Littlefield, 2017.
 
 ---
 
 ### **You may also like**
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bGieu3B-F-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-**Indian economy: Past, present and future**
+[**India - History**](https://www.britannica.com/place/India/History){:target="_blank"}
 
-This video looks at the economic history of India after gaining independence in 1947. It looks at the factors that influenced earlier economic policies and its development into one of the world’s fastest-growing and largest economies. It also looks at what the future holds for the country.
-
-Source: Charging Point
+Encyclopaedia Britannica gives a comprehensive, factual history of India, from its prehistoric period up to recent years, covering the history of India’s governance and major events.
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QdePQJJNlcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ydDAFlXyJO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**History of India in 10 minutes**
+**History of India in 14 minutes**
 
-This video outlines the history of India from the Indus Valley civilisations to the first Indian to land on the moon. It also traces the rise and fall of the various empires that have ruled India over the years, up to the post-independence period.
+This video outlines the history of India from the Indus Valley civilisation up to India’s age of space exploration. It also traces the rise and fall of the various empires that have ruled India over the years.
 
-Source: Knowledgia
+Source: VC3 Productions
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MjISa9_wYLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
