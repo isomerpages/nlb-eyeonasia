@@ -30,7 +30,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/book-covers/India-A-short-history.jpg" style="width:150px;" />
 
-[**India: A short history**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=20391980){:target="_blank"}
+[**India: A short history**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203931980){:target="_blank"}
 
 This book takes the reader through India’s history, from the time of the early Indus Valley civilisation from 2600 to1900 BCE to becoming the world’s largest democracy in contemporary times.
 
@@ -53,7 +53,7 @@ Indian scholar Sunil Khilnani briefly examines fifty historical personalities, e
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/India-rising-Tales-from-a-changing-nation.jpg" style="width:150px;" />
+<img src="/images/book-covers/india-china-and-the-world.jpg" style="width:150px;" />
 
 [**India, China, and the world: A connected history**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203229447){:target="_blank"}
 

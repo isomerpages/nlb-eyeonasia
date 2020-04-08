@@ -52,7 +52,7 @@ A decade of Congress Party rule under Manmohan Singh saw several significant eve
 
 All rights reserved, Singapore: Straits Times Press, 2016.
 
-<img src="/images/book-covers/Recasting-India-How-entrepreneurship-is-revolutionizing-the-world’s-largest-democracy.png" style="width:150px;" />
+<img src="/images/book-covers/wonked-india-in-search-of-economic-ideology.jpg" style="width:150px;" />
 
 [**Wonked!: India in search of an economic ideology**](https://nlb.overdrive.com/media/5202490){:target="_blank"}
 
@@ -66,7 +66,7 @@ More than two decades since India was forces to liberalize its economy, the coun
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-Digital India: Targeting inclusive growth**](https://pwc.in/assets/pdfs/publications/2017/digital-india-targeting-inclusive-growth.pdf)
+[**Digital India: Targeting inclusive growth**](https://www.pwc.in/assets/pdfs/publications/2017/digital-india-targeting-inclusive-growth.pdf)
 
 As digital innovation continues to disrupt economies and industries, digital technology has touched all aspects of Indian lives. Indian citizens are now more tech-savvy than ever, demanding better quality of services and city governance. How has Digital India transformed people’s lives since its inception in 2014? Find out in this report by PWC India.
 

@@ -65,12 +65,12 @@ The Western concept of getting internships before plunging into the job market i
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**What do Indian millennials aspire?**](https://www.forbesindia.com/blog/finance/what-do-indian-millenials-aspire/){:target="_blank"}
+[**What do Indian millennials aspire?**](https://www.forbesindia.com/blog/technology/what-do-indian-millennials-aspire/){:target="_blank"}
 
 Millennials in India may be digital natives and early fintech adopters, but remain traditional in some money matters. Who are they and what do they aspire towards? BankBazaar surveyed more than 1,500 millennials in India to understand their aspirations through the lens of money management. Find out what they learn here.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**India consumer close-up: Tapping the spending power of a young, connected urban mass**](http://www.goldmansachs.com/our-thinking/pages/macroeconomic-insights-folder/rise-of-the-india-consumer/report.pdf){:target="_blank"}
+[**India consumer close-up: Tapping the spending power of a young, connected Urban Mass**](http://www.goldmansachs.com/our-thinking/pages/macroeconomic-insights-folder/rise-of-the-india-consumer/report.pdf){:target="_blank"}
 
 “With a young, tech-savvy population, improved education and rapid growth,” India’s consumer market “is deeply tied into mobility and connectivity.” This report proposes that the greatest opportunities in India lie in its emerging urban mass and explores how this can create opportunities in a range of goods and services.
