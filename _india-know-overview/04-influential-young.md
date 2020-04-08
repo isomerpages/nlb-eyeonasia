@@ -47,7 +47,7 @@ All rights reserved, New York, NY: Routledge, 2019.
 
 <img src="/images/book-covers/college-pathways-of-possibility.jpg" style="width:180px;" />
 
-[**College: Pathways of possibility**](https://nlb.overdrive.com/media/3691484)
+[**College: Pathways of possibility**](https://nlb.overdrive.com/media/3691484){:target="_blank"}
 
 What avenues of education are there for the youth in India today? How can an education shape the potential of a student, especially in their employment prospects in India? Find out how post-secondary education in post-millennial India can tap into the rich potential of the Indian youth.
 

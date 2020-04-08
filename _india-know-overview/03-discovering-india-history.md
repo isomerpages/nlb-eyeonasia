@@ -65,6 +65,8 @@ All rights reserved, Lanham, Maryland: Rowman & Littlefield, 2017.
 
 ### **You may also like**
 
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
 [**India - History**](https://www.britannica.com/place/India/History){:target="_blank"}
 
 Encyclopaedia Britannica gives a comprehensive, factual history of India, from its prehistoric period up to recent years, covering the history of India’s governance and major events.

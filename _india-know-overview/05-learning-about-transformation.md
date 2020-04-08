@@ -66,7 +66,7 @@ More than two decades since India was forces to liberalize its economy, the coun
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Digital India: Targeting inclusive growth**](https://www.pwc.in/assets/pdfs/publications/2017/digital-india-targeting-inclusive-growth.pdf)
+[**Digital India: Targeting inclusive growth**](https://www.pwc.in/assets/pdfs/publications/2017/digital-india-targeting-inclusive-growth.pdf){:target="_blank"}
 
 As digital innovation continues to disrupt economies and industries, digital technology has touched all aspects of Indian lives. Indian citizens are now more tech-savvy than ever, demanding better quality of services and city governance. How has Digital India transformed people’s lives since its inception in 2014? Find out in this report by PWC India.
 
