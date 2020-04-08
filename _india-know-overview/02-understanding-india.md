@@ -54,7 +54,7 @@ All rights reserved, Newcastle upon Tyne: Agenda Publishing Limited, 2019.
 
 <img src="/images/book-covers/Superfast-primetime-ultimate-nation-The-relentless-invention-of-modern-India.png" style="width:150px;" />
 
-[**Superfast primetime ultimate nation: The relentless invention of modern India**](https://nlb.overdrive.com/media/3802565){:target="_blank"}
+[**Superfast primetime ultimate nation: The relentless invention of modern India**](https://nlb.overdrive.com/media/2962615){:target="_blank"}
 
 In this title, Adam Roberts, the *Economist*'s former South Asia correspondent, provides vivid insights into the problems and promises of a fast-growing India. He spent five years travelling the length and breadth of the country and interviewing people from all walks of life to understand how India can become a truly great economic power, more influential abroad and stable at home.
 
@@ -66,8 +66,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Ten trends
-that are altering consumer behaviour in India**](https://www.bcg.com/publications/2019/ten-trends-altering-consumer-behavior-india.aspx){:target="_blank"}
+[**Ten trends that are altering consumer behaviour in India**](https://www.bcg.com/publications/2019/ten-trends-altering-consumer-behavior-india.aspx){:target="_blank"}
 
 Traditional spending habits are giving way to a focus on experiences, customized products and time-saving services. This report elaborates on the new trends exhibited by Indian consumers, and poses some key questions for B2C companies to bear in mind.
 
