@@ -98,6 +98,8 @@ collections:
     output: true
   other-uae:
     output: true
+  other-central-asia:
+    output: true
 
 # Resources and pagination
 resources_name: events
