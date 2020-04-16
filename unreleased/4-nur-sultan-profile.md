@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Nur Sultan - A city profile
-permalink: 
+permalink: /other-asian-countries/central-asia/nur-sultan-a-city-profile/
 breadcrumb: Nur Sultan - A city profile
-collection_name: 
+collection_name: other-central-asia
 ---
 
 <img src="\images\test\nur-sultan-profile-test.jpg" alt="Nur Sultan snapshot banner" style="width:800px;" />
