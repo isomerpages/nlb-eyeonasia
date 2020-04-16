@@ -6,7 +6,7 @@ breadcrumb: Working in Central Asia
 collection_name: other-central-asia
 ---
 
-<img src="\images\uae\living-in-uae.jpg" alt="Living in the UAE banner" style="width:800px;" />
+<img src="\images\central-asia\Working in Central Asia.jpg" alt="Working in Central Asia banner" style="width:800px;" />
 
 This is a selection of resources on Working in Central Asia available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers. 
 
