@@ -68,6 +68,33 @@ Central Asia consists of the countries of Kazakhstan, Kyrgyzstan, Tajikistan, Tu
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/other-asian-countries/central-asia/samarkand-a-city-profile/" class="project-link">
+				<img src="/images/central-asia/samarkand-profile-test.jpg" alt="Tashkent Profile" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Samarkand: A city profile</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/other-asian-countries/central-asia/discovering-samarkand/" class="project-link">
+				<img src="/images/central-asia/samarkand-guide-test.jpg" alt="Nur-sultan Guide" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Discovering Samarkand</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/other-asian-countries/central-asia/tashkent-a-city-profile/" class="project-link">
 				<img src="/images/central-asia/tashkent-profile-test.jpg" alt="Tashkent Profile" class="project-image">
 			<div class="project-card">
