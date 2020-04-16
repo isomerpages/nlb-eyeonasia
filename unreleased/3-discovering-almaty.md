@@ -6,7 +6,7 @@ breadcrumb: Discovering Almaty
 collection_name: other-central-asia
 ---
 
-<img src="\images\test\nur-sultan-guide-test.jpg" alt="Nur Sultan guide banner" style="width:800px;" />
+<img src="\images\test\Discovering Almaty.jpg" alt="Almaty guide banner" style="width:800px;" />
 
 This is a selection of resources on Discovering Almaty available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers. 
 
