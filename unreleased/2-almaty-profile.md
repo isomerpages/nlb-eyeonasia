@@ -6,14 +6,14 @@ breadcrumb: Almaty - A city profile
 collection_name: other-central-asia
 ---
 
-<img src="\images\test\Almaty profile.jpg" alt="Almaty profile banner" style="width:800px;" />
+<img src="\images\central-asia\Almaty profile.jpg" alt="Almaty profile banner" style="width:800px;" />
 
 This article provides an overview of Almaty for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
 ### **Key Facts**
 
 - **Country**: Kazakhstan 
-- **Land area:** 810.2 km sq[^1]
+- **Land area:** 682 km sq[^1]
 
 - **Official language:** Kazakh[^2]
 
@@ -21,75 +21,122 @@ This article provides an overview of Almaty for those keen to explore the possib
 
 ### **Introduction**
 
-**Nur-Sultan**, known as **Astana before March 2019**, is the capital city of Kazakhstan. It is located in the north-central part of the country, along the Ishim River, at the junction of the Trans-Kazakhstan and South Siberian railways.[^4] Founded in 1824 as a Russian military outpost, Nur-Sultan became an administrative centre in 1868. Its population had reached 33,000 when it was made an *oblast* (province) in 1939.[^5]
+The largest city in Kazakhstan, Almaty is the scientific, cultural, historical, industrial and financial centre of the country.[^4] Located in southeastern Kazakhstan, it was the former capital of Kazakh Soviet Socialist Republic (1929–91) and of independent Kazakhstan (1991–97). It lies in the northern foothills of the Trans-Ili Alatau at an elevation of 700–900 metres, where the Bolshaya and Malaya Almaatinka rivers emerge onto the plains.[^5]
 
-The city grew in importance during the Soviet period by the government’s Virgin and Idle Lands Campaign from the mid-1950s. In 1961, the city was named Tselinograd, meaning “City of the Virgin Lands” in Russian. There was much new construction and the establishment of various research and higher educational institutions such as teacher training, agriculture, medicine, engineering and construction. Following Kazakhstan’s independence in 1992, the city was known as Aqmola. In 1994, the Kazakh government resolved to transfer the national capital from Almaty to Aqmola, a process that was completed in 1997, and the city’s name was changed to Astana (“Capital City” in Kazakh), the following year.[^6]
+ 
 
-After he took office in 1990, President Nursultan Nazarbayev began spending the country’s oil profits on a drastic expansion and reconstruction of Astana. The government hired Japanese architect Kurokawa Kishō to design the plan for Astana’s new broad avenues and blue and gold buildings, including the Presidential Palace. Nazarbayev also employed British architect Sir Norman Foster to design the new Palace of Peace and Reconciliation, a 62-metre-high pyramid that includes, among other things, a library and an opera house. The city continued to develop rapidly throughout Nazarbayev’s presidency, and, on 20 March 2019, the day after he left office, the city was renamed Nur-Sultan in his honour.[^7]
+Almaty is well known for its institutions of higher education, including Al-Farabi Kazakh National University (founded in 1934), and teacher-training, economics, polytechnic, agricultural and medical institutes. The city houses Kazakhstan’s Academy of Sciences and its many subordinate research institutes, numerous museums, an opera house, Russian, Kazakh and Uighur theatres as well as the Pushkin State Public Library. Almaty also has a botanical garden, a zoo and several stadiums.[^6]
 
-### **Geography**
+ 
 
-Located in the centre of Kazakhstan, the territory of Nur-Sultan exceeds 722 square kilometres with a population of more than one million. The city consists of three districts – former capital Almaty, Saryaka and Yessil. Situated in the dry steppe zone, which is a sub-zone of dry grass steppes, Nur-Sultan’s climate is sharply continental with cold and long winters and hot, moderately arid summers. Its convenient location in the centre of the Eurasian continent makes Nur-Sultan an economically advantageous transport, communication and logistics centre, described as a “transit bridge” between Europe and Asia.[^8]
+Considered one of the most beautiful cities in Kazakhstan, Almata has wide tree-lined streets, numerous parks and orchards against a backdrop of mountains. Kazakhs and Russians constitute the largest proportions of the population, and the remainder comprises Ukrainians, Uighurs, Tatars and Germans.[^7]
+
+ 
+
+Almaty is also known as the city of apple trees. Its mild climate encourages a wide range of apple trees to flourish and is the genetic home of many varieties of apples. Researchers and scientists from all around the world visit the Almaty to learn about the origins of the domestic apple.[^8]
+
 
 ### **Economic Profile**
 
-Nur-Sultan’s metropolitan economy comprises industrial production, transport, communications, trade and construction industries. A leader in construction in Kazakhstan, the capital also leads in the production of building metal products, ready-for-use concrete and concrete building products in the country. After gaining its metropolitan status, 10 million square metres of housing were built in the city.[^9]  
+Almaty is the economic centre of the country and contributes significantly to the development of Kazakhstan. The gross regional domestic product (GRDP) in 2018 amounted to 7.5 trillion tenge, an increase of 2.6 percent compared to 2017. The manufacturing industry made up about 75.4 percent of the GRDP, with an output of 666.9 billion tenge, which was 4.8 percent more than in 2017. In 2018, industries dealing with textiles, finished metal products, as well as rubber and plastic products increased their production volumes. There were a total of 274,689 small and medium-sized enterprises (SMEs) in Almaty as of 1 January 2019. The city also ranks first in terms of the number of people employed in this field.[[i\]](#_edn1)
 
-Facilities such as the Tselinograd car-repair plant, Tsesna-Astyk concern, Tulpar-Talgo LLP passenger-car assembly plant and Eurocopter Kazakhstan Engineering LLP helicopter assembly plant are among the city’s largest enterprises. 
+ 
 
-With a dynamic entrepreneurial culture, the city is home to more than 128,000 small and medium-sized businesses, making it one of the largest business centres in Kazakhstan. 
+Home to the stock exchange and largest banks in the country, Almaty also serves as the centre of commerce for the country. The largest bank in Kazakhstan, Kazkommertsbank, is one of the largest in Central Asia. The country’s stock exchange is the largest in Central Asia and contributes to a large proportion of Kazakhstan’s economy.[[ii\]](#_edn2)
+
+
+
+------
+
+[[i\]](#_ednref1) Over a million tourists, 11.2 thousand new apartments, 20 new industrial enterprises — Development of Almaty. (2019, June 15). *Official Information Source of the Prime Minister of the Republic of Kazakhstan*. Retrieved November 29, 2019, from https://primeminister.kz/en/news/reviews/112-tis-novih-kvartir-svishe-milliona-turistov-20-novih-promishlennih-predpriyatii-kak-razvivaetsya-almaty
+
+ 
+
+[[ii\]](#_ednref2) The bridge between Asia and Europe. (2017). *Explore Almaty*. Retrieved November 29, 2019, from https://www.almaty-kazakhstan.net/
+
+ 
 
 ### **Tourism** 
 
-Nur-Sultan boasts futuristic architecture with a skyline that rivals Dubai’s. The city is also home to educational and cultural institutions, including several universities, an opera, a symphony orchestra, museums and shopping malls.[^10] Nur-Sultan is distinctly modern, thanks to President Nursultan Nazarbayev’s efforts to make it a culturally advanced city in Central Asia. The city has been spending billions of dollars hiring international architects, making Nur-Sultan an interesting site with a unique mix of futuristic architecture and Kazakh flair. It is home to many impressive government buildings, such as the Presidential Palace, Parliament House and Supreme Court.[^11] 
+Nestled between Europe and Asia, Almaty is Kazakhstan’s largest city that is both literally and culturally rich. The city first came to global prominence as one of the many stops on The Silk Road, as merchants crossed countries and continents to trade. Almaty is known as the “Golden Triangle” in Kazakhstan for its trio of major natural attractions – the Kolsai Lakes, Charyn Canyon and Altyn-Emel National Park. Located near the massive Tian Shan Mountain range, Almaty is described as a “majestic city full of surprises, from charming scenic views to luxury shopping experiences.”[[i\]](#_edn1)
 
-Noteworthy tourist spots include the Bayterek, a 97-metre high monument and observation tower completed in 1997. It is meant to embody a Kazakh folk tale about a mythical tree of life and a magic bird of happiness. The height of the tower commemorates the year that Nur-Sultan became the nation’s capital in 1997.[^12]
 
-Unveiled in 2006, the Khan Shatyr is a giant, glowing tent built in the neo-futurist style. Standing at 150 metres, the tent has an enormous 140,000 square metre base. Inside, it houses a park large enough to fit 10 football stadiums. It also has numerous shopping and entertainment venues, a boating river and a mini golf course. Designed by British architect Norman Foster, it is the highest tent structure in the world. During the day, it is entirely flooded with sunlight, while at night, the Khan Shatyr is a site to behold, as it is brilliantly lit up by changing colours.[^13]
+
+------
+
+[[i\]](#_ednref1) Discovering Almaty, Central Asia’s Most Vibrant City. (2019, October 13). *Arabian Gazette.* Retrieved November 29, 2019, from https://arabiangazette.com/photos-discovering-almaty-central-asias-most-vibrant-city/ ; Almaty: Kazakhstan's first capital and the "City of Gardens". (2019, June 23). *Euronews.* Retrieved November 29, 2019, from https://www.euronews.com/2017/06/23/almaty-kazakhstan-s-first-capital-and-the-city-of-gardens
+
+ 
+
+
+
+In 2018, over a million tourists visited the city, of which 365,000 were from Europe, the United States, Russia and Central Asia. The main interest of foreign tourists is ecotourism – mountain hiking and river rafting in summer and skiing in winter. Tourism is a key industry in Almaty and is a major source of foreign exchange earnings and employment for low-skilled workers.[[ii\]](#_edn2) 
+
+
+
+In 2018, 50 percent of all foreign tourists to Kazakhstan visited Almaty. This high number could be attributed to a number of measures taken to develop tourism, including a 72-hour visa-free programme for citizens of China and India who transit through Almaty International Airport.[[iii\]](#_edn3) 
+
+ 
+
+In November 2018, the Tourism and Foreign Affairs Department, together with the Visit Almaty Tourist Information Centre, opened the first tourist hub in Kazakhstan. About 50 international events are also held annually in Almaty. These include the International Jazz Festival, Spirit of Tengri, Star of Asia, Parade of Orchestras, Almaty Koktobe Opera, Apple Fest, Tour of Almaty, Almaty Marathon and Almaty Mount Fest.[[iv\]](#_edn4)
+
+
+
+------
+
+[[i\]](#_ednref1) Discovering Almaty, Central Asia’s Most Vibrant City. (2019, October 13). *Arabian Gazette.* Retrieved November 29, 2019, from https://arabiangazette.com/photos-discovering-almaty-central-asias-most-vibrant-city/ ; Almaty: Kazakhstan's first capital and the "City of Gardens". (2019, June 23). *Euronews.* Retrieved November 29, 2019, from https://www.euronews.com/2017/06/23/almaty-kazakhstan-s-first-capital-and-the-city-of-gardens
+
+ 
+
+[[ii\]](#_ednref2) Over a million tourists, 11.2 thousand new apartments, 20 new industrial enterprises — Development of Almaty. (2019, June 15). *Official Information Source of the Prime Minister of the Republic of Kazakhstan*. Retrieved November 29, 2019, from
+
+https://primeminister.kz/en/news/reviews/112-tis-novih-kvartir-svishe-milliona-turistov-20-novih-promishlennih-predpriyatii-kak-razvivaetsya-almaty
+
+ 
+
+[[iii\]](#_ednref3) Over a million tourists, 11.2 thousand new apartments, 20 new industrial enterprises — Development of Almaty. (2019, June 15). *Official Information Source of the Prime Minister of the Republic of Kazakhstan*. Retrieved November 29, 2019, from
+
+https://primeminister.kz/en/news/reviews/112-tis-novih-kvartir-svishe-milliona-turistov-20-novih-promishlennih-predpriyatii-kak-razvivaetsya-almaty
+
+ 
+
+[[iv\]](#_ednref4) Boteu, S. (2019, April 50). Almaty tourist flow exceeds one million. *Astana Times*. Retrieved November 29, 2019, from
+
+https://astanatimes.com/2019/04/almaty-tourist-flow-exceeds-one-million/
+
+ 
 
 ### **Singapore and Nur-Sultan**
 
-In 2016, trade in services between Singapore and Kazakhstan amounted to $40 million, while total bilateral trade in goods between Singapore and Kazakhstan was valued at $133.6 million in 2017. Singapore's imports from Kazakhstan amounted to $110.7 million, while Singapore's exports to the country stood at $23 million. As of 2016, Kazakhstan's cumulative foreign direct investment in Singapore amounted to $2.5 billion, mainly in the financial and insurance services sector, while Singapore has invested $180 million in Kazakhstan.[^14]
+The Almaty-Singapore Business Forum was held in April 2017 to discuss the FutureChina Advanced Leaders Programme. It focused on opportunities brought about by China’s Belt and Road initiative. The Singapore delegation, led by Minister of State Koh Poh Koon, was in Almaty to understand the roles played by Kazakhstan and Almaty in China’s Silk Road Economic Belt development. 
 
-On 21 November 2019, Singapore and Kazakhstan signed a bilateral investment treaty. The agreement was exchanged by Senior Minister of State for Trade and Industry Koh Poh Koon and Kazakhstan Minister for Investment and Development Zhenis Kassymbek, in the presence of Prime Minister Lee Hsien Loong and Kazakhstan Prime Minister Bakytzhan Sagintayev at the Istana. The treaty sought to support greater investment flows between both countries by protecting the interests of investors from Singapore and Kazakhstan and providing them with more confidence to seize investment opportunities. Another 12 agreements were signed at the Kazakhstan-Singapore Business Forum held at the Shangri-La hotel on the same day.[^15]
+ 
 
-Senior Minister Teo Chee Hean visited Kazakhstan's capital Nur-Sultan on 14 October 2019 and held meetings with the country's leaders. At the meetings, they reaffirmed the warm ties between Singapore and Kazakhstan and welcomed the signing of a free trade agreement between Singapore and the Eurasian Economic Union on 1 Oct 2019. The agreement is expected to strengthen trade and investment links between Singapore, Kazakhstan and the trade bloc, which comprises Kazakhstan, Armenia, Belarus, Kyrgyzstan and Russia. Mr Teo and Kazakhstan's leaders also discussed ways to strengthen cooperation in areas such as civil service transformation and governance, digital economy and financial technology, legal and judicial exchanges, and people-to-people exchanges.[^16]
+Singapore regards Kazakhstan as an important partner, not just in the Central Asia region but also as a potential gateway to China. An important part of the historical Silk Road trade between China and Europe, Almaty is the first stop outside China towards Europe.[[i\]](#_edn1) 
 
-Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of Singapore companies that has made a mark in Kazakhstan. When she was 22, Ms Lee decided to set up a tour consultancy business in Kazakhstan as she was attracted by the immense potential for tourism in what was then considered an “exotic” location in Central Asia. Other Singapore companies in Kazakhstan include education consultancy Educare, urban planning company RSP Architects Planners and Engineers, and coffee and tea manufacturing company Food Empire.[^17]
 
-[^1]: Ministry of National Economy of the Republic of Kazakhstan Statistics Committee. (2019). *Government of Kazakhstan.* Retrieved October 27, 2019, from <http://stat.gov.kz/>{:target="_blank"}
 
-[^2]: The Constitution of the Republic of Kazakhstan. (2019). *Parliament of the Republic of* *Kazakhstan*. Retrieved October 27, 2019, from [http://www.parlam.kz](http://www.parlam.kz/en/constitution){:target="_blank"}
+------
 
-[^3]: Introduction. (2019). *National Bank of Kazakhstan.* Retrieved October 27, 2019, from [https://nationalbank.kz](https://nationalbank.kz/?docid=170&switch=english){:target="_blank"}
+[[i\]](#_ednref1) Speech by MOS Koh Poh Koon at the Almaty-Singapore Business Forum. (2017, April 20). *Ministry of Trade & Industry, Singapore.* Retrieved November 29, 2019, from https://www.mti.gov.sg/Newsroom/Speeches/2017/04/Speech-by-MOS-Koh-Poh-Koon-at-the-Almaty-Singapore-Business-Forum
 
-[^4]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Astana){:target="_blank"}
+ 
 
-[^5]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Astana){:target="_blank"}
+[^1]: Official Statistics. (2019). *Ministry of National Economy of the Republic of Kazakhstan Statistics committee*. Retrieved November 27, 2019, from <http://stat.gov.kz/>{:target="_blank"}
 
-[^6]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Astana){:target="_blank"}
+[^2]: The Constitution of the Republic of Kazakhstan. (2019). *Parliament of the Republic of* *Kazakhstan*. Retrieved November 27, 2019, from [http://www.parlam.kz](http://www.parlam.kz/en/constitution){:target="_blank"}
 
-[^7]: Astana. (2019). *Encyclopaedia Britannica*. Retrieved October 27, 2019, from [https://www.britannica.com](https://www.britannica.com/place/Astana){:target="_blank"}
+[^3]: Introduction. (2019). *National Bank of Kazakhstan.* Retrieved November 27, 2019, from [https://nationalbank.kz](https://nationalbank.kz/?docid=170&switch=english){:target="_blank"}
 
-[^8]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from [http://astana.gov.kz](http://astana.gov.kz/en/news/astana-history/rubrics/206){:target="_blank"}
+[^4]: Over a million tourists, 11.2 thousand new apartments, 20 new industrial enterprises — Development of Almaty. (2019, June 15). *Official Information Source of the Prime Minister of the Republic of Kazakhstan*. Retrieved November 29, 2019, from https://primeminister.kz/en/news/reviews/112-tis-novih-kvartir-svishe-milliona-turistov-20-novih-promishlennih-predpriyatii-kak-razvivaetsya-almaty
 
-[^9]: History of the city. (2019). *Akimat of Nur Sultan.* Retrieved October 27, 2019, from [http://astana.gov.kz](http://astana.gov.kz/en/news/astana-history/rubrics/206){:target="_blank"}
+[^5]: Almaty. (2019). *Encyclopedia Britannica*. Retrieved November 29, 2019, from https://www.britannica.com/place/Almaty-Kazakhstan
 
-[^10]: Cohen, A. (2018, June 18). Kazakhstan's new capital is growing up quick. (2019). *Forbes.* Retrieved October 27, 2019, from [https://www.forbes.com](https://www.forbes.com/sites/arielcohen/2018/06/08/kazakhstans-new-capital-is-growing-up-quick/#1d8a1f991c44){:target="_blank"}
+[^6]: Almaty. (2019). *Encyclopedia Britannica*. Retrieved November 29, 2019, from https://www.britannica.com/place/Almaty-Kazakhstan
 
-[^11]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms){:target="_blank"}
+[^7]: Almaty. (2019). *Encyclopedia Britannica*. Retrieved November 29, 2019, from https://www.britannica.com/place/Almaty-Kazakhstan
 
-[^12]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, from [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms){:target="_blank"}
-
-[^13]: Cross, M. (n.d.). Popular places to visit in Astana. *Times of India.* Retrieved October 27, 2019, fro [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/travel/destinations/Popular-places-to-visit-in-Astana/gs51766296.cms){:target="_blank"}
-
-[^14]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*. Retrieved October 27, 2019, from [https://www.straitstimes.com](https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty){:target="_blank"}
-
-[^15]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*.  Retrieved October 27, 2019, from [https://www.straitstimes.com](https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty){:target="_blank"}
-
-[^16]: Singapore, Kazakhstan reaffirm ties during SM Teo Chee Hean's visit. (2019, October 15). *The Straits Times*. Retrieved October 29, 2019, from [https://www.straitstimes.com](https://www.straitstimes.com/asia/spore-kazakhstan-reaffirm-ties-during-sm-teos-visit){:target="_blank"}
-
-[^17]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved October 27, 2019, from [https://www.todayonline.com](https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan){:target="_blank"}
+[^8]: The bridge between Asia and Europe. (2017). *Explore Almaty*. Retrieved November 29, 2019, from https://www.almaty-kazakhstan.net/
 
 ---
 ### **References**
