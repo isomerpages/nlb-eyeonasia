@@ -12,43 +12,28 @@ This is a selection of resources on Discovering Almaty available from the [NLB c
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Nazarbayev and the making of Kazakhstan.jpg" style="width:180px;" />
+<img src="/images/book-covers/The post socialist city - Continuity and change in urban space and imagery.jpg" style="width:180px;" />
 
-[**Nazarbayev and the making of Kazakhstan**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13201136){:target="_blank"}
+[**The post socialist city: Continuity and change in urban space and imagery**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200160986){:target="_blank"}
 
-For centuries, the tribes of Kazakhstan had been plundered and conquered by foreign invaders. The most ruthless of these were the 20th century leaders of the Soviet Union; however, after its collapse, it was Nursultan Nazarbayev (after whom the city of Nur-Sultan is named), who emerged as the new President of the nation state. This book tells a riveting story of how Kazakhstan has capitalised on its natural resources (including oil) to become one of the great economic success stories of the modern era. 
+Following the collapse of socialism, the cities featured in this book, including Almaty, have undergone changes in their outward appearance, functional composition and symbolic representation. “They have been shattered and reassembled by new political forces and market economies. Yet, the legacy of socialist urban planning and imagination has neither just disappeared, nor did it come to coexist peacefully with the new.” This book explores these transformations from a variety of perspectives. 
 
-All rights reserved, London: Continuum, 2009.
+All rights reserved, Berlin: Jovis Verlag, 2010.
 
-<img src="/images/book-covers/Kazakhstan-Surprises and stereotypes after 20 years of independence.jpg" style="width:180px;" />
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Kazakhstan: Surprises and stereotypes after 20 years of independence**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14301837){:target="_blank"}
+[**The fortress and the frontier: Mobility, culture, and class in Almaty and Astana**](https://search.nlb.gov.sg/Search?query=The%20fortress%20and%20the%20frontier:%20Mobility,%20culture,%20and%20class%20in%20Almaty%20and%20Astana&cont=ejournal){:target="_blank"}
 
-This book seeks to understand the national identity of Kazakhstan, the “newest powerhouse of Asia” and an increasingly successful player on the world stage. “From its President to its painters, poets, economists and entrepreneurs, this is a nation confidently on the move.” 
+This article describes the internal migration processes that have taken place in Kazakhstan during the last 25 years not just as rural-to-urban, but also as small-town-to-large-city and regional-centre-to-capital migration.
 
-All rights reserved, London: Continuum, 2012.
+Retrieved from Ebscohost Business Complete. (myLibrary ID is required to access this database).
 
-<img src="/images/book-covers/The Kazakhstan way.jpg" style="width:180px;" />
-
-[**The Kazakhstan way**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201168828){:target="_blank"}
-
-In the economic, political and social arenas, Kazakhstan is increasingly seen as an example of prosperity, sound management, national – while ethnically diverse – cohesion, and international sagacity befitting its pivotal geo-political position. 
-
-All rights reserved, London: Stacey International, 2008.
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**Kazakhstan's new era**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-Since 1998, a wave of new, sometimes futuristic, construction has transformed Astana (now known as Nur-Sultan), the once-sleepy left bank of the Ishim river that criss-crosses the area. The pace of change has been a testament to the country's tremendous resources-powered economic growth as glittering buildings designed by the likes of renowned British architect Norman Foster sprang up in just a few years.
-
-Retrieved from ProQuest Central. (myLibrary ID is required to access this database).
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**Kazakhstan Tourism Report - Q3 2019**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Kazakhstan Tourism Report – Q3 2019**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
-Kazakhstan is targeting tourism as a key growth area, as the country looks to diversify its sources of income and reduce its reliance on commodities. Under the original 2020 Tourism Development Strategy, the target for inbound travel was set at eight million visitors by 2020 (a target that was achieved in 2018) alongside 270,000 tourism-related jobs. Development of tourism has been divided into several sectors including Nur-Sultan, Heart of Eurasia; Almaty, Free Cultural Zone of Kazakhstan; Revival of the Great Silk Road; Caspian Gates (beach tourism and cultural tourism); and Pearl of Altai (the World of Natural Wonders and ecological tourism).
+Kazakhstan is targeting tourism as a key growth area as the country looks to diversify its sources of income and reduce its reliance on commodities. Development of tourism has been divided into several sectors including Nur-Sultan, Heart of Eurasia; Almaty, Free Cultural Zone of Kazakhstan; Revival of the Great Silk Road; Caspian Gates (beach tourism and cultural tourism); and Pearl of Altai (the World of Natural Wonders and ecological tourism).
 
 Retrieved from ProQuest Central. (myLibrary ID is required to access this database).
 
@@ -56,18 +41,18 @@ Retrieved from ProQuest Central. (myLibrary ID is required to access this databa
 
 <img src="/images/resources/Article 3.jpg" alt="article icon 3" style="width:180px;" />
 
-[**Eco-friendly transportation may be the next big thing in Kazakhstan**](https://caspiannews.com/news-detail/eco-friendly-transportation-may-be-the-next-big-thing-in-kazakhstan-2019-10-4-14/){:target="_blank"}
+[**Almaty tourist flow exceeds one million**](https://astanatimes.com/2019/04/almaty-tourist-flow-exceeds-one-million/){:target="_blank"}
 
-This article reports that traditional diesel buses in Kazakhstan’s city streets could gradually become a thing of the past as officials in Nur-Sultan plan to launch fleets of electric buses to curb air pollution and carbon emissions. Kazakhstan’s second-largest city of one million people may introduce its first fleet of 100 electric buses by the end of this year, according to Altai Kulginov, Nur-Sultan’s mayor.
+The number of tourists to Almaty increased by 11.8 percent to 1.1 million visitors in 2018 – one-fifth of all guests to the country. This increase is said to have come about due to the simplification of the visa regime; creation of tourist infrastructure and new objects of attractions; international events; and the promotion of the city in foreign countries.
 
 <img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:180px;" />
 
-[**Kazakhstan’s capital seeks new role amidst shifting global markets**](https://www.worldfinance.com/markets/kazakhstans-capital-seeks-new-role-amidst-shifting-global-markets){:target="_blank"}
+[**Discovering Almaty: Central Asia’s most vibrant city**](https://arabiangazette.com/photos-discovering-almaty-central-asias-most-vibrant-city/){:target="_blank"}
 
-The city of Nur-Sultan is joining a long list of global financial centres. Although it has much to do to catch up with the likes of London and Frankfurt, it is already making impressive progress. Kazakhstan may not be that well known, as a financial centre or otherwise, but this looks set to change thanks to its central location near Asia, Russia and Europe.
+Nestled between Europe and Asia, Almaty is Kazakhstan’s largest city and is both literally and culturally rich. Known as the “Golden Triangle” of Kazakhstan for its trio of major natural attractions – the Kolsai Lakes, Charyn Canyon and Altyn-Emel National Park, it is a “majestic city full of surprises, from charming scenic views to luxury shopping experiences, there is something that everyone can enjoy.”
 
 <img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;" />
 
-[**Nur-Sultan: "Smart City" pioneer**](https://www.euronews.com/2019/10/17/nur-sultan-smart-city-pioneer){:target="_blank"}
+[**Almaty: Kazakhstan’s first capital and the :City of Gardens.”**](https://www.euronews.com/2017/06/23/almaty-kazakhstan-s-first-capital-and-the-city-of-gardens){:target="_blank"}
 
-The World Tourism Organisation (UNWTO) held its annual global conference in Nur-Sultan, the capital of Kazakhstan in 2019, thanks to the city’s attempts to use technology to improve resident’s lives. Nur-Sultan’s population has tripled since the nineties and the Kazakh capital is relatively young which makes it a lot easier to begin implementing new approaches to develop the urban environment. One example is the city’s mobile application, that in several clicks, gives residents access to more than 75 services in the city - public transport, education, taxes and medical services.
+Almaty is the cultural capital and largest metropolitan area in Kazakhstan. Nestled cosily between mountains, the “city of gardens” attracts plenty of travellers from all over the world.
