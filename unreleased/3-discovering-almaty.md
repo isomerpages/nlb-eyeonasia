@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Discovering Almaty
-permalink: 
+permalink: /other-asian-countries/central-asia/discovering-almaty/
 breadcrumb: Discovering Almaty
-collection_name: 
+collection_name: other-central-asia
 ---
 
 <img src="\images\test\nur-sultan-guide-test.jpg" alt="Nur Sultan guide banner" style="width:800px;" />
