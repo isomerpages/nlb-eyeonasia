@@ -82,9 +82,6 @@ In 2008, the Management Development Institute of Singapore (MDIS) set up its Tas
 
 [^10]: About MDIS Tashkent. (2018). *MDIS Tashkent.* Retrieved August 30, 2019, from [http://www.mdis.uz/](http://www.mdis.uz/about){:target="_blank"}
 
-
-[^17]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved October 27, 2019, from [https://www.todayonline.com](https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan){:target="_blank"}
-
 ---
 ### **References**
 
