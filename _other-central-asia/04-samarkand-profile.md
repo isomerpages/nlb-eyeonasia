@@ -6,7 +6,7 @@ breadcrumb: Samarkand- A city profile
 collection_name: other-central-asia
 ---
 
-<img src="\images\test\samarkand-profile-test.jpg" alt="Samarkand snapshot banner" style="width:800px;" />
+<img src="\images\test\samarkand-profile.jpg" alt="Samarkand snapshot banner" style="width:800px;" />
 
 This article provides an overview of Samarkand for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -27,19 +27,19 @@ Samarkand, the capital and administrative centre of Samarkand Region, is an anci
 
 Samarkand is well connected with an international airport, located near the city centre, and a railway network that connects to many cities in the country. [^2]
 
- 
+
 ### **Demographic profile**
 
 As of January 2019, Samarkand has a population of more than 538,000 people and a gender ratio of 1.07 females to males. More than 40 percent (236,200) of its population are employed and almost half (258,500) are economically active. The majority of its population are employed in the education and agriculture sectors. As with the rest of the country, Uzbek is the main language, although Tajik is also widely used in Samarkand.[^3]
 
- 
+
 ### **Economic profile and key industries** 
 
 After a major political and economic transformation under President Shavkat Mirziyoyev, Uzbekistan is reaping the benefits from reforms implemented in various sectors of the economy and opening up to foreign investors. The Samarkand region is rich in natural resources and is one of the largest producers of cotton, silk and wine in Uzbekistan. Many of its enterprises operate in key economy sectors, which include construction, pharmaceutics, chemical industry, fruit and vegetable processing, foodstuff manufacturing, agriculture, engineering and tourism. Its major industries are agricultural processing, textiles and metals.[^4]
 
 The industrial sector is of great importance to Samarkand, accounting for 43.4 percent of the regional indicator of industrial volume in 2018. Meanwhile, its services sector is dominated by trading and transportation.[^5]
 
- 
+
 ### **Tourism** 
 
 Tourism in Uzbekistan has been growing in recent years after President Shavkat Mirziyoyev took office in 2016. The city of Samarkand, with its ancient mosques, madrasahs (Islamic schools) and mausoleums of historical figures such as the conqueror and ruler of the Timurid dynasty Shuja-ud-din Timur bin Taraghay Barlas, or commonly known as Timur or Tamerlane, is one of the country’s most popular tourist destinations. 
@@ -48,7 +48,7 @@ Tourism in Samarkand is mainly centred on cultural, historical and religious sit
 
 The Bibi-Khanym Mosque is another important historical monument in Samarkand. Built between 1399 and 1404 to commemorate Timur’s wife, it is one of the largest mosques in Central Asia. Other most visited places in Samarkand include pilgrimage sites such as Imam al-Bukhari and Shakhi Zinda memorial complexes.[^6]
 
- 
+
 ### **Singapore and Samarkand** 
 
 In 1996, Singapore’s Bedeil Trading invested more than US$5 million in a joint venture to establish Singapore-Samarkand, an ice-cream manufacturing company. Today, the company’s premium ice-cream sold under the brand name “Dairy Classic” is very popular and well-known in the region.[^7]{:target="_blank"}

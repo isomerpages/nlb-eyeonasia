@@ -6,7 +6,7 @@ breadcrumb: Almaty - A city profile
 collection_name: other-central-asia
 ---
 
-<img src="\images\central-asia\Almaty profile.jpg" alt="Almaty profile banner" style="width:800px;" />
+<img src="\images\central-asia\almaty-profile.jpg" alt="Almaty profile banner" style="width:800px;" />
 
 This article provides an overview of Almaty for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 

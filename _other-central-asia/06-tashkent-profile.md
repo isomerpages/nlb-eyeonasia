@@ -6,7 +6,7 @@ breadcrumb: Tashkent - A city profile
 collection_name: other-central-asia
 ---
 
-<img src="\images\test\tashkent-profile-test.jpg" alt="Tashkent snapshot banner" style="width:800px;" />
+<img src="\images\test\tashkent-profile.jpg" alt="Tashkent snapshot banner" style="width:800px;" />
 
 This article provides an overview of Tashkent for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
