@@ -53,6 +53,6 @@ Nestled between Europe and Asia, Almaty is Kazakhstan’s largest city and is bo
 
 <img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;" />
 
-[**Almaty: Kazakhstan’s first capital and the :City of Gardens.”**](https://www.euronews.com/2017/06/23/almaty-kazakhstan-s-first-capital-and-the-city-of-gardens){:target="_blank"}
+[**Almaty: Kazakhstan’s first capital and the "City of Gardens.”**](https://www.euronews.com/2017/06/23/almaty-kazakhstan-s-first-capital-and-the-city-of-gardens){:target="_blank"}
 
 Almaty is the cultural capital and largest metropolitan area in Kazakhstan. Nestled cosily between mountains, the “city of gardens” attracts plenty of travellers from all over the world.
