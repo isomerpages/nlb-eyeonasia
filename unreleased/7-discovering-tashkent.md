@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Discovering Tashkent
-permalink: 
+permalink: /other-asian-countries/central-asia/discovering-tashkent/
 breadcrumb: Discovering Tashkent
-collection_name: 
+collection_name: other-central-asia
 ---
 
 <img src="\images\test\tashkent-guide-test.jpg" alt="Tashkent guide banner" style="width:800px;" />

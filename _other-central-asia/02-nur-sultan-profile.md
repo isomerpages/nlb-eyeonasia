@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Nur Sultan - A city profile
-permalink: 
+permalink: /other-asian-countries/central-asia/nur-sultan-a-city-profile/
 breadcrumb: Nur Sultan - A city profile
-collection_name: 
+collection_name: other-central-asia
 ---
 
-<img src="\images\test\nur-sultan-profile-test.jpg" alt="Nur Sultan snapshot banner" style="width:800px;" />
+<img src="\images\central-asia\nur-sultan-profile.jpg" alt="Nur Sultan snapshot banner" style="width:800px;" />
 
 This article provides an overview of Nur-Sultan for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 

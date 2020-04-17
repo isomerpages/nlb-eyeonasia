@@ -8,7 +8,7 @@ collection_name: other-uae
 ---
 <img src="/images/uae/uae-banner.jpg" alt="UAE banner" style="width:800px;" />
 
-The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A country with a rich history, its rapid growth, modern infrastructure and future-oriented initiatives make it an attractive nation to live and work in.
+ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A country with a rich history, its rapid growth, modern infrastructure and future-oriented initiatives make it an attractive nation to live and work in.
 
 
 <div>

@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Tashkent - A city profile
-permalink: 
+permalink: /other-asian-countries/central-asia/tashkent-a-city-profile/
 breadcrumb: Tashkent - A city profile
-collection_name: 
+collection_name: other-central-asia
 ---
 
-<img src="\images\test\tashkent-profile-test.jpg" alt="Tashkent snapshot banner" style="width:800px;" />
+<img src="\images\central-asia\tashkent-profile.jpg" alt="Tashkent snapshot banner" style="width:800px;" />
 
 This article provides an overview of Tashkent for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -81,9 +81,6 @@ In 2008, the Management Development Institute of Singapore (MDIS) set up its Tas
 [^9]: Senior Minister Dr Maliki Osman introductory visit to Uzbekistan. (2019, June 6). *In Diplomacy.* Retrieved August 30, 2019, from [http://www.indiplomacy.com/](http://www.indiplomacy.com/2019/06/06/senior-minister-dr-maliki-osman-introductory-visit-to-uzbekistan/) 
 
 [^10]: About MDIS Tashkent. (2018). *MDIS Tashkent.* Retrieved August 30, 2019, from [http://www.mdis.uz/](http://www.mdis.uz/about){:target="_blank"}
-
-
-[^17]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved October 27, 2019, from [https://www.todayonline.com](https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan){:target="_blank"}
 
 ---
 ### **References**
