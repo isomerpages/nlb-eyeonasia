@@ -4,7 +4,7 @@ title: Central Asia
 permalink: /other-asian-countries/central-asia/
 breadcrumb: Central Asia
 collection_name: other-central-asia
-
+image: /images/central-asia/central-asia-banner.jpg
 ---
 <img src="/images/central-asia/central-asia-banner.jpg" alt="central asia banner" style="width:800px;" />
 
