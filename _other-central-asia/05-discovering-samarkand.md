@@ -38,6 +38,6 @@ As part of its structural reforms, Uzbekistan has opened up its economy and is w
 
 <img src="/images/resources/Article 2.jpg" alt="article icon 1" style="width:180px;" />
 
-[**Uzbekistan comes out from the cold **](https://www.asiatimes.com/2019/11/article/uzbekistan-comes-out-of-the-cold/){:target="_blank"}
+[**Uzbekistan comes out from the cold**](https://www.asiatimes.com/2019/11/article/uzbekistan-comes-out-of-the-cold/){:target="_blank"}
 
 Samarkand is described as the “crown jewel of the Silk Road, with its spectacular architecture, exotic cuisine and welcoming natives.” With tourist numbers expected to grow, this article explores the changes that have taken place in Uzbekistan under its new president and its trade and investment climate.
