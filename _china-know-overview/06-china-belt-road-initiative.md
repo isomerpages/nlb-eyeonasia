@@ -4,6 +4,7 @@ title: Belt and Road Initiative
 permalink: /china/know/overview-of-china/belt-road-initiatives/
 breadcrumb: Belt and Road Initiative
 collection_name: china-know-overview
+image: \images\china-overview\belt-and-road-initiative.jpg
 ---
 
 <img src="\images\china-overview\belt-and-road-initiative.jpg" alt="belt road banner" style="width:800px;" />
@@ -13,6 +14,46 @@ The Belt and Road Initiative (known as *yi dai yi lu* in Chinese, which literall
 This is a selection of resources on the Belt and Road Initiative available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
 
 ### **NLB print and digital resources**
+
+<img src="/images/book-covers/The-belt-and-road-initiative.jpg" style="width:150px;" />
+
+[**The belt and road initiative: A pathway towards inclusive globalization**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203864594){:target="_blank"}
+
+According to the author, China's Belt and Road Initiative (BRI) opens up a new era of inclusive globalisation and affords countries the opportunity to collaborate on joint economic governance mechanisms. Tracing the ancient silk roads, the book addresses key issues of the BRI and also includes the Chinese media's interviews with the author on various BRI issues.
+
+All rights reserved, New York: Routledge, 2019.
+
+<img src="/images/book-covers/Routledge-handbook-of-the-Belt-and-Road.jpg" style="width:150px;" />
+
+[**Routledge handbook of the Belt and Road**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203945888){:target="_blank"}
+
+This publication provides an overview of China's reform, opening and formation of the Belt and Road Initiative (BRI). Contributed by leading subject researchers, the chapters in this handbook include the backstory, concept and framework of BRI, a discussion of foreign affairs with Chinese characteristics and case studies of BRI implementation and promotion.
+
+All rights reserved, Abingdon, Oxon: Routledge, 2019
+
+<img src="/images/book-covers/The Belt and Road strategy in international business and administration.jpg" style="width:150px;" />
+
+[**The Belt and Road strategy in international business and administration**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203917554){:target="_blank"}
+
+Targeted at government officials, professionals, researchers and students, this text discusses the impact of BRI on aspects such as international business environment, law, infrastructure investment, regional administration, social responsibility, trade cooperation and transport and logistics.
+
+All rights reserved, Hershey, PA: IGI Global, 2019
+
+<img src="/images/book-covers/The Belt and Road Initiative - Law, economics, and politics.png" style="width:150px;" />
+
+[**The Belt and Road Initiative: Law, economics, and politics**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203787650){:target="_blank"}
+
+The essays contributed by academics and practitioners in this volume provide a legal, economic and political analysis of the Belt and Road Initiative (BRI). Issues covered include BRI-related international economic law and policy issues such as trade facilitation, connectivity, economics and geopolitics of new trade routes, bilateral investment treaties and free trade agreements.
+
+All rights reserved, Boston: Brill Nijhoff, 2018
+
+<img src="/images/book-covers/China's Belt and Road Initiative - Changing the rules of globalization.jpg" style="width:150px;" />
+
+[**China's Belt and Road Initiative: Changing the rules of globalization**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203170552){:target="_blank"}
+
+From this volume, readers will gain a deeper understanding of the impact of the Belt and Road Initiative (BRI) on geopolitical relations, international trade, foreign direct investment and global economic policies. A section on the financial, legal and cultural perspectives on BRI is also included.
+
+All rights reserved,  Switzerland: Palgrave Macmillan, 2018
 
 <img src="/images/book-covers/Chinas-belt-and-road-initiatives.jpg" style="width:150px;" />
 
@@ -86,7 +127,7 @@ The success of China’s grand vision will depend almost entirely on the willing
 
 Read about China’s foreign policy under President Xi Jinping’s rule, which has emboldened China to take an unprecedented lead to galvanise global cooperation under the Belt and Road initiative.
 
-Retrieved from EBSCOHost Academic Search Premier. *(myLibrary ID is required to access this database.)*
+Retrieved from EBSCOHost Academic Search Complete. *(myLibrary ID is required to access this database.)*
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
@@ -94,7 +135,7 @@ Retrieved from EBSCOHost Academic Search Premier. *(myLibrary ID is required to 
 
 This paper analyses the Belt and Road Initiative from the perspectives of economic integration, partnership arrangement and the building of a regional community of common destiny based on shared interests and shared responsibility.
 
-Retrieved from EBSCOHost Academic search premier. *(myLibrary ID is required to access this database.)*
+Retrieved from EBSCOHost Academic Search Complete. *(myLibrary ID is required to access this database.)*
 
 <img src="/images/book-covers/The-journal-of-contemporary-China-Tang-tai-Chung-kuo.png" style="width:150px;" />
 
@@ -109,15 +150,21 @@ All rights reserved, Princeton, NJ: Center for Modern China, 2017.
 
 ### **You may also like**
 
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**China’s Belt and Road Initiative: A guide to market participation**](https://cib.db.com/docs_new/DB_Belt-and-Road_Report.pdf){:target="_blank"}
+
+This white paper provides an overview of the Belt and Road Initiative (BRI) in the context of the global marketplace. It includes case studies of various BRI projects around the world and expansion plans in Europe and South America.
+
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law at the Asia Economic Forum on “The One-Belt One-Road Initiative: Impact and Implications” on 28 August 2017, Lee Kuan Yew School of Public Policy, National University of Singapore**](https://www.mlaw.gov.sg/content/minlaw/en/news/speeches/opening-remarks-by-mr-k-shanmugam--minister-for-home-affairs-and0.html){:target="_blank"}
+[**Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law at the Asia Economic Forum on “The One-Belt One-Road Initiative: Impact and Implications” on 28 August 2017, Lee Kuan Yew School of Public Policy, National University of Singapore**](https://app.mlaw.gov.sg/news/speeches/opening-remarks-by-mr-k-shanmugam--minister-for-home-affairs-and0){:target="_blank"}
 
 What are the possible implications and impact of China’s Belt and Road Initiative (BRI) on Singapore and the world at large? Mr K Shanmugam, Singapore Minister for Home Affairs and Minister for Law, shares his views on BRI within the context of geopolitical trends, history of trade and current global economic climate. Singapore is predicted to reap huge economic gains from the tremendous trade and business opportunities, widespread connectivity and multiplication of investment propagated by the BRI project.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Speech by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security, at the Business China FutureChina Global Forum on 13 July 2017, Shangri-La Hotel, Singapore**](https://www.gov.sg/~/sgpcmedia/media_releases/mcicad/speech/S-20170713-1/attachment/170713_Delivered%20DPM%20Teo%20Speech%20at%20FCGF%202017_Media.pdf){:target="_blank"}
+[**Speech by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security, at the Business China FutureChina Global Forum on 13 July 2017, Shangri-La Hotel, Singapore**](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20170713003/DPM%20Teo%20Speech%20at%20FCGF%202017_Media.pdf){:target="_blank"}
 
 How will Singapore benefit from supporting China’s Belt and Road Initiative? Mr Teo Chee Hean, Singapore’s Deputy Prime Minister and Coordinating Minister for National Security, highlights several lavish bounties that could potentially emerge from Singapore’s bilateral collaboration with China: enhanced physical and digital connectivity, reinforced financial cooperation, strengthened people-to-people connectivity and further solidification of Singapore-China relations.
 
@@ -147,7 +194,7 @@ How can the three main integration projects in the Eurasian landmass — the Eur
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**One Belt, One Road initiative in Central Asia: Implications for competitiveness of Russian economy**](https://www.msm.nl/resources/uploads/2016/09/MSM-WP2016-9.pdf){:target="_blank"}
+[**One Belt, One Road initiative in Central Asia: Implications for competitiveness of Russian economy**](http://web2.msm.nl/RePEc/msm/wpaper/MSM-WP2016-9.pdf){:target="_blank"}
 
 What is the potential impact of China’s Belt and Road Initiative on Russia’s economy? The author posits that while the planned logistics platforms and transport routes to be built in Central Asia could raise mutual trade flow, the introduction of energy infrastructure projects in the same region could affect Russian economy negatively.
 
