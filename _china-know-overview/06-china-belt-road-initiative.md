@@ -79,14 +79,6 @@ Explore how China’s Belt and Road Initiative can help to inject infrastructure
 
 All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2016.
 
-<img src="/images/book-covers/Chinas-one-belt-one-road.png" style="width:150px;" />
-
-[**China’s One Belt, One Road and its overland Central Asian component**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202344085){:target="_blank"}
-
-Running the proposed new Silk Route overland through Central Asia enables Central Asian states to leverage on China’s mega infrastructure network, its economic vibrancy and vast domestic market. Discover the opportunities presented to Central Asian countries under China’s Belt and Road initiative.
-
-All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2015.
-
 <img src="/images/book-covers/Chinas-asian-dream.png" style="width:150px;" />
 
 [**China’s Asian dream: Empire building along the new Silk Road**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202841740){:target="_blank"}
