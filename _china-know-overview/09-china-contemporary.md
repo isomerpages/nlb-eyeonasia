@@ -31,10 +31,6 @@ All rights reserved,  New York: Routledge, 2018
 
 <img src="/images/book-covers/Challenges to China's economic statecraft - A global perspective.jpg" style="width:150px;" />
 
-[**Modern China: Society, culture and literature**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203868566){:target="_blank"}
-
-<img src="/images/book-covers/Modern-China-Society-culture-and-literature.jpg" style="width:150px;" />
-
 [**Challenges to China's economic statecraft: A global perspective**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204038466){:target="_blank"}
 
 This book presents a global perspective of China's economic statecraft, comprising trade, foreign aid, foreign direct investment and sanctions. The collection of essays in this volume addresses the challenges China faces, the success it has achieved in terms of foreign policy objectives and the reception of foreign countries to China's economic statecraft.
