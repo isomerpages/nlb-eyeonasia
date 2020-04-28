@@ -4,6 +4,7 @@ title: Contemporary China
 permalink: /china/know/overview-of-china/contemporary-china/
 breadcrumb: Contemporary China
 collection_name: china-know-overview
+image: \images\china-overview\contemporary-china.jpg
 ---
 
 <img src="\images\china-overview\contemporary-china.jpg" alt="contemporary china banner" style="width:800px;" />
@@ -12,13 +13,45 @@ This is a selection of resources on Contemporary China available from the [NLB c
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Modern-China-Society-culture-and-literature.jpg" style="width:150px;" />
+<img src="/images/book-covers/China and global governance.jpg" style="width:150px;" />
 
-[**Modern China: Society, culture and literature**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203868566){:target="_blank"}
+[**China and global governance**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203862667){:target="_blank"}
 
-Explore China’s transformation since 1978 through this book, which discusses the evolution of China’s demographic profile, cultural identity, marriages, its history of communism, economic reforms and more. It also highlights the social changes taking place in China as reflected in Chinese literature and media.
+The author, a renowned career diplomat, traces the shift in the concept of global governance and presents China's perspective of global governance in promoting the Belt and Road Initiative and in building bilateral and multilateral relations.
 
-All rights reserved, Abingdon, Oxon; New York, NY: Routledge, 2019.
+All rights reserved, Singapore: Cengage Learning Asia Pte Ltd, 2019
+
+<img src="/images/book-covers/China's foreign relations and security dimensions.jpg" style="width:150px;" />
+
+[**China's foreign relations and security dimensions**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203185){:target="_blank"}
+
+China's foreign policy is the focus of discussion in this book, which also examines China's relations with other major powers, India, Russia as well as neighbouring countries. It fleshes out the historical security concerns of China and President Xi’s aspirations for the future.
+
+All rights reserved,  New York: Routledge, 2018
+
+<img src="/images/book-covers/Challenges to China's economic statecraft - A global perspective.jpg" style="width:150px;" />
+
+[**Challenges to China's economic statecraft: A global perspective**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204038466){:target="_blank"}
+
+This book presents a global perspective of China's economic statecraft, comprising trade, foreign aid, foreign direct investment and sanctions. The collection of essays in this volume addresses the challenges China faces, the success it has achieved in terms of foreign policy objectives and the reception of foreign countries to China's economic statecraft.
+
+All rights reserved,  Maryland: Lexington Books, 2019
+
+<img src="/images/book-covers/To get rich is glorious - Challenges facing China's economic reform and opening at forty.jpg" style="width:150px;" />
+
+[**To get rich is glorious: Challenges facing China's economic reform and opening at forty**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204000296){:target="_blank"}
+
+This volume traces China's economic reform over the past 40 years. A compelling story is told of how China's economic reforms have resulted in the country becoming the world's second-largest economy next to the United States and a dominant player in the global trade and investment spheres.
+
+All rights reserved, Washington, D.C.: Brookings Institution Press, 2019
+
+<img src="/images/book-covers/Contemporary China.jpg" style="width:150px;" />
+
+[**Contemporary China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204092245){:target="_blank"}
+
+Readers are introduced to the politics, economy, culture and society of modern China in this book. The structure and role of the Communist Party and government of China are discussed in two chapters. The author also provides an analysis of major developments in China and foreign relations with the global community which impact China's political and economic power.
+
+All rights reserved, London: Macmillan International Higher Education; Red Globe Press, 2019
 
 <img src="/images/book-covers/China-in-the-local-and-global-economy-History-geography-politics-and-sustainability.jpg" style="width:150px;" />
 
@@ -148,22 +181,6 @@ Be inducted into the world of private equity in China through this nail-biting s
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/The-China-challenge-Shaping-the-choices-of-a-rising-power.jpg" style="width:150px;" />
-
-[**The China challenge: Shaping the choices of a rising power**](https://nlb.overdrive.com/media/2308298){:target="_blank"}
-
-Christensen provides a new perspective on US-China relations and shows how China has become a regional leader with sufficient clout to cause instability in East Asia and to make an forceful impact on world economics, politics and security issues.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
-
-[**Let 100 voices speak: How the Internet is transforming China and changing everything**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
-
-Carter reveals how the Internet is enabling creative expression, social engagement and political discourse to flourish via Weibo (the Chinese version of Twitter) and the underground Internet in China.
-
-Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
-
 <img src="/images/book-covers/China-Behind-the-miracle.jpg" style="width:150px;" />
 
 [**China: Behind the miracle**](https://nlb.overdrive.com/media/3013896){:target="_blank"}
@@ -177,22 +194,6 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 [**The Internet, social media and a changing China**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
 
 Gain new insights to the social media revolution which has transformed how Chinese authorities communicate with the public and enabled Chinese citizens to engage with each other, share information and express opinions in the borderless cyberspace.
-
-Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/Unmade-in-China-The-hidden-truth-about-China’s-economic-miracle.jpg" style="width:150px;" />
-
-[**Unmade in China: The hidden truth about China’s economic miracle**](https://nlb.overdrive.com/media/2355728){:target="_blank"}
-
-Haft takes a close look at the US-China trade relationship in this book. He examines how the risks posed by the unregulated manufacturing industry in China has led to increased opportunities in the US, with China shifting from its role as an exporter of “made-in-China” products to becoming a major importer of American goods.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/resources/Database 3.jpg" style="width:180px;" />
-
-[**China’s futures: PRC elites debate economics, politics, and foreign policy**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
-
-Find out how China’s movers and shakers assess the future of China from five angles – economy, politics, communication and the Internet, foreign policy strategy and global power rivalry.
 
 Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
 
@@ -220,27 +221,11 @@ With contributions from mainly Chinese academics from Chinese universities and r
 
 Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**China under Xi Jinping: Its economic challenges and foreign policy initiatives**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
-
-The essays in this book written by leading Chinese scholars in the fields of international relations and political economy discuss the policies enacted by Xi Jinping, China’s current leader and analyse how these policies influence China’s governance, economy and foreign relations strategy.
-
-Retrieved from ProQuest Ebook Central. (*myLibrary* *ID* is required to access this ebook.)
-
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
 [**China update series: China’s new sources of economic growth, volume 1: Reform, resources and climate change**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
 
 Learn about the fallout of China’s demographic changes on its labour force and the factors which have contributed to the decline in China’s total factor productivity and growth in its capital stock from this book.
-
-Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
-
-[**China’s domestic transformation in a global context**](http://eresources.nlb.gov.sg/main/Browse?startsWith=P){:target="_blank"}
-
-Read about the structural transformations occurring in many pockets of China’s domestic economy, from prioritizing government expenditure on education and research and development to energy and financial market reforms. Woven into the discussion is China’s strategy for participation in international trade policy negotiations.
 
 Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this ebook.)
 
@@ -300,17 +285,16 @@ This four-page article details China’s declining fertility levels which began 
 
 Retrieved from EBSCOHost Databases. (*myLibrary* ID is required to access this database.)
 
-<img src="/images/book-covers/Young-China-hand.jpg" style="width:150px;" />
-
-[**Young China hand**](https://nlb.overdrive.com/media/2840905){:target="_blank"}
-
-Be inducted into the world of private equity in China through this nail-biting suspense thriller, which has an Ivy-league educated protagonist from Singapore matching (and losing) wits against his nemesis, a veteran duck farmer-turned CEO in China. Witten by authors who have lived and worked for over a decade in China, this book delivers insights to how real business is done in China.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
 ---
 
 ### **You may also like**
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**The Party leads on everything: China’s changing governance in Xi Jinping’s new era**](https://www.merics.org/en/china-monitor/the-party-leads-on-everything){:target="_blank"}
+
+This report discusses China's state-party governance system under President Xi's administration and examines the role, leadership and social reach of the Chinese Communist Party in shaping China's political process.
+
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
