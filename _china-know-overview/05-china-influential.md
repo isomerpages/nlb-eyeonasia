@@ -4,6 +4,7 @@ title: China’s influential young
 permalink: /china/know/overview-of-china/china-influential-young/
 breadcrumb: China’s influential young
 collection_name: china-know-overview
+image: \images\china-overview\china-influential.jpg
 ---
 
 <img src="\images\china-overview\china-influential.jpg" alt="china influential banner" style="width:800px;" />
