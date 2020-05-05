@@ -12,13 +12,13 @@ This is a selection of resources on India’s future economic growth and opportu
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/India’s-long-road-The-search-for-prosperity.jpg" style="width:150px;" />
+<img src="/images/book-covers/contemporary-india-the-basics.png" style="width:150px;" />
 
-[**India’s long road: The search for prosperity**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202955101){:target="_blank"}
+[**Contemporary India: The basics**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203223770){:target="_blank"}
 
-The foundations of rapid and inclusive economic growth in India are shaky. Economist Vijay Joshi argues that the state, market and private sector must be realigned for India to realise its potential. This book examines all the critical areas and proposes how to do so.
+This book provides readers with a clear and accessible guide through the richness, diversity and complexity of twenty-first century India. It explores the reality of the country's cultural diversity which creates both harmony and tension. Covering issues the country faces both domestically and on the global stage, this book analyzes the political, social, cultural and economic landscapes of India and investigates how the future might look for India.
 
-All rights reserved, New York: Oxford University Press, 2017.
+All rights reserved, Abingdon, Oxon; New York, NY: Routledge, 2018.
 
 <img src="/images/book-covers/Shaping-Indias-future-Essays-in-memory-of-Prof-Abid-Hussain.jpg" style="width:150px;" />
 
@@ -52,21 +52,21 @@ Bimal Jalan’s formidable analysis of the last four decades of India’s econom
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**India’s Future Workforce Trends: Challenges and Drivers**](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=892){:target="_blank"}
+
+This comprehensive 13 page report provides detailed insight into  the challenges and drivers for India’s future workforce.
+
 ---
 
 ### **You may also like**
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
-
-[**Report of the Working Group on FinTech and Digital Banking**](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=892){:target="_blank"}
-
-In July 2016, the Reserve Bank of India set up a Working Group to analyse the aspects of FinTech and its implications on the financial sector. Read the full report here presented in November 2017 and discover India’s take on this recent phenomenon.
-
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Ambitious plan to improve quality of life**](http://www.straitstimes.com/asia/south-asia/ambitious-plan-to-improve-quality-of-life){:target="_blank"}
+[**Open Government Data (OGD), Government of India**](https://data.gov.in/){:target="_blank"}
 
-*The Straits Times* reports on India’s drive to provide all citizens with a decent quality of life, through the use of “smart solutions”. The Indian government has committed to contributing S$10.7 billion to selected projects.
+This Government of India website feature rich data analytics, infographics and visualizations across all key aspects of India’s economy and much more.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
@@ -76,6 +76,12 @@ India’s Ministry of Urban Development set up the Smart Cities Mission to allow
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Startup India**](http://www.startupindia.gov.in/)
+[**Startup India**](http://www.startupindia.gov.in/){:target="_blank"}
 
 This flagship initiative intends to build a strong ecosystem for nurturing innovation and startups in India, to drive sustainable growth and generate large-scale employment opportunities.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Report of the Working Group on FinTech and Digital Banking**](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=892){:target="_blank"}
+
+In July 2016, the Reserve Bank of India set up a Working Group to analyse the aspects of FinTech and its implications on the financial sector. Read the full report here presented in November 2017 and discover India’s take on this recent phenomenon.

@@ -12,22 +12,6 @@ This is a selection of resources on India’s growing consumer market available 
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/India-reloaded-Inside-India’s-resurgent-consumer-market.jpg" style="width:150px;" />
-
-[**India reloaded: Inside India’s resurgent consumer market**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202635660){:target="_blank"}
-
-Based on consumer research, market data, macroeconomic research, popular culture and case studies, this book presents a fresh perspective on the opportunities that the Indian market offers. It gives readers a compelling insight into what makes for success in the complex Indian market, based on the author’s two decades of experience.
-
-All rights reserved, New York: Palgrave Macmillan, 2015.
-
-<img src="/images/book-covers/Yuva-India-Consumption-and-lifestyle-choices-of-a-young-India.jpg" style="width:150px;" />
-
-[**Yuva India: Consumption and lifestyle choices of a young India**](https://nlb.overdrive.com/media/2139323){:target="_blank"}
-
-Drawing on insights collected over a decade, *Yuva India* analyses how young men and women in India approach issues of identity, image, sexuality, spirituality, personal relevance, social connections and community and professional pursuits. Filled with numerous first-person accounts and brand stories, this is an invaluable read for business and brand managers including those who wish to engage with India’s most valuable asset, its youth population.
-
-Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
-
 <img src="/images/book-covers/Six-billion-shoppers-The-revolutionary-new-platforms-that-are-serving-the-world.jpg" style="width:150px;" />
 
 [**Six billion shoppers: The revolutionary new platforms that are serving the world**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202985164){:target="_blank"}
@@ -36,21 +20,29 @@ e-commerce is a growing phenomenon driven by widespread internet adoption, a ris
 
 All rights reserved, New York: St Martin’s Press, 2017.
 
-<img src="/images/book-covers/Consumer-culture-modernity-and-identity.jpg" style="width:150px;" />
+<img src="/images/book-covers/routledge-handbook-of-cultural-and-creative-industries-in-asia.png" style="width:150px;" />
 
-[**Consumer culture, modernity and identity**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200749413){:target="_blank"}
+[**Routledge handbook of cultural and creative industries in Asia**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203822497){:target="_blank"}
 
-This book analyses consumer culture and modernity across three broad themes: lifestyle choices and construction of modern identities; fashion and advertising; and subaltern concerns and moral subjectivities. Peruse interesting chapters on the consumer agency of urban women in India as well as the modernity, consumer culture and construction of urban youth identity in India.
+This handbook book provides a contextualized understanding of the conditions and operation of Asian cultural and creative industries (CCIs), internationalising and de-Westernising our knowledge of CCIs. Covering 12 different societies in Asia including India, this book presents a detailed set of case studies. It is an essential companion for researchers and students in the field of cultural policy, cultural and creative industries, media and cultural studies, and Asian studies in general.
 
-All rights reserved, New Delhi, India: SAGE, 2014.
+All rights reserved, Abingdon, Oxon; New York, NY: Routledge, 2019.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**The trajectory of India’s middle class: Economy, ethics and etiquette**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Consumer culture and shopping decisions: Social positioning of urban middle class in India**](https://eresources.nlb.gov.sg/main/Browse/resource/1111){:target="_blank"}
 
-Over the years, India’s middle class has increased rapidly and is now a significant proportion of the global workforce as well as a substantial market for consumer goods. This ebook focuses on the relationship of the middle class in relation to society, culture and public advocacy while bringing together the diverse lines of arguments by scholars regarding middle class.
+This article addresses critical concerns surrounding shopping decisions of the middle class in Delhi and the National Capital Region. Four factors that influence shopping decisions are extracted: peer pressure, money matters, shopping site, and brand value. These factors are examined across demographics, and the article reflects how shopping decisions, consumption profiles and aspirations are negotiated in reshaping social life.
 
-Retrieved from ProQuest Ebook Central. *myLibrary* ID login is required to access this ebook.
+Retrieved from Proquest Central. *mylibraryID* is required to access this database.
+
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+
+[**Loss Is a Loss, Why Categorize It?: Mental Accounting Across Cultures**](https://search.nlb.gov.sg/Search?query="Loss+is+a+loss+why+categorize+it+mental"&cont=ejournal){:target="_blank"}
+
+Consumers regularly track their expenses and assign them to categories like food, entertainment, and clothing, which is popularly known as mental accounting. This paper shows that consumption biases that result from mental accounting -underconsumption or overconsumption - are not prevalent in Easterners due to their holistic thinking style, whereas Westerners exhibit such biases due to their analytic thinking style.
+
+Retrieved from EBSCOHost Databases. *mylibraryID* is required to access this database.
 
 ---
 
@@ -64,13 +56,18 @@ India is considered one of the key emerging markets for future growth with its e
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**The new Indian: The many facets of a changing consumer**](https://www.bcg.com/publications/2017/marketing-sales-globalization-new-indian-changing-consumer.aspx){:target="_blank"}
+[**McKinsey & Company: Survey: Indian consumer sentiment during the coronavirus crisis**](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/survey-indian-consumer-sentiment-during-the-coronavirus-crisis){:target="_blank"}
 
-This article by the Boston Consulting Group examines the factors that are shaping India’s growing market and suggests that the country’s rising affluence is the biggest driver of increasing consumption. Yet, rising incomes and an evolving Indian society impacts consumer behaviours, spending patterns and in turn, affects how companies position themselves.
+In India, the prevailing sentiment is concern around safety, overall public health, and care for family members. Three weeks into a national lockdown, Indian consumers remain optimistic for a quick economic rebound but are being cautious with their spending and cutting back across most categories. Purchases are increasingly moving online, and consumers are adopting and increasing their usage of digital tools.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**India’s consumer caste system: How globalization has shifted India’s social dynamics**](https://thediplomat.com/2017/04/indias-consumer-caste-system/){:target="_blank"}
+
+This article from The Diplomat examines how globalization has shi ted India’s social dynamics. It examines the stratification of Indian society, economic mobility of Indian citizens, and what this means for Indians.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**A study on changing buying behaviour of Indian customers**](https://www.ripublication.com/gjmmr17/gjmmrv17n_01.pdf){:target="_blank"}
+[**The new Indian: The many facets of a changing consumer**](https://www.bcg.com/publications/2017/marketing-sales-globalization-new-indian-changing-consumer.aspx){:target="_blank"}
 
-This report from the Global Journal of Marketing Management and Research seeks to understand the lifestyle and buying behaviours of Indian consumers whose purchasing pattern has changed considerably in recent years.
-
+This article by the Boston Consulting Group examines the factors that are shaping India’s growing market and suggests that the country’s rising affluence is the biggest driver of increasing consumption. Yet, rising incomes and an evolving Indian society impacts consumer behaviours, spending patterns and in turn, affects how companies position themselves.

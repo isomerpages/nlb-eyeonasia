@@ -12,37 +12,29 @@ This is a selection of resources on India’s business culture available from th
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Doing-business-in-India-A-framework-for-strategic-understanding.jpg" style="width:150px;" />
+<img src="/images/book-covers/doing-business-in-india.jpg" style="width:150px;" />
 
-[**Doing business in India: A framework for strategic understanding**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202355066){:target="_blank"}
+[**Doing business in India**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203982937){:target="_blank"}
 
-This book discusses the cultural and consumer profile of the people of India and how these fit into the macroeconomic context of understanding India. Human resource management practices for successful cross-cultural management of Indian managers and employees, the appropriate types of leadership required for managing the Indian workforce as well as business strategies for both rural and urban markets in India are some of the areas covered.
+Doing Business in India is a comprehensive guide and a must read for anyone who wants to explore all that India’s quickly growing economy (and spending power) has to offer. The authors dive into every significant aspect of the country and explain simply everything you need to know for successfully starting and running a business in India right at your fingertips.
 
-All rights reserved, Amsterdam, Netherlands: Elsevier, 2015
+All rights reserved, All rights reserved, London : Lid Publishing, 2019.
 
-<img src="/images/book-covers/Inaugural-2016-ease-of-doing-business-index-on-attractiveness-to-investors.png" style="width:150px;" />
+<img src="/images/book-covers/indian-managers-and-organizations-boons-and-burdens.jpg" style="width:150px;" />
 
-[**Inaugural 2016 ease of doing business index on attractiveness to investors, business friendliness and competitive policies (EDB index ABC) for 21 sub-national economies of India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203064350){:target="_blank"}
+[**Indian managers and organizations: boons and burdens**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807527){:target="_blank"}
 
-As one of the world’s fastest growing emerging economy, this publication considers three key aspects of doing business in India: (i) Attractiveness to investors, (ii) Business friendliness, and (iii) Competitive policies.
+This book takes a close look into the way Indian managers work, their inner struggles, and forces that shape their behaviour. The volume points to India's ambivalent relationship with modernity, and the consequent difficulty of Indian managers in embracing the imperatives of the corporate world that are largely based on Anglo-Saxon frames.
 
-All rights reserved, Singapore: World Scientific Publishing, 2017.
-
-<img src="/images/book-covers/Investigating-cultural-aspects-in-Indian-organisations-Empirical-evidence.jpg" style="width:150px;" />
-
-[**Investigating cultural aspects in Indian organisations : Empirical evidence**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202667789){:target="_blank"}
-
-The Indian society can be at best described as a combination of multiple cultures, value systems, and socio-political and institutional orientations. Gain a deeper understanding of India’s organisational culture through topics such as human resource management; cross-cultural communication and coaching; cultural similarity; cultural literacy; multiculturalism; generational cultural values; talent acquisition; and knowledge management.
-
-All rights reserved, Cham: Springer, 2015.
+All rights reserved, London; New York:Routledge; Taylor & Francis Group, 2019.
 
 <img src="/images/book-covers/CultureShock-India-A-survival-guide-to-customs-and-etiquette.jpg" style="width:150px;" />
 
-[**India – CultureSmart! The essential guide to customs & culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202729157){:target="_blank"}
+[**CultureShock! India: a survival guide to customs and etiquette**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202729157){:target="_blank"}
 
-India’s population of more than 1.2 billion is as varied and colourful as the spice markets of Old Delhi. Each region and community has its own culture, language and social customs that reflect its unique history and way of life. Learn to navigate the cultural differences of Indian society and be aware of the changes taking place in India, as the country transforms from a developing, third world nation into one of the world’s fastest growing economy.
+This book helps you understand the country with more than 4,000 separate communities and over 300 different languages spoken. Learn to maneuver through the structure and varieties of Indian society, and appreciate the traditions and values that bind the people together despite their differences. Personal anecdotes and practical advice help you avoid cultural misunderstandings and tips facilitate your move to the country. 
 
-All rights reserved, London: Kuperard, 2016.
+All rights reserved, Singapore: Marshall Cavendish, 2016.
 
 <img src="/images/book-covers/Indian-etiquette-A-matter-of-course.png" style="width:150px;" />
 
@@ -62,11 +54,11 @@ All rights reserved, London: Kuperard, 2016.
 
 <img src="/images/book-covers/How-India-works-Making-sense-of-a-complex-corporate-culture.jpg" style="width:150px;" />
 
-[**How India works: Making sense of a complex corporate culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203227357){:target="_blank"}
+[**How India works: Making sense of a complex corporate culture**](https://nlb.overdrive.com/media/4031993){:target="_blank"}
 
-Having a sense of cultural awareness when working abroad plays a key role in success at one’s job. Written by a native author with rich experience in the working culture in India, *How India Works* is a useful guide for those who wish to tackle the nuances and complexities of working in India.
+Based on extensive interviews with corporate leaders - Indians as well as expatriates and repatriates, who offer insider and outsider perspectives on the psyche of the Indian in the workplace - How India Works is a guide to the cultural nuances and complexities of working in India. It will make your life in office a little easier.
 
-All rights reserved, Noida: Haprer Business, 2018
+Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 ---
 
@@ -74,24 +66,18 @@ All rights reserved, Noida: Haprer Business, 2018
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Ease of doing business : An enterprise survey of Indian States**](http://www.niti.gov.in/writereaddata/files/document_publication/EoDB_Report.pdf){:target="_blank"}
+[**Ease of doing business : An enterprise survey of Indian States**](https://niti.gov.in/writereaddata/files/document_publication/EoDB_Single.pdf){:target="_blank"}
 
 The National Institution for Transforming India (NITI Aayog) and IDFC Institute, a research-based think tank, surveyed over 3,000 Indian firms to find out how easy it is to do business in India. After examining the business climate, reforms were proposed to facilitate ease of doing business and create enabling ecosystems.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**India’s best companies to work for 2017**](https://economictimes.indiatimes.com/best_company_2017.cms){:target="_blank"}
+[**India’s best companies to work for 2018**](https://economictimes.indiatimes.com/news/company/best_company_2018){:target="_blank"}
 
-Being touted as a great place to work at is one of the highest accolades a company can hope to receive. Check out this resource that lists the best 100 companies to work for in India. The 2017 edition of the award by *The Economic Times*, an English-language Indian daily newspaper, js now in its 10th year.
+Being touted as a great place to work at is one of the highest accolades a company can hope to receive. Check out this resource that lists the best 100 companies to work for in India. The 2018 edition of the award by *The Economic Times*, an English-language Indian daily newspaper, is now in its 11th year.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Five things I have learned while working in India**](https://www.britishcouncil.org/voices-magazine/five-things-learned-while-working-india){:target="_blank"}
+[**Business culture in India**](https://www.ukibc.com/india-guide/how-india/business-culture/){:target="_blank"}
 
-The writer, who is completing a five-month teaching placement in India through the British Council, shares his experience from his interaction with the people he has met there.
-
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
-
-[**Working in India**](http://www.expatarrivals.com/india/working-in-india){:target="_blank"}
-
-A useful online resource for expatriates planning to live and work in India.
+This website by the UK India Business Council provides a detailed and comprehensive read on the finer points of Indian business etiquette.
