@@ -74,7 +74,7 @@ Retrieved from PressReader. *mylibrary* ID login is required to access this data
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Vikas Khanna | TED Talks India: How my challenges made me who I am**](https://www.ted.com/talks/vikas_khanna_how_my_challenges_made_me_who_i_am ){:target="_blank"}
+[**Vikas Khanna: How my challenges made me who I am**](https://www.ted.com/talks/vikas_khanna_how_my_challenges_made_me_who_i_am){:target="_blank"}
 
 When Vikas Khanna was born, the doctor told his mother he would never walk or run. It was the first of the tough challenges in life that eventually shaped him into the world-famous chef, author and filmmaker he is today. Hear his inspiring story of the three challenges that pushed him to learn who he is and reach for greater things.
 
