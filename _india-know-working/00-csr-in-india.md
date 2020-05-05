@@ -20,7 +20,7 @@ Gain insights on community development and corporate social responsibility in In
 
 All rights reserved, Singapore: Springer, 2017.
 
-<img src="/images/book-covers/Indian-business-Notions-and-practices-of-responsibility.png" style="width:150px;" />
+<img src="/images/book-covers/Indian-business-Notions-and-practices-of-responsibility.jpg" style="width:150px;" />
 
 [**Indian business: Notions and practices of responsibility**](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203126447){:target="_blank"}
 
@@ -30,8 +30,7 @@ All rights reserved, New York: Routledge, 2018.
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Corporate social responsibility and sustainable
-growth in agriculture in India**](https://search.nlb.gov.sg/Search?query=Corporate+Social+Responsibility+Sustainable+Growth+Agriculture+India&cont=ejournal){:target="_blank"}
+[**Corporate social responsibility and sustainable growth in agriculture in India**](https://search.nlb.gov.sg/Search?query=Corporate+Social+Responsibility+Sustainable+Growth+Agriculture+India&cont=ejournal){:target="_blank"}
 
 The intervention by the corporations is said to have huge impact on the socio-economic environment. This study aims to explore the CSR corpus to find out spending patterns of corporations on the agriculture sector as well as possible solutions for infrastructure bottlenecks in the farming sector through CSR interventions.
 

@@ -54,7 +54,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**India’s Future Workforce Trends: Challenges and Drivers**](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=892){:target="_blank"}
+[**India’s Future Workforce Trends: Challenges and Drivers**](https://eresources.nlb.gov.sg/main/Browse/resource/1322){:target="_blank"}
 
 This comprehensive 13 page report provides detailed insight into  the challenges and drivers for India’s future workforce.
 
@@ -84,4 +84,4 @@ This flagship initiative intends to build a strong ecosystem for nurturing innov
 
 [**Report of the Working Group on FinTech and Digital Banking**](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=892){:target="_blank"}
 
-In July 2016, the Reserve Bank of India set up a Working Group to analyse the aspects of FinTech and its implications on the financial sector. Read the full report here presented in November 2017 and discover India’s take on this recent phenomenon.
+In July 2016, the Reserve Bank of India set up a Working Group to analyse the aspects of FinTech and its implications on the financial sector. Read the full report here presented in February 2018 and discover India’s take on this recent phenomenon.

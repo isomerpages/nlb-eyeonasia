@@ -14,7 +14,7 @@ This is a selection of resources on innovation in India available from the [NLB 
 
 <img src="/images/book-covers/india-as-a-pioneer-of-innovation.png" style="width:150px;" />
 
-[**India as a pioneer of innovation**](https://nlb.overdrive.com/media/2854990){:target="_blank"}
+[**India as a pioneer of innovation**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203124335){:target="_blank"}
 
 What does innovation mean to India? Where are the predominant sites of innovation, and under what situations do they work or fail? This book addresses these important questions arising within diverse Indian contexts: informal economy, low-cost settings, large business groups, copyright industries, an evolving pharma sector, social enterprises for the urban poor, and innovations-for-the-millions. It provides critical insights on innovation, including considerations for the highly context-driven innovation project.
 

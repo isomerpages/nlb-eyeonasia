@@ -12,7 +12,7 @@ This is a selection of resources on entrepreneurship available from the [NLB cat
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/the-portfolio-book-of-great-indian-business-stories-riveting-tales-of-famous-business-leaders-and-their-times.jpg.jpg" style="width:150px;" />
+<img src="/images/book-covers/The-portfolio-book-of-great-Indian-business-stories-Riveting-tales-of-famous-business-leaders-and-their-times.jpg" style="width:150px;" />
 
 [**The portfolio book of great Indian business stories: Riveting tales of famous business leaders and their times**](https://nlb.overdrive.com/media/3237361){:target="_blank"}
 
@@ -50,13 +50,13 @@ All rights reserved, India: Penguin Random House, 2019.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Startup stories**](https://www.startupstories.in/){:target="_blank"}
+[**Startup Stories**](https://www.startupstories.in/){:target="_blank"}
 
 Startup Stories aims to foster and empower entrepreneurs to help them build the next big thing, channel their innovation in the right path and make a positive impact on society. They encourage students and entrepreneurs to think big, connect the dots and engage with the global startup community. The goal is for a dynamic and impactful environment that reinforces a feasible and sustainable entrepreneurship ecosystem in India.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**App-based delivery men highlight India’s growing gig economy**](https://www.straitstimes.com/asia/south-asia/app-based-delivery-men-highlight-indias-growing-gig-ecnomy){:target="_blank"}
+[**App-based delivery men highlight India’s growing gig economy**](https://www.straitstimes.com/asia/south-asia/app-based-delivery-men-highlight-indias-growing-gig-economy){:target="_blank"}
 
 This news article reports the booming industry that highlights India’s expanding apps-based gig economy, providing a welcome source of income.
 

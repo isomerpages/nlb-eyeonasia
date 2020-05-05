@@ -18,7 +18,7 @@ This is a selection of resources on India’s business culture available from th
 
 Doing Business in India is a comprehensive guide and a must read for anyone who wants to explore all that India’s quickly growing economy (and spending power) has to offer. The authors dive into every significant aspect of the country and explain simply everything you need to know for successfully starting and running a business in India right at your fingertips.
 
-All rights reserved, All rights reserved, London : Lid Publishing, 2019.
+All rights reserved, London : Lid Publishing, 2019.
 
 <img src="/images/book-covers/indian-managers-and-organizations-boons-and-burdens.jpg" style="width:150px;" />
 
@@ -36,7 +36,7 @@ This book helps you understand the country with more than 4,000 separate communi
 
 All rights reserved, Singapore: Marshall Cavendish, 2016.
 
-<img src="/images/book-covers/Indian-etiquette-A-matter-of-course.png" style="width:150px;" />
+<img src="/images/book-covers/indian-etiquette-a-matter-of-course.jpg" style="width:150px;" />
 
 [**Indian etiquette: A matter of course**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202979495){:target="_blank"}
 

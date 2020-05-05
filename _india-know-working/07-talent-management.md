@@ -30,7 +30,7 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
 <img src="/images/book-covers/talent-management-in-global-organizations-a-cross-country-perspective.png" style="width:150px;" />
 
-[**Talent management in global organizations: a cross-country perspective**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203814964){:target="_blank"}
+[**Talent management in global organizations: A cross-country perspective**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203814964){:target="_blank"}
 
 Read the personal accounts of how India’s best managers came to run influential Indian companies. Learn from their inspiring stories and explore their management styles, philosophies and leadership.
 
@@ -54,7 +54,7 @@ Retrieved from EBSCOhost Databases. *mylibrary* ID login is required to access t
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Leveraging social networking for talent management: An exploratory study of Indian firms**](https://search.nlb.gov.sg/Search?query=people-centric+HRM+practices+in+india&cont=ejournal){:target="_blank"}
+[**Leveraging social networking for talent management: An exploratory study of Indian firms**](https://search.nlb.gov.sg/Search?query=leveraging+social+networking+talent+management+exploratory+study+Indian+firms&cont=ejournal){:target="_blank"}
 
 Utilizing the social capital and social network theories, this research explores and highlights how social networking has been strategically utilized as an effective tool by organizations for employer branding and innovative talent acquisition strategies in India.
 
