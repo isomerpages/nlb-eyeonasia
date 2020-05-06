@@ -16,15 +16,15 @@ This is a selection of resources on innovation in India available from the [NLB 
 
 [**India as a pioneer of innovation**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203124335){:target="_blank"}
 
-What does innovation mean to India? Where are the predominant sites of innovation, and under what situations do they work or fail? This book addresses these important questions arising within diverse Indian contexts: informal economy, low-cost settings, large business groups, copyright industries, an evolving pharma sector, social enterprises for the urban poor, and innovations-for-the-millions. It provides critical insights on innovation, including considerations for the highly context-driven innovation project.
+What does innovation mean to India? Where are the predominant sites of innovation, and under what situations do they work or fail? This book addresses these important questions arising within diverse Indian contexts: informal economy, low-cost settings, large business groups, copyright industries, an evolving pharmaceutical sector, social enterprises for the urban poor, and innovations-for-the-millions. It provides critical insights on innovation, including considerations for the highly context-driven innovation project.
 
 All rights reserved, New Delhi: Oxford University Press, 2017
 
 <img src="/images/book-covers/igniting-innovation-the-tata-way.jpg" style="width:150px;" />
 
-[**Igniting Innovation: The Tata Way**](https://nlb.overdrive.com/media/4617749){:target="_blank"}
+[**Igniting innovation: The Tata way**](https://nlb.overdrive.com/media/4617749){:target="_blank"}
 
-The $100 billion salt-to-software conglomerate Tata Group comprises over 100 companies spread across various business sectors and continents. How does it encourage and enhance innovation in all these companies, fledgling and well-established? This book explores how Tata Innovista, a flagship innovation programme, has fired the imagination of colleagues across Tata companies and has become one of the most inspiring innovation programmes in the group.
+The $100 billion salt-to-software conglomerate Tata Group comprises over 100 companies spread across various business sectors and continents. How does it encourage and enhance innovation in all these companies, both fledgling and well-established? This book explores how Tata Innovista, a flagship innovation programme, has fired the imagination of staff across Tata companies and has become one of the most inspiring innovation programmes in the group.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
@@ -42,11 +42,11 @@ All rights reserved, Singapore: Springer Nature Singapore, 2017.
 
 This title reassesses how social sector organisations create value through innovation archetypes that blend innovation with scaling. The authors also present conceptual models to drive progress in the social sector and tools for defining the future of their organisations. Chapters 3 and 4 highlight two case studies from India on innovation as learning and innovation in support of scaling.
 
-All rights reserved, Stanford, California: Stanford Business Books, an imprint of Stanford University Press, 2017.
+All rights reserved, California: Stanford Business Books, an imprint of Stanford University Press, 2017.
 
 <img src="/images/book-covers/A-Biography-of-innovations-From-birth-to-maturity.jpg" style="width:150px;" />
 
-[**A Biography of innovations: From birth to maturity**](https://nlb.overdrive.com/media/3590640){:target="_blank"}
+[**A biography of innovations: From birth to maturity**](https://nlb.overdrive.com/media/3590640){:target="_blank"}
 
 Bestselling author of *The Case of the Bonsai Manager*, R. Gopalakrishnan explores how concepts turn into ideas, and then become prototypes, models and products in this title. Defining thought as the ancestor of innovation – without thought, there could be no innovation – he explores the impending questions such as “What happens next?” and “How can you take on challenges and keep your ideas relevant?” This is a definitive book on the life cycle of new ideas and transformations.
 
@@ -82,16 +82,16 @@ This Government of India website showcases current and past initiatives and chal
 
 [**Release of the White Paper on India as an Innovation Economy - Role of IP and ICT**](https://ebtc-project.eu/index.php/communication/press-corner/press-releases/327-press-release-other/508-release-of-the-white-paper-on-india-as-an-innovation-economy-role-of-ip-and-ict){:target="_blank"}
 
-This White Paper discussed how India can enhance its global positioning as an innovation hub, bring in investment technology and create quality jobs through well-defined roadmaps/strategies and partnership with the European Union (EU), its Member States and European institutes. 
+This White Paper by the European Business and Technology Centre discusses how India can enhance its global positioning as an innovation hub, bring in investment technology and create quality jobs through well-defined roadmaps/strategies and partnership with the European Union (EU), its Member States and European institutes. 
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**IPO Journal – The official journal of the India Patent Office**](http://www.ipindia.nic.in/journal-patents.htm){:target="_blank"}
 
-The IPO journal details various patents that are applied in India every week. Archives up to the year 2007 are available.
+*IPO Journal* details the various patents that are applied in India every week. Archives up to the year of 2007 are available.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**India Innovation Growth Programme 2.0**](http://www.indiainnovates.in/){:target="_blank"}
 
-In 2007, the India Innovation Growth Programme (IIGP) was launched as a public-private partnership between Government of India’s Department of Science & Technology and Lockheed Martin Corporation with the aim to build an innovation pipeline in India. Since then, the initiative has been revamped with an additional partner, Tata Trusts, and rebranded as IIGP 2.0 in line with the Government of India’s push towards start-ups focussing on innovations with strong societal impact and cutting edge industrial innovations.
+In 2007, the India Innovation Growth Programme (IIGP) was launched as a public-private partnership between the Government of India’s Department of Science & Technology and Lockheed Martin Corporation with the aim of building an innovation pipeline in India. Since then, the initiative has been revamped with an additional partner, Tata Trusts, and rebranded as IIGP 2.0 in line with the Government of India’s push towards start-ups focusing on innovations with strong societal impact and cutting edge industrial innovations.

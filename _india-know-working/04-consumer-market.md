@@ -16,7 +16,7 @@ This is a selection of resources on India’s growing consumer market available 
 
 [**Six billion shoppers: The revolutionary new platforms that are serving the world**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202985164){:target="_blank"}
 
-e-commerce is a growing phenomenon driven by widespread internet adoption, a rising middle class as well as innovative business models to capture the consumer market. Read this practical guide as the author travels through Nigeria, China, India, Southeast Asia, and Latin America looking at e-commerce platforms in these emerging markets with advice on how to seize the massive opportunity from this new business trend.
+E-commerce is a growing phenomenon driven by widespread internet adoption, a rising middle class as well as innovative business models to capture the consumer market. Read this practical guide as the author travels through Nigeria, China, India, Southeast Asia, and Latin America looking at e-commerce platforms in these emerging markets with advice on how to seize the massive opportunity from this new business trend.
 
 All rights reserved, New York: St Martin’s Press, 2017.
 
@@ -24,25 +24,25 @@ All rights reserved, New York: St Martin’s Press, 2017.
 
 [**Routledge handbook of cultural and creative industries in Asia**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203822497){:target="_blank"}
 
-This handbook book provides a contextualized understanding of the conditions and operation of Asian cultural and creative industries (CCIs), internationalising and de-Westernising our knowledge of CCIs. Covering 12 different societies in Asia including India, this book presents a detailed set of case studies. It is an essential companion for researchers and students in the field of cultural policy, cultural and creative industries, media and cultural studies, and Asian studies in general.
+This handbook book provides a contextualised understanding of the conditions and operation of Asian cultural and creative industries (CCIs), internationalising and de-Westernising our knowledge of CCIs. Covering 12 different societies in Asia including India, this book presents a detailed set of case studies. It is an essential companion for researchers and students in the field of cultural policy, cultural and creative industries, media and cultural studies, and Asian studies in general.
 
-All rights reserved, Abingdon, Oxon; New York, NY: Routledge, 2019.
+All rights reserved, New York: Routledge, 2019.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
 [**Consumer culture and shopping decisions: Social positioning of urban middle class in India**](https://eresources.nlb.gov.sg/main/Browse/resource/1111){:target="_blank"}
 
-This article addresses critical concerns surrounding shopping decisions of the middle class in Delhi and the National Capital Region. Four factors that influence shopping decisions are extracted: peer pressure, money matters, shopping site, and brand value. These factors are examined across demographics, and the article reflects how shopping decisions, consumption profiles and aspirations are negotiated in reshaping social life.
+This article addresses critical concerns surrounding shopping decisions of the middle class in Delhi and the National Capital Region. Four factors that influence shopping decisions are extracted and examined across demographics: peer pressure, money matters, shopping site, and brand value. The article reflects how shopping decisions, consumption profiles and aspirations are negotiated in the reshaping of social life.
 
 Retrieved from Proquest Central. *mylibraryID* is required to access this database.
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Loss Is a Loss, Why Categorize It?: Mental Accounting Across Cultures**](https://search.nlb.gov.sg/Search?query="Loss+is+a+loss+why+categorize+it+mental"&cont=ejournal){:target="_blank"}
+[**Loss Is a Loss, Why Categorize It?: Mental Accounting Across Cultures**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
-Consumers regularly track their expenses and assign them to categories like food, entertainment, and clothing, which is popularly known as mental accounting. This paper shows that consumption biases that result from mental accounting -underconsumption or overconsumption - are not prevalent in Easterners due to their holistic thinking style, whereas Westerners exhibit such biases due to their analytic thinking style.
+Consumers regularly track their expenses and assign them to categories like food, entertainment, and clothing, which is popularly known as mental accounting. This paper shows that consumption biases that result from mental accounting -underconsumption or overconsumption - are not prevalent in Easterners due to their holistic thinking style, whereas Westerners exhibit such biases due to their analytical thinking style.
 
-Retrieved from EBSCOHost Databases. *mylibraryID* is required to access this database.
+Retrieved from EBSCOHost research databases. *mylibraryID* is required to access this database.
 
 ---
 
@@ -64,7 +64,7 @@ In India, the prevailing sentiment is concern around safety, overall public heal
 
 [**India’s consumer caste system: How globalization has shifted India’s social dynamics**](https://thediplomat.com/2017/04/indias-consumer-caste-system/){:target="_blank"}
 
-This article from The Diplomat examines how globalization has shi ted India’s social dynamics. It examines the stratification of Indian society, economic mobility of Indian citizens, and what this means for Indians.
+This article from The Diplomat examines how globalisation has shifted India’s social dynamics and impacted consumer spending. It examines the stratification of Indian society, economic mobility of Indian citizens, and what this means for Indians.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 

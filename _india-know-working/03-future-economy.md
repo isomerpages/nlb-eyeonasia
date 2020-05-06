@@ -16,9 +16,9 @@ This is a selection of resources on India’s future economic growth and opportu
 
 [**Contemporary India: The basics**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203223770){:target="_blank"}
 
-This book provides readers with a clear and accessible guide through the richness, diversity and complexity of twenty-first century India. It explores the reality of the country's cultural diversity which creates both harmony and tension. Covering issues the country faces both domestically and on the global stage, this book analyzes the political, social, cultural and economic landscapes of India and investigates how the future might look for India.
+This book provides readers with a clear and accessible guide through the richness, diversity and complexity of twenty-first century India. It explores the reality of the country's cultural diversity which creates both harmony and tension. Covering issues the country faces both domestically and on the global stage, this book analyses the political, social, cultural and economic landscapes of India and investigates how the future might look for the country.
 
-All rights reserved, Abingdon, Oxon; New York, NY: Routledge, 2018.
+All rights reserved, New York: Routledge, 2018.
 
 <img src="/images/book-covers/Shaping-Indias-future-Essays-in-memory-of-Prof-Abid-Hussain.jpg" style="width:150px;" />
 
@@ -56,9 +56,9 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 [**India’s Future Workforce Trends: Challenges and Drivers**](https://eresources.nlb.gov.sg/main/Browse/resource/1322){:target="_blank"}
 
-This comprehensive 13 page report provides detailed insight into  the challenges and drivers for India’s future workforce.
+This comprehensive 13-page report provides detailed insights into the trends, challenges and drivers for the future workforce in India.
 
-Retrieved from JSTOR Database. *myLibrary* ID is required to access this ebook.
+Retrieved from JSTOR Database. *myLibrary* ID is required to access this database.
 
 ---
 
@@ -68,13 +68,13 @@ Retrieved from JSTOR Database. *myLibrary* ID is required to access this ebook.
 
 [**Open Government Data (OGD), Government of India**](https://data.gov.in/){:target="_blank"}
 
-This Government of India website feature rich data analytics, infographics and visualizations across all key aspects of India’s economy and much more.
+This Government of India website features rich data analytics, infographics and visualizations across all key aspects of India’s economy and much more.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Smart Cities Mission, Government of India**](http://smartcities.gov.in/content/){:target="_blank"}
 
-India’s Ministry of Urban Development set up the Smart Cities Mission to allow 100 Indian cities to propose and implement projects aiming to improve their citizen’s lives.
+India’s Ministry of Urban Development set up the Smart Cities Mission to allow 100 Indian cities to propose and implement smart city projects with the aim of improving their citizens' lives.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 

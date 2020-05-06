@@ -30,35 +30,35 @@ All rights reserved, New York: Routledge, 2018.
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Corporate social responsibility and sustainable growth in agriculture in India**](https://search.nlb.gov.sg/Search?query=Corporate+Social+Responsibility+Sustainable+Growth+Agriculture+India&cont=ejournal){:target="_blank"}
+[**Corporate social responsibility and sustainable growth in agriculture in India**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
-The intervention by the corporations is said to have huge impact on the socio-economic environment. This study aims to explore the CSR corpus to find out spending patterns of corporations on the agriculture sector as well as possible solutions for infrastructure bottlenecks in the farming sector through CSR interventions.
+The intervention by corporations is said to have huge impacts on the socio-economic environment. This study aims to explore the corporate social responsibility (CSR) corpus to find out the spending patterns of corporations in the agriculture sector in India as well as possible solutions for infrastructure bottlenecks in the farming sector through CSR interventions.
 
-Retrieved from EBSCOHost Databases. *mylibraryID* is required to access this database.
+Retrieved from EBSCOHost research databases. *mylibraryID* is required to access this database.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
 [**Corporate social responsibility and firm characteristics: Evidence from BSE 500**](http://eresources.nlb.gov.sg/Main/browse/resource/1111){:target="_blank"}
 
-This paper tests the relationship between CSR and different firm characteristics for 500 Indian firms. Results indicate that CSR does not have significant relationship with firm performance measures, but also indicate that younger and levered firms are more active towards CSR in India than their counterparts. Firms with higher equity shareholding are also more aggressive in CSR.
+This paper examines the relationship between corporate social responsibility (CSR) and different firm characteristics for 500 Indian firms. Results indicate that CSR does not have a significant relationship with firm performance measures, but also show that younger and levered firms are more active towards CSR in India than their counterparts. Firms with higher equity shareholding are also more aggressive in CSR.
 
 Retrieved from ProQuest Central. *mylibraryID* is required to access this database.
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**A study of CSR in Indian banks with special reference to State Bank of India**](https://search.nlb.gov.sg/Search?query=study+of+CSR+Indian+banks+with+special+reference+State+Bank+India&cont=ejournal){:target="_blank"}
+[**A study of CSR in Indian banks with special reference to State Bank of India**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
 Through this article, take a closer look at how the State Bank of India played a part to improve community welfare, health, education and agriculture through its various corporate social responsibility activities from 2012 to 2015.
 
-Retrieved from EBSCOHost Databases. *mylibraryID* is required to access this database.
+Retrieved from EBSCOHost research databases. *mylibraryID* is required to access this database.
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Joy of giving at Snapdeal: A case study**](https://search.nlb.gov.sg/Search?query=Joy+giving+Snapdeal+case+study&cont=ejournal){:target="_blank"}
+[**Joy of giving at Snapdeal: A case study**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
 Snapdeal is a technology start-up and one India’s largest e-commerce sites. Learn about how the company rolled out innovative corporate social responsibility interventions without the need to invest huge funds on its corporate social responsibility initiatives.
 
-Retrieved from EBSCOHost Databases. *mylibraryID* is required to access this database.
+Retrieved from EBSCOHost research databases. *mylibraryID* is required to access this database.
 
 ---
 
@@ -68,7 +68,7 @@ Retrieved from EBSCOHost Databases. *mylibraryID* is required to access this dat
 
 [**India National CSR Portal**](https://www.csr.gov.in/){:target="_blank"}
 
-This government website provides comprehensive statistics on CSR in India and other related CSR data.
+This website by the Government of India provides comprehensive statistics on corporate social responsibility (CSR) in the country and other CSR-related data.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 

@@ -16,23 +16,23 @@ This is a selection of resources on India’s business culture available from th
 
 [**Doing business in India**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203982937){:target="_blank"}
 
-Doing Business in India is a comprehensive guide and a must read for anyone who wants to explore all that India’s quickly growing economy (and spending power) has to offer. The authors dive into every significant aspect of the country and explain simply everything you need to know for successfully starting and running a business in India right at your fingertips.
+*Doing Business in India* is a comprehensive guide and a must read for anyone who wants to explore all that India’s rapidly growing economy (and spending power) has to offer. The authors dive into every significant aspect of the country and explain everything you need to know to successfully start and run a business in India.
 
-All rights reserved, London : Lid Publishing, 2019.
+All rights reserved, London: Lid Publishing, 2019.
 
 <img src="/images/book-covers/indian-managers-and-organizations-boons-and-burdens.jpg" style="width:150px;" />
 
 [**Indian managers and organizations: boons and burdens**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807527){:target="_blank"}
 
-This book takes a close look into the way Indian managers work, their inner struggles, and forces that shape their behaviour. The volume points to India's ambivalent relationship with modernity, and the consequent difficulty of Indian managers in embracing the imperatives of the corporate world that are largely based on Anglo-Saxon frames.
+This book takes a close look at the way Indian managers work, their inner struggles, and some of the forces that shape their behaviour. The volume points to India's ambivalent relationship with modernity and the consequent difficulty that Indian managers face in embracing the imperatives of the corporate world that are largely based on Anglo-Saxon frames.
 
-All rights reserved, London; New York:Routledge; Taylor & Francis Group, 2019.
+All rights reserved, New York: Routledge, 2019.
 
 <img src="/images/book-covers/CultureShock-India-A-survival-guide-to-customs-and-etiquette.jpg" style="width:150px;" />
 
 [**CultureShock! India: a survival guide to customs and etiquette**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202729157){:target="_blank"}
 
-This book helps you understand the country with more than 4,000 separate communities and over 300 different languages spoken. Learn to maneuver through the structure and varieties of Indian society, and appreciate the traditions and values that bind the people together despite their differences. Personal anecdotes and practical advice help you avoid cultural misunderstandings and tips facilitate your move to the country. 
+India is a country with more than 4,000 separate communities and over 300 different languages spoken. Gain a deeper understanding of India with this book and learn to manoeuvre through the structure and varieties of Indian society, and appreciate the traditions and values that bind the people together despite their differences. The personal anecdotes and practical advice covered in this book can help you avoid cultural misunderstandings when working or doing business in the country. 
 
 All rights reserved, Singapore: Marshall Cavendish, 2016.
 
@@ -40,7 +40,7 @@ All rights reserved, Singapore: Marshall Cavendish, 2016.
 
 [**Indian etiquette: A matter of course**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202979495){:target="_blank"}
 
-Observe the proper way to behave through this book which covers key aspects of India’s rich culture, from gift giving, presenting a garland and eating with fingers to coping with unfamiliar food and making home visits.
+Observe the proper way to conduct yourself in India through this book, which covers key aspects of India’s rich culture, from gift giving, presenting a garland and eating with fingers to coping with unfamiliar food and making home visits.
 
 All rights reserved, Singapore: Landmark Books, 2017.
 
@@ -56,7 +56,7 @@ All rights reserved, London: Kuperard, 2016.
 
 [**How India works: Making sense of a complex corporate culture**](https://nlb.overdrive.com/media/4031993){:target="_blank"}
 
-Based on extensive interviews with corporate leaders - Indians as well as expatriates and repatriates, who offer insider and outsider perspectives on the psyche of the Indian in the workplace - How India Works is a guide to the cultural nuances and complexities of working in India. It will make your life in office a little easier.
+Based on extensive interviews with corporate leaders- Indians as well as expatriates- who offer insider and outsider perspectives on the psyche of the Indian in the workplace, *How India Works* is a guide to the cultural nuances and complexities of working in India. 
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
@@ -80,4 +80,4 @@ Being touted as a great place to work at is one of the highest accolades a compa
 
 [**Business culture in India**](https://www.ukibc.com/india-guide/how-india/business-culture/){:target="_blank"}
 
-This website by the UK India Business Council provides a detailed and comprehensive read on the finer points of Indian business etiquette.
+This website by the United Kingdom India Business Council provides a detailed and comprehensive read on the finer points of Indian business etiquette for those who are interested to venture to India for work.

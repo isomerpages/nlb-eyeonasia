@@ -16,7 +16,7 @@ This is a selection of resources on inspiring business experiences and figures i
 
 [**Freedom to fail: Lessons from my quest for startup success**](https://nlb.overdrive.com/media/4335716){:target="_blank"}
 
-Shabnam Aggarwal always dreamt of success. Raised in an immigrant Indian family in Silicon Valley, she believed that every entrepreneur could be successful. So she left her job at Merrill Lynch to move to India, starting a company, taking a risk, finding her passion, and making a change in the world. Shabnam gives us a peek into the world of start-ups in India and provides insight into dealing with failure, the challenges of starting a business, and helping us learn from her experience.
+Shabnam Aggarwal always dreamt of success. Raised in an immigrant Indian family in Silicon Valley, she believed that every entrepreneur could be successful. She left her job at Merrill Lynch to move to India, starting a company, taking a risk, finding her passion, and making a change in the world. Shabnam gives us a peek into the world of start-ups in India and provides insights into dealing with failure, the challenges of starting a business, and helping us learn from her experience.
 
 Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
@@ -24,7 +24,7 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
 [**The inheritors: Stories of entrepreneurship and success**](https://nlb.overdrive.com/media/3590726){:target="_blank"}
 
-The Inheritors offers a fascinating behind-the-scenes look at what goes on in Marico, Dabur, Keventers, Berger Paints, Select Group, Antara, Cyril Amarchand Mangaldas, Luxor and Motilal Oswal. The book focuses on culture, family politics, ego battles, business rivalries and more. For the inheritors themselves, some take the businesses to even greater heights while others lead them to doom.
+*The Inheritors* offers a fascinating behind-the-scenes look at what goes on in Indian firms Marico, Dabur, Keventers, Berger Paints, Select Group, Antara, Cyril Amarchand Mangaldas, Luxor and Motilal Oswal. The book focuses on culture, family politics, ego battles, business rivalries and more. For the inheritors themselves, some took the businesses to even greater heights while others led them to doom.
 
 Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
@@ -32,7 +32,7 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
 [**ONGC: The untold story**](https://nlb.overdrive.com/media/4540886){:target="_blank"}
 
-This book is essentially a narrative of ONGC’s early days, how, when and where it was born, what were its labour pains, what was it like in its infancy, and finally how it overcame its teething troubles and growing pains. Learn about India's only public sector company to feature in Fortune's 'Most Admired Energy Companies' list, which overcame the determined opposition mounted by the vested western oil cartels who did not want India to have a national petroleum industry.
+This book is essentially a narrative of ONGC’s early days- How, when and where it was born, what was it like in its infancy, and finally how it overcame its teething troubles and growing pains. Learn about India's only public sector company to feature in Fortune's 'Most Admired Energy Companies' list, which overcame the determined opposition mounted by the vested western oil cartels who did not want India to have a national petroleum industry.
 
 Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
@@ -64,7 +64,7 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
 [**The CEO Magazine (India & South Asia Edition)**](http://eresources.nlb.gov.sg/Main/browse/resource/1323){:target="_blank"}
 
-The CEO Magazine is a source of information, inspiration and motivation for the world’s most successful leaders, executives, investors and entrepreneurs. It delved deep into both the professional and personal lives of business leaders.
+*The CEO Magazine* is a source of information, inspiration and motivation for the world’s most successful leaders, executives, investors and entrepreneurs. It delves deep into both the professional and personal lives of business leaders.
 
 Retrieved from PressReader. *mylibrary* ID login is required to access this database.
 
@@ -82,4 +82,4 @@ When Vikas Khanna was born, the doctor told his mother he would never walk or ru
 
 [**Asian Entrepreneur : 10 Indian Startup Success Stories That Will Inspire You**](https://www.asianentrepreneur.org/10-indian-startup-success-stories-will-inspire/){:target="_blank"}
 
-A showcase of 10 most successful India startups that have revolutionized their respective industries. This new generation of startups have made their presence felt not just in the domestic sphere, but globally as well. A selection of success stories from India’s CEOs that offer insights into their strategies, management and more.
+This article showcases 10 of the most successful India startups that have revolutionised their respective industries. This new generation of startups have made their presence felt not just in the domestic sphere, but globally as well. A selection of success stories from India’s CEOs that offer insights into their strategies, management and more.
