@@ -12,61 +12,61 @@ This is a selection of resources on human resource management in India available
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/skilling-india-challenges-and-opportunities.jpg" style="width:150px;" />
+
+[**Skilling India: Challenges and opportunities**](https://nlb.overdrive.com/media/4300388){:target="_blank"}
+
+This book provides a systematic understanding of the processes of skill formation in India and provides several pathways for enhancing entrepreneurial skills through skill development initiatives. It contributes toward an understanding of the structures and processes of governance and initiatives for enhancing the quality of skilling programmes. Read about various opportunities and challenges of augmenting a multitude of skilled workforces through various skilling initiatives from this book today.
+
+Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
+
+<img src="/images/book-covers/outbound-hiring-how-innovative-companies-are-winning-the-global-war-for-talent.jpg" style="width:150px;" />
+
+[**Outbound hiring: How innovative companies are winning the global war for talent**](https://nlb.overdrive.com/media/5081602){:target="_blank"}
+
+*Outbound Hiring* provides a results-focused strategy that fills your hiring funnel with people that your recruiters and hiring leaders believe are right for the role - thereby dramatically increasing focus, saving time and boosting your efficiency.
+
+Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
+
+<img src="/images/book-covers/talent-management-in-global-organizations-a-cross-country-perspective.png" style="width:150px;" />
+
+[**Talent management in global organizations: A cross-country perspective**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203814964){:target="_blank"}
+
+Read the personal accounts of India’s best managers and find out how they came to run influential Indian companies. Learn from their inspiring stories and explore their management styles, philosophies and leadership.
+
+All rights reserved, Cham: Palgrave Macmillan, 2018.
+
 <img src="/images/book-covers/Human-resource-management-and-the-global-financial-crisis.jpg" style="width:150px;" />
 
 [**Human resource management and the global financial crisis: Evidence from India’s IT/BPO industry**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203071310){:target="_blank"}
 
-How did the Indian IT sector deal with the global financial crisis? What HR and management practices were modified to deal with routine business in times of need? Learn about these and more in this book.
+How did the Indian IT sector deal with the global financial crisis? What human resource and management practices were modified to deal with routine business in times of need? Learn about these and more in this book.
 
-All rights reserved, London: Routledge, Taylor & Francis Group, 2018.
+All rights reserved, London: Routledge, 2018.
 
-<img src="/images/book-covers/Labour-employment-and-economic-growth-in-India.jpg" style="width:150px;" />
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Labour, employment and economic growth in India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202666823){:target="_blank"}
+[**The role of data analytics in talent acquisition and retention with special reference to SMEs in India: A conceptual study.**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
-Trace the patterns of change within and between Indian economic sectors and gain insight into the employment challenges in an economy undergoing rapid growth and transformation.
+This study examines the advantages of applying data analytics in talent acquisition and retention to ensure better organisational performances in India. It presents the challenges in the usage of data analytics, with the development of strategies and approaches for better implementation of the talent techniques in SMEs in general.
 
-All rights reserved, Delhi, India: Cambridge University Press, 2015.
+Retrieved from EBSCOhost research databases. *mylibrary* ID login is required to access this database.
 
-<img src="/images/book-covers/Managing-Human-Resources-in-Asia-Pacific.jpg" style="width:150px;" />
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Managing Human Resources in Asia-Pacific**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200156307){:target="_blank"}
+[**Leveraging social networking for talent management: An exploratory study of Indian firms**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
-This edition in the Global HRM series offers human resource management policies and practices of Asia-Pacific nations that have been characterised by developmental changes and personnel growth. Gain perspective into this increasingly important HR function in these countries. This volume also includes a chapter on human resource management in India.
+Utilising social capital and social network theories, this research explores and highlights how social networking has been strategically utilised as an effective tool by organisations for employer branding and innovative talent acquisition strategies in India.
 
-All rights reserved, New York : Routledge, 2014.
+Retrieved from EBSCOhost research databases. *mylibrary* ID login is required to access this database.
 
-<img src="/images/book-covers/The-executors-How-India’s-best-managers-did-it-right.jpg" style="width:150px;" />
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**The executors: How India’s best managers did it right**](http://nlb.overdrive.com/media/2524721){:target="_blank"}
+[**People-centric HRM practices in India.**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
-Read the personal accounts of how India’s best managers came to run influential Indian companies. Learn from their inspiring stories and explore their management styles, philosophies and leadership.
+This article provides a window to human resource practices,adopted by ten leading organisations in India, that are instrumental in creating a positive employee experience at the workplace. The practices are described along the following overarching themes: talent acquisition, talent management, leading through diversity and inclusion, high-performance culture, employee engagement, rewards and recognition and employer branding.
 
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/book-covers/Developing-tomorrow’s-leaders-today-Insights-from-corporate-India.jpg" style="width:150px;" />
-
-[**Developing tomorrow’s leaders today: Insights from corporate India**](http://nlb.overdrive.com/media/661749){:target="_blank"}
-
-How can Indian managers be high-performing business leaders? Distilled from the experiences of over 100 Indian senior business leaders, learn how leadership and management are practiced in India, and find a roadmap and a systematic approach to cultivating leadership talent for your organisation.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/book-covers/New-models-of-human-resource-management-in-China-and-India.jpg" style="width:150px;" />
-
-[**New models of human resource management in China and India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14602166){:target="_blank"}
-
-Covering a full range of HR management systems and processes, learn how China and India differ in their cultures, and how this affects HR practices. Discover how these two giants converge or diverge within their own unique contexts.
-
-All rights reserved, Bew York : Routledge, 2013.
-
-<img src="/images/book-covers/Corporate-India-and-HR-management-Creating-talent-pipelines-leadership-competencies-and-human-resources.jpg" style="width:150px;" />
-
-[**Corporate India and HR management: Creating talent pipelines, leadership competencies, and human resources**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13873863){:target="_blank"}
-
-What are the cultural contexts and trends in managing human capital in India? Find out how to manage HR challenges and discover opportunities to optimise relations within and between Indian companies.
-
-All rights reserved, Alexandria, Va.: Society for Human Resource Management, 2010.
+Retrieved from EBSCOhost research databases. *mylibrary* ID login is required to access this database.
 
 ---
 

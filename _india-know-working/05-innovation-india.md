@@ -12,6 +12,22 @@ This is a selection of resources on innovation in India available from the [NLB 
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/india-as-a-pioneer-of-innovation.png" style="width:150px;" />
+
+[**India as a pioneer of innovation**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203124335){:target="_blank"}
+
+What does innovation mean to India? Where are the predominant sites of innovation, and under what situations do they work or fail? This book addresses these important questions arising within diverse Indian contexts: informal economy, low-cost settings, large business groups, copyright industries, an evolving pharmaceutical sector, social enterprises for the urban poor, and innovations-for-the-millions. It provides critical insights on innovation, including considerations for the highly context-driven innovation project.
+
+All rights reserved, New Delhi: Oxford University Press, 2017
+
+<img src="/images/book-covers/igniting-innovation-the-tata-way.jpg" style="width:150px;" />
+
+[**Igniting innovation: The Tata way**](https://nlb.overdrive.com/media/4617749){:target="_blank"}
+
+The $100 billion salt-to-software conglomerate Tata Group comprises over 100 companies spread across various business sectors and continents. How does it encourage and enhance innovation in all these companies, both fledgling and well-established? This book explores how Tata Innovista, a flagship innovation programme, has fired the imagination of staff across Tata companies and has become one of the most inspiring innovation programmes in the group.
+
+Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+
 <img src="/images/book-covers/Strategic-marketing-and-innovation-for-Indian-MSMEs.jpg" style="width:150px;" />
 
 [**Strategic marketing and innovation for Indian MSMEs**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203007958){:target="_blank"}
@@ -26,19 +42,11 @@ All rights reserved, Singapore: Springer Nature Singapore, 2017.
 
 This title reassesses how social sector organisations create value through innovation archetypes that blend innovation with scaling. The authors also present conceptual models to drive progress in the social sector and tools for defining the future of their organisations. Chapters 3 and 4 highlight two case studies from India on innovation as learning and innovation in support of scaling.
 
-All rights reserved, Stanford, California: Stanford Business Books, an imprint of Stanford University Press, 2017.
-
-<img src="/images/book-covers/Grassroots-innovation-Minds-on-the-margin-are-not-marginal-minds.jpg" style="width:150px;" />
-
-[**Grassroots innovation: Minds on the margin are not marginal minds**](https://nlb.overdrive.com/media/2854990){:target="_blank"}
-
-Author Professor Anil Gupta was conflicted when he was invited by the Bangladeshi government to help restructure their agricultural sector in 1985. He had noticed how the marginalised farmers were poorly paid for their otherwise unmatched knowledge. The imbalance led him to form the Honey Bee Network, a social and ethical movement bringing together and elevating thousands of grassroots innovators. Read this poignant and personal title on how ordinary folks can bring about innovation.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+All rights reserved, California: Stanford Business Books, an imprint of Stanford University Press, 2017.
 
 <img src="/images/book-covers/A-Biography-of-innovations-From-birth-to-maturity.jpg" style="width:150px;" />
 
-[**A Biography of innovations: From birth to maturity**](https://nlb.overdrive.com/media/3590640){:target="_blank"}
+[**A biography of innovations: From birth to maturity**](https://nlb.overdrive.com/media/3590640){:target="_blank"}
 
 Bestselling author of *The Case of the Bonsai Manager*, R. Gopalakrishnan explores how concepts turn into ideas, and then become prototypes, models and products in this title. Defining thought as the ancestor of innovation – without thought, there could be no innovation – he explores the impending questions such as “What happens next?” and “How can you take on challenges and keep your ideas relevant?” This is a definitive book on the life cycle of new ideas and transformations.
 
@@ -60,40 +68,30 @@ The author offers a systematic approach for a big leap and knowledge advantage t
 
 Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
-<img src="/images/book-covers/Business-thought-leaders-from-India-The-best-ideas-on-innovation-management-strategy-and-leadership.jpg" style="width:150px;" />
-
-[**Business thought leaders from India: The best ideas on innovation, management, strategy, and leadership**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200779202){:target="_blank"}
-
-India is producing a growing percentage of the business world’s influential thinkers as well as business experts in innovative management practices. Check out this title and learn from these masters with cutting-edge business ideas.
-
-All rights reserved, New York: McGraw-Hill Education, 2014.
-
-<img src="/images/book-covers/Startup-capitals-Discovering-the-global-hotspots-of-innovation.jpg" style="width:150px;" />
-
-[**Startup capitals: Discovering the global hotspots of innovation**](https://nlb.overdrive.com/media/2052056){:target="_blank"}
-
-Well-researched and highly insightful, this book presents the engines of innovation and learning points from these startup capitals. Bangalore is featured as one of the Startup capitals.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
 ---
 
 ### **You may also like**
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**MyGov Innovate: MyGov Innovation**](https://innovate.mygov.in/){:target="_blank"}
+
+This Government of India website showcases current and past initiatives and challenges encouraging entrepreneurs and innovators in India to contribute to solving problems and issues today.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Release of the White Paper on India as an Innovation Economy - Role of IP and ICT**](https://ebtc-project.eu/index.php/communication/press-corner/press-releases/327-press-release-other/508-release-of-the-white-paper-on-india-as-an-innovation-economy-role-of-ip-and-ict){:target="_blank"}
+
+This White Paper by the European Business and Technology Centre discusses how India can enhance its global positioning as an innovation hub, bring in investment technology and create quality jobs through well-defined roadmaps/strategies and partnership with the European Union (EU), its Member States and European institutes. 
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**IPO Journal – The official journal of the India Patent Office**](http://www.ipindia.nic.in/journal-patents.htm){:target="_blank"}
+
+*IPO Journal* details the various patents that are applied in India every week. Archives up to the year of 2007 are available.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**India Innovation Growth Programme 2.0**](http://www.indiainnovates.in/){:target="_blank"}
 
-In 2007, the India Innovation Growth Programme (IIGP) was launched as a public-private partnership between Government of India’s Department of Science & Technology and Lockheed Martin Corporation with the aim to build an innovation pipeline in India. Since then, the initiative has been revamped with an additional partner, Tata Trusts and rebranded as IIGP 2.0 in line with the Government of India’s push towards start-ups focussing on innovations with strong societal impact and cutting edge industrial innovations.
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
-[**New Report – Embracing innovation in Government: Global trends 2018**](http://www.oecd.org/gov/innovative-government/innovation2018.htm){:target="_blank"}
-
-In Feb 2018, this report from the OECD Observatory of Public Sector Innovation, in partnership with the UAE’s Mohammed Bin Rashid Centre for Government Innovation was launched. It contains in-depth case studies on three focus areas: (1) Identity, (2) Systems approaches and enablers, and (3) Inclusiveness and vulnerable populations. India’s Aadhaar, the world’s largest biometric identity programme (1.2 billion Indians) is featured for its highly innovative initiative and rapid scaling to access public and private sector services.
-
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
-
-[**Innovation and patents**](https://www.ibef.org/download/Innovation-and-Patents-June-2017.pdf){:target="_blank"}
-
-The June 2017 report by India Equity Brand Foundation provides an overview of India’s achievements in innovation and patents.
+In 2007, the India Innovation Growth Programme (IIGP) was launched as a public-private partnership between the Government of India’s Department of Science & Technology and Lockheed Martin Corporation with the aim of building an innovation pipeline in India. Since then, the initiative has been revamped with an additional partner, Tata Trusts, and rebranded as IIGP 2.0 in line with the Government of India’s push towards start-ups focusing on innovations with strong societal impact and cutting edge industrial innovations.
