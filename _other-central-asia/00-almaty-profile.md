@@ -26,7 +26,7 @@ The largest city in Kazakhstan, Almaty is the scientific, cultural, historical, 
 
 Almaty is well known for its institutions of higher education, including Al-Farabi Kazakh National University (founded in 1934), and teacher-training, economics, polytechnic, agricultural and medical institutes. The city houses Kazakhstan’s Academy of Sciences and its many subordinate research institutes, numerous museums, an opera house, Russian, Kazakh and Uighur theatres as well as the Pushkin State Public Library. Almaty also has a botanical garden, a zoo and several stadiums.[^6]
 
-Considered one of the most beautiful cities in Kazakhstan, Almata has wide tree-lined streets, numerous parks and orchards against a backdrop of mountains. Kazakhs and Russians constitute the largest proportions of the population, and the remainder comprises Ukrainians, Uighurs, Tatars and Germans.[^7]
+Considered one of the most beautiful cities in Kazakhstan, Almaty has wide tree-lined streets, numerous parks and orchards against a backdrop of mountains. Kazakhs and Russians constitute the largest proportions of the population, and the remainder comprises Ukrainians, Uighurs, Tatars and Germans.[^7]
 
 Almaty is also known as the city of apple trees. Its mild climate encourages a wide range of apple trees to flourish and is the genetic home of many varieties of apples. Researchers and scientists from all around the world visit the Almaty to learn about the origins of the domestic apple.[^8]
 
@@ -50,7 +50,7 @@ In 2018, 50 percent of all foreign tourists to Kazakhstan visited Almaty. This h
 In November 2018, the Tourism and Foreign Affairs Department, together with the Visit Almaty Tourist Information Centre, opened the first tourist hub in Kazakhstan. About 50 international events are also held annually in Almaty. These include the International Jazz Festival, Spirit of Tengri, Star of Asia, Parade of Orchestras, Almaty Koktobe Opera, Apple Fest, Tour of Almaty, Almaty Marathon and Almaty Mount Fest.[^14]
 
 
-### **Singapore and Nur-Sultan**
+### **Singapore and Almaty**
 
 The Almaty-Singapore Business Forum was held in April 2017 to discuss the FutureChina Advanced Leaders Programme. It focused on opportunities brought about by China’s Belt and Road initiative. The Singapore delegation, led by Minister of State Koh Poh Koon, was in Almaty to understand the roles played by Kazakhstan and Almaty in China’s Silk Road Economic Belt development. 
 
