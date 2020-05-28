@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /other-asian-countries/overview
+permalink: /other-asian-countries/overview/
 breadcrumb: Overview
 collection_name: other-asian-countries
 ---
