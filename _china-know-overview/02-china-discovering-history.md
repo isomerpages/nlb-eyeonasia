@@ -12,6 +12,30 @@ This is a selection of resources on China’s history and heritage available fro
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/The Penguin history of modern China.jpg" style="width:150px;" />
+
+[**The Penguin history of modern China: The fall and rise of a great power, 1850 to the present**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203812419){:target="_blank"}
+
+Fenby traces the turbulent journey of China over the past 150 years, covering important social and political events such as the Boxer Rebellion (1899-1901), end of the Qing dynasty and establishment of the Republic of China (1911-1912), the Warlord Era (1916-1928), birth of The People's Republic of China (1949), Cultural Revolution (1966 until mid-1970s) and student protests in Tiananmen Square (1989).
+
+All rights reserved, London: Penguin Books, 2019
+
+<img src="/images/book-covers/Modern China - Continuity and change.jpg" style="width:150px;" />
+
+[**Modern China: Continuity and change, 1644 to the present**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204047316){:target="_blank"}
+
+This book provides an in-depth account of China's politics, international relations and military history spanning five centuries. Special focus is placed on the impact of warfare on Chinese history and on the influence of neighbours such as Russia and Japan on China's diplomatic relations.
+
+All rights reserved,  Maryland: Rowman & Littlefield, 2019
+
+<img src="/images/book-covers/Routledge handbook of early Chinese history.jpg" style="width:150px;" />
+
+[**Routledge handbook of early Chinese history**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203158422){:target="_blank"}
+
+This handbook surveys the different dynastic periods of Chinese history, covering warfare and political thought, cities and agriculture, language and art, medicine and mathematics.
+
+All rights reserved, New York: Routledge, Taylor & Francis Group, 2018
+
 <img src="/images/book-covers/The-Oxford-illustrated-history-of-modern-China.jpg" style="width:150px;" />
 
 [**The Oxford illustrated history of modern China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202720632){:target="_blank"}
@@ -59,19 +83,3 @@ All rights reserved, New York: Cambridge University Press, 2015.
 Discover the impressive accomplishments of the ancient Chinese – including their technological wonders and construction feats – by studying China’s rich history, development, daily happenings, culture, art, technology, warfare, and social organisation.
 
 All rights reserved, Minnesota: Essential Library, an imprint of Abdo Publishing, 2015.
-
-<img src="/images/book-covers/30-second-ancient-China.jpg" style="width:150px;" />
-
-[**30-second ancient China**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=F903700B-C309-4C3D-9533-10DDDEBAAAA6){:target="_blank"}
-
-Learn more about one of the great civilisations of the world – China – and 50 of its most important achievements, each explained in half a minute, from the secrets of its Bronze Age to the birth of Confucianism.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/Exemplary-women-of-early-China-The-Lienü-zhuan-of-Liu-Xiang.jpg" style="width:150px;" />
-
-[**Exemplary women of early China: The Lienü zhuan of Liu Xiang**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202834928){:target="_blank"}
-
-Compiled towards the end of the Han dynasty (202 BCE–9 CE) by the Han dynasty scholar Liu Xiang, this book offers rich information about the daily life, rituals, and domestic concerns of women in early China.
-
-All rights reserved, New York: Columbia University Press, 2014

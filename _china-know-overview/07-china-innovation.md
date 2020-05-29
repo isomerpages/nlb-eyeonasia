@@ -12,21 +12,36 @@ This is a selection of resources on China’s history and heritage available fro
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Independent-innovation-in-China-Theory-and-cases.jpg" style="width:150px;" />
+<img src="/images/book-covers/Boredom, shanzhai, and digitisation in the time of creative China.jpg" style="width:150px;" />
 
-[**Independent innovation in China: Theory and cases**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203067495){:target="_blank"}
+[**Boredom, shanzhai, and digitisation in the time of creative China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204001554){:target="_blank"}
 
-Marvel at how independent innovation takes place in China, and gain insights from the experiences of Chinese enterprises such as Huawei and Tencent who have adopted independent innovation and found success.
+Creativity has become a byword of the new China dream. This book examines creativity via the lenses of "boredom, shanzhai and digitisation" along with how digital technology has opened up spaces for expressions and airing of opinion. The compilation of essays in this book are contributed by thinkers, researchers, practitioners and policy-makers.
 
-All rights reserved, Singapore: World Scientific, 2018.
+All rights reserved, Amsterdam: Amsterdam University Press, 2019
 
-<img src="/images/book-covers/Innovation-and-intellectual-property-in-China-Strategies-contexts-and-challenges.jpg" style="width:150px;" />
+<img src="/images/book-covers/China's technology innovators.jpg" style="width:150px;" />
 
-[**Innovation and intellectual property in China: Strategies, contexts and challenges**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201133516){:target="_blank"}
+[**China's technology innovators: Selected cases on creating and staying ahead of business trends**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203197494){:target="_blank"}
 
-This title examines the system of innovation and intellectual property protection in China. It also provides insights into the assumptions and misconceptions regarding the innovation economy in China.
+This book explores how Chinese companies are using digital technologies to innovate their business models. Includes case studies featuring seven Chinese companies: 3DMed, Wechat from Tencent, Shanghai GM, CP Group, Alibaba, AutoNavi, and ICBC.
 
-All rights reserved, Cheltenham: Edward Elgar, 2014.
+All rights reserved, Singapore: Springer, 2018
+
+<img src="/images/book-covers/China's technology innovators.jpg" style="width:150px;" />
+
+[**China's technology innovators: Selected cases on creating and staying ahead of business trends**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203197494){:target="_blank"}
+
+
+
+
+<img src="/images/book-covers/Pioneers, hidden champions, changemakers, and underdogs.jpg" style="width:150px;" />
+
+[**Pioneers, hidden champions, changemakers, and underdogs: Lessons from China's innovators**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203869283){:target="_blank"}
+
+In this book, the authors differentiate four types of innovators in China: pioneers, hidden champions, underdogs and changemakers. They also study the different innovations companies develop, identify six ways in which Chinese entrepreneurs innovate and examine how Chinese innovators such as Alibaba, Haier and Malong Technology are going global.
+
+All rights reserved, Cambridge, Massachusetts: The MIT Press, 2019
 
 <img src="/images/book-covers/China’s-innovation-challenge-Overcoming-the-middle-income-trap.jpg" style="width:150px;" />
 
@@ -43,22 +58,6 @@ All rights reserved, Cambridge: Cambridge University Press, 2016.
 Trace the rise of tech giant Huawei as it beats the odds to become one of the world’s greatest technology companies and marvel at how its dedication to continuous innovation has helped it to overtake incumbent firms and achieve global success.
 
 All rights reserved, New York: McGraw-Hill, 2017.
-
-<img src="/images/book-covers/China’s-disruptors.jpg" style="width:150px;" />
-
-[**China’s disruptors: How Alibaba, Xiaomi, Tencent, and other companies are changing the rules of business**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201651921){:target="_blank"}
-
-How did Alibaba, Xiaomi and Tencent grow from unknown start-ups to the successful enterprises they are today? This title details what drives their founders and how they have attained rapid growth by embracing innovation and change.
-
-All rights reserved, New York: Portfolio / Penguin, 2015
-
-<img src="/images/book-covers/Innovation-and-regional-development-in-China.jpg" style="width:150px;" />
-
-[**Innovation and regional development in China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200169192){:target="_blank"}
-
-Just as China shifts from a manufacturing-based economy, so the pace of innovation and technological development intensifies. Learn about China’s progress in innovation capability and technological advancement and how these, in turn, affect regional developments in the country.
-
-All rights reserved, Abingdon: Routledge, 2014.
 
 <img src="/images/book-covers/Created-in-China-How-China-is-becoming-a-global-innovator.jpg" style="width:150px;" />
 
@@ -80,17 +79,18 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 ### **You may also like**
 
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**How China is leading the world in tech innovation (and what the West can learn from it)**](https://www.telegraph.co.uk/connect/better-business/business-solutions/china-technology-innovation/){:target="_blank"}
+
+China is establishing itself as a global leader in technology, creating innovative products and services that have surpassed those from the West. It is a mobile payment leader, it has revolutionised its fintech ecosystem, it is an artificial intelligence pioneer and is a social media powerhouse.
+
+
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**China’s innovative ecosystem**](http://www3.weforum.org/docs/WEF_GAC_On_China_Innovation_WhitePaper_2016.pdf){:target="_blank"}
 
 This white paper by the World Economic Forum published in 2016 evaluates China’s innovation capacity through an examination of her successes in recent years and the challenges that lay ahead. It also looks at the country’s innovation policies and regulations and presents case studies of best practices.
-
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
-
-[**Behold the world’s next innovation leader – China**](https://www.iesingapore.gov.sg/Media-Centre/News/2018/1/Behold-the-world-s-next-innovation-leader---China){:target="_blank"}
-
-In this article first published in *The Business Times* in 20xx, Professor Simon Johnson from MIT Sloan School of Management discusses China’s efforts to transform itself into the world’s innovation leader in the near future.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
