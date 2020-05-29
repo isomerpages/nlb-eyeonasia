@@ -12,13 +12,45 @@ This is a selection of resources on China’s contemporary developments availabl
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-governance-of-China.jpg" style="width:150px;" />
+<img src="/images/book-covers/China's digital nationalism.jpg" style="width:150px;" />
 
-[**The governance of China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201198565){:target="_blank"}
+[**China's digital nationalism**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203799017){:target="_blank"}
 
-Xi Jinping was elected general secretary of the Communist Party of China and chairman of the Central Military Commission at the 18th Party Congress held in 2012. He succeeded Hu Jintao as leader of the Communist Party and was elected president of the People’s Republic of China in March 2013. Gain a better understanding of China through this compilation of Xi Jinping’s speeches, talks, interviews and correspondences from 15 November 2012 to 13 June 2014 as you delve into his thoughts and views on a broad range of issues.
+Schneider explores how Chinese officials and stakeholders construct and shape nationalism according to their own agendas in the digital realm, which covers search engines, online encyclopedias, websites, hyperlink networks and social media.
 
-All rights reserved, Beijing: Foreign Languages Press, 2014.
+All rights reserved, New York: Oxford University Press, 2018
+
+<img src="/images/book-covers/The culture of leadership in contemporary China.jpg" style="width:150px;" />
+
+[**The culture of leadership in contemporary China: Conflict, values, and perspectives for a new generation**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203798100){:target="_blank"}
+
+The author asserts that traditional Chinese values, ideology and philosophy feature prominently in the leadership of the current cadre of Chinese leaders. The values found in Confucianism, Daoism and Buddhism have replaced communist ideology and are being used to reject the influence of Western values which prioritise individual freedom and democracy.
+
+All rights reserved, Maryland: Lexington Books, 2018
+
+<img src="/images/book-covers/Handbook on urban development in China.jpg" style="width:150px;" />
+
+[**Handbook on urban development in China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203900378){:target="_blank"}
+
+The compilation of essays in this volume examines the transformation of China's rural to urban development, focusing on three main themes: progress and enhancement, dislocation and tension and the unique features of Chinese urban development.
+
+All rights reserved, Cheltenham: Edward Elgar Publishing, 2019
+
+<img src="/images/book-covers/The Palgrave handbook of local governance in contemporary China.jpg" style="width:150px;" />
+
+[**The Palgrave handbook of local governance in contemporary China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203877209){:target="_blank"}
+
+Contributed by scholars from China and around the world, this handbook offers insights to the characteristics, challenges and trends of governance in China's urban and rural areas and the impact of technology on governance, education, healthcare, environment and energy.
+
+All rights reserved, Hampshire: Palgrave Macmillan, 2019
+
+<img src="/images/book-covers/China smart.jpg" style="width:150px;" />
+
+[**China smart: What you don't know, what you need to know: A past & present guide to history, culture, society, language**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203941488){:target="_blank"}
+
+Deepen your understanding of China's past and present in this volume containing close to 60 short essays which discuss China's history, society, culture and language. Topics covered include the history of the Great Wall, articles on porcelain and tea, various ethnic groups in China and China's rapid progress towards a cashless society.
+
+All rights reserved, California: Stone Bridge Press, 2019
 
 <img src="/images/book-covers/Singapore-China-relations-50-years.jpg" style="width:150px;" />
 
@@ -38,14 +70,6 @@ Learn more about the theoretical roots of soft power and the current state of Ch
 
 All rights reserved, Singapore: Springer, 2017.
 
-<img src="/images/book-covers/Contemporary-China-Society-and-social-change.jpg" style="width:150px;" />
-
-[**Contemporary China: Society and social change**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200152278){:target="_blank"}
-
-China’s phenomenal economic growth and the path to modernisation continues to attract interests from far and wide. This publication offers a portrayal of societal and social change in contemporary China through topics such as family life, citizenship, gender, ethnicity, labour, religion, education, and class and rural/urban inequalities.
-
-All rights reserved, Victoria: Cambridge University Press, 2013.
-
 <img src="/images/book-covers/Chinas-innovation-challenge-Overcoming-the-middle-income-trap.jpg" style="width:150px;" />
 
 [**China’s innovation challenge: Overcoming the middle-income trap**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202666781){:target="_blank"}
@@ -53,14 +77,6 @@ All rights reserved, Victoria: Cambridge University Press, 2013.
 Can China escape the middle-income trap? This is the central question posed in the book as it gathers perspectives from leading Chinese and international scholars to consider the daunting challenges and complexities of building an innovation-driven Chinese growth model. It analyses key areas such as China’s institutional system, technology, sociocultural forces and national policy.
 
 All rights reserved, Cambridge: Cambridge University Press, 2016.
-
-<img src="/images/book-covers/On-China-41-embassy-officials-speak-about-the-CPC.jpg" style="width:150px;" />
-
-[**On China: 41 embassy officials speak about the CPC**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201327327){:target="_blank"}
-
-Interviews with 41 foreign officials who have worked in China reveal their thoughts and ponderings about the Communist Party of China. Topics include the international financial crisis, livelihood issues, environment, China’s developments and spread of the Chinese culture.
-
-All rights reserved, London: New Classic Press, 2013.
 
 <img src="/images/book-covers/This-brave-new-world-India-China-and-the-United-States.jpg" style="width:150px;" />
 

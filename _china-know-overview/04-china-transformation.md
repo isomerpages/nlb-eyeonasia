@@ -12,45 +12,45 @@ This is a selection of resources on China’s transformation available from the 
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Remaking-Chinas-great-cities.jpg" style="width:150px;" />
+<img src="/images/book-covers/China's transformation.jpg" style="width:150px;" />
 
-[**Remaking China’s great cities: Space and culture in urban housing, renewal, and expansion**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200973672){:target="_blank"}
+[**China's transformation: The success story and the success trap**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203090564){:target="_blank"}
 
-This book looks at the urban transformation of three of China’s cities: Beijing, the nation’s political and cultural capital; Shanghai, the economic and financial powerhouse; and Guangzhou, the capital of Guangdong province and the regional centre of south China. It examines the cities’ urbanisation since 1949 in relation to state governance, economic reforms, and cultural production.
+Divided into three sections, this book traces the economic and social transformation of China from 1979 to the present. It provides an overview of China's reforms, discusses the role of the state and the Chinese Communist Party as reform agents and the effects of reforms on the countryside, health, family planning and education.
 
-All rights reserved, New York: Routledge, 2014.
+All rights reserved, New Delhi: SAGE Publications India Pvt Ltd, 2018
 
-<img src="/images/book-covers/China’s-economic-transformation.jpg" style="width:150px;" />
+<img src="/images/book-covers/China's economy in transformation under the new normal.jpg" style="width:150px;" />
 
-[**China’s economic transformation**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202120165){:target="_blank"}
+[**China's economy in transformation under the new normal**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202996935){:target="_blank"}
 
-China’s economic transformation is undeniable. Learn more about the historical, institutional and theoretical factors that have contributed to China’s economic success. The book also provides information on China’s foreign investments, trade with regional partners, Chinese human capital, and bureaucratic economic institutions.
+This book provides an analysis of the Chinese economy and examines related topics such as the role of the local government, the reform of state-owned enterprises, the development of private consumption, industrial upgrading, and regional development.
 
-All rights reserved, Chichester: Wiley-Blackwell, 2015.
+All rights reserved, Hackensack: World Scientific Publishing Co. Pte. Ltd., 2017
 
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+<img src="/images/book-covers/Social transformation and Chinese experience.jpg" style="width:150px;" />
 
-[**China’s domestic transformation in a global context**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Social transformation and Chinese experience**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202846434){:target="_blank"}
 
-Published in 2015 as part of the China Update Series, this volume details the structural change within China’s new model of growth and its emergence in the next decade as a high-income modern economy.
+An invaluable resource containing insights to understanding contemporary China, this book discusses China's social structural transformation, its reform and development, urbanisation, social hierarchy change and mass consumption.
 
-Retrieved from ProQuest Ebook Central. (*myLibrary ID* is required to access this database.)
+All rights reserved, New York: Routledge, 2017
 
-<img src="/images/book-covers/Political-thought-and-Chinas-transformation.jpg" style="width:150px;" />
+<img src="/images/book-covers/Making China modern.jpg" style="width:150px;" />
 
-[**Political thought and China’s transformation: Ideas shaping reform in post-Mao China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202388575){:target="_blank"}
+[**Making China modern: From the Great Qing to Xi Jinping**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203799320){:target="_blank"}
 
-Read more about the major schools of political thought that have redefined China’s transformation and the role of Chinese thinkers in the post-Mao era.
+The author documents China's rise and fall through the different dynastic empires from 1644 to the present and heralds China's versatility and resourcefulness in triumphing over economic crisis, war, rebellion and reform.
 
-All rights reserved, Basingstoke: Palgrave Macmillan, 2015.
+All rights reserved, Massachusetts: The Belknap Press of Harvard University Press, 2019
 
-<img src="/images/book-covers/Globalising-China-The-influence-strategies-and-successes-of-Chinese-returnees.jpg" style="width:150px;" />
+<img src="/images/book-covers/Unravelling modern China.jpg" style="width:150px;" />
 
-[**Globalising China: The influence, strategies and successes of Chinese returnees**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=E9427136-3059-43AD-99BB-E082CF958ED0){:target="_blank"}
+[**Unravelling modern China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203906755){:target="_blank"}
 
-In recent years, a new spectacular group of entrepreneurs in China called Chinese Returnee Entrepreneurs has emerged. They have contributed enormously to the rapid growth of the Chinese economy as well as connected China to the outside world in today’s globalised economy. Read more to understand the impact and influence of Chinese Returnee Entrepreneurs.
+Transformations in China's economy are the focus of this book. The economy of modern China is a collaborative network which is market- and government-driven and controlled by both the central and local governments. The export industry is the driver behind China's long-term development and is an important determinant in the country's economic growth.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+All rights reserved, New Jersey: World Scientific, 2019
 
 ---
 
