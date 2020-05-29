@@ -28,13 +28,6 @@ This book explores how Chinese companies are using digital technologies to innov
 
 All rights reserved, Singapore: Springer, 2018
 
-<img src="/images/book-covers/China's technology innovators.jpg" style="width:150px;" />
-
-[**China's technology innovators: Selected cases on creating and staying ahead of business trends**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203197494){:target="_blank"}
-
-
-
-
 <img src="/images/book-covers/Pioneers, hidden champions, changemakers, and underdogs.jpg" style="width:150px;" />
 
 [**Pioneers, hidden champions, changemakers, and underdogs: Lessons from China's innovators**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203869283){:target="_blank"}
