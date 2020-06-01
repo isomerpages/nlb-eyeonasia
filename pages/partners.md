@@ -39,7 +39,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.osg.sg/"><img src="/images/partners/OSG-Logo-RED-Transparent-Small.jpg" alt="Globalising Young Minds"></a>
+			<a href="https://www.osg.sg/"><img src="/images/partners/OSG Youth Alliance Logo.png" alt="Globalising Young Minds"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
