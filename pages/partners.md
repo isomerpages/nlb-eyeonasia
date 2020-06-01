@@ -6,7 +6,7 @@ breadcrumb: Partners
 ---
 <img src="/images/partners/partners-banner.jpg" alt="partners banner" style="width:800px;" />
 
-Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore, International Trading Institute at Singapore Management University, Nanyang Business School, Ngee Ann Polytechnic, OSG (Overseas SG Ltd), Singapore Indian Chamber of Commerce & Industry, Singapore Polytechnic, Singapore University of Social Sciences, Temasek Polytechnic, The ASEAN Living Room, Yale-NUS College and Youth Corps Singapore. 
+Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore, International Trading Institute at Singapore Management University, Nanyang Business School, Ngee Ann Polytechnic, OSG Youth Alliance, Singapore Indian Chamber of Commerce & Industry, Singapore Polytechnic, Singapore University of Social Sciences, Temasek Polytechnic, The ASEAN Living Room, Yale-NUS College and Youth Corps Singapore. 
 
 
 
