@@ -6,7 +6,7 @@ breadcrumb: e-Forum – Shaping our digital economy and workforce
 collection_name: china-share-youngpeople
 ---
 
-<img src="\images\china-youngpeople\osg-1-image.jpg" alt="BCYC learning journey 2019" style="width:800px;" />
+<img src="\images\china-youngpeople\osg-2-image.jpg" style="width:800px;" />
 
 **This text is reproduced with permission:**
 
