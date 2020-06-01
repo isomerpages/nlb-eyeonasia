@@ -14,6 +14,33 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-young-people-say/reinventing-yourself-for-pandemic-job-hunting/" class="project-link">
+				<img src="/images/china-youngpeople/osg-1-image.jpg" alt="Reinventing yourself for pandemic job hunting" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>e-Forum – Reinventing yourself for pandemic job hunting</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-young-people-say/shaping-our-digital-economy-and-workforce/" class="project-link">
+				<img src="/images/china-youngpeople/osg-2-image.jpg" alt="Shaping our digital economy and workforce" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>e-Forum – Shaping our digital economy and workforce</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-young-people-say/bcyc-learning-journey-2019/" class="project-link">
 				<img src="/images/china-youngpeople/BCYC_Learning_Journey_2019_small.jpg" alt="Learning journey to Shenzhen, Guangzhou and Foshan" class="project-image">
 			<div class="project-card">
