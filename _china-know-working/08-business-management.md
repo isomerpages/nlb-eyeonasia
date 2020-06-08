@@ -12,6 +12,22 @@ This is a selection of resources on business management in China available from 
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/China CEO II.jpg" style="width:150px;" />
+
+[**China CEO II: Voices of experience from 25 top executives leading MNCs in China**](https://nlb.overdrive.com/media/5245208){:target="_blank"}
+
+Interviews were conducted with 25 high-profile CEOs of multinational corporations in China and leading China-based consultants. This volume encapsulates their secret strategies for working with the Chinese government, attracting rich, tech-savvy domestic consumers and purpose-fuelled millennials, and riding on the wave of China's rapid digitalisation.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/Make it in China.jpg" style="width:150px;" />
+
+[**Make it in China: The 6 secrets to successful sourcing**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203079481){:target="_blank"}
+
+Based on the author's 30 years of experience in sourcing, manufacturing and retailing, this book offers fresh insights on navigating the vibrant business environment in China. Shorten your learning curve with the practical advice and targeted solutions offered in this book and find out how to source for products in China meant for Western markets.
+
+All rights reserved, Singapore: Candid Creation Publishing LLP, 2018
+
 <img src="/images/book-covers/Business-in-contemporary-China.jpg" style="width:150px;" />
 
 [**Business in contemporary China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202610041){:target="_blank"}
@@ -36,33 +52,23 @@ Take a closer look at China’s economic transformation technological innovation
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/The-master-key-to-China.jpg" style="width:150px;" />
-
-[**The master key to China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200693996){:target="_blank"}
-
-Gain a deeper understanding of the business culture, customs and etiquette in China from this book. Additionally, learn about networking and negotiating skills, leveraging local knowledge and targeting global brands for China’s cities and provinces.
-
-All rights reserved, St Albans: Panoma Press, 2014.
-
-<img src="/images/book-covers/Doing-business-in-China.jpg" style="width:150px;" />
-
-[**Doing business in China**](https://singapore.libraryreserve.com/ContentDetails.htm?id=321A921B-3DCF-4146-A444-3E6B1A8A501E){:target="_blank"}
-
-Understand the Chinese business culture, find out how to manage ‘face’, and learn to negotiate and establish effective relationships in China. Look at real-life cases and find out ‘SOS’ hints for particular situations with this handy book of tips and guides on doing business in China.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/China-uncovered-What-you-need-to-know-to-do-business-in-China.jpg" style="width:150px;" />
-
-[**China uncovered: What you need to know to do business in China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14547317){:target="_blank"}
-
-What are the implications of doing business in China? How do you maximise success there? China expert Jonathan Story shares about the inadequacy of conventional approaches to business in China’s context, and what a business owner can do about it.
-
-All rights reserved, Harlow: Financial Times Prentice Hall, 2010.
-
 ---
 
 ### **You may also like**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KQ_sO9V0tyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Management lessons from Chinese business and philosophy**
+
+Listen to this 10-minute TED talk which uses a case study of a dumpling store in China to illustrate Chinese management lessons which are deeply rooted in ancient Chinese philosophy. Besides utilising growth strategies, the success of the dumpling store involved converting individual best practices into company policies for the long run.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Chinese corporations' understanding of leadership**](https://knowledge.ckgsb.edu.cn/2019/09/18/management/leadership-styles-chinese-corporations/){:target="_blank"}
+
+In a recent study of the leadership characteristics of top-level management in Chinese companies, two types of leaders were identified - task-oriented leaders and relationship-oriented leaders. The study also found that the authoritarian management style is common among the top leaders of a company, although there have been leadership style changes especially with the emerging younger cohort of Chinese entrepreneurs.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
