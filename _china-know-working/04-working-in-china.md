@@ -12,37 +12,29 @@ This is a selection of resources on working in China available from the [NLB cat
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-best-book-on-how-to-get-an-expat-job-in-China.jpg" style="width:150px;" />
+<img src="/images/book-covers/China CEO II.jpg" style="width:150px;" />
 
-[**The best book on how to get an expat job in China**](https://singapore.libraryreserve.com/ContentDetails.htm?id=9B0C0E51-9367-4F75-B9E0-8828A7A60824){:target="_blank"}
+[**China CEO II: Voices of experience from 25 top executives leading MNCs in China**](https://nlb.overdrive.com/media/5245208){:target="_blank"}
 
-Written from the point-of-view of a young undergraduate who spent eight months as an intern in China, this ebook offers practical tips such as how to search for work in China, how to craft your resume and job applications and provides insight into the business culture in China.
+The book highlights the experiences of CEOs and experts who share their strategies to overcome pressing issues while doing business in China. Learn tips on how to overcome the challenges of living in China, their laws and regulations and managing aggressive local competitors.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
 
-<img src="/images/book-covers/China-CEO.jpg" style="width:150px;" />
+<img src="/images/book-covers/Guanxi.jpg" style="width:150px;" />
 
-[**China CEO: A case guide for business leaders in China**](https://singapore.libraryreserve.com/ContentDetails.htm?id=DCB845B8-CC40-4EE9-8889-AE0CE2DF6B72){:target="_blank"}
+[**Guanxi: How China works**](https://nlb.overdrive.com/media/4170359){:target="_blank"}
 
-Learn to navigate the pitfalls of working and doing business in China from the experiences of CEOs from 20 international companies. Some tips include overcoming the challenges of expat living in China, law and government regulations, as well as counterfeit and aggressive local competitors.
+Discover the importance of guanxi in the areas of network building, employment and business relationships in China and its value in the country’s contemporary social structure from this book today.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
 
-<img src="/images/book-covers/Decoding-China-a-handbook-for-traveling-studying-and-working-in-todays-China.jpg" style="width:150px;" />
+<img src="/images/book-covers/The China option.jpg" style="width:150px;" />
 
-[**Decoding China: A handbook for travelling, studying, and working in today’s China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200127548){:target="_blank"}
+[**The China option: A guide for millennials: How to work, play, and find success in China**](https://nlb.overdrive.com/media/4044222){:target="_blank"}
 
-Decipher China’s cultural codes and learn how to get things done when working or studying in the country. The guide provides tips on how to deal with everyday situations such as taking public transport, ordering food, banking, paying bills and buying insurance.
+Learn from the perspective of a foreign graduate faced with student loan debts who made the decision to travel to China to explore options for her uncertain future. The author writes about her experiences and provides candid discussions of concepts ranging from "face" to coffee culture to racism and practical advice on how to get hired in China.
 
-All rights reserved, Clarendon: Tuttle Publishing, 2013.
-
-<img src="/images/book-covers/Living-working-doing-business-in-China.jpg" style="width:150px;" />
-
-[**Living, working & doing business in China: A survival handbook**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14293260){:target="_blank"}
-
-Overcome your culture shock with this practical guide on living and working in China. Readers will find essential information on finding a job, applying for permits, accommodation, education and leisure.
-
-All rights reserved, Bath: Survival Books, 2013.
+Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
 
 <img src="/images/book-covers/A-geek-in-China-discovering-the-land-of-bullet-trains-Alibaba-and-dim-sum.jpg" style="width:150px;" />
 
@@ -56,11 +48,23 @@ All rights reserved, Tokyo: Tuttle Publishing, 2016.
 
 ### **You may also like**
 
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**What is it like to live and work in China?**](https://www.raconteur.net/current-affairs/whats-it-really-like-to-live-in-china){:target="_blank"}
+
+Considering to work in China? This article provides tips on what to expect of work life in the country. Topics covered include Chinese business culture, cost of living, social customs, local cuisine and social media.
+
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Understanding trust, in China and the West**](https://hbr.org/2015/02/understanding-trust-in-china-and-the-west){:target="_blank"}
+[**International business guides: China**](https://www.business.hsbc.com/business-guides/china){:target="_blank"}
 
-Developing trust is essential in establishing business relationships. This article highlights how the Chinese view and value trust in relationship building, how trust affects networking (*guanxi*) in China, and how foreigners living and working in China can build up trust with their Chinese counterparts.
+Produced by HSBC, this guide provides a useful overview of the working life and culture in China, covering working practices and values, business etiquette, economy, labour and business, investment and trade and cost of living.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Business etiquette in China**](https://www.tradecommissioner.gc.ca/tcs-sdc/china-chine/107932.aspx?lang=eng){:target="_blank"}
+
+China's culture and business practices are listed in a concise manner on this website with recommended videos on different aspects of local business practices covering topics such as qualities valued by the Chinese, meeting do's and don'ts, dining courtesy and gift giving customs.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
