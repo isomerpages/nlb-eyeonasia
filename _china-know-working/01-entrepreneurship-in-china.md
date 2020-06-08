@@ -12,21 +12,45 @@ This is a selection of resources on entrepreneurship in China available from the
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Entrepreneurship-in-China-The-emergence-of-the-private-sector.jpg" style="width:150px;" />
+<img src="/images/book-covers/Strategic communication for startups and entrepreneurs in China.jpg" style="width:150px;" />
 
-[**Entrepreneurship in China: The emergence of the private sector**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203085373){:target="_blank"}
+[**Strategic communication for startups and entrepreneurs in China**](https://nlb.overdrive.com/media/5061077){:target="_blank"}
 
-Explore the dynamic and changing nature of entrepreneurship in China which has since emerged as a driving force of the country’s economy. This is a useful resource for business people, policy makers and researchers seeking to understand Chinese entrepreneurship. It also includes guidance to practitioners interested in working with private Chinese businesses.
+This ebook is a comprehensive guide for professionals and entrepreneurs to effectively manage public relations and strategic communication for business start-ups in China. Areas covered include relationships with stakeholders, public relations practices and leadership communication.
 
-All rights reserved, Abingdon, Oxon: Routledge, an imprint of the Taylor & Francis Group, 2018.
+Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
 
-<img src="/images/book-covers/Entrepreneurship-in-family-business-Cases-from-China.jpg" style="width:150px;" />
+<img src="/images/book-covers/Pioneers, hidden champions, changemakers and underdogs.jpg" style="width:150px;" />
 
-[**Entrepreneurship in family business: Cases from China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201117795){:target="_blank"}
+[**Pioneers, hidden champions, changemakers and underdogs: Lessons from China's innovators**](https://nlb.overdrive.com/media/4649732){:target="_blank"}
 
-An insightful analysis into how a family business differs from other forms of organisation and its peculiarities linked to entrepreneurship. This book focuses on small and medium-sized second-generation Chinese family businesses and the relationship between the firms’ family attributes – or “familiness” as conceptualised in this book – and entrepreneurial processes, resulting in different outcomes.
+Four types of innovators are identified in this book: pioneers, hidden champions, underdogs and changemakers. This book also examines how Chinese entrepreneurs innovate and how they are making their mark globally. Included are numerous case studies of Chinese innovators and innovations from companies such as Alibaba, Hikvision, Weihua Solar and Cheetah mobile.
 
-All rights reserved, Cham: Springer International Publishing, 2014.
+Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
+
+<img src="/images/book-covers/Tech titans of China.jpg" style="width:150px;" />
+
+[**Tech titans of China: How China's tech sector is challenging the world by innovating faster, working harder & going global**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203972431){:target="_blank"}
+
+This book focuses on the major players in China's technology industry with detailed profiles of established and up-and-coming Chinese tech companies. It includes analysis of their business strategies and forecasts of China's dominance in the tech industry over the next decade.
+
+All rights reserved, Boston: Nicholas Brealey Publishing, 2019
+
+<img src="/images/book-covers/Entrepreneurship in China.jpg" style="width:150px;" />
+
+[**Entrepreneurship in China: The emergence of the private sector**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203085373){:target="_blank"}
+
+China's private sector of entrepreneurs is driving its new economy. This book explores the dynamic nature of entrepreneurship in China as well as the impetus for Chinese entrepreneurs to adapt to the volatile global business climate and also offers advice for potential investors interested to work with Chinese entrepreneurs.
+
+All rights reserved, New York: Routledge, 2018
+
+<img src="/images/book-covers/The Alibaba way.jpg" style="width:150px;" />
+
+[**The Alibaba way: Unleashing grassroots entrepreneurship to build the world's most innovative Internet company**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202381148){:target="_blank"}
+
+Get an up-close and personal look at Jack Ma's hugely successful e-commerce start-up, Alibaba, and read about how it grew from a grassroots vision into a world-class operation. Be inspired and learn about Alibaba’s secrets to success and the driving forces which have made it one of the fastest growing Internet companies in the world.
+
+All rights reserved, New York: McGraw-Hill Education, 2016
 
 <img src="/images/book-covers/Rethinking-social-capital-and-entrepreneurship-in-greater-China-Is-guanxi-still-important.jpg" style="width:150px;" />
 
@@ -44,41 +68,27 @@ Drawing on personal stories of social entrepreneurs in China including their sup
 
 All rights reserved, London: Routledge, Taylor & Francis Group, 2017.
 
-<img src="/images/book-covers/Innovation-spaces-in-Asia-Entrepreneurs-multinational-enterprises-and-policy.jpg" style="width:150px;" />
-
-[**Innovation spaces in Asia: Entrepreneurs, multinational enterprises and policy**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202343117){:target="_blank"}
-
-This is a useful reference for students, researchers and practitioners pursuing innovation, international business and entrepreneurship as it shows how and why Asia is set to impact global innovation with its rapid developments. It offers an understanding and initial conceptualisation of these dynamic processes as well as the role of multinational enterprises, entrepreneurship and public policy.
-
-All rights reserved, Cheltenham, United Kingdom: Edward Elgar Publishing, 2015.
-
-<img src="/images/book-covers/Asian-models-of-entrepreneurship-from-the-Indian-Union-and-Nepal-to-the-Japanese-archipelago.jpg" style="width:150px;" />
-
-[**Asian models of entrepreneurship: from the Indian Union and Nepal to the Japanese archipelago: context, policy and practice**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201083328){:target="_blank"}
-
-Delve into the unique characteristics of entrepreneurial activity of 15 different countries in South Asia, South-east Asia and East Asia. One of the comparisons that the author makes is the explosion in entrepreneurial growth within China against the struggles to build an entrepreneurial community in Japan. Learn more about the different models, and identify their commonalities and differences of these countries.
-
-All rights reserved, Singapore: World Scientific Publishing, 2014.
-
-<img src="/images/book-covers/Catalyst-for-change-Chinese-business-in-Asia.jpg" style="width:150px;" />
-
-[**Catalyst for change: Chinese business in Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200170461){:target="_blank"}
-
-This is a useful resource that focuses on ethnic Chinese entrepreneurs and business management in Asia. It offers an Asian perspective on the organisational peculiarities and changing business practices of ethnic Chinese businesses and their leaders who are the backbone of Asia’s dynamic economies.
-
-All rights reserved, Singapore: World Scientific Publishing, 2014.
-
-<img src="/images/book-covers/New-venture-creation-a-framework-for-entrepreneurial-start-ups.jpg" style="width:150px;" />
-
-[**New venture creation: a framework for entrepreneurial start-ups**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200973654){:target="_blank"}
-
-This book dispels the myth that entrepreneurship cannot be taught. With practical advice from entrepreneurs together with academic research and theory – learn about a seven-stage New Venture Creation Framework from generating an idea through to developing the business model and raising finance. This is an inspirational and practical resource to equip budding entrepreneurs with tools for a successful new venture.
-
-All rights reserved, Houndmills, Basingstoke: Palgrave Macmillan, 2014.
-
 ---
 
 ### **You may also like**
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Clans, entrepreneurship, and development of the private sector in China**](https://doi.org/10.1016/j.jce.2019.08.008){:target="_blank"}
+
+This paper from the Journal of Comparative Economics examines the role of clans in entrepreneurial activities and the development of the private sector in China as studies have shown that entrepreneurship is crucial for economic growth and development.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Jack Ma’s advice for Chinese entrepreneurs in the time of coronavirus: retool, reflect and restore work at a steady pace**](https://www.scmp.com/business/banking-finance/article/3051342/jack-mas-advice-chinese-entrepreneurs-time-coronavirus){:target="_blank"}
+
+The article highlights Jack Ma’s call for entrepreneurs to retool and prepare for the growth that lies ahead when the coronavirus pandemic subsides. Speaking at a lecture at Hupan College, Ma’s advice to students was to learn and adopt technology and apply them online during times of crisis instead of letting things come to a standstill.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Keep the spotlight on China's entrepreneurs**](https://www.forbes.com/sites/michaelcwenderoth/2019/10/14/keep-the-spotlight-on-chinas-entrepreneurs/#59d11a87677d){:target="_blank"}
+
+Check out this article to find out what drives entrepreneurial success in China. Areas discussed include a comparison of Chinese and European entrepreneurs, the higher percentage of women entrepreneurs in China versus Europe, funding and family support for Chinese entrepreneurs and the role that guanxi plays in China's business success.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
@@ -88,18 +98,6 @@ The article shares some of Jack Ma’s learning points from his humble beginning
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**The review of Alibaba’s online business marketing strategies which navigate them to present success**](https://www.researchgate.net/publication/268278720_THE_REVIEW_OF_ALIBABA'S_ONLINE_BUSINESS_MARKETING_STRATEGIES_WHICH_NAVIGATE_THEM_TO_PRESENT_SUCCESS){:target="_blank"}
-
-This study looks at several key factors that governed the online business marketing strategies and important lessons adopted by Alibaba leading to its growth. The authors also share about the determination of its founder, Jack Ma, who profoundly influenced the direction of his company.
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
 [**Time Asia cover labels Baidu’s Li ‘The Innovator’**](http://www.chinadaily.com.cn/a/201801/19/WS5a61b6cca3106e7dcc1355ff.html){:target="_blank"}
 
 The article shares *Time Asia*’s coverage of Baidu’s co-founder and CEO, Robin Li, whom the magazine termed as “The Innovator”. Li developed China’s biggest search giant Baidu, which has become the world’s fourth-biggest website with about 80 percent market share in China. The article also mentions that Baidu’s other Chinese rivals include social media and gaming giant Tencent and China’s biggest online shopping website Alibaba.
-
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
-
-[**Chinese entrepreneurs: Motivations, success factors, problems, and business-related stress**](https://www.researchgate.net/publication/235298115_Chinese_entrepreneurs_Motivations_success_factors_problems_and_business-related_stress){:target="_blank"}
-
-This article provides information about the motivations, success factors, problems, and business-related stress of entrepreneurs in small- and medium-sized enterprises and relates them to the success of the Chinese entrepreneurs from results gathered from a random survey of a total of 196 entrepreneurs in Beijing, Shanghai, and Guangzhou.
