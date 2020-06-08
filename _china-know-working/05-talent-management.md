@@ -12,6 +12,22 @@ This is a selection of resources on human resource management in China available
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/Legendary Alibaba.png" style="width:150px;" />
+
+[**Legendary Alibaba: Jack Ma's management wisdom**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204229186){:target="_blank"}
+
+This book presents a psychological perspective of how the Alibaba team is managed, zooming in to aspects such as teamwork, power-delegation, service, change and innovation and crisis awareness.
+
+All rights reserved, New Delhi: Royal Collins, 2020
+
+<img src="/images/book-covers/Labor relations and human resource management in China.jpg" style="width:150px;" />
+
+[**Labor relations and human resource management in China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204037084){:target="_blank"}
+
+Expand your knowledge on labour relations and human resource management (HRM) in China from this book. It traces the evolution of HRM since President Xi Jinping became the leader of the Chinese Communist Party from 2010 onwards and its impact on enterprise reform, individual creativity and innovation.
+
+All rights reserved, New York: Routledge, 2019
+
 <img src="/images/book-covers/Strategic-human-resource-management-in-China.png" style="width:150px;" />
 
 [**Strategic human resource management in China: A multiple perspective**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202776778){:target="_blank"}
@@ -20,44 +36,24 @@ Thinking of working in state-owned enterprises (SOEs) or domestic private enterp
 
 All rights reserved, New York: Routledge, 2017.
 
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
-
-[**Chinese management studies: Human resource management practices in Chinese organisations (Volume 8, Issue 1)**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-Expand your knowledge on human resource management (HRM) in China with *China Management Studies*. This issue looks specifically at HRM practices and issues in Chinese organisations, such as work stress, job satisfaction and employee performance.
-
-Retrieved from ProQuest Ebook Central. (*myLibrary* ID is required to access this database.)
-
-<img src="/images/book-covers/Managing-human-resources-in-China.jpg" style="width:150px;" />
-
-[**Managing human resources in China: The view from inside multinationals**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202119388){:target="_blank"}
-
-Learn more about how human resources are managed in China’s multinational corporations (MNCs) through the perspectives of the employees. At the same time, get a glimpse of how subsidiary managers handle daily workloads while coping with the constantly-changing environment.
-
-All rights reserved, Cambridge: Cambridge University Press, 2014.
-
-<img src="/images/book-covers/The-Chinese-transformation-of-corporate-culture.jpg" style="width:150px;" />
-
-[**The Chinese transformation of corporate culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14449674){:target="_blank"}
-
-Explore the concept of corporate culture in China and its transformation to fit into the Chinese context. The corporate culture of large Chinese companies is also examined using case studies of firms such as Huawei and Haier.
-
-All rights reserved, New York: Routledge, 2012.
-
-<img src="/images/book-covers/New-models-of-human-resource-management-in-China-and-India.jpg" style="width:150px;" />
-
-[**New models of human resource management in China and India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14602166){:target="_blank"}
-
-Gain a deeper understanding of human resource management in China as well as India through this comprehensive analysis, which focuses on issues such as recruitment, retention, remuneration, performance management and career development.
-
-All rights reserved, Milton Park, Routledge, 2013.
-
 ---
 
 ### **You may also like**
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**HR challenges: Why one-size-fits-all doesn’t work in China**](https://www.forbes.com/sites/winternie/2015/06/01/hr-challenges-why-one-size-fits-all-doesnt-work-in-china/#2b651a725337){:target="_blank"}
+[**How to develop an effective employee retention strategy in China**](https://www.china-briefing.com/news/employee-retention-strategy-china-best-practices/){:target="_blank"}
 
-Get an overview of human resource demands and challenges in China in this article, which also looks at the rising demand for talent in China’s job market, as well as some of the qualities employers look out for when hiring.
+The article highlights the challenges of retaining talents and employees in an organisation. An effective human resource retention strategy can be created through a mix of internal (work-life balance, training, mentorship) and external (salary and bonuses) benefits.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Talent development tip for China: Throw them in the deep end**](https://www.forbes.com/sites/ceibs/2016/08/08/talent-development-tip-for-china-throw-them-in-the-deep-end/#2446d0435e7f){:target="_blank"}
+
+Explore how China provides opportunities to develop talents by allowing them space to take risks and challenges and become versatile leaders through this Forbes article, which looks at the example of JD.com’s Chief of Human Resources Office, Rain Long.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Chinese companies need to prepare for a shrinking talent pool**](https://www.weforum.org/agenda/2019/06/chinese-companies-need-to-prepare-for-a-shrinking-talent-pool/){:target="_blank"}
+
+Due to its one-child policy over the past decades, China is facing a rapidly greying population profile. To address this, China has invested heavily in automation. This could however lead to the loss of middle-management employees. The article recommends three immediate actions to bolster up the lack of human capital in the country.
