@@ -12,6 +12,30 @@ This is a selection of resources on Chinese business strategies available from t
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/Foreign business in China and opportunities for technological innovation and sustainable economics.jpg" style="width:150px;" />
+
+[**Foreign business in China and opportunities for technological innovation and sustainable economics**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203892295){:target="_blank"}
+
+Read about how foreign businesses are using state-of-the-art strategies and innovative management practices to conduct business in China. Topics covered include e-commerce, foreign trade, global business, smart cities and wireless network.
+
+All rights reserved, Hershey: IGI Global, 2019
+
+<img src="/images/book-covers/Global expansion.jpg" style="width:150px;" />
+
+[**Global expansion: The Chinese way**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203234880){:target="_blank"}
+
+This book spotlights some of the Chinese companies making big splashes in the global marketplace and uncovers the policies, strategies and ambitions driving them to the forefront of the global economic and business landscape. Companies analysed include Haier,  Dalian Wanda, Shuanghui and Tencent.
+
+All rights reserved, London: LID Publishing, 2018
+
+<img src="/images/book-covers/Made for China.jpg" style="width:150px;" />
+
+[**Made for China: Success strategies from China's business icons**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203197537){:target="_blank"}
+
+Seeking to understand Chinese consumers, the Chinese market and what drives Chinese entrepreneurs? Read through this book which contains interviews with some of the most influential business leaders in China, who offer guidance on how to ride the next consumer wave in China.
+
+All rights reserved, Switzerland: Copernicus Books, 2018
+
 <img src="/images/book-covers/Chinese-business-Landscapes-and-strategies.jpg" style="width:150px;" />
 
 [**Chinese business: Landscapes and strategies**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202936860){:target="_blank"}
@@ -28,65 +52,41 @@ Ancient strategies can provide a valuable link to enhance your ability to surviv
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/The-art-of-war-for-small-business-Defeat-the-competition-and-dominate-the-market-with-the-masterful-strategies-of-Sun-Tzu.jpg" style="width:150px;" />
-
-[**The art of war for small business: Defeat the competition and dominate the market with the masterful strategies of Sun Tzu**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201053556){:target="_blank"}
-
-Sun Tzu’s *The Art of War* has inspired military, political and business leaders across the world with its brilliant strategies for prevailing against opponents. Find out how Sun Tzu’s wisdom can be applied to small businesses and be simultaneously inspired by stories of entrepreneurial success.
-
-All rights reserved, New York: American Management Association, 2014.
-
-<img src="/images/book-covers/The-art-of-war-visualised-The-Sun-Tzu-classic-in-charts-and-graphs.jpg" style="width:150px;" />
-
-[**The art of war visualised: The Sun Tzu classic in charts and graphs**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201251763){:target="_blank"}
-
-Are you a visual learner? *The Art of War Visualised* offers the visual thinker succinct diagrams and charts to understand Sun Tzu’s *Art of War*. These strategies have been visually interpreted, making it accessible to a new generation of readers such as students, entrepreneurs and business leaders.
-
-All rights reserved, New York: Workman Publishing, 2015
-
-<img src="/images/book-covers/Mastering-the-Art-of-War.jpg" style="width:150px;" />
-
-[**Mastering the Art of War: Zhuge Liang’s and Liu Ji’s commentaries on the classic by Sun Tzu**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=D90D9E5D-C38E-4BE4-90EF-2111250B688F){:target="_blank"}
-
-Composed by two prominent statesmen-generals of classical China, this book develops the strategies of Sun Tzu’s classic, *The Art of War*, into a complete handbook of organisation and leadership. The great leaders of ancient China who were trained in Sun Tzu’s principles understood how a successful war was waged, both materially and mentally, and how victory and defeat follow clear social, psychological and environmental laws.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/The-Chinese-transformation-of-corporate-culture.jpg" style="width:150px;" />
-
-[**The Chinese transformation of corporate culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14449674){:target="_blank"}
-
-Large corporations such as Huawei, Haier and Mengniu have transformed their cultures to fit in with the Chinese interpretation of “positive corporate culture”. Find out how such definitions reflect a unique Chinese conception of a capitalist business corporation within a socialist country.
-
-All rights reserved, New York: Routledge, 2012.
-
-<img src="/images/book-covers/Chinese-rules-Mao’s-dog-Deng’s-cat-and-five-timeless-lessons-from-the-front-lines-in-China.jpg" style="width:150px;" />
-
-[**Chinese rules: Mao’s dog, Deng’s cat, and five timeless lessons from the front lines in China**](https://singapore.libraryreserve.com/ContentDetails.htm?id=525C6B10-2429-4515-885F-B9DF71F3A3DC){:target="_blank"}
-
-Tim Clissold provides five Chinese rules that will enable foreigners to not only cooperate with China, but also compete with it on its own terms. Part memoir, part history and part business imbroglio, examine these anecdotes of business in everyday China and pick up practical tips from them.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/Deciphering-Sun-Tzu-How-to-read-The-Art-of-War.jpg" style="width:150px;" />
-
-[**Deciphering Sun Tzu: How to read The Art of War**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201414448){:target="_blank"}
-
-Learn how to read *The Art of War* and find out more about the historical, philosophical, strategic and cross-cultural significance of these timeless Chinese ancient strategies.
-
-All rights reserved, New York: Oxford University Press, 2014.
-
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**What Western marketers can learn from China**](https://hbr.org/2019/05/what-western-marketers-can-learn-from-china){:target="_blank"}
+
+The article details the different marketing mindsets and competencies of China’s business landscape and how the success of Western firm leaders will fluctuate, depending on whether they embrace or ignore the emerging market. 
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**How China’s consumer companies managed through the COVID-19 crisis: A virtual roundtable**](https://www.mckinsey.com/industries/retail/our-insights/how-chinas-consumer-companies-managed-through-the-covid-19-crisis-a-virtual-roundtable){:target="_blank"}
+
+In this virtual roundtable discussion, China-based executives at leading consumer-facing companies share about their experiences managing operations under lockdown and the lessons that companies in other countries under lockdown can learn.
+
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Three proactive response strategies to COVID-19 business challenges**](https://sloanreview.mit.edu/article/three-proactive-response-strategies-to-covid-19-business-challenges/){:target="_blank"}
+
+By matching organisational infrastructure with emerging market trends, companies which are versatile enough to adapt their infrastructure, product, service or supply chain networks to specific markets will be abound with opportunities to beat the economic slump caused by COVID-19.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**China’s herd of unicorns**](https://www.strategy-business.com/article/Chinas-herd-of-unicorns?gko=5a81d){:target="_blank"}
+
+A "unicorn" is defined as a private start-up valued at more than $1 billion. In China, unicorns are fast growing and enjoy almost exclusive reach to a burgeoning domestic market fuelled by technologically-savvy consumers who are drawn to customised AI-enhanced products and services. Read up more about the long-range aspirations of Chinese unicorns and what drives their entrepreneurial ambitions to go big and go global.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
 [**Doing business in China**](http://www.worldbusinessculture.com/country-profiles/china/){:target="_blank"}
 
 It was once said, ‘In China, everything is possible – but nothing is easy’. This report provides a brief overview of some key concepts to consider when doing business in China so as to avoid failure through the lack of research and planning.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Tapping China’s talent pool: The importance of corporate culture**](http://quarterly.insigniam.com/corporate-culture/tapping-chinas-talent-pool-importance-corporate-culture/){:target="_blank"}
 

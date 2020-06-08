@@ -12,6 +12,22 @@ This is a selection of resources on Corporate Social Responsibility in China ava
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/Corporate social responsibility reporting in China.jpg" style="width:150px;" />
+
+[**Corporate social responsibility reporting in China: Evolution, drivers and prospects**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203913620){:target="_blank"}
+
+This publication provides an overview of the theoretical framework and legal system of corporate social responsibility (CSR) in China and an overall perspective of CSR reporting of state-owned enterprises. It covers the social roles of private enterprises as well as development of foreign-invested companies in China and includes an empirical study and interview analysis of CSR.
+
+All rights reserved, New York: Routledge, 2018
+
+<img src="/images/book-covers/Globalisation of corporate social responsibility and its impact on corporate governance.jpg" style="width:150px;" />
+
+[**Globalisation of corporate social responsibility and its impact on corporate governance**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203862291){:target="_blank"}
+
+This book looks at the impact of corporate social responsibility (CSR) on company law and corporate governance globally. Of interest are the chapters which discuss the role of employees in promoting CSR in China and the regulation of CSR in the country.
+
+All rights reserved,  Switzerland: Springer, 2018
+
 <img src="/images/book-covers/Social-entrepreneurship-and-citizenship-in-China-The-rise-of-NGOs-in-the-PRC.jpg" style="width:150px;" />
 
 [**Social entrepreneurship and citizenship in China: The rise of NGOs in the PRC**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203074876){:target="_blank"}
@@ -33,6 +49,36 @@ All right reserved, Bingley, UK: Emerald, 2016.
 ---
 
 ### **You may also like**
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Corporate social responsibility practices in China: Trends, context, and impact on company performance**](https://www.mdpi.com/2071-1050/11/2/354){:target="_blank"}
+
+This study published in Sustainability journal analyses the trends, context, and impact of corporate social responsibility (CSR) initiatives on the performance of companies in China. According to it, companies that implemented CSR had observed positive impacts on their performance.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Growing CSR in China: First corporate social responsibility index for Chinese listed companies**](https://www.ceibs.edu/new-papers-columns/growing-csr-china-first-corporate-social-responsibility-index-chinese-listed){:target="_blank"}
+
+This article emphasises that good corporate social responsibility (CSR) practices signal good governance. Data shows that companies practising good CSR will motivate more entrepreneurs and enterprises to do the same, so that resource allocation and social welfare across China can be improved and Chinese companies would in turn have the most gain.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**The evolution of Chinese corporate social responsibility**](https://www.taipeitimes.com/News/editorials/archives/2019/12/16/2003727619){:target="_blank"}
+
+This article highlights Chinese businesses incorporating corporate social responsibility (CSR) in their decision-making over the past decade. The inclusion of CSR regulations has been made in the law and stock exchanges have issued guidelines for disclosing social responsibility performance.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**CSR report on Chinese business overseas operations**](https://www.globethics.net/china-ethics-series/-/asset_publisher/yoKEPwCQdOM4/content/csr-report-on-chinese-business-overseas-operations){:target="_blank"}
+
+The white paper talks about the shift  in focus of Chinese policymakers towards corporate social responsibility (CSR) over the past decade as sanctioned by the amended Company law in China.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Chinese brands stress corporate responsibility**](https://www.chinadaily.com.cn/a/201905/09/WS5cd43fc2a3104842260bacfd.html){:target="_blank"}
+
+This article highlights the importance of corporate social responsibility (CSR) in having an excellent brand image in China. As a result of CSR, consumer confidence in Chinese brands have improved and Chinese businesses have signed a UN declaration to include CSR principles in their future brand development.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
