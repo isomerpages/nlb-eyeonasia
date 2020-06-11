@@ -12,9 +12,25 @@ This is a selection of resources on sports and recreation in India from the [NLB
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/Free-hit-The-story-of-womens-cricket-in-India.jpg" style="width:150px;" />
+
+[**Free hit: The story of women’s cricket in India**](http://nlb.overdrive.com/media/4384926){:target="_blank"}
+
+Free Hit is the untold story of women’s cricket in India, and casts light on the gender-based pay gaps, sponsorship challenges, and the sheer indifference of cricketing officials along the way. Take a step into the lives of the spirited female athletes who, just like their male counterparts, brought home laurels worth celebrating.
+
+Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+
+<img src="/images/book-covers/Imperfect-Sanjay-Manjrekar.jpg" style="width:150px;" />
+
+[**Imperfect**](http://nlb.overdrive.com/media/3668854 ){:target="_blank"}
+
+Sanjay Manjrekar looks back on his own career as a cricketer to take the reader on a journey from the dusty maidans of Mumbai to the world stage as a combative batsman. He comments on the India greats he shared the dressing room with, lessons learnt from opponents, and his own obsession and quest for cricket perfection.
+
+Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+
 <img src="/images/book-covers/Barefoot-to-boots-The-many-lives-of-Indian-football.jpg" style="width:150px;" />
 
-[**Barefoot to boots: The many lives of Indian football**](https://nlb.overdrive.com/media/3565791)
+[**Barefoot to boots: The many lives of Indian football**](https://nlb.overdrive.com/media/3565791){:target="_blank"}
 
 Few football-crazy fans today may recall that India was once known as the “Brazil of Asia”. In this book, commentator Novy Kapadia reveals Indian football’s glorious legacy through riveting descriptions and analysis of on-field action, stories of memorable matches and exclusive conversations with legendary players and officials.
 
@@ -22,7 +38,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Nation at play: A history of sport in India**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P)
+[**Nation at play: A history of sport in India**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
 This is an informative history of India’s sports from ancient times to current contemporary India. It also analyses the cultural and political development of India’s sports. Read on for interesting and significant historical sporting events such as India’s soccer team Mohun Bagan’s victory in the 1911 IFA Shield and India’s first participation in the Olympic Games in 1924.
 
@@ -30,27 +46,11 @@ Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this
 
 <img src="/images/book-covers/Wisden-India-Almanack-2017.jpg" style="width:150px;" />
 
-[**Wisden India Almanack 2017**](https://nlb.overdrive.com/media/3166144)
+[**Wisden India Almanack 2017**](https://nlb.overdrive.com/media/3166144){:target="_blank"}
 
 A treat for the cricket fanatic as this fifth edition of *Wisden India Almanack* offers essays from the best writers, and those from other fields who are passionate about cricket, such as the CEO of Microsoft, Satya Nadella.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/book-covers/If-cricket-is-religion-Sachin-is-God.jpg" style="width:150px;" />
-
-[**If cricket is religion, Sachin is God**](https://nlb.overdrive.com/media/3019155)
-
-This book is for both the fan and the analyst – by two writers who consider themselves fans and analysts in equal measure. It follows the career of Sachin Ramesh Tendulkar, demi-god and cricketer – his rise, his peak, his dark phase, and his resurrection. The authors seek to compare him with his peers in both major forms of the game and present the data so that the reader can draw their own conclusions.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**Global sports: Cultures, markets and organisations**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P)
-
-This ebook examines the economic and business issues of five popular team sports, namely baseball, basketball, football-soccer, ice hockey and cricket which have emerged since the 1800s in 15 different countries. *Appendix A* looks at cricket in Australia, India and Pakistan.
-
-Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this database.
 
 ---
 
@@ -58,6 +58,6 @@ Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**13 hobby clubs in India you should know about**](https://www.indiatimes.com/lifestyle/13-hobby-clubs-in-india-you-should-know-about-230056.html)
+[**National Games – Indian Olympic Association**](https://www.olympic.ind.in/national-games){:target="_blank"}
 
-From music to literature to food, check out this website to find out more about the hobby clubs you can join if you are in India.
+The Olympic movement gathered momentum in India in the 1920s, and the need to identify national talent for the Olympic Games prompted the initiation of the National Games. The first edition was launched in an undivided Punjab in 1924 and has continued every few years up to now.

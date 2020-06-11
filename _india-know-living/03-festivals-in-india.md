@@ -28,27 +28,19 @@ The book presents colourful details of recipes including the history and culture
 
 All rights reserved, London: Absolute Press, 2017.
 
-<img src="/images/book-covers/Festivals-at-the-Jaipur-Court.jpg" style="width:150px;" />
-
-[**Festivals at the Jaipur Court**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202768400){:target="_blank"}
-
-This is an illustrated and informative book of over 100 photographs that offers a glimpse into the “living traditions” of the former royal court of Jaipur. Journey through the Hindu seasonal calendar and the year-round panoply of festivity and ceremonial observances that are special to Rajasthan, particularly Jaipur.
-
-All rights reserved, New Delhi: Niyogi Books, 2014.
-
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**India festival highlights**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Let Diwali’s light fill our hearts with love**](http://eresources.nlb.gov.sg/Main/browse/resource/1111){:target="_blank"}
 
-This is a quick guide to the festivals and celebrations that take place in India annually. The guide includes festivals like the Hemis Festival in Ladakh, Jammu and Kashmi, the Independence Day in New Delhi and the Ganesha Chaturthi festival.
+This paper explains how Diwali festival is a time to burn away the old and allow new ideas to flourish. 
 
-Retrieved from EbscoHost Business Source Complete. *myLibrary* ID is required to access this database.
+Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Fairs and festivals in India: The cultural and economic potential**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Jaipur Literature Festival, India Art Fair and more: The 2020 Calendar**](http://eresources.nlb.gov.sg/Main/browse/resource/1111){:target="_blank"}
 
-This paper considers the opportunities and challenges of festivals in India and explores the impact on its cultural and economic potential.
+If you are an art and cultural junkie, this article maps out the next twelve months of the year, so you can culture-hop from city to city.
 
 Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
 
@@ -57,6 +49,18 @@ Retrieved from ProQuest Central. *myLibrary* ID is required to access this datab
 ### **You may also like**
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Festivals and Events in India in October 2020**](https://www.tripsavvy.com/october-india-festivals-and-events-guide-1539301){:target="_blank"}
+
+October is a very exuberant time in India, with many festivals and celebrations occurring all over the country. Take part in events filled with lights, music and dance during India’s own festive season.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**15 Most Popular Festivals of India**](http://www.transinindiatravels.com/india/festivals-in-india/){:target="_blank"}
+
+The culturally rich land of India produces various festivals on its soil, magnifying the beauty of India and its citizens. Be sure to experience at least these 15 prominent ones, to mark not just your calendar, but also your life with their names.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**Diwali festival in India**](http://www.diwalifestival.org/){:target="_blank"}
 

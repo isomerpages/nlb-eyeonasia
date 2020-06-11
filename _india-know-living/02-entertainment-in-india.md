@@ -12,43 +12,19 @@ This is a selection of resources on entertainment in India available from the [N
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Bollywood-and-postmodernism-Popular-Indian-cinema-in-the-21st-century.jpg" style="width:150px;" />
+<img src="/images/book-covers/Raj-Kapoor-The-One-and-Only-Showman.jpg" style="width:150px;" />
 
-[**Bollywood and postmodernism: Popular Indian cinema in the 21st century**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202793580){:target="_blank"}
+[**Raj Kapoor: The one and only showman**](http://nlb.overdrive.com/media/3668871){:target="_blank"}
 
-How do we define the style of a contemporary Bollywood film? Are Bollywood films seen as uninspired Hollywood rip-offs or are genuine innovation within the industry? Discover how Indian cinema has changed in the 21st century through this innovative study which applies postmodern concepts and postmodern motifs in key commercial Hindi films.
-
-All rights reserved, Edinburgh: Edinburgh University Press, 2015.
-
-<img src="/images/book-covers/The-strange-disappearance-of-a-Bollywood-star.jpg" style="width:150px;" />
-
-[**The strange disappearance of a Bollywood star**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202940934){:target="_blank"}
-
-Read this interesting fiction set in the city of Mumbai as Inspector Chopra and his sidekick, baby elephant Ganesha, embark on a journey into the world’s most flamboyant movie industry to search for rising star, Vikram Verma, who has disappeared leaving his latest film in jeopardy. Feuding starts, failed investments and death threats are just some discoveries that they uncover, thus affirming Chopra’s suspicion that the truth is often stranger than fiction in Bollywood.
-
-All rights reserved, New York: Redhook, 2017.
-
-<img src="/images/book-covers/Bollywood-The-films-the-songs-the-stars.jpg" style="width:150px;" />
-
-[**Bollywood’s India: A public fantasy**](https://nlb.overdrive.com/media/2182327){:target="_blank"}
-
-Bollywood is India’s most popular entertainment and one of its most powerful social forces. The author, an award-winning scholar of popular culture and postcolonial modernity, offers an interdisciplinary account and examines the role of the country’s most popular blockbusters in the making, unmaking and remaking of modern India.
+Raj Kapoor, the creator of some of Hindi cinema’s most enduring classics, is one of the greatest film-makers India has ever produced. He blazed a trail for subsequent generations of film-makers to follow and aspire to. The extraordinary yet controversial showman, painted as a fascinating portrait in this biography.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/To-the-moon-How-I-blogged-my-way-to-Bollywood.jpg" style="width:150px;" />
+<img src="/images/book-covers/New-Kings-of-the-World-dispatches-from-bollywwod-dizi-and-k-pop.jpg" style="width:150px;" />
 
-[**My unbelievable journey with Indian cinema: My memoirs**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200693511){:target="_blank"}
+[**New kings of the world: Dispatches from Bollywood, Dizi, and K-Pop**](http://nlb.overdrive.com/media/4920167){:target="_blank"}
 
-Author S A Nathanji explores the history of early Tamil cinema, shares his personal interactions with prominent artistes as well as tales of the pioneers of early Tamil cinema who have been instrumental in building the industry over the decades.
-
-All rights reserved, Singapore: S A Nathanji International Pte Ltd., 2014.
-
-<img src="/images/book-covers/Lineage-of-loss-Counternarratives-of-North-Indian-music.jpg" style="width:150px;" />
-
-[**Lineage of loss: Counternarratives of North Indian music**](https://nlb.overdrive.com/media/3550672){:target="_blank"}
-
-In the mid-19th century, a new family of musicians emerged in the royal court of Lucknow and rose to the heights of renown throughout North India. Today this musical lineage, or ghar n, lives on in the music and memories of only a small handful of descendants and players of the family instrument, the sarod. The author explores the oral history and written records of the Lucknow ghar n, tracing its displacement, loss of prestige and erasure from the collective memory. An interdisciplinary, postmodern counter-history, *Lineage of Loss* offers a new and unsettling narrative of Hindustani music’s encounter with modernity.
+This is a book about the new arbiters of mass culture - India’s Bollywood films, Turkey’s soap operas (dizi), and South Korea’s pop music. In the book, reporter and writer Fatima Bhutto profiles Shah Rukh Khan, popular actor, teasing out insights into the new global pop culture phenomenon that is Bollywood.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
@@ -59,6 +35,22 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 The book introduces the life and times of tabla virtuoso, composer and percussionist
 
 Zakir Hussain. We read about his early years, experiences and memories working with legendary musicians including his dedication and love for the tabla. Zakir Hussain is considered a revered role model, a visionary world musician and an acclaimed celebrity living in both America and India!
+
+Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
+
+<img src="/images/book-covers/The-strange-disappearance-of-a-Bollywood-star.jpg" style="width:150px;" />
+
+[**The strange disappearance of a Bollywood star**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202940934){:target="_blank"}
+
+Read this interesting fiction set in the city of Mumbai as Inspector Chopra and his sidekick, baby elephant Ganesha, embark on a journey into the world’s most flamboyant movie industry to search for rising star, Vikram Verma, who has disappeared leaving his latest film in jeopardy. Feuding starts, failed investments and death threats are just some discoveries that they uncover, thus affirming Chopra’s suspicion that the truth is often stranger than fiction in Bollywood.
+
+All rights reserved, New York: Redhook, 2017.
+
+<img src="/images/book-covers/Lineage-of-loss-Counternarratives-of-North-Indian-music.jpg" style="width:150px;" />
+
+[**Lineage of loss: Counternarratives of North Indian music**](https://nlb.overdrive.com/media/3550672){:target="_blank"}
+
+In the mid-19th century, a new family of musicians emerged in the royal court of Lucknow and rose to the heights of renown throughout North India. Today this musical lineage, or ghar n, lives on in the music and memories of only a small handful of descendants and players of the family instrument, the sarod. The author explores the oral history and written records of the Lucknow ghar n, tracing its displacement, loss of prestige and erasure from the collective memory. An interdisciplinary, postmodern counter-history, *Lineage of Loss* offers a new and unsettling narrative of Hindustani music’s encounter with modernity.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 

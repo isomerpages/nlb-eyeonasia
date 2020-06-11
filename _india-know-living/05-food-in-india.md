@@ -12,17 +12,49 @@ This is a selection of resources on food and cuisines in India available from th
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-complete-Indian-regional-cookbook-300-classic-recipes-from-the-great-regions-of-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/Tiffin-500-authentic-recipes-celebrating-India’s-regional-cuisine.jpg" style="width:150px;" />
 
-[**The complete Indian regional cookbook: 300 classic recipes from the great regions of India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202952426)
+[**Tiffin: 500 authentic recipes celebrating India’s regional cuisine**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203810277){:target="_blank"}
 
-Learn more about classic, local recipes and world-renowned dishes of India such as kababs, saffron rice and samosas kulfi. Clear step-by-step recipes ensure that readers can easily discover India’s unsurpassed cuisine for themselves in this award-winning cookbook.
+Compiled by an Indian food editor, *Tiffin* unlocks for readers the diverse flavours of India. More than 500 recipes are organized by region and further by course, including vegetarian dishes, hearty meat-filled dinners, seafood, 10-minute appetizers, impossibly easy homemade breads, desserts and drinks.
 
-All rights reserved, London: Lorenz Books, 2017.
+All rights reserved, New York : Black Dog & Leventhal Publishers, 2018.
+
+<img src="/images/book-covers/Tasting-India-Heirloom-family-recipes.jpg" style="width:150px;" />
+
+[**Tasting India: Heirloom family recipes**](https://nlb.overdrive.com/media/3995188){:target="_blank"}
+
+*Tasting India* is a gastronomic odyssey through home kitchens, crowded alleyways, fine restaurants and street shacks to explore the masterful, complex and vibrant tapestry of Indian cuisine. 
+
+Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
+
+<img src="/images/book-covers/Asmas-Indian-kitchen-Home-cooked-food.jpg" style="width:150px;" />
+
+[**Asma’s Indian kitchen: Home-cooked food brought to you by Darjeeling Express**](https://nlb.overdrive.com/media/4287409){:target="_blank"}
+
+In this book, Asma reveals the secret to her success, telling her immigrant’s story and how food brought her home. The recipes pay homage to the royal Mughlai ancestry and follow the route of the Darjeeling Express train from the busy streets of Bengal and Calcutta to the foothills of the Himalayas and Hyderabad.
+
+Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
+
+<img src="/images/book-covers/Sameen-Rushdie’s-Indian-Cookery.jpg" style="width:150px;" />
+
+[**Sameen Rushdie’s Indian cookery**](https://nlb.overdrive.com/media/3619302){:target="_blank"}
+
+Drawing together the traditional recipes from different Indian cuisines, Sameen Rushdie demonstrates her skill, knowledge and love for food that is prepared and eaten in homes, bazaars and eating houses in India. Discover recipes for both vegetarian and meat dishes, learn about spices and their traditions, and find out so much more about Indian cookery.
+
+Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
+
+<img src="/images/book-covers/Dosa-kitchen-Recipes-for-Indias-Favorite-Street-Food.jpg" style="width:150px;" />
+
+[**Dosa kitchen : Recipes for India’s favorite street food**](https://nlb.overdrive.com/media/3684888){:target="_blank"}
+
+Dosas, a popular Indian street food, are thin, rice- and lentil-based pancakes stuffed with or dipped in a variety of flavorful fillings. Dosa Kitchen shows you how to make this favourite comfort food at home, plus 50 recipes for fillings, chutneys and even cocktails to serve alongside. 
+
+Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/book-covers/Chai-chaat-chutney-A-street-food-journey-through-India.jpg" style="width:150px;" />
 
-[**Chai, chaat & chutney: A street food journey through India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202940823)
+[**Chai, chaat & chutney: A street food journey through India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202940823){:target="_blank"}
 
 These recipes draw inspiration from the wide variety of Indian street food from Mumbai, Kolkata, Delhi and Chennai, and allow the home-cook to recreate dishes that are both simple and delicious.
 
@@ -30,71 +62,23 @@ All rights reserved, London: Mitchell Beazley, 2017.
 
 <img src="/images/book-covers/I-love-India-Recipes-and-stories-from-morning-to-midnight-city-to-coast-and-past-to-present.jpg" style="width:150px;" />
 
-[**I love India: Recipes and stories from morning to midnight, city to coast, and past to present**](https://nlb.overdrive.com/media/3201628)
+[**I love India: Recipes and stories from morning to midnight, city to coast, and past to present**](https://nlb.overdrive.com/media/3201628){:target="_blank"}
 
 In this book, author Anjum Anand presents her favourite dishes from all over India as a tribute to her homeland and its extraordinary food culture. She shares authentic recipes from her personal collection gathered over years of travelling throughout the regions of India.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
-<img src="/images/book-covers/Rasika-Flavors-of-India.jpg" style="width:150px;" />
-
-[**Rasika: Flavors of India**](https://nlb.overdrive.com/media/3124491)
-
-With over 120 recipes, this book showcases and incorporates the diversity of local and seasonal ingredients to reinterpret Indian cuisine. It features inventive recipes such as squash samosas and avocado chaat with banana, reimagined classics like chicken tikka masala and goat biryani as well as a wide range of vegetarian options.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
-
 <img src="/images/book-covers/Saffron-soul-Healthy-vegetarian-heritage-recipes-from-India.jpg" style="width:150px;" />
 
-[**Saffron soul: Healthy, vegetarian heritage recipes from India**](https://nlb.overdrive.com/media/3272603)
+[**Saffron soul: Healthy, vegetarian heritage recipes from India**](https://nlb.overdrive.com/media/3272603){:target="_blank"}
 
 Be inspired by this selection of Gujarati recipes that not only replace traditionally used grains and sugar with healthier, more nutritious ingredients such as millet, chia seeds and jaggery, but also use less oil and fat.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
-<img src="/images/book-covers/Vibrant-India-Fresh-vegetarian-recipes-from-Bangalore-to-Brooklyn.jpg" style="width:150px;" />
-
-[**Vibrant India: Fresh vegetarian recipes from Bangalore to Brooklyn**](https://nlb.overdrive.com/media/2966670)
-
-Follow lifelong vegetarian and chef Chitra Agrawal as she takes you on an epicurean journey from Bangalore to Brooklyn, where she adapts her family’s South Indian recipes for home-cooks and shares more about the history behind the region’s cuisine.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
-
-<img src="/images/book-covers/Fresh-India-130-quick-easy-and-delicious-vegetarian-recipes-for-every-day.jpg" style="width:150px;" />
-
-[**Fresh India: 130 quick, easy and delicious vegetarian recipes for every day**](https://nlb.overdrive.com/media/2837481)
-
-Whether you are vegetarian, looking to eat more vegetables or just want to make great, modern Indian food, this is the book for you. Following her bestselling *Made in India*, Meera Sodha reveals a whole new side of Indian food that is fresh, delicious and quick-to-make at home.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
-
-<img src="/images/book-covers/The-curry-guy-Recreate-over-100-of-the-best-British-Indian-restaurant-recipes-at-home.jpg" style="width:150px;" />
-
-[**The curry guy: Recreate over 100 of the best British Indian restaurant recipes at home**](https://nlb.overdrive.com/media/3285342)
-
-Dan Toombs (or The Curry Guy) has perfected the art of replicating British Indian restaurant cooking after travelling around the United Kingdom, sampling dishes, learning the secrets of curry house kitchens and refining those recipes at home. These curries will taste just like a takeaway from your favourite restaurant but will save you both time and money.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
-
-<img src="/images/book-covers/Chai-the-spice-tea-of-India.jpg" style="width:150px;" />
-
-[**Chai: the spice tea of India**](https://nlb.overdrive.com/media/2511948)
-
-This heady mixture of cinnamon, nutmeg, anise and cloves transforms black tea into a full-bodied elixir that has been enjoyed in India for centuries, where street vendors have been serving piping hot chai to both tourists and natives. Read on to find out how this fascinating spice tea developed in India and try your hand with chai making with the recipes in the book.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
-
-<img src="/images/book-covers/Darjeeling-The-colorful-history-and-precarious-fate-of-the-worlds-greatest-tea.jpg" style="width:150px;" />
-
-[**Darjeeling: The colorful history and precarious fate of the world’s greatest tea**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202670375)
-
-Find out more about Darjeeling tea which is planted at a high elevation in an area of northern India within the heart of the Eastern Himalayas. The author shares how the Darjeeling tea began and blends history, politics, and reportage together, along with a collection of recipes that tea-drinkers will love.
-
-All rights reserved, New York: Bloomsbury, 2015.
-
 <img src="/images/book-covers/Bollywood-kitchen-Home-cooked-Indian-meals-paired-with-unforgettable-Bollywood-films.jpg" style="width:150px;" />
 
-[**Bollywood kitchen: Home-cooked Indian meals paired with unforgettable Bollywood films**](https://nlb.overdrive.com/media/3360013)
+[**Bollywood kitchen: Home-cooked Indian meals paired with unforgettable Bollywood films**](https://nlb.overdrive.com/media/3360013){:target="_blank"}
 
 Satiate all your senses with *Bollywood Kitchen*, which not only provides recipes for healthy and easy-to-prepare meals, but pairs Bollywood movies with them. This unique publication is a treasure for Indian food lovers and fans of world cinema alike.
 

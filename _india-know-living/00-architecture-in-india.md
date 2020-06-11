@@ -12,29 +12,29 @@ This is a selection of resources on architecture in India available from the [NL
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Landscapes-of-accumulation-Real-estate-and-the-neoliberal-imagination-in-contemporary-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/urban-renewal-in-india-theories-initiatives-spatial-planning-strategies.jpg" style="width:180px;" />
 
-[**Landscapes of accumulation: Real estate and the neoliberal imagination in contemporary India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202681412){:target="_blank"}
+[**Urban renewal in India: Theory, initiatives and spatial planning strategies**](https://eresources.nlb.gov.sg/main/browse/resource/1324/){:target="_blank"}
 
-With India’s booming developments, the urban transformation of the country has also brought about gleaming business complexes, giant condominium communities and spacious air-conditioned malls alongside open-air markets. This title documents the new private sector partnerships and practices that are transforming India’s built environment and presents how India’s land is rapidly transforming from a site of agricultural and industrial production to an international finance resource.
-
-All rights reserved, Chicago: The University of Chicago Press, 2016.
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**House, but no garden: Apartment living in Bombay’s Suburbs, 1898 – 1964**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-The author examines the challenge of converting lands from agrarian to urban use through the organisation of the middle-class neighbourhood which had become ubiquitous in the mid-20th century of Bombay’s city fabric. Apartment living is self-contained and represents a novel form of urban life. The author helps us to understand how built environments and urban identities constitute one another.
+This book is a comprehensive presentation of the theoretical, strategic and technical aspect of urban renewal. Major principles, strategies, tools and techniques for successful planning and implementation of urban renewal projects are explained with examples, covering major initiatives undertaken at central, state and city levels.
 
 Retrieved from ProQuest Ebook Central. *myLibrary* ID login is required to access this ebook.
 
-<img src="/images/book-covers/India-Modern-architectures-in-history.jpg" style="width:150px;" />
+<img src="/images/book-covers/Balkrishna-Doshi-architecture-for-the-people.jpg" style="width:150px;" />
 
-[**India: Modern architectures in history**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202932207){:target="_blank"}
+[**Balkrishna Doshi : Architecture for the people**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204037942){:target="_blank"}
 
-Drawing on a broad range of sources such as private papers and photographic collections to the extensive records of the Indian Public Works Department, this book shows how Indian architectural modernity which began in the early 20th century reflects and embodies the dramatic shifts of Indian society and culture.
+Balkrishna V. Doshi is an influential pioneer of modern architecture in India, internationally known for his visionary urban planning and social housing projects. Experts give insights into the inspiration behind Doshi's work and background to his projects, and his lasting influence on younger generations. A detailed biography and new photographs of his buildings demonstrate the timeliness of the Indian master's approaches to architecture.
 
-All rights reserved, London, UK: Reaktion Books, 2015.
+All rights reserved, Ahmedabad, India: Vastushilpa Foundation, 2019.
+
+<img src="/images/book-covers/Learning-from-Mumbai-practising-architecture-in-urban-India.jpg" style="width:150px;" />
+
+[**Learning from Mumbai : practising architecture in urban India**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204037942){:target="_blank"}
+
+Featuring interviews and reflections of eminent architects living and working in Mumbai, the ins-and-outs of practising architecture and planning in this megacity are explored through their eyes.
+
+All rights reserved, Ahmedabad : Mapin Publishing, 2017.
 
 <img src="/images/book-covers/Living-heritage-of-Mewar-Architecture-of-the-city-palace-Udaipur.jpg" style="width:150px;" />
 
@@ -52,18 +52,21 @@ Stepwells – ancient water stores – which are found below ground are unique t
 
 All rights reserved, London; New York: Merrell Publishers Ltd, 2017.
 
-<img src="/images/book-covers/Monuments-power-and-poverty-in-India-From-Ashoka-to-the-Raj.jpg" style="width:150px;" />
+<img src="/images/book-covers/Landscapes-of-accumulation-Real-estate-and-the-neoliberal-imagination-in-contemporary-India.jpg" style="width:150px;" />
 
-[**Monuments, power and poverty in India: From Ashoka to the Raj**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201498435){:target="_blank"}
+[**Landscapes of accumulation: Real estate and the neoliberal imagination in contemporary India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202681412){:target="_blank"}
 
-A comprehensive and well-researched overview, this title is complemented by an extensive collection of illustrations displaying the imperial architecture of the Indian subcontinent whose architectural history provides important insights into the diversity of its rulers.
+With India’s booming developments, the urban transformation of the country has also brought about gleaming business complexes, giant condominium communities and spacious air-conditioned malls alongside open-air markets. This title documents the new private sector partnerships and practices that are transforming India’s built environment and presents how India’s land is rapidly transforming from a site of agricultural and industrial production to an international finance resource.
 
-All rights reserved, London: I.B. Tauris & Co Ltd, 2015.
+All rights reserved, Chicago: The University of Chicago Press, 2016.
 
-<img src="/images/book-covers/Architecture-in-India-Since-1990.jpg" style="width:150px;" />
+------
 
-[**Architecture in India: Since 1990**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14228303){:target="_blank"}
+### **You may also like**
 
-Featuring the work of more than 60 contemporary architects, and lavishly illustrated with over 500 stunning photographs, this book will interest a vast readership of academics, architects and students, as well as exponents of multiple design disciplines and the general reader with an interest in contemporary India.
+<img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-All rights reserved, Mubai: Hatje Cantz, c 2011.
+[**Architecture from India – ArchDaily**](https://www.archdaily.com/country/india){:target="_blank"}
+
+Indian architecture is primarily established though historical and cultural influences. The conversation now revolves around how best to modernise, mediation of rapid urbanisation with respect to climate, culture and tradition, and questions of cultural preservation. 
+

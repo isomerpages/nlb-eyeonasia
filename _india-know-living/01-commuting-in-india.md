@@ -12,55 +12,67 @@ This is a selection of resources on commuting in India available from the [NLB c
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Lonely-Planet-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/lonely-planets-best-of-india.jpg" style="width:150px;" />
 
-[**Lonely Planet: India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6916997){:target="_blank"}
+[**Lonely Planet's Best of India **](https://nlb.overdrive.com/media/4946154){:target="_blank"}
 
-A timeless and popular travel guide that provides a good overview to travelling around India, with tips and guides to navigate around the region.
+The world’s leading travel guide is your passport to the most relevant, up-to-date advice on what to see and skip in India. Equipped with itineraries, transit tips and other essential information, discover the best of India and begin your journey with this trusted travel companion. 
 
-All rights reserved, Hawthorn, Vic.: Lonely Planet Publications, 2017.
+Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/Railways-and-the-Raj-How-the-age-of-steam-transformed-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/Truck-de-India-a-hitchhikers-guide-to-hindustan.jpg" style="width:150px;" />
 
-[**Railways and the Raj: How the age of steam transformed India**](https://nlb.overdrive.com/media/3348839){:target="_blank"}
+[**Truck de India!: A hitchhiker’s guide to Hindustan**](https://nlb.overdrive.com/media/5004843){:target="_blank"}
 
-Discover the story of India’s railways from its beginnings to the present day, and trace their role in Indian history and the creation of today’s modern state. The first railway line was completed in 1853 and fewer than 100 years later, in 1929, 41,000 miles of track already served the country. The Indian people quickly took to the railways, as the trains allowed them to travel easily for the first time. The Indian Railways network remains one of the largest in the world, serving over 25 million passengers each day.
+Journalist Rajat Ubhaykar embarks on a 10,000km-long, 100% unplanned trip, hitchhiking with truckers all across India. On the way he makes unexpected friendships, learning about the trucker lifestyle, documenting the fascinating tradition of truck art in Punjab and surviving dangerous highways through Nagaland and Manipur. This is a story of India, and Indians, on the road.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**Outlook of energy demand from the transport sector in India**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Evaluation of the decision-making process for urban public transport in India : a Delphi approach**](http://eresources.nlb.gov.sg/Main/browse/resource/1329){:target="_blank"}
 
-This report provides an overview of the transport sector in India, its past and projected growth, and the effects of various factors such as the transport sector’s consumption of energy until 2030. Various scenarios are presented with an analysis on how energy requirements will differ and need to be fulfilled.
+The government of India has proposed and constructed various mass rapid transit projects, such as metro rail and bus rapid transit system (BRTS) projects, under the purview of the National Urban Transport Policy (NUTP), Jawaharlal Nehru National Urban Renewal Mission (JnNURM) and other such schemes. The study identifies 12 issues and their priority in the decision-making process of selecting a public transport (MRTS) mode to implement.
 
-Retrieved from EbscoHost Academic Search Premier. *myLibrary* ID is required to access this database.
+Retrieved from EbscoHost databases. *myLibrary* ID is required to access this database.
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Statistical analysis of bus networks in India**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Modelling the Activity Travel Pattern of commuters in a medium-sized city in India**](http://eresources.nlb.gov.sg/Main/browse/resource/1329){:target="_blank"}
 
-A statistical analysis of India’s bus networks shows that physically constrained networks are susceptible and sensitive to attacks and disruptions. It sheds light on the potential improvements that could be made to bus networks in future.
+This paper explores the factors influencing a worker’s decision to choose an activity pattern for commuting in a city in India. Activity and travel information collected by home interview survey formed the database for the study.
 
-Retrieved from EbscoHost Academic Search Premier. *myLibrary* ID is required to access this database.
+Retrieved from EbscoHost databases. *myLibrary* ID is required to access this database.
 
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Indians spend 7% of their day getting to their office**](https://economictimes.indiatimes.com/jobs/indians-spend-7-of-their-day-getting-to-their-office/articleshow/70954228.cms){:target="_blank"}
+
+On an average, Indians spend 7% of their day in commuting to office, averaging less than 3 minutes per kilometre. The report found that office commuters in Chennai travelled the fastest at 25.7 km/hr, while Bengaluru and Mumbai commuters travelled the slowest.
+
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Greater Delhi’s economic enabler**](https://ncrtc.in/wp-content/uploads/2018/06/Railway-Gazette-Story.pdf){:target="_blank"}
+
+The road network of NCR is unable to keep pace with commuting demand despite huge investment. This article reports on India’s plans for an eight-route regional express rail network to serve the rapidly developing National Capital Region (NCR). The responsibilities of National Capital Region Transport Corp (NCRTC) to implement and oparate the Regional Rapid Transit System (RRTS) lines are explored.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
 [**Travel to India: Destinations, hotels, food, transport and tour guide**](https://www.mapsofindia.com/tourism/){:target="_blank"}
 
 Among the many resources available, you can also locate bus, train and flight schedules to plan your itinerary.
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
 [**Getting around – About India: Rough guides**](https://www.roughguides.com/destinations/asia/india/getting-around){:target="_blank"}
 
 Get a good overview of the different modes of transport within India. Be it by train, bus, plan or boat, plan your trips based on your preferences.
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**Indian Railway Passenger Reservation Enquiry**](http://www.indianrail.gov.in/enquiry){:target="_blank"}
 
