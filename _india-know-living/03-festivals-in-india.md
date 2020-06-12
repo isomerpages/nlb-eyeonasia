@@ -40,7 +40,7 @@ Retrieved from ProQuest Central. *myLibrary* ID is required to access this datab
 
 [**Jaipur Literature Festival, India Art Fair and more: The 2020 Calendar**](http://eresources.nlb.gov.sg/Main/browse/resource/1111){:target="_blank"}
 
-If you are an art and cultural junkie, this article maps out the next twelve months of the year, so you can culture-hop from city to city.
+If you are an art and cultural junkie, this article maps out all twelve months of the year, so you can culture-hop from city to city.
 
 Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
 
@@ -50,13 +50,13 @@ Retrieved from ProQuest Central. *myLibrary* ID is required to access this datab
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Festivals and Events in India in October 2020**](https://www.tripsavvy.com/october-india-festivals-and-events-guide-1539301){:target="_blank"}
+[**Festivals and events in India in October 2020**](https://www.tripsavvy.com/october-india-festivals-and-events-guide-1539301){:target="_blank"}
 
 October is a very exuberant time in India, with many festivals and celebrations occurring all over the country. Take part in events filled with lights, music and dance during India’s own festive season.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**15 Most Popular Festivals of India**](http://www.transindiatravels.com/india/festivals-in-india/){:target="_blank"}
+[**15 most popular festivals of India**](http://www.transindiatravels.com/india/festivals-in-india/){:target="_blank"}
 
 The culturally rich land of India produces various festivals on its soil, magnifying the beauty of India and its citizens. Be sure to experience at least these 15 prominent ones, to mark not just your calendar, but also your life with their names.
 

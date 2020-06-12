@@ -58,9 +58,9 @@ Retrieved from EBSCOhost databases. *myLibrary* ID is required to access this da
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Reserve Bank of India report: Benchmarking India's Payment Systems**](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=923){:target="_blank"}
+[**Reserve Bank of India report: Benchmarking India's payment systems**](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=923){:target="_blank"}
 
-The past decade has witnessed several innovations in retail payments across the globe including India. Benchmarking India’s Payment Systems facilitates an assessment of India’s progress against payment systems and instruments in major countries and provides further impetus to the planned efforts for deepening the digitisation of payments.
+The past decade has witnessed several innovations in retail payments across the globe including India. *Benchmarking India’s Payment Systems* facilitates an assessment of India’s progress against payment systems and instruments in major countries and provides further impetus to the planned efforts for deepening the digitisation of payments.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 

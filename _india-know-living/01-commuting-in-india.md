@@ -38,7 +38,7 @@ Retrieved from EBSCOhost databases. *myLibrary* ID is required to access this da
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Modelling the Activity Travel Pattern of commuters in a medium-sized city in India**](http://eresources.nlb.gov.sg/Main/browse/resource/1329){:target="_blank"}
+[**Modelling the activity travel pattern of commuters in a medium-sized city in India**](http://eresources.nlb.gov.sg/Main/browse/resource/1329){:target="_blank"}
 
 This paper explores the factors influencing a worker’s decision to choose an activity pattern for commuting in a city in India. Activity and travel information collected by home interview survey formed the database for the study.
 
