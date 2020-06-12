@@ -46,7 +46,7 @@ Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/book-covers/Dosa-kitchen-Recipes-for-Indias-Favorite-Street-Food.jpg" style="width:150px;" />
 
-[**Dosa kitchen : Recipes for India’s favorite street food**](https://nlb.overdrive.com/media/3684888){:target="_blank"}
+[**Dosa kitchen: Recipes for India’s favorite street food**](https://nlb.overdrive.com/media/3684888){:target="_blank"}
 
 Dosas, a popular Indian street food, are thin, rice- and lentil-based pancakes stuffed with or dipped in a variety of flavorful fillings. Dosa Kitchen shows you how to make this favourite comfort food at home, plus 50 recipes for fillings, chutneys and even cocktails to serve alongside. 
 

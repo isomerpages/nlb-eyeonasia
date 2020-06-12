@@ -56,7 +56,7 @@ October is a very exuberant time in India, with many festivals and celebrations 
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**15 Most Popular Festivals of India**](http://www.transinindiatravels.com/india/festivals-in-india/){:target="_blank"}
+[**15 Most Popular Festivals of India**](http://www.transindiatravels.com/india/festivals-in-india/){:target="_blank"}
 
 The culturally rich land of India produces various festivals on its soil, magnifying the beauty of India and its citizens. Be sure to experience at least these 15 prominent ones, to mark not just your calendar, but also your life with their names.
 

@@ -14,7 +14,7 @@ This is a selection of resources on Indian fashion available from the [NLB catal
 
 <img src="/images/book-covers/The-Indian-textile-sourcebook-patterns-and-techniques.jpg" style="width:150px;" />
 
-[**The Indian textile sourcebook : Patterns and techniques**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203883903){:target="_blank"}
+[**The Indian textile sourcebook: Patterns and techniques**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203883903){:target="_blank"}
 
 Indian textile designs express dazzling inventiveness and creativity, from the woven silks of royalty to the simple block printed patterns. This authoritative sourcebook overflows with colour and patterns to inspire and inform.
 
@@ -22,7 +22,7 @@ All rights reserved, London: Thames & Hudson: V&A Publishing, 2019.
 
 <img src="/images/book-covers/Patterns-of-India-A-journey-through-colours-textiles-and-the-vibrancy-of-Rajasthan.jpg" style="width:150px;" />
 
-[**Patterns of India : A journey through colours, textiles and the vibrancy of Rajasthan **](https://nlb.overdrive.com/media/4941580){:target="_blank"}
+[**Patterns of India: A journey through colours, textiles and the vibrancy of Rajasthan**](https://nlb.overdrive.com/media/4941580){:target="_blank"}
 
 This book features the trip of a lifetime – a textile-based tour of colourful Rajasthan, India featuring more than 200 lush photographs depicting everyday life in one of the most vibrant regions in the world.
 

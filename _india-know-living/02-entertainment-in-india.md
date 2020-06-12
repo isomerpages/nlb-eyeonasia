@@ -24,7 +24,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 [**New kings of the world: Dispatches from Bollywood, Dizi, and K-Pop**](http://nlb.overdrive.com/media/4920167){:target="_blank"}
 
-This is a book about the new arbiters of mass culture - India’s Bollywood films, Turkey’s soap operas (dizi), and South Korea’s pop music. In the book, reporter and writer Fatima Bhutto profiles Shah Rukh Khan, popular actor, teasing out insights into the new global pop culture phenomenon that is Bollywood.
+This is a book about the new arbiters of mass culture - India’s Bollywood films, Turkey’s soap operas (dizi), and South Korea’s pop music. Reporter and writer Fatima Bhutto profiles Shah Rukh Khan, popular actor, teasing out insights into the new global pop culture phenomenon that is Bollywood.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
@@ -32,9 +32,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 [**Zakir Hussain: A life in music**](https://nlb.overdrive.com/media/3682569){:target="_blank"}
 
-The book introduces the life and times of tabla virtuoso, composer and percussionist
-
-Zakir Hussain. We read about his early years, experiences and memories working with legendary musicians including his dedication and love for the tabla. Zakir Hussain is considered a revered role model, a visionary world musician and an acclaimed celebrity living in both America and India!
+The book introduces the life and times of tabla virtuoso, composer and percussionist Zakir Hussain. We read about his early years, experiences and memories working with legendary musicians including his dedication and love for the tabla. Zakir Hussain is considered a revered role model, a visionary world musician and an acclaimed celebrity living in both America and India.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 

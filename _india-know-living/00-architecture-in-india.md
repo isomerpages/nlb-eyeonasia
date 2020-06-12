@@ -12,17 +12,9 @@ This is a selection of resources on architecture in India available from the [NL
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/urban-renewal-in-india-theories-initiatives-spatial-planning-strategies.jpg" style="width:180px;" />
-
-[**Urban renewal in India: Theory, initiatives and spatial planning strategies**](https://eresources.nlb.gov.sg/main/browse/resource/1324/){:target="_blank"}
-
-This book is a comprehensive presentation of the theoretical, strategic and technical aspect of urban renewal. Major principles, strategies, tools and techniques for successful planning and implementation of urban renewal projects are explained with examples, covering major initiatives undertaken at central, state and city levels.
-
-Retrieved from ProQuest Ebook Central. *myLibrary* ID login is required to access this ebook.
-
 <img src="/images/book-covers/Balkrishna-Doshi-architecture-for-the-people.jpg" style="width:150px;" />
 
-[**Balkrishna Doshi : Architecture for the people**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204037942){:target="_blank"}
+[**Balkrishna Doshi: Architecture for the people**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204037942){:target="_blank"}
 
 Balkrishna V. Doshi is an influential pioneer of modern architecture in India, internationally known for his visionary urban planning and social housing projects. Experts give insights into the inspiration behind Doshi's work and background to his projects, and his lasting influence on younger generations. A detailed biography and new photographs of his buildings demonstrate the timeliness of the Indian master's approaches to architecture.
 
@@ -30,7 +22,7 @@ All rights reserved, Ahmedabad, India: Vastushilpa Foundation, 2019.
 
 <img src="/images/book-covers/Learning-from-Mumbai-practising-architecture-in-urban-India.jpg" style="width:150px;" />
 
-[**Learning from Mumbai : practising architecture in urban India**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204037942){:target="_blank"}
+[**Learning from Mumbai: Practising architecture in urban India**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202920677){:target="_blank"}
 
 Featuring interviews and reflections of eminent architects living and working in Mumbai, the ins-and-outs of practising architecture and planning in this megacity are explored through their eyes.
 
@@ -59,6 +51,14 @@ All rights reserved, London; New York: Merrell Publishers Ltd, 2017.
 With India’s booming developments, the urban transformation of the country has also brought about gleaming business complexes, giant condominium communities and spacious air-conditioned malls alongside open-air markets. This title documents the new private sector partnerships and practices that are transforming India’s built environment and presents how India’s land is rapidly transforming from a site of agricultural and industrial production to an international finance resource.
 
 All rights reserved, Chicago: The University of Chicago Press, 2016.
+
+<img src="/images/book-covers/urban-renewal-in-india-theories-initiatives-spatial-planning-strategies.jpg" style="width:180px;" />
+
+[**Urban renewal in India: Theory, initiatives and spatial planning strategies**](https://eresources.nlb.gov.sg/main/browse/resource/1324/){:target="_blank"}
+
+This book is a comprehensive presentation of the theoretical, strategic and technical aspect of urban renewal. Major principles, strategies, tools and techniques for successful planning and implementation of urban renewal projects are explained with examples, covering major initiatives undertaken at central, state and city levels.
+
+Retrieved from ProQuest Ebook Central. *myLibrary* ID login is required to access this ebook.
 
 ------
 

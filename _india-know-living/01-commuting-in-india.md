@@ -14,7 +14,7 @@ This is a selection of resources on commuting in India available from the [NLB c
 
 <img src="/images/book-covers/lonely-planets-best-of-india.jpg" style="width:150px;" />
 
-[**Lonely Planet's Best of India **](https://nlb.overdrive.com/media/4946154){:target="_blank"}
+[**Lonely Planet's Best of India**](https://nlb.overdrive.com/media/4946154){:target="_blank"}
 
 The world’s leading travel guide is your passport to the most relevant, up-to-date advice on what to see and skip in India. Equipped with itineraries, transit tips and other essential information, discover the best of India and begin your journey with this trusted travel companion. 
 
@@ -34,7 +34,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 The government of India has proposed and constructed various mass rapid transit projects, such as metro rail and bus rapid transit system (BRTS) projects, under the purview of the National Urban Transport Policy (NUTP), Jawaharlal Nehru National Urban Renewal Mission (JnNURM) and other such schemes. The study identifies 12 issues and their priority in the decision-making process of selecting a public transport (MRTS) mode to implement.
 
-Retrieved from EbscoHost databases. *myLibrary* ID is required to access this database.
+Retrieved from EBSCOhost databases. *myLibrary* ID is required to access this database.
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
@@ -42,7 +42,7 @@ Retrieved from EbscoHost databases. *myLibrary* ID is required to access this da
 
 This paper explores the factors influencing a worker’s decision to choose an activity pattern for commuting in a city in India. Activity and travel information collected by home interview survey formed the database for the study.
 
-Retrieved from EbscoHost databases. *myLibrary* ID is required to access this database.
+Retrieved from EBSCOhost databases. *myLibrary* ID is required to access this database.
 
 ---
 
@@ -68,7 +68,7 @@ Among the many resources available, you can also locate bus, train and flight sc
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Getting around – About India: Rough guides**](https://www.roughguides.com/destinations/asia/india/getting-around){:target="_blank"}
+[**Rough Guides - Getting around India**](https://www.roughguides.com/destinations/asia/india/getting-around){:target="_blank"}
 
 Get a good overview of the different modes of transport within India. Be it by train, bus, plan or boat, plan your trips based on your preferences.
 
@@ -82,4 +82,4 @@ Find out the availability of train seating, fares, ticketing and more. Up-to-dat
 
 [**Government of India – Ministry of Road Transport & Highways**](https://parivahan.gov.in/parivahan/){:target="_blank"}
 
-Intending to drive in India? There are several considerations, including vehicle and driving licences. Find out what you will need at the Government of India’s Ministry of Road Transport & Highway portal.
+Intending to drive in India? There are several considerations, including vehicle and driving licences. Find out what you will need at the Government of India’s Ministry of Road Transport & Highways portal.

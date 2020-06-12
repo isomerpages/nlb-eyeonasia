@@ -38,7 +38,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Nation at play: A history of sport in India**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Nation at play: A history of sport in India**](https://eresources.nlb.gov.sg/main/browse/resource/1324/){:target="_blank"}
 
 This is an informative history of India’s sports from ancient times to current contemporary India. It also analyses the cultural and political development of India’s sports. Read on for interesting and significant historical sporting events such as India’s soccer team Mohun Bagan’s victory in the 1911 IFA Shield and India’s first participation in the Olympic Games in 1924.
 
@@ -60,4 +60,4 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 [**National Games – Indian Olympic Association**](https://www.olympic.ind.in/national-games){:target="_blank"}
 
-The Olympic movement gathered momentum in India in the 1920s, and the need to identify national talent for the Olympic Games prompted the initiation of the National Games. The first edition was launched in an undivided Punjab in 1924 and has continued every few years up to now.
+The Olympic movement gathered momentum in India in the 1920s, and the need to identify national talent for the Olympic Games prompted the initiation of the National Games in India. The first edition was launched in an undivided Punjab in 1924 and has continued every few years up to now.

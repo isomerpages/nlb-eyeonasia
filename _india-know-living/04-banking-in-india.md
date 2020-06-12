@@ -14,27 +14,27 @@ This is a selection of resources on financial and banking services in India avai
 
 <img src="/images/book-covers/Banking-and-financial-markets-in-India-1947-48-to-2019-20.jpg" style="width:150px;" />
 
-[**Banking and financial markets in India : 1947-48 to 2019-20**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204007542){:target="_blank"}
+[**Banking and financial markets in India: 1947-48 to 2019-20**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204007542){:target="_blank"}
 
-Indian capital market has witnessed a series of reforms since the early 1990s. This book traces developments in the banking sector and financial markets in India since Independence in 1947.
+This book traces developments in the banking sector and financial markets in India since Independence in 1947. It covers the nationalisation of commercial banks in 1969 and 1980, and sector reforms in the 1990s. The process of transition has been largely disruption-free, accommodating the unique features of the existing system while trying to align with the best international practices. This supported the transition of the Indian economy to a higher growth path, while significantly improving the stability of the financial system. 
 
 All rights reserved, New Delhi, India : New Century Publications, 2019
 
-<img src="/images/book-covers/The-Dhando-investor-The-low-risk-value-method-to-high-returns.jpg" style="width:150px;" />
-
-[**The Dhando investor : The low-risk value method to high-returns**](https://nlb.overdrive.com/media/131173){:target="_blank"}
-
-The Dhandho Investor lays out the powerful framework of value investing. Written with the intelligent individual investor in mind, this comprehensive guide distills the Dhandho capital allocation framework of the business savvy Patels from India and presents how they can be applied successfully to the stock market.
-
-Retrieved from OverDrive. *myLibrary* ID is required to access this audiobook.
-
 <img src="/images/book-covers/Talking-financial-inclusion-in-the-liberalised-India-conversations-with-governors-of-the-Reserve-Bank-of-India.jpg" style="width:150px;" />
 
-[**Talking financial inclusion in the liberalised India : conversations with governors of the Reserve Bank of India **](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203784777){:target="_blank"}
+[**Talking financial inclusion in the liberalised India: Conversations with governors of the Reserve Bank of India**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203784777){:target="_blank"}
 
 This book presents a set of conversations with five former Governors of Reserve Bank of India (from 1992 onwards) on the topic of financial inclusion. Two key aspects were introduced in the conversations with each Governor: the initiatives that were undertaken during their tenure and their responses to some of the current issues.
 
 All rights reserved, New York, NY: Routledge, 2018.
+
+<img src="/images/book-covers/The-Dhando-investor-The-low-risk-value-method-to-high-returns.jpg" style="width:150px;" />
+
+[**The Dhando investor: The low-risk value method to high-returns**](https://nlb.overdrive.com/media/131173){:target="_blank"}
+
+The Dhandho Investor lays out the powerful framework of value investing. Written with the intelligent individual investor in mind, this comprehensive guide distills the Dhandho capital allocation framework of the business savvy Patels from India and presents how they can be applied successfully to the stock market.
+
+Retrieved from OverDrive. *myLibrary* ID is required to access this audiobook.
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
@@ -42,7 +42,7 @@ All rights reserved, New York, NY: Routledge, 2018.
 
 The article comments on emerging issues related to central banking in India, with reference to former governor of the Reserve Bank of India (RBI) C.D. Deshmukh’s lecture in 1948 on “Central Banking in India – A Retrospect,” which was delivered in the backdrop of differences between the Government and RBI on nationalisation of the Reserve Bank.
 
-Retrieved from EBSCOHost databases. *myLibrary* ID is required to access this database.
+Retrieved from EBSCOhost databases. *myLibrary* ID is required to access this database.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
@@ -50,7 +50,7 @@ Retrieved from EBSCOHost databases. *myLibrary* ID is required to access this da
 
 This paper analyses the need, significance and the advantages of reforms in institutional finance for inclusive growth in the context of the Indian economy, offering some practical suggestions from the functional perspective.
 
-Retrieved from EBSCOHost databases. *myLibrary* ID is required to access this database.
+Retrieved from EBSCOhost databases. *myLibrary* ID is required to access this database.
 
 ---
 
@@ -58,7 +58,7 @@ Retrieved from EBSCOHost databases. *myLibrary* ID is required to access this da
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Reserve Bank of India report: Benchmarking India's Payment Systems **](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=923){:target="_blank"}
+[**Reserve Bank of India report: Benchmarking India's Payment Systems**](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=923){:target="_blank"}
 
 The past decade has witnessed several innovations in retail payments across the globe including India. Benchmarking India’s Payment Systems facilitates an assessment of India’s progress against payment systems and instruments in major countries and provides further impetus to the planned efforts for deepening the digitisation of payments.
 
@@ -76,12 +76,12 @@ The Indian government aims to transform the country into a digitally empowered s
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Financial Services in India**](https://www.ibef.org/industry/financial-services-india.aspx){:target="_blank"}
+[**Financial services in India**](https://www.ibef.org/industry/financial-services-india.aspx){:target="_blank"}
 
 India has a diversified financial sector undergoing rapid expansion, both in terms of growth of existing financial services firms and new entities entering the market. Learn about the Indian financial services industry in this report by the India Brand Equity Foundation.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Emerging technologies disrupting the financial sector**](https://pwc.in/assets/pdfs/consulting/fincial-services/fintech/publications/emerging -technologies-disrupting-the-financial-sector.pdf){:target="_blank"}
+[**Emerging technologies disrupting the financial sector**](https://www.pwc.in/assets/pdfs/consulting/financial-services/fintech/publications/emerging-technologies-disrupting-the-financial-sector.pdf){:target="_blank"}
 
 India’s FinTech market has been on an upward growth over the past few years, with more new FinTech companies being founded and invested in. Emerging technological trends will continue to transform the financial sector. This report provides an overview of this landscape and presents recommendations for furthering India’s FinTech growth story.
