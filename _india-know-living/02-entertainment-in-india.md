@@ -16,7 +16,7 @@ This is a selection of resources on entertainment in India available from the [N
 
 [**Raj Kapoor: The one and only showman**](http://nlb.overdrive.com/media/3668871){:target="_blank"}
 
-Raj Kapoor, the creator of some of Hindi cinema’s most enduring classics, is one of the greatest film-makers India has ever produced. He blazed a trail for subsequent generations of film-makers to follow and aspire to. The extraordinary yet controversial showman, painted as a fascinating portrait in this biography.
+Raj Kapoor, the creator of some of Hindi cinema’s most enduring classics, is one of the greatest film-makers India has ever produced. He blazed a trail for subsequent generations of film-makers to follow and aspire to. This biography provides an intimate glimpse into the mind of Raj Kapoor and paints a fascinating portrait of this extraordinary, yet controversial, showman.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
@@ -24,7 +24,7 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 [**New kings of the world: Dispatches from Bollywood, Dizi, and K-Pop**](http://nlb.overdrive.com/media/4920167){:target="_blank"}
 
-This is a book about the new arbiters of mass culture - India’s Bollywood films, Turkey’s soap operas (dizi), and South Korea’s pop music. Reporter and writer Fatima Bhutto profiles Shah Rukh Khan, popular actor, teasing out insights into the new global pop culture phenomenon that is Bollywood.
+This is a book about the new arbiters of mass culture - India’s Bollywood films, Turkey’s soap operas (dizi), and South Korea’s pop music. Reporter and writer Fatima Bhutto profiles Shah Rukh Khan, a popular actor in India, teasing out insights into the new global pop culture phenomenon that is Bollywood.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
@@ -32,19 +32,11 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 [**Zakir Hussain: A life in music**](https://nlb.overdrive.com/media/3682569){:target="_blank"}
 
-The book introduces the life and times of tabla virtuoso, composer and percussionist Zakir Hussain. We read about his early years, experiences and memories working with legendary musicians including his dedication and love for the tabla. Zakir Hussain is considered a revered role model, a visionary world musician and an acclaimed celebrity living in both America and India.
+The book introduces the life and times of tabla virtuoso, composer and percussionist Zakir Hussain. We read about his early years, experiences, memories working with legendary musicians and his dedication and love for the tabla. Zakir Hussain is considered a revered role model, a visionary world musician and an acclaimed celebrity living in both America and India.
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 <img src="/images/book-covers/The-strange-disappearance-of-a-Bollywood-star.jpg" style="width:150px;" />
-
-[**The strange disappearance of a Bollywood star**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202940934){:target="_blank"}
-
-Read this interesting fiction set in the city of Mumbai as Inspector Chopra and his sidekick, baby elephant Ganesha, embark on a journey into the world’s most flamboyant movie industry to search for rising star, Vikram Verma, who has disappeared leaving his latest film in jeopardy. Feuding starts, failed investments and death threats are just some discoveries that they uncover, thus affirming Chopra’s suspicion that the truth is often stranger than fiction in Bollywood.
-
-All rights reserved, New York: Redhook, 2017.
-
-<img src="/images/book-covers/Lineage-of-loss-Counternarratives-of-North-Indian-music.jpg" style="width:150px;" />
 
 [**Lineage of loss: Counternarratives of North Indian music**](https://nlb.overdrive.com/media/3550672){:target="_blank"}
 
@@ -66,4 +58,4 @@ This snapshot by the India Brand Equity Foundation offers an informative overvie
 
 [**National portal of India: Art & culture**](https://www.india.gov.in/topics/art-culture){:target="_blank"}
 
-This is the official portal of the Government of India with information related to art and culture with extensive information and several schemes for engagement in literary, performing and visual arts.
+This is the official portal of the Government of India with information related to art and culture, including extensive information on aspects like dance, literature, music and theatre, and several schemes for engagement in literary, performing and visual arts.

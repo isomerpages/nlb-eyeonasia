@@ -32,7 +32,7 @@ This site provides a useful listing of airlines and airports that connect to Yan
 
 [**Yangon Bus Directory**](http://ygnbusdirectory.com/){:target="_blank"}
 
-This is a list of bus routes plotted on Google Maps. Click on the “Transit Map” tab to see all the bus routes but note that the text is in Burmese.
+This is a list of bus routes plotted on Google Maps. You can view bus routes based on bus service number, township or bus stop. The website has both English and Burmese versions.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 

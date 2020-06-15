@@ -16,9 +16,9 @@ This is a selection of resources on food and cuisines in India available from th
 
 [**Tiffin: 500 authentic recipes celebrating India’s regional cuisine**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203810277){:target="_blank"}
 
-Compiled by an Indian food editor, *Tiffin* unlocks for readers the diverse flavours of India. More than 500 recipes are organized by region and further by course, including vegetarian dishes, hearty meat-filled dinners, seafood, 10-minute appetizers, impossibly easy homemade breads, desserts and drinks.
+Compiled by an Indian food editor, *Tiffin* unlocks for readers the diverse flavours of India. More than 500 recipes are organised by region and course, including vegetarian dishes, hearty meat-filled dinners, seafood, 10-minute appetisers, easy homemade breads, desserts and drinks.
 
-All rights reserved, New York : Black Dog & Leventhal Publishers, 2018.
+All rights reserved, New York: Black Dog & Leventhal Publishers, 2018.
 
 <img src="/images/book-covers/Tasting-India-Heirloom-family-recipes.jpg" style="width:150px;" />
 
@@ -32,7 +32,7 @@ Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
 
 [**Asma’s Indian kitchen: Home-cooked food brought to you by Darjeeling Express**](https://nlb.overdrive.com/media/4287409){:target="_blank"}
 
-In this book, Asma reveals the secret to her success, telling her immigrant’s story and how food brought her home. The recipes pay homage to the royal Mughlai ancestry and follow the route of the Darjeeling Express train from the busy streets of Bengal and Calcutta to the foothills of the Himalayas and Hyderabad.
+In this book, Asma reveals the secret to her success, telling her immigrant’s story and how food brought her home. The recipes pay homage to the royal Mughlai ancestry and follow the route of the Darjeeling Express train from the busy streets of Bengal and Calcutta (now known as Kolkata) to the foothills of the Himalayas and Hyderabad.
 
 Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
 
@@ -40,7 +40,7 @@ Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
 
 [**Sameen Rushdie’s Indian cookery**](https://nlb.overdrive.com/media/3619302){:target="_blank"}
 
-Drawing together the traditional recipes from different Indian cuisines, Sameen Rushdie demonstrates her skill, knowledge and love for food that is prepared and eaten in homes, bazaars and eating houses in India. Discover recipes for both vegetarian and meat dishes, learn about spices and their traditions, and find out so much more about Indian cookery.
+Drawing together the traditional recipes from different Indian cuisines, Sameen Rushdie demonstrates her skill, knowledge and love for food that is prepared and eaten in homes, bazaars and eating houses in India. Discover recipes for both vegetarian and meat dishes, learn about spices and their traditions, and find out  more about Indian cookery from this ebook today!
 
 Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
 
@@ -48,7 +48,7 @@ Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
 
 [**Dosa kitchen: Recipes for India’s favorite street food**](https://nlb.overdrive.com/media/3684888){:target="_blank"}
 
-Dosas, a popular Indian street food, are thin, rice- and lentil-based pancakes stuffed with or dipped in a variety of flavorful fillings. Dosa Kitchen shows you how to make this favourite comfort food at home, plus 50 recipes for fillings, chutneys and even cocktails to serve alongside. 
+Dosa, a popular Indian street food, is a thin, rice- and lentil-based pancake stuffed with or dipped in a variety of flavourful fillings. *Dosa Kitchen* shows you how to make this favourite comfort food at home, plus 50 recipes for fillings, chutneys and even cocktails to serve alongside dosa. 
 
 Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
 
@@ -64,7 +64,7 @@ All rights reserved, London: Mitchell Beazley, 2017.
 
 [**I love India: Recipes and stories from morning to midnight, city to coast, and past to present**](https://nlb.overdrive.com/media/3201628){:target="_blank"}
 
-In this book, author Anjum Anand presents her favourite dishes from all over India as a tribute to her homeland and its extraordinary food culture. She shares authentic recipes from her personal collection gathered over years of travelling throughout the regions of India.
+In this book, author Anjum Anand presents her favourite dishes from all over India as a tribute to her homeland and its extraordinary food culture. She shares authentic recipes from her personal collection, gathered over years of travelling throughout the regions of India.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
@@ -72,7 +72,7 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
 [**Saffron soul: Healthy, vegetarian heritage recipes from India**](https://nlb.overdrive.com/media/3272603){:target="_blank"}
 
-Be inspired by this selection of Gujarati recipes that not only replace traditionally used grains and sugar with healthier, more nutritious ingredients such as millet, chia seeds and jaggery, but also use less oil and fat.
+Be inspired by this selection of Gujarati recipes that not only replaces traditionally used grains and sugar with healthier, more nutritious ingredients such as millet, chia seeds and jaggery, but also use less oil and fat.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
