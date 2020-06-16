@@ -6,7 +6,7 @@ breadcrumb: Sports and recreation in India
 collection_name: india-know-living
 ---
 
-<img src="\images\india-living\sports-and-recreation-in-india.jpg" alt="sports and recreation in india" style="width:800px;" />
+<img src="\images\india-living\sports-in-india.jpg" alt="sports and recreation in india" style="width:800px;" />
 
 This is a selection of resources on sports and recreation in India from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
 
