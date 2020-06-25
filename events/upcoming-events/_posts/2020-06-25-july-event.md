@@ -38,5 +38,17 @@ Eng Han oversees ACT Inc.’s learning businesses in Asia and supports its asses
 
 Zhong Yi is a business facilitator who is currently focused on translating technologies into business opportunities. He worked in the finance industry before starting a health management application and a business in the entertainment industry. He later became a business facilitator helping Chinese companies in the merger and acquisitions of overseas companies.
 
+### **Online Programme/Event Administrative Information**
+
+***online event***
+
+• This programme will take place on Zoom.
+
+• A link to the virtual programme will be sent to your email.
+
+• Please ensure that you enter a valid email address.
+
+• You may access Zoom through the app or web browser.
+
 <a href="https://www.eventbrite.com/e/post-covid-19-future-the-new-norm-of-doing-business-in-china-registration-110919093996"><img src="\images\past-events\08-Jul-2020\EOA eDM V5.jpg" style="width:650px;" /></a>
 
