@@ -12,66 +12,58 @@ This is a selection of resources on media in India available from the [NLB catal
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-Modi-effect-Inside-Narendra-Modi’s-campaign-to-transform-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/Indias-state-run-media-broadcasting-power-and-narrative.jpg" style="width:150px;" />
 
-[**The Modi effect: Inside Narendra Modi’s campaign to transform India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202849795){:target="_blank"}
+[**India’s state-run media: Broadcasting, power and narrative**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204022016){:target="_blank"}
 
-Read how Narendra Modi and his campaign team created a masterclass in modern engineering through the use of social media, the internet, mobile phones and digital technologies to go on and win the election in May 2014 and become Prime Minister of India. Pioneering techniques such as a” virtual Modi” – a life-size 3D hologram was beamed to parts of India that Modi could not visit in person were believed to have brought millions of young people to the ballot box.
+*India’s State-run Media* presents a new perspective on broadcasting by bringing together two neglected areas of research in media studies in India – the intertwined genealogies of sovereignty, public, region and nation in radio and television, and the spatio-temporal dynamics of broadcasting into a single analytic inquiry.
 
-All rights reserved, London: Hodder, 2016.
+All rights reserved, New Delhi: Cambridge University Press, 2019
 
-<img src="/images/book-covers/The-Indian-media-business.jpg" style="width:150px;" />
+<img src="/images/book-covers/The-making-of-Star-India-the-amazing-story-of-Rupert-Murdochs-India-adventure.jpg" style="width:180px;" />
 
-[**The Indian media business**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202612232){:target="_blank"}
+[**The making of Star India: The amazing story of Rupert Murdoch’s India adventure**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203978180){:target="_blank"}
 
-This informative fourth edition provides a detailed analysis and perspectives on media business in India, namely print, TV, film, radio, music, digital, outdoor and events. Also included is a chapter on digital media from the business perspective and the major issues which digital media industry faces in India. A must-read for those keen to learn more about the India media and entertainment business.
+Murdoch bought over Star TV in the early 1990s, dismaying analysts with his purchase of a supposedly lacklustre pan-Asian broadcaster. 25 years later, Star India is one of India’s largest media firms, showcasing the potential of India’s media market to the world. This book tells the thrilling story of Indian television through its most notable protagonist- Star TV.
 
-All rights reserved, Los Angeles: SAGE Publications, 2013.
+All rights reserved, Gurgaon: Penguin Random House, 2019.
 
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+<img src="/images/book-covers/towards-a-peoples-cinema.jpg" style="width:150px;" />
 
-[**Indian media system: An application of comparative media approach**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Towards a people’s cinema: Independent documentary and its audience in India**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203113409){:target="_blank"}
 
-Tapping on comparative media analysis and available literature, this article analyses the Indian media system with respect to its political system. It also provides an overview of mass media development, political parallelism, professionalisation and the role of the state in Indian media.
+*Towards a People’s Cinema* hopes to open up more scope for a dialectical exchange between practitioners, audiences, subjects and activists of independent documentary cinema in India, probing the latter as a medium with the radical potential of challenging and disrupting the status quo.
 
-Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
+All rights reserved, Gurgaon: Three Essays Collective, 2018.
 
-<img src="/images/book-covers/Television-Histories-in-Asia.jpg" style="width:150px;" />
+<img src="/images/book-covers/Transforming-social-media-business-models-through-blockchain.jpg" style="width:150px;" />
 
-[**Television Histories in Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202348388){:target="_blank"}
+[**Transforming social media business models through blockchain**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204160929){:target="_blank"}
 
-Take a look at the history of television across countries in Asia like India, China, Taiwan, Singapore, Indonesia, Japan, Hong Kong, the Philippines, Malaysia and Bhutan. A case study is presented under each chapter on a highlighted country and considers the culture, social and political impact of television. Chapter 3 writes about “Trust and Television in Globalizing India*”.*
+Blockchain technology has the potential to disrupt and transform the social media business space. Nitin Upadhyay offers an accessible discussion of how blockchain can revolutionise social media business models. This book is offers practical advice to stakeholders associated with social media, blockchain and management, including practitioners, leaders and industry partners.
 
-All rights reserved, London: Routledge, Taylor & Francis Group, 2015.
+All rights reserved, Bingley: Emerald Publishing, 2020.
 
-<img src="/images/book-covers/Social-Media-Culture-and-Politics-in-Asia.jpg" style="width:150px;" />
+<img src="/images/book-covers/Digital-India-reflections-and-practice.jpg" style="width:150px;" />
 
-[**Social Media, Culture and Politics in Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200765598){:target="_blank"}
+[**Digital India: Reflections and practice**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203804679){:target="_blank"}
 
-An in-depth look into the impact of social media on political engagement among young citizens as a result of the internet’s explosive growth in the past decade in Asia. Nine Asian nations including India are covered in this title authored by leading media scholars with findings of a cross-national survey on social media use conducted with over 3,500 Asian respondents.
+This book offers a multidisciplinary resource on digital government, while specifically focusing on its role within the emerging market of India. Digital India captures lessons, knowledge, experiences (about challenges, drivers, antecedents, etc.) and best practices emerging from implementation of various projects, including social media and networking sites.
 
-All rights reserved, New York, NY: Peter. Lang, 2014.
+All rights reserved, Cham: Springer International Publishing, 2018.
+
+[**The positive and negative effects of social media in India**](https://eresources.nlb.gov.sg/Main/browse/resource/1049){:target="_blank"}
+
+The article examines the social and cultural impacts of online social media use in India, particularly Facebook, Twitter and YouTube. Topics covered include digital literacy, spread of false information, and social media influence on elections in India.
+
+Retrieved from EBSCOhost databases. *myLibrary* ID is required to access this database.
 
 ---
 
 ### **You may also like**
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
-[**Indian mass media, development and globalisation**](http://csjournals.com/IJITKM/PDF%208-1/3.%20Manvi.pdf){:target="_blank"}
-
-This article from the International Journal of Information Technology and Knowledge Management studies the role and transformation of Indian media over the past six decades since gaining independence, globalisation and advances in communication technologies. It also highlights the function of media in purveying political, economic and cultural identities through the changing times.
-
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
-
-[**Government of India Ministry of Information and Broadcasting strategic plan 2011–17**](http://www.mib.gov.in/documents/budget-and-plan/strategic-plan){:target="_blank"}
-
-The Strategic Plan, formulated by India’s Ministry of Information and Broadcasting, traces the country’s roadmap to attain certain key objectives between 2011 and 2017. It also includes a SWOT analysis as well as proposed implementation plans of the India media.
-
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Media and Entertainment Industry**](https://www.ibef.org/industry/media-entertainment-india.aspx){:target="_blank"}
+[**Media and entertainment industry in India**](https://www.ibef.org/industry/media-entertainment-india.aspx){:target="_blank"}
 
-This report is produced by India Brand Equity Foundation, a Trust established by the Department of Commerce, Ministry of Commerce and Industry, Government of India.
-
-It provides an excellent overview of India’s media and entertainment industry and highlights the achievements and opportunities in this growing sunrise industry.
+The Indian Media and Entertainment industry is a sunrise sector for the economy and is making huge growth strides. Backed by rising consumer demand, improving advertising revenues, increasing digitisation and higher internet usage, it is on the cusp of a strong phase of growth. Learn more about India’s media industry in this report by India Brand Equity Foundation.

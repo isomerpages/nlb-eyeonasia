@@ -11,12 +11,12 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 
 
-<!-- ### **Upcoming Event**
+### **Upcoming Event**
 
 
-<a href="/events/upcoming-events/14-jan-2020/"><img src="\images\past-events\14-Jan-2020\EOA website new.jpg" style="width:600px;" /></a>
+<a href="/events/upcoming-events/08-jul-2020/"><img src="\images\past-events\08-Jul-2020\EOA Eventbrite V2.jpg" style="width:800px;" /></a>
 
--->
+
 
 ### **Past Events**
 

@@ -12,58 +12,42 @@ This is a selection of resources on Indian fashion available from the [NLB catal
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Fashion-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/The-Indian-textile-sourcebook-patterns-and-techniques.jpg" style="width:150px;" />
 
-[**Fashion India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202123577){:target="_blank"}
+[**The Indian textile sourcebook: Patterns and techniques**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203883903){:target="_blank"}
 
-India is a rising star in the world of fashion as it joins the world’s fashion hubs. This book celebrates the achievements of Indian designers and features interviews with them, complete with lush illustrations ranging from luxury bridal and ethnic formal wear to contemporary interpretations of the sari.
+Indian textile designs express dazzling inventiveness and creativity, from the woven silks of royalty to the simple block printed patterns. This authoritative sourcebook overflows with colour and patterns to inspire and inform.
 
-All rights reserved, London: Thames & Hudson, 2015.
+All rights reserved, London: V&A Publishing, 2019.
+
+<img src="/images/book-covers/Patterns-of-India-A-journey-through-colours-textiles-and-the-vibrancy-of-Rajasthan.jpg" style="width:150px;" />
+
+[**Patterns of India: A journey through colours, textiles and the vibrancy of Rajasthan**](https://nlb.overdrive.com/media/4941580){:target="_blank"}
+
+This book features a textile-based tour of colourful Rajasthan in India, featuring more than 200 lush photographs depicting everyday life in one of the most vibrant regions in the world. It explores how deeply colour and pattern exist in a symbiotic relationship and are woven into every part of the culture in Rajasthan. 
+
+Retrieved from NLB Overdrive. *myLibrary* ID is required to access this ebook.
+
+<img src="/images/book-covers/A-study-of-Indias-textile-exports-and-environmental-regulations.jpg" style="width:150px;" />
+
+[**A study of India’s textile exports and environmental regulations**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203822470 ){:target="_blank"}
+
+This book examines the interplay between trade and the environment, with a focus on the Indian textile sector. This study was undertaken by the Centre of Excellence in Environmental Economics at Madras School of Economics with financial support from the Ministry of Environment and Forests under the Government of India.
+
+All rights reserved, Singapore: Springer, 2018.
 
 <img src="/images/book-covers/India-fantastique-fashion.jpg" style="width:150px;" />
 
 [**India fantastique fashion**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202670516){:target="_blank"}
 
-This publication showcases the works of Abu Jani and Sandeep Khosla, who have made their mark on the fashion industry by bringing the best of traditional Indian crafts to the world of high fashion. See specially photographed close-ups of exquisitely crafted sartorial creations by the talented duo whose works exude luxury, artistry and Indian tradition.
+This publication showcases the works of Abu Jani and Sandeep Khosla, who have made their mark in the fashion industry by bringing the best of traditional Indian crafts to the world of high fashion. See specially photographed close-ups of exquisitely crafted sartorial creations by the talented duo whose works exude luxury, artistry and Indian tradition.
 
 All rights reserved, London: Thames & Hudson, 2016.
-
-<img src="/images/book-covers/The-fabric-of-India.jpg" style="width:150px;" />
-
-[**The fabric of India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202718848){:target="_blank"}
-
-This is a lavishly illustrated book on Indian textiles providing examples from all over the country with an in-depth exploration of the different materials, techniques and dyeing processes used to create stunning fabrics. The book also looks at the central importance of cloth to Indian life and culture from ancient times to the present day. Special features focus on objects of historical importance, including a Kashmiri map shawl, Tipu Sultan’s tent, and a remarkable South Indian 18th-century temple hanging.
-
-All rights reserved, London: V&A Publishing, 2015.
-
-<img src="/images/book-covers/Indian-textiles.jpg" style="width:150px;" />
-
-[**Indian textiles**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200605057){:target="_blank"}
-
-The Indian textile industry is known for its variety and colour. Complemented with a dazzling array of images, this guide gives readers an all-encompassing write-up of textiles from every region of the Indian subcontinent, with information on its cultural background such as the history, materials and techniques – weaving, printing, painting and tie-dye.
-
-All rights reserved, London: Thames & Hudson, 2014.
 
 <img src="/images/book-covers/Luxury-Indian-fashion-A-social-critique.jpg" style="width:150px;" />
 
 [**Luxury Indian fashion: A social critique**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202668985){:target="_blank"}
 
-This book studies the production, consumption and aesthetics of luxury and power in India. It analyses the role that fashion plays and how contemporary Indian design has dismissed the influence of the West in recent years and focused on the opulent heritage luxury of the maharajas.
+This book studies the production, consumption and aesthetics of luxury and power in India. It analyses the role that fashion plays and how contemporary Indian designs have dismissed the influence of the West in recent years and focused on the opulent heritage luxury of the maharajas.
 
 All rights reserved, London: Bloomsbury Academic, 2016.
-
-<img src="/images/book-covers/Costumes-and-textiles-of-Awadh-From-the-era-of-Nawabs-to-modern-times.jpg" style="width:150px;" />
-
-[**Costumes and textiles of Awadh: From the era of Nawabs to modern times**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200182845){:target="_blank"}
-
-Historically, Awadh has been one of the most important regions in India, and it holds a vital position in the development of Indian fashion. This book takes us on a fascinating journey through the evolution of costumes, textiles, colours, motifs and ornamentations from the 18th century up to today. It recaptures the ambience of the Nawabi Era and the British Raj in Awadh, and makes them relevant in contemporary times.
-
-All rights reserved, New Delhi: ACC Distribution, 2012.
-
-<img src="/images/book-covers/Indian-cotton-textiles-Chintz-from-the-14th-to-the-early-20th-centuries-in-Karun-Thakar-Collection.jpg" style="width:150px;" />
-
-[**Indian cotton textiles: Chintz from the 14th to the early 20th centuries in Karun Thakar Collection**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202936257){:target="_blank"}
-
-Cotton is at the heart of India’s textile industry. Indian dyed and painted cottons were admired and traded to the Far East and the Mediterranean for many generations before European interest in chintz created a new market. Considered as one of the world’s leading private collectors on textile art from the Indian Subcontinent, Karun Thakar has amassed items from the 14th century through to the early 20th century.
-
-All rights reserved, Woodbridge: Antique Collectors’ Club, 2015.

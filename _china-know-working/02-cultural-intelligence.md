@@ -20,7 +20,7 @@ On what basis do people make their choices? Do we always choose to buy products 
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Universal truths: Can universally held cultural values inform the modern corporation?**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Universal truths: Can universally held cultural values inform the modern corporation?**](http://eresources.nlb.gov.sg/Main/browse/resource/1111){:target="_blank"}
 
 This research paper discusses the importance of corporate social responsibility and suggests that businesses should be evaluated along the four universal values of health, well-being, longevity and environmental preservation for their corporate social responsibility efforts.
 
@@ -28,7 +28,7 @@ Retrieved from ProQuest Central. *myLibrary* ID is required to access this datab
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Business leadership in the Chinese context: Trends, findings, and implications**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Business leadership in the Chinese context: Trends, findings, and implications**](http://eresources.nlb.gov.sg/Main/browse/resource/1049){:target="_blank"}
 
 Gain insights on business leadership in China from this research article, which looks at the effectiveness of leadership in the Chinese context. It also traces the evolution in leadership in response to transformations in China’s institutional and business environments.
 
@@ -36,7 +36,7 @@ Retrieved from EBSCOHost. *myLibrary* ID is required to access this database.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**Indian employees’ attitudes towards poaching**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Indian employees’ attitudes towards poaching**](http://eresources.nlb.gov.sg/Main/browse/resource/1049){:target="_blank"}
 
 Find out the perceptions of Indian managers and professionals on employee poaching through this study, which analyses how employees who are poached and companies which engage in poaching are viewed in India. In addition, it also examines the primary reasons why people consider switching jobs in the country.
 
