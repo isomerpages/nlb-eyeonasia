@@ -9,21 +9,30 @@ date: 2020-06-25
 
 The Singapore-China “fast lane” arrangement allows for essential business and official travel between both countries. What will be the new normal of working or doing business in China? Hear from local industry professionals based in China as they share their challenges and how they are reinventing their business models in light of the COVID-19 pandemic.
 
-Navigating with you the shift of growth opportunities to Asia. Find out more at <www.eyeonasia.sg>
+**Wednesday, 8 July 2020**
 
-This programme is co-organised with OSG Youth Alliance.
+**5.00 pm – 6.00 pm**
+
+**Online Event**
+
+Navigating with you the shift of growth opportunities to Asia. Find out more at <https://www.eyeonasia.sg>
+
+This programme is co-organised with <a href="https://www.osg.sg/">OSG Youth Alliance</a>.
 
 ### **About the Speakers**
+
 
 **Thun Lee - Market Head, China & Taiwan TMF Group**
 
 Thun has almost 20 years’ experience in cross-border corporate structuring and compliance. He offers an in-depth understanding of the key elements and challenges firms face to succeed in China’s highly competitive market. In 2016, he joined TMF Group where he oversees the China and Taiwan portfolios and drives business expansion into untouched market opportunities.
+
 
 **Tan Eng Han - Regional Director (Asia) and Country Manager (China), Learning Division, ACT Inc.**
 
 Eng Han oversees ACT Inc.’s learning businesses in Asia and supports its assessment businesses. He started his career in China in 1994, heading the China operations for Informatics Education. He also co-founded and led the edtech startup 12Learn, which offers corporate-based online learning solutions for Fortune 500 companies in China and Singapore.
 
 ### **About the Moderator**
+
 
 **Zhang Zhong Yi - Vice President, Treasureway Foundation**
 
@@ -35,7 +44,7 @@ Zhong Yi is a business facilitator who is currently focused on translating techn
 
 • This programme will take place on Zoom.
 
-• Please register via Go Library. A link to the virtual programme will be sent to your email.
+• Please register via EventBrite. A link to the virtual programme will be sent to your email.
 
 • Please ensure that you enter a valid email address.
 
