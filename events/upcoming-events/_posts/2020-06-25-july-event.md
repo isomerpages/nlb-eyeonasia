@@ -11,11 +11,13 @@ The Singapore-China “fast lane” arrangement allows for essential business an
 
 **Wednesday, 8 July 2020**
 
-**5.00 pm – 6.00 pm**
+**5.00 pm – 6.00 pm (Singapore Time)**
 
 **Online Event - Register <a href="https://www.eventbrite.com/e/post-covid-19-future-the-new-norm-of-doing-business-in-china-registration-110919093996">here</a>**
 
-Navigating with you the shift of growth opportunities to Asia. Find out more at <https://www.eyeonasia.sg>
+Navigating with you the shift of growth opportunities to Asia.
+
+Find out more at <https://www.eyeonasia.sg>
 
 This programme is co-organised with <a href="https://www.osg.sg/">OSG Youth Alliance</a>.
 
