@@ -21,20 +21,20 @@ This programme is co-organised with <a href="https://www.osg.sg/">OSG Youth Alli
 
 ### **About the Speakers**
 
-</br>
-**Thun Lee - Market Head, China & Taiwan TMF Group**
+**Thun Lee**
+**Market Head, China & Taiwan TMF Group**
 
 Thun has almost 20 years’ experience in cross-border corporate structuring and compliance. He offers an in-depth understanding of the key elements and challenges firms face to succeed in China’s highly competitive market. In 2016, he joined TMF Group where he oversees the China and Taiwan portfolios and drives business expansion into untouched market opportunities.
 
-</br>
-**Tan Eng Han - Regional Director (Asia) and Country Manager (China), Learning Division, ACT Inc.**
+**Tan Eng Han**
+**Regional Director (Asia) and Country Manager (China), Learning Division, ACT Inc.**
 
 Eng Han oversees ACT Inc.’s learning businesses in Asia and supports its assessment businesses. He started his career in China in 1994, heading the China operations for Informatics Education. He also co-founded and led the edtech startup 12Learn, which offers corporate-based online learning solutions for Fortune 500 companies in China and Singapore.
 
 ### **About the Moderator**
 
-</br>
-**Zhang Zhong Yi - Vice President, Treasureway Foundation**
+**Zhang Zhong Yi**
+**Vice President, Treasureway Foundation**
 
 Zhong Yi is a business facilitator who is currently focused on translating technologies into business opportunities. He worked in the finance industry before starting a health management application and a business in the entertainment industry. He later became a business facilitator helping Chinese companies in the merger and acquisitions of overseas companies.
 
