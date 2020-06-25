@@ -7,10 +7,6 @@ date: 2020-06-25
 
 <img src="\images\past-events\08-Jul-2020\EOA Eventbrite V2.jpg" style="width:1000px;" />
 
-### **Post-COVID-19 Future: The New Norm of Doing Business in China**
-
-### **Impact on Corporate Services and Education**
-
 The Singapore-China “fast lane” arrangement allows for essential business and official travel between both countries. What will be the new normal of working or doing business in China? Hear from local industry professionals based in China as they share their challenges and how they are reinventing their business models in light of the COVID-19 pandemic.
 
 Navigating with you the shift of growth opportunities to Asia. Find out more at <www.eyeonasia.sg>
@@ -35,7 +31,7 @@ Zhong Yi is a business facilitator who is currently focused on translating techn
 
 ### **Online Programme/Event Administrative Information**
 
-***online event***
+*****online event*****
 
 • This programme will take place on Zoom.
 
