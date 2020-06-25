@@ -21,7 +21,7 @@ This programme is co-organised with <a href="https://www.osg.sg/">OSG Youth Alli
 
 ### **About the Speakers**
 
-**Thun Lee**</br>
+**Thun Lee**<br>
 **Market Head, China & Taiwan TMF Group**
 
 Thun has almost 20 years’ experience in cross-border corporate structuring and compliance. He offers an in-depth understanding of the key elements and challenges firms face to succeed in China’s highly competitive market. In 2016, he joined TMF Group where he oversees the China and Taiwan portfolios and drives business expansion into untouched market opportunities.
