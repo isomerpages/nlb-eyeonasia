@@ -31,7 +31,7 @@ Zhong Yi is a business facilitator who is currently focused on translating techn
 
 ### **Online Programme/Event Administrative Information**
 
-****online event****
+***online event***
 
 • This programme will take place on Zoom.
 
