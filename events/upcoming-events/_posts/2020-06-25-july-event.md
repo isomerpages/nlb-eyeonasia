@@ -50,5 +50,5 @@ Zhong Yi is a business facilitator who is currently focused on translating techn
 
 • You may access Zoom through the app or web browser.
 
-<a href="https://www.eventbrite.com/e/post-covid-19-future-the-new-norm-of-doing-business-in-china-registration-110919093996"><img src="\images\past-events\08-Jul-2020\EOA eDM V5.jpg" style="width:650px;" /></a>
+<a href="https://www.eventbrite.com/e/post-covid-19-future-the-new-norm-of-doing-business-in-china-registration-110919093996"><img src="\images\past-events\08-Jul-2020\EOA eDM V5.jpg" style="width:800px;" /></a>
 
