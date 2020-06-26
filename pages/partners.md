@@ -29,7 +29,6 @@ We thank our partners for contributing to the initiative by allowing us access t
 </div>
 
 ### **Partners**
-<br>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
