@@ -31,6 +31,19 @@ We thank our partners for contributing to the initiative by allowing us access t
 ### **Partners**
 <br>
 
+<table>
+	<tr>
+		<td>
+			<a href="https://www.mheducation.com.sg/"><img src="/images/partners/MH_Red Cube Logo_RGB.png" style="width:60%;" alt="McGraw Hill Education Asia"></a>
+		</td>
+		<td>
+			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School"></a>
+		</td>
+		<td>
+			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic"></a>
+		</td>
+	</tr>
+</table>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
