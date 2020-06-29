@@ -32,7 +32,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.mheducation.com.sg/"><img src="/images/partners/McGraw Hill logo.png" alt="McGraw Hill Education Asia"></a>
+			<a href="https://www.mheducation.com.sg/"><img src="/images/partners/McGraw Hill logo 2.png" alt="McGraw Hill Education Asia"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School"></a>
