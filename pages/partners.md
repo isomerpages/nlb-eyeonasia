@@ -10,9 +10,6 @@ breadcrumb: Partners
         margin: 20px;
     }
     .frame{  
-        width: 250px;
-        height: 200px;
-        border: 1px solid black;
         vertical-align: middle;
         text-align: center;
         display: table-cell;
