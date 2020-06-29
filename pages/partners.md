@@ -35,10 +35,10 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.mheducation.com.sg/"><img src="/images/partners/McGraw Hill logo 2.png" alt="McGraw Hill Education Asia"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-740x138.jpg" alt="Nanyang Business School"></a>
+			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-2.jpg" alt="Nanyang Business School"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo.png" alt="Singapore Polytechnic"></a>
+			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo-2.png" alt="Singapore Polytechnic"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
@@ -46,7 +46,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.osg.sg/"><img src="/images/partners/OSG Youth Alliance Logo-2.png" alt="Globalising Young Minds"></a>
 		</div>
 	<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:60%;"></a>
+			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:70%;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp_logo_spot.png" alt="Singapore Polytechnic"></a>
