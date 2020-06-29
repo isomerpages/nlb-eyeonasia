@@ -5,14 +5,6 @@ permalink: /partners/
 breadcrumb: Partners
 ---
 
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 200px;
-  border: 3px solid green;
-}
-
 <img src="/images/partners/partners-banner.jpg" alt="partners banner" style="width:800px;" />
 
 Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore, International Trading Institute at Singapore Management University, McGraw-Hill Education (Asia), Nanyang Business School, Ngee Ann Polytechnic, OSG Youth Alliance, Singapore Indian Chamber of Commerce & Industry, Singapore Polytechnic, Singapore University of Social Sciences, Temasek Polytechnic, The ASEAN Living Room, Yale-NUS College and Youth Corps Singapore. 
@@ -43,10 +35,8 @@ We thank our partners for contributing to the initiative by allowing us access t
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.mheducation.com.sg/"><img src="/images/partners/McGraw Hill logo.png" style="width:70%;" alt="McGraw Hill Education Asia"></a>
 		</div>
-		<div class="center">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-2.jpg" alt="Nanyang Business School"></a>
-		</div>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo-2.png" alt="Singapore Polytechnic"></a>
