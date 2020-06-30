@@ -17,13 +17,13 @@ We thank our partners for contributing to the initiative by allowing us access t
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.enterprisesg.gov.sg/"><img src="/images/partners/Enterprise-SG-logo-270x85-1.png" alt="EnterpriseSG"></a>
+			<a href="https://www.enterprisesg.gov.sg/"><img src="/images/partners/Enterprise-Singapore-logo-new.png" alt="EnterpriseSG"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.businesschina.org.sg/en.php"><img src="/images/partners/BC-Logo-new.png" alt="Business China Singapore"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="http://iti.smu.edu.sg/"><img src="/images/partners/SMU-logo-370x93-1.jpg" alt="Singapore Management Univserity International Trading Institute"></a>
+			<a href="http://iti.smu.edu.sg/"><img src="/images/partners/smu-logo-new.png" alt="Singapore Management Univserity International Trading Institute"></a>
 		</div>
 	</div>
 </div>
@@ -49,15 +49,15 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:70%;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp_logo_spot.png" alt="Singapore Polytechnic"></a>
+			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp-logo-new" alt="Singapore Polytechnic"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="http://www.suss.edu.sg/Pages/index.aspx"><img src="/images/partners/Singapore-University-of-Social-Sciences_Horizontal-Format_Version-A_White-Background_RGB-370x187.png" alt="Singapore University of Social Sciences" style="max-height:80%;max-width:80%;"></a>
+			<a href="http://www.suss.edu.sg/Pages/index.aspx"><img src="/images/partners/suss-logo-new.png" alt="Singapore University of Social Sciences" style="max-height:80%;max-width:80%;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="http://www.tp.edu.sg/"><img src="/images/partners/TP-Logo-1-270x84.png" alt="Temasek Polytechnic"></a>
+			<a href="http://www.tp.edu.sg/"><img src="/images/partners/tp-logo-new.png" alt="Temasek Polytechnic"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.tlr.asia/"><img src="/images/partners/ASEAN Living Room Logo 2.png" alt="The ASEAN Living Room"></a>
@@ -65,7 +65,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/YaleNUSCollege2.png" alt="Yale NUS College"></a>
+			<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/yale-nus-logo-new.png" alt="Yale NUS College"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="max-height:80%;max-width:80%;"></a>
