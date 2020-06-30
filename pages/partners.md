@@ -49,7 +49,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:70%;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp-logo-new" alt="Singapore Polytechnic"></a>
+			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp-logo-new.png" alt="Singapore Polytechnic"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
