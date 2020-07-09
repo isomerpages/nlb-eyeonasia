@@ -117,4 +117,4 @@ According to the ASEAN Integration Report 2019, compiled by the ASEAN Secretaria
 
 [**Smart cities: The future of ASEAN-China cooperation**](https://lkyspp.nus.edu.sg/gia/article/smart-cities-the-future-of-asean-china-cooperation){:target="_blank"}
 
-According to the author Gu Qingyang, smart city development is a potential area for future cooperation between ASEAN and China with many opportunities in the region. This is especially relevant since the outbreak of COVID-19 has seen countries using smart city technologies to combat the crisis. Find out more from this article today!
+According to the author Gu Qingyang, smart city development is a potential area for future cooperation between ASEAN and China with many opportunities in the region. This is especially relevant since the outbreak of COVID-19 has seen countries using smart city technologies to combat the crisis. Find out more from this article today! 
