@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: ASEAN and China
 permalink: /china/know/overview-of-china/asean-and-china/
 breadcrumb: ASEAN and China
-collection_name: asean-and-china
+collection_name: china-know-overview
 image: \images\china-overview\asean-and-china.jpg
 ---
 
