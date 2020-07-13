@@ -15,7 +15,7 @@ This is a selection of resources on Education in China available from the [NLB c
 
 <img src="/images/book-covers/Education in China.jpg" style="width:150px;" />
 
-[**Education in China: Philosophy, politics and culture**](https://nlb.overdrive.com/media/3758806){:target="_blank"}
+[**Education in China: Philosophy, politics and culture**](https://nlb.overdrive.com/media/4281123){:target="_blank"}
 
 Education in China has played a pivotal role in the nation’s governance, civic society, and the social and cultural lives of its citizens. This ebook analyses education in China from its past roots till contemporary times and how the past has influenced today’s trends. It also looks at educational reform and the issues faced by the education system in the country, including an obsession with examinations and a highly competitive culture in the society.
 
@@ -91,7 +91,7 @@ This report from China’s Ministry of Education provides a snapshot of the key 
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**A new era of education: China education development report 2018**](http://en.moe.gov.cn/documents/reports/201910/t20191022_404775.html){:target="_blank"}
+[**A new era of education: China education development report 2018**](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-china-education-development-en-report-2018.pdf){:target="_blank"}
 
 This report is an analysis of the development of the education sector in China. It covers aspects including opportunities emerging from the industry, international schools, education technologies, talent management challenges and solutions to tackle them, and recommendations for a new management system for educational organisations.
 

@@ -23,7 +23,7 @@ All rights reserved, Singapore: World Scientific Publishing Co. Pte. Ltd., 2019
 
 <img src="/images/book-covers/The future is Asian.jpg" style="width:150px;" />
 
-[**The Future is Asian**](https://nlb.overdrive.com/media/4086779){:target="_blank"}
+[**The Future is Asian**](https://nlb.overdrive.com/media/4246182){:target="_blank"}
 
 If the 19th century featured the Europeanisation of the world, and the 20th century its Americanisation, then the 21st century is the time of Asianisation. In The Future is Asian, author Parag Khanna argues that the 21st century is the “Asian Century”, where a confident new wave of growth is led by younger societies across Asia, and today's infrastructure investments are the platform for the next generation of digital innovation. 
 
