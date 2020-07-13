@@ -2,7 +2,7 @@
 layout: post
 title: Post-COVID-19 Future - The New Norm of Doing Business in China
 permalink: /events/upcoming-events/08-jul-2020/
-date: 2020-06-25
+date: 2020-08-07
 ---
 
 <img src="\images\past-events\08-Jul-2020\EOA Eventbrite V2.jpg" style="width:1000px;" />
