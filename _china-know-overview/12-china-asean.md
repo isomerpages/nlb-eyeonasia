@@ -109,7 +109,7 @@ Published by the ASEAN Studies Centre at ISEAS-Yusof Ishak Institute, this repor
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**ASEAN integration report 2019**](https://asean.org/storage/2019/11/ASEAN-integration-report-2019.pdf){:target="_blank"}
+[**ASEAN integration report 2019**](https://asean.org/storage/2019/11/ASEAN-integration-report-2019.pdf){:target="_blank"} (This report may take a while to load)
 
 According to the ASEAN Integration Report 2019, compiled by the ASEAN Secretariat, China has been ASEAN’s largest external trading partner since 2009, with bilateral trade reaching USD 483.1 billion in 2018. Foreign direct investment from China to ASEAN also reached USD 10.2 billion in 2018. Those who are interested to find data on China’s trade and investment in ASEAN in 2018 and the ASEAN-China Free Trade Area can take a look at Section 3.5 of the report titled Global ASEAN.
 
