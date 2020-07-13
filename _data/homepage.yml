@@ -21,6 +21,16 @@ button:
   - text: Go Global
     url: /about/about-eye-on-asia
 
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Eye On Asia Events
+    section-description: Tap into the insights of professionals who have ventured into the region. 
+    section-more-button: Find out more
+    section-more-button-url: /eoa-events/
+    section-image-path: /images/past-events/events-banner.jpg
+    section-image-alt: events banner
+
 key-highlights:
   - title: ASEAN Countries
     description:  Venture into one of the fastest-growing economic blocs in Asia with tremendous growth opportunities
