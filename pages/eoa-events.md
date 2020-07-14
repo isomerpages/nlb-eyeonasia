@@ -21,6 +21,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 <a href="/events/upcoming-events/20-Aug-2020/"><img src="\images\past-events\20-aug-event.jpg" style="width:800px;" /></a-->
 
+<br>
 ### **Past Events**
 
 <div>
