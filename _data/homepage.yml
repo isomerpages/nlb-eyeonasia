@@ -21,7 +21,7 @@ button:
   - text: Go Global
     url: /about/about-eye-on-asia
 
-# Info Sections
+<!--# Info Sections
 info-sections:
   - section-title: 
     section-subtitle: Eye On Asia Events
@@ -29,7 +29,7 @@ info-sections:
     section-more-button: Find out more
     section-more-button-url: /eoa-events/
     section-image-path: /images/past-events/events-banner.jpg
-    section-image-alt: events banner
+    section-image-alt: events banner-->
 
 key-highlights:
   - title: ASEAN Countries
