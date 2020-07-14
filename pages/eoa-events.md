@@ -21,7 +21,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 <a href="/events/upcoming-events/20-Aug-2020/"><img src="\images\past-events\20-aug-event.jpg" style="width:800px;" /></a-->
 
-<br>
 ### **Past Events**
 
 <div>
@@ -36,6 +35,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/14-jan-2020/" class="project-link">
 				<img src="\images\past-events\14-Jan-2020\EOA 14 Jan 2020_Image Banner 2.jpg" class="project-image">
@@ -63,6 +63,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/10-oct-2019/" class="project-link">
 				<img src="/images/past-events/test-2.jpg"  class="project-image">
@@ -90,6 +91,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/07-aug-2019/" class="project-link">
 				<img src="/images/past-events/test-4.jpg"  class="project-image">
@@ -117,6 +119,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/30-may-2019/" class="project-link">
 				<img src="/images/past-events/test-6.jpg"  class="project-image">
@@ -144,6 +147,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/11-apr-2019/" class="project-link">
 				<img src="/images/past-events/test-8.jpg"  class="project-image">
@@ -171,6 +175,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/07-feb-2019/" class="project-link">
 				<img src="/images/past-events/test-10.jpg"  class="project-image">
@@ -198,6 +203,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/09-jan-2019/" class="project-link">
 				<img src="/images/past-events/test-12.jpg"  class="project-image">
@@ -225,6 +231,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/04-oct-2018/" class="project-link">
 				<img src="/images/past-events/test-14.jpg"  class="project-image">
@@ -252,6 +259,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/16-aug-2018/" class="project-link">
 				<img src="/images/past-events/test-16.jpg"  class="project-image">
@@ -279,6 +287,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/06-jun-2018/" class="project-link">
 				<img src="/images/past-events/test-18.jpg"  class="project-image">
@@ -306,6 +315,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/03-apr-2018/" class="project-link">
 				<img src="/images/past-events/test-20.jpg"  class="project-image">
@@ -333,6 +343,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/official-launch-10-february-2018/" class="project-link">
 				<img src="/images/past-events/test-22.jpg"  class="project-image">
