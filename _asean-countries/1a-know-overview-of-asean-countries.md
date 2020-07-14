@@ -282,7 +282,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 
 <div>
 	<div class="row is-multiline">
-<div class="col is-half-tablet padding--bottom--lg">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/overview-of-china/asean-and-china/" class="project-link">
 				<img src="/images/china-overview/asean-and-china.jpg" alt="asean-and-china" class="project-image">
 			<div class="project-card">
