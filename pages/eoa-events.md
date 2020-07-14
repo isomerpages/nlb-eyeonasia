@@ -11,10 +11,11 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 
 
-<!--### **Upcoming Event**
+<### **Upcoming Event**
 
+<h5><b>Grow your possibilities with Eye on Asia</b></h5>
 
-<a href="/events/upcoming-events/08-jul-2020/"><img src="\images\past-events\08-Jul-2020\EOA Eventbrite V2.jpg" style="width:800px;" /></a-->
+<a href="/events/upcoming-events/20-Aug-2020/"><img src="\images\past-events\20-aug-event.jpg" style="width:800px;" /></a>
 
 
 
