@@ -30,7 +30,7 @@ collection_name: about
     <iframe class="resp-iframe" src="https://www.youtube.com/embed/OIsYBDLt1gQ" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
-Navigate the shifts in global economic power to Asia with Eye on Asia’s curated programmes and resources. Tap into the insight of professionals who have ventured into the region.
+Navigate the shift of growth opportunities to Asia with Eye on Asia’s curated programmes and resources. Tap into the insight of professionals who have ventured into the region.
 
 Eye on Asia is a collaborative effort by the National Library, Singapore with [partners](/partners/) such as Enterprise Singapore, Business China Singapore, International Trading Institute at Singapore Management University,  McGraw-Hill Education (Asia), Nanyang Business School, Ngee Ann Polytechnic, OSG Youth Alliance, Singapore Polytechnic, Singapore University of Social Sciences, Temasek Polytechnic, The ASEAN Living Room, Yale-NUS College and Youth Corps Singapore to provide resources for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities abroad. Focusing on ASEAN countries, China and India including emerging cities, you will discover a broad overview of useful resources to help you be more aware of developments in these countries as Singapore gears itself for the future economy.
 
