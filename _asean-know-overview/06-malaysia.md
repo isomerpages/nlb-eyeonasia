@@ -16,7 +16,7 @@ This article provides an overview of Malaysia for those keen on exploring the po
 - **Geography:** 13 states and 3 federal territories[^2]
 - **Land area:** 330,345 sq km[^3]
 - **Population (2016):** 31.63 million[^4]
-- **Head of government:** Prime Minister Tun Dr Mahathir Mohamad[^5]
+- **Head of government:** Prime Minister Tan Sri Muhyiddin Yassin[^5]
 - **National language:** Bahasa Malaysia
 - **Currency:** Ringgit Malaysia (RM)[^6]
 - **GDP (2016):** RM1,108.2 billion[^7]
@@ -58,7 +58,7 @@ In 2016, tourism brought 26.8 million international tourist arrivals who contrib
 
 [^4]:Malaysia. (2017). Department of Statistics Malaysia. Retrieved October 20, 2017, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cone&menu_id=dDM2enNvM09oTGtQemZPVzRTWENmZz09){:target="_blank"}
 
-[^5]:Azura Abas & Mohd Husni Mohd Noor. (2018, May 23). Cabinet holds first meeting since being sworn in. New Straits Times. Retrieved May 31, 2018, from [https://www.nst.com.my](https://www.nst.com.my/news/nation/2018/05/372196/cabinet-holds-first-meeting-being-sworn){:target="_blank"}
+[^5]:Prime Minister's Office of Malaysia Official Website. Retrieved Aug 3, 2020, from [https://www.pmo.gov.my/](https://www.pmo.gov.my/){:target="_blank"}
 
 [^6]:Currency. (2017). Tourism Malaysia. Retrieved October 20, 2017, from [http://www.malaysia.travel](http://www.malaysia.travel/en/my/about-malaysia/fast-facts/currency){:target="_blank"}
 
