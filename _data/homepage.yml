@@ -51,3 +51,5 @@ info-sections:
     section-image-path: /images/eoa-home-image-2.jpg
     section-image-alt: YouTube playlist
 
+# Programmes Section
+# To edit the programme details, go to programmes.yml
