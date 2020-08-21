@@ -32,6 +32,26 @@ key-highlights:
     description: Discover India's increasing economic prosperity and cultural dynamism 
     url: /india/know/overview/
 
+# Info Sections
+
+info-sections:
+
+  - section-title: 
+    section-subtitle: Keen to explore opportunities in emerging Asian cities? 
+    section-description: Gain insights from professionals who have ventured into the region
+    section-more-button: DISCOVER MORE >>
+    section-more-button-url: /eoa-events/
+    section-image-path: /images/eoa-home-image-1.jpg
+    section-image-alt: Events image
+  - section-title: 
+    section-subtitle: Grow your possibilities with Eye on Asia
+    section-description: Keep in tune with regional trends
+    section-more-button: WATCH OUR PAST TALKS >>
+    section-more-button-url: https://www.youtube.com/watch?v=pdvQm8VZ4cs&list=PL8iW4pSvDCw6ym3goCZ0XPr7Pg2P_XEEK
+    section-image-path: /images/eoa-home-image-2.jpg
+    section-image-alt: YouTube playlist
+
+
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title: 
