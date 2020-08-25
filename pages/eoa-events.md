@@ -15,11 +15,10 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--### **Upcoming Event**
+### **Upcoming Event**
 
-<h5><b>Grow your possibilities with Eye on Asia</b></h5>
-
-<a href="/events/upcoming-events/20-Aug-2020/"><img src="\images\past-events\20-aug-event.jpg" style="width:800px;" /></a-->
+<h5><b>Digital Transformation in ASEAN: Leaving No One Behind</b></h5>
+<a href="/events/upcoming-events/16-sep-2020/"><img src="\images\past-events\16-Sep-2020\Eye on Asia Eventbrite 16 Sep 2020.jpg" style="width:800px;" /></a>
 
 ### **Past Events**
 
