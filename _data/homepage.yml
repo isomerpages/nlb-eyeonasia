@@ -53,3 +53,9 @@ info-sections:
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
+
+programmes-title: 
+programmes-subtitle: Equip yourself with the know-hows
+programmes-description: Browse our latest resources
+programmes-more-button: Be inspired
+programmes-more-button-url: /china/know/overview-of-china/
