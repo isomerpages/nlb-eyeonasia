@@ -22,7 +22,7 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this database.)
 
 <img src="/images/book-covers/The cultural intelligence difference.jpg" style="width:150px;" />
 
-[**The cultural intelligence difference: Master the one skill you can't do without in today's global economy**](https://eresources.nlb.gov.sg/Main/browse/resource/1324){:target="_blank"}
+[**The cultural intelligence difference: Master the one skill you can't do without in today's global economy**](https://nlb.overdrive.com/media/579020){:target="_blank"}
 
 The development of deep cultural intelligence (CQ) is critical to thrive in today’s globalised world and increasingly multicultural workplaces. Tap into the power of CQ from The Cultural Intelligence Difference, which provides strategies for improving interactions with people from diverse cultures and examples of major organisations that have used CQ to achieve success.
 
