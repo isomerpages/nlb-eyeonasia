@@ -116,3 +116,20 @@ India is home to one of the world's fastest-growing IT industries and is one of 
 		</div>
 	</div>
 </div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/working-in-asean/understanding-cultural-intelligence/" class="project-link">
+				<img src="/images/china-working/cultural-intelligence-small-2.jpg" alt="Understanding cultural intelligence" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Understanding cultural intelligence</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>

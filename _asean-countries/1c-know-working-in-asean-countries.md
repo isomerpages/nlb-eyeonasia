@@ -15,7 +15,7 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean/understanding-cultural-intelligence/" class="project-link">
-				<img src="/images/asean-working/cultural-intelligence-small.jpg" alt="Understanding cultural intelligence" class="project-image">
+				<img src="/images/asean-working/cultural-intelligence-small-2.jpg" alt="Understanding cultural intelligence" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Understanding cultural intelligence</b></h5>
