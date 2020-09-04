@@ -70,7 +70,7 @@ Retrieved from EBSCO Academic Search. (*myLibrary* ID is required to access this
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Beyond general intelligence (IQ) and emotional intelligence (EQ): The role of cultural intelligence (CQ) on cross-border leadership effectiveness in a globalized World**](https://eresources.nlb.gov.sg/Main/browse/resource/1329){:target="_blank"}
+[**Beyond general intelligence (IQ) and emotional intelligence (EQ): The role of cultural intelligence (CQ) on cross-border leadership effectiveness in a globalized world**](https://eresources.nlb.gov.sg/Main/browse/resource/1329){:target="_blank"}
 
 With globalisation a reality in the 21st century workplace, leaders must function effectively in multi-cultural as well as domestic contexts. This research finds that in addition to general intelligence (IQ) and emotional intelligence (EQ), another critical competency of effective global leaders is cultural intelligence (CQ).
 
