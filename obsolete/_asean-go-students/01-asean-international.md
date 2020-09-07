@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: International exchange programmes
-permalink: /asean-countries/go/for-students/international-exchange-programmes/
+permalink: 
 breadcrumb: International exchange programmes
 collection_name: obsolete
 ---

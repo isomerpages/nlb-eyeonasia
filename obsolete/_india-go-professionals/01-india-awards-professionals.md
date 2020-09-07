@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Awards and other programmes (for young professionals)
-permalink: /india/go/for-professionals/awards-professionals/
+permalink: 
 breadcrumb: Awards and other programmes (for young professionals)
 collection_name: obsolete
 ---

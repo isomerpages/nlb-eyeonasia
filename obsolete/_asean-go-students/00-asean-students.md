@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overseas internships
-permalink: /asean-countries/go/for-students/overseas-internships/
+permalink: 
 breadcrumb: Overseas internships
 collection_name: obsolete
 ---

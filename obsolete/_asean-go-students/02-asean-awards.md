@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Awards and other programmes (for students)
-permalink: /asean-countries/go/for-students/awards-for-students/
+permalink: 
 breadcrumb: Awards and other programmes (for students)
 collection_name: obsolete
 ---

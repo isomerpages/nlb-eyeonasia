@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overseas internships
-permalink: /china/go/for-students/overseas-internships/
+permalink: 
 breadcrumb: Overseas internships
 collection_name: obsolete
 ---

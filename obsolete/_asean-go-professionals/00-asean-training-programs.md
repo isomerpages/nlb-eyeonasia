@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Training programmes
-permalink: /asean-countries/go/for-professionals/training-programmes/
+permalink: 
 breadcrumb: Training programmes
 collection_name: obsolete
 ---

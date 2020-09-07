@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Training programmes
-permalink: /china/go/for-professionals/training-programmes/
+permalink: 
 breadcrumb: Training programmes
 collection_name: obsolete
 ---

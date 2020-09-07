@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: For Students
-permalink: /china/go/for-students/
+permalink: 
 breadcrumb: For Students
 collection_name: obsolete
 second_nav_title: "Go"
