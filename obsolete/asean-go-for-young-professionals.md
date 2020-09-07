@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: For Young Professionals
 permalink: /asean-countries/go/for-young-professionals/
 breadcrumb: For Young Professionals
-collection_name: asean-countries
+collection_name: obsolete
 second_nav_title: "Go"
 ---
 

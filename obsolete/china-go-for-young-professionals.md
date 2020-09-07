@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: For Young Professionals
 permalink: /china/go/for-young-professionals/
 breadcrumb: For Young Professionals
-collection_name: china
+collection_name: obsolete
 second_nav_title: "Go"
 ---
 

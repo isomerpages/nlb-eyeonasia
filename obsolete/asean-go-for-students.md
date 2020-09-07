@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: For Students
 permalink: /asean-countries/go/for-students/
 breadcrumb: For Students
-collection_name: asean-countries
+collection_name: obsolete
 second_nav_title: "Go"
 ---
 

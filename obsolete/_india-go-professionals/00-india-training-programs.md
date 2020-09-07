@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Training programmes
 permalink: /india/go/for-professionals/training-programmes/
 breadcrumb: Training programmes
-collection_name: india-go-professionals
+collection_name: obsolete
 ---
 
 <img src="\images\asean-professionals\training-programmes.jpg" alt="training programmes banner" style="width:800px;" />

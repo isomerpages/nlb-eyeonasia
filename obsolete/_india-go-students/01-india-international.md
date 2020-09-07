@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: International exchange programmes
 permalink: /india/go/for-students/international-exchange-programmes/
 breadcrumb: International exchange programmes
-collection_name: india-go-students
+collection_name: obsolete
 ---
 
 <img src="\images\asean-students\international-exchange-programmes.jpg" alt="international exchange programmes banner" style="width:800px;" />

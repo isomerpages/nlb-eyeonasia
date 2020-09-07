@@ -102,6 +102,8 @@ collections:
     output: true
   eoa-events:
     output: true
+  obsolete:
+    output: false
 
 # Resources and pagination
 resources_name: events
