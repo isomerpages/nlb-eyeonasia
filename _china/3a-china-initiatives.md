@@ -35,7 +35,7 @@ A youth development programme by the National Youth Council which provides short
 
 **Travel and Learn Programme**
 
-Organised by its Continuing Education & Training Academy, the Ngee Ann Polytechnic offers learning journeys to cities like Yangon in Myanmar, where participants can pick up skills to start a business and explore new markets to grow their business.
+Organised by its Continuing Education & Training Academy, the Ngee Ann Polytechnic offers learning journeys to Asian cities, where participants can pick up skills to start a business and explore new markets to grow their business.
 
 [Find out more](https://www.np.edu.sg/travelandlearn/Pages/default.aspx){:target="_blank"}
 
@@ -59,7 +59,7 @@ Individuals can learn Business Mandarin and acquire a good understanding of the 
 
 ### **Singapore Federation of Chinese Clan Associations**
 
-To foster bilingual and bicultural talents, this scholarship will be awarded annually to five outstanding students pursuing their studies in top-ranking Chinese universities to finance their studies and living expenses.
+To foster bilingual and bicultural talents, this scholarship will be awarded annually to outstanding students pursuing their studies in top-ranking Chinese universities to finance their studies and living expenses.
 
 [Find out more](https://sfcca.sg/en/sfccascholarship/){:target="_blank"}
 

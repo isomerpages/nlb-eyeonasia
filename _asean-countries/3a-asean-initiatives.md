@@ -29,7 +29,7 @@ A youth development programme by the National Youth Council which provides short
 
 **Travel and Learn Programme**
 
-Organised by its Continuing Education & Training Academy, the Ngee Ann Polytechnic offers learning journeys to cities like Yangon in Myanmar, where participants can pick up skills to start a business and explore new markets to grow their business.
+Organised by its Continuing Education & Training Academy, the Ngee Ann Polytechnic offers learning journeys to Asian cities, where participants can pick up skills to start a business and explore new markets to grow their business.
 
 [Find out more](https://www.np.edu.sg/travelandlearn/Pages/default.aspx){:target="_blank"}
 
