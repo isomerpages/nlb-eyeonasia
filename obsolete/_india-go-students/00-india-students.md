@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Overseas internships
-permalink: /india/go/for-students/overseas-internships/
+permalink: 
 breadcrumb: Overseas internships
-collection_name: india-go-students
+collection_name: obsolete
 ---
 
 <img src="\images\asean-students\overseas-internships.jpg" alt="overseas internship banner" style="width:800px;" />

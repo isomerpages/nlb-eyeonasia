@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: For Young Professionals
-permalink: /india/go/for-young-professionals/
+permalink: 
 breadcrumb: For Young Professionals
-collection_name: india
+collection_name: obsolete
 second_nav_title: "Go"
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: International exchange programmes
-permalink: /asean-countries/go/for-students/international-exchange-programmes/
+permalink: 
 breadcrumb: International exchange programmes
-collection_name: asean-go-students
+collection_name: obsolete
 ---
 
 <img src="\images\asean-students\international-exchange-programmes.jpg" alt="international exchange programmes banner" style="width:800px;" />

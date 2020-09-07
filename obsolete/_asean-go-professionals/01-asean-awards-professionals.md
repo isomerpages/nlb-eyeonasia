@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Awards and other programmes (for young professionals)
-permalink: /asean-countries/go/for-professionals/awards-professionals/
+permalink: 
 breadcrumb: Awards and other programmes (for young professionals)
-collection_name: asean-go-professionals
+collection_name: obsolete
 ---
 
 <img src="\images\asean-professionals\awards-professionals.jpg" alt="awards professionals banner" style="width:800px;" />

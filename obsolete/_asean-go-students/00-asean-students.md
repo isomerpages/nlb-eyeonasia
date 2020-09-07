@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Overseas internships
-permalink: /asean-countries/go/for-students/overseas-internships/
+permalink: 
 breadcrumb: Overseas internships
-collection_name: asean-go-students
+collection_name: obsolete
 ---
 
 <img src="\images\asean-students\overseas-internships.jpg" alt="overseas internship banner" style="width:800px;" />
