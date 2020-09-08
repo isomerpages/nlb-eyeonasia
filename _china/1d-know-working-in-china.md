@@ -41,7 +41,7 @@ Is China big enough for your dreams? Discover this land of opportunities through
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/working-in-asean/understanding-cultural-intelligence/" class="project-link">
+			<a href="/china/know/working-in-china/understanding-cultural-intelligence/" class="project-link">
 				<img src="/images/china-working/cultural-intelligence-small-2.jpg" alt="Understanding cultural intelligence" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
