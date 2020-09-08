@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Understanding cultural intelligence
-permalink: /asean-countries/know/working-in-asean/understanding-cultural-intelligence/
+permalink: /india/know/working-in-india/understanding-cultural-intelligence/
 breadcrumb: Understanding cultural intelligence
-collection_name: asean-know-working
+collection_name: india-know-working
 ---
 
-<img src="\images\asean-working\cultural-intelligence-2.jpg" alt="cultural intelligence" style="width:800px;" />
+<img src="\images\india-working\cultural-intelligence-2.jpg" alt="cultural intelligence" style="width:800px;" />
 
 This is a selection of resources on cultural intelligence contributed by Nanyang Technological University’s Nanyang Business School and is not meant to be an exhaustive list.  Additional information can also be found at Nanyang Business School’s Center for Leadership & Cultural Intelligence: <http://www.clci.ntu.edu.sg/>{:target="_blank"}
 
@@ -133,4 +133,3 @@ In this article on cultural intelligence in the local context, the author posits
 [**The key elements of cultural intelligence as a driver for digital leadership success**](https://link.springer.com/article/10.1365/s42681-019-00005-x){:target="_blank"}
 
 While digital transformation can help companies expand their markets and internationalise, it also brings pressure in operating and managing the workforce in multicultural settings. This open access article discusses the importance of cultural intelligence for leadership success in the digital world today.
-
