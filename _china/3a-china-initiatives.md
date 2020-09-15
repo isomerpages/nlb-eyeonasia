@@ -23,6 +23,12 @@ Enterprise Singapore offers various tools and support to deepen your market pres
 
 [Find out more](https://www.enterprisesg.gov.sg/keepgrowing/go-global){:target="_blank"}
 
+### **GlobalConnect@SBF**
+
+Singapore Business Federation (SBF), in partnership with Enterprise Singapore, has set up GlobalConnect@SBF to be the partner for Singapore companies looking to expand overseas. With a focus on ASEAN, frontier and emerging markets, FTA education and outreach, and markets along the Belt and Road, GlobalConnect@SBF supports companies’ business expansion plans to new markets. It is available to both SBF and non-SBF members.
+
+[Find out more](https://globalconnect.sbf.org.sg/){:target="_blank"}
+
 ### **National Youth Council Singapore**
 
 **Asia-Ready Exposure Programme**
