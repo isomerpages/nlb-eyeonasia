@@ -14,6 +14,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 
 ### **Founding Partners**
 <div>
+	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.enterprisesg.gov.sg/"><img src="/images/partners/Enterprise-Singapore-logo-new.png" alt="EnterpriseSG"></a>
 		</div>
@@ -30,7 +31,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://globalconnect.sbf.org.sg/"><img src="/images/partners/GlobalConnect@SBF Logo.png" style="width:70%;" alt="Global Connect"></a>
+			<a href="https://globalconnect.sbf.org.sg/"><img src="/images/partners/GlobalConnect@SBF Logo.png" style="width:100%;" alt="Global Connect"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.mheducation.com.sg/"><img src="/images/partners/McGraw Hill logo.png" style="width:70%;" alt="McGraw Hill Education Asia"></a>
