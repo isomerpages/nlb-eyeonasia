@@ -26,7 +26,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/16-sep-2020/" class="project-link">
-				<img src="\images\past-events\16-Sep-2020\Eye on Asia Eventbrite 16 Sep 2020.jpg" class="project-image">
+				<img src="\images\past-events\16-Sep-2020\Eye on Asia Eventbrite 16 Sep 2020 small.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Digital Transformation in ASEAN: Leaving No One Behind</b></h5>
