@@ -21,7 +21,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="\images\china-employers\sbf.png" alt="building business resilence" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Building Your Business Resilience & Seizing New Opportunities from the New Tech Infrastructure</b></h5>
+					<h5><b>Building Your Business Resilience & Seizing New Opportunities...</b></h5>
 				</div>
 			</div>
 			</a>
