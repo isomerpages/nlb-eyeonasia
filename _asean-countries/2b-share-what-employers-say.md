@@ -18,7 +18,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="\images\asean-employers\sbf-indo.png" alt="global connect" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Indonesia's Economy Amidst COVID-19 - What Singapore Businesses Should Know</b></h5>
+					<h5><b>Indonesia's Economy Amidst COVID-19...</b></h5>
 				</div>
 			</div>
 			</a>

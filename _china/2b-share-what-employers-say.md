@@ -39,7 +39,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
-<p><p><p>
+<p><p>
 
 <div>
 	<div class="row is-multiline">
