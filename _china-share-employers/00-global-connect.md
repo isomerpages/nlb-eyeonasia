@@ -20,7 +20,7 @@ Moderated by Ms Jennifer Tay, Partner, PwC Singapore, the session featured panel
 
 The Singapore Business Federation (SBF), in partnership with Enterprise Singapore, has set up GlobalConnect@SBF to be the partner for Singapore companies looking to expand overseas. With a focus on ASEAN, frontier and emerging markets, FTA education and outreach, and markets along the Belt and Road, GlobalConnect@SBF supports companies’ business expansion plans to new markets. It is available to both SBF and non-SBF members.
 
-To connect with GlobalConnect@SBF, please refer to https://globalconnect.sbf.org.sg/contact-us or email your enquiry to [globalconnect@sbf.org.sg](mailto:globalconnect@sbf.org.sg) 
+To connect with GlobalConnect@SBF, please refer to <https://globalconnect.sbf.org.sg/contact-us> or email your enquiry to [globalconnect@sbf.org.sg](mailto:globalconnect@sbf.org.sg) 
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwXSMrBBEU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
