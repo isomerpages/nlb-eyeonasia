@@ -8,7 +8,7 @@ collection_name: asean-know-living
 
 <img src="/images/asean-living/Transportation-Philippines.jpg" alt="Transportation Philippines banner" style="width:800px;" />
 
- This is a selection of resources on transportation in Philippines available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](http://www.eyeonasia.sg/contact/) so that we can share them with our readers.
+ This is a selection of resources on transportation in Philippines available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](https://www.eyeonasia.gov.sg/contact-us/) so that we can share them with our readers.
 
 ### **NLB print and digital resources**
 

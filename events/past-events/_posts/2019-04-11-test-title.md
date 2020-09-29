@@ -19,7 +19,7 @@ The aviation industry is projected to experience tremendous growth over the next
 
 Free admission. Register now via [this link](https://bit.ly/2GREMBv)
 
-Eye on Asia offers resources on ASEAN countries, China and India for young Singaporeans who want to explore opportunities in the region and beyond. For more information, please visit [www.eyeonasia.sg](http://www.eyeonasia.sg/).
+Eye on Asia offers resources on ASEAN countries, China and India for young Singaporeans who want to explore opportunities in the region and beyond. For more information, please visit [www.eyeonasia.gov.sg](https://www.eyeonasia.gov.sg/).
 
 ##### **About the Speaker**
 

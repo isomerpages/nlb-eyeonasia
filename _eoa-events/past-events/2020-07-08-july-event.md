@@ -17,7 +17,7 @@ The Singapore-China “fast lane” arrangement allows for essential business an
 
 Navigating with you the shift of growth opportunities to Asia.
 
-Find out more at <https://www.eyeonasia.sg>
+Find out more at <https://www.eyeonasia.gov.sg/>
 
 This programme is co-organised with <a href="https://www.osg.sg/">OSG Youth Alliance</a>.
 
