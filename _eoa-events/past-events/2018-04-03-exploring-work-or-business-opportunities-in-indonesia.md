@@ -21,7 +21,7 @@ This is one of the talks under the Eye on Asia programme series for everyone inc
 
 President Director of PT Walletku Indompet Indonesia, Farid MN from Singapore will be sharing first-hand information on the job market and the work culture in Indonesia. Pick up tips that will give you an edge against others!
 
-Curated by librarians from the National Library, Eye on Asia offers resources on ASEAN countries, China and India for everyone, including young Singaporeans who are interested to explore internationalisation opportunities in the region and beyond. For more information, please visit [www.eyeonasia.sg](http://www.eyeonasia.sg/)
+Curated by librarians from the National Library, Eye on Asia offers resources on ASEAN countries, China and India for everyone, including young Singaporeans who are interested to explore internationalisation opportunities in the region and beyond. For more information, please visit [www.eyeonasia.gov.sg](https://www.eyeonasia.gov.sg/)
 
 
 
