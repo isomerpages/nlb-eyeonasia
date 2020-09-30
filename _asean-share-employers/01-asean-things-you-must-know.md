@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: 9 things you must know when doing business in China
-permalink: /asean/share/what-employers-say/things-you-must-know/
+permalink: /asean-countries/share/what-employers-say/things-you-must-know/
 breadcrumb: 9 things you must know when doing business in China
 collection_name: asean-share-employers
 ---

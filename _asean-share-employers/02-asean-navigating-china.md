@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Navigating China as a Singaporean
-permalink: /asean/share/what-employers-say/navigating-china/
+permalink: /asean-countries/share/what-employers-say/navigating-china/
 breadcrumb: Navigating China as a Singaporean
 collection_name: asean-share-employers
 ---
