@@ -10,11 +10,11 @@ collection_name: asean-share-employers
 
 **This text is reproduced with permission:** 
 
-In China, even an old man selling sweet potatoes on the street uses cashless payment! You can leave home without a wallet, but you should never leave your phone behind. 
+*In China, even an old man selling sweet potatoes on the street uses cashless payment! You can leave home without a wallet, but you should never leave your phone behind.*
 
-In malls, trains, buses, convenience stores, or even markets, QR code scanning payment can easily help you make any transactions you want.
+*In malls, trains, buses, convenience stores, or even markets, QR code scanning payment can easily help you make any transactions you want.*
 
-According to the latest policy updates, if your WeChat Pay is not connected to a corresponding bank account, you will not be able to pay or receive remittance. Therefore, what you need to do is, first of all, get a mobile phone number in China, which also requires you to register with your own identification. Second, register an account with a mainstream Chinese bank and deposit an appropriate amount of money. Next, connect your phone number and bank account with WeChat Pay or Alipay. Now you can make cashless payment in China, just like the locals.
+*According to the latest policy updates, if your WeChat Pay is not connected to a corresponding bank account, you will not be able to pay or receive remittance. Therefore, what you need to do is, first of all, get a mobile phone number in China, which also requires you to register with your own identification. Second, register an account with a mainstream Chinese bank and deposit an appropriate amount of money. Next, connect your phone number and bank account with WeChat Pay or Alipay. Now you can make cashless payment in China, just like the locals.*
 
 [Read more about the 9 tips on doing business in China from the Singapore Global Network.](https://singaporeglobalnetwork.gov.sg/stories/business/9-things-you-must-know-when-doing-business-in-china/)
 
