@@ -6,7 +6,7 @@ breadcrumb: Partners
 ---
 <img src="/images/partners/partners-banner.jpg" alt="partners banner" style="width:800px;" />
 
-Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore, International Trading Institute at Singapore Management University, GlobalConnect@SBF, McGraw-Hill Education (Asia), Nanyang Business School, Ngee Ann Polytechnic, OSG Youth Alliance, Singapore Indian Chamber of Commerce & Industry, Singapore Polytechnic, Singapore University of Social Sciences, Temasek Polytechnic, The ASEAN Living Room, Yale-NUS College and Youth Corps Singapore. 
+Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore, International Trading Institute at Singapore Management University, GlobalConnect@SBF, McGraw-Hill Education (Asia), Nanyang Business School, Ngee Ann Polytechnic, OSG Youth Alliance,  Singapore Global Network, Singapore Indian Chamber of Commerce & Industry, Singapore Polytechnic, Singapore University of Social Sciences, Temasek Polytechnic, The ASEAN Living Room, Yale-NUS College and Youth Corps Singapore. 
 
 
 
@@ -49,27 +49,32 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.osg.sg/"><img src="/images/partners/OSG Youth Alliance Logo-2.png" alt="Globalising Young Minds"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:70%;"></a>
+			<a href="http://www.singaporeglobalnetwork.gov.sg/"><img src="/images/partners/SGN_HORIZONTAL LOGO_RED.png" alt="Singapore Global Network" style="width:70%;"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:70%;"></a>
+		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp-logo-new.png" alt="Singapore Polytechnic"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.suss.edu.sg/Pages/index.aspx"><img src="/images/partners/suss-logo-new.png" alt="Singapore University of Social Sciences" style="max-height:80%;max-width:80%;"></a>
 		</div>
+	</div>
+	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.tp.edu.sg/"><img src="/images/partners/tp-logo-new.png" alt="Temasek Polytechnic"></a>
 		</div>
-	</div>
-	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.tlr.asia/"><img src="/images/partners/ASEAN Living Room Logo 2.png" alt="The ASEAN Living Room"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/yale-nus-logo-new.png" alt="Yale NUS College"></a>
 		</div>
+	</div>
+	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="max-height:80%;max-width:80%;"></a>
 		</div>
