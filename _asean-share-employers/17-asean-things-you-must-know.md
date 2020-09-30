@@ -1,5 +1,5 @@
 ---
-clayout: leftnav-page-content
+layout: leftnav-page-content
 title: 9 things you must know when doing business in China
 permalink: /asean/share/what-employers-say/things-you-must-know/
 breadcrumb: 9 things you must know when doing business in China
@@ -20,7 +20,7 @@ According to the latest policy updates, if your WeChat Pay is not connected to a
 
 
 
-****About Singapore Global Network** 
+**About Singapore Global Network** 
 
 The Singapore Global Network (SGN) is a division in the Economic Development Board that focuses on building personal relationships with individuals all over the globe. Whether you’re considering Singapore as your next place to work and live in, a Singaporean living overseas and thinking about returning, or just someone who’s curious about the kind of opportunities available in Singapore, SGN will connect you with the right people or resources to get started.
 
