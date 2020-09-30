@@ -18,7 +18,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="\images\asean-employers\building-business.jpg" alt="building business" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Building businesses in Thailand...</b></h5>
+					<h5><b>Building businesses in Thailand - An insider’s view</b></h5>
 				</div>
 			</div>
 			</a>
