@@ -1,5 +1,5 @@
 ---
-clayout: leftnav-page-content
+layout: leftnav-page-content
 title: Building businesses in Thailand - An insider’s view
 permalink: /china/share/what-employers-say/building-business-thailand/
 breadcrumb: Building businesses in Thailand - An insider’s view
@@ -21,7 +21,7 @@ collection_name: china-share-employers
 [Read more about Eng-Kok Loh’s views on the opportunities in Thailand from the Singapore Global Network.](https://singaporeglobalnetwork.gov.sg/stories/tech/building-businesses-in-thailand-frost-sullivan-vp-and-country-head-eng-lok-koh-shares-an-insiders-view/)
 
 
-****About Singapore Global Network** 
+**About Singapore Global Network** 
 
 The Singapore Global Network (SGN) is a division in the Economic Development Board that focuses on building personal relationships with individuals all over the globe. Whether you’re considering Singapore as your next place to work and live in, a Singaporean living overseas and thinking about returning, or just someone who’s curious about the kind of opportunities available in Singapore, SGN will connect you with the right people or resources to get started.
 
