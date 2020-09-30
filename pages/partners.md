@@ -48,7 +48,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.osg.sg/"><img src="/images/partners/OSG Youth Alliance Logo-2.png" alt="Globalising Young Minds"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="http://www.singaporeglobalnetwork.gov.sg/"><img src="/images/partners/SGN_HORIZONTAL LOGO_RED.png" alt="Singapore Global Network" style="width:70%;"></a>
+			<a href="http://www.singaporeglobalnetwork.gov.sg/"><img src="/images/partners/SGN_HORIZONTAL LOGO_RED.png" alt="Singapore Global Network" style="width:100%;"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
