@@ -41,7 +41,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countriesshare/what-employers-say/navigating-china/" class="project-link">
+			<a href="/asean-countries/share/what-employers-say/navigating-china/" class="project-link">
 				<img src="\images\asean-employers\navigating-china.png" alt="navigating china" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
