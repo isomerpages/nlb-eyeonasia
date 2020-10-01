@@ -20,40 +20,30 @@ A comprehensive study of Chinese architecture in a rich historical and political
 
 All rights reserved, Princeton: Princeton University Press, 2019
 
+<img src="/images/book-covers/China-homegrown.jpg" style="width:150px;" />
 
+[**China homegrown: Chinese experimental architecture reborn**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203813730){:target="_blank"}
 
+Read about the emergence of a new generation of architects in their 30s and 40s in China and how they are addressing a myriad of urban and rural conditions and social and environmental challenges in their building designs.  While architects are making good use of the established manufacturing base in China in developing prefabricated building systems, they are also exploring innovative modes of working including laboratory-based practices and design think-tanks.
 
-<img src="/images/book-covers/Chinese-houses-The-architectural-heritage-of-a-nation.jpg" style="width:150px;" />
+All rights reserved, Oxford: John Wiley & Sons, 2018
 
-[**Chinese houses: The architectural heritage of a nation**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=D5C33FFB-336E-4BA1-9FE2-40B113E15ACD){:target="_blank"}
+<img src="/images/book-covers/International-housing-market-experience.jpg" style="width:150px;" />
 
-Exquisite examples of traditional dwellings are scattered throughout modern-day China. This book focuses on 20 well-preserved traditional homes, presenting examples from a range of rural and metropolitan areas throughout China. The photographs of each type of dwelling are accompanied by extensive background information and historical content.
+[**International housing market experience and implications for China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203982013){:target="_blank"}
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+Driven by consumer demand, the prices of houses in China have skyrocketed, with middle and lower-middle income households having to make do with cheaper and inferior housing options in unfavourable locations. The chapters in this volume also examine the impact of widening wealth gaps and slower economic growth on housing in China and presents a comparative study of the policy design challenges encountered by countries such as Japan, Korea, Singapore, the UK and the US.
 
-<img src="/images/book-covers/Housing-affordability-and-housing-policy-in-urban-China.jpg" style="width:150px;" />
+All rights reserved, New York: Routledge, Taylor & Francis Group, 2019
 
-[**Housing affordability and housing policy in urban China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201117792){:target="_blank"}
+<img src="/images/book-covers/Housing-reform-and-Chinas-real-estate.jpg" style="width:150px;" />
 
-Find out how market-oriented housing reform policies have shaped housing affordability in China. Also explore the different kinds of housing, the background of the Housing Provident Fund, and future perspectives in this book.
+[**Housing reform and China's real estate industry: Review and forecast**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204438112){:target="_blank"}
 
-All rights reserved, Heidelberg: Springer, 2014.
+China's housing system and real-estate industry are the focus of this book, which examines the intertwining of the Chinese housing policy, real estate finance and public policy. 
 
-<img src="/images/book-covers/The-Shanghai-alleyway-house-A-vanishing-urban-vernacular.jpg" style="width:150px;" />
+All rights reserved, Singapore: Springer, 2020
 
-[**The Shanghai alleyway house: A vanishing urban vernacular**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200136555){:target="_blank"}
-
-An alleyway house is a hybrid of the traditional Chinese courtyard and the Western terrace house. A space unique to Shanghai, where the boundaries of public and private lives merge to create a vibrant social community, these alleyway houses have been making way for the city’s rapid urban redevelopment. This book examines the lifestyle that the alleyway house has engendered and the future of this type of dwelling.
-
-All rights reserved, London: Routledge, 2013.
-
-<img src="/images/book-covers/Living-in-China.jpg" style="width:180px;" />
-
-[**Living in China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200148329){:target="_blank"}
-
-This book explores the different lifestyles of the Chinese through photographs. Covering various districts throughout the provinces, the beautiful visuals showcase the homes of Chinese citizens in towns and cities.
-
-All rights reserved, New York: Taschen, 2013.
 
 ---
 
