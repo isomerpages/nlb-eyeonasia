@@ -20,13 +20,13 @@ This title looks into the use of low-carbon buses in China. It reviews the envir
 
 All rights reserved, Metro Manila: Asian Development Bank, 2018
 
-<img src="/images/book-covers/Database 1.jpg" style="width:150px;" />
+<img src="/images/resources/Database 1.jpg" style="width:150px;" />
 
 [**China drives into the future**](https://eresources.nlb.gov.sg/Main/browse/resource/1329){:target="_blank"}
 
 China is at the forefront of sales in the electric vehicle market. In 2018, 1.25 million electric cars were sold in China, with many sold manufactured by BYD Auto, a local company. Find out more about the development of electric cars in China from this article published in New Scientist today.
 
-Retrieved from EBSCOHost. (mylibraryID is required to access this database)
+Retrieved from EBSCOHost. (<i>mylibrary</i>ID is required to access this database)
 
 ---
 
@@ -81,6 +81,7 @@ Take a look at how China has become a global leader in shaping the future of rai
 With the goals of becoming a world leader in the electric vehicle (EV) market, cutting greenhouse gas emissions and reducing its reliance on imported oil, the Chinese government provides funding support for companies that produce EVs and incentivises consumers with subsidies for the purchase of EVs. In addition, the government grants EV licenses more liberally as compared to gas or diesel-fuelled vehicles.
 
 Source: PBS NewsHour
+
 Video duration: 7min 59sec
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
