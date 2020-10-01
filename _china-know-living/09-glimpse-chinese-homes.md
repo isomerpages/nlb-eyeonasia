@@ -12,14 +12,6 @@ This is a selection of resources on Chinese dwellings available from the [NLB ca
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Chinese-vernacular-dwellings.jpg" style="width:150px;" />
-
-[**Chinese vernacular dwellings**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14570275){:target="_blank"}
-
-Through different varieties of architectural Chinese homes that reflect an assortment of natural and cultural environments, this book showcases a selection of traditional Chinese houses representative of the types of architecture, environments as well as the lifestyles and customs of their inhabitants.
-
-All rights reserved, United Kingdom: Cambridge University Press, 2011.
-
 <img src="/images/book-covers/Chinese-houses-The-architectural-heritage-of-a-nation.jpg" style="width:150px;" />
 
 [**Chinese houses: The architectural heritage of a nation**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=D5C33FFB-336E-4BA1-9FE2-40B113E15ACD){:target="_blank"}
