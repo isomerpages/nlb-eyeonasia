@@ -63,7 +63,7 @@ All rights reserved, New York: Taschen, 2013.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EzKHUeYX9tU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-**China’s co-living boom puts hundreds of millennials under one roof**
+**Inside the round Tulou houses you saw in ‘Mulan’**
 
 Find out what life is like in a ”tulou”, a unique dwelling inhabited historically by the Hakka people and a protected UNESCO World Heritage site in southern China. This video introduces and explores in detail the interior structures of one such tulou in Yongding, Fujian.
 
@@ -75,7 +75,17 @@ Find out what life is like in a ”tulou”, a unique dwelling inhabited histori
 
 Take a closer look at the underground pit homes of Sanmenxia in China, which has a 4000 year-old history. One of the last few remaining inhabitants there offers a brief account of what life is like in these historic dwellings.
 
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
+[**Housing One Billion+**](https://pdf.savills.asia/selected-international-research/2019-resi-report-en-final.pdf){:target="_blank"}
+
+This 2019 report provides an overview of China's residential market and how it has been impacted by property cooling measures, with the latest curbs implemented in late 2017 to control rising residential prices driven by speculative investments. It offers insights to the average prices by districts of 10 residential cities in China, trends in luxury housing and developments in the serviced apartment market.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**To what extent is the Chinese housing boom driven by competition in the marriage market?**](https://link.springer.com/article/10.1007/s10901-020-09749-1){:target="_blank"}
+
+Home ownership in China has grown substantially since the housing sector was privatised in 1998. According to this article, the boom in the property market in China has a direct correlation with families having male offspring. Chinese families with a son aged 25 years and older tend to purchase additional dwellings to enhance the marriageability of their child.  
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
