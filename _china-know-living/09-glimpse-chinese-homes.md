@@ -12,6 +12,17 @@ This is a selection of resources on Chinese dwellings available from the [NLB ca
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/Chinese-architecture-a-history.jpg" style="width:150px;" />
+
+[**Chinese architecture: A history**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203972389){:target="_blank"}
+
+A comprehensive study of Chinese architecture in a rich historical and political context, this book covers the evolution of many centuries of architecture in China, from the beginning of Chinese building history to the present day. 
+
+All rights reserved, Princeton: Princeton University Press, 2019
+
+
+
+
 <img src="/images/book-covers/Chinese-houses-The-architectural-heritage-of-a-nation.jpg" style="width:150px;" />
 
 [**Chinese houses: The architectural heritage of a nation**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=D5C33FFB-336E-4BA1-9FE2-40B113E15ACD){:target="_blank"}
