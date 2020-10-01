@@ -46,7 +46,7 @@ All rights reserved, Berkeley: Stone Bridge Press, 2019
 
 <img src="/images/book-covers/Etiquette-guide-to-China-Know-the-rules-that-make-the-difference.jpg" style="width:150px;" />
 
-[**Etiquette guide to China: Know the rules that make the difference! **](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202670409){:target="_blank"}
+[**Etiquette guide to China: Know the rules that make the difference!**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202670409){:target="_blank"}
 
 This book will help visitors to China demystify Chinese social etiquette for occasions such as the receiving of name cards, shaking of hands, entertaining Chinese guests, answering mobile phone calls and other protocols. It also includes a chapter on contemporary business style and etiquette in China and a glossary of commonly-used Chinese phrases and expressions.
 
