@@ -11,11 +11,62 @@ second_nav_title: "Share"
 
 Outstanding Singapore businessmen, entrepreneurs, professionals and organisations have entered the ASEAN markets over the decades. Learn more about their ventures and what it takes to make that first step.
 
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-employers-say/building-business-thailand/" class="project-link">
+				<img src="\images\asean-employers\building-business.jpg" alt="building business" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Building businesses in Thailand - An insider’s view</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
 
-
+<p><p>
 
 <div>
 	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-employers-say/things-you-must-know/" class="project-link">
+				<img src="\images\asean-employers\things-you-must-know.jpg" alt="9 things you must know" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>9 things you must know when doing business in China</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-employers-say/navigating-china/" class="project-link">
+				<img src="\images\asean-employers\navigating-china.png" alt="navigating china" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Navigating China as a Singaporean</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-employers-say/global-connect-sbf/" class="project-link">
+				<img src="\images\china-employers\sbf.png" alt="building business resilence" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Building Your Business Resilience & Seizing New Opportunities...</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/skills-internship-job-search/" class="project-link">
 				<img src="/images/china-employers/Skills-for-internship-small.jpg" alt="Skills for internship and job search" class="project-image">
@@ -26,6 +77,13 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/eu-yan-sang/" class="project-link">
 				<img src="/images/china-employers/eu-yan-sang-small.jpg" alt="Eu Yan Sang International - An old hand on the world stage..." class="project-image">
@@ -36,13 +94,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/pico-art/" class="project-link">
 				<img src="/images/china-employers/pico-art-small.jpg" alt="Pico Art rides wave of MICE industry to global success" class="project-image">
@@ -53,6 +104,13 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/sembcorp-development/" class="project-link">
 				<img src="/images/china-employers/sembcorp-development-small.jpg" alt="Sembcorp Development - Knowing who will come is key..." class="project-image">
@@ -63,13 +121,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/tiger-balm/" class="project-link">
 				<img src="/images/china-employers/tiger-balm-small.jpg" alt="Tiger Balm - Singapore's iconic ointment a huge hit in 100..." class="project-image">
@@ -80,6 +131,13 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/wong-fong-engineering/" class="project-link">
 				<img src="/images/china-employers/wong-fong-engineering-small.jpg" alt="Wong Fong Engineering - Innovation drives success in..." class="project-image">
@@ -90,13 +148,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/gold-kili/" class="project-link">
 				<img src="/images/china-employers/gold-kili-small.jpg" alt="Gold Kili - Gold New World" class="project-image">
@@ -107,6 +158,13 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/charles-and-keith/" class="project-link">
 				<img src="/images/china-employers/charles-and-keith-small.jpg" alt="Charles and Keith International - Full control ensures..." class="project-image">
@@ -117,13 +175,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/kingsmen-creatives/" class="project-link">
 				<img src="/images/china-employers/kingsmen-creatives-small.jpg" alt="Kingsmen Creatives -  Exhibiting a knack for staying..." class="project-image">
@@ -134,6 +185,13 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/ednovation/" class="project-link">
 				<img src="/images/china-employers/ednovation-small.jpg" alt="Ednovation - China makes way for next level pre-school..." class="project-image">
@@ -144,13 +202,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/capitaland/" class="project-link">
 				<img src="/images/china-employers/capitaland-small.jpg" alt="CapitaLand - Building malls with a feel of Singapore" class="project-image">
@@ -161,6 +212,13 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/breadtalk/" class="project-link">
 				<img src="/images/china-employers/breadtalk-small.jpg" alt="BreadTalk boss goes hands on overseas" class="project-image">
@@ -171,13 +229,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/ascendas/" class="project-link">
 				<img src="/images/china-employers/ascendas-small.jpg" alt="Ascendas looking to partner Singapore firms" class="project-image">

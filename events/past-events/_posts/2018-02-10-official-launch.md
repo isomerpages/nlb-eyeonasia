@@ -11,7 +11,7 @@ The National Library’s Eye on Asia resource centre was officially launched on 
 
 Curated by librarians, Eye on Asia showcases the National Library’s collections on ASEAN countries, China and India for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation abroad. Monthly programmes are also organised with our partners to gain insights from entrepreneurs and people who have lived and worked abroad.
 
-Are you inspired by Eye on Asia? Did you learn something useful from our resources? Or do you have a new idea to share with us? Drop us a [note](http://www.eyeonasia.sg/contact/){:target="_blank"} and tell us what you think!
+Are you inspired by Eye on Asia? Did you learn something useful from our resources? Or do you have a new idea to share with us? Drop us a [note](https://www.eyeonasia.gov.sg/contact-us/){:target="_blank"} and tell us what you think!
 
 ##### **Event gallery**
 

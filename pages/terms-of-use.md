@@ -8,7 +8,7 @@ breadcrumb: Terms of Use
 
 #### **Conditions of Use and Copyright & Disclaimer Statement**
 
-Please read these terms and conditions carefully. A reference to this "website" is to [https://eyeonasia.sg](https://eyeonasia.sg) including but not limited to the information, text, images, links, sound, graphics and video sequences displayed herein (the "Materials").
+Please read these terms and conditions carefully. A reference to this "website" is to [https://www.eyeonasia.gov.sg/](https://www.eyeonasia.gov.sg/) including but not limited to the information, text, images, links, sound, graphics and video sequences displayed herein (the "Materials").
 
 By accessing this website and any pages thereof, you agree to be bound by the terms and conditions below. If you do not agree to the terms and conditions below, do not access this site or any pages thereof.
 

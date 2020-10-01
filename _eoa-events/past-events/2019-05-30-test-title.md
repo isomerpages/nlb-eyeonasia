@@ -19,7 +19,7 @@ From its humble beginnings in 1944, Ya Kun has transformed from a heritage brand
 
 Free admission. Register now via [this link](https://bit.ly/30onALt?fbclid=IwAR1IGHJJ5LdSxArH9eAetYksJdxCL122TpZUANBqv6JGFymnNmlfG8GeuNk)
 
-Navigate the shifts in global economic power to Asia with Eye on Asia’s curated programmes and resources. Tap into the insights of professionals who have ventured into the region. Visit www.eyeonasia.sg to find out more!
+Navigate the shifts in global economic power to Asia with Eye on Asia’s curated programmes and resources. Tap into the insights of professionals who have ventured into the region. Visit www.eyeonasia.gov.sg to find out more!
 
 ##### **About the Speaker**
 
