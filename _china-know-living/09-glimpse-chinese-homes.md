@@ -59,6 +59,24 @@ All rights reserved, New York: Taschen, 2013.
 
 ### **You may also like**
 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EzKHUeYX9tU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+
+**China’s co-living boom puts hundreds of millennials under one roof**
+
+Find out what life is like in a ”tulou”, a unique dwelling inhabited historically by the Hakka people and a protected UNESCO World Heritage site in southern China. This video introduces and explores in detail the interior structures of one such tulou in Yongding, Fujian.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uj8kQgiyvcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+
+**China: Have you seen a home like this?**
+
+Take a closer look at the underground pit homes of Sanmenxia in China, which has a 4000 year-old history. One of the last few remaining inhabitants there offers a brief account of what life is like in these historic dwellings.
+
+
+
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**China’s co-living boom puts hundreds of millennials under one roof**](https://qz.com/706409/chinas-co-living-boom-puts-hundreds-of-millenials-under-one-roof-heres-what-its-like-inside-one/){:target="_blank"}
