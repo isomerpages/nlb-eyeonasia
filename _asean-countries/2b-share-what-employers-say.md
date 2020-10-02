@@ -31,33 +31,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/share/what-employers-say/things-you-must-know/" class="project-link">
-				<img src="\images\asean-employers\things-you-must-know.jpg" alt="9 things you must know" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>9 things you must know when doing business in China</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/share/what-employers-say/navigating-china/" class="project-link">
-				<img src="\images\asean-employers\navigating-china.png" alt="navigating china" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Navigating China as a Singaporean</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-employers-say/global-connect-sbf/" class="project-link">
 				<img src="\images\asean-employers\sbf-indo.png" alt="global connect" class="project-image">
 			<div class="project-card">

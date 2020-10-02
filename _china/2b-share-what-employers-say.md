@@ -9,24 +9,7 @@ second_nav_title: "Share"
 
 ![banner-china-share-what-employers-say](\images\china-employers\What-employers-say-new.jpg)
 
-Outstanding Singapore businessmen, entrepreneurs, professionals and organisations have entered the ASEAN markets over the decades. Learn more about their ventures and what it takes to make that first step.
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/share/what-employers-say/building-business-thailand/" class="project-link">
-				<img src="\images\asean-employers\building-business.jpg" alt="building business" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Building businesses in Thailand - An insider’s view</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>
-
-<p><p>
+Outstanding Singapore businessmen, entrepreneurs, professionals and organisations have entered the China market over the decades. Learn more about their ventures and what it takes to make that first step.
 
 <div>
 	<div class="row is-multiline">
