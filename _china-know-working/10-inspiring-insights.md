@@ -28,7 +28,7 @@ By compiling the disruptive business models and tactics that Chinese multination
 
 All rights reserved, London: Academic Press, Elsevier, 2020
 
-<img src="/images/book-covers/5-keys-to-understanding-China-A-Samsung-veteran-shares-how-to-succeed-in-China.jpg" style="width:150px;" />
+<img src="/images/book-covers/Huawei-genes.jpg" style="width:150px;" />
 
 [**Huawei genes: The work philosophy of Huaweiers**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204500490 ){:target="_blank"}
 

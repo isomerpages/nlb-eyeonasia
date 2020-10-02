@@ -36,7 +36,7 @@ Read this book to understand how Chinese business culture can impact the managem
 
 All rights reserved, Cham: Springer International Publishing AG, 2018
 
-<img src="/images/book-covers/Routledge-course-in-business-Chinese.jpg" style="width:150px;" />
+<img src="/images/book-covers/Intercultural competencies in China.jpg" style="width:150px;" />
 
 [**Intercultural competencies in China**](https://nlb.overdrive.com/media/3592450){:target="_blank"}
 
