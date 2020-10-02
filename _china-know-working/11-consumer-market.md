@@ -12,29 +12,45 @@ This is a selection of resources on China’s growing consumer market available 
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Consumption-in-China-How-China’s-new-consumer-ideology-is-shaping-the-nation.jpg" style="width:150px;" />
+<img src="/images/book-covers/Consumption-patterns-of-the-middle-class.jpg" style="width:150px;" />
 
-[**Consumption in China: How China’s new consumer ideology is shaping the nation**](https://singapore.libraryreserve.com/ContentDetails.htm?id=D815761F-7FFE-4C29-B4DD-434EBEC935DC){:target="_blank"}
+[**Consumption patterns of the middle class in contemporary China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203115823){:target="_blank"}
 
-What motivates the billions of consumers in China? This ebook explores what it means to be a Chinese consumer, and looks at the universal and unique consumer practices in China, while examining the factors that differentiate them from other mature consumer markets.
+Debunking stereotypes about China’s “new rich” as well as overly frugal consumers, this book offers several insights into the buying habits of the Chinese middle class. In particular, the book examines these buyers’ attitudes, tastes, values, and moral orientations to show what influences their buying decisions in a globalised context.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+All rights reserved, Singapore: World Scientific, 2018
 
-<img src="/images/book-covers/China-catalyst-Powering-global-growth-by-reaching-the-fastest-growth-consumer-market-in-the-world.jpg" style="width:150px;" />
+<img src="/images/book-covers/Chinese-consumers-and-the-fashion-market.jpg" style="width:150px;" />
 
-[**China catalyst: Powering global growth by reaching the fastest growth consumer market in the world**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200143136){:target="_blank"}
+[**Chinese consumers and the fashion market**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203188809){:target="_blank"}
 
-Gain a better understanding of China’s booming consumer market and how your business can increase its consumer reach in China and attain success. In addition, this book includes a market analysis to identify emerging segments and consumer demands.
+The fashion market faces both challenges and opportunities with the advent of digital retail technology, higher consumer purchasing power, and an increasing awareness of the industry’s environmental impact. This book investigates Chinese consumers’ perceptions of the fashion market and its different segments, touching on topics like what converts non-buyers into buyers of luxury goods, and how online shopping features make or break purchasing decisions.
 
-All rights reserved, Hoboken: Wiley, 2013.
+All rights reserved, Singapore: Springer, 2018
 
-<img src="/images/book-covers/The-10-trillion-prize-Captivating-the-newly-affluent-in-China-and-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/E-commerce-changing-the-lives-of-farmers.jpg" style="width:150px;" />
 
-[**The $10 trillion prize: Captivating the newly affluent in China and India**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200149219){:target="_blank"}
+[**E-commerce changing the lives of farmers: Taobao villages of China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202719111){:target="_blank"}
 
-Take a closer look at the growing group of middle-class consumers in China and India who are driving world consumption today. Find out who they are, what they want, and how your business can reach out and sell to them.
+E-commerce website Taobao accounts for roughly 80 percent of online retail sales in China. Besides transforming the consumer shopping experience, it has brought wealth to many once-underdeveloped Chinese farming villages. Learn more about China’s largest and most competitive online marketplace, and how it is rapidly transforming consumer-to-consumer (C2C) businesses. 
 
-All rights reserved, Boston: Harvard Business Review Press, 2012.
+All rights reserved, Quebec: Royal Collins Publishing Group Inc, 2019
+
+<img src="/images/book-covers/Chinas-evolving-consumers.jpg" style="width:150px;" />
+
+[**China’s evolving consumers: 8 intimate portraits**](https://nlb.overdrive.com/media/4045759){:target="_blank"}
+
+Filled with insights from experienced marketers and academics, the essays in this ebook focus on contemporary Chinese consumer culture. They also examine the rising influence of domestic brands, and suggest competitive branding and marketing strategies for global businesses to win the hearts of Chinese consumers. 
+
+Retrieved from NLB OverDrive. (<i>mylibrary</i> ID is required to access this database)
+
+<img src="/images/resources/Database 1.jpg" style="width:150px;" />
+
+[**The perceived cosmopolitan consumption of globally mobile, young consumers from China**](https://eresources.nlb.gov.sg/Main/browse/resource/1111 ){:target="_blank"}
+
+This research paper examines the buying patterns of a unique type of young, affluent consumer: first-generation Chinese international students in the United States of America. Learn more about the emerging topic of “moving consumption” from this study, which finds that wealthy Chinese youth consume differently at home and abroad as a means of constructing cosmopolitan identities.
+
+Retrieved from Proquest Central. (<i>myLibrary</i> ID is required to access this database)
 
 <img src="/images/book-covers/Advertising and consumer culture in China.jpg" style="width:150px;" />
 
@@ -44,26 +60,40 @@ Explore the advertising and consumer culture in China and examine some of the tr
 
 All rights reserved, Cambridge: Polity Press, 2016.
 
-<img src="/images/book-covers/Public-relations-in-China-Building-and-defending-your-brand-in-the-PRC.jpg" style="width:150px;" />
-
-[**Public relations in China: Building and defending your brand in the PRC**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202634163){:target="_blank"}
-
-How can you build and maintain your business brand in China’s massive and highly competitive market? Find out how through this guide that analyses specific issues companies may face in public relations and provides actionable solutions to resolve such problems.
-
-All rights reserved, New York: Palgrave Macmillan, 2015.
-
 ---
 
 ### **You may also like**
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**3 great forces changing China’s consumer market**](https://www.weforum.org/agenda/2016/01/3-great-forces-changing-chinas-consumer-market/){:target="_blank"}
+[**How local companies are winning over China’s consumers**](https://www.weforum.org/agenda/2018/01/chinese-companies-winning-local-consumers/ ){:target="_blank"}
 
-This article presents an in-depth look at the consumer market in China and three key factors behind its transformation. It analyses data on China’s consumer economy and consumption growth to identify three forces that will shape its consumer market until 2020.
+Foreign companies used to dominate the Chinese consumer market, but that is quickly changing. Gain an understanding of why Chinese companies are steadily winning the lion’s share of the domestic market, and how foreign businesses can respond to the increased competition.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Who is winning more Chinese consumers in 2019?**](https://www.kantarworldpanel.com/global/News/Who-is-winning-more-Chinese-Consumers-in-2019 ){:target="_blank"}
+
+This article details the top 22 fast-moving consumer goods companies in China and how they successfully reached 100 million customers in 2019. Learn about consumers’ buying habits and pick up tips on where and how your business ought to expand in China.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VF-4_KF_LrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Young Chinese consumers are reshaping global luxury**
+
+Did you know that the majority of luxury goods buyers in China were born in the 80s and 90s? Gain insights into who these young consumers with strong purchasing powers are, and what informs their buying decisions from this video.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vujbYXr9i78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**China digital consumer trends in 2019**
+
+Omnichannel retail is now the way to go to win consumers both online and offline. Discover the top digital consumer trends in China, such as social commerce and key opinion leaders, to strategise your marketing approaches from this video today! 
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Still kicking**](https://www.economist.com/news/business-and-finance/21697597-free-spending-consumers-provide-comfort-troubled-economy-consumption-china-resilient){:target="_blank"}
+[**For Alibaba, Singles Day is about more than huge sales**](https://hbr.org/2019/12/for-alibaba-singles-day-is-about-more-than-huge-sales){:target="_blank"}
 
-Will a slowing economy in China impact its consumer spending? This article from *The Economist* demonstrates that despite signs of China’s economic slowdown, consumer spending, especially on expensive products such as cars and smartphones, is still on the rise and remains resilient.
+“Singles Day”, or 11 November (11/11), is globally the biggest 24-hour online shopping event, with origins that can be traced back to 2009 when Alibaba first introduced special discounts on that day. Learn how Chinese companies are keeping up with the overwhelming volume of Singles Day sales, and how foreign companies can ride this yearly event too. 
