@@ -14,23 +14,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/share/what-employers-say/building-business-thailand/" class="project-link">
-				<img src="\images\asean-employers\building-business.jpg" alt="building business" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Building businesses in Thailand - An insider’s view</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-employers-say/things-you-must-know/" class="project-link">
 				<img src="\images\asean-employers\things-you-must-know.jpg" alt="9 things you must know" class="project-image">
 			<div class="project-card">
