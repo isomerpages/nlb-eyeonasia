@@ -37,6 +37,12 @@ The Singapore Business Federation organises talks, briefings, seminars and confe
 
 [Find out more](https://www.sbf.org.sg/){:target="_blank"}
 
+### **Singapore Global Network**
+
+The Singapore Global Network is a division in the Economic Development Board that focuses on building personal relationships with individuals all over the globe. Whether you’re considering Singapore as your next place to work and live in, a Singaporean living overseas and thinking about returning, or just someone who’s curious about the kind of opportunities available in Singapore, SGN will connect you with the right people or resources to get started.
+
+[Find out more](https://singaporeglobalnetwork.gov.sg/join-us/){:target="_blank"}
+
 ### **Singapore Indian Chamber of Commerce and Industry**
 
 The Singapore Indian Chamber of Commerce and Industry acts as a connector, enabler and advocator for Indian companies in Singapore to expand their businesses locally and internationally. It provides training courses, programmes and activities to help members attain the know-how and expertise on business developments and policy frameworks in both Singapore and India.

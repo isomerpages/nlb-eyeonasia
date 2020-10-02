@@ -52,6 +52,12 @@ The Singapore Chinese Chamber of Commerce and Industry organises business missio
 
 [Find out more](https://www.sccci.org.sg/){:target="_blank"}
 
+### **Singapore Global Network**
+
+The Singapore Global Network is a division in the Economic Development Board that focuses on building personal relationships with individuals all over the globe. Whether you’re considering Singapore as your next place to work and live in, a Singaporean living overseas and thinking about returning, or just someone who’s curious about the kind of opportunities available in Singapore, SGN will connect you with the right people or resources to get started.
+
+[Find out more](https://singaporeglobalnetwork.gov.sg/join-us/){:target="_blank"}
+
 ### **Singapore Manufacturing Federation**
 
 The Singapore Manufacturing Federation organises trade fairs, overseas business missions and training for its members to develop cross border relations and provide a gateway for its members to overseas business ventures.
