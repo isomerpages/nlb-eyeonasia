@@ -22,8 +22,8 @@ collection_name: china-share-employers
 
 **About Singapore Global Network** 
 
-The Singapore Global Network (SGN) is a division in the Economic Development Board that focuses on building personal relationships with individuals all over the globe. Whether you’re considering Singapore as your next place to work and live in, a Singaporean living overseas and thinking about returning, or just someone who’s curious about the kind of opportunities available in Singapore, SGN will connect you with the right people or resources to get started.
+At Singapore Global Network, we are passionate about building connections and creating opportunities. As a community, we aim to grow Singapore’s overseas networks by building meaningful and lasting relationships with family and friends across the globe. Whether you’re considering a move to Singapore, a Singaporean living abroad, or just curious about opportunities here, we want to help connect you with the right people or resources to get you started.
 
-To connect with the Singapore Global Network, please refer to <https://singaporeglobalnetwork.gov.sg/join-us/> or email your enquiry to [hello@singaporeglobalnetwork.sg](mailto:hello@singaporeglobalnetwork.sg) 
+To connect with the [Singapore Global Network](http://www.singaporeglobalnetwork.gov.sg/){:target="_blank"}, sign up [here](http://www.singaporeglobalnetwork.gov.sg/){:target="_blank"} or drop us an email at <hello@singaporeglobalnetwork.sg>{:target="_blank"}
 
 Credit: Singapore Global Network

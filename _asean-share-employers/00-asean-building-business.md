@@ -25,6 +25,6 @@ collection_name: asean-share-employers
 
 At Singapore Global Network, we are passionate about building connections and creating opportunities. As a community, we aim to grow Singapore’s overseas networks by building meaningful and lasting relationships with family and friends across the globe. Whether you’re considering a move to Singapore, a Singaporean living abroad, or just curious about opportunities here, we want to help connect you with the right people or resources to get you started.
 
-To connect with the [Singapore Global Network](http://www.singaporeglobalnetwork.gov.sg/), sign up [here](http://www.singaporeglobalnetwork.gov.sg/) or drop us an email at <hello@singaporeglobalnetwork.sg>
+To connect with the [Singapore Global Network](http://www.singaporeglobalnetwork.gov.sg/){:target="_blank"}, sign up [here](http://www.singaporeglobalnetwork.gov.sg/){:target="_blank"} or drop us an email at <hello@singaporeglobalnetwork.sg>{:target="_blank"}
 
 Credit: Singapore Global Network
