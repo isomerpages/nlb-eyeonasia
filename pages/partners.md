@@ -39,7 +39,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-2.jpg" alt="Nanyang Business School"></a>
 		</div>
 	</div>
-	
+
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo-2.png" alt="Singapore Polytechnic"></a>
@@ -88,6 +88,6 @@ We thank our partners for contributing to the initiative by allowing us access t
 	<!--div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="max-height:80%;max-width:80%;"></a>
-		</div-->
-	</div>
+		</div>
+	</div-->
 </div>
