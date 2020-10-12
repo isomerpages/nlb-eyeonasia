@@ -35,7 +35,7 @@ Join Managing Director of Ulearning Technology (International) Joseph Chong, as 
 
 Free admission. Please register via http://bit.ly/2vunTc0
 
-Curated by librarians from the National Library, Eye on Asia offers resources on ASEAN countries, China and India for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities in the region and beyond. For more information, please visit [www.eyeonasia.sg](http://www.eyeonasia.sg/)
+Curated by librarians from the National Library, Eye on Asia offers resources on ASEAN countries, China and India for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities in the region and beyond. For more information, please visit [www.eyeonasia.gov.sg](http://www.eyeonasia.gov.sg/)
 
 ##### **About the Speaker**
 

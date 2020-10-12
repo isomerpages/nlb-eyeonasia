@@ -69,6 +69,12 @@ To foster bilingual and bicultural talents, this scholarship will be awarded ann
 
 [Find out more](https://sfcca.sg/en/sfccascholarship/){:target="_blank"}
 
+<!--### **Singapore Global Network**
+
+At Singapore Global Network, we are passionate about building connections and creating opportunities. As a community, we aim to grow Singapore’s overseas networks by building meaningful and lasting relationships with family and friends across the globe. Whether you’re considering a move to Singapore, a Singaporean living abroad, or just curious about opportunities here, we want to help connect you with the right people or resources to get you started.
+
+[Find out more](http://www.singaporeglobalnetwork.gov.sg/){:target="_blank"}-->
+
 ### **Singapore Manufacturing Federation**
 
 The Singapore Manufacturing Federation organises trade fairs, overseas business missions and training for its members to develop cross border relations and provide a gateway for its members to overseas business ventures.

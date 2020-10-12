@@ -19,7 +19,7 @@ Join Marcus Pang from MARCUS Associate as he highlights the current trends and n
 
 Free Admission. Register now via [this link](https://www.nlb.gov.sg/golibrary2/e/eye-on-asia-programme-series-digital-transformation-in-chinas-automotive-industry-97443628).
 
-Eye on Asia offers resources on ASEAN countries, China and India for young Singaporeans who want to explore opportunities in the region and beyond. For more information, please visit [www.eyeonasia.sg](http://www.eyeonasia.sg/).
+Eye on Asia offers resources on ASEAN countries, China and India for young Singaporeans who want to explore opportunities in the region and beyond. For more information, please visit [www.eyeonasia.gov.sg](https://www.eyeonasia.gov.sg/).
 
 ##### **About the Speaker**
 

@@ -9,7 +9,34 @@ second_nav_title: "Share"
 
 ![banner-china-share-what-young-people-say](\images\china-youngpeople\What-young-people-say-new.jpg)
 
-Read firsthand experiences and stories from young enterprising Singaporeans who have visited ASEAN countries for study trips and see ASEAN from their perspectives.
+Read firsthand experiences and stories from young enterprising Singaporeans who have visited China for study trips and see China from their perspectives.
+
+<!--div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-young-people-say/things-you-must-know/" class="project-link">
+				<img src="\images\asean-employers\things-you-must-know.jpg" alt="9 things you must know" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>9 things you must know when doing business in China</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-young-people-say/navigating-china/" class="project-link">
+				<img src="\images\asean-employers\navigating-china.png" alt="navigating china" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Navigating China as a Singaporean</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p-->
 
 <div>
 	<div class="row is-multiline">

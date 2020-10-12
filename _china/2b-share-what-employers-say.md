@@ -9,10 +9,7 @@ second_nav_title: "Share"
 
 ![banner-china-share-what-employers-say](\images\china-employers\What-employers-say-new.jpg)
 
-Outstanding Singapore businessmen, entrepreneurs, professionals and organisations have entered the ASEAN markets over the decades. Learn more about their ventures and what it takes to make that first step.
-
-
-
+Outstanding Singapore businessmen, entrepreneurs, professionals and organisations have entered the China market over the decades. Learn more about their ventures and what it takes to make that first step.
 
 <div>
 	<div class="row is-multiline">
