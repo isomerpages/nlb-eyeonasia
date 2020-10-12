@@ -11,7 +11,7 @@ second_nav_title: "Share"
 
 Read firsthand experiences and stories from young enterprising Singaporeans who have visited China for study trips and see China from their perspectives.
 
-<div>
+<!--div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-young-people-say/things-you-must-know/" class="project-link">
@@ -36,7 +36,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 	</div>
 </div>
 
-<p><p>
+<p><p-->
 
 <div>
 	<div class="row is-multiline">

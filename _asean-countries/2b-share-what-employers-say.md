@@ -11,7 +11,7 @@ second_nav_title: "Share"
 
 Outstanding Singapore businessmen, entrepreneurs, professionals and organisations have entered the ASEAN markets over the decades. Learn more about their ventures and what it takes to make that first step.
 
-<div>
+<!--div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-employers-say/building-business-thailand/" class="project-link">
@@ -24,7 +24,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</a>
 		</div>
 	</div>
-</div>
+</div-->
 
 <p><p>
 
