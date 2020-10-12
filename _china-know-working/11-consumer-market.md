@@ -30,7 +30,7 @@ All rights reserved, Singapore: Springer, 2018
 
 <img src="/images/book-covers/E-commerce-changing-the-lives-of-farmers.jpg" style="width:150px;" />
 
-[**E-commerce changing the lives of farmers: Taobao villages of China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202719111){:target="_blank"}
+[**E-commerce changing the lives of farmers: Taobao villages of China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204414635){:target="_blank"}
 
 E-commerce website Taobao accounts for roughly 80 percent of online retail sales in China. Besides transforming the consumer shopping experience, it has brought wealth to many once-underdeveloped Chinese farming villages. Learn more about China’s largest and most competitive online marketplace, and how it is rapidly transforming consumer-to-consumer (C2C) businesses. 
 
