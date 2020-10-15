@@ -68,43 +68,6 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/share/what-young-people-say/vietnam-learning-across-borders/" class="project-link">
-				<img src="/images/asean-youngpeople/Learning-across-borders-small.jpg" alt="Vietnam: Learning across borders" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Vietnam: Learning across borders</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/share/what-young-people-say/thailand-internship-chiang-mai-university/" class="project-link">
-				<img src="/images/asean-youngpeople/Internship-Chiang-Mai-small.jpg" alt="Thailand: Internship at College of Arts, Media and..." class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Thailand: Internship at College of Arts, Media and...</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/share/what-young-people-say/malaysia-learning-about-banking-at-ocbc-berhad/" class="project-link">
-				<img src="/images/asean-youngpeople/Malaysia-OCBC-small.jpg" alt="Malaysia: Learning more about banking at OCBC..." class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Malaysia: Learning more about banking at OCBC...</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/indonesia-insights-into-coal-mining-port-shipping-industries/" class="project-link">
 				<img src="/images/asean-youngpeople/Indonesia-insights-coal-port-shipping-small.jpg" alt="Indonesia: Insights into the coal mining, port and..." class="project-image">
 			<div class="project-card">
@@ -114,13 +77,6 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/myanmar-insights-trading-value-chain/" class="project-link">
 				<img src="/images/asean-youngpeople/Myanmar-insights-value-chain-small.jpg" alt="Myanmar: Insights into trading value chain" class="project-image">
@@ -131,6 +87,13 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-port-industry/" class="project-link">
 				<img src="/images/asean-youngpeople/Vietnam-insights-port-industry-small.jpg" alt="Vietnam: Insights into the port industry" class="project-image">
@@ -141,13 +104,6 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-vegetable-industry/" class="project-link">
 				<img src="/images/asean-youngpeople/Vietnam-vegetable-seeds-small.jpg" alt="Vietnam: Insights into the vegetable seeds industry" class="project-image">
@@ -158,6 +114,13 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-soybean-industry/" class="project-link">
 				<img src="/images/asean-youngpeople/Vietnam-soybeans-industry-small.jpg" alt="Myanmar: Insights into the soybean industry" class="project-image">
@@ -168,13 +131,6 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</div>
 			</a>
 		</div>
-	</div>
-</div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-bitumen-industry/" class="project-link">
 				<img src="/images/asean-youngpeople/Vietnam-bitumen-industry-small.jpg" alt="Vietnam: Insights into the bitumen industry" class="project-image">
@@ -185,12 +141,29 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-coal-industry/" class="project-link">
 				<img src="/images/asean-youngpeople/Vietnam-coal-industry-small.jpg" alt="Vietnam: Insights into the coal industry" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Vietnam: Insights into the coal industry</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-coffee-industry/" class="project-link">
+				<img src="/images/asean-youngpeople/Vietnam-coffee-industry-small.jpg" alt="Vietnam: Insights into the coffee industry" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Vietnam: Insights into the coffee industry</b></h5>
 				</div>
 			</div>
 			</a>
@@ -202,16 +175,6 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-coffee-industry/" class="project-link">
-				<img src="/images/asean-youngpeople/Vietnam-coffee-industry-small.jpg" alt="Vietnam: Insights into the coffee industry" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Vietnam: Insights into the coffee industry</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-steel-industry/" class="project-link">
 				<img src="/images/asean-youngpeople/Vietnam-steel-industry-small.jpg" alt="Vietnam: Insights into the steel industry" class="project-image">
