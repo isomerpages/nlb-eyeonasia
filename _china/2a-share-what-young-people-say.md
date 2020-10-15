@@ -95,21 +95,21 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/share/what-young-people-say/reflections-young-singaporean/" class="project-link">
-				<img src="/images/china-youngpeople/reflection-young-singaporean-small.jpg" alt="Reflections by a young Singaporean in China" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Reflections by a young Singaporean in China</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-young-people-say/xian-business-culture/" class="project-link">
 				<img src="/images/china-youngpeople/xian-business-culture-small.jpg" alt="Learning from Xi'an business culture through immersion" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Learning about Xi’an business culture through immersion</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-young-people-say/shanghai-futures-exchange/" class="project-link">
+				<img src="/images/china-youngpeople/futures-exchange-small.jpg" alt="Study mission to Shanghai Futures Exchange" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Study mission to Shanghai Futures Exchange</b></h5>
 				</div>
 			</div>
 			</a>
@@ -181,16 +181,6 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Visit to BTG Pactual - Departments work together like cogs in a watch</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/share/what-young-people-say/shanghai-futures-exchange/" class="project-link">
-				<img src="/images/china-youngpeople/futures-exchange-small.jpg" alt="Study mission to Shanghai Futures Exchange" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Study mission to Shanghai Futures Exchange</b></h5>
 				</div>
 			</div>
 			</a>
