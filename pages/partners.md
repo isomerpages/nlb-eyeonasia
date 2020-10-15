@@ -63,7 +63,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://www.sp.edu.sg/"><img src="/images/partners/sp-logo-new.png" alt="Singapore Polytechnic"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="http://www.suss.edu.sg/Pages/index.aspx"><img src="/images/partners/suss-logo-new.png" alt="Singapore University of Social Sciences" style="max-height:80%;max-width:80%;"></a>
+			<a href="http://www.suss.edu.sg"><img src="/images/partners/suss-logo-new.png" alt="Singapore University of Social Sciences" style="max-height:80%;max-width:80%;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.tp.edu.sg/"><img src="/images/partners/tp-logo-new.png" alt="Temasek Polytechnic"></a>
