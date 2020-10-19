@@ -10,27 +10,72 @@ collection_name: china-know-living
 
 This is a selection of resources on China’s rising cashless society available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
 
-### **Discover more**
+### **NLB print and digital resources**
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/book-covers/China’s fintech explosion.jpg" style="width:150px;" />
 
-[**The rise of China’s cashless society: Mobile payment trends in 2017**](http://technode.com/2017/08/15/the-rise-of-chinas-cashless-society-mobile-payment-trends-in-2017/){:target="_blank"}
+[**China’s fintech explosion: Disruption, innovation, and survival**](https://nlb.overdrive.com/media/5103390){:target="_blank"}
 
-Results from a 2017 online survey of over 6,500 respondents in China revealed that going cashless is a trend that is increasingly being embraced by young people, especially women, in the country.  The use of mobile payments has become widespread in the food and beverage, retail, entertainment and travel sectors.
+In rapidly developing China, fintech is taking off amid a backdrop of growing consumption and a large, tech-savvy millennial generation. China's Fintech Explosion explores the transformative potential of China's financial-technology industry, covering subsectors such as digital payment systems, peer-to-peer lending and crowdfunding, credit card issuance and internet banks, blockchain finance and virtual currencies, and online insurance.
+
+Retrieved from OverDrive. (*myLibrary ID* login is required to access this ebook)
+
+<img src="/images/book-covers/Super-sticky WeChat and Chinese society.jpg" style="width:150px;" />
+
+[**Super-sticky WeChat and Chinese society**](https://nlb.overdrive.com/media/4196857){:target="_blank"}
+
+This ebook provides a balanced and nuanced study of how the WeChat platform interweaves into the fabric of Chinese social and cultural life. It keeps the wider global and national social media landscape in view and compares and contrasts WeChat with Weibo, QQ and other Western social media platforms, including some of their mobile payment systems and their usage trends in China. 
+
+
+---
+
+### **You may also like**
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Paying with your face: Face-detecting systems in China now authorize payments, provide access to facilities, and track down criminals. Will other countries follow?**](https://www.technologyreview.com/s/603494/10-breakthrough-technologies-2017-paying-with-your-face/){:target="_blank"}
+[**China takes steps to become first cashless society after Covid-19**](https://thenational.ae/business/banking/china-takes-steps-to-become-first-cashless-society-after-covid-19-1.1011042){:target="_blank"}
 
-Facial recognition technology is quickly gaining traction in China and is poised to transform how people interact with banks, stores and transportation services. Alipay, a mobile payment app, enables people to pay by using facial verification, while Didi, a ride-hailing company, allows passengers to use facial recognition software to verify the legitimacy of their drivers.
+In the aftermath of the Covid-19 pandemic, China has launched its digital currency, the digital Yuan or RMB, in its bid to become a cashless society using contactless payments, and is poised to become the first country in the world to do so.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**China takes steps to become first cashless society after Covid-19**](https://thenational.ae/business/banking/china-takes-steps-to-become-first-cashless-society-after-covid-19-1.1011042){:target="_blank"}
+
+China is a pioneer in cashless transactions, propelled by Alibaba’s Alipay and Tencent’s WeChat Pay. According to the article's forecast, around 60 percent of China's 1.3 billion population will have made a purchase via mobile payment by 2023. As the trend continues, China may soon become a cashless economy, where digital payment methods totally replace cash.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
 [**The real fight for Chinese mobile payments isn’t taking place in China**](https://qz.com/1039565/the-paypal-baidu-partnership-shows-the-real-fight-for-chinese-mobile-payments-isnt-happening-in-china/){:target="_blank"}
 
-Before the end of 2017, Chinese shoppers will be able to use Baidu’s digital app to make payments at PayPal’s 17 million merchants worldwide, in a tie-up between the American payment company and the Chinese tech giant.
+Beijing announced its aim to make mobile payments within easy reach of its rural regions by the end of 2020. Guidelines (in Chinese) to make online financial services more accessible to rural residents have been jointly published by five Chinese regulating bodies including the Central Bank and the Ministry of Finance.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h510XkeLJdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**This is China: The cashless era is coming**
+
+In 2018, a record 277.4 trillion RMB had transacted via mobile payments and as of June 2019, there were 633 million online payment users in China. The leap from cash to mobile payments was accelerated by advanced technologies and a high mobile penetration rate in the country.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Cashless China: Would you use your face to pay?**](http://en.people.cn/n3/2019/0819/c90000-9607269.html){:target="_blank"}
+
+Facial recognition payments system is the next big thing in China’s cashless payment trend, and using it is very convenient and easy for those who have already tried the system.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Digitizing the Chinese New Year**](https://thediplomat.com/2019/02/digitizing-the-chinese-new-year/){:target="_blank"}
+
+In 2014, a digital hongbao feature was introduced by Tencent, a Chinese multinational conglomerate, as an alternative to the traditional gifting of red packets filled with money by elders to young people during Chinese New Year. From 2014 to 2018, over 769 million people had used this application to send virtual red packets to families and friends during Chinese New Year.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**The real fight for Chinese mobile payments isn’t taking place in China**](https://qz.com/1039565/the-paypal-baidu-partnership-shows-the-real-fight-for-chinese-mobile-payments-isnt-happening-in-china/){:target="_blank"}
+
+Before the end of 2017, Chinese shoppers will be able to use Baidu’s digital app to make payments at PayPal’s 17 million merchants worldwide, in a tie-up between the American payment company and the Chinese tech giant.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
 [**China sets up clearing house for online payment services like AliPay and Tenpay**](http://www.scmp.com/business/companies/article/2105825/china-sets-clearing-house-online-payment-services-alipay-and){:target="_blank"}
 
