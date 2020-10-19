@@ -39,7 +39,7 @@ In the aftermath of the Covid-19 pandemic, China has launched its digital curren
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**China takes steps to become first cashless society after Covid-19**](https://thenational.ae/business/banking/china-takes-steps-to-become-first-cashless-society-after-covid-19-1.1011042){:target="_blank"}
+[**China is moving toward a cashless society**](https://www.emarketer.com/content/china-is-moving-toward-a-cashless-society){:target="_blank"}
 
 China is a pioneer in cashless transactions, propelled by Alibaba’s Alipay and Tencent’s WeChat Pay. According to the article's forecast, around 60 percent of China's 1.3 billion population will have made a purchase via mobile payment by 2023. As the trend continues, China may soon become a cashless economy, where digital payment methods totally replace cash.
 
@@ -49,6 +49,12 @@ China is a pioneer in cashless transactions, propelled by Alibaba’s Alipay and
 
 Beijing announced its aim to make mobile payments within easy reach of its rural regions by the end of 2020. Guidelines (in Chinese) to make online financial services more accessible to rural residents have been jointly published by five Chinese regulating bodies including the Central Bank and the Ministry of Finance.
 
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Cashless China: Would you use your face to pay?**](http://en.people.cn/n3/2019/0819/c90000-9607269.html){:target="_blank"}
+
+Facial recognition payments system is the next big thing in China’s cashless payment trend, and using it is very convenient and easy for those who have already tried the system.
+
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h510XkeLJdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -57,25 +63,47 @@ Beijing announced its aim to make mobile payments within easy reach of its rural
 
 In 2018, a record 277.4 trillion RMB had transacted via mobile payments and as of June 2019, there were 633 million online payment users in China. The leap from cash to mobile payments was accelerated by advanced technologies and a high mobile penetration rate in the country.
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/75AXINUL47g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-[**Cashless China: Would you use your face to pay?**](http://en.people.cn/n3/2019/0819/c90000-9607269.html){:target="_blank"}
+**China’s great leap to wallet-free living**
 
-Facial recognition payments system is the next big thing in China’s cashless payment trend, and using it is very convenient and easy for those who have already tried the system.
+In China, cash is rapidly becoming a thing of the past. In this video, see how Alipay and WeChat Pay have become the mainstream mode of payment transactions in the Chinese city of Shenzhen, where people generally do not use cash for their daily activities at all.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rs2CuBC0vWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**China blazes trail in facial recognition payment systems**
+
+No money? No cards? No phone? No problem! Just smile to pay for your purchases at this self-service supermarket at Tianjin, China. Facial recognition payment systems have been rolled out in over 100 Chinese cities by tech-giant Alibaba and are both convenient and safe. The system is designed to read nodal points in human faces which act as one's facial signature.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**China: A digital payments revolution**](https://www.cgap.org/research/publication/china-digital-payments-revolution){:target="_blank"}
+
+Alibaba and Tencent have been the main drivers for digital payments via mobile apps in China, particularly with their successful tie-up with retail platforms. In 2017, 890 million unique mobile payment users made around $17 trillion transactions and over a third of consumer payments in China are now cashless.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Payment methods in China: How China became a mobile-first nation**](https://daxueconsulting.com/payment-methods-in-china/){:target="_blank"}
+
+In 2018, around 83 percent of all payments in China were done via mobile phones, and the recent pandemic appears to have boosted online and mobile payment transactions in May 2020. The article also includes tips on how a foreigner can use mobile payment methods to boost their businesses in China.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
 [**Digitizing the Chinese New Year**](https://thediplomat.com/2019/02/digitizing-the-chinese-new-year/){:target="_blank"}
 
 In 2014, a digital hongbao feature was introduced by Tencent, a Chinese multinational conglomerate, as an alternative to the traditional gifting of red packets filled with money by elders to young people during Chinese New Year. From 2014 to 2018, over 769 million people had used this application to send virtual red packets to families and friends during Chinese New Year.
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
 [**The real fight for Chinese mobile payments isn’t taking place in China**](https://qz.com/1039565/the-paypal-baidu-partnership-shows-the-real-fight-for-chinese-mobile-payments-isnt-happening-in-china/){:target="_blank"}
 
 Before the end of 2017, Chinese shoppers will be able to use Baidu’s digital app to make payments at PayPal’s 17 million merchants worldwide, in a tie-up between the American payment company and the Chinese tech giant.
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**China sets up clearing house for online payment services like AliPay and Tenpay**](http://www.scmp.com/business/companies/article/2105825/china-sets-clearing-house-online-payment-services-alipay-and){:target="_blank"}
 
