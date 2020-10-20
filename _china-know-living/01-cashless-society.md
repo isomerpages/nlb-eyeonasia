@@ -118,4 +118,6 @@ This video introduces the Hema Supermarket in Shanghai, Alibaba’s “new retai
 
 Source: Alibaba Group
 
+
+
 *Last updated on Oct 2020*

@@ -54,7 +54,7 @@ Retrieved from OverDrive. (*myLibrary* ID login is required to access this ebook
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Renminbi rising: A new global monetary system emerges**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Renminbi rising: A new global monetary system emerges**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
 This book examines the origins of the domestic financial reform driving the renminbi (RMB) internationlisation and analyses the current and future impacts of the RMB rise on existing financial services and products, the global financial ecosystem and the international business arena.
 
