@@ -26,7 +26,6 @@ Retrieved from OverDrive. (*myLibrary ID* login is required to access this ebook
 
 This ebook provides a balanced and nuanced study of how the WeChat platform interweaves into the fabric of Chinese social and cultural life. It keeps the wider global and national social media landscape in view and compares and contrasts WeChat with Weibo, QQ and other Western social media platforms, including some of their mobile payment systems and their usage trends in China. 
 
-
 ---
 
 ### **You may also like**
@@ -118,3 +117,5 @@ China has set up a national clearing house for banks and online payment systems 
 This video introduces the Hema Supermarket in Shanghai, Alibaba’s “new retail” concept that merges online and in-store shopping to provide a seamless and more efficient shopping experience for consumers. Shoppers only need to download a mobile app and use their mobile phones to do the shopping by scanning barcodes to get instant product information.
 
 Source: Alibaba Group
+
+*Last updated on Oct 2020*
