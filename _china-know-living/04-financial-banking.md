@@ -111,3 +111,7 @@ This report tracks the developments in China's banking sector in 2019 from the p
 [**The rise of fintech in China: Redefining financial services**](http://www.ey.com/Publication/vwLUAssets/ey-the-rise-of-fintech-in-china/$FILE/ey-the-rise-of-fintech-in-china.pdf){:target="_blank"}
 
 This 48-page report discusses the emergence of China as the leader in the global financial technology (FinTech) market. Opportunities abound, both domestically and internationally, for Chinese FinTech firms to leverage big data, social media and other Internet-based services to transform customer experience and introduce innovative product offerings.
+
+
+
+*Last updated on Oct 2020*

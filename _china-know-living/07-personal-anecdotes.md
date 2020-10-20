@@ -12,34 +12,50 @@ This is a selection of resources on stories of foreigners who have experienced l
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Lost-on-Planet-China.jpg" style="width:150px;" />
+<img src="/images/book-covers/China tripping.jpg" style="width:150px;" />
 
-[**A panoramic view of Chinese culture**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=0C22F790-8628-4118-A350-E1CA55063591){:target="_blank"}
+[**China tripping: Encountering the everyday in the People's Republic**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204036029){:target="_blank"}
 
-Written for English speakers with simplified Chinese translations of key words – discover the beautiful, vibrant world of Chinese customs through a vast array of topics from its history, philosophy, and religion, to sports, cuisine, and medicine.
+This book is a compilation of cultural and social experiences of an influential group of experts during their travels to and stay in mainland China. The fascinating anecdotes contained in this book illustrate the rapidly evolving China vividly to the readers.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+All rights reserved, Lanham: Rowman & Littlefield, 2019
 
-<img src="/images/book-covers/The-Foremost-Good-Fortune.jpg" style="width:150px;" />
+<img src="/images/book-covers/Leftover in China.jpg" style="width:150px;" />
 
-[**The Foremost Good Fortune**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=B1D3F1B5-3F72-49B7-8FA3-0C2D913369BB){:target="_blank"}
+[**Leftover in China: The women shaping the world's next superpower**](https://nlb.overdrive.com/media/3349131){:target="_blank"}
 
-Susan Conley, her husband, and their two young sons say good-bye to their friends, family, and house in Maine for a two-year stint in Beijing. While they are prepared to embrace the new experiences that such a move entails, Susan can’t predict just how much their lives will change. Read her story set against the fascinating backdrop of modern China as she shares insights into the trickiest questions of parenthood – How do you talk to children about death? – When is it okay to lie? This wry and poignant memoir is a celebration of family and a candid exploration of mortality and belonging.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/Apologies-to-My-Censor.jpg" style="width:150px;" />
-
-[**Apologies to My Censor: The high and low adventures of a foreigner in China**](https://singapore.libraryreserve.com/ContentDetails.htm?id=27AC279C-BB01-4F5F-A73A-5BA7ED324FBA){:target="_blank"}
-
-Mitch Moxley came to China in 2007 as a writer and editor for *China Daily* and stayed for six years. Enjoy his journey of self-exploration and get an honest look at expat life in China.
+Read about the lives of four women through their personal anecdotes in this fascinating narrative about China’s single women and how these “leftover women” who have chosen to postpone or eschew marriage totally could be indispensable to the future of their country.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/Yin-yang-American-perspectives-on-living-in-China.jpg" style="width:150px;" />
+---
 
-[**Yin-yang: American perspectives on living in China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14335110){:target="_blank"}
+### **You may also like**
 
-This is a collection of letters that provides an intimate look into the daily lives of ordinary people: students, parents, teachers and professionals as well as a better understanding of Chinese customs and cultures.
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-All rights reserved, Lanham: Rowman & Littlefield, 2012.
+[**My journey through the Chinese culture and language**](https://www.thedailychina.org/my-journey-through-the-chinese-culture-and-language/){:target="_blank"}
+
+Dylan Swickle, an American youth, relates his fruitful and fulfilling experience in studying and using the Chinese language, making Chinese friends and learning about the Chinese culture when he travelled to parts of China as an exchange student.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**The post-meal warzone**](https://www.thedailychina.org/the-post-meal-warzone/){:target="_blank"}
+
+Larry Ding muses on how people in mainland China tend to vie with one another for the privilege of paying the bill after meals with family or friends. He believes it could be due to or influenced by cultural notions such as dignity, karma and chivalry amongst the mainland Chinese.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**American performer Alison M.Friedman**](http://chinaplus.cri.cn/podcast/detail/1/224074){:target="_blank"}
+
+Alison Friedman, an American performer consulted by the Chinese Ministry of Culture for her expertise in contemporary perform arts, shares about her arts and cultural experiences whilst performing and travelling in China.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Patrick Flanary, journalist and expat in China**](http://chinaplus.cri.cn/podcast/detail/1/205485){:target="_blank"}
+
+Seasoned American journalist and expatriate, Patrick Flanary, shares some interesting anecdotes from his daily life and working experiences in mainland China after moving to Beijing.
+
+
+
+*Last updated on Oct 2020*
