@@ -132,3 +132,6 @@ In this article on cultural intelligence in the local context, the author posits
 
 While digital transformation can help companies expand their markets and internationalise, it also brings pressure in operating and managing the workforce in multicultural settings. This open access article discusses the importance of cultural intelligence for leadership success in the digital world today.
 
+
+
+*Last updated on Oct 2020*
