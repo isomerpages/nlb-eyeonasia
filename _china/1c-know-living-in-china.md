@@ -78,11 +78,11 @@ People, food, arts and play are some aspects that shape a country’s cultural l
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/know/living-in-china/no-wallet-any-problem/" class="project-link">
-				<img src="/images/china-living/no-wallet-small.jpg" alt="No wallet any problem" class="project-image">
+			<a href="/china/know/living-in-china/future-of-mobility/" class="project-link">
+				<img src="/images/china-living/future-of-mobility-small.jpg" alt="The future of mobility in China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>No wallet? Any problem?</b></h5>
+					<h5><b>The future of mobility in China</b></h5>
 				</div>
 			</div>
 			</a>
@@ -154,16 +154,6 @@ People, food, arts and play are some aspects that shape a country’s cultural l
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Chinese etiquette and customs</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/know/living-in-china/future-of-mobility/" class="project-link">
-				<img src="/images/china-living/future-of-mobility-small.jpg" alt="The future of mobility in China" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>The future of mobility in China</b></h5>
 				</div>
 			</div>
 			</a>
