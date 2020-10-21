@@ -82,13 +82,11 @@ Retrieved from EBSCO Academic Search. (*myLibrary* ID is required to access this
 
 This is a selection of resources available from the NLB Catalogue or the Internet and is not meant to be an exhaustive list.
 
-<!--img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/book-covers/Cultural intelligence in the world of work.jpg" style="width:150px;" />
 
-**Cultural intelligence in the world of work: Past, present, future**
+[**Cultural intelligence in the world of work: Past, present, future**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205243247){:target="_blank"}
 
 Cultural Intelligence in the World of Work provides a comprehensive review of the concept and study of cultural intelligence in the context of work. It examines topics such as development and measurement of cultural intelligence, cultural intelligence at the group and organisational levels, and future directions in the study of cultural intelligence.
-
-*(In process of purchase for the National Library)*-->
 
 <img src="/images/book-covers/Cultural intelligence.jpg" style="width:150px;" />
 
