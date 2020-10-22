@@ -44,7 +44,6 @@ China's housing system and real-estate industry are the focus of this book, whic
 
 All rights reserved, Singapore: Springer, 2020
 
-
 ---
 
 ### **You may also like**
@@ -82,3 +81,7 @@ Home ownership in China has grown substantially since the housing sector was pri
 [**China’s co-living boom puts hundreds of millennials under one roof**](https://qz.com/706409/chinas-co-living-boom-puts-hundreds-of-millenials-under-one-roof-heres-what-its-like-inside-one/){:target="_blank"}
 
 An alternative to conventional apartment living is You+, a co-living space much like a university hostel, but with the tenants being mostly entrepreneurs and their employees. Find out what such a living arrangement is like.
+
+
+
+*Last updated on Oct 2020*

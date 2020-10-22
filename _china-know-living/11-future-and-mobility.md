@@ -89,3 +89,7 @@ Video duration: 7min 59sec
 [**Why cycling matters for electric mobility: Towards diverse, active and sustainable e-Mobilities**](http://www.tandfonline.com/doi/pdf/10.1080/17450101.2017.1335463){:target="_blank"}
 
 The paper proposes the concept of e-velomobility, and explores practices, systems and technologies of electrically assisted cycling – in which velomobility’s pedal power combines with e-mobility’s battery/motor assistance to propel the rider. The concept draws on research and policies centred on e-mobility, velomobility and e-bikes. Also presented are studies in China on e-mobility, velomobility and e-bikes.
+
+
+
+*Last updated on Oct 2020*

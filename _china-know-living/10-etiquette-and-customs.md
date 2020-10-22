@@ -73,3 +73,7 @@ While the tradition of communal eating has long been practised in China as a way
 [**China: Cultural etiquette**](http://www.ediplomat.com/np/cultural_etiquette/ce_cn.htm){:target="_blank"}
 
 This website, started by a group of diplomats, provides insights on various topics about Chinese cultural etiquette. These include dining and entertainment, names and titles, meeting and greeting, etc.
+
+
+
+*Last updated on Oct 2020*

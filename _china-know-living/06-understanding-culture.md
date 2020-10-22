@@ -12,11 +12,35 @@ This is a selection of resources on various facets of the Chinese culture availa
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/A-panoramic-view-of-Chinese-culture.jpg" style="width:150px;" />
+<img src="/images/book-covers/Impact of culture on management of foreign SMEs in China.jpg" style="width:150px;" />
 
-[**A panoramic view of Chinese culture**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=0C22F790-8628-4118-A350-E1CA55063591){:target="_blank"}
+[**Impact of culture on management of foreign SMEs in China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203770339){:target="_blank"}
 
-Written for English speakers with simplified Chinese translations of key words – discover the beautiful, vibrant world of Chinese customs through a vast array of topics from its history, philosophy, and religion, to sports, cuisine, and medicine.
+Business culture and cultural differences can affect the management of foreign companies, especially SMEs, in mainland China. Included in this book is an examination of recent studies in the main economic regions of China, illustrating how company activities in China are impacted by the cultural roots and current environment in the country.
+
+All rights reserved, Cham: Springer International Publishing AG, 2018
+
+<img src="/images/book-covers/Ways of heaven.jpg" style="width:150px;" />
+
+[**Ways of heaven: An introduction to Chinese thought**](https://nlb.overdrive.com/media/4706857){:target="_blank"}
+
+This ebook offers an introduction to classical China's world of ideas. Drawing on examples from philosophical texts, literature, and everyday life over centuries of Chinese history, it looks at key concepts like the dao, qi, yin, and yang. It also examines how these ideas shape contemporary China, from table manners at a traditional banquet, to the Chinese obsession with education and family.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/Chinese religion and familism.jpg" style="width:150px;" />
+
+[**Chinese religion and familism: The basis of Chinese culture, society and government**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203974851){:target="_blank"}
+
+In this book, the author posits that familism, which emphasises the importance of the family unit, is the basis of culture, society government and religion in China. He then takes a closer look at the role played by religion from imperial China in the past to contemporary China today.
+
+All rights reserved, London: Bloomsbury Academic, 2020
+
+<img src="/images/book-covers/China smart.jpg" style="width:150px;" />
+
+[**China smart: What you don't know, what you need to know: A past & present guide to history, culture, society, language**](https://nlb.overdrive.com/media/4707998){:target="_blank"}
+
+Discover the world of ancient and contemporary China through the over 50 over essays contained in this book, covering Chinese history, culture, myths and contemporary society. The author has included bite-sized essays related to Chinese culture, including the history of porcelain and tea, language, dialects, folklore and music.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
@@ -36,39 +60,27 @@ Understand the psychology and concept of humour in Chinese societies. This inclu
 
 All rights reserved, London: Routledge, 2018.
 
-<img src="/images/book-covers/Chinese-Peking-opera.jpg" style="width:150px;" />
-
-[**Chinese Peking opera**](https://nlb.overdrive.com/media/2202776){:target="_blank"}
-
-Peking opera has more than 200 years of history and is not a native opera of Beijing. It is new type of opera formed between the Hui troupe actors and the Han melody actors who came to Beijing and had also absorbed the merits of several other operas popular in Beijing then.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/Etiquette-guide-to-China-Know-the-rules-that-make-the-difference.jpg" style="width:150px;" />
-
-[**Etiquette guide to China: Know the rules that make the difference**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=%7b2BE97B4C-F3D6-4D3C-991E-E19C94097F89%7d#){:target="_blank"}
-
-Familiarise yourself with social protocols relating to name cards, bowing or shaking hands, bathrooms and public baths in China. This ebook also provides the latest etiquette in mobile phone manners, texting, social media and other forms of digital communication.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/Decoding-China-a-handbook-for-traveling-studying-and-working-in-todays-China.jpg" style="width:150px;" />
-
-[**Decoding China: A handbook for travelling, studying, and working in today’s China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200127548){:target="_blank"}
-
-A practical guide on how to deal with everyday situations such as eating at a restaurant or shopping at an outdoor market that may present unique and unexpected challenges for foreign visitors to China.
-
-All rights reserved, Clarendon: Tuttle, 2013.
-
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Chinese culture**](https://culturalatlas.sbs.com.au/chinese-culture/chinese-culture-core-concepts#chinese-culture-core-concepts){:target="_blank"}
+
+This article provides a wide coverage of Chinese culture, covering different aspects, ranging from the core concepts of filial piety, guanxi and ‘face’ to greetings, family relations, social and business etiquette and significant dates in the Chinese calendar. Included is a list of references for more in-depth reading on the various topics.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Peking Opera: An icon of traditional Chinese culture**](https://archive.shine.cn/sunday/now-and-then/Peking-Opera-an-icon-of-traditional-Chinese-culture/shdaily.shtml){:target="_blank"}
+
+Learn about the origins of Chinese Peking opera and the characteristics of this iconic traditional opera which combines singing, reciting, acting and martial arts. Find out more about what the colours represent in the facial make-up, the characters featured and the music used as accompaniment.
+
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Chinese etiquette & protocol**](http://www.protocolprofessionals.com/articles_china_print.htm){:target="_blank"}
+[**China focus: Hanfu becomes a chic during traditional Chinese festivals**](http://www.xinhuanet.com/english/2020-01/25/c_138733213.htm){:target="_blank"}
 
-President of Culture Savvy Joyce Millet shares her knowledge on Chinese customs and etiquette. She adds that anyone can benefit from learning about Chinese culture and customs.
+Besides the qipao, which originated from the Qing dynasty a few centuries ago, the hanfu is the de facto traditional dress of the Chinese people which goes way back to the Han dynasty more than two thousand years ago. Hanfu has seen a growing interest as well as a revival in its popularity among the people in mainland China in recent years; and getting to know about the hanfu is an essential part of understanding the renaissance in traditional Chinese culture.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
@@ -76,12 +88,6 @@ President of Culture Savvy Joyce Millet shares her knowledge on Chinese customs 
 
 This London-based translation company provides facts and figures on China before offering an in-depth discussion of its social and business etiquette.
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XQ2C5C3E-xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
-**Understanding Chinese culture and etiquette**
 
-Produced by New Zealand Trade & Enterprise, this video creates awareness of Chinese protocols, rituals and superstition.
-
-Source: nzbusiness
+*Last updated on Oct 2020*

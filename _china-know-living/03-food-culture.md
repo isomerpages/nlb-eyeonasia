@@ -12,66 +12,93 @@ This is a selection of resources on China’s culture and cuisine available from
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Chinese-feasts-festivals-A-cookbook.jpg" style="width:150px;" />
+<img src="/images/book-covers/Chinese street food.jpg" style="width:150px;" />
 
-[**Chinese feasts & festivals: A cookbook**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=01C2838F-D462-4FBF-A1FC-85A1071E9246){:target="_blank"}
+[**Chinese street food: Small bites, classic recipes, and harrowing tales across the Middle Kingdom**](https://nlb.overdrive.com/media/3679840){:target="_blank"}
 
-Check out the rich culinary tradition of China through this beautifully illustrated cookbook featuring popular Chinese cuisine served at feasts and festivals, along with the significance of each dish and its recipe.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/The-ancient-art-of-tea-Wisdom-from-the-old-Chinese-tea-masters.jpg" style="width:150px;" />
-
-[**The ancient art of tea: Wisdom from the old Chinese tea masters**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=5F42AC80-EDDF-41CE-A614-774F0A680384){:target="_blank"}
-
-This book takes a delightful look at the philosophy, history, and culture of tea in China. The health benefits of tea are well known. Learn more about the technique and taste which exemplifies some of the basic concepts of the philosophy of tea and tea enjoyment.
+Filled with Chinese street food recipes, histories and food lore, and narrated in an entertaining manner, experience China’s incredible food culture through this ebook today.  Be fascinated by the beautiful culinary photos taken across China, from the spicy streets of Sichuan to the frozen tundra of Harbin.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/The-complete-Asian-cookbook-China.jpg" style="width:150px;" />
+All rights reserved, New York: Skyhorse Publishing, 2018
 
-[**The complete Asian cookbook: China**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=9C0B5972-012C-4732-BF4C-AC8FAA72EEBD){:target="_blank"}
+<img src="/images/book-covers/every grain of rice.jpg" style="width:150px;" />
 
-Since its release in 1976, Charmaine Solomon’s *The Complete Asian Cookbook* has become a culinary classic, introducing Asian cooking to more than a million readers worldwide and garnering a dedicated following around the globe. The recipes from China are now available in this single volume. Pore through the easy-to-follow recipes and learn to cook favourites such as fried noodles, barbecued pork buns, lemon chicken and Peking duck. The gorgeous food photos will surely whet your appetite for more.
+[**Every grain of rice: Simple Chinese home cooking**](https://nlb.overdrive.com/media/5066219){:target="_blank"}
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+Inspired by the healthy and vibrant home cooking of southern China which uses vegetable as the centrepiece, this is a comprehensive title featuring key seasoning varieties and Chinese cooking techniques, accompanied by easy-to-follow instructions and mouth-watering photos.
 
-<img src="/images/book-covers/Food-in-Chinese-culture.jpg" style="width:150px;" />
-
-[**Food in Chinese culture**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14608434){:target="_blank"}
-
-Find out how food plays a huge role in Chinese culture. Learn about iconic Chinese dishes as well as Chinese dining etiquette and culture.
-
-All rights reserved, New York: Commercial Press U.S., 2009.
-
-<img src="/images/book-covers/Musings-of-a-Chinese-gourmet.jpg" style="width:150px;" />
-
-[**Musings of a Chinese gourmet**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=A869D645-7259-4664-B8AA-151083227AF2){:target="_blank"}
-
-Written in the early 1950s by F. T. Cheng, a former Chinese ambassador to London, this book presents a cultured and entertaining view of the gastronomic aspect of Chinese life. It is a wonderful tribute to the richness and depth of Chinese culture from a man who was also well-versed with Western culture.
+All rights reserved, London: Bloomsbury Publishing, 2019
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/Dim-sum-A-pocket-guide.jpg" style="width:150px;" />
+<img src="/images/book-covers/the food of Sichuan.jpg" style="width:150px;" />
 
-[**Dim sum: A pocket guide**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=203E83E9-8F82-4B89-81D2-4000DE5E8249){:target="_blank"}
+[**The food of Sichuan**](https://nlb.overdrive.com/media/4608262){:target="_blank"}
 
-With its petite bite-sized portions usually served on small plates and endless array of dishes, dim sum has become increasingly popular over the years. This handy guide identifies the 50 most popular dim sum dishes, each accompanied with full-color photographs and short descriptions of the ingredients. The names of the dishes in English and Cantonese as well as the proper way of pronouncing them are also provided.
+Winner of several cookbook awards in 2019, this volume is an essential guide to the flavours and textures of Sichuanese cooking. Recipes on how to replicate classic Sichuan dishes at home are paired with stunning food and travel photography and served up with a culinary and cultural history of the region.
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/The-China-Study-cookbook-Over-120-whole-food-plant-based-recipes.jpg" style="width:150px;" />
-
-[**The China Study cookbook: Over 120 whole food, plant-based recipes**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=AD8E2B5C-C174-4902-838C-1B5C7B394ABF){:target="_blank"}
-
-With 850,000 copies sold, this publication has been hailed as one of the most important health and nutrition books ever published. It reveals that the traditional Western diet has resulted in a modern health crisis and the widespread growth of obesity, diabetes, heart disease and cancer. Based on the most comprehensive nutrition study ever conducted, the book also reveals that a plant-based diet leads to optimal health with the power to halt or reverse many diseases.
+All rights reserved, New York: W. W. Norton & Company, 2019
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-<img src="/images/book-covers/Mini-northern-Chinese-favorites.jpg" style="width:150px;" />
+<img src="/images/book-covers/drunk in China.jpg" style="width:150px;" />
 
-[**Mini northern Chinese favorites**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=A9BF686D-0E5F-4176-A339-2AB1DDC8DBE5){:target="_blank"}
+[**Drunk in China: Baijiu and the world’s oldest drinking culture**](https://nlb.overdrive.com/media/4980500){:target="_blank"}
 
-The evolution of northern Chinese cuisine has been heavily influenced by the relatively dry, cold climate and wind–swept steppes of northern China. It relies mainly on preserved foods and hearty fare to combat the harsh climate. Learn to make 40 easy and authentic Chinese favorites from this cookbook.
+China is one of the world's leading producers and consumers of liquor, with alcohol infusing all aspects of its culture, from religion and literature to business and warfare. Drunk in China examines the many ways in which alcohol has shaped Chinese society and its rituals and how recent economic and political developments have pushed Chinese alcohol beyond the nation's borders to the international stage.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/book-covers/Bitter and sweet.jpg" style="width:150px;" />
+
+[**Bitter and sweet: Food, meaning, and modernity in rural China**](https://nlb.overdrive.com/media/3261811){:target="_blank"}
+
+China is one of the world's leading producers and consumers of liquor, with alcohol infusing all aspects of its culture, from religion and literature to business and warfare. Drunk in China examines the many ways in which alcohol has shaped Chinese society and its rituals and how recent economic and political developments have pushed Chinese alcohol beyond the nation's borders to the international stage.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+<img src="/images/resources/Database 1.jpg" style="width:150px;" />
+
+[**Food culture in China: From social political perspectives**](https://eresources.nlb.gov.sg/Main/browse/resource/1111){:target="_blank"}
+
+The Chinese food culture is sophisticated and influenced by the social-political traditions in China. This journal article is an in-depth analysis of how Chinese food culture and eating behaviours have evolved out of the social and political necessities in the long history of China.
+
+Retrieved from Proquest Central. (<i>mylibrary</i>ID is required to access this database)
+
+---
+
+### **You may also like**
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Food trends in 2020: What will China be eating?**](https://radiichina.com/china-food-trends-2020){:target="_blank"}
+
+Read about the up-and-coming food trends in China from this article, including the dramatic growth in demand for food delivery services, foods made popular by Internet celebrities, and  the rise in the number of people adopting healthier diets and even turning vegan.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Will COVID-19 finally change China’s communal eating culture?**](https://www.globaltimes.cn/content/1181261.shtml){:target="_blank"}
+
+With the COVID-19 outbreak in China, people are encouraged to adopt more hygienic practices like individual food servings (“fencan”) and using serving chopsticks (“gongkuai”) to replace the tradition of communal eating in order to reduce infections and the spread of germs.
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Chinese food culture – Understand your behavior when eating in China**](https://yumofchina.com/chinese-food-culture/){:target="_blank"}
+
+From this article, learn about cultural eating habits in China, the background and features of Chinese cuisine, proper dining etiquette and manners, among other interesting cultural norms about Chinese dining.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**China perfected fake meat centuries before the Impossible Burger**](https://edition.cnn.com/travel/article/china-fake-meat-vegetarian-intl-hnk/){:target="_blank"}
+
+Fake meats made up of varying combinations of soybeans, peanuts, mushrooms, nuts and vegetables have been part of China's cuisine long before ‘Impossible Foods’ and ‘Beyond Meat’ became popular in the West for people seeking healthier alternatives to meat. China's tradition of fake meat products is linked to its long history of Buddhism. Read this article to find out more!
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Chopstick revolution: How COVID-19 might change China’s eating habits**](https://www.shine.cn/opinion/2005319260/ ){:target="_blank"}
+
+From this article, read about how people in China are thinking twice about the traditional practice of using chopsticks for communal food sharing for fear of spreading COVID-19. Governments are pushing for the use of serving chopsticks but this has met with resistance with locals for the fear of offending fellow diners.
+
+
+*Last updated on Oct 2020*

@@ -12,13 +12,37 @@ This is a selection of resources on understanding China’s healthcare system av
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Building-networks-of-primary-care-providers-in-China.png" style="width:150px;" />
+<img src="/images/book-covers/Re-engineering affordable care policy in China.jpg" style="width:150px;" />
 
-[**Building networks of primary care providers in China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14199478){:target="_blank"}
+[**Re-engineering affordable care policy in China: Is marketization a solution?**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203858645){:target="_blank"}
 
-This book examines reforms put in place by the Chinese government to improve the primary care providers network. These include offering new social health insurance plans to encourage citizens to visit primary care providers, and the integration of hospitals and primary care clinics.
+This book offers a comprehensive look into China’s medical care system spanning more than three decades to the present day, and discusses the constraints in Chinese policies for providing affordable healthcare for the masses due to economic reasons.
 
-All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2011.
+All rights reserved, London: Routledge, Taylor & Francis Group, 2019
+
+<img src="/images/book-covers/Healthcare quality and HIT.jpg" style="width:150px;" />
+
+[**Healthcare quality and HIT: International standards, China practices**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203982583){:target="_blank"}
+
+Read case studies from a variety of university-affiliated and specialist hospitals in China to find out how these hospitals have been adopting international healthcare standards and adapted them for China's conditions. This volume is edited by Jilan Liu, MD, MHA, who has over 30 years of experience in healthcare and an equivalent number of years in the management of a spectrum of healthcare delivery and financing systems.
+
+All rights reserved, New York: Productivity Press, 2019
+
+<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+
+[**Quality of care in large Chinese hospitals: An observational study**](https://eresources.nlb.gov.sg/Main/browse/resource/1111){:target="_blank"}
+
+This journal paper analyses the quality of hospital care in China for major medical conditions such as stroke and pneumonia over a five-year period from October 2012 to March 2018. During the same period, the Chinese government had increased investments in healthcare. Comparisons are also made against similar hospitals in the US to evaluate the performance of China's hospitals.
+
+Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database.)
+
+<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+
+[**10 years of health-care reform in China: Progress and gaps in Universal Health Coverage**](https://eresources.nlb.gov.sg/Main/browse/resource/1111){:target="_blank"}
+
+Over the last decade, the Chinese government has initiated a major health care reform involving the expansion of social health insurance for all, strengthening infrastructure, reforming the health-care delivery system and revamping its hospital-centric and treatment-based delivery system. Nonetheless, gaps can still be found in the quality of care, control of health expenditure and public satisfaction.
+
+Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database.)
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
@@ -44,25 +68,35 @@ The author discusses how China’s public health system has developed in tandem 
 
 All rights reserved, Abingdon: Routledge, 2017.
 
-<img src="/images/book-covers/Coping-with-regional-inequality-in-healthcare-in-China.png" style="width:150px;" />
-
-[**Coping with regional inequality in healthcare in China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13712512){:target="_blank"}
-
-This publication sheds light on the regional inequality in China’s healthcare system, which is a consequence of the disparate availability of health financing and health resources between the rural and urban areas. To address this, the central government has supplemented funding for basic health services and increased subsidies for health service providers in less affluent regions of China.
-
-All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2010.
-
-<img src="/images/book-covers/Health-reform-in-China.png" style="width:150px;" />
-
-[**Health reform in China: Three years after**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14681920){:target="_blank"}
-
-The author assesses the current state of health care in China after the government initiated a series of health reforms in 2009 that focused on social insurance, networks of primary care clinics, public health, and public hospitals. Three years on, China’s health system has seen vast improvements, notably in the increase in health expenditure as well as the expansion of social health insurance that covers 95 percent of its population.
-
-All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2012.
-
 ---
 
 ### **You may also like**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6kuU5hNbCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Why China can provide 1.4 billion people with healthcare coverage**
+
+The Chinese government prioritises public health in the country’s development strategy to tackle the challenges posed by medical insurance. Watch the video to find out how China provides its 1.4 billion people with healthcare coverage.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**The development and reform of public health in China from 1949 to 2019**](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-019-0486-6?gclid=EAlalQobChMl0kDo1Ljg6QIVkjUrCh3zyAUqEAMYASAAEgJDlvD_BwE){:target="_blank"}
+
+Presenting findings from survey data, interviews and reviews, this open access paper provides a retrospective assessment of seven decades of public health development in China from 1949 to 2019. While China has implemented the National Basic Public Health Service Program (NBPHSP), challenges including service quality and lack of quality professionals still exist.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Investment opportunities in China’s healthcare sector after COVID-19**](https://www.china-briefing.com/news/investment-opportunities-chinas-healthcare-sector-after-covid-19/){:target="_blank"}
+
+A surge in investments in China’s healthcare market is expected following the coronavirus outbreak. This article looks into the factors that make China’s healthcare sector a priority investment area in the next decade as well as identify some of the potential business opportunities  available in the sector.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**How the coronavirus is helping to fix China’s broken healthcare system**](https://time.com/5832584/coronavirus-covid19-telehealth-online-healthcare/){:target="_blank"}
+
+China’s overburdened healthcare system is seeing a positive change as people are increasingly turning to telehealth or online consultation as an alternative in the wake of the coronavirus. The trend is expected to last even after the crisis subsides as people embrace this mode of medical consultation due the convenience and benefits they experience.
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_lymyiUKNkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -74,20 +108,18 @@ This video looks at the “barefoot” doctors’ network established in rural C
 
 Source: CNBC International
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
 [**Healthcare for all by 2020: China looks to healthcare companies for a healthier nation**](https://www.aseantoday.com/2017/04/healthcare-for-all-by-2020-china-looks-to-drug-companies-for-a-healthier-nation/){:target="_blank"}
 
 As part of the “Healthy China 2030” plan launched in October 2016, China aims to make basic healthcare accessible to all citizens by 2020. To achieve this, the Chinese government has proposed simplifying testing procedures for imported drugs so as to reduce the cost and time taken for these drugs to be made available on the market.
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
-[**Lessons from the East  – China’s rapidly evolving health care system**](http://www.nejm.org/doi/full/10.1056/NEJMp1410425#t=article){:target="_blank"}
-
-This article traces the evolution of China’s health system since the founding of the People’s Republic of China in 1949. It highlights major reforms in health insurance and the healthcare delivery system in 2008 and the creation of a primary care system in 2012. The article also identifies the major roadblocks of the Chinese public health system in delivering accessible and affordable health care to its population of more than 1.3 billion.
-
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
 [**China’s dire need to reform health care sector seen as opportunity for private hospitals**](http://www.scmp.com/business/companies/article/2076196/chinas-dire-need-reform-health-care-sector-seen-opportunity){:target="_blank"}
 
 According to analysts, China’s public healthcare system –which has to cope with an increasing number of diseases related to ageing and pollution – is severely in need of reform, and this is where the private hospital sector can come in to help ease the heavy workload of public hospitals. Policies, such as reducing the red tape for setting up private hospitals and allowing these hospitals to determine their own medical fees, could incentivise the setting up of more of such private hospitals.
+
+
+
+*Last updated on Oct 2020*
