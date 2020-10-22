@@ -36,6 +36,14 @@ Learn about the formation of China's state-owned financial institutions and thei
 
 All rights reserved, Abingdon: Routledge, 2018
 
+<img src="/images/book-covers/The evolution of China’s banking system.png" style="width:150px;" />
+
+[**The evolution of China’s banking system, 1993-2017**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203938820){:target="_blank"}
+
+Private Lending in China traces the development of China’s banking system from 1993 to 2017, focusing on China’s approach in reforming and regulating the banking sector and it’s relative success in weathering financial crises. The author argues that China’s growing influence in global financial institutions can contribute to financial stability in the world. 
+
+All rights reserved, Abingdon: Routledge, 2019
+
 <img src="/images/book-covers/China’s fintech explosion.jpg" style="width:150px;" />
 
 [**China’s fintech explosion: Disruption, innovation, and survival**](https://nlb.overdrive.com/media/5103390){:target="_blank"}
