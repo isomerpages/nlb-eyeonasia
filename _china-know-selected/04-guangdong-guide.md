@@ -12,6 +12,38 @@ This is a selection of resources on Guangdong available from the [NLB catalogue]
 
 ### **NLB print and digital resources**
 
+<img src="/images/book-covers/City-integration-and-tourism-development.png" style="width:150px;" />
+
+[**City integration and tourism development in the Greater Bay Area, China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204484044){:target="_blank"}
+
+This book introduces China’s Greater Bay Area, which Guangdong is part of. It also explains how the concepts of city integration and tourism development are intertwined in the Greater Bay Area, making this a good read for researchers as well as those involved in tourism or city planning.
+
+All rights reserved, Abingdon: Routledge, 2020. 
+
+<img src="/images/book-covers/Analysis-of-the-development-of-Guangzhou.jpg" style="width:150px;" />
+
+[**Analysis of the development of Guangzhou in China**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203215814){:target="_blank"}
+
+This book describes the strategies Guangzhou has adopted to sustain economic growth in the face of difficulties. Besides analysing Guangzhou’s economy, it also delves into its culture and governance. 
+
+All rights reserved, United Kingdom: Paths International Ltd, 2018.
+
+<img src="/images/book-covers/Shenzhen-From-factory-of-the-world-to-world-city.jpg" style="width:150px;" />
+
+[**The development of Guangdong: China’s economic powerhouse**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203151){:target="_blank"}
+
+This book analyses the development of Guangdong’s economy as China implemented economic reforms and opened up to the world. It describes the strategies adopted by Guangdong’s leaders in bringing about economic success, as well as the partnerships and challenges involved in doing so. 
+
+All rights reserved, Singapore: World Scientific, 2018. 
+
+<img src="/images/book-covers/The-Shenzhen-experiment.jpg" style="width:150px;" />
+
+[**The Shenzhen experiment: The story of China’s instant city**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335624){:target="_blank"}
+
+In a matter of several decades, Shenzhen evolved from a “rural borderland” to one of China’s foremost economic hubs. This book examines how Shenzhen’s rise occurred, and how this phenomenon fits into China’s larger economic development story. 
+
+All rights reserved, Cambridge: Harvard University Press, 2020.
+
 <img src="/images/book-covers/Shenzhen-From-factory-of-the-world-to-world-city.jpg" style="width:150px;" />
 
 [**Shenzhen: From factory of the world to world city**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202720256){:target="_blank"}
@@ -20,84 +52,36 @@ This book covers the history and transformation of Shenzhen in Guangdong from a 
 
 All rights reserved, Almere: International New Town Institute, 2016.
 
-<img src="/images/book-covers/Chinese-economists-on-economic-reform-Collected-works-of-Wang-Mengkui.jpg" style="width:150px;" />
-
-[**Chinese economists on economic reform – Collected works of Wang Mengkui**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200811265){:target="_blank"}
-
-This publication provides an inside view on the Chinese economists who were the architects of China’s economic reform. Of special interest is chapter three which contains surveys relating to land reallocation and the extension of land-use contracts in rural Jiangmen, Guangdong province.
-
-All rights reserved, London: Routledge, 2014.
-
-<img src="/images/book-covers/Southern-China-Industry-development-and-industrial-policy.jpg" style="width:150px;" />
-
-[**Southern China: Industry, development, and industrial policy**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14482190){:target="_blank"}
-
-This is an updated analysis of the last three decades of development in the southern Guangdong province. It also sheds light on the industrial development policies promoted by governments at the different levels.
-
-All rights reserved, New York: Routledge, 2013.
-
-<img src="/images/book-covers/Remaking-Chinas-great-cities-Space-and-culture-in-urban-housing-renewal-and-expansion.jpg" style="width:150px;" />
-
-[**Remaking China’s great cities: Space and culture in urban housing, renewal, and expansion**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200973672){:target="_blank"}
-
-The author provides an account of the spatial transformations in Beijing, Shanghai and Guangzhou (capital city of the Guangdong province) under the People’s Republic of China. It focuses on thematic topics such as urban planning, urban form, urban political economy and cultural change.
-
-All rights reserved, Abingdon, Oxon: Routledge, 2014.
-
-<img src="/images/book-covers/Hainan-Guangdong-Southwest-China.jpg" style="width:150px;" />
-
-[**Hainan, Guangdong & Southwest China**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=28BF5B63-8035-49ED-97C5-0E52F1F2858D){:target="_blank"}
-
-An essential guide that highlights the top sights and less travelled zones including travel tips such as cultural insights, food, sight-seeing, shopping and hidden gems around these areas.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
-
-<img src="/images/book-covers/Guangdongs-innovation-in-land-use.png" style="width:150px;" />
-
-[**Guangdong’s innovation in land use**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200588268){:target="_blank"}
-
-Find out more about the land renewal scheme implemented in Guangdong to address land shortage resulting from high though uneven economic growth in the province. Some of the cities did better than others while some faced obstacles in classifying property rights and convincing local government to share interests derived from value-added land with farmers.
-
-All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2013.
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**Does water governance matter to water sector performance? Evidence from ten provinces in China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-This paper assesses the data on water governance in 10 Chinese provinces (including Liaoning, Guangdong, Jiangsu and Sichuan) and explores the effects of water governance on the availability of water resources, the adequacy of drinking water and water productivity.
-
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
-
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Guangzhou International**](http://www.gz.gov.cn/guangzhouinternational/index.html){:target="_blank"}
+
+This official website provides useful information on Guangzhou’s government, as well as tips for residents, visitors and people looking to do business on the city. Key events and developments are featured, along with links to information on transportation and employment. 
+
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Asian cities report: Guangzhou Office 1H 2017**](http://pdf.savills.asia/asia-pacific-research/asia-pacific-research/asian-cities---gz-off-1h-2017.pdf){:target="_blank"}
+[**S'pore aims to work more closely with Guangdong in finance, talent exchange and aviation: Ong Ye Kung**](https://www.straitstimes.com/singapore/spore-aims-to-work-more-closely-with-guangdong-in-finance-talent-exchange-and-aviation-ong){:target="_blank"}
 
-Despite the slowdown of the national economy, Guangzhou continued to witness strong economic growth in 2016. This report provides information on the market overview and market outlook of Guangzhou in 2016 by Savills.
+This article from the Straits Times describes the agreements signed to promote economic cooperation between Singapore and Guangdong. It also notes the high amount of bilateral trade and value of bilateral projects between the two. Examples of Singapore businesses in the city, and how they have collaborated with Chinese firms, are also provided. 
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Guangzhou starts construction of 5 mega projects**](http://english.gz.gov.cn/gzgoven/s3617/Government.shtml){:target="_blank"}
+[**Impacts of typhoons on local labor markets based on GMM: An empirical study of Guangdong province, China**](https://journals.ametsoc.org/wcas/article/9/2/255/41338/Impacts-of-Typhoons-on-Local-Labor-Markets-based){:target="_blank"}
 
-Mayor of Guangzhou Wen Guohui , announced the start of five large projects on 27 April 2017. They are Guangzhou Automobile Group (GAC) industrial park for New Energy Vehicles, Cisco (Guangzhou) smart city project, Hengli Island Development project at Nansha, Line 18 of Guangzhou Metro and Headquarter of China Railway Tunnel Group (CTG). These projects aim to expand the city’s international cooperation and serve the Guangdong-Hong Kong-Macao Greater Bay development.
+This journal article studies how Guangdong’s typhoons influence labour markets in aspects such as changes in employment levels, and describes how long these changes last. The study also compares China to other countries, helping to illustrate the uniqueness of China’s labour market. 
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Singapore, China leaders laud deep, growing ties**](http://www.todayonline.com/chinaindia/china/singapore-china-leaders-laud-deep-growing-ties){:target="_blank"}
+[**Singapore companies leverage the development of the Greater Bay Area to capture new growth opportunities in Guangdong**](https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/november/singapore-companies-leverage-the-development-of-the-greater-bay-area-to-capture-new-growth-opportunities-in-guangdong){:target="_blank"}
 
-The article details the signing of a MOU between China’s State Intellectual Property Office, Singapore’s Intellectual Property Office and the People’s Government of Guangdong Province. The MOU establishes a framework agreement for all three parties to work together so as to facilitate the Intellectual Reform pilot programme in Sino-Singapore Guangzhou Knowledge City.
+Following the signing of a memorandum between Singapore and Guangzhou in November 2019, companies in both places will have more opportunities to collaborate in fields like innovation development and intellectual property. The article explains how Singapore companies can partner Chinese ones, as well as examples of companies which have already done so.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**South China expands as a huge market for U.S. wood and wood products**](https://gain.fas.usda.gov/Recent%20GAIN%20Publications/South%20China%20A%20Huge%20Market%20for%20U.S.%20Wood%20and%20Wood%20Products_Guangzhou_China%20-%20Peoples%20Republic%20of_2-9-2017.pdf){:target="_blank"}
+[**China Focus: Economic powerhouse Guangdong seeks innovative, high-quality development**](http://www.xinhuanet.com/english/2020-01/14/c_138704794.htm){:target="_blank"}
 
-China is the largest market in the world for U.S. wood and wood products, with nearly 30 percent going to South China alone. The article also highlights that the demand continues to be strong for both U.S. hardwoods and softwoods, with hardwoods mainly used for furniture production and flooring, while softwoods are used in the furniture and the building sectors. Guangdong province in South China has the largest number of furniture producing companies in China, and is also the largest distribution centre for imported woods.
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
-[**Best-performing cities: China 2016**](http://best-cities-china.org/best-performing-cities-china-2016.pdf){:target="_blank"}
-
-This report analyses official data to track the economic performance of China’s best-performing cities. The ranking is based on nine indicators including job growth, wage growth, gross regional product per capita growth and foreign direct investment growth.
+This article describes the trends in Guangdong’s economic performance as well as the strategies it has adopted to bring about innovative, high-quality growth. 
