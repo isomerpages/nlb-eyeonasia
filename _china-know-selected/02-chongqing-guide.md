@@ -12,21 +12,21 @@ This is a selection of resources on Chongqing available from the [NLB catalogue]
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Annual-analysis-of-competitiveness-simulation-studies-and-development-perspective-for-34-greater-China-economies-2000-2010.jpg" style="width:150px;" />
+<img src="/images/resources/Database 1.jpg" style="width:150px;" />
 
-[**Annual analysis of competitiveness, simulation studies and development perspective for 34 greater China economies: 2000-2010**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200190651){:target="_blank"}
+[**Chongqing Connectivity Initiative: progress under way**](https://eresources.nlb.gov.sg/Main/browse/resource/1059){:target="_blank"}
 
-Learn about the challenges, opportunities and development strategies of Chongqing (see Chapter Four), which outlines its major economic sectors and activities, infrastructure, official policies and competitiveness rankings from 2000 to 2010 among China’s 34 greater economies.
+This article explains what the Chongqing Connectivity initiative is, the key industries it focuses on, and the business opportunities it provides for both Singaporean and Chinese firms. 
 
-All rights reserved, Singapore: World Scientific Publishing, 2014.
+Retrieved from Economist Intelligence Unit. (*myLibrary* ID is required to access this database.)
 
-<img src="/images/book-covers/Yuzhong-District-Chongqing-investors-guide-The-Foreign-Trade-Economic-Relations-Bureau.png" style="width:150px;" />
+<img src="/images/book-covers/The-politics-of-social-inclusion.jpg" style="width:150px;" />
 
-[**Yuzhong District Chongqing investors’ guide: The Foreign Trade & Economic Relations Bureau**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201112501){:target="_blank"}
+[**The politics of social inclusion: Bridging knowledge and policies towards social change**](https://nlb.overdrive.com/media/4718663){:target="_blank"}
 
-Chongqing Yuzhou District is the central district of the Chongqing Municipality. This guide provides information on its commerce, finance, cultural and investment areas.
+This book examines social inclusion and exclusion in the context of the United Nations Agenda for Sustainable Development 2030 through the use of field research findings. These include findings from Chongqing, from which policy proposals can be developed to overcome social exclusion. 
 
-All rights reserved, Yuzhong District Chongqing: Foreign Trade & Economic Relations Bureau, Yuzhong District of Chongqing, 2011.
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 <img src="/images/book-covers/The-Singapore-Chongqing-government-to-government-project.png" style="width:150px;" />
 
@@ -36,44 +36,42 @@ This publication highlights the Chongqing Connectivity Initiative, one of three 
 
 All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2016.
 
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
-
-[**Are rural residents’ mental health influenced by the new countryside construction? An investigation in Chongqing, China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-The Chinese government launched the “New Countryside Construction” (NCC) programme in the mid-2000s to improve the living conditions in rural regions. This paper analyses the effect of the implementation of NCC on the mental health of rural residents in 10 villages in Chongqing, southwest China. Findings revealed that the resultant infrastructure development and new housing opportunities yielded under the NCC scheme significantly improved the mental health of rural residents.
-
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
-
 ---
 
 ### **You may also like**
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Chongqing Municipal Government**](http://en.cq.gov.cn/index.shtml){:target="_blank"}
+[**China's Chongqing to bolster nighttime economy**](http://www.xinhuanet.com/english/2020-07/21/c_139229458.htm){:target="_blank"}
 
-This is the official website of the city of Chongqing and contains government-related information as well as resources for local residents, visitors and businesses.
-
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
-
-[**China (Chongqing) Pilot Free Trade Zone**](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/China-Chongqing-Pilot-Free-Trade-Zone/ff/en/1/1X000000/1X0A9NGN.htm){:target="_blank"}
-
-Officially launched on 1 April 2017, the *Chongqing Pilot Free Trade Zone* forms part of the third batch of government-endorsed *Pilot Free Trade Zones*. *China (Chongqing) Pilot Free Trade Zone* is a research report by professional economists from the Hong Kong Trade Development Council.
+This short article explains what is meant by the nighttime economy, as well as how and why Chongqing is attempting to boost it in the next few years.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Chongqing: Market profile**](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Chongqing-Market-Profile/ff/en/1/1X000000/1X06BPV2.htm){:target="_blank"}
+[**Chongqing 2035: Spatial and economic transformation for a global city**](http://documents1.worldbank.org/curated/en/228051552366795612/pdf/Chongqing-2035-Spatial-and-Economic-Transformation-for-a-Global-City-Overview.pdf){:target="_blank"}
 
-Gain a better understanding of Chongqing through this research report by professional economists from the Hong Kong Trade Development Council.
+This report by the World Bank provides a detailed description of Chongqing's social, economic and environmental characteristics. It delves into how Chongqing fares against other global cities and provides a framework showing how long-term growth opportunities in the municipality can be created. 
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Singapore, Chongqing deepen ties with project deals**](https://www.enterprisesg.gov.sg/media-centre/news/2019/september/singapore-chongqing-deepen-ties-with-project-deals){:target="_blank"}
+
+This article describes the project signings that have occurred between Chongqing and Singapore to facilitate the flow of capital between the two places. These include the Chongqing Connectivity Initiative and memoranda of understanding in areas such as financial services, logistics and information and communication technology.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**The economy of Chongqing: What foreign companies should know about the City Built on Hills**](https://daxueconsulting.com/foreign-companies-economy-chongqing/){:target="_blank"}
+
+This report presents an overview of Chongqing’s economy and how it has changed over the years. It also describes the political and infrastructural changes Chongqing has made to attract more travellers and investors. Quick advice on what foreign companies should know about the city is also provided at the end of the article.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**China's Chongqing to shore up digital economy**](http://www.xinhuanet.com/english/2020-06/22/c_139158682.htm){:target="_blank"}
+
+This article from Xinhua News Agency provides a quick summary of how Chongqing aims to focus more on the digital economy, including the development of specific zones and cultivation of enterprises such as artificial intelligence and blockchain.
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
 [**CQNEWS.net**](http://english.cqnews.net/){:target="_blank"}
 
 This is a key news portal on Chongqing which covers various news media such as *Chongqing Daily*, *Chongqing Evening News*, *Chongqing Morning Post* and *Chongqing Commercial Daily*.
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
-
-[**Best-performing cities: China 2016**](http://best-cities-china.org/best-performing-cities-china-2016.pdf){:target="_blank"}
-
-This report analyses official data to track the economic performance of China’s best-performing cities. The ranking is based on nine indicators including job growth, wage growth, gross regional product per capita growth and foreign direct investment growth.
