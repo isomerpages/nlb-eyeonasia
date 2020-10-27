@@ -28,7 +28,7 @@ This book describes the strategies Guangzhou has adopted to sustain economic gro
 
 All rights reserved, United Kingdom: Paths International Ltd, 2018.
 
-<img src="/images/book-covers/Shenzhen-From-factory-of-the-world-to-world-city.jpg" style="width:150px;" />
+<img src="/images/book-covers/The-development-of-Guangdong.png" style="width:150px;" />
 
 [**The development of Guangdong: China’s economic powerhouse**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203151){:target="_blank"}
 

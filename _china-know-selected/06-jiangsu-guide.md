@@ -12,20 +12,6 @@ This is a selection of resources on Jiangsu available from the [NLB catalogue](h
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Infopedia-logo.png" style="width:150px;" />
-
-[**China-Singapore Suzhou Industrial Park**](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_101058.html){:target="_blank"}
-
-Singapore Infopedia article on the background and development of the first flagship joint project between China and Singapore. The China-Singapore Suzhou Industrial Park was launched in 1994, providing industrial opportunities for economic growth.
-
-<img src="/images/book-covers/Lonely-Planet-Jiangsu.jpg" style="width:150px;" />
-
-[**Jiangsu, Suzhou, Nanjing and East China**](https://singapore.libraryreserve.com/ContentDetails.htm?id=6F3F0707-D550-41D6-9527-9F628E184B82){:target="_blank"}
-
-Covering major cities such as Suzhou, Nanjing, Hangzhou and Xiamen, this tourist guide by Lonely Planet will help you discover the hidden gems of this region. See honest reviews for all budgets, with every page packed with information – all available at your fingertips.
-
-Retrieved from Overdrive. (*myLibraryID* is required to access this ebook.)
-
 <img src="/images/book-covers/Advancing-Singapore-China-economic-relations.jpg" style="width:150px;" />
 
 [**Advancing Singapore-China economic relations**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200453149){:target="_blank"}
@@ -33,32 +19,6 @@ Retrieved from Overdrive. (*myLibraryID* is required to access this ebook.)
 This book provides an overview of the economic ties forged between Singapore and China. Chapter three is particularly interesting as it covers the development of the Suzhou Industrial Park which has enhanced Singapore’s reputation and brand name. Similarly, Chapter four is a worthwhile read as it describes the spirit of mutual learning and expertise sharing between both countries as seen through the Sino-Singapore Tianjin Eco-City project.
 
 All rights reserved, Singapore: Institute of Southeast Asian Studies, 2014.
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**Growth type and functional trajectories: An empirical study of urban expansion in Nanjing, China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-Using satellite images of Nanjing from 1985, 1995, 2001 and 2013, this paper draws a time-based and functional composition of Nanjing’s rapid urban expansion which were shaped by the city’s topographic limitations and the local government’s efforts in urban planning.
-
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
-
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
-
-[**Analysing the impact of urbanization on energy consumption in Jiangsu Province**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-This paper studies the impact of urbanisation on energy consumption in Jiangsu and finds that increased economic activity leading to rapid urbanisation resulted in a gap between residential energy consumption per capita for urban and rural regions.
-
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
-
-<img src="/images/resources/Database 3.jpg" style="width:180px;" />
-
-[**Does water governance matter to water sector performance? Evidence from ten provinces in China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-This paper assesses the data on water governance in 10 Chinese provinces (including Liaoning, Guangdong, Jiangsu and Sichuan) and explores the effects of water governance on the availability of water resources, the adequacy of drinking water and water productivity.
-
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
 [**Healthcare system responsiveness in Jiangsu province, China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
 
@@ -87,15 +47,3 @@ Up-to-date news on the happenings in Jiangsu, covering living, travelling, food,
 [**Emerging industries become Wuxi’s economic new regime**](http://www.chinadaily.com.cn/m/jiangsu/wuxi/2017-02/09/content_28141527.htm){:target="_blank"}
 
 Wuxi is the new place for scientific and technological innovation, with heavy government support via research-and-development capital, intellectual property policies and various risk-offset mechanisms.
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
-[**Government of Canada – Jiangsu 江苏**](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-jiangsu.aspx?lang=eng){:target="_blank"}
-
-The Canadian government has done an analysis of Jiangsu and its economic potential, based on 2015 data from China’s State Council Information Office. Also listed are potential investment opportunities in Jiangsu for Canadians.
-
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
-
-[**City proﬁle: Suzhou – a Chinese city under transformation**](https://www.researchgate.net/publication/272028336_City_profile_Suzhou_-_a_Chinese_city_under_transformation){:target="_blank"}
-
-Suzhou has transformed from a national commercial city in historical times to a modern industrial base today. Learn more about the role of spatial planning in the conservation of Suzhou’s ancient quarter and the challenges encountered in urban planning and governance.
