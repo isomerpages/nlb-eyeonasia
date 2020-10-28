@@ -30,7 +30,7 @@ Retrieved from JSTOR. <i>myLibrary</i> ID is required to access this database.
 
 <img src="/images/book-covers/Urban composite development index for 17 Shandong cities.jpg" style="width:150px;" />
 
-[**Urban composite development index for 17 Shandong cities: Ranking and simulation analysis based on China’s five development concepts **](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203858267){:target="_blank"}
+[**Urban composite development index for 17 Shandong cities: Ranking and simulation analysis based on China’s five development concepts**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203858267){:target="_blank"}
 
 The Asia Competitiveness Institute has developed an index to determine urban development and liveability levels in different Shandong cities, and the results are presented in this book. The information provided will be useful to policymakers interested in promoting development in these cities and those who wish to find out the strengths and weaknesses of each city. 
 
@@ -38,7 +38,7 @@ All rights reserved, Singapore: World Scientific., 2018.
 
 <img src="/images/book-covers/Shandong-Jinan-Northeast-China.jpg" style="width:150px;" />
 
-[**Shandong, Jinan & Northeast China **](https://nlb.overdrive.com/media/9B4EB251-C18B-48B8-BED5-087BDB6B6B9A){:target="_blank"}
+[**Shandong, Jinan & Northeast China**](https://nlb.overdrive.com/media/9B4EB251-C18B-48B8-BED5-087BDB6B6B9A){:target="_blank"}
 
 Covering the province of Shandong, as well as other major cities in northeast China, this guidebook provides essential information and cultural insights for those who are keen to venture into this region to live or work. 
 
