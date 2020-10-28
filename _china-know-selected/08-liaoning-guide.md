@@ -22,7 +22,7 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 <img src="/images/resources/Database 1.jpg" style="width:150px;" />
 
-[**China’s north-east: (still) Striving for revitalisation**](https://eresources.nlb.gov.sg/Main/browse/resource/1059) {:target="_blank"}
+[**China’s north-east: (still) Striving for revitalisation**](https://eresources.nlb.gov.sg/Main/browse/resource/1059){:target="_blank"}
 
 This article explains the history of the Chinese government’s plan to revitalise the northeast region, and describes the policy components involved. It evaluates the plan’s extent of success 15 years after it was implemented, and notes the actions that could be taken in the future to further boost the region’s development. 
 
