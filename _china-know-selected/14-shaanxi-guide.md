@@ -12,21 +12,13 @@ This is a selection of resources on Shaanxi available from the [NLB catalogue](h
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Emperor-Qin’s-terra-cotta-army.jpg" style="width:250px;" />
+<img src="/images/resources/Database 1.jpg" style="width:150px;" />
 
-[**Emperor Qin’s terra-cotta army**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201010533){:target="_blank"}
+[**Culture paves the way, economics comes to sing the opera: The rhetoric of Chinese folk duets and global joint ventures**](https://eresources.nlb.gov.sg/Main/browse/resource/1322){:target="_blank"}
 
-This book describes the archaeological find of lifesized terracotta warrior statues in China created for the first emperor of China’s tomb. It explores the mausoleum’s creation, traces its discovery and scientific investigation, and discusses future study and conservation efforts. Well-placed sidebars, vivid photos, helpful maps and a glossary enhance readers’ understanding of the topic.
+This research paper examines how a northern Shaanxi province used song and dance to facilitate a project between China’s largest coal company and the Dow Chemical Company. It shows the importance of provincial cultural identities and performance in relationship-building among different entities. 
 
-All rights reserved, Minneapolis, Minnesota: Essential Library, an imprint of Abdo Publishing, 2015.
-
-<img src="/images/book-covers/The-gender-of-memory-Rural-women-and-China’s-collective-past.jpg" style="width:150px;" />
-
-[**The gender of memory: Rural women and China’s collective past**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14146265){:target="_blank"}
-
-This book explores changes in the lives of 72 elderly women in rural Shaanxi province during the revolutionary decades of the 1950s and 1960s. Interweaving these women’s life histories with insightful analysis, it shows how party-state policy became local and personal and how it affected women’s agricultural work, domestic routines, activism, marriage, childbirth and parenting. The women narrate their pasts from the vantage point of the present and highlight their enduring values, important achievements, and deeply harboured grievances.
-
-All rights reserved, Berkeley: University of California Press, 2011.
+Retrieved from JSTOR. <i>myLibrary</i> ID is required to access this database.
 
 <img src="/images/book-covers/Terracotta-warriors-History-mystery-and-the-latest-discoveries.jpg" style="width:150px;" />
 
@@ -36,27 +28,35 @@ This book provides an “intriguing, original and up-to-date” account of one o
 
 All rights reserved, London: Weidenfeld & Nicolson, 2018.
 
-<img src="/images/book-covers/The-food-and-cooking-of-Sichuan-and-west-China.jpg" style="width:200px;" />
-
-[**The food and cooking of Sichuan and west China: 75 regional recipes from Sichuan, Hunan, Hubei, Yunnan, Guizhou and Shaanxi, in over 370 photographs**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14231236){:target="_blank"}
-
-From the vibrant metropolises of Chengdu and Xi’an to the spectacular rice terraces of the Yangtze basin, this book explores west China’s ancient cuisine in all its glory. Chapters cover all the courses, including fiery soups and dim sum, fresh fish and shellfish, tender poultry, aromatic meat, classic rice and noodles, piquant vegetable dishes and “unusual sweet things”. The “irresistible” volume is brought to life with more than 370 mouth-watering photographs, and step-by-step instructions to ensure perfect results each time.
-
-All rights reserved, Wigston, Leicestershire: Aquamarine, 2011.
-
-<img src="/images/book-covers/Secrets-of-the-terracotta-army-Tomb-of-an-ancient-Chinese-emperor.jpg" style="width:200px;" />
-
-[**Secrets of the terracotta army: Tomb of an ancient Chinese emperor**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200916244){:target="_blank"}
-
-This work describes the archaeological wonders of the Terracotta Army, including its discovery, artefacts, ancient peoples, and preservation.
-
-All rights reserved, North Mankato, Minnesota: Capstone Press, a Capstone imprint, 2015.
-
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**New Silk Road starts with Xi’an**](https://www.scmp.com/comment/insight-opinion/article/1342716/new-silk-road-starts-xian){:target="_blank"}
+
+This news article explains why positioning Xi’an at the centre of a Silk Road economic belt would be very beneficial to the development of northwestern China as well as other nearby parts of Asia. As the historical start of the ancient Silk Road and the economic centre of northwest China, Xi’an is well-poised to become the centre of the economic belt. 
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Geographical advantages helping Shaanxi boost multilateral trade**](http://www.chinadaily.com.cn/a/201905/24/WS5ce75745a3104842260bd962.html){:target="_blank"}
+
+Due to its favourable location and established transportation network, Shaanxi plays a key role in attracting other countries to do business with China. The article also describes the successes that the Shaanxi Free Trade Zone has achieved. 
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Xi'an China**](http://en.xa.gov.cn/){:target="_blank"}
+
+This website provides information about Shaanxi province’s largest city, as well as how one can set up a business or invest in the city. Statistics on the environment and various industries’ performances are also given. 
+
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Shaanxi: Conserving the Cradle of Chinese Civilisation**](https://www.clc.gov.sg/research-publications/publications/digital-library/view/shaanxi-conserving-the-cradle-of-chinese-civilisation){:target="_blank"}
+
+This report from the Centre for Liveable Cities describes five different conservation models that Xi'an has adopted to conserve historically significant objects or places such as Daming Palace National Heritage Park. The report also details how these places have changed over time and the role they now play in Shaanxi. 
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
 [**Shaanxi, China – Official website of the government of Shaanxi**](http://en.shaanxi.gov.cn/){:target="_blank"}
 
