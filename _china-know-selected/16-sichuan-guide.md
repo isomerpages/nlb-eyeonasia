@@ -12,44 +12,60 @@ This is a selection of resources on Sichuan available from the [NLB catalogue](h
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Beautiful-Sichuan.png" style="width:150px;" />
+<img src="/images/resources/Database 1.jpg" style="width:150px;" />
 
-[**Beautiful Sichuan: Before and after the great Wenchuan earthquake**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13235013){:target="_blank"}
+[**Impact of high-speed rail on intercity travel behavior change: The evidence from the Chengdu-Chongqing Passenger Dedicated Line**](https://eresources.nlb.gov.sg/Main/browse/resource/1322){:target="_blank"}
 
-This book consists of four chapters. The first chapter provides an overview of the historical events that took place in Sichuan. The other three chapters introduce the topographical features and regional cultures through the descriptions of mountains, rivers and ethnic minorities.
+This research paper discusses how the Chengdu-Chongqing (Chengyu) Passenger Dedicated Line (PDL) has altered the travel patterns between Chengdu and Chongqing, ultimately strengthening the economic link between the two municipalities. 
 
-All rights reserved, Singapore: Cengage Learning Asia, 2010.
+Retrieved from JSTOR. <i>myLibrary</i> ID is required to access this database.
 
-<img src="/images/book-covers/Spicy-Sichuan-cooking.jpg" style="width:150px;" />
+<img src="/images/book-covers/The-food-of-Sichuan.jpg" style="width:150px;" />
 
-[**Spicy Sichuan cooking**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=1DA31F0B-33B3-4855-B778-15D788D27EEE){:target="_blank"}
+[**The Food of Sichuan**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204002742){:target="_blank"}
 
-This cookbook features recipes for 30 all-time favourite Sichuan dishes.
+This cookbook features over 200 recipes based on Sichuan cuisine, including both hot and cold dishes. Beautiful photos and a description of the culinary and cultural history of the region accompany these recipes. Besides recipes, the book also provides a brief overview of Sichuan cuisine, covering its history, ingredients, styles and flavours. 
 
-Retrieved from Overdrive. (*myLibrary ID* is required to access this ebook.)
+All rights reserved, New York: Bloomsbury Publishing, 2019.
 
-<img src="/images/book-covers/Chengdu-a-rising-economic-star-in-Western-China.png" style="width:150px;" />
+<img src="/images/book-covers/The-other-Shangri-La.jpg" style="width:150px;" />
 
-[**Chengdu: A rising economic star in western China**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200172471){:target="_blank"}
+[**The 'other' Shangri-La : journeys through the Sino-Tibetan frontier in Sichuan**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205222865){:target="_blank"}
 
-Chengdu, one of the main beneficiaries of the government’s policies to develop west China, has also attracted foreign investors due to its relatively cheap labour and land costs. However, Chengdu’s economy is still rather small and faces stiff competition from both domestic and international quarters. This publication profiles Chengdu, the provincial capital of Sichuan, detailing examples of economic transformations the city has undergone over the last decade.
+This work of narrative nonfiction depicts the author and his wife’s journey through western Sichuan, providing rich insights into its natural environment, settlements and religious backdrop. 
 
-All rights reserved, Singapore: East Asian Institute, National University of Singapore, 2013.
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**Does water governance matter to water sector performance? Evidence from ten provinces in China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-This paper assesses the data on water governance in 10 Chinese provinces (including Liaoning, Guangdong, Jiangsu and Sichuan) and explores the effects of water governance on the availability of water resources, the adequacy of drinking water and water productivity.
-
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database).
+All rights reserved, New Delhi: Konark Publishers Pvt Ltd, 2020.
 
 ---
 
 ### **You may also like**
 
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Economic overview of Sichuan province**](https://www.rvo.nl/sites/default/files/2017/11/Economic-overview-Sichuan-province-China.pdf){:target="_blank"}
+
+This report by the Dutch Ministry of Foreign Affairs will greatly expand one’s business knowledge of Sichuan – it details the province’s main cities, economic development plan, as well as its key industries and cities.
+
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Best-performing cities: China 2016**](http://best-cities-china.org/best-performing-cities-china-2016.pdf){:target="_blank"}
+[**Shenzhen, Beijing lose out to Chengdu as China’s best performing city economy, says report**](https://www.scmp.com/economy/china-economy/article/3033998/shenzhen-beijing-lose-out-chengdu-chinas-best-performing-city){:target="_blank"}
 
-This report analyses official data to track the economic performance of China’s best-performing cities. The ranking is based on nine indicators including job growth, wage growth, gross regional product per capita growth and foreign direct investment growth.
+Chengdu has the best performing economy of any Chinese city and is a key contributor to growth in the western part of the county, according to a report by the Milken Institute released in 2019. The article also provides explanations on why Chengdu outperformed Shenzhen and Beijing. 
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Chengdu is becoming the engine driving development in China**](https://www.prnewswire.com/news-releases/chengdu-is-becoming-the-engine-driving-development-in-china-301065861.html){:target="_blank"}
+
+This news article reports that the “Chengdu-Chongqing Economic Circle” has been planned by the Chinese government as an integral part of economic development. It also provides insight into the initiatives Chengdu has taken to make itself a viable business hub, such as creating a “Unicorn Island” and a joint innovation centre.
+
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+
+[**Chengdu boosts innovation efforts in new economy**](https://global.chinadaily.com.cn/a/202008/01/WS5f24a752a31083481725d856.html){:target="_blank"}
+
+This article looks at how Chengdu has funnelled tremendous resources into promoting scientific innovation as part of the new economy. It also explains how two lab projects- innovation-application experimental lab and future scene lab- can provide more opportunities for small and medium-sized companies. 
+
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**A guide to investing in western China**](https://ifdesign.cloud/assets/images/design-articles/if-design-center-chengdu/white-paper-chengdu.pdf){:target="_blank"}
+
+This paper provides an overview of Chengdu in aspects such as population, finance, education and leisure. It also expounds on the business environment and opportunities available for foreign companies that are keen to venture into Chengdu. 
