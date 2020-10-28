@@ -42,7 +42,7 @@ Retrieved from JSTOR. (*myLibrary* ID is required to access this database).
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Zhejiang, China | Official site of Zhejiang province, China**](http://www.ezhejiang.gov.cn/){:target="_blank"}
+[**Zhejiang, China - Official site of Zhejiang province, China**](http://www.ezhejiang.gov.cn/){:target="_blank"}
 
 The province’s official website offers an overview of its culture, heritage, people and arts, helping to build social and cultural awareness for potential businesspeople or travellers. A section is also dedicated to what makes Zhejiang a prime choice for investment. 
 
