@@ -40,6 +40,18 @@ Retrieved from EBSCOhost Business Source Complete. *myLibrary* ID is required to
 
 ### **You may also like**
 
+<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+
+[**Nanjing opens up more innovation opportunities to Singapore firms**](https://sbr.com.sg/information-technology/news/nanjing-opens-more-innovation-opportunities-singapore-firms){:target="_blank"}
+
+This article explains the benefits of the Singapore-Nanjing Eco Hi-Tech Island to Singaporean businesses. These include allowing them to expand into China as well as trial solutions in sustainable urban management. 
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Focus on Nanjing, China**](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/96285.aspx?lang=eng){:target="_blank"}
+
+This webpage describes Nanjing’s eminent status in Jiangsu province and the Yangtze River Delta region as a major telecommunications, transportation, distribution and retail centre. It also provides quick facts on its business environment, key industries and import/export destinations. 
+
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**Chinese city seeks young blood: How ageing Nanjing lures new talent**](https://www.theguardian.com/cities/2019/jan/30/chinese-city-seeks-young-blood-how-ageing-nanjing-lures-new-talent){:target="_blank"}
