@@ -11,7 +11,7 @@ image: \images\china-overview\belt-and-road-initiative.jpg
 
 The Belt and Road Initiative (known as *yi dai yi lu* in Chinese, which literally translates into “one belt, one road”) is the brain-child of China’s current president, Xi Jinping. President Xi launched the initiative in September 2013, announcing China’s ambition to create a “Silk Road Economic Belt” during a university speech made in Kazakhstan. This project was later re-branded as the Belt and Road Initiative. 
 
-This is a selection of resources on the Belt and Road Initiative available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on the Belt and Road Initiative available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
