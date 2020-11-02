@@ -12,4 +12,6 @@ ASEAN@50: Historic Milestones is a series of 50 videos that traces ASEAN’s his
 
 [View the ASEAN@50: Historic Milestones series today!](https://www.youtube.com/playlist?list=PL8iW4pSvDCw4DaQqnEOO0hL5vD8BFxsEu)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8iW4pSvDCw4DaQqnEOO0hL5vD8BFxsEu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8iW4pSvDCw4DaQqnEOO0hL5vD8BFxsEu" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
