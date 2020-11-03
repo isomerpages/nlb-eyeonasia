@@ -97,3 +97,7 @@ Up-to-date news on the happenings in Jiangsu, covering living, travelling, food,
 [**Emerging industries become Wuxi’s economic new regime**](http://www.chinadaily.com.cn/m/jiangsu/wuxi/2017-02/09/content_28141527.htm){:target="_blank"}
 
 Wuxi is the new place for scientific and technological innovation, with heavy government support via research-and-development capital, intellectual property policies and various risk-offset mechanisms.
+
+
+
+*Last updated on Oct 2020*

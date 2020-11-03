@@ -38,7 +38,7 @@ All rights reserved, Singapore: World Scientific., 2018.
 
 <img src="/images/book-covers/Shandong-Jinan-Northeast-China.jpg" style="width:150px;" />
 
-[**Shandong, Jinan & Northeast China**](https://nlb.overdrive.com/media/9B4EB251-C18B-48B8-BED5-087BDB6B6B9A){:target="_blank"}
+[**Shandong & Northeast China**](https://nlb.overdrive.com/media/9B4EB251-C18B-48B8-BED5-087BDB6B6B9A){:target="_blank"}
 
 Covering the province of Shandong, as well as other major cities in northeast China, this guidebook provides essential information and cultural insights for those who are keen to venture into this region to live or work. 
 
@@ -77,3 +77,7 @@ This report by the government of the Netherlands describes the economy of Shando
 [**Amazon launches innovation centre in Qingdao**](http://www.chinadaily.com.cn/business/2017-03/31/content_28760547.htm){:target="_blank"}
 
 Qingdao, the largest city in Shandong province, is home to the first global joint innovation centre by Amazon’s cloud-computing arm.
+
+
+
+*Last updated on Oct 2020*

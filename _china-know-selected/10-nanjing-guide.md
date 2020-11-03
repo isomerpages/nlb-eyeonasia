@@ -63,3 +63,7 @@ Nanjing is an ancient city with a rapidly growing ageing population, shrinking w
 [**Discover Nanjing, China: One of the greatest capital cities of ancient times**](https://cityofnanjing.com/){:target="_blank"}
 
 The city of Nanjing is densely packed with historical richness, cultural heritage and natural beauty. This official website of the Nanjing Municipal Tourism Commission offers information on local history, culture, prominent landmarks, and food.
+
+
+
+*Last updated on Oct 2020*

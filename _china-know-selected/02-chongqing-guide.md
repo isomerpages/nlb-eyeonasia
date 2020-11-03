@@ -75,3 +75,7 @@ This article from Xinhua News Agency provides a quick summary of how Chongqing a
 [**CQNEWS.net**](http://english.cqnews.net/){:target="_blank"}
 
 This is a key news portal on Chongqing which covers various news media such as *Chongqing Daily*, *Chongqing Evening News*, *Chongqing Morning Post* and *Chongqing Commercial Daily*.
+
+
+
+*Last updated on Oct 2020*

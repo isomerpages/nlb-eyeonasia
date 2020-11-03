@@ -67,3 +67,7 @@ This report analyses official data to track the economic performance of China’
 [**From red to green: Let a hundred eco-cities blossom: the case of Tianjin Eco-city**](https://dspace.library.uu.nl/bitstream/handle/1874/330488/final%20version%20thesis%20Tianjin%20Eco-city%20%28Pien%2C%20Bacchus%20and%20Anne%20Lotte%29.pdf?sequence=2&isAllowed=y){:target="_blank"}
 
 This thesis presents a holistic approach to study how and to what extent the Tianjin Eco-city contributes to urban sustainability in China. This involves using environmental studies to analyse the negative impacts of human action (such as pollution and waste production) on the city as well as development studies which look at the living well-being and equality of residents. It then applies social sciences, namely using the disciplines of sociology and psychology to study human behaviour and to examine how interactions between institutions and humans affect the progress of urban sustainability.
+
+
+
+*Last updated on Oct 2020*

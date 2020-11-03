@@ -14,7 +14,7 @@ This is a selection of resources on Liaoning available from the [NLB catalogue](
 
 <img src="/images/book-covers/Shandong-Jinan-Northeast-China.jpg" style="width:150px;" />
 
-[**Shandong, Jinan & Northeast China**](https://nlb.overdrive.com/media/9B4EB251-C18B-48B8-BED5-087BDB6B6B9A){:target="_blank"}
+[**Shandong & Northeast China**](https://nlb.overdrive.com/media/9B4EB251-C18B-48B8-BED5-087BDB6B6B9A){:target="_blank"}
 
 Covering the cities of Shenyang and Dalian in Liaoning province, as well as other major cities in northeast China, this guidebook provides essential information and cultural insights into this region. 
 
@@ -44,13 +44,13 @@ In this media release by Enterprise Singapore, collaboration opportunities betwe
 
 This webpage by Canada’s Trade Commissioner provides an overview of Shenyang, Liaoning’s largest city, as well as its business environment and major stakeholders. This includes brief lists of its major markets, special industrial zones and key enterprises.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Dalian’s growth in 40 years: 1978-2018**](http://subsites.chinadaily.com.cn/regional/dalian/daliangrowth.html){:target="_blank"}
 
 This webpage provides statistics on the economic performance of Dalian, a large city within Liaoning province. It also provides photos and updates on the latest economic developments in the city. 
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**Opportunities and challenges of Liaoning's economic development under the background of free trade zone construction**](https://www.atlantis-press.com/proceedings/hsmet-19/125913614){:target="_blank"}
 
@@ -67,3 +67,7 @@ This article highlights how while northeast China as a whole has been struggling
 [**China’s rust belt looks abroad as growth slows, tariffs bite**](https://apnews.com/article/f37f8f83c6a3450fb1ea7a4749ffa859){:target="_blank"}
 
 China has been gradually putting in place many components of its Belt and Road Initiative (BRI). This article describes how Liaoning and northeast China fit into the projects being rolled out and examines the economic benefits and challenges brought about by BRI. 
+
+
+
+*Last updated on Oct 2020*

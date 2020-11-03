@@ -93,3 +93,7 @@ This article explains that as central China’s hub for transportation and indus
 [**The economic and environmental effects of the Beijing-Tianjin-Hebei Collaborative Development Strategy— taking Hebei Province as an example**](https://link.springer.com/article/10.1007/s11356-020-09790-1){:target="_blank"}
 
 This article describes the effects the Beijing-Tianjin-Hebei Collaborative Development Strategy has had on Hebei’s physical and human environment. Findings suggest that Hebei needs to boost its growth levels to be on par with that of Beijing and Tianjin. 
+
+
+
+*Last updated on Oct 2020*

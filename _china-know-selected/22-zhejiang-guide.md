@@ -69,3 +69,7 @@ This article features some of the photos exhibited in Ningbo International Photo
 [**Zhejiang tourism website**](http://en.tourzj.com/about-us/){:target="_blank"}
 
 Discover the beauty, attractions and culture of Zhejiang through this official tourism website sponsored by the Tourism Bureau of Zhejiang Province.
+
+
+
+*Last updated on Oct 2020*
