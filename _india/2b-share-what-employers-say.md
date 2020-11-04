@@ -15,7 +15,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/share/what-employers-say/singapore-shopmatic/" class="project-link">
-				<img src="\images\asean-employers\singapore-shopmatic.jpg" alt="singapore-shopmatic" class="project-image">
+				<img src="\images\india-employers\singapore-shopmatic.jpg" alt="singapore-shopmatic" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Singapore’s Shopmatic raises $5.7m to expand to Indonesia, the Philippines</b></h5>
@@ -25,7 +25,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/share/what-employers-say/companies-growing-interest-india/" class="project-link">
-				<img src="\images\asean-employers\companies-growing-interest-india.jpg" alt="companies-growing-interest-india" class="project-image">
+				<img src="\images\india-employers\companies-growing-interest-india.jpg" alt="companies-growing-interest-india" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Companies here showing growing interest in India</b></h5>
@@ -42,7 +42,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/share/what-employers-say/access-to-india-tech-ecosystem/" class="project-link">
-				<img src="\images\asean-employers\access-to-india-tech-ecosystem.jpg" alt="access-to-india-tech-ecosystem" class="project-image">
+				<img src="\images\india-employers\access-to-india-tech-ecosystem.jpg" alt="access-to-india-tech-ecosystem" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Singapore startups get access to India tech ecosystem with Global Innovation Alliance</b></h5>
@@ -52,7 +52,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/share/what-employers-say/powering-lives-solar-energy/" class="project-link">
-				<img src="\images\asean-employers\powering-lives-solar-energy.jpg" alt="powering-lives-solar-energy" class="project-image">
+				<img src="\images\india-employers\powering-lives-solar-energy.jpg" alt="powering-lives-solar-energy" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Powering lives with renewable solar energy</b></h5>
@@ -69,7 +69,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/share/ie-singapore-paves-way-india-market/" class="project-link">
-				<img src="\images\asean-employers\ie-singapore-paves-way-india-market.jpg" alt="ie-singapore-paves-way-india-market" class="project-image">
+				<img src="\images\india-employers\ie-singapore-paves-way-india-market.jpg" alt="ie-singapore-paves-way-india-market" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>IE Singapore paves way for SMEs to break into India market</b></h5>
@@ -79,7 +79,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/india/share/what-employers-say/ie-singapore-signs-mou/" class="project-link">
-				<img src="\images\asean-employers\ie-singapore-signs-mou.jpg" alt="ie-singapore-signs-mou" class="project-image">
+				<img src="\images\india-employers\ie-singapore-signs-mou.jpg" alt="ie-singapore-signs-mou" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>IE Singapore signs MOU to help Singapore tech and innovation companies...</b></h5>
