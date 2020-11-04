@@ -82,7 +82,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="\images\china-employers\docdoc-partners-with-china.jpg" alt="docdoc-partners-with-china" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Press release - DocDoc partners with China’s leading insurance risk control company...</b></h5>
+					<h5><b>DocDoc partners with China’s leading insurance risk control company...</b></h5>
 				</div>
 			</div>
 			</a>
