@@ -45,7 +45,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="\images\india-employers\access-to-india-tech-ecosystem.jpg" alt="access-to-india-tech-ecosystem" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Singapore startups get access to India tech ecosystem with Global Innovation Alliance</b></h5>
+					<h5><b>Singapore startups get access to India tech ecosystem...</b></h5>
 				</div>
 			</div>
 			</a>
