@@ -51,7 +51,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/share/what-employers-say/jumbo-expansion/" class="project-link">
+			<a href="/china/share/what-employers-say/road-to-chongqing/" class="project-link">
 				<img src="\images\china-employers\road-to-chongqing.jpg" alt="road-to-chongqing" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
