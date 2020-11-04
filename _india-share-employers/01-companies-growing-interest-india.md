@@ -6,7 +6,7 @@ breadcrumb: Companies here showing growing interest in India
 collection_name: india-share-employers
 ---
 
-<img src="\images\asean-employers\companies-growing-interest-india.jpg" alt="companies-growing-interest-india" style="width:800px;" />
+<img src="\images\india-employers\companies-growing-interest-india.jpg" alt="companies-growing-interest-india" style="width:800px;" />
 
 Amidst the slowdown of many economies around the world, India’s continued growth has attracted the attention of many Singaporean companies. In this article, Enterprise Singapore’s global markets director for South Asia comments on why and how exactly companies can consider expanding to India.
 

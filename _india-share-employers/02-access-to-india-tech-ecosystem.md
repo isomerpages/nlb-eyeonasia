@@ -6,7 +6,7 @@ breadcrumb: Singapore startups get access to India tech ecosystem with Global In
 collection_name: india-share-employers
 ---
 
-<img src="\images\asean-employers\access-to-india-tech-ecosystem.jpg" alt="access-to-india-tech-ecosystem" style="width:800px;" />
+<img src="\images\india-employers\access-to-india-tech-ecosystem.jpg" alt="access-to-india-tech-ecosystem" style="width:800px;" />
 
 The Global Innovation Alliance (GIA) network, a partnership between Enterprise Singapore and the Economic Development Board, will foster greater partnerships between companies in both Singapore and India. Additional business partnerships will enable Singapore companies to enter the Indian market via Bangalore. 
 

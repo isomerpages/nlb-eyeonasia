@@ -6,7 +6,7 @@ breadcrumb: Singapore’s Shopmatic raises $5.7m to expand to Indonesia, the Phi
 collection_name: india-share-employers
 ---
 
-<img src="\images\asean-employers\singapore-shopmatic.jpg" alt="singapore-shopmatic" style="width:800px;" />
+<img src="\images\india-employers\singapore-shopmatic.jpg" alt="singapore-shopmatic" style="width:800px;" />
 
 In this article, Anurag Avula, the co-founder of Shopmatic, a Singapore-based e-commerce company, explains why the company decided to launch in India as well as the steps it took to succeed in the Indian market. Localisation and catering to small, niche sellers are some of the factors behind Shopmatic’s success in India. 
 

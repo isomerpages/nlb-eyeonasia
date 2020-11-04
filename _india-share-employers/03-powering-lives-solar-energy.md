@@ -6,7 +6,7 @@ breadcrumb: Powering lives with renewable solar energy
 collection_name: india-share-employers
 ---
 
-<img src="\images\asean-employers\powering-lives-solar-energy.jpg" alt="powering-lives-solar-energy" style="width:800px;" />
+<img src="\images\india-employers\powering-lives-solar-energy.jpg" alt="powering-lives-solar-energy" style="width:800px;" />
 
 Third Wave Power, a Singapore company selling solar-based products, discusses the challenges that come with expanding into India and the measures adopted by the company to tackle these challenges. 
 

@@ -6,7 +6,7 @@ breadcrumb: IE Singapore signs MOU to help Singapore tech and innovation compani
 collection_name: india-share-employers
 ---
 
-<img src="\images\asean-employers\ie-singapore-signs-mou.jpg" alt="ie-singapore-signs-mou" style="width:800px;" />
+<img src="\images\india-employers\ie-singapore-signs-mou.jpg" alt="ie-singapore-signs-mou" style="width:800px;" />
 
 An MOU signed by IE Singapore and the Confederation of Indian Industry aims to help Singapore companies better understand India’s technology scene and access collaboration opportunities. With the huge startup base in India, such an agreement will enable an exchange of ideas and piloting of innovations between companies in both countries.
 
