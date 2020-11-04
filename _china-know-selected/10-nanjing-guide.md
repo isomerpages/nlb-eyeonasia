@@ -44,7 +44,7 @@ Retrieved from EBSCOhost Business Source Complete. *myLibrary* ID is required to
 
 [**Singapore businesses ink six deals in Nanjing, deepen ties**](https://www.straitstimes.com/asia/east-asia/singapore-businesses-ink-six-deals-in-nanjing-deepen-ties){:target="_blank"}
 
-Six deals have been signed between Singapore companies and Chinese government organizations and enterprises, supporting Singapore start-ups hoping to expand into Nanjing. Singapore is one of Nanjing's largest investors, and other initiatives have also been put in place to encourage further collaboration between the two cities. 
+Six deals have been signed between Singapore companies and Chinese government organisations and enterprises, supporting Singapore start-ups hoping to expand into Nanjing. Singapore is one of Nanjing's largest investors, and other initiatives have also been put in place to encourage further collaboration between the two cities. 
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
