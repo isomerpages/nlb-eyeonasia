@@ -58,9 +58,9 @@ This is an official website of the China (Tianjin) Pilot Free Trade Zone Adminis
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Best-performing cities: China 2016**](http://best-cities-china.org/best-performing-cities-china-2016.pdf){:target="_blank"}
+[**Best-performing cities: China 2018**](https://milkeninstitute.org/sites/default/files/reports-pdf/BPCC-China.pdf){:target="_blank"}
 
-This report analyses official data to track the economic performance of China’s best-performing cities. The ranking is based on nine indicators including job growth, wage growth, gross regional product per capita growth and foreign direct investment growth.
+This report provides an overview of China's economic development landscape and describes its best-performing cities, including Tianjin. Key statistics and reasons for Tianjin's growth are also provided. 
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
