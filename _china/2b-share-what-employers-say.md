@@ -109,7 +109,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 				<img src="\images\china-employers\digital-platform-onesme.jpg" alt="digital-platform-onesme" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Digital platform OneSME launched to promote trade between Singapore, China SMEs</b></h5>
+					<h5><b>Digital platform OneSME launched to promote trade...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -117,7 +117,7 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
-<p><p><p>
+<p><p>
 
 <div>
 	<div class="row is-multiline">
