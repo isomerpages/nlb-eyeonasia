@@ -8,7 +8,7 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\tianjin-guide.jpg" alt="tianjin guide banner" style="width:800px;" />
 
-This is a selection of resources on Tianjin available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Tianjin available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
@@ -67,3 +67,7 @@ This report provides an overview of China's economic development landscape and d
 [**From red to green: Let a hundred eco-cities blossom: the case of Tianjin Eco-city**](https://dspace.library.uu.nl/bitstream/handle/1874/330488/final%20version%20thesis%20Tianjin%20Eco-city%20%28Pien%2C%20Bacchus%20and%20Anne%20Lotte%29.pdf?sequence=2&isAllowed=y){:target="_blank"}
 
 This thesis presents a holistic approach to study how and to what extent the Tianjin Eco-city contributes to urban sustainability in China. This involves using environmental studies to analyse the negative impacts of human action (such as pollution and waste production) on the city as well as development studies which look at the living well-being and equality of residents. It then applies social sciences, namely using the disciplines of sociology and psychology to study human behaviour and to examine how interactions between institutions and humans affect the progress of urban sustainability.
+
+
+
+*Last updated on Oct 2020*

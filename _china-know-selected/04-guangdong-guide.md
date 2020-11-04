@@ -8,7 +8,7 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\guangdong-guide.jpg" alt="guangdong guide banner" style="width:800px;" />
 
-This is a selection of resources on Guangdong available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Guangdong available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
@@ -85,3 +85,7 @@ Following the signing of a memorandum between Singapore and Guangzhou in Novembe
 [**China Focus: Economic powerhouse Guangdong seeks innovative, high-quality development**](http://www.xinhuanet.com/english/2020-01/14/c_138704794.htm){:target="_blank"}
 
 This article describes the trends in Guangdong’s economic performance as well as the strategies it has adopted to bring about innovative, high-quality growth. 
+
+
+
+*Last updated on Oct 2020*

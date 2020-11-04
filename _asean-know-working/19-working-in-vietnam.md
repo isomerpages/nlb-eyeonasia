@@ -8,7 +8,7 @@ collection_name: asean-know-working
 
 <img src="/images/asean-working/ASEAN-Vietnam-Working.jpg" alt="Working in Vietnam banner" style="width:800px;" />
 
-This is a selection of resources on working in Vietnam available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list. If you come across more useful resources, please drop us a [note](https://www.eyeonasia.gov.sg/contact-us/) so that we can share them with our readers.
+This is a selection of resources on working in Vietnam available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 
 ### **NLB print resources**
 

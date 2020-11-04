@@ -8,13 +8,13 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\liaoning-guide.jpg" alt="liaoning guide banner" style="width:800px;" />
 
-This is a selection of resources on Liaoning available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Liaoning available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
 <img src="/images/book-covers/Shandong-Jinan-Northeast-China.jpg" style="width:150px;" />
 
-[**Shandong, Jinan & Northeast China**](https://nlb.overdrive.com/media/9B4EB251-C18B-48B8-BED5-087BDB6B6B9A){:target="_blank"}
+[**Shandong & Northeast China**](https://nlb.overdrive.com/media/9B4EB251-C18B-48B8-BED5-087BDB6B6B9A){:target="_blank"}
 
 Covering the cities of Shenyang and Dalian in Liaoning province, as well as other major cities in northeast China, this guidebook provides essential information and cultural insights into this region. 
 
@@ -44,13 +44,13 @@ In this media release by Enterprise Singapore, collaboration opportunities betwe
 
 This webpage by Canada’s Trade Commissioner provides an overview of Shenyang, Liaoning’s largest city, as well as its business environment and major stakeholders. This includes brief lists of its major markets, special industrial zones and key enterprises.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Dalian’s growth in 40 years: 1978-2018**](http://subsites.chinadaily.com.cn/regional/dalian/daliangrowth.html){:target="_blank"}
 
 This webpage provides statistics on the economic performance of Dalian, a large city within Liaoning province. It also provides photos and updates on the latest economic developments in the city. 
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
 [**Opportunities and challenges of Liaoning's economic development under the background of free trade zone construction**](https://www.atlantis-press.com/proceedings/hsmet-19/125913614){:target="_blank"}
 
@@ -72,4 +72,6 @@ China has been gradually putting in place many components of its Belt and Road I
 
 [**A brief introduction to the animal husbandry industry in Liaoning Province**](https://www.rvo.nl/sites/default/files/2017/04/a-brief-introduction-to-liaonings-animal-husbandry-industry.pdf){:target="_blank"}
 
-Northeast China is known as the agricultural heartland of China. This report provides brief information on the animal husbandry industry in Liaoning Province and discusses business challenges and opportunities that are expected to arise for Dutch companies investing in the region.
+Northeast China is known as the agricultural heartland of China. This report provides brief information on the animal husbandry industry in Liaoning province and discusses business opportunities and challenges that are expected to arise for Dutch companies investing in the region.
+
+*Last updated on Oct 2020*

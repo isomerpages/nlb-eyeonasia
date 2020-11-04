@@ -8,7 +8,7 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\zhejiang-guide.jpg" alt="zhejiang guide banner" style="width:800px;" />
 
-This is a selection of resources on Discovering Zhejiang available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Discovering Zhejiang available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
@@ -69,3 +69,7 @@ This article features some of the photos exhibited in Ningbo International Photo
 [**Zhejiang tourism website**](http://en.tourzj.com/about-us/){:target="_blank"}
 
 Discover the beauty, attractions and culture of Zhejiang through this official tourism website sponsored by the Tourism Bureau of Zhejiang Province.
+
+
+
+*Last updated on Oct 2020*

@@ -8,7 +8,7 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\sichuan-guide.jpg" alt="sichuan guide banner" style="width:800px;" />
 
-This is a selection of resources on Sichuan available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Sichuan available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
@@ -69,3 +69,7 @@ This article looks at how Chengdu has funnelled tremendous resources into promot
 [**A guide to investing in western China**](https://ifdesign.cloud/assets/images/design-articles/if-design-center-chengdu/white-paper-chengdu.pdf){:target="_blank"}
 
 This paper provides an overview of Chengdu in aspects such as population, finance, education and leisure. It also expounds on the business environment and opportunities available for foreign companies that are keen to venture into Chengdu. 
+
+
+
+*Last updated on Oct 2020*

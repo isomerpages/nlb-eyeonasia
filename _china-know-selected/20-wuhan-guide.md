@@ -8,7 +8,7 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\wuhan-guide.jpg" alt="wuhan guide banner" style="width:800px;" />
 
-This is a selection of resources on Discovering Wuhan available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Discovering Wuhan available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
@@ -93,3 +93,7 @@ This article explains that as central China’s hub for transportation and indus
 [**The economic and environmental effects of the Beijing-Tianjin-Hebei Collaborative Development Strategy— taking Hebei Province as an example**](https://link.springer.com/article/10.1007/s11356-020-09790-1){:target="_blank"}
 
 This article describes the effects the Beijing-Tianjin-Hebei Collaborative Development Strategy has had on Hebei’s physical and human environment. Findings suggest that Hebei needs to boost its growth levels to be on par with that of Beijing and Tianjin. 
+
+
+
+*Last updated on Oct 2020*

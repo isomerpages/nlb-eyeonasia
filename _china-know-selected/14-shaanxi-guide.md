@@ -8,7 +8,7 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\shaanxi-guide.jpg" alt="shaanxi guide banner" style="width:800px;" />
 
-This is a selection of resources on Shaanxi available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Shaanxi available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
@@ -71,3 +71,7 @@ Shaanxi is considered one of the cradles of Chinese civilisation. 13 feudal dyna
 This video features the Terracotta army of the Qin dynasty. In March 1974, Chinese farmers digging a well unearthed the greatest archaeological find of the century – the buried Terracotta army. After coming across a life-sized human head made of clay in Xi’an, China, archaeologists were called in to investigate. What they found was extraordinary – thousands of life-like terracotta figures from the Qin dynasty, fashioned 2,000 years ago to protect the First Emperor of China in the afterlife.
 
 Source: BBC News
+
+
+
+*Last updated on Oct 2020*

@@ -8,7 +8,7 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\nanjing-guide.jpg" alt="nanjing guide banner" style="width:800px;" />
 
-This is a selection of resources on Nanjing available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Nanjing available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
@@ -63,3 +63,7 @@ Nanjing is an ancient city with a rapidly growing ageing population, shrinking w
 [**Discover Nanjing, China: One of the greatest capital cities of ancient times**](https://cityofnanjing.com/){:target="_blank"}
 
 The city of Nanjing is densely packed with historical richness, cultural heritage and natural beauty. This official website of the Nanjing Municipal Tourism Commission offers information on local history, culture, prominent landmarks, and food.
+
+
+
+*Last updated on Oct 2020*

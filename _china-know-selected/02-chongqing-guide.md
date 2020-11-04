@@ -8,7 +8,7 @@ collection_name: china-know-selected
 
 <img src="\images\china-selected\chongqing-guide.jpg" alt="chongqing guide banner" style="width:800px;" />
 
-This is a selection of resources on Chongqing available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Chongqing available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
@@ -75,3 +75,7 @@ This article from Xinhua News Agency provides a quick summary of how Chongqing a
 [**CQNEWS.net**](http://english.cqnews.net/){:target="_blank"}
 
 This is a key news portal on Chongqing which covers various news media such as *Chongqing Daily*, *Chongqing Evening News*, *Chongqing Morning Post* and *Chongqing Commercial Daily*.
+
+
+
+*Last updated on Oct 2020*

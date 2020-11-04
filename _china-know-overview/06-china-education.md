@@ -9,7 +9,7 @@ image: \images\china-overview\education.jpg
 
 <img src="\images\china-overview\education.jpg" alt="education banner" style="width:800px;" />
 
-This is a selection of resources on Education in China available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a [note](mailto:ref@nlb.gov.sg){:target="_blank"} so that we can share them with our readers.
+This is a selection of resources on Education in China available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
