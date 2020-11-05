@@ -71,3 +71,7 @@ Shaanxi is considered one of the cradles of Chinese civilisation. 13 feudal dyna
 This video features the Terracotta army of the Qin dynasty. In March 1974, Chinese farmers digging a well unearthed the greatest archaeological find of the century – the buried Terracotta army. After coming across a life-sized human head made of clay in Xi’an, China, archaeologists were called in to investigate. What they found was extraordinary – thousands of life-like terracotta figures from the Qin dynasty, fashioned 2,000 years ago to protect the First Emperor of China in the afterlife.
 
 Source: BBC News
+
+
+
+*Last updated on Oct 2020*

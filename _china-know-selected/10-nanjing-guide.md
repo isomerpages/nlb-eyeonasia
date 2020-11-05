@@ -42,9 +42,9 @@ Retrieved from EBSCOhost Business Source Complete. *myLibrary* ID is required to
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Nanjing opens up more innovation opportunities to Singapore firms**](https://sbr.com.sg/information-technology/news/nanjing-opens-more-innovation-opportunities-singapore-firms){:target="_blank"}
+[**Singapore businesses ink six deals in Nanjing, deepen ties**](https://www.straitstimes.com/asia/east-asia/singapore-businesses-ink-six-deals-in-nanjing-deepen-ties){:target="_blank"}
 
-This article explains the benefits of the Singapore-Nanjing Eco Hi-Tech Island to Singaporean businesses. These include allowing them to expand into China as well as trial solutions in sustainable urban management. 
+Six deals have been signed between Singapore companies and Chinese government organisations and enterprises, supporting Singapore start-ups hoping to expand into Nanjing. Singapore is one of Nanjing's largest investors, and other initiatives have also been put in place to encourage further collaboration between the two cities. 
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
@@ -63,3 +63,7 @@ Nanjing is an ancient city with a rapidly growing ageing population, shrinking w
 [**Discover Nanjing, China: One of the greatest capital cities of ancient times**](https://cityofnanjing.com/){:target="_blank"}
 
 The city of Nanjing is densely packed with historical richness, cultural heritage and natural beauty. This official website of the Nanjing Municipal Tourism Commission offers information on local history, culture, prominent landmarks, and food.
+
+
+
+*Last updated on Oct 2020*

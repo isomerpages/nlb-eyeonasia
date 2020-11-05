@@ -85,3 +85,7 @@ Following the signing of a memorandum between Singapore and Guangzhou in Novembe
 [**China Focus: Economic powerhouse Guangdong seeks innovative, high-quality development**](http://www.xinhuanet.com/english/2020-01/14/c_138704794.htm){:target="_blank"}
 
 This article describes the trends in Guangdong’s economic performance as well as the strategies it has adopted to bring about innovative, high-quality growth. 
+
+
+
+*Last updated on Oct 2020*
