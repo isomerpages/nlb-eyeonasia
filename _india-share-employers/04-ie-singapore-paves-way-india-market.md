@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: IE Singapore paves way for SMEs to break into India market
-permalink: /india/share/ie-singapore-paves-way-india-market/
-breadcrumb: IE Singapore paves way for SMEs to break into India market
+title: Enterprise Singapore paves way for SMEs to break into India market
+permalink: /india/share/enterprise-singapore-paves-way-india-market/
+breadcrumb: Enterprise Singapore paves way for SMEs to break into India market
 collection_name: india-share-employers
 ---
 

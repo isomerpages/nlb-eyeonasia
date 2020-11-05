@@ -68,21 +68,21 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/india/share/ie-singapore-paves-way-india-market/" class="project-link">
+			<a href="/india/share/enterprise-singapore-paves-way-india-market/" class="project-link">
 				<img src="\images\india-employers\ie-singapore-paves-way-india-market.jpg" alt="ie-singapore-paves-way-india-market" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>IE Singapore paves way for SMEs to break into India market</b></h5>
+					<h5><b>Enterprise Singapore paves way for SMEs to break into India market</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/india/share/what-employers-say/ie-singapore-signs-mou/" class="project-link">
+			<a href="/india/share/what-employers-say/enterprise-singapore-signs-mou/" class="project-link">
 				<img src="\images\india-employers\ie-singapore-signs-mou.jpg" alt="ie-singapore-signs-mou" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>IE Singapore signs MOU to help Singapore tech and innovation companies...</b></h5>
+					<h5><b>Enterprise Singapore signs MOU to help Singapore tech and innovation companies...</b></h5>
 				</div>
 			</div>
 			</a>
