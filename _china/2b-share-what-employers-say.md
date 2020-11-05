@@ -41,11 +41,11 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/share/what-employers-say/jumbo-expansion/" class="project-link">
+			<a href="/china/share/what-employers-say/jumbo-seafood-china-launch/" class="project-link">
 				<img src="\images\china-employers\jumbo-expansion.jpg" alt="jumbo-expansion" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Jumbo's appetite for expansion could prove good for growth</b></h5>
+					<h5><b>Jumbo Seafood launches seventh site in China</b></h5>
 				</div>
 			</div>
 			</a>
