@@ -9,7 +9,7 @@ second_nav_title: "Go"
 
 ![banner-singapore-communities-in-asean-countries](\images\shared\sg-communities-new.jpg)
 
-Connect with fellow Singaporeans based in ASEAN countries through these clubs, associations and communities. This is a selection of Singapore communities in ASEAN countries available from the Internet and is not meant to be an exhaustive list.
+Connect with fellow Singaporeans through this selection of Singapore communities in ASEAN countries available from the Internet and is not meant to be an exhaustive list.
 
 - [Brunei](#brunei)
 - [Cambodia](#cambodia)
@@ -22,18 +22,10 @@ Connect with fellow Singaporeans based in ASEAN countries through these clubs, a
 - [Singapore Missions in ASEAN countries](#singapore-missions-in-asean-countries)
 
 <hr/>
-### **Brunei**
-#### Singaporean expatriates in Brunei
-
-This website enables Singaporeans living and working in Brunei to connect and get in touch with other fellow Singaporeans based in the country.
-
-[http://www.expat.com/en/nationalities/singaporean/in/asia/brunei/](http://www.expat.com/en/nationalities/singaporean/in/asia/brunei/){:target="_blank"}
-
-<hr/>
 ### **Cambodia**
 The Singapore Club Cambodia based in Phnom Penh is a social club that aims to connect and reach out to Singaporeans living or working in Cambodia. To foster closer ties among Singaporean families in Cambodia, the club organises major events each year to celebrate Lunar New Year, National Day, Mid-Autumn Festival, Christmas and Family Day. The club also organises “Shiok Night” on the first Friday of every month for entrepreneurs, the Singaporean business community as well as non-Singaporeans to network and interact socially.
 
-[http://www.singaporeclubcambodia.com/](http://www.singaporeclubcambodia.com/){:target="_blank"}
+[**Find out more**](http://www.singaporeclubcambodia.com/){:target="_blank"}
 
 <hr/>
 ### **Indonesia**
