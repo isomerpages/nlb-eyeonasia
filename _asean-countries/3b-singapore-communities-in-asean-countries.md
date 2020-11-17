@@ -9,17 +9,13 @@ second_nav_title: "Go"
 
 ![banner-singapore-communities-in-asean-countries](\images\shared\sg-communities-new.jpg)
 
-Connect with fellow Singaporeans through this selection of Singapore communities in ASEAN countries available from the Internet and is not meant to be an exhaustive list.
+Connect with fellow Singaporeans through this selection of Singapore communities in ASEAN countries available from the Internet. This is not meant to be an exhaustive list.
 
-- [Brunei](#brunei)
 - [Cambodia](#cambodia)
 - [Indonesia](#indonesia)
-- [Malaysia](#malaysia)
-- [Myanmar](#myanmar)
-- [Philippines](#phiippines)
 - [Thailand](#thailand)
 - [Vietnam](#thailand)
-- [Singapore Missions in ASEAN countries](#singapore-missions-in-asean-countries)
+- [Singapore Overseas Missions](#singapore-overseas-missions)
 
 <hr/>
 ### **Cambodia**
@@ -76,7 +72,7 @@ Enterprise Singapore’s Overseas Centres offer assistance to Singaporean compan
 [**Find out more**](https://www.enterprisesg.gov.sg/contact/overseas-centres){:target="_blank"}
 
 <hr/>
-### **Singapore Overseas**
+### **Singapore Overseas Missions**
 
 The Ministry of Foreign Affairs provides the locations of Singapore’s overseas missions world-wide.
 
