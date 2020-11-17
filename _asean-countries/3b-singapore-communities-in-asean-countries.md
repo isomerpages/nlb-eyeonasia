@@ -59,7 +59,8 @@ VietCham Singapore supports the Vietnamese and Vietnam-related business communit
 
 [**Find out more**](https://www.vietchamsg.org){:target="_blank"}
 
-#### Enterprise Singapore Overseas Centres
+<hr/>
+### **Enterprise Singapore Overseas Centres**
 
 Enterprise Singapore’s Overseas Centres offer assistance to Singaporean companies that wish to venture into the region or are already operating from there.
 
