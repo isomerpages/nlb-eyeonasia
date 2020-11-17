@@ -9,14 +9,7 @@ second_nav_title: "Go"
 
 ![banner-singapore-communities-in-india](\images\china\sg-communities-new.jpg)
 
-Connect with fellow Singaporeans based in India through these clubs, associations and communities. This is a selection of Singapore communities in India available from the Internet and is not meant to be an exhaustive list.
-
-* [Enterprise Singapore Overseas Centres in India (Chennai, Mumbai, New Delhi)](#enterprise-singapore-overseas-centres-in-india-chennai-mumbai-new-delhi)
-* [Nanyang Technological University Alumni Association (Northern India)](#nanyang-technological-university-alumni-association-northern-india)
-* [Nanyang Technological University Alumni Association (Central India)](#nanyang-technological-university-alumni-association-central-india)
-* [Nanyang Technological University Alumni Association (Southern India)](#nanyang-technological-university-alumni-association-southern-india)
-* [Singaporean expatriates in India](#singaporean-expatriates-in-india)
-* [Singapore Missions in India](#singapore-missions-in-india)
+Connect with fellow Singaporeans through this selection of Singapore communities in India available from the Internet. This is not mean to be an exhaustive list. 
 
 <hr/>
 ### Enterprise Singapore Overseas Centres in India (Chennai, Mumbai, New Delhi)

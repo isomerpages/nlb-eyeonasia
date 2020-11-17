@@ -11,12 +11,6 @@ second_nav_title: "Go"
 
 Connect with fellow Singaporeans through this selection of Singapore communities in ASEAN countries available from the Internet. This is not meant to be an exhaustive list.
 
-- [Cambodia](#cambodia)
-- [Indonesia](#indonesia)
-- [Thailand](#thailand)
-- [Vietnam](#thailand)
-- [Singapore Overseas Missions](#singapore-overseas-missions)
-
 <hr/>
 ### **Cambodia**
 The Singapore Club Cambodia based in Phnom Penh is a social club that aims to connect and reach out to Singaporeans living or working in Cambodia. To foster closer ties among Singaporean families in Cambodia, the club organises major events each year to celebrate Lunar New Year, National Day, Mid-Autumn Festival, Christmas and Family Day. The club also organises “Shiok Night” on the first Friday of every month for entrepreneurs, the Singaporean business community as well as non-Singaporeans to network and interact socially.
