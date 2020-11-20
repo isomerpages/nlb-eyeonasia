@@ -15,15 +15,26 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### **Upcoming Event**
+<!--### **Upcoming Event**
 
 <h5><b>Sand and Skyscrapers – Understanding the United Arab Emirates</b></h5>
-<a href="/events/upcoming-events/18-nov-2020/"><img src="\images\past-events\18-Nov-2020\Nov event banner.jpg" style="width:800px;" /></a>
+<a href="/events/upcoming-events/18-nov-2020/"><img src="\images\past-events\18-Nov-2020\EOA Nov 2020 Speaker Photo.jpg" style="width:800px;" /></a-->
 
 ### **Past Events**
 
 <div>
 	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/18-nov-2020/" class="project-link">
+				<img src="\images\past-events\18-Nov-2020\EOA Nov 2020 Speaker Photo.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Sand and Skyscrapers – Understanding the United Arab Emirates</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/16-sep-2020/" class="project-link">
 				<img src="\images\past-events\16-Sep-2020\Eye on Asia Eventbrite 16 Sep 2020 small.jpg" class="project-image">
@@ -34,7 +45,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-		<br>
 	</div>
 </div>
 
