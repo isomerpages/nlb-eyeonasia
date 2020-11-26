@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Artificial Intelligence in China
+title: Artificial intelligence in China
 permalink: /china/know/overview-of-china/artificial-intelligence/
 breadcrumb: Artificial Intelligence in China
 collection_name: china-know-overview
@@ -9,7 +9,7 @@ image: \images\china-overview\artificial-intelligence.jpg
 
 <img src="\images\china-overview\artificial-intelligence.jpg" alt="artificial intelligence banner" style="width:800px;" />
 
-This is a selection of resources on Artificial Intelligence in China available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
+This is a selection of resources on artificial intelligence in China available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
