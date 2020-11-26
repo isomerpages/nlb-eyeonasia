@@ -42,7 +42,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-young-people-say/modern-history-of-singapore-and-china-through-story-of-yanxi-palace-and-the-little-nyonya" class="project-link">
-				<img src="\images\modern-history-of-singapore-and-china.png" class="project-image">
+				<img src="\images\china-youngpeople\modern-history-of-singapore-and-china.png" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Modern history through ‘Story of Yanxi Palace’ and ‘The Little Nyonya’</b></h5>

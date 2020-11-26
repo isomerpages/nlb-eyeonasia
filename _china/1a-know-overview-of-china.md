@@ -39,7 +39,6 @@ Read on and wonder no more.
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -47,7 +46,7 @@ Read on and wonder no more.
 				<img src="/images/china-overview/artificial-intelligence.jpg" alt="artificial-intelligence" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Artificial Intelligence in China</b></h5>
+					<h5><b>Artificial intelligence in China</b></h5>
 				</div>
 			</div>
 			</a>
@@ -57,7 +56,7 @@ Read on and wonder no more.
 				<img src="/images/china-overview/social-commerce.jpg" alt="social-commerce" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Social Commerce in China</b></h5>
+					<h5><b>Social commerce in China</b></h5>
 				</div>
 			</div>
 			</a>
@@ -65,8 +64,8 @@ Read on and wonder no more.
 	</div>
 </div>
 
-<p><p>
 
+<p><p>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -84,13 +83,14 @@ Read on and wonder no more.
 				<img src="/images/china-overview/sustainability.jpg" alt="sustainability" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Sustainability and Green Initiatives in China</b></h5>
+					<h5><b>Sustainability and green initiatives in China</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 	</div>
 </div>
+
 
 <p><p>
 
