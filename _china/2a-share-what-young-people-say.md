@@ -22,7 +22,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				</div>
 			</div>
 			</a>
-			
+
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-young-people-say/fintech-landscape-in-china/" class="project-link">
@@ -181,7 +181,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="/images/china-youngpeople/shanghai-learning-journey-small.jpg" alt="Learning journey to the world-class Shanghai International..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Learning journey to the world-class Shanghai International Port</b></h5>
+					<h5><b>Learning journey to the world-class Shanghai International...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -191,7 +191,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="/images/china-youngpeople/yangshan-deepwater-port-small.jpg" alt="Student experience: A fascinating visit to the..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Student experience - A fascinating visit to the Yangshan Deepwater Port</b></h5>
+					<h5><b>Student experience: A fascinating visit to the...</b></h5>
 				</div>
 			</div>
 			</a>
@@ -208,7 +208,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="/images/china-youngpeople/yangshan-oil-storage-small.jpg" alt="Student observations on the largest crude oil storage and..." class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Student observations on the largest crude oil storage and transport facility in the region</b></h5>
+					<h5><b>Student observations on the largest crude oil storage and...</b></h5>
 				</div>
 			</div>
 			</a>
