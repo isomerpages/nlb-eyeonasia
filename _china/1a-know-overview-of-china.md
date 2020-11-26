@@ -111,7 +111,7 @@ Read on and wonder no more.
 				<img src="/images/china-overview/discovering-china-history-small.jpg" alt="Discovering China History" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Discovering China's History</b></h5>
+					<h5><b>Discovering China's history</b></h5>
 				</div>
 			</div>
 			</a>
