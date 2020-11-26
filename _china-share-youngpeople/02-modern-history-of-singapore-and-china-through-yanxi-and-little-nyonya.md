@@ -6,7 +6,7 @@ breadcrumb: Modern history of Singapore and China through Story of Yanxi Palace 
 collection_name: china-share-youngpeople
 ---
 
-<img src="\images\china-youngpeople\modern-history-of-singapore-and-china.jpg" style="width:800px;" />
+<img src="\images\china-youngpeople\modern-history-of-singapore-and-china.png" style="width:800px;" />
 
 **This text is reproduced with permission:**
 
