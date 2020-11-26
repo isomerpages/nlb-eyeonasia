@@ -24,7 +24,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/share/china-youngpeople/fintech-landscape-in-china/" class="project-link">
+			<a href="/china/share/what-young-people-say/fintech-landscape-in-china/" class="project-link">
 				<img src="\images\china-youngpeople\fintech-landscape-in-china.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
