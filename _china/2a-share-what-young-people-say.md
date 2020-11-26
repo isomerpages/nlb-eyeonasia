@@ -45,7 +45,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				<img src="\images\modern-history-of-singapore-and-china.png" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Modern history of Singapore and China through ‘Story of Yanxi Palace’ and ‘The Little Nyonya’</b></h5>
+					<h5><b>History of Singapore and China through ‘Story of Yanxi Palace’ and ‘The Little Nyonya’</b></h5>
 				</div>
 			</div>
 			</a>
