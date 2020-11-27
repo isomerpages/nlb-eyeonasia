@@ -27,7 +27,6 @@ collection_name: about
 </style>
 
 <img src="\images\resource-centre-banner.jpg" alt="resource centre banner" style="width:800px;" />
-
 <br>
 Located at Level 7 of the National Library Building (100 Victoria Street, Singapore 188064), the **Eye on Asia Resource Centre** showcases the National Library’s collections and resources related to ASEAN countries, China and India, which have been curated by our reference librarians.
 
