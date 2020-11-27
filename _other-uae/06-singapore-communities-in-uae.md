@@ -8,22 +8,14 @@ collection_name: other-uae
 
 ![banner-singapore-communities-in-india](\images\china\sg-communities-new.jpg)
 
-Connect with fellow Singaporeans based in the UAE through these clubs, associations and communities. This is a selection of Singapore communities in UAE available from the Internet and is not meant to be an exhaustive list.
-
-<hr/>
-### Enterprise Singapore Overseas Centres in Dubai
-
-Enterprise Singapore’s Overseas Centre in Dubai, United Arab Emirates, provides assistance to Singapore companies that wish to venture into the UAE or are already operating there.
-
-[Find out more](https://www.enterprisesg.gov.sg/contact/overseas-centres#uae){:target="_blank"}
+Connect with fellow Singaporeans through this selection of Singapore communities in the UAE available from the Internet. This is not meant to be an exhaustive list.
 
 <hr/>
 ### Singapore Business Council
 
 The Singapore Business Council is a non-profit organisation bridging Singaporeans, expats, enterprises and communities in the United Arab Emirates. It was established with the support of the Embassy of Singapore in Abu Dhabi and Consulate General of Singapore in Dubai.
 
-[Find out more](http://sbcuae.org/){:target="_blank"}<br>
-[LinkedIn](https://www.linkedin.com/company/sbcuae){:target="_blank"}
+[Find out more](http://sbcuae.org/){:target="_blank"}
 
 <hr/>
 ### Singapore Community Events in the UAE
@@ -40,26 +32,15 @@ The Singapore Malay-Muslim Group is an informal non-profit organisation founded 
 [Find out more](https://www.facebook.com/smgdxb/){:target="_blank"}
 
 <hr/>
-### SMU Alumni Chapter in the UAE
+### Enterprise Singapore Overseas Centres
 
-The SMU Alumni Chapter in the UAE engages the community of SMU’s alumni in the United Arab Emirates and keeps them connected with one another.
+Enterprise Singapore’s Overseas Centres offer assistance to Singaporean companies that wish to venture into the region or are already operating from there.
 
-[Find out more](https://alumni.smu.edu.sg/alumni-chapters){:target="_blank"}<br>
-Imran Manasawala, Co-President, Dubai <mailto:imran@faglass.com><br>
-Nadir Ali Zafar, Co-President, Abu Dhabi <mailto:nadir.zafar@gmail.com> 
+[Find out more](https://www.enterprisesg.gov.sg/contact/overseas-centres){:target="_blank"}
 
 <hr/>
-### NTU Alumni Association (Gulf Cooperation Council)
+### Singapore Overseas Missions
 
-The NTU Alumni Association (Gulf Cooperation Council) serves the alumni in the GCC and also alumni who are looking towards living and working in the region.
+The Ministry of Foreign Affairs provides the locations of Singapore’s overseas missions world-wide.
 
-[Find out more](https://www.ntu.edu.sg/Alumni/associations/Overseas-Based-web/Pages/gcc.aspx){:target="_blank"}
-
-<hr/>
-### Singapore Missions in the United Arab Emirates
-
-We have listed the contact details of the Singapore Missions in the United Arab Emirates (UAE) in the table below.
-
-| **Singapore Missions in the UAE** | **Contact** |
-| Singapore Embassy in Abu Dhabi | <mailto:singemb_auh@mfa.sg> |
-| Singapore Consulate-General in Dubai | <mailto:singcg_dxb@mfa.sg> |
+[Find out more](https://www.mfa.gov.sg/Overseas-Missions){:target="_blank"}
