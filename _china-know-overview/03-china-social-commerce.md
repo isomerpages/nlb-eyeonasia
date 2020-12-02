@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Social Commerce in China
+title: Social commerce in China
 permalink: /china/know/overview-of-china/social-commerce/
 breadcrumb: Social Commerce in China
 collection_name: china-know-overview
@@ -9,7 +9,7 @@ image: \images\china-overview\social-commerce.jpg
 
 <img src="\images\china-overview\social-commerce.jpg" alt="social commerce banner" style="width:800px;" />
 
-This is a selection of resources on Social Commerce in China available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
+This is a selection of resources on social commerce in China available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
