@@ -8,7 +8,7 @@ collection_name: china-know-overview
 
 <img src="\images\china-overview\SG-China-relations.png" alt="SG-China 30 years diplomatic relations" style="width:800px;" />
 
-2020 marks the 30th anniversary of the establishment of diplomatic relations between Singapore and China. 30 Years of Singapore-China Diplomatic Relations is a commemorative microsite by Business China that traces the development of bilateral relations between both countries over the past 30 years in six parts, such as Singapore business ventures in China, partnerships in the region and people-to-people exchange. 
+This year 2020 marks the 30th anniversary of the establishment of diplomatic relations between Singapore and China. 30 Years of Singapore-China Diplomatic Relations is a commemorative microsite by Business China that traces the development of bilateral relations between both countries over the past 30 years in six parts, such as Singapore business ventures in China, partnerships in the region and people-to-people exchange. 
 
 Contents featured in the website include trade relations between Singapore and China, opportunities in China available for Singaporeans, Sino-Singapore collaborations in the areas of sustainability and financial cooperation and the expansion journey of local companies like CapitaLand and Keppel Group to the Chinese market.
 
