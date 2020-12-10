@@ -43,7 +43,7 @@ Read on and wonder no more.
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/overview-of-china/30-years-of-singapore-china-diplomatic-relations/" class="project-link">
-				<img src="/images/china-overview/SG-China-relations.png" alt="SG-China 30 years diplomatic relations" class="project-image">
+				<img src="/images/china-overview/SG-China-relations-small.png" alt="SG-China 30 years diplomatic relations" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>30 years of Singapore-China diplomatic relations</b></h5>
