@@ -26,7 +26,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/13-jan-2021/" class="project-link">
-				<img src="\images\past-events\13-Jan-2021\EOA-Jan-2021-cover.jpg" class="project-image">
+				<img src="\images\past-events\13-Jan-2021\EOA-Jan-2021-cover-2.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Myanmar Venture Stories and Opportunities Post-COVID-19</b></h5>
