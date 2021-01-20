@@ -33,7 +33,7 @@ A youth development programme by the National Youth Council (NYC) which provides
 
 **Asia-Ready Exposure Programme Grant**
 
-Passionate about youth development? Have a project that provides exposure to ASEAN member states, China and India (ACI)? The NYC would like to invite you to apply for the Asia-Ready Exposure Programme (AEP) grant today!
+Passionate about youth development? Have a project that provides exposure to ASEAN member states, China and India (ACI)? The NYC would like to invite organisations who are based and registered in Singapore to apply for the Asia-Ready Exposure Programme (AEP) grant today!
 
 [Find out more](https://go.gov.sg/aepgrant){:target="_blank"}
 
