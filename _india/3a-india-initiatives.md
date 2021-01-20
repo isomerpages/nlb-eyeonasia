@@ -27,9 +27,15 @@ Singapore Business Federation (SBF), in partnership with Enterprise Singapore, h
 
 **Asia-Ready Exposure Programme**
 
-A youth development programme by the National Youth Council which provides short-term overseas immersion opportunities for youths to gain a more holistic understanding of the social and cultural contexts, and awareness of economic opportunities in ASEAN member states, China and India.
+A youth development programme by the National Youth Council (NYC) which provides short-term overseas immersion opportunities for youths to gain a more holistic understanding of the social and cultural contexts, and awareness of economic opportunities in ASEAN member states, China and India.
 
 [Find out more](https://www.nyc.gov.sg/en/initiatives/programmes/asia-ready-exposure-programme/){:target="_blank"}
+
+**Asia-Ready Exposure Programme Grant**
+
+Passionate about youth development? Have a project that provides exposure to ASEAN member states, China and India (ACI)? The NYC would like to invite organisations who are based and registered in Singapore to apply for the Asia-Ready Exposure Programme (AEP) grant today!
+
+[Find out more](https://go.gov.sg/aepgrant){:target="_blank"}
 
 ### **Singapore Business Federation**
 
