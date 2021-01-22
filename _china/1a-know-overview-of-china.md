@@ -197,7 +197,6 @@ Read on and wonder no more.
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -212,13 +211,14 @@ Read on and wonder no more.
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/know/overview-of-china/contemporary-china/" class="project-link">
-				<img src="/images/china-overview/contemporary-china-small.jpg" alt="Comtemporary China" class="project-image">
+				<img src="/images/china-overview/contemporary-china-small.jpg" alt="Contemporary China" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Comtemporary China</b></h5>
+					<h5><b>Contemporary China</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 	</div>
 </div>
+
