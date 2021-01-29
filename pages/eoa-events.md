@@ -15,10 +15,10 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--### **Upcoming Event**
+### **Upcoming Event**
 
 <h5><b>Myanmar Venture Stories and Opportunities Post-COVID-19</b></h5>
-<a href="/events/upcoming-events/13-jan-2021/"><img src="\images\past-events\13-Jan-2021\EOA-Jan-2021-cover.jpg" style="width:800px;" /></a-->
+<a href="/events/upcoming-events/13-jan-2021/"><img src="\images\past-events\13-Jan-2021\EOA-Jan-2021-cover.jpg" style="width:800px;" /></a>
 
 ### **Past Events**
 
