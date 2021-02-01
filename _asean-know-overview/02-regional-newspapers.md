@@ -12,4 +12,4 @@ Access the world’s leading newspapers and magazines from more than 100 countri
 
 > *Note: myLibrary ID is required to access PressReader.*
 
-<a href="http://eresources.nlb.gov.sg/Main/Browse?startsWith=P" target="blank"><button class="w3-btn w3-round-xxlarge">Find out more</button></a>
+<a href="https://eresources.nlb.gov.sg/main/browse/resource/1323" target="blank"><button class="w3-btn w3-round-xxlarge">Find out more</button></a>
