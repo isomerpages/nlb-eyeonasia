@@ -17,8 +17,11 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 ### **Upcoming Event**
 
-<h5><b>Myanmar Venture Stories and Opportunities Post-COVID-19</b></h5>
-<a href="/events/upcoming-events/13-jan-2021/"><img src="\images\past-events\13-Jan-2021\EOA-Jan-2021-cover.jpg" style="width:800px;" /></a>
+<h5><b>Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (Session 1 - ASEAN-Mekong Region and the UAE)</b></h5>
+<a href="/events/upcoming-events/03-mar-2021/"><img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 1.png" style="width:800px;" /></a>
+
+<h5><b>Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (Session 2 - China and India)</b></h5>
+<a href="/events/upcoming-events/04-mar-2021/"><img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 2.png" style="width:800px;" /></a>
 
 ### **Past Events**
 
