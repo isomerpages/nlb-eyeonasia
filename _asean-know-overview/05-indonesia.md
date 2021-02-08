@@ -15,13 +15,13 @@ This article provides an overview of Indonesia for those keen on exploring the p
 - **Official name:** Republic of Indonesia (Republik Indonesia)
 - **Capital:** Jakarta[^1]
 - **Geography:** 34 provinces
-- **Land area:** 1,916,862.20 sq km[^2]
-- **Population (2017):** 261.9 million[^3]
+- **Land area:** 1,916,906.77 sq km[^2]
+- **Population (2019):** 268.1 million[^3]
 - **Head of state:** President Joko Widodo (since October 2014)[^4]
 - **National language:** Bahasa Indonesia
 - **Currency:** Rupiah (IDR)[^5]
-- **GDP (2017):** IDR 13,588.8 trillion[^6]
-- **GDP per capita (2017):** IDR 51.9 million[^7]
+- **GDP (2019):** IDR 15,833.9 trillion[^6]
+- **GDP per capita (2019):** IDR 59.1 million[^7]
 
 ### **Introduction**
 
@@ -29,89 +29,67 @@ The Republic of Indonesia is located between the continents of Asia and Australi
 
 Apart from its vast territory, Indonesia has a dense population and is rich in natural resources. It is also rich in cultural diversity, with each region having its own unique cultural characteristics, local language, dance, custom and costume.[^9] On 2 October 2009, UNESCO inscribed Indonesian batik on its Representative List of the Intangible Cultural Heritage of Humanity.[^10]
 
-
-
 ### **Demographic profile**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Indonesia-chart-1-1570778692085.png" alt="Indonesia snapshot image 1" style="width:400px;" />Source: The World Bank, 2018.</div>
-Indonesia’s population reached 261.9 million in 2017, up from 258.7 million in 2016. The population growth rate was 1.34 percent.[^11] In 2017, the urban population made up 55.177 percent of the total population.[^12]The gender ratio for the total population for the same year was 1.01 males to one female.[^13]
-
-The most populous province in 2017 was West Java (48.0376 million), while the least populous province was West Papua (915,400), which is located in the far eastern region of Indonesia.[^14] According to its 2010 census, the largest ethnic group in Indonesia is Javanese (95.2 million), followed by Sundanese (36.7 million), Batak (8.5 million), Sulawesi (7.6 million), Madurese (7.2 million) and Betawi (6.8 million).[^15]
-
-  
+Indonesia’s population reached 268.1 million in 2019, up from 238.5 million in 2010. The population growth rate was 1.31 percent.[^11] The most populous province in 2019 was West Java (49.317 million), while the least populous province was West Papua (959,600), which is located in the far eastern region of Indonesia.[^12]
 
 **Economic profile**
 
-Indonesia is ASEAN’s largest economy.[^16] Its GDP in 2017 was IDR 13,588.8 trillion, a growth of more than nine percent from the IDR 12,406.8 trillion achieved in 2016.[^17] Since 2014, the Indonesian government has prioritised the development of infrastructure and industrial parks so as to promote the country as a manufacturing destination. These economic priorities are among the efforts made to revive the country’s economic growth prospects.[^18]
+Indonesia is ASEAN’s largest economy.[^13] Its GDP in 2019 was IDR 15,833.9 trillion, a growth of more than six percent from the IDR 14,838.3 trillion achieved in 2017[^14]  Since 2014, the Indonesian government has been pushing ahead with its plans to make Indonesia a manufacturing hub for Southeast Asia. In 2018, it launched the Making Indonesia 4.0 Roadmap, which aims to boost the industry’s competitiveness by incorporating major innovations such as artificial intelligence, robotics and sensor technology. The roadmap focuses on the capability upgrading of five manufacturing sectors, namely F&B, automotive, electronics, chemicals, and textile and garment.[^15]
 
- 
+ **Consumer market**
 
-**Consumer market**
-
-Indonesia is the fourth-largest consumer market in the world, in terms of population size, behind China, India and the United States. Indonesia’s mushrooming middle class is also becoming a dominant force within its consumer market. In 2014, about 35 percent of its population (88 million people) were classified as middle-class and affluent consumers. By 2020, the percentage is expected to reach 53 percent (141 million). Their household expenditure, which includes food, utilities, transportation, communications and other regular household supplies, exceeded IDR 2 million per month per household in the same year.
-
-Retail property developers, shopping malls and department stores are changing their overall shopping experience and product assortment to cater to the growing middle class. There has also been an influx of foreign investors such as Galeries Lafayette from France, Central from Thailand, Lotte from South Korea and Aeon and Sogo from Japan.[^19]
-
- 
+Indonesia is the fourth-largest consumer market in the world, in terms of population size, behind China, India and the United States. Indonesia’s mushrooming middle class is also becoming a dominant force within its consumer market. By 2020, urban consumers are expected to account for an estimated 57 percent of the country’s total population. These consumers are likely to spend more on necessities as well as discretionary items, such as travel, welfare, and leisure items on a per capita basis, and prioritise convenience, with a greater reliance on modern trade outlets and e-commerce deliveries.[^16] 
 
 **Tourism**
 
-Due to its location, Indonesia has a diverse landscape from “from the vibrant tourists’ paradises of Bali and Lombok to the mysteriously shrouded cultures of the Asmat in Papua and those who dwell the highlands of Toraja in South Sulawesi.” Apart from the natural landscapes, culturally it also offers a rich diversity of ancient temples and historical remnants, such as Borobudur Temple in Magelang, Central Java and the Prambanan Temple Compounds, which is located in Yogyakarta and is one of the biggest in Southeast Asia.
+Due to its location, Indonesia has a diverse landscape from “from the vibrant tourists’ paradises of Bali and Lombok to the mysteriously shrouded cultures of the Asmat in Papua and those who dwell the highlands of Toraja in South Sulawesi.” Apart from the natural landscapes, culturally it also offers a rich diversity of ancient temples and historical remnants, such as Borobudur Temple in Magelang, Central Java and the Prambanan Temple Compounds, which is located in Yogyakarta and is one of the biggest in Southeast Asia. The island of Bali is also a popular beach holiday destination among tourists.[^17]
 
-The island of Bali is also a popular beach holiday destination among tourists.[^20]
+International tourist arrivals in Indonesia reached 16.11 million in 2019, up from 15.81 million recorded in 2018.[^18] The country is eager to grow its tourism sector to boost revenue and help it diversify its sources of economic growth, which is currently largely dependent on commodities.[^19] It has invested in infrastructure development to enhance connectivity, including the development of new airports and harbours and upgrading existing airports and air navigation facilities. Additionally, the government has also allowed visa-free access to 169 countries to attract foreign visitors.[^20]
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Indonesia-chart-2.jpg" alt="Indonesia snapshot image 2" style="width:400px;" />Source: Badan Pusat Statistik, 2018. </div>
-International tourist arrivals in Indonesia reached 14.04 million in 2017, up from 11.52 million recorded in 2016.[^21] The country is eager to grow its tourism sector to boost revenue and help it diversify its sources of economic growth, which is currently largely dependent on commodities.[^22] It has invested in infrastructure development to enhance connectivity, including the development of new airports and harbours and upgrading existing airports and air navigation facilities. Additionally, the government has also allowed visa-free access to 169 countries to attract foreign visitors.[^23]
-
-Indonesia also promotes itself as a key halal destination in the region by developing areas such as Banda Aceh, Aceh Besar, Sabang, and Lake Laut Tawar.[^24] Apart from luring Muslim tourists, it is also seeking to develop international medical tourism.[^25]
-
-[^1]: ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from [http://asean.org](http://asean.org/asean/asean-member-states/){:target="_blank"}
-
-[^2]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^3]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 3*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^4]:Profil presiden  Republik Indonesia. (2017). *Kementerian Sekretariat Negara Republik Indonesia.* Retrieved October 17, 2017, from [http://indonesia.go.id](http://indonesia.go.id/?page_id=439){:target="_blank"}
-
-[^5]:ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 17, 2017, from [http://asean.org](http://asean.org/asean/asean-member-states/){:target="_blank"}
-
-[^6]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^7]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^8]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, pp. 3-4*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^9]:About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 17, 2017, from [http://www.bi.go.id](http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx){:target="_blank"}
-
-[^10]:UNESCO Jakarta marks “Batik Day” by wearing batik to work. (2017, October 3). *UNESCO Jakarta Regional Science Bureau for Asia and the Pacific.* Retrieved October 17, 2017, from (http://www.unesco.org)[http://www.unesco.org/new/en/jakarta/about-this-office/single-view/news/unesco_jakarta_marks_batik_day_by_wearing_batik_to_wor/]{:target="_blank"}
-[^11]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-[^12]:World development indicators. (2018). *The World Bank*. Retrieved September 11, 2018, from [https://data.worldbank.org](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?end=2016&locations=ID&start=1996&view=chart){:target="_blank"}
-
-[^13]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 87*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^14]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 85*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^15]:Kewarganegaraan, suku bangsa, agama dan bahasa sehari-hari penduduk Indonesia: Hasil sensus penduduk 2010. (2011). *Badan Pusat Statistik*, pp. 8-9. Retrieved September 11, 2018, from [http://demografi.bps.go.id](http://demografi.bps.go.id/phpfiletree/bahan/kumpulan_tugas_mobilitas_pak_chotib/Kelompok_1/Referensi/BPS_kewarganegaraan_sukubangsa_agama_bahasa_2010.pdf){:target="_blank"}; Yuniarni, S. (2016, July 16). Unity in diversity: Indonesia’s six largest ethnic groups. *Jakarta Globe.* Retrieved September 11, 2018, from [http://jakartaglobe.id](http://jakartaglobe.id/features/unity-diversity-indonesias-six-largest-ethnic-groups/){:target="_blank"}
-
-[^16]:Tan, G., & Ong, S. Y. (2017, September 30). Going east- Indonesia beyond Jakarta: Opportunities in Central and East Indonesia. *IE Insights. 30*. Retrieved October 17, 2017, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/-/media/IE-Singapore/Files/Publications/IE-Insights/Vol30_Indonesia_v5.ashx){:target="_blank"}
-
-[^17]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 2*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^18]:Lee, J. S. (2015, April 21). Indonesia’s new administration: Infrastructure and manufacturing opportunities. *IE Singapore.* Retrieved October 17, 2017, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/~/media/IE Singapore/Files/Publications/IE Insights/Vol 21 Indonesia New Administration Infrastructure and Manufacturing Opportunities.pdf){:target="_blank"}
-
-[^19]:ASEAN in focus: The Indonesian consumer market. (2017, February 15). *HKTDC Business.* Retrieved October 17, 2017, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X0A91HG/hktdc-research/ASEAN-in-Focus-The-Indonesian-Consumer-Market){:target="_blank"}
-
-[^20]:About Indonesia. (2018, July 17). *Ministry of Tourism, Republic of Indonesia.* Retrieved September 11, 2018, from [https://www.indonesia.travel](https://www.indonesia.travel/gb/en/general-information/about-indonesia){:target="_blank"}; Bali Indonesia. (2018). *Ministry of Tourism, Republic of Indonesia.* Retrieved September 11, 2018, from [https://www.indonesia.travel](https://www.indonesia.travel/gb/en/destinations/bali-nusa-tenggara/bali){:target="_blank"}
-
-[^21]:Statistik Indonesia 2018. (2018).  *Badan Pusat Statistik*, p. 377*.* Retrieved September 11, 2018, from [https://www.bps.go.id](https://www.bps.go.id/publication/2018/07/03/5a963c1ea9b0fed6497d0845/statistik-indonesia-2018.html){:target="_blank"}
-
-[^22]:Soeriaatmadja, W. (2017, April 12). Indonesia targets tourism growth to boost revenue. *The Straits Times.* Retrieved October 17, 2017, from [http://www.straitstimes.com](http://www.straitstimes.com/asia/se-asia/indonesia-targets-tourism-growth-to-boost-revenue){:target="_blank"}
-
-[^23]:Tourism sector Indonesia: Rising foreign exchange earnings. (2017, January 22). *Indonesia Investments.* Retrieved October 17, 2017, from [https://www.indonesia-investments.com](https://www.indonesia-investments.com/news/todays-headlines/tourism-sector-indonesia-rising-foreign-exchange-earnings/item7547?){:target="_blank"}
-
-[^24]:Ragavan, S. (2017, September 13). Indonesia targets China for promotion of halal tourism. *Asian Respondent.* Retrieved October 17, 2017, from [https://asiancorrespondent.com](https://asiancorrespondent.com/2017/09/indonesia-targets-china-promotion-halal-tourism/#rLrxiFBPbOYE3zq3.97){:target="_blank"}
-
-[^25]:Tourism and health ministries to develop medical tourism in Indonesia. (2017, September 27). *The Jakarta Post.* Retrieved October 17, 2017, from [https://www.thejakartapost.com](https://www.thejakartapost.com/travel/2017/09/27/tourism-and-health-ministries-to-develop-medical-tourism-in-indonesia.html){:target="_blank"}
+Indonesia also promotes itself as a key halal destination in the region by developing areas such as Banda Aceh, Aceh Besar, Sabang, and Lake Laut Tawar.[^21] Apart from luring Muslim tourists, it is also seeking to develop international medical tourism.[^22]
 
 ---
 ### **References**
+
+[^1]: ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 15, 2020 from [http://asean.org](http://asean.org/asean/asean-member-states/){:target="_blank"}
+
+[^2]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+
+[^3]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+
+[^4]: Presiden dan wakil presiden. (2020). *Portal Informasi Indonesia.* Retrieved October 15, 2020, from [http://indonesia.go.id](https://indonesia.go.id/profil/presiden-dan-wakil-presiden){:target="_blank"}
+
+[^5]: ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 15, 2020 from [http://asean.org](http://asean.org/asean/asean-member-states/){:target="_blank"} ↩
+
+[^6]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+
+[^7]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+
+[^8]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+
+[^9]: About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 15, 2020, from [http://www.bi.go.id](http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx){:target="_blank"}
+
+[^10]: UNESCO Jakarta marks “Batik Day” by wearing batik to work. (2017, October 3). *UNESCO Jakarta Regional Science Bureau for Asia and the Pacific.* Retrieved October 15, 2020, from [http://www.unesco.org](http://www.unesco.org/new/en/jakarta/about-this-office/single-view/news/unesco_jakarta_marks_batik_day_by_wearing_batik_to_wor/){:target="_blank"}
+[^11]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+[^12]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+
+[^13]: Indonesia. (2020). *The World Bank.* Retrieved October 15, 2020, from [https://www.worldbank.org](https://www.worldbank.org/en/country/indonesia/overview){:target="_blank"}
+
+[^14]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"} ↩
+
+[^15]: Khairul Anwar. (2019, June 7). Opportunities in Indonesia’s industry 4.0. *The Business Times.* Retrieved October 15, 2020, from [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg/asean-business/guides/opportunities-in-indonesias-industry-40){:target="_blank"}
+
+[^16]: ASEAN in focus: The Indonesian consumer market. (2017, February 15). *HKTDC Business.* Retrieved October 17, 2017, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X0A91HG/hktdc-research/ASEAN-in-Focus-The-Indonesian-Consumer-Market){:target="blank"}; Dawn of the digital age in Indonesia. (2020, January). *Deloitte.* Retrieved October 15, 2020, from [https://www2.deloitte.com](https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/consumer-business/sea-cb-indonesia-consumer-insights-2020.pdf){:target="blank"}
+
+[^17]: About Indonesia. (2018, July 17). *Ministry of Tourism, Republic of Indonesia.* Retrieved October 15, 2020, from [https://www.indonesia.travel](https://www.indonesia.travel/gb/en/general-information/about-indonesia){:target="blank"}; Bali Indonesia. (2018). *Ministry of Tourism, Republic of Indonesia.* Retrieved October 15, 2020, from [https://www.indonesia.travel](https://www.indonesia.travel/gb/en/destinations/bali-nusa-tenggara/bali){:target="_blank"}
+
+[^18]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"} ↩
+
+[^19]: Soeriaatmadja, W. (2017, April 12). Indonesia targets tourism growth to boost revenue. *The Straits Times.* Retrieved October 15, 2020, from [http://www.straitstimes.com](http://www.straitstimes.com/asia/se-asia/indonesia-targets-tourism-growth-to-boost-revenue){:target="_blank"}
+
+[^20]: Tourism sector Indonesia: Rising foreign exchange earnings. (2017, January 22). *Indonesia Investments.* Retrieved October 15, 2020, from [https://www.indonesia-investments.com](https://www.indonesia-investments.com/news/todays-headlines/tourism-sector-indonesia-rising-foreign-exchange-earnings/item7547){:target="_blank"}
+
+[^24]: Indonesia targets Chinese visitors with halal tourism promotion. (2017, August 26). *Jakarta Globe.* Retrieved October 15, 2020 from [https://jakartaglobe.id](https://jakartaglobe.id/news/indonesia-targets-chinese-visitors-with-halal-tourism-promotion/){:target="_blank"}
+
+[^25]: Tourism and health ministries to develop medical tourism in Indonesia. (2017, September 27). *The Jakarta Post.* Retrieved October 15, 2020, from [https://www.thejakartapost.com](https://www.thejakartapost.com/travel/2017/09/27/tourism-and-health-ministries-to-develop-medical-tourism-in-indonesia.html){:target="_blank"}

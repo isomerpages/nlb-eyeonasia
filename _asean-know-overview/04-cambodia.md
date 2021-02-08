@@ -16,12 +16,12 @@ This article provides an overview of Cambodia for those keen on exploring the po
 - **Capital:** Phnom Penh[^2]
 - **Geography:** 25 provinces[^3]
 - **Land Area:**  181,035 sq km[^4]
-- **Population (2016):** 15.158 million[^5]
-- **Head of Government:** King Norodom Sihamoni[^6]
+- **Population (2019):** 15.288 million[^5]
+- **Head of state:** President Norodom Sihamoni[^6]
 - **Official Language:** Khmer[^7]
 - **Currency:** Riel[^8]
-- **GDP (2016):** 81,242 billion Riels[^9]
-- **GDP Per Capita (2016):** 5,359.6 Riels[^10]
+- **GDP (2019):** 99,544 billion Riels[^9]
+- **GDP Per Capita (2018):** 6.323 million Riels[^10]
 
 ### **Introduction**
 
@@ -31,49 +31,42 @@ Cambodia, located on the Indochinese mainland of Southeast Asia, is a land of pl
 
 Phnom Penh, once known as the “Pearl of Asia”, is the capital and largest city of Cambodia. It is an economic, commercial, cultural and tourist centre.[^12] Battambang is Cambodia’s second-largest city and the capital of Battambang Province, which was founded in the 11th century. It is a secondary hub along the overland route between Thailand and Vietnam.[^13] Siem Reap is a vibrant city where the glorious 12th Century Angkor Wat temple, the largest religious building in the world and a UNESCO World Heritage Site, is located.[^14]
 
-### **Economic Profile**
+### **Economy**
 
-Cambodia has achieved high economic growth and poverty reduction in the last two decades, mainly driven by the garment exports and tourism industries. Cambodia’s economy grew at an average rate of 7.6 percent from 1994 to 2015, ranking sixth in the world in terms of economic growth. This strong growth resulted in the significant decline of the poverty rate, from 47.8 percent in 2007 to 13.5 percent in 2014. Despite Cambodia’s achievements in economic growth and improved living standards for its people, challenges still lie ahead as the country aspires toward a more competitive economy, as well as increasing productivity, building strong and effective institutions and expanding opportunities for all Cambodians.[^15]
+Driven by garment exports and tourism, Cambodia’s economy has sustained an average growth rate of eight percent between 1998 and 2018, making it one of the fastest-growing economies in the world. While easing slightly, growth remained strong, estimated to have reached 7.1 percent in 2019, after the better-than-expected growth rate of 7.5 percent in 2018.[^15] The agriculture and service sector make up the bulk of the Cambodian economy. Major agricultural products are rice, rubber, maize and cassava. The major industry of the manufacturing sector is apparel products, which make up the export sector.[^16] While the Cambodian economy continues to suffer from the impacts of the COVID-19 pandemic, there are signs that economic activity is beginning to pick up. According to the World Bank’s latest economic update for Cambodia, the economy was projected to contract by two percent in 2020 but is expected to bounce back and grow by four percent in 2021.[^17]
 
-### **Industries**
+### **Foreign Trade**
 
-In 2015, the primary industry occupied 26.18 percent of the total economy, with agriculture and the service sector at 29 percent and 39.43 percent respectively. Major agricultural products are rice, rubber, maize and cassava. The secondary and tertiary industries account for 22 and 38 percent of the total economy respectively. The major industry of the manufacturing sector is apparel products, which make up the export sector. Among the tertiary industries, tourism-related industries are highly important to the Cambodian economy.[^16]
-
-### **Foreign Trade & Investment**
-
-Both exports and imports have been expanding as a result of the high economic growth of Cambodia. As at July 2015, the exporting value was about US$5.35 billion which was an increase of more than 20.5 percent in comparison with the same period in 2014. The importing value reached a record of US$ 6.70 billion marking an increase of 17.2 percent compared to the same period in 2014. The primary export product is apparel, which accounted for more than 80 percent of total exports. The major import products are textiles, petroleum products and vehicles.[^17]
-
-With the aim of increasing exports and diversifying the economy, the Cambodian government launched a 10-year Industrial Development Policy in 2015, which was designed to attract investment and broaden the country’s manufacturing base. China is a major contributor under the policy as dozens of its enterprises have invested in building factories in Cambodia, especially in the Sihanoukville Special Economic Zone (SSEZ). According to the Council for the Development of Cambodia, China was the largest foreign investor in Cambodia in 2016.[^18]
+Both exports and imports have been expanding as a result of the high economic growth of Cambodia. The primary export product is apparel and the major import products are textiles, petroleum products and vehicles.[^18] Although total manufacturing exports have been hit by the pandemic, exports of bicycles, electrical parts and vehicle parts and accessories are rising, and exports of rice and other agricultural commodities have surged. Domestic tourists have supported a partial recovery of the travel and tourism industry. Foreign direct inflows to projects in non-garment industries and agriculture have been rising, likely attracted by Free Trade Agreements.[^19]
 
 ### **Tourism**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Cambodia-profile-new-chart-1.png" alt="Cambodia snapshot image 1" style="width:400px;" />Data source: Ministry of Tourism, Cambodia, 2017.</div>
+The most important service activity in Cambodia is tourism, and it is one of the major sources of overseas investment and the fastest-growing segment of the economy. Tourism is an important source of revenue as well as foreign exchange and has helped mitigate the effects of large trade deficits.[^20] The number of tourists visiting Cambodia steadily increased from 2.9 million in 2011 to around 5.6 million in 2017.[^21]
 
-The most important service activity in Cambodia is tourism, one of the major sources of overseas investment and the fastest-growing segment of the economy. Tourism has become an important source of revenue as well as foreign exchange and has helped mitigate the effects of large trade deficits. Much of this investment goes into constructing hotels, developing resorts and enhancing facilities serving tourists visiting the Angkor Wat and Phnom Penh.[^19]
-
-The number of tourists visiting Cambodia has been steadily increasing, from 2.9 million in 2011 to around 5.6 million in 2017.[^20] The Tourism Ministry of Cambodia aims to attract at least seven million foreign travellers to Cambodia annually by 2020.[^21]
+Due to the COVID-19 pandemic in 2020, international arrivals contracted by 74.1 percent in September 2020. Domestic tourists, however, have supported a gradual recovery of the travel and tourism industry in Cambodia. Thanks to the return of domestic tourists to the main tourist destinations, Cambodia’s tourism and travel sector has, since the second quarter of 2020, gradually recovered. Given expected lingering negative impacts of the pandemic on international travel, the tourism and hospitality industry will be dependent almost entirely on domestic travel and tourism activity for the foreseeable future. The industry is currently adapting to the post-lockdown travel and tourism services demanded by domestic visitors.[^22]
 
 ---
 ### **References**
 
-[^1]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
-[^2]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
-[^3]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
-[^4]: Cambodia Geography. (2018). Tourism of Cambodia. Retrieved June 26, 2018, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/about-cambodia/geography.htm){:target="_blank"}
-[^5]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [http://www.nis.gov.kh](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target="_blank"}
-[^6]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
-[^7]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
-[^8]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
-[^9]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [http://www.nis.gov.kh](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target="_blank"}
-[^10]: National Accounts 2016. (2018). Cambodia National Institute of Statistics. Retrieved July 16, 2018, from [http://www.nis.gov.kh](http://www.nis.gov.kh/nis/NA/NA2016_Tab.htm){:target="_blank"}
-[^11]: Cambodia. (2017, October 6). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
-[^12]: Phnom Penh – French Built City. (2017). Tourism Cambodia. Retrieved October 16, 2017, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/attractions/phnompenh.htm){:target="_blank"}
-[^13]: Battambang. (2017). Tourism Cambodia. Retrieved October 16, 2017, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/travelguides/provinces/battambang.htm){:target="_blank"}
-[^14]: Siem Reap. (2017). Siem Reap Tourism Website. Retrieved October 16, 2017, from [http://www.siemreap.me](http://www.siemreap.me/information/){:target="_blank"}
-[^15]: Cambodia: Sustaining strong growth for the benefit of all. (2017). World Bank Group. Retrieved October 16, 2017, from [https://openknowledge.worldbank.org](https://openknowledge.worldbank.org/bitstream/handle/10986/27149/Cambodia-SCD-May-9-SEPCO-05242017.pdf?sequence=5&isAllowed=y){:target="_blank"}
-[^16]: Economic Situation. (2017). Council for the Development of Cambodia. Retrieved October 16, 2017, from [http://www.cambodiainvestment.gov.kh](http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target="_blank"}
-[^17]: Economic Situation. (2017). Council for the Development of Cambodia. Retrieved October 16, 2017, from [http://www.cambodiainvestment.gov.kh](http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target="_blank"}
-[^18]: Cambodia: Sustaining strong growth for the benefit of all. (2017). World Bank Group. Retrieved October 16, 2017, from [https://openknowledge.worldbank.org](https://openknowledge.worldbank.org/bitstream/handle/10986/27149/Cambodia-SCD-May-9-SEPCO-05242017.pdf?sequence=5&isAllowed=y){:target="_blank"}
-[^19]: Cambodia Services. (2017). Encyclopedia Britannica. Retrieved October 16, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia/Trade){:target="_blank"}
-[^20]: Tourism Statistics Report. (2017). Ministry of Tourism, Cambodia. Retrieved July 16, 2018, from [http://cambodia-tourism.org](http://cambodia-tourism.org/my_content/uploads/2018/06/tourism_statistics_2017.pdf){:target="_blank"}
-[^21]: Key figures and their forecasts for Cambodia’s economy in 2017. (2016, December 30). Khmer Times. Retrieved October 16, 2017, from [http://www.khmertimeskh.com](http://www.khmertimeskh.com/news/33767/key-figures-and-their-forecasts-for-cambodia—s-economy-in-2017/){:target="_blank"}
+[^1]: Cambodia. (2021). *Encyclopedia Britannica.* Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
+[^2]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
+[^3]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
+[^4]: Cambodia Geography. (2021). *Tourism of Cambodia*. Retrieved January 25, 2021, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/about-cambodia/geography.htm){:target="_blank"}
+[^5]: General Population Census of the Kingdom of Cambodia 2019. (2019, June). *National Institute of Statistics, Cambodia.* Retrieved January 25, 2021, from [https://www.nis.gov.kh](https://www.nis.gov.kh/nis/Census2019/Provisional Population Census 2019_English_FINAL.pdf){:target="_blank"}
+[^6]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
+[^7]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
+[^8]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
+[^9]: National Accounts 2018. (2019, October). *Cambodia National Institute of Statistics*. Retrieved January 25, 2021, from [http://www.nis.gov.kh](https://www.nis.gov.kh/index.php/en/national-statistical-systems/official-statistics-of-cambodia/81-national-account-table){:target="_blank"}
+[^10]: National Accounts 2018. (2019, October). *Cambodia National Institute of Statistics*. Retrieved January 25, 2021, from [http://www.nis.gov.kh](https://www.nis.gov.kh/index.php/en/national-statistical-systems/official-statistics-of-cambodia/81-national-account-table){:target="_blank"}
+[^11]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
+[^12]: Phnom Penh – French Built City. (2021). *Tourism Cambodia*. Retrieved January 25, 2021, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/attractions/phnompenh.htm){:target="_blank"}
+[^13]: Battambang. (2021). *Tourism Cambodia*. Retrieved January 25, 2021, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/travelguides/provinces/battambang.htm){:target="_blank"}
+[^14]: Angkor. (2021). *UNESCO World Heritage List.* Retrieved January 25, 2021, from [https://whc.unesco.org](https://whc.unesco.org/en/list/668/){:target="_blank"}
+[^15]: The World Bank in Cambodia. (2021, October 14). *The World Bank*. Retrieved January 25, 2021, from [https://www.worldbank.org](https://www.worldbank.org/en/country/cambodia/overview){:target="_blank"}
+[^16]: Economic Situation. (2017). *Council for the Development of Cambodia*. Retrieved October 16, 2018, from [http://www.cambodiainvestment.gov.kh](http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target="_blank"}
+[^17]: Cambodia Economic Update: Restrained Recovery. (2020, November). *The World Bank*. Retrieved January 25, 2021, from [http://documents1.worldbank.org](http://documents1.worldbank.org/curated/en/986491608013945613/pdf/Cambodia-Economic-Update-Restrained-Recovery-Special-Focus-Adapting-to-COVID-19-in-an-Uncertain-World.pdf){:target="blank"} ; Cambodian economy hit hard by pandemic but projected to recover in 2021. *The World Bank*. Retrieved January 25, 2021, from [https://www.worldbank.org](https://www.worldbank.org/en/news/press-release/2020/12/15/cambodian-economy-hit-hard-by-pandemic-but-projected-to-recover-in-2021http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target="blank"}
+[^18]: Economic Situation. (2017). *Council for the Development of Cambodia*. Retrieved October 16, 2018, from [http://www.cambodiainvestment.gov.kh](http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.html){:target="_blank"}
+[^19]: Cambodia Economic Update: Restrained Recovery. (2020, November). *The World Bank*. Retrieved January 25, 2021, from [http://documents1.worldbank.org](http://documents1.worldbank.org/curated/en/986491608013945613/pdf/Cambodia-Economic-Update-Restrained-Recovery-Special-Focus-Adapting-to-COVID-19-in-an-Uncertain-World.pdf){:target="blank"}
+[^20]: Cambodia Services. (2017). *Encyclopedia Britannica.* Retrieved October 16, 2018, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia/Trade){:target="_blank"}
+[^21]: Tourism Statistics Report. (2017). *Ministry of Tourism, Cambodia.* Retrieved July 16, 2018, from [http://cambodia-tourism.org](http://cambodia-tourism.org/my_content/uploads/2018/06/tourism_statistics_2017.pdf){:target="_blank"}
+[^22]: Cambodia Economic Update: Restrained Recovery. (2020, November). *The World Bank*. Retrieved January 25, 2021, from [http://documents1.worldbank.org](http://documents1.worldbank.org/curated/en/986491608013945613/pdf/Cambodia-Economic-Update-Restrained-Recovery-Special-Focus-Adapting-to-COVID-19-in-an-Uncertain-World.pdf){:target="blank"} ↩
