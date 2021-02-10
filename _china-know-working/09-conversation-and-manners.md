@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: The art of conversation and manners in business China
+title: 'The art of conversation and manners in business China'
 permalink: /china/know/working-in-china/conversation-and-manners/
-breadcrumb: The art of conversation and manners in business China
-collection_name: china-know-working
+breadcrumb: 'The art of conversation and manners in business China'
+
 ---
+
 
 <img src="\images\china-working\art-of-conversation-and-manners.jpg" alt="conversation and manners" style="width:800px;" />
 
