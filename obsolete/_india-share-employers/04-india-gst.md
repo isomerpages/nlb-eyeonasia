@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Why India’s GST implementation is a boost for Singapore companies
+title: 'Why India’s GST implementation is a boost for Singapore companies'
 permalink: /india/share/what-employers-say/india-gst/
-breadcrumb: Why India’s GST implementation is a boost for Singapore companies
-collection_name: india-share-employers
+breadcrumb: 'Why India’s GST implementation is a boost for Singapore companies'
+
 ---
+
 
 <img src="\images\india-employers\india-gst.jpg" alt="india gst" style="width:800px;" />
 
