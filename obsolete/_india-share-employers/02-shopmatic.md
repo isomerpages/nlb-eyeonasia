@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Shopmatic discovers the key to unlocking India’s consumer market - mobile
+title: 'Shopmatic discovers the key to unlocking India’s consumer market - mobile'
 permalink: /india/share/what-employers-say/shopmatic/
-breadcrumb: Shopmatic discovers the key to unlocking India’s consumer market - mobile
-collection_name: india-share-employers
+breadcrumb: 'Shopmatic discovers the key to unlocking India’s consumer market - mobile'
+
 ---
+
 
 <img src="\images\india-employers\shopmatic.jpg" alt="shopmatic" style="width:800px;" />
 
