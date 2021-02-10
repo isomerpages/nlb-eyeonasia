@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: ASEAN Countries
+title: 'ASEAN Countries'
 permalink: /asean-countries/know/overview/
-breadcrumb: ASEAN Countries
-collection_name: asean-countries
+breadcrumb: 'ASEAN Countries'
+
 ---
+
 
 ![banner-asean-overview](\images\asean-countries\ASEAN banner new.jpg)
 
