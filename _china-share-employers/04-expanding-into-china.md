@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Expanding into China from Singapore - The 101s of market access via Suzhou
+title: 'Expanding into China from Singapore - The 101s of market access via Suzhou'
 permalink: /china/share/what-employers-say/expanding-into-china/
-breadcrumb: Expanding into China from Singapore - The 101s of market access via Suzhou
-collection_name: china-share-employers
+breadcrumb: 'Expanding into China from Singapore - The 101s of market access via Suzhou'
+
 ---
+
 
 <img src="\images\china-employers\expanding-into-china.jpg" alt="road-to-chongqing" style="width:800px;" />
 
