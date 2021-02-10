@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Abu Dhabi - A city profile
+title: 'Abu Dhabi - A city profile'
 permalink: /other-asian-countries/uae/abu-dhabi-a-city-profile/
-breadcrumb: Abu Dhabi - A city profile
-collection_name: other-uae
+breadcrumb: 'Abu Dhabi - A city profile'
+
 ---
+
 
 <img src="\images\uae\abu-dhabi-profile.jpg" alt="Abu Dhabi snapshot banner" style="width:800px;" />
 
