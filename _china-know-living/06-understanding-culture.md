@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Understanding Chinese culture
+title: 'Understanding Chinese culture'
 permalink: /china/know/living-in-china/understanding-chinese-culture/
-breadcrumb: Understanding Chinese culture
-collection_name: china-know-living
+breadcrumb: 'Understanding Chinese culture'
+
 ---
+
 
 <img src="\images\china-living\understanding-chinese-culture.jpg" alt="understanding chinese culture" style="width:800px;" />
 
