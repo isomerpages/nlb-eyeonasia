@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Singapore Communities in India
+title: 'Singapore Communities in India'
 permalink: /india/go/singapore-communities-in-india/
-breadcrumb: Singapore Communities in India
-collection_name: india
-second_nav_title: "Go"
+breadcrumb: 'Singapore Communities in India'
+third_nav_title: Go
+
 ---
+
 
 ![banner-singapore-communities-in-india](\images\china\sg-communities-new.jpg)
 
