@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Almaty
+title: 'Discovering Almaty'
 permalink: /other-asian-countries/central-asia/discovering-almaty/
-breadcrumb: Discovering Almaty
-collection_name: other-central-asia
+breadcrumb: 'Discovering Almaty'
+
 ---
+
 
 <img src="\images\central-asia\Discovering Almaty.jpg" alt="Almaty guide banner" style="width:800px;" />
 
