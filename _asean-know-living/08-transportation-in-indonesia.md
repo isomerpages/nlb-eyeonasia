@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transportation in Indonesia
+title: 'Transportation in Indonesia'
 permalink: /asean-countries/know/living-in-asean-countries/transportation-in-Indonesia/
-breadcrumb: Transportation in Indonesia
-collection_name: asean-know-living
+breadcrumb: 'Transportation in Indonesia'
+
 ---
+
 
 <img src="/images/asean-living/Transportation-Indonesia.jpg" alt="Transportation Indonesia banner" style="width:800px;" />
 
