@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Corporate Social Responsibility in India
+title: 'Corporate Social Responsibility in India'
 permalink: /india/know/working-in-india/csr-in-india/
-breadcrumb: Corporate Social Responsibility in India
-collection_name: india-know-working
+breadcrumb: 'Corporate Social Responsibility in India'
+
 ---
+
 
 <img src="\images\india-working\csr-in-india.jpg" alt="csr in india" style="width:800px;" />
 
