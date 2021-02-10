@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Tamil Nadu - A profile
+title: 'Tamil Nadu - A profile'
 permalink: /india/know/selected-india-states/tamil-nadu-profile/
-breadcrumb: Tamil Nadu - A profile
-collection_name: india-know-selected
+breadcrumb: 'Tamil Nadu - A profile'
+
 ---
+
 
 <img src="\images\india-selected\tamil-nadu-profile.jpg" alt="tamil nadu profile" style="width:800px;" />
 
