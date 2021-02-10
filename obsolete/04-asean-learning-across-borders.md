@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vietnam - Learning across borders
+title: 'Vietnam - Learning across borders'
 permalink: /asean-countries/share/what-young-people-say/vietnam-learning-across-borders/
-breadcrumb: Vietnam - Learning across borders
-collection_name: asean-share-youngpeople
+breadcrumb: 'Vietnam - Learning across borders'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Learning-across-borders.jpg" alt="Vietnam learning across borders banner" style="width:800px;" />
 
