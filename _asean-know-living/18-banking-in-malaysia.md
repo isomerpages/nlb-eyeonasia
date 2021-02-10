@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial services, banking and payment systems in Malaysia
+title: 'Financial services, banking and payment systems in Malaysia'
 permalink: /asean-countries/know/living-in-asean-countries/financial-banking-payment-in-malaysia/
-breadcrumb: Financial services, banking and payment systems in Malaysia
-collection_name: asean-know-living
+breadcrumb: 'Financial services, banking and payment systems in Malaysia'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Malaysia-Banking.jpg" alt="Malaysia banking banner" style="width:800px;" />
 
