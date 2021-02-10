@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Nur Sultan
+title: 'Discovering Nur Sultan'
 permalink: /other-asian-countries/central-asia/discovering-nur-sultan/
-breadcrumb: Discovering Nur Sultan
-collection_name: other-central-asia
+breadcrumb: 'Discovering Nur Sultan'
+
 ---
+
 
 <img src="\images\central-asia\nur-sultan-guide.jpg" alt="Nur Sultan guide banner" style="width:800px;" />
 
