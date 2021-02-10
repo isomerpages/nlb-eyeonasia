@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chinese etiquette and customs
+title: 'Chinese etiquette and customs'
 permalink: /china/know/living-in-china/etiquette-customs/
-breadcrumb: Chinese etiquette and customs
-collection_name: china-know-living
+breadcrumb: 'Chinese etiquette and customs'
+
 ---
+
 
 <img src="\images\china-living\etiquette-customs.jpg" alt="etiquette customs" style="width:800px;" />
 
