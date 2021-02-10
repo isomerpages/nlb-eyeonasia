@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Guangdong
+title: 'Discovering Guangdong'
 permalink: /china/know/china-municipalities-provinces/guangdong-guide/
-breadcrumb: Discovering Guangdong
-collection_name: china-know-selected
+breadcrumb: 'Discovering Guangdong'
+
 ---
+
 
 <img src="\images\china-selected\guangdong-guide.jpg" alt="guangdong guide banner" style="width:800px;" />
 
