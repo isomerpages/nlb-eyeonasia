@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Haryana - A profile
+title: 'Haryana - A profile'
 permalink: /india/know/selected-india-states/haryana-profile/
-breadcrumb: Haryana - A profile
-collection_name: india-know-selected
+breadcrumb: 'Haryana - A profile'
+
 ---
+
 
 <img src="\images\india-selected\haryana-profile.jpg" alt="haryana profile" style="width:800px;" />
 
