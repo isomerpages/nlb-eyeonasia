@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Road to Chongqing - Digital Silk Road through the Cloud
+title: 'Road to Chongqing - Digital Silk Road through the Cloud'
 permalink: /china/share/what-employers-say/road-to-chongqing/
-breadcrumb: Road to Chongqing - Digital Silk Road through the Cloud
-collection_name: china-share-employers
+breadcrumb: 'Road to Chongqing - Digital Silk Road through the Cloud'
+
 ---
+
 
 <img src="\images\china-employers\road-to-chongqing.jpg" alt="road-to-chongqing" style="width:800px;" />
 
