@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: China - A country profile
+title: 'China - A country profile'
 permalink: /china/know/overview-of-china/china-a-country-profile/
-breadcrumb: China - A country profile
-collection_name: china-know-overview
+breadcrumb: 'China - A country profile'
+
 ---
+
 
 <img src="\images\china-overview\china-profile.jpg" alt="china profile banner" style="width:800px;" />
 
