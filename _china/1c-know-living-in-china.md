@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Living in China
+title: 'Living in China'
 permalink: /china/know/living-in-china/
-breadcrumb: Living in China
-collection_name: china
-second_nav_title: "Know"
+breadcrumb: 'Living in China'
+third_nav_title: Know
+
 ---
+
 
 ![banner-china-living-in-china](\images\china-living\Living-in-China-new.jpg)
 
