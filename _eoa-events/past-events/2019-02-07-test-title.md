@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Blockchain for Ports and Shipping Industry in China
+title: 'Blockchain for Ports and Shipping Industry in China'
 permalink: /events/past-events/07-feb-2019/
-date: 2019-02-07
+date: 2019-02-07T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\07-Feb-2019\banner.jpg" alt="07-Feb-2019 banner" style="width:800px;" />
 
