@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Understanding healthcare in China
+title: 'Understanding healthcare in China'
 permalink: /china/know/living-in-china/understanding-healthcare/
-breadcrumb: Understanding healthcare in China
-collection_name: china-know-living
+breadcrumb: 'Understanding healthcare in China'
+
 ---
+
 
 <img src="\images\china-living\understanding-healthcare.jpg" alt="understanding healthcare" style="width:800px;" />
 
