@@ -1,9 +1,10 @@
 ---
-layout: post
-title: The Halal Travel Industry – Next Big Wave
+title: 'The Halal Travel Industry – Next Big Wave'
 permalink: /events/past-events/09-jan-2019/
-date: 2019-01-09
+date: 2019-01-09T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\09-Jan-2019\banner.jpg" alt="09-Jan-2019 banner" style="width:800px;" />
 
