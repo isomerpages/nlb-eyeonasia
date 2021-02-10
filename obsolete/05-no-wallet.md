@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: No wallet? Any problem?
+title: 'No wallet? Any problem?'
 permalink: /china/know/living-in-china/no-wallet-any-problem/
-breadcrumb: No wallet? Any problem?
-collection_name: china-know-living
+breadcrumb: 'No wallet? Any problem?'
+
 ---
+
 
 <img src="\images\china-living\no-wallet.jpg" alt="no wallet any problem" style="width:800px;" />
 
