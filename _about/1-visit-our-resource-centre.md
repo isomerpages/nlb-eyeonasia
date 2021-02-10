@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Visit our Resource Centre
+title: 'Visit our Resource Centre'
 permalink: /about/visit-our-resource-centre/
-breadcrumb: Visit our Resource Centre
-collection_name: about
+breadcrumb: 'Visit our Resource Centre'
+
 ---
+
 
 <style>
 .divTable{
