@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Indonesia's Economy Amidst COVID-19 - What Singapore Businesses Should Know
+title: 'Indonesia''s Economy Amidst COVID-19 - What Singapore Businesses Should Know'
 permalink: /asean-countries/share/what-employers-say/global-connect-sbf/
-breadcrumb: Indonesia's Economy Amidst COVID-19 - What Singapore Businesses Should Know
-collection_name: asean-share-employers
+breadcrumb: 'Indonesia''s Economy Amidst COVID-19 - What Singapore Businesses Should Know'
+
 ---
+
 
 <img src="\images\asean-employers\sbf-indo.png" alt="global connect" style="width:800px;" />
 
