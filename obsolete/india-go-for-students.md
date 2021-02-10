@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: For Students
-permalink: 
-breadcrumb: For Students
-collection_name: obsolete
-second_nav_title: "Go"
+title: 'For Students'
+permalink: null
+breadcrumb: 'For Students'
+third_nav_title: Go
+
 ---
+
 
 ![banner-for-students](\images\india-students\For-students-new.jpg)
 
