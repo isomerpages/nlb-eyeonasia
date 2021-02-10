@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Jiangsu
+title: 'Discovering Jiangsu'
 permalink: /china/know/china-municipalities-provinces/jiangsu-guide/
-breadcrumb: Discovering Jiangsu
-collection_name: china-know-selected
+breadcrumb: 'Discovering Jiangsu'
+
 ---
+
 
 <img src="\images\china-selected\jiangsu-guide.jpg" alt="jiangsu guide banner" style="width:800px;" />
 
