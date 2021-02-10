@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in Malaysia
+title: 'Business culture in Malaysia'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-malaysia/
-breadcrumb: Business culture in Malaysia
-collection_name: asean-know-working
+breadcrumb: 'Business culture in Malaysia'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Malaysia-Business-Culture.jpg" alt="Business culture Malaysia banner" style="width:800px;" />
 
