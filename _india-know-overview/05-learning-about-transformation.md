@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Learning about India’s transformation
+title: 'Learning about India’s transformation'
 permalink: /india/know/overview-of-india/learning-about-transformation/
-breadcrumb: Learning about India’s transformation
-collection_name: india-know-overview
+breadcrumb: 'Learning about India’s transformation'
+
 ---
+
 
 <img src="\images\india-overview\learning-about-transformation.jpg" alt="learning about transformation" style="width:800px;" />
 
