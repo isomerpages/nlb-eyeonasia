@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Kingsmen Creatives – Exhibiting a knack for staying ahead of the curve
+title: 'Kingsmen Creatives – Exhibiting a knack for staying ahead of the curve'
 permalink: /china/share/what-employers-say/kingsmen-creatives/
-breadcrumb: Kingsmen Creatives – Exhibiting a knack for staying ahead of the curve
-collection_name: china-share-employers
+breadcrumb: 'Kingsmen Creatives – Exhibiting a knack for staying ahead of the curve'
+
 ---
+
 
 <img src="\images\china-employers\kingsmen-creatives.jpg" alt="kingsmen creatives" style="width:800px;" />
 
