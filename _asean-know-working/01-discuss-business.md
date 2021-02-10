@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Listen - Discussing business in Southeast Asia
+title: 'Listen - Discussing business in Southeast Asia'
 permalink: /asean-countries/know/working-in-asean/discussing-business-in-sea/
-breadcrumb: Listen - Discussing business in Southeast Asia
-collection_name: asean-know-working
+breadcrumb: 'Listen - Discussing business in Southeast Asia'
+
 ---
+
 
 <img src="\images\asean-working\Discussing-Business-in-Southeast-Asia.jpg" alt="discussing business" style="width:800px;" />
 
