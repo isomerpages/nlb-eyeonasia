@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Micro 2000 Technology Pte Ltd – Tapping on readily available expert advice
+title: 'Micro 2000 Technology Pte Ltd – Tapping on readily available expert advice'
 permalink: /asean-countries/share/what-employers-say/micro-2000/
-breadcrumb: Micro 2000 Technology Pte Ltd – Tapping on readily available expert advice
-collection_name: asean-share-employers
+breadcrumb: 'Micro 2000 Technology Pte Ltd – Tapping on readily available expert advice'
+
 ---
+
 
 <img src="\images\asean-employers\micro-2000.jpg" alt="micro 2000 banner" style="width:800px;" />
 
