@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: CapitaLand – Building malls with a feel of Singapore
+title: 'CapitaLand – Building malls with a feel of Singapore'
 permalink: /china/share/what-employers-say/capitaland/
-breadcrumb: CapitaLand – Building malls with a feel of Singapore
-collection_name: china-share-employers
+breadcrumb: 'CapitaLand – Building malls with a feel of Singapore'
+
 ---
+
 
 <img src="\images\china-employers\capitaland.jpg" alt="capitaland" style="width:800px;" />
 
