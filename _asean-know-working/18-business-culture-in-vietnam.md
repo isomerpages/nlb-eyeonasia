@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in Vietnam
+title: 'Business culture in Vietnam'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-vietnam/
-breadcrumb: Business culture in Vietnam
-collection_name: asean-know-working
+breadcrumb: 'Business culture in Vietnam'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Vietnam-Business-Culture.jpg" alt="Business culture Vietnam banner" style="width:800px;" />
 
