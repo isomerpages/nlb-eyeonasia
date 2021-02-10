@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customs, costumes & etiquette in Malaysia
+title: 'Customs, costumes & etiquette in Malaysia'
 permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-malaysia/
-breadcrumb: Customs, costumes & etiquette in Malaysia
-collection_name: asean-know-living
+breadcrumb: 'Customs, costumes & etiquette in Malaysia'
+
 ---
+
 
 <img src="/images/asean-living/Customs-Malaysia.jpg" alt="Customs in Malaysia banner" style="width:800px;" />
 
