@@ -1,116 +1,111 @@
-title: National Library Board
-title-abbreviated: Eye on Asia
-description: Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore to provide resources for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities abroad. Focusing on ASEAN countries, China and India including emerging cities, you will discover a broad overview of useful resources to help you be more aware of developments in these countries as Singapore gears itself for the future economy.
-url: "https://www.eyeonasia.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Analytics
-google_analytics: UA-50449401-26
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'National Library Board'
+description: 'Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore to provide resources for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities abroad. Focusing on ASEAN countries, China and India including emerging cities, you will discover a broad overview of useful resources to help you be more aware of developments in these countries as Singapore gears itself for the future economy.'
+url: 'https://www.eyeonasia.gov.sg'
+google_analytics: null
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_programmes: true
-homepage_resources: false
-homepage_careers: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  about:
-    output: true
-  asean-countries:
-    output: true
-  asean-know-overview:
-    output: true
-  asean-know-living:
-    output: true
-  asean-know-working:
-    output: true
-  asean-share-youngpeople:
-    output: true
-  asean-share-employers:
-    output: true
-  asean-go-students:
-    output: true
-  asean-go-professionals:
-    output: true
-  china:
-    output: true
-  china-know-overview:
-    output: true
-  china-know-selected:
-    output: true
-  china-know-living:
-    output: true
-  china-know-working:
-    output: true
-  china-know-sharing:
-    output: true
-  china-share-youngpeople:
-    output: true
-  china-share-employers:
-    output: true
-  china-go-students:
-    output: true
-  china-go-professionals:
-    output: true
-  india:
-    output: true
-  india-know-overview:
-    output: true
-  india-know-selected:
-    output: true
-  india-know-living:
-    output: true
-  india-know-working:
-    output: true
-  india-share-youngpeople:
-    output: true
-  india-share-employers:
-    output: true
-  india-go-students:
-    output: true
-  india-go-professionals:
-    output: true
-  past-events:
-    output: true
-  events:
-    output: true
-  upcoming-events:
-    output: true
-  other-asian-countries:
-    output: true
-  other-uae:
-    output: true
-  other-central-asia:
-    output: true
-  eoa-events:
-    output: true
-  obsolete:
-    output: false
-
-# Resources and pagination
+    about:
+        output: true
+    asean-countries:
+        output: true
+    asean-know-overview:
+        output: true
+    asean-know-living:
+        output: true
+    asean-know-working:
+        output: true
+    asean-share-youngpeople:
+        output: true
+    asean-share-employers:
+        output: true
+    asean-go-students:
+        output: true
+    asean-go-professionals:
+        output: true
+    china:
+        output: true
+    china-know-overview:
+        output: true
+    china-know-selected:
+        output: true
+    china-know-living:
+        output: true
+    china-know-working:
+        output: true
+    china-know-sharing:
+        output: true
+    china-share-youngpeople:
+        output: true
+    china-share-employers:
+        output: true
+    china-go-students:
+        output: true
+    china-go-professionals:
+        output: true
+    india:
+        output: true
+    india-know-overview:
+        output: true
+    india-know-selected:
+        output: true
+    india-know-living:
+        output: true
+    india-know-working:
+        output: true
+    india-share-youngpeople:
+        output: true
+    india-share-employers:
+        output: true
+    india-go-students:
+        output: true
+    india-go-professionals:
+        output: true
+    past-events:
+        output: true
+    events:
+        output: true
+    upcoming-events:
+        output: true
+    other-asian-countries:
+        output: true
+    other-uae:
+        output: true
+    other-central-asia:
+        output: true
+    eoa-events:
+        output: true
+    obsolete:
+        output: false
 resources_name: events
 paginate: 12
-paginate_path: "/events/page:num"
-
+paginate_path: '/events/page:num'
 is_government: false
+favicon: /images/favicon-eoa.png
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
