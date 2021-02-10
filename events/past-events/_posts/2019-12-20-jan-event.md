@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Let’s Talk Social Impact - The Road Less Travelled Around ASEAN
+title: 'Let’s Talk Social Impact - The Road Less Travelled Around ASEAN'
 permalink: /events/past-events/14-jan-2020/
-date: 2020-01-14
+date: 2020-01-14T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\14-Jan-2020\EOA 14 Jan 2020_Image Banner 2.jpg" style="width:1000px;" />
 
