@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Powering lives with renewable solar energy
+title: 'Powering lives with renewable solar energy'
 permalink: /india/share/what-employers-say/powering-lives-solar-energy/
-breadcrumb: Powering lives with renewable solar energy
-collection_name: india-share-employers
+breadcrumb: 'Powering lives with renewable solar energy'
+
 ---
+
 
 <img src="\images\india-employers\powering-lives-solar-energy.jpg" alt="powering-lives-solar-energy" style="width:800px;" />
 
