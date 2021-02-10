@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Trentios – Building a “Made in Singapore” air-con brand
+title: 'Trentios – Building a “Made in Singapore” air-con brand'
 permalink: /asean-countries/share/what-employers-say/trentios/
-breadcrumb: Trentios – Building a “Made in Singapore” air-con brand
-collection_name: asean-share-employers
+breadcrumb: 'Trentios – Building a “Made in Singapore” air-con brand'
+
 ---
+
 
 <img src="\images\asean-employers\trentios.jpg" alt="trentios banner" style="width:800px;" />
 
