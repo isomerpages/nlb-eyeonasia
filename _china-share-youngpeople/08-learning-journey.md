@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Learning journey to Qingdao, Jinan and Beijing
+title: 'Learning journey to Qingdao, Jinan and Beijing'
 permalink: /china/share/what-young-people-say/learning-journey/
-breadcrumb: Learning journey to Qingdao, Jinan and Beijing
-collection_name: china-share-youngpeople
+breadcrumb: 'Learning journey to Qingdao, Jinan and Beijing'
+
 ---
+
 
 <img src="\images\china-youngpeople\Winter-Learning-Journey-Dec-2018.jpg" alt="learning journey" style="width:800px;" />
 
