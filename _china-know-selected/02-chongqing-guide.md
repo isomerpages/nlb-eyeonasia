@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Chongqing
+title: 'Discovering Chongqing'
 permalink: /china/know/china-municipalities-provinces/chongqing-guide/
-breadcrumb: Discovering Chongqing
-collection_name: china-know-selected
+breadcrumb: 'Discovering Chongqing'
+
 ---
+
 
 <img src="\images\china-selected\chongqing-guide.jpg" alt="chongqing guide banner" style="width:800px;" />
 
