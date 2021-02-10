@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in Laos
+title: 'Business culture in Laos'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-laos/
-breadcrumb: Business culture in Laos
-collection_name: asean-know-working
+breadcrumb: 'Business culture in Laos'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Laos-Business-Culture.jpg" alt="Business culture Laos banner" style="width:800px;" />
 
