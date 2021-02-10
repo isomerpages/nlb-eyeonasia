@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Riding the digital India wave with Shopmatic and Shopmonk
+title: 'Riding the digital India wave with Shopmatic and Shopmonk'
 permalink: /india/share/what-employers-say/digital-wave/
-breadcrumb: Riding the digital India wave with Shopmatic and Shopmonk
-collection_name: india-share-employers
+breadcrumb: 'Riding the digital India wave with Shopmatic and Shopmonk'
+
 ---
+
 
 <img src="\images\india-employers\digital-wave.jpg" alt="digital wave" style="width:800px;" />
 
