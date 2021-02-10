@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Mega barge paves the way for HSL to regional markets
+title: 'Mega barge paves the way for HSL to regional markets'
 permalink: /asean-countries/share/what-employers-say/hsl-regional-markets/
-breadcrumb: Mega barge paves the way for HSL to regional markets
-collection_name: asean-share-employers
+breadcrumb: 'Mega barge paves the way for HSL to regional markets'
+
 ---
+
 
 <img src="\images\asean-employers\hsl.jpg" alt="hsl banner" style="width:800px;" />
 
