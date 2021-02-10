@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Architecture in India
+title: 'Architecture in India'
 permalink: /india/know/living-in-india/architecture-in-india/
-breadcrumb: Architecture in India
-collection_name: india-know-living
+breadcrumb: 'Architecture in India'
+
 ---
+
 
 <img src="\images\india-living\architecture-in-india.jpg" alt="architecture in india" style="width:800px;" />
 
