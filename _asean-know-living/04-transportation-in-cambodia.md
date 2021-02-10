@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transportation in Cambodia
+title: 'Transportation in Cambodia'
 permalink: /asean-countries/know/living-in-asean-countries/transportation-in-Cambodia/
-breadcrumb: Transportation in Cambodia
-collection_name: asean-know-living
+breadcrumb: 'Transportation in Cambodia'
+
 ---
+
 
 <img src="/images/asean-living/Transportation-Cambodia.jpg" alt="Transportation Cambodia banner" style="width:800px;" />
 
