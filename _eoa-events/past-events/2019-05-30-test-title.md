@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Traditional to Trendy - Ya Kun’s Journey of Internationalisation and Branding
+title: 'Traditional to Trendy - Ya Kun’s Journey of Internationalisation and Branding'
 permalink: /events/past-events/30-may-2019/
-date: 2019-05-30
+date: 2019-05-30T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\30-May-2019\banner.jpg" alt="30-May-2019 banner" style="width:800px;" />
 
