@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: YHI International – From distributor to manufacturer
+title: 'YHI International – From distributor to manufacturer'
 permalink: /asean-countries/share/what-employers-say/yhi-international/
-breadcrumb: YHI International – From distributor to manufacturer
-collection_name: asean-share-employers
+breadcrumb: 'YHI International – From distributor to manufacturer'
+
 ---
+
 
 <img src="\images\asean-employers\yhi-international.jpg" alt="yhi international banner" style="width:800px;" />
 
