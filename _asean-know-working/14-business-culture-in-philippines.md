@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in the Philippines
+title: 'Business culture in the Philippines'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-philippines/
-breadcrumb: Business culture in the Philippines
-collection_name: asean-know-working
+breadcrumb: 'Business culture in the Philippines'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Philippines-Business-Culture.jpg" alt="Business culture Philippines banner" style="width:800px;" />
 
