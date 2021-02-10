@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: India’s consumer market and culture
+title: 'India’s consumer market and culture'
 permalink: /india/know/working-in-india/consumer-market/
-breadcrumb: India’s consumer market and culture
-collection_name: india-know-working
+breadcrumb: 'India’s consumer market and culture'
+
 ---
+
 
 <img src="\images\india-working\consumer-market.jpg" alt="consumer market" style="width:800px;" />
 
