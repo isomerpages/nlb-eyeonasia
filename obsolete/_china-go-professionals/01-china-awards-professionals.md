@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Awards and other programmes (for young professionals)
-permalink: 
-breadcrumb: Awards and other programmes (for young professionals)
-collection_name: obsolete
+title: 'Awards and other programmes (for young professionals)'
+permalink: null
+breadcrumb: 'Awards and other programmes (for young professionals)'
+
 ---
+
 
 <img src="\images\asean-professionals\awards-professionals.jpg" alt="awards professionals banner" style="width:800px;" />
 
