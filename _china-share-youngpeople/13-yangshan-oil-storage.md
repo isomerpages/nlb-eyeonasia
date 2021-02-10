@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Student observations on the largest crude oil storage and transport facility in the region
+title: 'Student observations on the largest crude oil storage and transport facility in the region'
 permalink: /china/share/what-young-people-say/yangshan-oil-storage/
-breadcrumb: Student observations on the largest crude oil storage and transport facility in the region
-collection_name: china-share-youngpeople
+breadcrumb: 'Student observations on the largest crude oil storage and transport facility in the region'
+
 ---
+
 
 <img src="\images\china-youngpeople\yangshan-oil-storage.jpg" alt="yangshan oil storage" style="width:800px;" />
 
