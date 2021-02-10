@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Laos
+title: 'Housing in Laos'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-laos/
-breadcrumb: Housing in Laos	
-collection_name: asean-know-living
+breadcrumb: 'Housing in Laos'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Laos-Housing.jpg" alt="Housing in Laos banner" style="width:800px;" />
 
