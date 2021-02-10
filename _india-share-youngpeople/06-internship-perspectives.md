@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: ‘Life-changing’ internships abroad offer new perspectives and added skills
+title: '‘Life-changing’ internships abroad offer new perspectives and added skills'
 permalink: /india/share/what-young-people-say/internship-perspectives/
-breadcrumb: ‘Life-changing’ internships abroad offer new perspectives and added skills
-collection_name: india-share-youngpeople
+breadcrumb: '‘Life-changing’ internships abroad offer new perspectives and added skills'
+
 ---
+
 
 <img src="\images\india-youngpeople\internships-perspectives.jpg" alt="aviation internship" style="width:800px;" />
 
