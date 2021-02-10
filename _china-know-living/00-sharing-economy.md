@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sharing economy in China
+title: 'Sharing economy in China'
 permalink: /china/know/living-in-china/sharing-economy-in-china/
-breadcrumb: Sharing economy in China
-collection_name: china-know-living
+breadcrumb: 'Sharing economy in China'
+
 ---
+
 
 <img src="\images\china-living\sharing-economy-in-china.jpg" alt="sharing economy in china" style="width:800px;" />
 
