@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Living in ASEAN Countries
+title: 'Living in ASEAN Countries'
 permalink: /asean-countries/know/living-in-asean-countries/
-breadcrumb: Living in ASEAN Countries
-collection_name: asean-countries
-second_nav_title: "Know"
+breadcrumb: 'Living in ASEAN Countries'
+third_nav_title: Know
+
 ---
+
 
 <img src="/images/asean-living/Living in ASEAN new.jpg" alt="ASEAN overview banner" style="width:800px;" />
 
