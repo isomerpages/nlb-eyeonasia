@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Enterprise Singapore paves way for SMEs to break into India market
+title: 'Enterprise Singapore paves way for SMEs to break into India market'
 permalink: /india/share/enterprise-singapore-paves-way-india-market/
-breadcrumb: Enterprise Singapore paves way for SMEs to break into India market
-collection_name: india-share-employers
+breadcrumb: 'Enterprise Singapore paves way for SMEs to break into India market'
+
 ---
+
 
 <img src="\images\india-employers\ie-singapore-paves-way-india-market.jpg" alt="ie-singapore-paves-way-india-market" style="width:800px;" />
 
