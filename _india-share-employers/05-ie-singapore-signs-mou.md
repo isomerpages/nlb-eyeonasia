@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Enterprise Singapore signs MOU to help Singapore tech and innovation companies plug into Indian ecosystem
+title: 'Enterprise Singapore signs MOU to help Singapore tech and innovation companies plug into Indian ecosystem'
 permalink: /india/share/what-employers-say/enterprise-singapore-signs-mou/
-breadcrumb: Enterprise Singapore signs MOU to help Singapore tech and innovation companies plug into Indian ecosystem
-collection_name: india-share-employers
+breadcrumb: 'Enterprise Singapore signs MOU to help Singapore tech and innovation companies plug into Indian ecosystem'
+
 ---
+
 
 <img src="\images\india-employers\ie-singapore-signs-mou.jpg" alt="ie-singapore-signs-mou" style="width:800px;" />
 
