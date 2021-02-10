@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore start-ups head to China - and thrive
+title: 'Singapore start-ups head to China - and thrive'
 permalink: /china/share/what-employers-say/singapore-start-ups-head-to-china/
-breadcrumb: Singapore start-ups head to China - and thrive
-collection_name: china-share-employers
+breadcrumb: 'Singapore start-ups head to China - and thrive'
+
 ---
+
 
 <img src="\images\china-employers\singapore-start-ups-head-to-china.jpg" alt="singapore-start-ups-head-to-china" style="width:800px;" />
 
