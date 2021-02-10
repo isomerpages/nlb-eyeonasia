@@ -1,9 +1,10 @@
 ---
-layout: post
-title: The Aviation Industry is Booming, but the World is Critically Short of Airports
+title: 'The Aviation Industry is Booming, but the World is Critically Short of Airports'
 permalink: /events/past-events/11-apr-2019/
-date: 2019-04-11
+date: 2019-04-11T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\11-Apr-2019\banner.jpg" alt="11-Apr-2019 banner" style="width:800px;" />
 
