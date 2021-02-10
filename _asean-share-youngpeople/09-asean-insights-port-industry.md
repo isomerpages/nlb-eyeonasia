@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vietnam - Insights into the port industry
+title: 'Vietnam - Insights into the port industry'
 permalink: /asean-countries/share/what-young-people-say/vietnam-insights-port-industry/
-breadcrumb: Vietnam - Insights into the port industry
-collection_name: asean-share-youngpeople
+breadcrumb: 'Vietnam - Insights into the port industry'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Vietnam-insights-port-industry.jpg" alt="Vietnam insights port industry banner" style="width:800px;" />
 
