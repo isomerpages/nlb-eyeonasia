@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial services, banking and payment systems in Vietnam
+title: 'Financial services, banking and payment systems in Vietnam'
 permalink: /asean-countries/know/living-in-asean-countries/financial-banking-payment-in-vietnam/
-breadcrumb: Financial services, banking and payment systems in Vietnam
-collection_name: asean-know-living
+breadcrumb: 'Financial services, banking and payment systems in Vietnam'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Vietnam-Banking.jpg" alt="Vietnam banking banner" style="width:800px;" />
 
