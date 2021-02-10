@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: A posting in India changed her life
+title: 'A posting in India changed her life'
 permalink: /india/share/what-young-people-say/india-posting/
-breadcrumb: A posting in India changed her life
-collection_name: india-share-youngpeople
+breadcrumb: 'A posting in India changed her life'
+
 ---
+
 
 <img src="\images\india-youngpeople\india-posting.jpg" alt="india posting" style="width:800px;" />
 
