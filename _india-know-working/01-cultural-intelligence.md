@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Understanding cultural intelligence
+title: 'Understanding cultural intelligence'
 permalink: /india/know/working-in-india/understanding-cultural-intelligence/
-breadcrumb: Understanding cultural intelligence
-collection_name: india-know-working
+breadcrumb: 'Understanding cultural intelligence'
+
 ---
+
 
 <img src="\images\india-working\cultural-intelligence-2.jpg" alt="cultural intelligence" style="width:800px;" />
 
