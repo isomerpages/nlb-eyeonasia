@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Artificial intelligence in China
+title: 'Artificial intelligence in China'
 permalink: /china/know/overview-of-china/artificial-intelligence/
-breadcrumb: Artificial Intelligence in China
-collection_name: china-know-overview
+breadcrumb: 'Artificial Intelligence in China'
 image: \images\china-overview\artificial-intelligence.jpg
+
 ---
+
 
 <img src="\images\china-overview\artificial-intelligence.jpg" alt="artificial intelligence banner" style="width:800px;" />
 
