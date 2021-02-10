@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Digital platform OneSME launched to promote trade between Singapore, China SMEs
+title: 'Digital platform OneSME launched to promote trade between Singapore, China SMEs'
 permalink: /china/share/what-employers-say/digital-platform-onesme/
-breadcrumb: Digital platform OneSME launched to promote trade between Singapore, China SMEs
-collection_name: china-share-employers
+breadcrumb: 'Digital platform OneSME launched to promote trade between Singapore, China SMEs'
+
 ---
+
 
 <img src="\images\china-employers\digital-platform-onesme.jpg" alt="digital-platform-onesme" style="width:800px;" />
 
