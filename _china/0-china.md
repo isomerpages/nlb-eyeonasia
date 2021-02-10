@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: China
 permalink: /china/know/overview/
 breadcrumb: China
-collection_name: china
+
 ---
+
 
 ![banner-china](\images\china\CHINA-banner-new.jpg)
 
