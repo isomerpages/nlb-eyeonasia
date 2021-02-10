@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Companies here showing growing interest in India
+title: 'Companies here showing growing interest in India'
 permalink: /india/share/what-employers-say/companies-growing-interest-india/
-breadcrumb: Companies here showing growing interest in India
-collection_name: india-share-employers
+breadcrumb: 'Companies here showing growing interest in India'
+
 ---
+
 
 <img src="\images\india-employers\companies-growing-interest-india.jpg" alt="companies-growing-interest-india" style="width:800px;" />
 
