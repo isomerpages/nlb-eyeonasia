@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Tamil Nadu
+title: 'Discovering Tamil Nadu'
 permalink: /india/know/selected-india-states/tamil-nadu-guide/
-breadcrumb: Discovering Tamil Nadu
-collection_name: india-know-selected
+breadcrumb: 'Discovering Tamil Nadu'
+
 ---
+
 
 <img src="\images\india-selected\tamil-nadu-guide.jpg" alt="tamil nadu guide" style="width:800px;" />
 
