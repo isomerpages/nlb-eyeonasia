@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Living in Central Asia
+title: 'Living in Central Asia'
 permalink: /other-asian-countries/central-asia/living-in-central-asia/
-breadcrumb: Living in Central Asia
-collection_name: other-central-asia
+breadcrumb: 'Living in Central Asia'
+
 ---
+
 
 <img src="\images\central-asia\living-in-central-asia.jpg" alt="Living in Central banner" style="width:800px;" />
 
