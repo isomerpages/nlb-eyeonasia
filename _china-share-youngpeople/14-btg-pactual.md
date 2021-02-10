@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Visit to BTG Pactual - Departments work together like cogs in a watch
+title: 'Visit to BTG Pactual - Departments work together like cogs in a watch'
 permalink: /china/share/what-young-people-say/btg-pactual/
-breadcrumb: Visit to BTG Pactual - Departments work together like cogs in a watch
-collection_name: china-share-youngpeople
+breadcrumb: 'Visit to BTG Pactual - Departments work together like cogs in a watch'
+
 ---
+
 
 <img src="\images\china-youngpeople\btg-pactual.jpg" alt="btg pactual" style="width:800px;" />
 
