@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Sustainable Economic Development Through Environmental Programmes
+title: 'Sustainable Economic Development Through Environmental Programmes'
 permalink: /events/past-events/07-aug-2019/
-date: 2019-08-07
+date: 2019-08-07T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\07-Aug-2019\banner.jpg" alt="07-Aug-2019 banner" style="width:800px;" />
 
