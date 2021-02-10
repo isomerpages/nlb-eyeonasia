@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Doing business in China
+title: 'Doing business in China'
 permalink: /china/share/what-employers-say/doing-business-in-china/
-breadcrumb: Doing business in China
-collection_name: china-share-employers
+breadcrumb: 'Doing business in China'
+
 ---
+
 
 <img src="\images\china-employers\doing-business-in-china.jpg" alt="doing-business-in-china" style="width:800px;" />
 
