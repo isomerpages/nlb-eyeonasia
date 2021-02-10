@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in Myanmar
+title: 'Business culture in Myanmar'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-myanmar/
-breadcrumb: Business culture in Myanmar
-collection_name: asean-know-working
+breadcrumb: 'Business culture in Myanmar'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Myanmar-Business-Culture.jpg" alt="Business culture Myanmar banner" style="width:800px;" />
 
