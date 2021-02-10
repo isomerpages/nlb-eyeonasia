@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in the UAE
+title: 'Working in the UAE'
 permalink: /other-asian-countries/uae/working-in-uae/
-breadcrumb: Working in the UAE
-collection_name: other-uae
+breadcrumb: 'Working in the UAE'
+
 ---
+
 
 <img src="\images\uae\working-in-uae.jpg" alt="Working in the UAE banner" style="width:800px;" />
 
