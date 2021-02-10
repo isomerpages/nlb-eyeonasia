@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Zhejiang
+title: 'Discovering Zhejiang'
 permalink: /china/know/china-municipalities-provinces/zhejiang-guide/
-breadcrumb: Discovering Zhejiang
-collection_name: china-know-selected
+breadcrumb: 'Discovering Zhejiang'
+
 ---
+
 
 <img src="\images\china-selected\zhejiang-guide.jpg" alt="zhejiang guide banner" style="width:800px;" />
 
