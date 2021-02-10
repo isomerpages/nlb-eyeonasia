@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Cambodia
+title: 'Working in Cambodia'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-cambodia/
-breadcrumb: Working in Cambodia
-collection_name: asean-know-working
+breadcrumb: 'Working in Cambodia'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Cambodia-Working.jpg" alt="Working in Cambodia banner" style="width:800px;" />
 
