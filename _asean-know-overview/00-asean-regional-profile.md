@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: ASEAN - A regional profile
+title: 'ASEAN - A regional profile'
 permalink: /asean-countries/know/overview-of-asean-countries/asean-a-regional-profile/
-breadcrumb: ASEAN - A regional profile
-collection_name: asean-know-overview
+breadcrumb: 'ASEAN - A regional profile'
+
 ---
+
 
 <img src="\images\asean-countries\asean-banner.jpg" alt="ASEAN snapshot banner" style="width:800px;" />
 
