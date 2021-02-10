@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Samarkand - A city profile
+title: 'Samarkand - A city profile'
 permalink: /other-asian-countries/central-asia/samarkand-a-city-profile/
-breadcrumb: Samarkand- A city profile
-collection_name: other-central-asia
+breadcrumb: 'Samarkand- A city profile'
+
 ---
+
 
 <img src="\images\central-asia\samarkand-profile.jpg" alt="Samarkand snapshot banner" style="width:800px;" />
 
