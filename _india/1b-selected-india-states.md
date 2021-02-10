@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Selected India States
+title: 'Selected India States'
 permalink: /india/know/selected-india-states/
-breadcrumb: Selected India States
-collection_name: india
-second_nav_title: "Know"
+breadcrumb: 'Selected India States'
+third_nav_title: Know
+
 ---
+
 
 ![banner-selected-indian-states](\images\india-selected\Selected-India-states-new.jpg)
 
