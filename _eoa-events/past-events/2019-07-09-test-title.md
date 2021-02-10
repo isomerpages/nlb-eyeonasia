@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Entrepreneurship Opportunities in India
+title: 'Entrepreneurship Opportunities in India'
 permalink: /events/past-events/09-jul-2019/
-date: 2019-07-09
+date: 2019-07-09T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\09-Jul-2019\banner.jpg" alt="09-Jul-2019 banner" style="width:800px;" />
 

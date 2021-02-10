@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Breaking down the myth of the monolith
+title: 'Breaking down the myth of the monolith'
 permalink: /india/share/what-employers-say/myth-monolith/
-breadcrumb: Breaking down the myth of the monolith
-collection_name: india-share-employers
+breadcrumb: 'Breaking down the myth of the monolith'
+
 ---
+
 
 <img src="\images\india-employers\myth-monolith.jpg" alt="myth monolith" style="width:800px;" />
 

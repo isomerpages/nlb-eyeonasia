@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Myanmar
+title: 'Working in Myanmar'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-myanmar/
-breadcrumb: Working in Myanmar
-collection_name: asean-know-working
+breadcrumb: 'Working in Myanmar'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Myanmar-Working.jpg" alt="Working in Myanmar banner" style="width:800px;" />
 

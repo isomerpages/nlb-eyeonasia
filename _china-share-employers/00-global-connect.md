@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Building Your Business Resilience & Seizing New Opportunities from the New Tech Infrastructure
+title: 'Building Your Business Resilience & Seizing New Opportunities from the New Tech Infrastructure'
 permalink: /china/share/what-employers-say/global-connect-sbf/
-breadcrumb: Building Your Business Resilience & Seizing New Opportunities from the New Tech Infrastructure
-collection_name: china-share-employers
+breadcrumb: 'Building Your Business Resilience & Seizing New Opportunities from the New Tech Infrastructure'
+
 ---
+
 
 <img src="\images\china-employers\sbf.png" alt="sbf" style="width:800px;" />
 

@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Myanmar Venture Stories and Opportunities Post-COVID-19
+title: 'Myanmar Venture Stories and Opportunities Post-COVID-19'
 permalink: /events/past-events/13-jan-2021/
-date: 2021-01-13
+date: 2021-01-13T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\13-Jan-2021\EOA 13 Jan 2021_Group Photo.png" style="width:1000px;" />
 

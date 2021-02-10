@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in India
+title: 'Business culture in India'
 permalink: /india/know/working-in-india/business-culture/
-breadcrumb: Business culture in India
-collection_name: india-know-working
+breadcrumb: 'Business culture in India'
+
 ---
+
 
 <img src="\images\india-working\business-culture.jpg" alt="business culture" style="width:800px;" />
 

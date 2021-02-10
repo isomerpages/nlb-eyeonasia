@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: China’s rising cashless society
+title: 'China’s rising cashless society'
 permalink: /china/know/living-in-china/rising-cashless-society/
-breadcrumb: China’s rising cashless society
-collection_name: china-know-living
+breadcrumb: 'China’s rising cashless society'
+
 ---
+
 
 <img src="\images\china-living\china-rising-cashless-society.jpg" alt="rising cashless society" style="width:800px;" />
 

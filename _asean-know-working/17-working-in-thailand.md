@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Thailand
+title: 'Working in Thailand'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-thailand/
-breadcrumb: Working in Thailand
-collection_name: asean-know-working
+breadcrumb: 'Working in Thailand'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Thailand-Working.jpg" alt="Working in Thailand banner" style="width:800px;" />
 

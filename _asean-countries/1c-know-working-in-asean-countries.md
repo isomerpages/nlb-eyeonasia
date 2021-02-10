@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Working in ASEAN Countries
+title: 'Working in ASEAN Countries'
 permalink: /asean-countries/know/working-in-asean-countries/
-breadcrumb: Working in ASEAN Countries
-collection_name: asean-countries
-second_nav_title: "Know"
+breadcrumb: 'Working in ASEAN Countries'
+third_nav_title: Know
+
 ---
+
 
 <img src="/images/asean-working/Working in ASEAN new.jpg" style="width:800px;" />
 

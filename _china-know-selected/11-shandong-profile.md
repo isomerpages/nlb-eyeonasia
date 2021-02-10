@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Shandong - A profile
+title: 'Shandong - A profile'
 permalink: /china/know/china-municipalities-provinces/shandong-profile/
-breadcrumb: Shandong - A profile
-collection_name: china-know-selected
+breadcrumb: 'Shandong - A profile'
+
 ---
+
 
 <img src="\images\china-selected\shandong-profile.jpg" alt="shandong profile banner" style="width:800px;" />
 

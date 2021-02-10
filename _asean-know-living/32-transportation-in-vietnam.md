@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transportation in Vietnam
+title: 'Transportation in Vietnam'
 permalink: /asean-countries/know/living-in-asean-countries/transportation-in-vietnam/
-breadcrumb: Transportation in Vietnam
-collection_name: asean-know-living
+breadcrumb: 'Transportation in Vietnam'
+
 ---
+
 
 <img src="/images/asean-living/Transportation-Vietnam.jpg" alt="Transportation Vietnam banner" style="width:800px;" />
 

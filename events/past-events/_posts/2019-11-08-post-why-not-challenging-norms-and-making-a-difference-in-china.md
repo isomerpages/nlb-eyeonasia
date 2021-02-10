@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Why Not? Challenging Norms and Making a Difference in China
+title: 'Why Not? Challenging Norms and Making a Difference in China'
 permalink: /events/past-events/08-nov-2019/
-date: 2019-11-08
+date: 2019-11-08T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\08-Nov-2019\banner.jpg" alt="08-Nov-2019 banner" style="width:800px;" />
 

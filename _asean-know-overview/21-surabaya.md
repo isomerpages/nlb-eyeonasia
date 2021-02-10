@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Surabaya - A city profile
+title: 'Surabaya - A city profile'
 permalink: /asean-countries/know/overview-of-asean-countries/surabaya-a-city-profile/
-breadcrumb: Surabaya - A city profile
-collection_name: asean-know-overview
+breadcrumb: 'Surabaya - A city profile'
+
 ---
+
 
 <!-- <img src="/images/asean-countries/Yangon snapshot iso.jpg" alt="Yangon snapshot banner" style="width:800px;" /> -->
 

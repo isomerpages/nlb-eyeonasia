@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Tiger Balm – Singapore’s iconic ointment a huge hit in 100 countries
+title: 'Tiger Balm – Singapore’s iconic ointment a huge hit in 100 countries'
 permalink: /china/share/what-employers-say/tiger-balm/
-breadcrumb: Tiger Balm – Singapore’s iconic ointment a huge hit in 100 countries
-collection_name: china-share-employers
+breadcrumb: 'Tiger Balm – Singapore’s iconic ointment a huge hit in 100 countries'
+
 ---
+
 
 <img src="\images\china-employers\tiger-balm.jpg" alt="tiger balm" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customs, costumes & etiquette in Brunei
+title: 'Customs, costumes & etiquette in Brunei'
 permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-brunei/
-breadcrumb: Customs, costumes & etiquette in Brunei
-collection_name: asean-know-living
+breadcrumb: 'Customs, costumes & etiquette in Brunei'
+
 ---
+
 
 <img src="/images/asean-living/Customs-Brunei.jpg" alt="Customs in Brunei banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Gearing up for the future of work
+title: 'Gearing up for the future of work'
 permalink: /china/know/working-in-china/future-of-work/
-breadcrumb: Gearing up for the future of work
-collection_name: china-know-working
+breadcrumb: 'Gearing up for the future of work'
+
 ---
+
 
 <img src="\images\china-working\future-of-work.jpg" alt="future of work" style="width:800px;" />
 

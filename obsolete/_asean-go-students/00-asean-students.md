@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Overseas internships
-permalink: 
-breadcrumb: Overseas internships
-collection_name: obsolete
+title: 'Overseas internships'
+permalink: null
+breadcrumb: 'Overseas internships'
+
 ---
+
 
 <img src="\images\asean-students\overseas-internships.jpg" alt="overseas internship banner" style="width:800px;" />
 

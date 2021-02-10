@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customs, costumes & etiquette in Laos
+title: 'Customs, costumes & etiquette in Laos'
 permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-laos/
-breadcrumb: Customs, costumes & etiquette in Laos
-collection_name: asean-know-living
+breadcrumb: 'Customs, costumes & etiquette in Laos'
+
 ---
+
 
 <img src="/images/asean-living/Customs-Laos.jpg" alt="Customs in Laos banner" style="width:800px;" />
 

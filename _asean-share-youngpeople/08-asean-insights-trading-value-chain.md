@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Myanmar - Insights into the trading value chain
+title: 'Myanmar - Insights into the trading value chain'
 permalink: /asean-countries/share/what-young-people-say/myanmar-insights-trading-value-chain/
-breadcrumb: Myanmar - Insights into the trading value chain
-collection_name: asean-share-youngpeople
+breadcrumb: 'Myanmar - Insights into the trading value chain'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Myanmar-insights-value-chain.jpg" alt="Myanmar insights trading value chain banner" style="width:800px;" />
 

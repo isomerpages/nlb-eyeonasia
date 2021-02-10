@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore's Golden Equator expands to Brunei
+title: 'Singapore''s Golden Equator expands to Brunei'
 permalink: /asean-countries/share/what-employers-say/singapore-golden-equator-expands-to-brunei/
-breadcrumb: Singapore's Golden Equator expands to Brunei
-collection_name: asean-share-employers
+breadcrumb: 'Singapore''s Golden Equator expands to Brunei'
+
 ---
+
 
 <img src="\images\asean-employers\singapore-golden-equator-expands-to-brunei.jpg" alt="singapore-golden-equator-expands-to-brunei" style="width:800px;" />
 

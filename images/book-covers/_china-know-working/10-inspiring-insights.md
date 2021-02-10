@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Inspiring insights and success stories from China
+title: 'Inspiring insights and success stories from China'
 permalink: /china/know/working-in-china/inspiring-insights/
-breadcrumb: Inspiring insights and success stories from China
-collection_name: china-know-working
+breadcrumb: 'Inspiring insights and success stories from China'
+
 ---
+
 
 <img src="\images\china-working\inspiring-insights.jpg" alt="inspiring insights" style="width:800px;" />
 

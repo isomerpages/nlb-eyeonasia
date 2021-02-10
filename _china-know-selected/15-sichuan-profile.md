@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sichuan - A profile
+title: 'Sichuan - A profile'
 permalink: /china/know/china-municipalities-provinces/sichuan-profile/
-breadcrumb: Sichuan - A profile
-collection_name: china-know-selected
+breadcrumb: 'Sichuan - A profile'
+
 ---
+
 
 <img src="\images\china-selected\sichuan-profile.jpg" alt="sichuan profile banner" style="width:800px;" />
 

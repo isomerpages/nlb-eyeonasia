@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Indonesia - A country profile
+title: 'Indonesia - A country profile'
 permalink: /asean-countries/know/overview-of-asean-countries/indonesia-a-country-profile/
-breadcrumb: Indonesia - A country profile
-collection_name: asean-know-overview
+breadcrumb: 'Indonesia - A country profile'
+
 ---
+
 
 <img src="/images/asean-countries/Indonesia snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;" />
 

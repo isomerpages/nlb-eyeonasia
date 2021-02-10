@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Wuhan - A profile
+title: 'Wuhan - A profile'
 permalink: /china/know/china-municipalities-provinces/wuhan-profile/
-breadcrumb: Wuhan - A profile
-collection_name: china-know-selected
+breadcrumb: 'Wuhan - A profile'
+
 ---
+
 
 <img src="\images\china-selected\wuhan-profile.jpg" alt="wuhan profile banner" style="width:800px;" />
 

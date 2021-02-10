@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transportation in Laos
+title: 'Transportation in Laos'
 permalink: /asean-countries/know/living-in-asean-countries/transportation-in-Laos/
-breadcrumb: Transportation in Laos
-collection_name: asean-know-living
+breadcrumb: 'Transportation in Laos'
+
 ---
+
 
 <img src="/images/asean-living/Transportation-Laos.jpg" alt="Transportation Laos banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: International exchange programmes
-permalink: 
-breadcrumb: International exchange programmes
-collection_name: obsolete
+title: 'International exchange programmes'
+permalink: null
+breadcrumb: 'International exchange programmes'
+
 ---
+
 
 <img src="\images\asean-students\international-exchange-programmes.jpg" alt="international exchange programmes banner" style="width:800px;" />
 

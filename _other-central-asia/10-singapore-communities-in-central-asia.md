@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore Communities in Central Asia
+title: 'Singapore Communities in Central Asia'
 permalink: /other-asian-countries/central-asia/singapore-communities-in-central-asia/
-breadcrumb: Singapore Communities in Central Asia
-collection_name: other-central-asia
+breadcrumb: 'Singapore Communities in Central Asia'
+
 ---
+
 
 ![banner-singapore-communities-in-india](\images\china\sg-communities-new.jpg)
 

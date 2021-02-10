@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: BreadTalk boss goes hands on overseas
+title: 'BreadTalk boss goes hands on overseas'
 permalink: /china/share/what-employers-say/breadtalk/
-breadcrumb: BreadTalk boss goes hands on overseas
-collection_name: china-share-employers
+breadcrumb: 'BreadTalk boss goes hands on overseas'
+
 ---
+
 
 <img src="\images\china-employers\breadtalk.jpg" alt="breadtalk" style="width:800px;" />
 

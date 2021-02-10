@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: DocDoc partners with China’s leading insurance risk control company Kaitaiming Technology to bring doctor discovery services to China
+title: 'DocDoc partners with China’s leading insurance risk control company Kaitaiming Technology to bring doctor discovery services to China'
 permalink: /china/share/what-employers-say/docdoc-partners-with-china/
-breadcrumb: DocDoc partners with China’s leading insurance risk control company Kaitaiming Technology
-collection_name: china-share-employers
+breadcrumb: 'DocDoc partners with China’s leading insurance risk control company Kaitaiming Technology'
+
 ---
+
 
 <img src="\images\china-employers\docdoc-partners-with-china.jpg" alt="docdoc-partners-with-china" style="width:800px;" />
 

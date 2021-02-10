@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Food and cuisines in India
+title: 'Food and cuisines in India'
 permalink: /india/know/living-in-india/food-and-cuisines-in-india/
-breadcrumb: Food and cuisines in India
-collection_name: india-know-living
+breadcrumb: 'Food and cuisines in India'
+
 ---
+
 
 <img src="\images\india-living\food-and-cuisines-in-india.jpg" alt="food and cuisines in india" style="width:800px;" />
 

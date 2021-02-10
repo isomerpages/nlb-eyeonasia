@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Personal anecdotes
+title: 'Personal anecdotes'
 permalink: /china/know/living-in-china/personal-anecdotes/
-breadcrumb: Personal anecdotes
-collection_name: china-know-living
+breadcrumb: 'Personal anecdotes'
+
 ---
+
 
 <img src="\images\china-living\personal-anecdotes.jpg" alt="personal anecdotes" style="width:800px;" />
 

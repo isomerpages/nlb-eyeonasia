@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Media in India
+title: 'Media in India'
 permalink: /india/know/living-in-india/media-in-india/
-breadcrumb: Media in India
-collection_name: india-know-living
+breadcrumb: 'Media in India'
+
 ---
+
 
 <img src="\images\india-living\media-in-india.jpg" alt="media in india" style="width:800px;" />
 

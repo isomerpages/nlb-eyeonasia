@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Yangon - A city profile
+title: 'Yangon - A city profile'
 permalink: /asean-countries/know/overview-of-asean-countries/yangon-a-city-profile/
-breadcrumb: Yangon - A city profile
-collection_name: asean-know-overview
+breadcrumb: 'Yangon - A city profile'
+
 ---
+
 
 <img src="/images/asean-countries/Yangon snapshot iso.jpg" alt="Yangon snapshot banner" style="width:800px;" />
 

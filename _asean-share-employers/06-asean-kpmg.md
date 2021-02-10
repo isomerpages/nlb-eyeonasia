@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: KPMG ASEAN business guide
+title: 'KPMG ASEAN business guide'
 permalink: /asean-countries/share/what-employers-say/kpmg-asean-business-guide/
-breadcrumb: KPMG ASEAN business guide
-collection_name: asean-share-employers
+breadcrumb: 'KPMG ASEAN business guide'
+
 ---
+
 
 <img src="\images\asean-employers\KPMG-ASEAN-business-guide.jpg" alt="KPMG-ASEAN-business-guide" style="width:800px;" />
 

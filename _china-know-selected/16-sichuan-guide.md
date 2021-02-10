@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Sichuan
+title: 'Discovering Sichuan'
 permalink: /china/know/china-municipalities-provinces/sichuan-guide/
-breadcrumb: Discovering Sichuan
-collection_name: china-know-selected
+breadcrumb: 'Discovering Sichuan'
+
 ---
+
 
 <img src="\images\china-selected\sichuan-guide.jpg" alt="sichuan guide banner" style="width:800px;" />
 

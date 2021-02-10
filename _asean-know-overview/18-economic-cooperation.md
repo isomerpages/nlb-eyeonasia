@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: International and regional economic cooperation in ASEAN Countries
+title: 'International and regional economic cooperation in ASEAN Countries'
 permalink: /asean-countries/know/overview-of-asean-countries/economic-cooperation/
-breadcrumb: International and regional economic cooperation in ASEAN Countries
-collection_name: asean-know-overview
+breadcrumb: 'International and regional economic cooperation in ASEAN Countries'
+
 ---
+
 
 <img src="/images/asean-countries/International-and-regional-economic-cooperation-in-ASEAN-countries.jpg" alt="Economic Coorperation banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Brunei - A country profile
+title: 'Brunei - A country profile'
 permalink: /asean-countries/know/overview-of-asean-countries/brunei-a-country-profile/
-breadcrumb: Brunei - A country profile
-collection_name: asean-know-overview
+breadcrumb: 'Brunei - A country profile'
+
 ---
+
 
 <img src="/images/asean-countries/Brunei snapshot cover iso.jpg" alt="Brunei snapshot banner" style="width:800px;" />
 

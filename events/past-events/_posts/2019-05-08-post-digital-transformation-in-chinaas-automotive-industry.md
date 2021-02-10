@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Digital Transformation in China’s Automotive Industry
+title: 'Digital Transformation in China’s Automotive Industry'
 permalink: /events/past-events/08-may-2019/
-date: 2019-05-08
+date: 2019-05-08T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\08-May-2019\banner.jpg" alt="08-May-2019 banner" style="width:800px;" />
 

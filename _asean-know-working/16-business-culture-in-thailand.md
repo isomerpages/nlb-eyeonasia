@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in Thailand
+title: 'Business culture in Thailand'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-thailand/
-breadcrumb: Business culture in Thailand
-collection_name: asean-know-working
+breadcrumb: 'Business culture in Thailand'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Thailand-Business-Culture.jpg" alt="Business culture Thailand banner" style="width:800px;" />
 

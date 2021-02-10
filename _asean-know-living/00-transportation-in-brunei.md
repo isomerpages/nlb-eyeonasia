@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transportation in Brunei
+title: 'Transportation in Brunei'
 permalink: /asean-countries/know/living-in-asean-countries/transportation-in-brunei/
-breadcrumb: Transportation in Brunei
-collection_name: asean-know-living
+breadcrumb: 'Transportation in Brunei'
+
 ---
+
 
 <img src="/images/asean-living/Transportation-Brunei.jpg" alt="Transportation Brunei banner" style="width:800px;" />
 

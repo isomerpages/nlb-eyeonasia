@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (Session 2 - China and India)
+title: 'Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (Session 2 - China and India)'
 permalink: /events/upcoming-events/04-mar-2021/
-date: 2021-02-01
+date: 2021-02-01T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 2.png" style="width:1000px;" />
 

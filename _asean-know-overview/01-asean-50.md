@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: ASEAN@50 - Historic Milestones
+title: 'ASEAN@50 - Historic Milestones'
 permalink: /asean-countries/know/overview-of-asean-countries/asean-50-historic-milestones/
-breadcrumb: ASEAN@50 - Historic Milestones
-collection_name: asean-know-overview
+breadcrumb: 'ASEAN@50 - Historic Milestones'
+
 ---
+
 
 <img src="\images\asean-countries\asean-50.jpg" alt="ASEAN snapshot banner" style="width:800px;" />
 

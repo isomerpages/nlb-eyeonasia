@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Lao PDR - A country profile
+title: 'Lao PDR - A country profile'
 permalink: /asean-countries/know/overview-of-asean-countries/lao-a-country-profile/
-breadcrumb: Lao PDR - A country profile
-collection_name: asean-know-overview
+breadcrumb: 'Lao PDR - A country profile'
+
 ---
+
 
 <img src="/images/asean-countries/Laos snapshot cover iso.jpg" alt="Laos snapshot banner" style="width:800px;" />
 

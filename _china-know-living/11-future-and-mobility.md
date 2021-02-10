@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: The future of mobility in China
+title: 'The future of mobility in China'
 permalink: /china/know/living-in-china/future-of-mobility/
-breadcrumb: The future of mobility in China
-collection_name: china-know-living
+breadcrumb: 'The future of mobility in China'
+
 ---
+
 
 <img src="\images\china-living\future-of-mobility.jpg" alt="future of mobility" style="width:800px;" />
 

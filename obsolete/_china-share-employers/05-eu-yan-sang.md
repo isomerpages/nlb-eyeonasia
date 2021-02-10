@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Eu Yan Sang International – An old hand on the world stage and still growing
+title: 'Eu Yan Sang International – An old hand on the world stage and still growing'
 permalink: /china/share/what-employers-say/eu-yan-sang/
-breadcrumb: Eu Yan Sang International – An old hand on the world stage and still growing
-collection_name: china-share-employers
+breadcrumb: 'Eu Yan Sang International – An old hand on the world stage and still growing'
+
 ---
+
 
 <img src="\images\china-employers\eu-yan-sang.jpg" alt="eu yan sang" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Rajasthan - A city profile
+title: 'Rajasthan - A city profile'
 permalink: /india/know/selected-india-states/rajasthan-profile/
-breadcrumb: Rajasthan - A city profile
-collection_name: india-know-selected
+breadcrumb: 'Rajasthan - A city profile'
+
 ---
+
 
 <img src="\images\india-selected\rajasthan-profile.jpg" alt="rajasthan profile" style="width:800px;" />
 

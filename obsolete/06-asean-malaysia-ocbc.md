@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Malaysia - Learning more about banking at OCBC Bank (Malaysia) Berhad
+title: 'Malaysia - Learning more about banking at OCBC Bank (Malaysia) Berhad'
 permalink: /asean-countries/share/what-young-people-say/malaysia-learning-about-banking-at-ocbc-berhad/
-breadcrumb: Malaysia - Learning more about banking at OCBC Bank (Malaysia) Berhad
-collection_name: asean-share-youngpeople
+breadcrumb: 'Malaysia - Learning more about banking at OCBC Bank (Malaysia) Berhad'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Malaysia-OCBC.jpg" alt="Malaysia OCBC banner" style="width:800px;" />
 

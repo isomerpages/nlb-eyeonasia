@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Entrepreneurship in China
+title: 'Entrepreneurship in China'
 permalink: /china/know/working-in-china/entrepreneurship-in-china/
-breadcrumb: Entrepreneurship in China
-collection_name: china-know-working
+breadcrumb: 'Entrepreneurship in China'
+
 ---
+
 
 <img src="\images\china-working\entrepreneurship-china.jpg" alt="entrepreneurship china" style="width:800px;" />
 

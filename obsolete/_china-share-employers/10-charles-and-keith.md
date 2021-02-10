@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Charles & Keith International – Full control ensures shoemaker never misses a step
+title: 'Charles & Keith International – Full control ensures shoemaker never misses a step'
 permalink: /china/share/what-employers-say/charles-and-keith/
-breadcrumb: Charles & Keith International – Full control ensures shoemaker never misses a step
-collection_name: china-share-employers
+breadcrumb: 'Charles & Keith International – Full control ensures shoemaker never misses a step'
+
 ---
+
 
 <img src="\images\china-employers\charles-and-keith.jpg" alt="charles and keith" style="width:800px;" />
 

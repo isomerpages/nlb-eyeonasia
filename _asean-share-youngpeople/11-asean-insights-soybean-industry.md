@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vietnam - Insights into the soybean industry
+title: 'Vietnam - Insights into the soybean industry'
 permalink: /asean-countries/share/what-young-people-say/vietnam-insights-soybean-industry/
-breadcrumb: Vietnam - Insights into the soybean industry
-collection_name: asean-share-youngpeople
+breadcrumb: 'Vietnam - Insights into the soybean industry'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Vietnam-soybeans-industry.jpg" alt="Vietnam insights soybeans industry banner" style="width:800px;" />
 

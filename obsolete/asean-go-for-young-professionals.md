@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: For Young Professionals
-permalink: 
-breadcrumb: For Young Professionals
-collection_name: obsolete
-second_nav_title: "Go"
+title: 'For Young Professionals'
+permalink: null
+breadcrumb: 'For Young Professionals'
+third_nav_title: Go
+
 ---
+
 
 ![banner-asean-go-for-professionals](\images\asean-professionals\For-young-professionals-new.jpg)
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Understanding cultural intelligence
+title: 'Understanding cultural intelligence'
 permalink: /china/know/working-in-china/understanding-cultural-intelligence/
-breadcrumb: Understanding cultural intelligence
-collection_name: china-know-working
+breadcrumb: 'Understanding cultural intelligence'
+
 ---
+
 
 <img src="\images\china-working\cultural-intelligence-2.jpg" alt="cultural intelligence" style="width:800px;" />
 

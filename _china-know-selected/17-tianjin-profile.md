@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Tianjin - A profile
+title: 'Tianjin - A profile'
 permalink: /china/know/china-municipalities-provinces/tianjin-profile/
-breadcrumb: Tianjin - A profile
-collection_name: china-know-selected
+breadcrumb: 'Tianjin - A profile'
+
 ---
+
 
 <img src="\images\china-selected\tianjin-profile.jpg" alt="tianjin profile banner" style="width:800px;" />
 

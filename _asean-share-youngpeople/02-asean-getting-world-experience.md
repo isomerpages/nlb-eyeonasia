@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Indonesia - Getting a world of experience
+title: 'Indonesia - Getting a world of experience'
 permalink: /asean-countries/share/what-young-people-say/indonesia-getting-a-world-of-experience/
-breadcrumb: Indonesia - Getting a world of experience
-collection_name: asean-share-youngpeople
+breadcrumb: 'Indonesia - Getting a world of experience'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Getting-a-world-of-experience.jpg" alt="Indonesia geeting experience banner" style="width:800px;" />
 

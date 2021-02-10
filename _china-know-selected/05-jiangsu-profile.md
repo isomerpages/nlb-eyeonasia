@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Jiangsu - A profile
+title: 'Jiangsu - A profile'
 permalink: /china/know/china-municipalities-provinces/jiangsu-profile/
-breadcrumb: Jiangsu - A profile
-collection_name: china-know-selected
+breadcrumb: 'Jiangsu - A profile'
+
 ---
+
 
 <img src="\images\china-selected\jiangsu-profile.jpg" alt="jiangsu profile banner" style="width:800px;" />
 

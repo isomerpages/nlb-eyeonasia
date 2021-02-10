@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Malaysia
+title: 'Housing in Malaysia'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-malaysia/
-breadcrumb: Housing in Malaysia
-collection_name: asean-know-living
+breadcrumb: 'Housing in Malaysia'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Malaysia-Housing.jpg" alt="Housing in Malaysia banner" style="width:800px;" />
 

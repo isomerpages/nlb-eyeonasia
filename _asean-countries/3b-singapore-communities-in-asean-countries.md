@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Singapore Communities in ASEAN Countries
+title: 'Singapore Communities in ASEAN Countries'
 permalink: /asean-countries/go/singapore-communities-in-asean-countries/
-breadcrumb: Singapore Communities in ASEAN Countries
-collection_name: asean-countries
-second_nav_title: "Go"
+breadcrumb: 'Singapore Communities in ASEAN Countries'
+third_nav_title: Go
+
 ---
+
 
 ![banner-singapore-communities-in-asean-countries](\images\shared\sg-communities-new.jpg)
 

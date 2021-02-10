@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Indonesia
+title: 'Housing in Indonesia'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-indonesia/
-breadcrumb: Housing in Indonesia	
-collection_name: asean-know-living
+breadcrumb: 'Housing in Indonesia'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Indonesia-Housing.jpg" alt="Housing in Indonesia banner" style="width:800px;" />
 

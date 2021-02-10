@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Belt and Road Initiative - Opportunities in China and Cambodia
+title: 'Belt and Road Initiative - Opportunities in China and Cambodia'
 permalink: /events/past-events/16-aug-2018/
-date: 2018-08-16
+date: 2018-08-16T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\16-Aug-2018\banner.jpg" alt="16-Aug-2018 banner" style="width:800px;" />
 

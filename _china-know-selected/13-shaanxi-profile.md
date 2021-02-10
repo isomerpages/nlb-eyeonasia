@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Shaanxi - A profile
+title: 'Shaanxi - A profile'
 permalink: /china/know/china-municipalities-provinces/shaanxi-profile/
-breadcrumb: Shaanxi - A profile
-collection_name: china-know-selected
+breadcrumb: 'Shaanxi - A profile'
+
 ---
+
 
 <img src="\images\china-selected\shaanxi-profile.jpg" alt="shaanxi profile banner" style="width:800px;" />
 

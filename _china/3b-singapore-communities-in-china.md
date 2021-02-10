@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Singapore Communities in China
+title: 'Singapore Communities in China'
 permalink: /china/go/singapore-communities-in-china/
-breadcrumb: Singapore Communities in China
-collection_name: china
-second_nav_title: "Go"
+breadcrumb: 'Singapore Communities in China'
+third_nav_title: Go
+
 ---
+
 
 ![banner-singapore-communities-in-china](\images\china\sg-communities-new.jpg)
 

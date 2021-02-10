@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in Indonesia
+title: 'Business culture in Indonesia'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-indonesia/
-breadcrumb: Business culture in Indonesia
-collection_name: asean-know-working
+breadcrumb: 'Business culture in Indonesia'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Indonesia-Business-Culture.jpg" alt="Business culture Indonesia banner" style="width:800px;" />
 

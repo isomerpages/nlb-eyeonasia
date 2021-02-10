@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Local e-commerce start-up Anchanto bags funding and deals
+title: 'Local e-commerce start-up Anchanto bags funding and deals'
 permalink: /asean-countries/share/what-employers-say/anchanto-bags-funding-deals/
-breadcrumb: Local e-commerce start-up Anchanto bags funding and deals
-collection_name: asean-share-employers
+breadcrumb: 'Local e-commerce start-up Anchanto bags funding and deals'
+
 ---
+
 
 <img src="\images\asean-employers\anchanto-bags-funding-deals.jpg" alt="anchanto-bags-funding-deals" style="width:800px;" />
 

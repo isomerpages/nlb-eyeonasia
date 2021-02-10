@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: S'pore-based, globally present - 5 founders share tips on expanding overseas
+title: 'S''pore-based, globally present - 5 founders share tips on expanding overseas'
 permalink: /asean-countries/share/what-employers-say/sg-based-globally-present/
-breadcrumb: S'pore-based, globally present - 5 founders share tips on expanding overseas
-collection_name: asean-share-employers
+breadcrumb: 'S''pore-based, globally present - 5 founders share tips on expanding overseas'
+
 ---
+
 
 <img src="\images\asean-employers\sg-based-globally-present.jpg" alt="sg-based-globally-present" style="width:800px;" />
 

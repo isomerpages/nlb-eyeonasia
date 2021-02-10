@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Training programmes
-permalink: 
-breadcrumb: Training programmes
-collection_name: obsolete
+title: 'Training programmes'
+permalink: null
+breadcrumb: 'Training programmes'
+
 ---
+
 
 <img src="\images\asean-professionals\training-programmes.jpg" alt="training programmes banner" style="width:800px;" />
 

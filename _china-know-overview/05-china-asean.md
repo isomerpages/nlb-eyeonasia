@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: ASEAN and China
+title: 'ASEAN and China'
 permalink: /china/know/overview-of-china/asean-and-china/
-breadcrumb: ASEAN and China
-collection_name: china-know-overview
+breadcrumb: 'ASEAN and China'
 image: \images\china-overview\asean-and-china.jpg
+
 ---
+
 
 <img src="\images\china-overview\asean-and-china.jpg" alt="asean and china banner" style="width:800px;" />
 

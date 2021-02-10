@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Wuhan
+title: 'Discovering Wuhan'
 permalink: /china/know/china-municipalities-provinces/wuhan-guide/
-breadcrumb: Discovering Wuhan
-collection_name: china-know-selected
+breadcrumb: 'Discovering Wuhan'
+
 ---
+
 
 <img src="\images\china-selected\wuhan-guide.jpg" alt="wuhan guide banner" style="width:800px;" />
 

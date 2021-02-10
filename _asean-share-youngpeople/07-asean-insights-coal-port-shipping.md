@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Indonesia - Insights into the coal mining, port and shipping industries
+title: 'Indonesia - Insights into the coal mining, port and shipping industries'
 permalink: /asean-countries/share/what-young-people-say/indonesia-insights-into-coal-mining-port-shipping-industries/
-breadcrumb: Indonesia - Insights into the coal mining, port and shipping industries
-collection_name: asean-share-youngpeople
+breadcrumb: 'Indonesia - Insights into the coal mining, port and shipping industries'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Indonesia-insights-coal-port-shipping.jpg" alt="Indonesia insights coal mining shipping banner" style="width:800px;" />
 

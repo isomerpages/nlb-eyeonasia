@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Myanmar - Flying high with 20/20 vision
+title: 'Myanmar - Flying high with 20/20 vision'
 permalink: /asean-countries/share/what-young-people-say/myanmar-flying-high-with-20-20-vision/
-breadcrumb: Myanmar - Flying high with 20/20 vision
-collection_name: asean-share-youngpeople
+breadcrumb: 'Myanmar - Flying high with 20/20 vision'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Flying-high-20-20.jpg" alt="Myanmar flying high banner" style="width:800px;" />
 

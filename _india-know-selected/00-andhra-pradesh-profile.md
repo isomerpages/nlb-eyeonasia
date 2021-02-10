@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Andhra Pradesh - A profile
+title: 'Andhra Pradesh - A profile'
 permalink: /india/know/selected-india-states/andhra-pradesh-profile/
-breadcrumb: Andhra Pradesh - A profile
-collection_name: india-know-selected
+breadcrumb: 'Andhra Pradesh - A profile'
+
 ---
+
 
 <img src="\images\india-selected\andhra-pradesh-profile.jpg" alt="andhra pradesh profile" style="width:800px;" />
 

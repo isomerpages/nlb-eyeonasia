@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Skills for internship and job search
+title: 'Skills for internship and job search'
 permalink: /china/share/what-employers-say/skills-internship-job-search/
-breadcrumb: Skills for internship and job search
-collection_name: china-share-employers
+breadcrumb: 'Skills for internship and job search'
+
 ---
+
 
 <img src="\images\asean-employers\Skills-for-internship.jpg" alt="skills internship banner" style="width:800px;" />
 

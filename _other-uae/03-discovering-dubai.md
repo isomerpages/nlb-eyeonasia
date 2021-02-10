@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Dubai
+title: 'Discovering Dubai'
 permalink: /other-asian-countries/uae/discovering-dubai/
-breadcrumb: Discovering Dubai
-collection_name: other-uae
+breadcrumb: 'Discovering Dubai'
+
 ---
+
 
 <img src="\images\uae\dubai-guide.jpg" alt="Dubai guide banner" style="width:800px;" />
 

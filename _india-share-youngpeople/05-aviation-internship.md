@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Poly aviation students shine in India internship
+title: 'Poly aviation students shine in India internship'
 permalink: /india/share/what-young-people-say/aviation-internship/
-breadcrumb: Poly aviation students shine in India internship
-collection_name: india-share-youngpeople
+breadcrumb: 'Poly aviation students shine in India internship'
+
 ---
+
 
 <img src="\images\india-youngpeople\aviation-internship.jpg" alt="aviation internship" style="width:800px;" />
 

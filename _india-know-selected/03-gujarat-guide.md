@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Gujarat
+title: 'Discovering Gujarat'
 permalink: /india/know/selected-india-states/gujarat-guide/
-breadcrumb: Discovering Gujarat
-collection_name: india-know-selected
+breadcrumb: 'Discovering Gujarat'
+
 ---
+
 
 <img src="\images\india-selected\gujarat-guide.jpg" alt="gujarat guide" style="width:800px;" />
 

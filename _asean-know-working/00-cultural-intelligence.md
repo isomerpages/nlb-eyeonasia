@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Understanding cultural intelligence
+title: 'Understanding cultural intelligence'
 permalink: /asean-countries/know/working-in-asean/understanding-cultural-intelligence/
-breadcrumb: Understanding cultural intelligence
-collection_name: asean-know-working
+breadcrumb: 'Understanding cultural intelligence'
+
 ---
+
 
 <img src="\images\asean-working\cultural-intelligence-2.jpg" alt="cultural intelligence" style="width:800px;" />
 

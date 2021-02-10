@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Building businesses in Thailand - An insider’s view
+title: 'Building businesses in Thailand - An insider’s view'
 permalink: /asean-countries/share/what-employers-say/building-business-thailand/
-breadcrumb: Building businesses in Thailand - An insider’s view
-collection_name: asean-share-employers
+breadcrumb: 'Building businesses in Thailand - An insider’s view'
+
 ---
+
 
 <img src="\images\asean-employers\building-business.jpg" alt="building business" style="width:800px;" />
 

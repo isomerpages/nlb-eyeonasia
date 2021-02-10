@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Central Asia
+title: 'Working in Central Asia'
 permalink: /other-asian-countries/central-asia/working-in-central-asia/
-breadcrumb: Working in Central Asia
-collection_name: other-central-asia
+breadcrumb: 'Working in Central Asia'
+
 ---
+
 
 <img src="\images\central-asia\working-in-central-asia.jpg" alt="Working in Central Asia banner" style="width:800px;" />
 

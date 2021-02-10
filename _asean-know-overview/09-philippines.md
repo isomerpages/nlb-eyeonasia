@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Philippines - A country profile
+title: 'Philippines - A country profile'
 permalink: /asean-countries/know/overview-of-asean-countries/philippines-a-country-profile/
-breadcrumb: Philippines - A country profile
-collection_name: asean-know-overview
+breadcrumb: 'Philippines - A country profile'
+
 ---
+
 
 <img src="/images/asean-countries/Philippines snapshot cover iso.jpg" alt="Philippines snapshot banner" style="width:800px;" />
 

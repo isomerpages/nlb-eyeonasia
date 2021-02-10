@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (Session 1 - ASEAN-Mekong Region and the United Arab Emirates)
+title: 'Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (Session 1 - ASEAN-Mekong Region and the United Arab Emirates)'
 permalink: /events/upcoming-events/03-mar-2021/
-date: 2021-02-01
+date: 2021-02-01T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 1.png" style="width:1000px;" />
 

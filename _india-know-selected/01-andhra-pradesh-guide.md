@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Andhra Pradesh
+title: 'Discovering Andhra Pradesh'
 permalink: /india/know/selected-india-states/andhra-pradesh-guide/
-breadcrumb: Discovering Andhra Pradesh
-collection_name: india-know-selected
+breadcrumb: 'Discovering Andhra Pradesh'
+
 ---
+
 
 <img src="\images\india-selected\andhra-pradesh-guide.jpg" alt="andhra pradesh guide" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Innovation in India
+title: 'Innovation in India'
 permalink: /india/know/working-in-india/innovation-india/
-breadcrumb: Innovation in India
-collection_name: india-know-working
+breadcrumb: 'Innovation in India'
+
 ---
+
 
 <img src="\images\india-working\innovation-india.jpg" alt="innovation india" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customs, costumes & etiquette in Thailand
+title: 'Customs, costumes & etiquette in Thailand'
 permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-thailand/
-breadcrumb: Customs, costumes & etiquette in Thailand
-collection_name: asean-know-living
+breadcrumb: 'Customs, costumes & etiquette in Thailand'
+
 ---
+
 
 <img src="/images/asean-living/Customs-Thailand.jpg" alt="Customs in Thailand banner" style="width:800px;" />
 

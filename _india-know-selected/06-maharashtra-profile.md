@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Maharashtra - A profile
+title: 'Maharashtra - A profile'
 permalink: /india/know/selected-india-states/maharashtra-profile/
-breadcrumb: Maharashtra - A profile
-collection_name: india-know-selected
+breadcrumb: 'Maharashtra - A profile'
+
 ---
+
 
 <img src="\images\india-selected\maharashtra-profile.jpg" alt="maharashtra profile" style="width:800px;" />
 

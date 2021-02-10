@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: ASEAN countries - Political structures
+title: 'ASEAN countries - Political structures'
 permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-political-structures/
-breadcrumb: ASEAN countries - Political structures
-collection_name: asean-know-overview
+breadcrumb: 'ASEAN countries - Political structures'
+
 ---
+
 
 <img src="/images/asean-countries/ASEAN-countries-Political-structures.jpg" alt="political structures banner" style="width:800px;" />
 

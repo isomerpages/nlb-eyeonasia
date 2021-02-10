@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vietnam - Insights into the bitumen industry
+title: 'Vietnam - Insights into the bitumen industry'
 permalink: /asean-countries/share/what-young-people-say/vietnam-insights-bitumen-industry/
-breadcrumb: Vietnam - Insights into the bitumen industry
-collection_name: asean-share-youngpeople
+breadcrumb: 'Vietnam - Insights into the bitumen industry'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Vietnam-bitumen-industry.jpg" alt="Vietnam insights bitumen industry banner" style="width:800px;" />
 

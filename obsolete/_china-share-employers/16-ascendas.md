@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Ascendas looking to partner Singapore firms
+title: 'Ascendas looking to partner Singapore firms'
 permalink: /china/share/what-employers-say/ascendas/
-breadcrumb: Ascendas looking to partner Singapore firms
-collection_name: china-share-employers
+breadcrumb: 'Ascendas looking to partner Singapore firms'
+
 ---
+
 
 <img src="\images\china-employers\ascendas.jpg" alt="ascendas" style="width:800px;" />
 

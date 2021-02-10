@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Regional Newspapers
+title: 'Regional Newspapers'
 permalink: /asean-countries/know/overview-of-asean-countries/regional-newspapers/
-breadcrumb: Regional Newspapers
-collection_name: asean-know-overview
+breadcrumb: 'Regional Newspapers'
+
 ---
+
 
 <img src="\images\china-overview\regional-newspapers.jpg" alt="regional newspapers banner" style="width:800px;" />
 

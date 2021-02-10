@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Zhejiang - A profile
+title: 'Zhejiang - A profile'
 permalink: /china/know/china-municipalities-provinces/zhejiang-profile/
-breadcrumb: Zhejiang - A profile
-collection_name: china-know-selected
+breadcrumb: 'Zhejiang - A profile'
+
 ---
+
 
 <img src="\images\china-selected\zhejiang-profile.jpg" alt="zhejiang profile banner" style="width:800px;" />
 

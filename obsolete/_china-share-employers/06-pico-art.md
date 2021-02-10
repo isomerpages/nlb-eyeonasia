@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Pico Art rides wave of MICE industry to global success
+title: 'Pico Art rides wave of MICE industry to global success'
 permalink: /china/share/what-employers-say/pico-art/
-breadcrumb: Pico Art rides wave of MICE industry to global success
-collection_name: china-share-employers
+breadcrumb: 'Pico Art rides wave of MICE industry to global success'
+
 ---
+
 
 <img src="\images\china-employers\pico-art.jpg" alt="pico art" style="width:800px;" />
 

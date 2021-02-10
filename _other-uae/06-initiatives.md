@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Initiatives
 permalink: /other-asian-countries/uae/initiatives
 breadcrumb: Initiatives
-collection_name: other-uae
+
 ---
+
 
 ![banner-asean-go-for-professionals](\images\asean-professionals\For-young-professionals-new.jpg)
 

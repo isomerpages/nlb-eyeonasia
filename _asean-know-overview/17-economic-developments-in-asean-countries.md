@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Economic developments in ASEAN countries
+title: 'Economic developments in ASEAN countries'
 permalink: /asean-countries/know/overview-of-asean-countries/economic-developments-in-asean-countries/
-breadcrumb: Economic developments in ASEAN countries
-collection_name: asean-know-overview
+breadcrumb: 'Economic developments in ASEAN countries'
+
 ---
+
 
 <img src="/images/asean-countries/Economic-developments-in-ASEAN-countries.jpg" alt="economic developments banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: ASEAN countries - A look at technology and innovation
+title: 'ASEAN countries - A look at technology and innovation'
 permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-a-look-at-technology-and-innovation/
-breadcrumb: ASEAN countries - A look at technology and innovation
-collection_name: asean-know-overview
+breadcrumb: 'ASEAN countries - A look at technology and innovation'
+
 ---
+
 
 <img src="/images/asean-countries/Technology-and-innovation-in-ASEAN.jpg" alt="technology and innovation asean banner" style="width:800px;" />
 

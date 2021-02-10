@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Jumbo Seafood launches seventh site in China
+title: 'Jumbo Seafood launches seventh site in China'
 permalink: /china/share/what-employers-say/jumbo-seafood-china-launch/
-breadcrumb: Jumbo Seafood launches seventh site in China
-collection_name: china-share-employers
+breadcrumb: 'Jumbo Seafood launches seventh site in China'
+
 ---
+
 
 <img src="\images\china-employers\jumbo-expansion.jpg" alt="jumbo-expansion" style="width:800px;" />
 

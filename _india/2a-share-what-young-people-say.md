@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: What Young People Say
+title: 'What Young People Say'
 permalink: /india/share/what-young-people-say/
-breadcrumb: What Young People Say
-collection_name: india
-second_nav_title: "Share"
+breadcrumb: 'What Young People Say'
+third_nav_title: Share
+
 ---
+
 
 ![banner-what-young-people-say](\images\india-youngpeople\What-young-people-say-new.jpg)
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singaporean businesses line up to enter Vietnam
+title: 'Singaporean businesses line up to enter Vietnam'
 permalink: /asean-countries/share/what-employers-say/singaporean-businesses-vietnam/
-breadcrumb: Singaporean businesses line up to enter Vietnam
-collection_name: asean-share-employers
+breadcrumb: 'Singaporean businesses line up to enter Vietnam'
+
 ---
+
 
 <img src="\images\asean-employers\singaporean-businesses-vietnam.jpg" alt="singaporean-businesses-vietnam" style="width:800px;" />
 

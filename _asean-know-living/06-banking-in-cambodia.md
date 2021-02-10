@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial services, banking and payment systems in Cambodia
+title: 'Financial services, banking and payment systems in Cambodia'
 permalink: /asean-countries/know/living-in-asean-countries/financial-banking-payment-in-cambodia/
-breadcrumb: Financial services, banking and payment systems in Cambodia
-collection_name: asean-know-living
+breadcrumb: 'Financial services, banking and payment systems in Cambodia'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Cambodia-Banking.jpg" alt="Cambodia banking banner" style="width:800px;" />
 

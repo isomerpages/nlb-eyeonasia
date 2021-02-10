@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: United Arab Emirates
+title: 'United Arab Emirates'
 permalink: /other-asian-countries/uae/
-breadcrumb: United Arab Emirates
-collection_name: other-uae
+breadcrumb: 'United Arab Emirates'
 
 ---
+
 <img src="/images/uae/uae-banner.jpg" alt="UAE banner" style="width:800px;" />
 
 The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A country with a rich history, its rapid growth, modern infrastructure and future-oriented initiatives make it an attractive nation to live and work in.

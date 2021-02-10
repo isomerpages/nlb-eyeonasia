@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vietnam - Insights into the vegetable seeds industry
+title: 'Vietnam - Insights into the vegetable seeds industry'
 permalink: /asean-countries/share/what-young-people-say/vietnam-insights-vegetable-industry/
-breadcrumb: Vietnam - Insights into the vegetable seeds industry
-collection_name: asean-share-youngpeople
+breadcrumb: 'Vietnam - Insights into the vegetable seeds industry'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Vietnam-vegetable-seeds.jpg" alt="Vietnam insights vegetable industry banner" style="width:800px;" />
 

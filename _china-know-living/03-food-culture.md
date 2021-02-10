@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chinese food culture
+title: 'Chinese food culture'
 permalink: /china/know/living-in-china/food-culture/
-breadcrumb: Chinese food culture
-collection_name: china-know-living
+breadcrumb: 'Chinese food culture'
+
 ---
+
 
 <img src="\images\china-living\food-culture.jpg" alt="food culture" style="width:800px;" />
 

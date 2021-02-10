@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Philippines
+title: 'Housing in Philippines'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-philippines/
-breadcrumb: Housing in Philippines
-collection_name: asean-know-living
+breadcrumb: 'Housing in Philippines'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Philippines-Housing.jpg" alt="Housing in Philippines banner" style="width:800px;" />
 

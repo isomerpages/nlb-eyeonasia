@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chongqing - A profile
+title: 'Chongqing - A profile'
 permalink: /china/know/china-municipalities-provinces/chongqing-profile/
-breadcrumb: Chongqing - A profile
-collection_name: china-know-selected
+breadcrumb: 'Chongqing - A profile'
+
 ---
+
 
 <img src="\images\china-selected\chongqing-profile.jpg" alt="chongqing profile banner" style="width:800px;" />
 

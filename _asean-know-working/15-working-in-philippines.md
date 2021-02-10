@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in the Philippines
+title: 'Working in the Philippines'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-Philippines/
-breadcrumb: Working in the Philippines
-collection_name: asean-know-working
+breadcrumb: 'Working in the Philippines'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Philippines-Working.jpg" alt="Working in Philippines banner" style="width:800px;" />
 

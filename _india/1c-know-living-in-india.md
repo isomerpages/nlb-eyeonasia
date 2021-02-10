@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Living in India
+title: 'Living in India'
 permalink: /india/know/living-in-india/
-breadcrumb: Living in India
-collection_name: india
-second_nav_title: "Know"
+breadcrumb: 'Living in India'
+third_nav_title: Know
+
 ---
+
 
 ![banner-living-in-india](\images\india-living\Living-in-India-new.jpg)
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: From copycat to technology powerhouse
+title: 'From copycat to technology powerhouse'
 permalink: /china/share/what-young-people-say/from-copycat-to-technology-powerhouse
-breadcrumb: From copycat to technology powerhouse
-collection_name: china-share-youngpeople
+breadcrumb: 'From copycat to technology powerhouse'
+
 ---
+
 
 <img src="\images\china-youngpeople\copycat-to-tech-powerhouse.jpg" style="width:800px;" />
 

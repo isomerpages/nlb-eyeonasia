@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Brunei
+title: 'Housing in Brunei'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-brunei/
-breadcrumb: Housing in Brunei
-collection_name: asean-know-living
+breadcrumb: 'Housing in Brunei'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Brunei-Housing-Cover.jpg" alt="Housing in Brunei banner" style="width:800px;" />
 

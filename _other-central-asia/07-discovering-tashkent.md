@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Tashkent
+title: 'Discovering Tashkent'
 permalink: /other-asian-countries/central-asia/discovering-tashkent/
-breadcrumb: Discovering Tashkent
-collection_name: other-central-asia
+breadcrumb: 'Discovering Tashkent'
+
 ---
+
 
 <img src="\images\central-asia\tashkent-guide.jpg" alt="Tashkent guide banner" style="width:800px;" />
 

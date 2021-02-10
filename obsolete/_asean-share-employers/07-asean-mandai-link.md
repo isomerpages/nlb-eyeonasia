@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Mandai Link – Delivering cold chain logistics to Asia
+title: 'Mandai Link – Delivering cold chain logistics to Asia'
 permalink: /asean-countries/share/what-employers-say/mandai-link/
-breadcrumb: Mandai Link – Delivering cold chain logistics to Asia
-collection_name: asean-share-employers
+breadcrumb: 'Mandai Link – Delivering cold chain logistics to Asia'
+
 ---
+
 
 <img src="\images\asean-employers\mandai-link.jpg" alt="mandai link banner" style="width:800px;" />
 

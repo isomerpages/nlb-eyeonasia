@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Future economy
+title: 'Future economy'
 permalink: /india/know/working-in-india/future-economy/
-breadcrumb: Future economy
-collection_name: india-know-working
+breadcrumb: 'Future economy'
+
 ---
+
 
 <img src="\images\india-working\future-economy.jpg" alt="future economy" style="width:800px;" />
 

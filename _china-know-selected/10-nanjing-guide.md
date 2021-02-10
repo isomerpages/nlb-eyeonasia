@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Nanjing
+title: 'Discovering Nanjing'
 permalink: /china/know/china-municipalities-provinces/nanjing-guide/
-breadcrumb: Discovering Nanjing
-collection_name: china-know-selected
+breadcrumb: 'Discovering Nanjing'
+
 ---
+
 
 <img src="\images\china-selected\nanjing-guide.jpg" alt="nanjing guide banner" style="width:800px;" />
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Working in India
+title: 'Working in India'
 permalink: /india/know/working-in-india/
-breadcrumb: Working in India
-collection_name: india
-second_nav_title: "Know"
+breadcrumb: 'Working in India'
+third_nav_title: Know
+
 ---
+
 
 ![banner-working-in-india](\images\india-working\Working-in-India-new.jpg)
 

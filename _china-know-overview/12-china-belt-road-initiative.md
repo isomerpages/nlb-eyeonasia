@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Belt and Road Initiative
+title: 'Belt and Road Initiative'
 permalink: /china/know/overview-of-china/belt-road-initiatives/
-breadcrumb: Belt and Road Initiative
-collection_name: china-know-overview
+breadcrumb: 'Belt and Road Initiative'
 image: \images\china-overview\belt-and-road-initiative.jpg
+
 ---
+
 
 <img src="\images\china-overview\belt-and-road-initiative.jpg" alt="belt road banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: China’s consumer market and culture
+title: 'China’s consumer market and culture'
 permalink: /china/know/working-in-china/consumer-market-and-culture/
-breadcrumb: China’s consumer market and culture
-collection_name: china-know-working
+breadcrumb: 'China’s consumer market and culture'
+
 ---
+
 
 <img src="\images\china-working\consumer-market-and-culture.jpg" alt="consumer market and culture.jpg" style="width:800px;" />
 

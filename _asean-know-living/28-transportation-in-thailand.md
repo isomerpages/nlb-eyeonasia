@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transportation in Thailand
+title: 'Transportation in Thailand'
 permalink: /asean-countries/know/living-in-asean-countries/transportation-in-thailand/
-breadcrumb: Transportation in Thailand
-collection_name: asean-know-living
+breadcrumb: 'Transportation in Thailand'
+
 ---
+
 
 <img src="/images/asean-living/Transportation-Thailand.jpg" alt="Transportation Thailand banner" style="width:800px;" />
 

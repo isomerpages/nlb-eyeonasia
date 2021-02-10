@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Inspiring stories and insights
+title: 'Inspiring stories and insights'
 permalink: /india/know/working-in-india/inspiring-stories/
-breadcrumb: Inspiring stories and insights
-collection_name: india-know-working
+breadcrumb: 'Inspiring stories and insights'
+
 ---
+
 
 <img src="\images\india-working\inspiring-stories.jpg" alt="inspiring stories" style="width:800px;" />
 

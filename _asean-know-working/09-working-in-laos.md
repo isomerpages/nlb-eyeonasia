@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Laos
+title: 'Working in Laos'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-laos/
-breadcrumb: Working in Laos
-collection_name: asean-know-working
+breadcrumb: 'Working in Laos'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Laos-Working.jpg" alt="Working in Laos banner" style="width:800px;" />
 
