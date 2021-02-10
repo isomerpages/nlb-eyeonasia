@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Abu Dhabi
+title: 'Discovering Abu Dhabi'
 permalink: /other-asian-countries/uae/discovering-abu-dhabi/
-breadcrumb: Discovering Abu Dhabi
-collection_name: other-uae
+breadcrumb: 'Discovering Abu Dhabi'
+
 ---
+
 
 <img src="\images\uae\abu-dhabi-guide.jpg" alt="Abu Dhabi guide banner" style="width:800px;" />
 
