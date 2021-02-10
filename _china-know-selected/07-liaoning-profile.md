@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Liaoning - A profile
+title: 'Liaoning - A profile'
 permalink: /china/know/china-municipalities-provinces/liaoning-profile/
-breadcrumb: Liaoning - A profile
-collection_name: china-know-selected
+breadcrumb: 'Liaoning - A profile'
+
 ---
+
 
 <img src="\images\china-selected\liaoning-profile.jpg" alt="liaoning profile banner" style="width:800px;" />
 
