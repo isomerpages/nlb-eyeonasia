@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customs, costumes & etiquette in Vietnam
+title: 'Customs, costumes & etiquette in Vietnam'
 permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-vietnam/
-breadcrumb: Customs, costumes & etiquette in Vietnam
-collection_name: asean-know-living
+breadcrumb: 'Customs, costumes & etiquette in Vietnam'
+
 ---
+
 
 <img src="/images/asean-living/Customs-Vietnam.jpg" alt="Customs in Vietnam banner" style="width:800px;" />
 
