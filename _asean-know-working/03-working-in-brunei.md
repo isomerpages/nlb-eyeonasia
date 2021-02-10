@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Brunei
+title: 'Working in Brunei'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-brunei/
-breadcrumb: Working in Brunei
-collection_name: asean-know-working
+breadcrumb: 'Working in Brunei'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Brunei-Working.jpg" alt="Working in Brunei banner" style="width:800px;" />
 
