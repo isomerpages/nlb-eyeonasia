@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Insights into the commodity exchange industry
+title: 'Insights into the commodity exchange industry'
 permalink: /india/share/what-young-people-say/commodity-industry/
-breadcrumb: Insights into the commodity exchange industry
-collection_name: india-share-youngpeople
+breadcrumb: 'Insights into the commodity exchange industry'
+
 ---
+
 
 <img src="\images\india-youngpeople\commodity-industry.jpg" alt="commodity industry" style="width:800px;" />
 
