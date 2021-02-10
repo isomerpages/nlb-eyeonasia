@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Tianjin
+title: 'Discovering Tianjin'
 permalink: /china/know/china-municipalities-provinces/tianjin-guide/
-breadcrumb: Discovering Tianjin
-collection_name: china-know-selected
+breadcrumb: 'Discovering Tianjin'
+
 ---
+
 
 <img src="\images\china-selected\tianjin-guide.jpg" alt="tianjin guide banner" style="width:800px;" />
 
