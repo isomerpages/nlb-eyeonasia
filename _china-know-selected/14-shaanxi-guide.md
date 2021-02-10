@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Shaanxi
+title: 'Discovering Shaanxi'
 permalink: /china/know/china-municipalities-provinces/shaanxi-guide/
-breadcrumb: Discovering Shaanxi
-collection_name: china-know-selected
+breadcrumb: 'Discovering Shaanxi'
+
 ---
+
 
 <img src="\images\china-selected\shaanxi-guide.jpg" alt="shaanxi guide banner" style="width:800px;" />
 
