@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Armstrong Industrial – Collaborate not compete with global competitors
+title: 'Armstrong Industrial – Collaborate not compete with global competitors'
 permalink: /asean-countries/share/what-employers-say/armstrong-industrial/
-breadcrumb: Armstrong Industrial – Collaborate not compete with global competitors
-collection_name: asean-share-employers
+breadcrumb: 'Armstrong Industrial – Collaborate not compete with global competitors'
+
 ---
+
 
 <img src="\images\asean-employers\armstrong-industrial.jpg" alt="armstrong industrial banner" style="width:800px;" />
 
