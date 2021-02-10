@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Malaysia - A country profile
+title: 'Malaysia - A country profile'
 permalink: /asean-countries/know/overview-of-asean-countries/malaysia-a-country-profile/
-breadcrumb: Malaysia - A country profile
-collection_name: asean-know-overview
+breadcrumb: 'Malaysia - A country profile'
+
 ---
+
 
 <img src="/images/asean-countries/Malaysia snapshot cover iso.jpg" alt="Malaysia snapshot banner" style="width:800px;" />
 
