@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Empowering yourself with Chinese business strategies
+title: 'Empowering yourself with Chinese business strategies'
 permalink: /china/know/working-in-china/business-strategy/
-breadcrumb: Empowering yourself with Chinese business strategies
-collection_name: china-know-working
+breadcrumb: 'Empowering yourself with Chinese business strategies'
+
 ---
+
 
 <img src="\images\china-working\business-strategy.jpg" alt="business strategy" style="width:800px;" />
 
