@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Study mission to the Shanghai Futures Exchange
+title: 'Study mission to the Shanghai Futures Exchange'
 permalink: /china/share/what-young-people-say/shanghai-futures-exchange/
-breadcrumb: Study mission to the Shanghai Futures Exchange
-collection_name: china-share-youngpeople
+breadcrumb: 'Study mission to the Shanghai Futures Exchange'
+
 ---
+
 
 <img src="\images\china-youngpeople\futures-exchange.jpg" alt="shanghai futures exchange" style="width:800px;" />
 
