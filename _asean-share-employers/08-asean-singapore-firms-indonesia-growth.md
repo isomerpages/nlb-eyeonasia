@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore firms eye Indonesia for growth
+title: 'Singapore firms eye Indonesia for growth'
 permalink: /asean-countries/share/what-employers-say/singapore-firms-indonesia-growth/
-breadcrumb: Singapore firms eye Indonesia for growth
-collection_name: asean-share-employers
+breadcrumb: 'Singapore firms eye Indonesia for growth'
+
 ---
+
 
 <img src="\images\asean-employers\singapore-firms-indonesia-growth.jpg" alt="singapore-firms-indonesia-growth" style="width:800px;" />
 
