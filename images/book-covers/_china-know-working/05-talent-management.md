@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Talent management in China
+title: 'Talent management in China'
 permalink: /china/know/working-in-china/talent-management/
-breadcrumb: Talent management in China
-collection_name: china-know-working
+breadcrumb: 'Talent management in China'
+
 ---
+
 
 <img src="\images\china-working\talent-management.jpg" alt="talent management" style="width:800px;" />
 
