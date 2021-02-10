@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About Eye on Asia
+title: 'About Eye on Asia'
 permalink: /about/about-eye-on-asia
-breadcrumb: About Eye on Asia
-collection_name: about
+breadcrumb: 'About Eye on Asia'
+
 ---
+
 
 <style>
 .resp-container {
