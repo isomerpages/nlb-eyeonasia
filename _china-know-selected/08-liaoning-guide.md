@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Liaoning
+title: 'Discovering Liaoning'
 permalink: /china/know/china-municipalities-provinces/liaoning-guide/
-breadcrumb: Discovering Liaoning
-collection_name: china-know-selected
+breadcrumb: 'Discovering Liaoning'
+
 ---
+
 
 <img src="\images\china-selected\liaoning-guide.jpg" alt="liaoning guide banner" style="width:800px;" />
 
