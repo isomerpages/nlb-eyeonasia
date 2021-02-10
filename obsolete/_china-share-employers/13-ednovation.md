@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Ednovation – China makes way for next level pre-school education
+title: 'Ednovation – China makes way for next level pre-school education'
 permalink: /china/share/what-employers-say/ednovation/
-breadcrumb: Ednovation – China makes way for next level pre-school education
-collection_name: china-share-employers
+breadcrumb: 'Ednovation – China makes way for next level pre-school education'
+
 ---
+
 
 <img src="\images\china-employers\ednovation.jpg" alt="ednovation" style="width:800px;" />
 
