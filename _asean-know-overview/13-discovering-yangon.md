@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Yangon
+title: 'Discovering Yangon'
 permalink: /asean-countries/know/overview-of-asean-countries/discovering-yangon/
-breadcrumb: Discovering Yangon
-collection_name: asean-know-overview
+breadcrumb: 'Discovering Yangon'
+
 ---
+
 
 <img src="/images/asean-countries/Discovering Yangon iso.jpg" alt="Yangon guide banner" style="width:800px;" />
 
