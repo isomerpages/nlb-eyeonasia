@@ -55,15 +55,15 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 ---
 ### **References**
 
-[^1]: About Brunei. (2020). *Information Department Prime Minister’s Office Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.information.gov.bn](http://www.information.gov.bn/SitePages/About%20Brunei%20Darussalam.aspx](http://www.information.gov.bn/SitePages/About Brunei Darussalam.aspx)){:target="_blank"}
+[^1]: About Brunei. (2020). *Information Department Prime Minister’s Office Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.information.gov.bn](http://www.information.gov.bn/SitePages/About Brunei Darussalam.aspx){:target="_blank"}
 
 [^2]: Population. (2020). *Department of Economic Planning and Development.* Retrieved October 13, 2020, from [http://www.depd.gov.bn](http://www.depd.gov.bn/SitePages/Population.aspx){:target="_blank"}
 
-[^3]: About Brunei. (2020). *Information Department Prime Minister’s Office Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.information.gov.bn](http://www.information.gov.bn/SitePages/About%20Brunei%20Darussalam.aspx](http://www.information.gov.bn/SitePages/About Brunei Darussalam.aspx)){:target="_blank"}
+[^3]: About Brunei. (2020). *Information Department Prime Minister’s Office Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.information.gov.bn](http://www.information.gov.bn/SitePages/About Brunei Darussalam.aspx){:target="_blank"}
 
 [^4]: National accounts. (2020). *Department of Economic Planning and Development.* Retrieved October 13, 2020, from [http://www.depd.gov.bn](http://www.depd.gov.bn/SitePages/National%20Accounts.aspx){:target="_blank"}
 [^5]:  About Brunei Darussalam. (2017). *Government of Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/germany-berlin/SitePages/businessinbrunei.aspx){:target="_blank"}
-[^6]: Business in Brunei. (2018, September). *Ministry of Foreign Affairs.* Retrieved October 13, 2020, from [http://www.mofat.gov.bn](http://www.mofat.gov.bn/usa-washington/SitePages/businessinbrunei.aspx){:target="_blank"}
+[^6]: Business in Brunei. (2018, September). *Ministry of Foreign Affairs.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/usa-washington/SitePages/businessinbrunei.aspx){:target="_blank"}
 
 [^7]: Brunei. (2018). *Islamic Chamber of Commerce, Industry & Agriculture.* Retrieved October 13, 2020, from [http://www.iccia.com](https://www.iccia.com/?q=islamicTourism/home&ctr=Brunei){:target="_blank"}
 [^8]: Brunei Darussalam. (2020, June). *Ministry of Finance and Economy,* p. 2. Retrieved October 13, 2020, from [https://sustainabledevelopment.un.org](https://sustainabledevelopment.un.org/content/documents/26410VNR_2020_Brunei_Report.pdf){:target="_blank"}
@@ -81,4 +81,4 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 [^18]: Mission, vision and strategic objectives. (2017). *Ministry of Primary Resources and Tourism*. Retrieved October 13, 2020, from [http://www.tourism.gov.bn](http://www.tourism.gov.bn/SitePages/Mission,%20Vision%20and%20Strategic%20Objectives.aspx){:target="_blank"}
 [^19]: Tourism statistics for the year 2018. (2019). *Ministry of Primary Resources and Tourism.* Retrieved October 13, 2020, from [http://www.tourism.gov.bn](http://www.tourism.gov.bn/SiteCollectionDocuments/Statistics/Press Release - Tourism Statistics 2018.pdf){:target="_blank"}
 
-[^20]: Brunei show development in tourism industry the last 18 months. (2017, January 18). *Energy and Industry Department*. Retrieved October 13, 2020, from [http://www.ei.gov.bn](http://www.ei.gov.bn/Lists/Industry%20News/NewDispForm.aspx?ID=394){:target="_blank"}
+[^20]: Brunei show development in tourism industry the last 18 months. (2017, January 18). *Energy and Industry Department*. Retrieved October 13, 2020, from [https://brudirect.com](https://brudirect.com/news.php?id=21786){:target="_blank"}
