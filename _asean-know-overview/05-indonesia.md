@@ -35,7 +35,7 @@ Indonesia’s population reached 268.1 million in 2019, up from 238.5 million in
 
 **Economic profile**
 
-Indonesia is ASEAN’s largest economy.[^13] Its GDP in 2019 was IDR 15,833.9 trillion, a growth of more than six percent from the IDR 14,838.3 trillion achieved in 2017[^14]  Since 2014, the Indonesian government has been pushing ahead with its plans to make Indonesia a manufacturing hub for Southeast Asia. In 2018, it launched the Making Indonesia 4.0 Roadmap, which aims to boost the industry’s competitiveness by incorporating major innovations such as artificial intelligence, robotics and sensor technology. The roadmap focuses on the capability upgrading of five manufacturing sectors, namely F&B, automotive, electronics, chemicals, and textile and garment.[^15]
+Indonesia is ASEAN’s largest economy.[^13] Its GDP in 2019 was IDR 15,833.9 trillion, a growth of more than six percent from the IDR 14,838.3 trillion achieved in 2017.[^14]  Since 2014, the Indonesian government has been pushing ahead with its plans to make Indonesia a manufacturing hub for Southeast Asia. In 2018, it launched the Making Indonesia 4.0 Roadmap, which aims to boost the industry’s competitiveness by incorporating major innovations such as artificial intelligence, robotics and sensor technology. The roadmap focuses on the capability upgrading of five manufacturing sectors, namely F&B, automotive, electronics, chemicals, and textile and garment.[^15]
 
  **Consumer market**
 
@@ -90,6 +90,6 @@ Indonesia also promotes itself as a key halal destination in the region by devel
 
 [^20]: Tourism sector Indonesia: Rising foreign exchange earnings. (2017, January 22). *Indonesia Investments.* Retrieved October 15, 2020, from [https://www.indonesia-investments.com](https://www.indonesia-investments.com/news/todays-headlines/tourism-sector-indonesia-rising-foreign-exchange-earnings/item7547){:target="_blank"}
 
-[^24]: Indonesia targets Chinese visitors with halal tourism promotion. (2017, August 26). *Jakarta Globe.* Retrieved October 15, 2020 from [https://jakartaglobe.id](https://jakartaglobe.id/news/indonesia-targets-chinese-visitors-with-halal-tourism-promotion/){:target="_blank"}
+[^21]: Indonesia targets Chinese visitors with halal tourism promotion. (2017, August 26). *Jakarta Globe.* Retrieved October 15, 2020 from [https://jakartaglobe.id](https://jakartaglobe.id/news/indonesia-targets-chinese-visitors-with-halal-tourism-promotion/){:target="_blank"}
 
-[^25]: Tourism and health ministries to develop medical tourism in Indonesia. (2017, September 27). *The Jakarta Post.* Retrieved October 15, 2020, from [https://www.thejakartapost.com](https://www.thejakartapost.com/travel/2017/09/27/tourism-and-health-ministries-to-develop-medical-tourism-in-indonesia.html){:target="_blank"}
+[^22]: Tourism and health ministries to develop medical tourism in Indonesia. (2017, September 27). *The Jakarta Post.* Retrieved October 15, 2020, from [https://www.thejakartapost.com](https://www.thejakartapost.com/travel/2017/09/27/tourism-and-health-ministries-to-develop-medical-tourism-in-indonesia.html){:target="_blank"}

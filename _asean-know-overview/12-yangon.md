@@ -64,7 +64,7 @@ As of 30 September 2018, the highest foreign direct investment inflows to Myanma
 
 [^9]:New Yangon Development Company Ltd. (n.d.). Retrieved December 10, 2020, from <https://nydc.com.mm/>{:target="blank"}; Yee, Y. M. (2019, January 25). Yangon’s new city to start bidding process. *Myanmar Times.* Retrieved December 10, 2020, [https://www.mmtimes.com](https://www.mmtimes.com/news/yangons-new-city-start-bidding-process.html){:target="blank"}; Doing business in Yangon 2018. (2018). *PricewaterhouseCooper Myanmar Co.,* p. 34. Retrieved December 10, 2020, from [https://www.pwc.com](https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf){:target="blank"}; Socio-economic master plan for New Yangon city. (2018, September). *New Yangon Development Company Ltd,* pp. 6, 9. Retrieved December 10, 2020, from [https://nydc.com.mm](https://nydc.com.mm/wp-files/NYDC-Socio-Economic-Master-Plan-English.pdf){:target="blank"}
 
-[^10]:Myanmar business guide. (2018.). *PwC,* pp. 24-25. Retrieved December 10, 2020, from https://www.pwc.com](https://www.pwc.com/mm/en/publications/assets/myanmar-business-guide.pdf){:target="_blank"}
+[^10]:Myanmar business guide. (2018.). *PwC,* pp. 24-25. Retrieved December 10, 2020, from [https://www.pwc.com](https://www.pwc.com/mm/en/publications/assets/myanmar-business-guide.pdf){:target="_blank"}
 
 [^11]:Yamon, A. (2019, January 19). Myanmar plans smart city in Thilawa SEZ. *Global New Light of Myanmar.* Retrieved December 10, 2020, from [http://www.globalnewlightofmyanmar.com](http://www.globalnewlightofmyanmar.com/myanmar-plans-smart-city-in-thilawa-sez/){:target="_blank"}
 

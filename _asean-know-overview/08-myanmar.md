@@ -31,14 +31,6 @@ Building on successful political and economic transformation, Myanmar is emergin
 
 Prior to the COVID-19 pandemic, economic growth in Myanmar was projected to be 6.3 percent in FY 2019-20 and 6.4 percent in FY 2020-21.[^10] Due to the effects of the pandemic, the economy is projected to grow by two percent in FY 20-21, with domestic economic activity gradually recovering. The medium-term growth outlook is positive, with growth estimated to recover to seven percent on average supported by new investments in construction activities in industrial and urban development projects; road transport and communication infrastructure development; power and energy; a gradual resurgence in manufacturing activities; and increased use of digital technology, which could boost productivity across a broad range of sectors.[^11]
 
-Myanmar’s economy is being liberalised to develop a market-oriented system as well as to provide support to the development of the agriculture, industry and infrastructure sectors.  Foreign exchange control was abolished in April 2012, and in 2014, the Central Bank of Myanmar gave nine foreign banks the license to operate in the country.
-
-Economic liberalisation is also evident in the telecommunications sector when the government gave two international telecommunications operators the license to operate in the country for a period of 15 years.[^11]
-
-<!--### **Industries**
-
-Myanmar has a large service sector which accounts for 46 percent of GDP. Industry and agriculture account for 28 percent and 26 percent of GDP respectively. The country’s major industry sectors are agricultural processing, manufacturing, construction and transportation.-->
-
 ### **Foreign Trade**
 
 Myanmar's foreign trade reached over US$7.6 billion in the first quarter of the fiscal year 2020-2021. From Oct 2020 to January 2021, the country earned over US$3.68 billion dollars from exports while its imports valued over US$3.92 billion. About 80 percent of the country's trade with foreign countries is done through sea route and its border trade is conducted with neighbouring China, Thailand, Bangladesh and India. Myanmar's main exports included agricultural products, animal products, marine products minerals, forest products, manufacturing goods and others, while importing included capital goods, intermediate goods and consumer goods.[^12]
@@ -81,7 +73,7 @@ In October 2018, tourists from Japan, South Korea, Hong Kong and Macau were gran
 
 [^12]:Myanmar's foreign trade reaches over 7.6 bln USD in Q1 of FY 2020-21. (2021, January 9). *Xinhua Net.* Retrieved January 25, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/2021-01/09/c_139654307.htm){:target="_blank"}
 
-[^13]:Aw, C. W. (2019, September 25). Singapore, Myanmar sign new investment treaty. *The Straits Times*. Retrieved January 25, 2021, from [http://www.straitstimes.com](https://www.straitstimes.com/business/spore-myanmar-sign-new-investment-treaty{:target="_blank"}
+[^13]:Aw, C. W. (2019, September 25). Singapore, Myanmar sign new investment treaty. *The Straits Times*. Retrieved January 25, 2021, from [http://www.straitstimes.com](https://www.straitstimes.com/business/spore-myanmar-sign-new-investment-treaty){:target="_blank"}
 [^14]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post*. Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="_blank"}
 [^15]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post.* Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="_blank"}
 [^16]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post.* Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="blank"} ;  Booming tourism times to be back in Myanmar? (2019, October 11). *ASEAN Travel.* Retrieved January 25, 2021, from [http://asean.travel](http://asean.travel/2019/10/11/booming-tourism-times-to-be-back-in-myanmar/){:target="blank"}

@@ -27,7 +27,7 @@ This article provides an overview of Surabaya for those keen on exploring the po
 
 ### **Introduction**
 
-Surabaya, known as the City of Heroes, is the second largest city in Indonesia, after Jakarta.[^6] The provincial capital of East Java shares its borders with Madura Strait to the north and east, Sidoarjo Regency to the south, and Gresik Regency to the west.[^7]It comprises 31 sub-districts and is well connected by land, air and sea transport infrastructure to serve local, regional and international travellers.[^8]
+Surabaya, known as the City of Heroes, is the second largest city in Indonesia, after Jakarta.[^6] The provincial capital of East Java shares its borders with Madura Strait to the north and east, Sidoarjo Regency to the south, and Gresik Regency to the west.[^7] It comprises 31 sub-districts and is well connected by land, air and sea transport infrastructure to serve local, regional and international travellers.[^8]
 
 With free elementary to high school education as well as a “12 years of compulsory study” policy, which requires all children to attend school for 12 years, Surabaya is an education hub. It also offers non-formal education and provides free work training to upskill and prepare workers for the future. Apart from its well-known tertiary institutions such as the Sepuluh Nopember Institute of Technology, Airlangga University and Surabaya State University, Surabaya also has about 100 vocational schools that specialise in business, agribusiness, technology and engineering, informatics, communication, health and technology.[^9]
 

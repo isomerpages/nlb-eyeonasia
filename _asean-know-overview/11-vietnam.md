@@ -51,7 +51,7 @@ Tourism contributes greatly to Vietnam’s economic growth. It was voted as “A
 
 [^1]:About Vietnam. (n.d.). *Socialist Republic of Viet Nam Government Portal.* Retrieved December 10, 2020, from [http://chinhphu.vn](http://chinhphu.vn/portal/page/portal/English/TheSocialistRepublicOfVietnam/AboutVietnam/AboutVietnamDetail?categoryId=10000103&articleId=10000505){:target="_blank"}
 
-[^2]:Statistical yearbook of Viet Nam 2016 – Foreword. (2017). Statistical Publishing House, p. 20. Retrieved October 31, 2017, from [https://www.gso.gov.vn](https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=18533){:target="_blank"}
+[^2]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p. 97. Retrieved December 10, 2020, from [https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
 
 [^3]:Nguyen Xuan Phuc was sworn in as Prime Minister. (2016, April 7). *Vietnam Government Portal*. Retrieved December 10, 2020, from [http://primeminister.chinhphu.vn](http://primeminister.chinhphu.vn/VideoView.aspx?itemid=38){:target="_blank"}
 

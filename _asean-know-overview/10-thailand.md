@@ -33,7 +33,7 @@ The total population of Thailand was almost 66.6 million in 2019. Around 48.96 p
 
 ### **Economy**
 
-Thailand has a mixed economy with the major economic sectors being agriculture, manufacturing, tourism, service and natural resource. Its GDP in 2019 was 16,879 billion baht.[^13]Its economic growth sectors include tourism, automotive and food manufacturing, which are supported by its well-developed transportation system, infrastructure and communications systems.[^14]
+Thailand has a mixed economy with the major economic sectors being agriculture, manufacturing, tourism, service and natural resource. Its GDP in 2019 was 16,879 billion baht.[^13] Its economic growth sectors include tourism, automotive and food manufacturing, which are supported by its well-developed transportation system, infrastructure and communications systems.[^14]
 
 A leading exporter of rubber, Thailand also exports crops such as rice, vegetables and fruits. It is also famous for its livestock exports, as well as exports of freshwater fish and marine fishery. Its industrial exports include agro-industry, textile, electric appliance and automobiles. Important natural resources like limestone, gypsum, glass, sand, marble, tin and natural gas also contribute to the economy.[^15]
 

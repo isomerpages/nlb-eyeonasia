@@ -79,9 +79,9 @@ Lao PDR welcomed 4.58 million international visitors in 2019, representing a gro
 
 [^15]:Lee, X.E. (2017, May 2). Opportunities for Singapore companies to invest in Laos, says, its PM. *Sgsme.sg.* Retrieved January 25, 2021, from [http://www.sgsme.sg](http://www.sgsme.sg/news/opportunities-singapore-companies-invest-laos-says-its-pm){:target="_blank"}
 
-[^19]:Surbana Jurong, Phongsavanh Group and Mekong Group collaborate to support Laos’ growth journey. (2017, September 1). *Surbana Jurong.* Retrieved January 25, 2021, from [https://surbanajurong.com](https://surbanajurong.com/resources/press-releases/collaborate-support-laos-growth-journey/){:target="_blank"}
+[^16]:Surbana Jurong, Phongsavanh Group and Mekong Group collaborate to support Laos’ growth journey. (2017, September 1). *Surbana Jurong.* Retrieved January 25, 2021, from [https://surbanajurong.com](https://surbanajurong.com/resources/press-releases/collaborate-support-laos-growth-journey/){:target="_blank"}
 
-[^20]:Laos' foreign tourist arrivals up 9 percent in 2019. (2020, January 8). *Xinhua News.* Retrieved January 25, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/asiapacific/2020-01/08/c_138688181.htm){:target="_blank"}
+[^17]:Laos' foreign tourist arrivals up 9 percent in 2019. (2020, January 8). *Xinhua News.* Retrieved January 25, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/asiapacific/2020-01/08/c_138688181.htm){:target="_blank"}
 
 
 
