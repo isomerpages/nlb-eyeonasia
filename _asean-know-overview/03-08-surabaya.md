@@ -5,8 +5,7 @@ breadcrumb: 'Surabaya - A city profile'
 
 ---
 
-
-<!-- <img src="/images/asean-countries/Yangon snapshot iso.jpg" alt="Yangon snapshot banner" style="width:800px;" /> -->
+<img src="/images/asean-countries/Surabaya-snapshot-cover.jpg" alt="Surabaya snapshot banner" style="width:800px;" />
 
 <!-- https://www.istockphoto.com/photo/aerial-view-of-cityscape-at-night-with-vibrant-lights-surabaya-gm970142094-264349522?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2FSurabaya%2F&utm_medium=affiliate&utm_source=pexels&utm_term=surabaya -->
 
