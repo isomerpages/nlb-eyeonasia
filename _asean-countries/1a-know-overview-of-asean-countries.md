@@ -145,11 +145,10 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/overview-of-asean-countries/myanmar-a-country-profile/" class="project-link">
+			<a href="/asean-countries/know/overview-of-asean-countries/surabaya-a-city-profile/" class="project-link">
 				<img src="/images/asean-countries/Surabaya-snapshot-small.jpg" alt="Surabaya - A City Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -158,18 +157,18 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</div>
 			</a>
 		</div>
-		<!--div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/overview-of-asean-countries/philippines-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Philippines-snapshot-small.jpg" alt="Philippines: A Country Profile" class="project-image">
+		<div class="col is-half-tablet padding--bottom--lg">
+				<img src="/images/asean-countries/placeholder-ASEAN.jpg" alt="Discover ASEAN" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Philippines: A Country Profile</b></h5>
+					<h5><b></b></h5>
 				</div>
 			</div>
 			</a>
-		</div-->
+		</div>
 	</div>
 </div>
+
 
 <p><p>
 
