@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial services, banking and payment systems in Brunei
+title: 'Financial services, banking and payment systems in Brunei'
 permalink: /asean-countries/know/living-in-asean-countries/financial-banking-payment-in-brunei/
-breadcrumb: Financial services, banking and payment systems in Brunei
-collection_name: asean-know-living
+breadcrumb: 'Financial services, banking and payment systems in Brunei'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Brunei-Banking.jpg" alt="Brunei banking banner" style="width:800px;" />
 

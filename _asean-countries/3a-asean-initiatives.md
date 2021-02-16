@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Initiatives
 permalink: /asean-countries/go/initiatives/
 breadcrumb: Initiatives
-collection_name: asean-countries
-second_nav_title: "Go"
+third_nav_title: Go
+
 ---
+
 
 ![banner-asean-go-for-professionals](\images\asean-professionals\For-young-professionals-new.jpg)
 

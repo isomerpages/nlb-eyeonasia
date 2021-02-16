@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Social commerce in China
+title: 'Social commerce in China'
 permalink: /china/know/overview-of-china/social-commerce/
-breadcrumb: Social Commerce in China
-collection_name: china-know-overview
+breadcrumb: 'Social Commerce in China'
 image: \images\china-overview\social-commerce.jpg
+
 ---
+
 
 <img src="\images\china-overview\social-commerce.jpg" alt="social commerce banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Learning journey to the world-class Shanghai International Port
+title: 'Learning journey to the world-class Shanghai International Port'
 permalink: /china/share/what-young-people-say/shanghai-learning-journey/
-breadcrumb: Learning journey to the world-class Shanghai International Port
-collection_name: china-share-youngpeople
+breadcrumb: 'Learning journey to the world-class Shanghai International Port'
+
 ---
+
 
 <img src="\images\china-youngpeople\shanghai-learning-journey.jpg" alt="shanghai learning journey" style="width:800px;" />
 

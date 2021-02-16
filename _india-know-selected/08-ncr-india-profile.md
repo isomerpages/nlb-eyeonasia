@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: National Capital Region of India - A profile
+title: 'National Capital Region of India - A profile'
 permalink: /india/know/selected-india-states/ncr-india-profile/
-breadcrumb: National Capital Region of India - A profile
-collection_name: india-know-selected
+breadcrumb: 'National Capital Region of India - A profile'
+
 ---
+
 
 <img src="\images\india-selected\ncr-india-profile.jpg" alt="ncr india profile" style="width:800px;" />
 

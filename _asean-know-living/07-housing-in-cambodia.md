@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Cambodia
+title: 'Housing in Cambodia'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-cambodia/
-breadcrumb: Housing in Cambodia	
-collection_name: asean-know-living
+breadcrumb: 'Housing in Cambodia'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Cambodia-Housing.jpg" alt="Housing in Cambodia banner" style="width:800px;" />
 

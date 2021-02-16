@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Gold Kili – Gold New World
+title: 'Gold Kili – Gold New World'
 permalink: /china/share/what-employers-say/gold-kili/
-breadcrumb: Gold Kili – Gold New World
-collection_name: china-share-employers
+breadcrumb: 'Gold Kili – Gold New World'
+
 ---
+
 
 <img src="\images\china-employers\gold-kili.jpg" alt="gold kili" style="width:800px;" />
 

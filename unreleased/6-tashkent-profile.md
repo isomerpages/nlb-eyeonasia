@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Tashkent - A city profile
+title: 'Tashkent - A city profile'
 permalink: /other-asian-countries/central-asia/tashkent-a-city-profile/
-breadcrumb: Tashkent - A city profile
-collection_name: other-central-asia
+breadcrumb: 'Tashkent - A city profile'
+
 ---
+
 
 <img src="\images\test\tashkent-profile-test.jpg" alt="Tashkent snapshot banner" style="width:800px;" />
 

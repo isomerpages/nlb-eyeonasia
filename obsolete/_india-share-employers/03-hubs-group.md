@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: The Hub’s Group - Top tips from a Singapore company flourishing in India
+title: 'The Hub’s Group - Top tips from a Singapore company flourishing in India'
 permalink: /india/share/what-employers-say/hubs-group/
-breadcrumb: The Hub’s Group - Top tips from a Singapore company flourishing in India
-collection_name: india-share-employers
+breadcrumb: 'The Hub’s Group - Top tips from a Singapore company flourishing in India'
+
 ---
+
 
 <img src="\images\india-employers\hubs-group.jpg" alt="hubs group" style="width:800px;" />
 

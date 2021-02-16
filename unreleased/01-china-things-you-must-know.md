@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: 9 things you must know when doing business in China
+title: '9 things you must know when doing business in China'
 permalink: /china/share/what-employers-say/things-you-must-know/
-breadcrumb: 9 things you must know when doing business in China
-collection_name: china-share-employers
+breadcrumb: '9 things you must know when doing business in China'
+
 ---
+
 
 <img src="\images\asean-employers\things-you-must-know.jpg" alt="things you must know" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customs, costumes & etiquette in Indonesia
+title: 'Customs, costumes & etiquette in Indonesia'
 permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-indonesia/
-breadcrumb: Customs, costumes & etiquette in Indonesia
-collection_name: asean-know-living
+breadcrumb: 'Customs, costumes & etiquette in Indonesia'
+
 ---
+
 
 <img src="/images/asean-living/Customs-Indonesia.jpg" alt="Customs in Indonesia banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customs, costumes & etiquette in Cambodia
+title: 'Customs, costumes & etiquette in Cambodia'
 permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-cambodia/
-breadcrumb: Customs, costumes & etiquette in Cambodia
-collection_name: asean-know-living
+breadcrumb: 'Customs, costumes & etiquette in Cambodia'
+
 ---
+
 
 <img src="/images/asean-living/Customs-Cambodia.jpg" alt="Customs in Cambodia banner" style="width:800px;" />
 

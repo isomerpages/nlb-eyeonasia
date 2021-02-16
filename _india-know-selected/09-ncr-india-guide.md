@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Delhi National Capital Region
+title: 'Discovering Delhi National Capital Region'
 permalink: /india/know/selected-india-states/ncr-india-guide/
-breadcrumb: Discovering Delhi National Capital Region
-collection_name: india-know-selected
+breadcrumb: 'Discovering Delhi National Capital Region'
+
 ---
+
 
 <img src="\images\india-selected\ncr-india-guide.jpg" alt="ncr india guide" style="width:800px;" />
 

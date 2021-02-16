@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Learning about China’s transformation
+title: 'Learning about China’s transformation'
 permalink: /china/know/overview-of-china/learning-china-transformation/
-breadcrumb: Learning about China’s transformation
-collection_name: china-know-overview
+breadcrumb: 'Learning about China’s transformation'
+
 ---
+
 
 <img src="\images\china-overview\china-transformation.jpg" alt="transformation china banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Maharashtra
+title: 'Discovering Maharashtra'
 permalink: /india/know/selected-india-states/maharashtra-guide/
-breadcrumb: Discovering Maharashtra
-collection_name: india-know-selected
+breadcrumb: 'Discovering Maharashtra'
+
 ---
+
 
 <img src="\images\india-selected\maharashtra-guide.jpg" alt="maharashtra guide" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore Communities in the UAE
+title: 'Singapore Communities in the UAE'
 permalink: /other-asian-countries/uae/singapore-communities-in-uae/
-breadcrumb: Singapore Communities in the UAE
-collection_name: other-uae
+breadcrumb: 'Singapore Communities in the UAE'
+
 ---
+
 
 ![banner-singapore-communities-in-india](\images\china\sg-communities-new.jpg)
 

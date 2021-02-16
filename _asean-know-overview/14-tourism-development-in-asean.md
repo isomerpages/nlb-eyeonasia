@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Tourism Development in ASEAN Countries
+title: 'Tourism Development in ASEAN Countries'
 permalink: /asean-countries/know/overview-of-asean-countries/tourism-development-in-asean/
-breadcrumb: Tourism Development in ASEAN Countries
-collection_name: asean-know-overview
+breadcrumb: 'Tourism Development in ASEAN Countries'
+
 ---
+
 
 <img src="/images/asean-countries/Tourism-in-ASEAN.jpg" alt="Tourism guide banner" style="width:800px;" />
 

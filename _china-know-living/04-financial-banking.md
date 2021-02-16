@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Looking at China’s financial and banking sector
+title: 'Looking at China’s financial and banking sector'
 permalink: /china/know/living-in-china/financial-and-banking-sector/
-breadcrumb: Looking at China’s financial and banking sector
-collection_name: china-know-living
+breadcrumb: 'Looking at China’s financial and banking sector'
+
 ---
+
 
 <img src="\images\china-living\financial-and-banking-sector.jpg" alt="financial and banking sector" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business guides by The Business Times
+title: 'Business guides by The Business Times'
 permalink: /asean-countries/share/what-employers-say/business-guides-by-the-business-times/
-breadcrumb: Business guides by The Business Times
-collection_name: asean-share-employers
+breadcrumb: 'Business guides by The Business Times'
+
 ---
+
 
 <img src="\images\asean-employers\business-guides-by-the-business-times.jpg" alt="business-guides-by-the-business-times" style="width:800px;" />
 

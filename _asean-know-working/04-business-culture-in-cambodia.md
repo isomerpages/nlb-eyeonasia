@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in Cambodia
+title: 'Business culture in Cambodia'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-cambodia/
-breadcrumb: Business culture in Cambodia
-collection_name: asean-know-working
+breadcrumb: 'Business culture in Cambodia'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Cambodia-Business-Culture.jpg" alt="Business culture Cambodia banner" style="width:800px;" />
 

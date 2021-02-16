@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: e-Forum – Reinventing yourself for pandemic job hunting
+title: 'e-Forum – Reinventing yourself for pandemic job hunting'
 permalink: /china/share/what-young-people-say/reinventing-yourself-for-pandemic-job-hunting/
-breadcrumb: e-Forum – Reinventing yourself for pandemic job hunting
-collection_name: china-share-youngpeople
+breadcrumb: 'e-Forum – Reinventing yourself for pandemic job hunting'
+
 ---
+
 
 <img src="\images\china-youngpeople\osg-1-image.jpg" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Myanmar
+title: 'Housing in Myanmar'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-myanmar/
-breadcrumb: Housing in Myanmar
-collection_name: asean-know-living
+breadcrumb: 'Housing in Myanmar'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Myanmar-Housing.jpg" alt="Housing in Myanmar banner" style="width:800px;" />
 

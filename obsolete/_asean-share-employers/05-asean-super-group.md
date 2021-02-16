@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Super Group – No Super foothold overseas without grit
+title: 'Super Group – No Super foothold overseas without grit'
 permalink: /asean-countries/share/what-employers-say/super-group/
-breadcrumb: Super Group – No Super foothold overseas without grit
-collection_name: asean-share-employers
+breadcrumb: 'Super Group – No Super foothold overseas without grit'
+
 ---
+
 
 <img src="\images\asean-employers\super-group.jpg" alt="super group banner" style="width:800px;" />
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: What Young People Say
+title: 'What Young People Say'
 permalink: /asean-countries/share/what-young-people-say/
-breadcrumb: What Young People Say
-collection_name: asean-countries
-second_nav_title: "Share"
+breadcrumb: 'What Young People Say'
+third_nav_title: Share
+
 ---
+
 
 ![banner-asean-share-what-young-people-say](\images\asean-youngpeople\What-young-people-say-new.jpg)
 

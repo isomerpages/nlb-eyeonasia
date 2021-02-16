@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in China
+title: 'Working in China'
 permalink: /china/know/working-in-china/working-in-china/
-breadcrumb: Working in China
-collection_name: china-know-working
+breadcrumb: 'Working in China'
+
 ---
+
 
 <img src="\images\china-working\working-in-china.jpg" alt="working in china" style="width:800px;" />
 

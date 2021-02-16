@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Malaysia
+title: 'Working in Malaysia'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-malaysia/
-breadcrumb: Working in Malaysia
-collection_name: asean-know-working
+breadcrumb: 'Working in Malaysia'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Malaysia-Working.jpg" alt="Working in Malaysia banner" style="width:800px;" />
 

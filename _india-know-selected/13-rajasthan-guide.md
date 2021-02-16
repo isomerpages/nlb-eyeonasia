@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Rajasthan
+title: 'Discovering Rajasthan'
 permalink: /india/know/selected-india-states/rajasthan-guide/
-breadcrumb: Discovering Rajasthan
-collection_name: india-know-selected
+breadcrumb: 'Discovering Rajasthan'
+
 ---
+
 
 <img src="\images\india-selected\rajasthan-guide.jpg" alt="rajasthan guide" style="width:800px;" />
 

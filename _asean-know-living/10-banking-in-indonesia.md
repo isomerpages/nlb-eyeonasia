@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial services, banking and payment systems in Indonesia
+title: 'Financial services, banking and payment systems in Indonesia'
 permalink: /asean-countries/know/living-in-asean-countries/financial-banking-payment-in-indonesia/
-breadcrumb: Financial services, banking and payment systems in Indonesia
-collection_name: asean-know-living
+breadcrumb: 'Financial services, banking and payment systems in Indonesia'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Indonesia-Banking.jpg" alt="Indonesia banking banner" style="width:800px;" />
 

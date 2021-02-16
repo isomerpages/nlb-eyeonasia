@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Innovation in China
+title: 'Innovation in China'
 permalink: /china/know/overview-of-china/innovation-in-china/
-breadcrumb: Innovation in China
-collection_name: china-know-overview
+breadcrumb: 'Innovation in China'
+
 ---
+
 
 <img src="\images\china-overview\innovation-in-china.jpg" alt="innovation china banner" style="width:800px;" />
 

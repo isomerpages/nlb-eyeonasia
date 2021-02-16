@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Selected China municipalities and provinces
+title: 'Selected China municipalities and provinces'
 permalink: /china/know/selected-china-municipalities-and-provinces/
-breadcrumb: Selected China municipalities and provinces
-collection_name: china
-second_nav_title: "Know"
+breadcrumb: 'Selected China municipalities and provinces'
+third_nav_title: Know
+
 ---
+
 
 ![banner-china-selected-china-municipalities-and-provinces](\images\china-selected\Selected-China-Provinces-new.jpg)
 

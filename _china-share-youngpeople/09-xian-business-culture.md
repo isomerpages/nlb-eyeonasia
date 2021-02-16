@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Learning about Xi’an business culture through immersion
+title: 'Learning about Xi’an business culture through immersion'
 permalink: /china/share/what-young-people-say/xian-business-culture/
-breadcrumb: Learning about Xi’an business culture through immersion
-collection_name: china-share-youngpeople
+breadcrumb: 'Learning about Xi’an business culture through immersion'
+
 ---
+
 
 <img src="\images\china-youngpeople\xian-business-culture.jpg" style="width:800px;" />
 

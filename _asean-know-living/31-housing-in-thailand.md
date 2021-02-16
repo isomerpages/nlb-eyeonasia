@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Thailand
+title: 'Housing in Thailand'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-thailand/
-breadcrumb: Housing in Thailand
-collection_name: asean-know-living
+breadcrumb: 'Housing in Thailand'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Thailand-Housing.jpg" alt="Housing in Thailand banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vietnam - Insights into the coffee industry
+title: 'Vietnam - Insights into the coffee industry'
 permalink: /asean-countries/share/what-young-people-say/vietnam-insights-coffee-industry/
-breadcrumb: Vietnam - Insights into the coffee industry
-collection_name: asean-share-youngpeople
+breadcrumb: 'Vietnam - Insights into the coffee industry'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Vietnam-coffee-industry.jpg" alt="Vietnam insights coffee industry banner" style="width:800px;" />
 

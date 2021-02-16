@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Myanmar - Travel and learn
+title: 'Myanmar - Travel and learn'
 permalink: /asean-countries/share/what-young-people-say/myanmar-travel-and-learn/
-breadcrumb: Myanmar - Travel and learn
-collection_name: asean-share-youngpeople
+breadcrumb: 'Myanmar - Travel and learn'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Travel-and-learn.jpg" alt="Myanmar travel and learn banner" style="width:800px;" />
 

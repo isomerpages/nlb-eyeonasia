@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Navigating China as a Singaporean
+title: 'Navigating China as a Singaporean'
 permalink: /china/share/what-employers-say/navigating-china/
-breadcrumb: Navigating China as a Singaporean
-collection_name: china-share-employers
+breadcrumb: 'Navigating China as a Singaporean'
+
 ---
+
 
 <img src="\images\asean-employers\navigating-china.png" alt="things you must know" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: ASEAN countries - Biographies of selected key political leaders
+title: 'ASEAN countries - Biographies of selected key political leaders'
 permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-biographies-of-selected-key-political-leaders/
-breadcrumb: ASEAN countries - Biographies of selected key political leaders
-collection_name: asean-know-overview
+breadcrumb: 'ASEAN countries - Biographies of selected key political leaders'
+
 ---
+
 
 <img src="/images/asean-countries/ASEAN-countries-Biographies.jpg" alt="ASEAN biographies banner" style="width:800px;" />
 

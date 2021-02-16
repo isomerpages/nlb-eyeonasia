@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Commuting in India
+title: 'Commuting in India'
 permalink: /india/know/living-in-india/commuting-in-india/
-breadcrumb: Commuting in India
-collection_name: india-know-living
+breadcrumb: 'Commuting in India'
+
 ---
+
 
 <img src="\images\india-living\commuting-in-india.jpg" alt="commuting in india" style="width:800px;" />
 

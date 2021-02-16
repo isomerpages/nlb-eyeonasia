@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering India’s history
+title: 'Discovering India’s history'
 permalink: /india/know/overview-of-india/discovering-india-history/
-breadcrumb: Discovering India’s history
-collection_name: india-know-overview
+breadcrumb: 'Discovering India’s history'
+
 ---
+
 
 <img src="\images\india-overview\discovering-india-history.jpg" alt="discovering india history" style="width:800px;" />
 

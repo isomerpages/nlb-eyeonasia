@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Guangdong - A profile
+title: 'Guangdong - A profile'
 permalink: /china/know/china-municipalities-provinces/guangdong-profile/
-breadcrumb: Guangdong - A profile
-collection_name: china-know-selected
+breadcrumb: 'Guangdong - A profile'
+
 ---
+
 
 <img src="\images\china-selected\guangdong-profile.jpg" alt="guangdong profile banner" style="width:800px;" />
 

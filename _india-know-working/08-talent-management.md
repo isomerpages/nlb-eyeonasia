@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Talent management
+title: 'Talent management'
 permalink: /india/know/working-in-india/talent-management/
-breadcrumb: Talent management
-collection_name: india-know-working
+breadcrumb: 'Talent management'
+
 ---
+
 
 <img src="\images\india-working\talent-management.jpg" alt="talent management" style="width:800px;" />
 

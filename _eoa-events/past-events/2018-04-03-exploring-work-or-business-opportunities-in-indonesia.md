@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Exploring work or business opportunities in Indonesia?
+title: 'Exploring work or business opportunities in Indonesia?'
 permalink: /events/past-events/03-apr-2018/
-date: 2018-04-03
+date: 2018-04-03T00:00:00.000Z
+
 ---
+
 
 <img src="\images\past-events\03-apr-2018\banner.jpg" alt="03-apr-2018 banner" style="width:800px;" />
 

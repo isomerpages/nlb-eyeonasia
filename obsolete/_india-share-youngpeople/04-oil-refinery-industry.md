@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Insights into the oil refinery industry
+title: 'Insights into the oil refinery industry'
 permalink: /india/share/what-young-people-say/oil-refinery-industry/
-breadcrumb: Insights into the oil refinery industry
-collection_name: india-share-youngpeople
+breadcrumb: 'Insights into the oil refinery industry'
+
 ---
+
 
 <img src="\images\india-youngpeople\oil-refinery-industry.jpg" alt="oil refinery industry" style="width:800px;" />
 

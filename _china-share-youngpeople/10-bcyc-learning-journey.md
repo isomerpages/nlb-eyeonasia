@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Learning journey to Xiamen, Shanghai and Suzhou
+title: 'Learning journey to Xiamen, Shanghai and Suzhou'
 permalink: /china/share/what-young-people-say/bcyc-learning-journey/
-breadcrumb: Learning journey to Xiamen, Shanghai and Suzhou
-collection_name: china-share-youngpeople
+breadcrumb: 'Learning journey to Xiamen, Shanghai and Suzhou'
+
 ---
+
 
 <img src="\images\china-youngpeople\bcyc-learning-journey.jpg" alt="bcyc learning journey" style="width:800px;" />
 

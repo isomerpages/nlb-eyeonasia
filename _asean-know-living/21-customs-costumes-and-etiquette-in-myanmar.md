@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customs, costumes & etiquette in Myanmar
+title: 'Customs, costumes & etiquette in Myanmar'
 permalink: /asean-countries/know/living-in-asean-countries/customs-costumes-etiquette-in-myanmar/
-breadcrumb: Customs, costumes & etiquette in Myanmar
-collection_name: asean-know-living
+breadcrumb: 'Customs, costumes & etiquette in Myanmar'
+
 ---
+
 
 <img src="/images/asean-living/Customs-Myanmar.jpg" alt="Customs in Myanmar banner" style="width:800px;" />
 

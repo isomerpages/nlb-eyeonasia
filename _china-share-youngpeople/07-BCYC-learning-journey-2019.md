@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Learning journey to Shenzhen, Guangzhou and Foshan
+title: 'Learning journey to Shenzhen, Guangzhou and Foshan'
 permalink: /china/share/what-young-people-say/bcyc-learning-journey-2019/
-breadcrumb: Learning journey to Shenzhen, Guangzhou and Foshan
-collection_name: china-share-youngpeople
+breadcrumb: 'Learning journey to Shenzhen, Guangzhou and Foshan'
+
 ---
+
 
 <img src="\images\china-youngpeople\BCYC_Learning_Journey_2019_Large.jpg" alt="BCYC learning journey 2019" style="width:800px;" />
 

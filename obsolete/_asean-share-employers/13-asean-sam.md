@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore Aerospace Manufacturing – SAM banks on M&A for the long haul
+title: 'Singapore Aerospace Manufacturing – SAM banks on M&A for the long haul'
 permalink: /asean-countries/share/what-employers-say/sam-aerospace/
-breadcrumb: Singapore Aerospace Manufacturing – SAM banks on M&A for the long haul
-collection_name: asean-share-employers
+breadcrumb: 'Singapore Aerospace Manufacturing – SAM banks on M&A for the long haul'
+
 ---
+
 
 <img src="\images\asean-employers\sam-aerospace.jpg" alt="sam banner" style="width:800px;" />
 

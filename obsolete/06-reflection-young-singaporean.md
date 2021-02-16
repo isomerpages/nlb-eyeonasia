@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Reflections by a young Singaporean in China
+title: 'Reflections by a young Singaporean in China'
 permalink: /china/share/what-young-people-say/reflections-young-singaporean/
-breadcrumb: Reflections by a young Singaporean in China
-collection_name: china-share-youngpeople
+breadcrumb: 'Reflections by a young Singaporean in China'
+
 ---
+
 
 <img src="\images\china-youngpeople\reflection-young-singaporean.jpg" alt="reflection young singaporean.jpg" style="width:800px;" />
 

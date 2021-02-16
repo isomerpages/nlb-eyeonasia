@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chinese language
+title: 'Chinese language'
 permalink: /china/know/living-in-china/chinese-language/
-breadcrumb: Chinese language
-collection_name: china-know-living
+breadcrumb: 'Chinese language'
+
 ---
+
 
 <img src="\images\china-living\chinese-language.jpg" alt="chinese language" style="width:800px;" />
 

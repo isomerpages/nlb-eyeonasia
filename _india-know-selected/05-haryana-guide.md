@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Haryana
+title: 'Discovering Haryana'
 permalink: /india/know/selected-india-states/haryana-guide/
-breadcrumb: Discovering Haryana
-collection_name: india-know-selected
+breadcrumb: 'Discovering Haryana'
+
 ---
+
 
 <img src="\images\india-selected\haryana-guide.jpg" alt="haryana guide" style="width:800px;" />
 

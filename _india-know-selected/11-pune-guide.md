@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Pune
+title: 'Discovering Pune'
 permalink: /india/know/selected-india-states/pune-guide/
-breadcrumb: Discovering Pune
-collection_name: india-know-selected
+breadcrumb: 'Discovering Pune'
+
 ---
+
 
 <img src="\images\india-selected\pune-guide.jpg" alt="pune guide" style="width:800px;" />
 

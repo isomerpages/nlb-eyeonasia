@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Business culture in Brunei
+title: 'Business culture in Brunei'
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-brunei/
-breadcrumb: Business culture in Brunei
-collection_name: asean-know-working
+breadcrumb: 'Business culture in Brunei'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Brunei-Business-Culture.jpg" alt="Business culture Brunei banner" style="width:800px;" />
 

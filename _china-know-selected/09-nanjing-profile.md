@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Nanjing - A profile
+title: 'Nanjing - A profile'
 permalink: /china/know/china-municipalities-provinces/nanjing-profile/
-breadcrumb: Nanjing - A profile
-collection_name: china-know-selected
+breadcrumb: 'Nanjing - A profile'
+
 ---
+
 
 <img src="\images\china-selected\nanjing-profile.jpg" alt="nanjing profile banner" style="width:800px;" />
 

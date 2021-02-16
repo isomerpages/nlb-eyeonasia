@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Modern history of Singapore and China through ‘Story of Yanxi Palace’ and ‘The Little Nyonya’ 
+title: 'Modern history of Singapore and China through ‘Story of Yanxi Palace’ and ‘The Little Nyonya’'
 permalink: /china/share/what-young-people-say/modern-history-of-singapore-and-china-through-story-of-yanxi-palace-and-the-little-nyonya
-breadcrumb: Modern history of Singapore and China through Story of Yanxi Palace and The Little Nyonya
-collection_name: china-share-youngpeople
+breadcrumb: 'Modern history of Singapore and China through Story of Yanxi Palace and The Little Nyonya'
+
 ---
+
 
 <img src="\images\china-youngpeople\modern-history-of-singapore-and-china.png" style="width:800px;" />
 

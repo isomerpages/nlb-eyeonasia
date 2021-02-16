@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Awards and other programmes (for students)
-permalink: 
-breadcrumb: Awards and other programmes (for students)
-collection_name: obsolete
+title: 'Awards and other programmes (for students)'
+permalink: null
+breadcrumb: 'Awards and other programmes (for students)'
+
 ---
+
 
 <img src="\images\asean-students\awards-students.jpg" alt="awards students banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: India’s influential young
+title: 'India’s influential young'
 permalink: /india/know/overview-of-india/influential-young/
-breadcrumb: India’s influential young
-collection_name: india-know-overview
+breadcrumb: 'India’s influential young'
+
 ---
+
 
 <img src="\images\india-overview\influential-young.jpg" alt="influential young" style="width:800px;" />
 

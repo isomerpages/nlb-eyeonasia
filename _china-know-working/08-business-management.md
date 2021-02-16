@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Uncovering business management in China
+title: 'Uncovering business management in China'
 permalink: /china/know/working-in-china/business-management/
-breadcrumb: Uncovering business management in China
-collection_name: china-know-working
+breadcrumb: 'Uncovering business management in China'
+
 ---
+
 
 <img src="\images\china-working\business-management.jpg" alt="business management" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Wilmar International – Integration key to Wilmar’s global success
+title: 'Wilmar International – Integration key to Wilmar’s global success'
 permalink: /asean-countries/share/what-employers-say/wilmar-international/
-breadcrumb: Wilmar International – Integration key to Wilmar’s global success
-collection_name: asean-share-employers
+breadcrumb: 'Wilmar International – Integration key to Wilmar’s global success'
+
 ---
+
 
 <img src="\images\asean-employers\wilmar-international.jpg" alt="wilmar international banner" style="width:800px;" />
 

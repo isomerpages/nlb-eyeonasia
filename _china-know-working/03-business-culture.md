@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Looking at China’s business culture
+title: 'Looking at China’s business culture'
 permalink: /china/know/working-in-china/business-culture/
-breadcrumb: Looking at China’s business culture
-collection_name: china-know-working
+breadcrumb: 'Looking at China’s business culture'
+
 ---
+
 
 <img src="\images\china-working\business-culture.jpg" alt="business culture" style="width:800px;" />
 

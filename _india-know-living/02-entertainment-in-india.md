@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Entertainment in India
+title: 'Entertainment in India'
 permalink: /india/know/living-in-india/entertainment-in-india/
-breadcrumb: Entertainment in India
-collection_name: india-know-living
+breadcrumb: 'Entertainment in India'
+
 ---
+
 
 <img src="\images\india-living\entertainment-in-india.jpg" alt="entertainment in india" style="width:800px;" />
 

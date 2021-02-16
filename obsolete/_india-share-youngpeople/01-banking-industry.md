@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Insights into the banking industry
+title: 'Insights into the banking industry'
 permalink: /india/share/what-young-people-say/banking-industry/
-breadcrumb: Insights into the banking industry
-collection_name: india-share-youngpeople
+breadcrumb: 'Insights into the banking industry'
+
 ---
+
 
 <img src="\images\india-youngpeople\banking-industry.jpg" alt="banking industry" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Shandong
+title: 'Discovering Shandong'
 permalink: /china/know/china-municipalities-provinces/shandong-guide/
-breadcrumb: Discovering Shandong
-collection_name: china-know-selected
+breadcrumb: 'Discovering Shandong'
+
 ---
+
 
 <img src="\images\china-selected\shandong-guide.jpg" alt="shandong guide banner" style="width:800px;" />
 

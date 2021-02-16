@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Corporate Social Responsibility in China
+title: 'Corporate Social Responsibility in China'
 permalink: /china/know/working-in-china/csr-china/
-breadcrumb: Corporate Social Responsibility in China
-collection_name: china-know-working
+breadcrumb: 'Corporate Social Responsibility in China'
+
 ---
+
 
 <img src="\images\china-working\csr-china.jpg" alt="csr china" style="width:800px;" />
 

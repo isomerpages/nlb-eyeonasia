@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: e-Forum – Shaping our digital economy and workforce
+title: 'e-Forum – Shaping our digital economy and workforce'
 permalink: /china/share/what-young-people-say/shaping-our-digital-economy-and-workforce/
-breadcrumb: e-Forum – Shaping our digital economy and workforce
-collection_name: china-share-youngpeople
+breadcrumb: 'e-Forum – Shaping our digital economy and workforce'
+
 ---
+
 
 <img src="\images\china-youngpeople\osg-2-image.jpg" style="width:800px;" />
 

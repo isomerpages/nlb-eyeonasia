@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Understanding India
+title: 'Understanding India'
 permalink: /india/know/overview-of-india/understanding-india/
-breadcrumb: Understanding India
-collection_name: india-know-overview
+breadcrumb: 'Understanding India'
+
 ---
+
 
 <img src="\images\india-overview\understanding-india.jpg" alt="understanding india" style="width:800px;" />
 

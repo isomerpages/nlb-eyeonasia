@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Indonesia
+title: 'Working in Indonesia'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-indonesia/
-breadcrumb: Working in Indonesia
-collection_name: asean-know-working
+breadcrumb: 'Working in Indonesia'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Indonesia-Working.jpg" alt="Working in Indonesia banner" style="width:800px;" />
 

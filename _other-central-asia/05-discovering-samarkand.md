@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering Samarkand
+title: 'Discovering Samarkand'
 permalink: /other-asian-countries/central-asia/discovering-samarkand/
-breadcrumb: Discovering Samarkand
-collection_name: other-central-asia
+breadcrumb: 'Discovering Samarkand'
+
 ---
+
 
 <img src="\images\central-asia\samarkand-guide.jpg" alt="Samarkand guide banner" style="width:800px;" />
 

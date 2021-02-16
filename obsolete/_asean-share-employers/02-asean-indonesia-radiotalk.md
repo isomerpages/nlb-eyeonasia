@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Indonesia - Radio talk by industry experts, Victor Chan and Farid MN
+title: 'Indonesia - Radio talk by industry experts, Victor Chan and Farid MN'
 permalink: /asean-countries/share/what-employers-say/indonesia-radio-talk-by-industry-experts/
-breadcrumb: Indonesia - Radio talk by industry experts, Victor Chan and Farid MN
-collection_name: asean-share-employers
+breadcrumb: 'Indonesia - Radio talk by industry experts, Victor Chan and Farid MN'
+
 ---
+
 
 <img src="\images\asean-employers\Indonesia-radio-talk.jpg" alt="Indonesia Insights about Yogyakarta banner" style="width:800px;" />
 

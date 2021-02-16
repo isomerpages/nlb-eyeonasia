@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Understanding China
+title: 'Understanding China'
 permalink: /china/know/overview-of-china/understanding-china/
-breadcrumb: Understanding China
-collection_name: china-know-overview
+breadcrumb: 'Understanding China'
+
 ---
+
 
 <img src="\images\china-overview\understanding-china.jpg" alt="understanding china banner" style="width:800px;" />
 

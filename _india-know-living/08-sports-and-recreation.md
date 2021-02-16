@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sports and recreation in India
+title: 'Sports and recreation in India'
 permalink: /india/know/living-in-india/sports-and-recreation-in-india/
-breadcrumb: Sports and recreation in India
-collection_name: india-know-living
+breadcrumb: 'Sports and recreation in India'
+
 ---
+
 
 <img src="\images\india-living\sports-in-india.jpg" alt="sports and recreation in india" style="width:800px;" />
 

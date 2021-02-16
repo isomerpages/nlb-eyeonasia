@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sembcorp Development – Knowing who will come is key to success
+title: 'Sembcorp Development – Knowing who will come is key to success'
 permalink: /china/share/what-employers-say/sembcorp-development/
-breadcrumb: Sembcorp Development – Knowing who will come is key to success
-collection_name: china-share-employers
+breadcrumb: 'Sembcorp Development – Knowing who will come is key to success'
+
 ---
+
 
 <img src="\images\china-employers\sembcorp-development.jpg" alt="sembcorp development" style="width:800px;" />
 

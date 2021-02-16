@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Working in Vietnam
+title: 'Working in Vietnam'
 permalink: /asean-countries/know/working-in-asean-countries/working-in-vietnam/
-breadcrumb: Working in Vietnam
-collection_name: asean-know-working
+breadcrumb: 'Working in Vietnam'
+
 ---
+
 
 <img src="/images/asean-working/ASEAN-Vietnam-Working.jpg" alt="Working in Vietnam banner" style="width:800px;" />
 

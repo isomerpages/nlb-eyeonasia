@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Indonesia - A market where obstacles and opportunities co-exist
+title: 'Indonesia - A market where obstacles and opportunities co-exist'
 permalink: /asean-countries/share/what-employers-say/indonesia-market/
-breadcrumb: Indonesia - A market where obstacles and opportunities co-exist
-collection_name: asean-share-employers
+breadcrumb: 'Indonesia - A market where obstacles and opportunities co-exist'
+
 ---
+
 
 <img src="\images\asean-employers\indonesia-market.jpg" alt="indonesia-market" style="width:800px;" />
 

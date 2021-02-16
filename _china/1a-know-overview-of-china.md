@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Overview of China
+title: 'Overview of China'
 permalink: /china/know/overview-of-china/
-breadcrumb: Overview of China
-collection_name: china
-second_nav_title: "Know"
+breadcrumb: 'Overview of China'
+third_nav_title: Know
+
 ---
+
 
 ![banner-china](\images\china\Overview-of-China-new.jpg)
 

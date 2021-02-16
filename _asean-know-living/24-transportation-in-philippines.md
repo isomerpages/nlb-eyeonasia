@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transportation in Philippines
+title: 'Transportation in Philippines'
 permalink: /asean-countries/know/living-in-asean-countries/transportation-in-philippines/
-breadcrumb: Transportation in Philippines
-collection_name: asean-know-living
+breadcrumb: 'Transportation in Philippines'
+
 ---
+
 
 <img src="/images/asean-living/Transportation-Philippines.jpg" alt="Transportation Philippines banner" style="width:800px;" />
 

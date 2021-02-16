@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Festivals in India
+title: 'Festivals in India'
 permalink: /india/know/living-in-india/festivals-in-india/
-breadcrumb: Festivals in India
-collection_name: india-know-living
+breadcrumb: 'Festivals in India'
+
 ---
+
 
 <img src="\images\india-living\festivals-in-india.jpg" alt="festivals in india" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transportation in Myanmar
+title: 'Transportation in Myanmar'
 permalink: /asean-countries/know/living-in-asean-countries/transportation-in-myanmar/
-breadcrumb: Transportation in Myanmar
-collection_name: asean-know-living
+breadcrumb: 'Transportation in Myanmar'
+
 ---
+
 
 <img src="/images/asean-living/Transportation-Myanmar.jpg" alt="Transportation Myanmar banner" style="width:800px;" />
 

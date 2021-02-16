@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Entrepreneurship in India
+title: 'Entrepreneurship in India'
 permalink: /india/know/working-in-india/entrepreneurship/
-breadcrumb: Entrepreneurship in India
-collection_name: india-know-working
+breadcrumb: 'Entrepreneurship in India'
+
 ---
+
 
 <img src="\images\india-working\entrepreneurship.jpg" alt="entrepreneurship" style="width:800px;" />
 

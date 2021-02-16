@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Housing in Vietnam
+title: 'Housing in Vietnam'
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-vietnam/
-breadcrumb: Housing in Vietnam
-collection_name: asean-know-living
+breadcrumb: 'Housing in Vietnam'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Vietnam-Housing.jpg" alt="Housing in Vietnam banner" style="width:800px;" />
 

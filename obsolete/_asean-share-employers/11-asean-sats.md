@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sats – Taking a bit of Changi to the world’s airports
+title: 'Sats – Taking a bit of Changi to the world’s airports'
 permalink: /asean-countries/share/what-employers-say/sats/
-breadcrumb: Sats – Taking a bit of Changi to the world’s airports
-collection_name: asean-share-employers
+breadcrumb: 'Sats – Taking a bit of Changi to the world’s airports'
+
 ---
+
 
 <img src="\images\asean-employers\sats-changi.jpg" alt="sats banner" style="width:800px;" />
 

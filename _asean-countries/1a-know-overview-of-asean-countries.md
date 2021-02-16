@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Overview of ASEAN Countries
+title: 'Overview of ASEAN Countries'
 permalink: /asean-countries/know/overview-of-asean-countries/
-breadcrumb: Overview of ASEAN Countries
-collection_name: asean-countries
-second_nav_title: "Know"
+breadcrumb: 'Overview of ASEAN Countries'
+third_nav_title: Know
 
 ---
+
 <img src="/images/asean-countries/Overview of ASEAN new.jpg" alt="ASEAN overview banner" style="width:800px;" />
 
 The Association of Southeast Asian Nations, or ASEAN, is a regional organization comprising ten Southeast Asian nations that promotes economic growth, social progress, cultural development and cooperation in the region. ASEAN fosters a peaceful community of nations that is strengthened by active collaboration and close ties with one another.
@@ -142,6 +141,33 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 			</div>
 			</a>
 		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/myanmar-a-country-profile/" class="project-link">
+				<img src="/images/asean-countries/Surabaya-snapshot-small.jpg" alt="Surabaya - A City Profile" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Surabaya: A City Profile</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<!--div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/know/overview-of-asean-countries/philippines-a-country-profile/" class="project-link">
+				<img src="/images/asean-countries/Philippines-snapshot-small.jpg" alt="Philippines: A Country Profile" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Philippines: A Country Profile</b></h5>
+				</div>
+			</div>
+			</a>
+		</div-->
 	</div>
 </div>
 

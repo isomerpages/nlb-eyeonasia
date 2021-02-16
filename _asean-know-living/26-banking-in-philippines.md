@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial services, banking and payment systems in Philippines
+title: 'Financial services, banking and payment systems in Philippines'
 permalink: /asean-countries/know/living-in-asean-countries/financial-banking-payment-in-philippines/
-breadcrumb: Financial services, banking and payment systems in Philippines
-collection_name: asean-know-living
+breadcrumb: 'Financial services, banking and payment systems in Philippines'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Philippines-Banking.jpg" alt="Philippines banking banner" style="width:800px;" />
 

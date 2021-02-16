@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Select Group bounces back from “painful” failure and now flourishing in SEA
+title: 'Select Group bounces back from “painful” failure and now flourishing in SEA'
 permalink: /asean-countries/share/what-employers-say/select-group/
-breadcrumb: Select Group bounces back from “painful” failure and now flourishing in SEA
-collection_name: asean-share-employers
+breadcrumb: 'Select Group bounces back from “painful” failure and now flourishing in SEA'
+
 ---
+
 
 <img src="\images\asean-employers\select-group.jpg" alt="select group banner" style="width:800px;" />
 

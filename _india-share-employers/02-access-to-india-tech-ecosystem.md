@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore startups get access to India tech ecosystem with Global Innovation Alliance
+title: 'Singapore startups get access to India tech ecosystem with Global Innovation Alliance'
 permalink: /india/share/what-employers-say/access-to-india-tech-ecosystem/
-breadcrumb: Singapore startups get access to India tech ecosystem with Global Innovation Alliance
-collection_name: india-share-employers
+breadcrumb: 'Singapore startups get access to India tech ecosystem with Global Innovation Alliance'
+
 ---
+
 
 <img src="\images\india-employers\access-to-india-tech-ecosystem.jpg" alt="access-to-india-tech-ecosystem" style="width:800px;" />
 

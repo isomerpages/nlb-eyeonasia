@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: A glimpse into Chinese homes
+title: 'A glimpse into Chinese homes'
 permalink: /china/know/living-in-china/glimpse-chinese-homes/
-breadcrumb: A glimpse into Chinese homes
-collection_name: china-know-living
+breadcrumb: 'A glimpse into Chinese homes'
+
 ---
+
 
 <img src="\images\china-living\chinese-homes.jpg" alt="chinese homes" style="width:800px;" />
 

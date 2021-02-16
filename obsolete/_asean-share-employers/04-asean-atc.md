@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Applied Total Control Treatment (ATC) – Head abroad when local customer base dries up
+title: 'Applied Total Control Treatment (ATC) – Head abroad when local customer base dries up'
 permalink: /asean-countries/share/what-employers-say/applied-total-control-treatment/
-breadcrumb: Applied Total Control Treatment (ATC) – Head abroad when local customer base dries up
-collection_name: asean-share-employers
+breadcrumb: 'Applied Total Control Treatment (ATC) – Head abroad when local customer base dries up'
+
 ---
+
 
 <img src="\images\asean-employers\ATC-banner.jpg" alt="ATC banner" style="width:800px;" />
 

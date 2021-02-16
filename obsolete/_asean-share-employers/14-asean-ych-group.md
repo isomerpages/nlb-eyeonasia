@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: YCH Group – YCH powers ahead on its supply of IT-driven culture
+title: 'YCH Group – YCH powers ahead on its supply of IT-driven culture'
 permalink: /asean-countries/share/what-employers-say/ych-group/
-breadcrumb: YCH Group – YCH powers ahead on its supply of IT-driven culture
-collection_name: asean-share-employers
+breadcrumb: 'YCH Group – YCH powers ahead on its supply of IT-driven culture'
+
 ---
+
 
 <img src="\images\asean-employers\ych-group.jpg" alt="ych group banner" style="width:800px;" />
 

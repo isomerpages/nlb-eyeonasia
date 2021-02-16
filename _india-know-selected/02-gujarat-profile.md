@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Gujarat - A profile
+title: 'Gujarat - A profile'
 permalink: /india/know/selected-india-states/gujarat-profile/
-breadcrumb: Gujarat - A profile
-collection_name: india-know-selected
+breadcrumb: 'Gujarat - A profile'
+
 ---
+
 
 <img src="\images\india-selected\gujarat-profile.jpg" alt="gujarat profile" style="width:800px;" />
 

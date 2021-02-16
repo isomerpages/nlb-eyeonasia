@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Pune - A city profile
+title: 'Pune - A city profile'
 permalink: /india/know/selected-india-states/pune-profile/
-breadcrumb: Pune - A city profile
-collection_name: india-know-selected
+breadcrumb: 'Pune - A city profile'
+
 ---
+
 
 <img src="\images\india-selected\pune-profile.jpg" alt="pune profile" style="width:800px;" />
 

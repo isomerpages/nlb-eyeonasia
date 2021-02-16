@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chinese food culture
+title: 'Chinese food culture'
 permalink: /china/know/living-in-china/food-culture/
-breadcrumb: Chinese food culture
-collection_name: china-know-living
+breadcrumb: 'Chinese food culture'
+
 ---
+
 
 <img src="\images\china-living\food-culture.jpg" alt="food culture" style="width:800px;" />
 
@@ -54,7 +54,7 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 [**Bitter and sweet: Food, meaning, and modernity in rural China**](https://nlb.overdrive.com/media/3261811){:target="_blank"}
 
-China is one of the world's leading producers and consumers of liquor, with alcohol infusing all aspects of its culture, from religion and literature to business and warfare. Drunk in China examines the many ways in which alcohol has shaped Chinese society and its rituals and how recent economic and political developments have pushed Chinese alcohol beyond the nation's borders to the international stage.
+Can food tell us more about our society? Ethnographic accounts in this book examine one rural community through the lens of food, exploring how the relationships different generations had with their food and agriculture. Reveal a more complex picture, where connectedness and sense of place continue to play an important role, even in the context of rapid and constant change. 
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 

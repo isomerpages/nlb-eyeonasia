@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vietnam - Insights into the steel industry
+title: 'Vietnam - Insights into the steel industry'
 permalink: /asean-countries/share/what-young-people-say/vietnam-insights-steel-industry/
-breadcrumb: Vietnam - Insights into the steel industry
-collection_name: asean-share-youngpeople
+breadcrumb: 'Vietnam - Insights into the steel industry'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Vietnam-steel-industry.jpg" alt="Vietnam insights steel industry banner" style="width:800px;" />
 

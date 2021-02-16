@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial services, banking and payment systems in Myanmar
+title: 'Financial services, banking and payment systems in Myanmar'
 permalink: /asean-countries/know/living-in-asean-countries/financial-banking-payment-in-myanmar/
-breadcrumb: Financial services, banking and payment systems in Myanmar
-collection_name: asean-know-living
+breadcrumb: 'Financial services, banking and payment systems in Myanmar'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Myanmar-Banking.jpg" alt="Myanmar banking banner" style="width:800px;" />
 

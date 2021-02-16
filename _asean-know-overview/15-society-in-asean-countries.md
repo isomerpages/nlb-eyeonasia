@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Society in ASEAN countries
+title: 'Society in ASEAN countries'
 permalink: /asean-countries/know/overview-of-asean-countries/society-in-asean-countries/
-breadcrumb: Society in ASEAN countries
-collection_name: asean-know-overview
+breadcrumb: 'Society in ASEAN countries'
+
 ---
+
 
 <img src="/images/asean-countries/Society-in-ASEAN.jpg" alt="Society in ASEAN banner" style="width:800px;" />
 

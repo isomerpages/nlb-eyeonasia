@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Dubai - A city profile
+title: 'Dubai - A city profile'
 permalink: /other-asian-countries/uae/dubai-a-city-profile/
-breadcrumb: Dubai - A city profile
-collection_name: other-uae
+breadcrumb: 'Dubai - A city profile'
+
 ---
+
 
 <img src="\images\uae\dubai-profile.jpg" alt="Dubai snapshot banner" style="width:800px;" />
 

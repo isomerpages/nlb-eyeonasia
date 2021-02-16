@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Indonesia - Insights about Yogyakarta
+title: 'Indonesia - Insights about Yogyakarta'
 permalink: /asean-countries/share/what-young-people-say/indonesia-insights-about-yogyakarta/
-breadcrumb: Indonesia - Insights about Yogyakarta
-collection_name: asean-share-youngpeople
+breadcrumb: 'Indonesia - Insights about Yogyakarta'
+
 ---
+
 
 <img src="\images\asean-youngpeople\SP-Indonesia-bg.jpg" alt="Indonesia Insights about Yogyakarta banner" style="width:800px;" />
 

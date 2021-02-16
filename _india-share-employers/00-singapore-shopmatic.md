@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore’s Shopmatic raises $5.7m to expand to Indonesia, the Philippines
+title: 'Singapore’s Shopmatic raises $5.7m to expand to Indonesia, the Philippines'
 permalink: /india/share/what-employers-say/singapore-shopmatic/
-breadcrumb: Singapore’s Shopmatic raises $5.7m to expand to Indonesia, the Philippines
-collection_name: india-share-employers
+breadcrumb: 'Singapore’s Shopmatic raises $5.7m to expand to Indonesia, the Philippines'
+
 ---
+
 
 <img src="\images\india-employers\singapore-shopmatic.jpg" alt="singapore-shopmatic" style="width:800px;" />
 

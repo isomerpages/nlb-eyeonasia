@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Discovering China’s history
+title: 'Discovering China’s history'
 permalink: /china/know/overview-of-china/discovering-china-history/
-breadcrumb: Discovering China’s history
-collection_name: china-know-overview
+breadcrumb: 'Discovering China’s history'
+
 ---
+
 
 <img src="\images\china-overview\discovering-china-history.jpg" alt="discovering china history banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial services, banking and payment systems in Laos
+title: 'Financial services, banking and payment systems in Laos'
 permalink: /asean-countries/know/living-in-asean-countries/financial-banking-payment-in-laos/
-breadcrumb: Financial services, banking and payment systems in Laos
-collection_name: asean-know-living
+breadcrumb: 'Financial services, banking and payment systems in Laos'
+
 ---
+
 
 <img src="/images/asean-living/ASEAN-Laos-Banking.jpg" alt="Laos banking banner" style="width:800px;" />
 

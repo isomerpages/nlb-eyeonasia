@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Insights into the oil palm industry
+title: 'Insights into the oil palm industry'
 permalink: /india/share/what-young-people-say/oil-palm-industry/
-breadcrumb: Insights into the oil palm industry
-collection_name: india-share-youngpeople
+breadcrumb: 'Insights into the oil palm industry'
+
 ---
+
 
 <img src="\images\india-youngpeople\oil-palm-industry.jpg" alt="oil palm industry" style="width:800px;" />
 

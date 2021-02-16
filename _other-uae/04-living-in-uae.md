@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Living in the UAE
+title: 'Living in the UAE'
 permalink: /other-asian-countries/uae/living-in-uae/
-breadcrumb: Living in the UAE
-collection_name: other-uae
+breadcrumb: 'Living in the UAE'
+
 ---
+
 
 <img src="\images\uae\living-in-uae.jpg" alt="Living in the UAE banner" style="width:800px;" />
 

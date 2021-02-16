@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Contemporary China
+title: 'Contemporary China'
 permalink: /china/know/overview-of-china/contemporary-china/
-breadcrumb: Contemporary China
-collection_name: china-know-overview
+breadcrumb: 'Contemporary China'
 image: \images\china-overview\contemporary-china.jpg
+
 ---
+
 
 <img src="\images\china-overview\contemporary-china.jpg" alt="contemporary china banner" style="width:800px;" />
 

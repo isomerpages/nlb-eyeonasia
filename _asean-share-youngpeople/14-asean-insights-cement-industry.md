@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vietnam - Insights into the cement industry
+title: 'Vietnam - Insights into the cement industry'
 permalink: /asean-countries/share/what-young-people-say/vietnam-insights-cement-industry/
-breadcrumb: Vietnam - Insights into the cement industry
-collection_name: asean-share-youngpeople
+breadcrumb: 'Vietnam - Insights into the cement industry'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Vietnam-cement-industry.jpg" alt="Vietnam insights cement industry banner" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Fintech landscape in China 
+title: 'Fintech landscape in China'
 permalink: /china/share/what-young-people-say/fintech-landscape-in-china
-breadcrumb: Fintech landscape in China
-collection_name: china-share-youngpeople
+breadcrumb: 'Fintech landscape in China'
+
 ---
+
 
 <img src="\images\china-youngpeople\fintech-landscape-in-china.jpg" style="width:800px;" />
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: India
 permalink: /india/know/overview/
 breadcrumb: India
-collection_name: india
+
 ---
+
 
 ![banner-india](\images\india\INDIA-banner-new.jpg)
 

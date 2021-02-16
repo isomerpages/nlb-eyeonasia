@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial and banking services in India
+title: 'Financial and banking services in India'
 permalink: /india/know/living-in-india/financial-banking-in-india/
-breadcrumb: Financial and banking services in India
-collection_name: india-know-living
+breadcrumb: 'Financial and banking services in India'
+
 ---
+
 
 <img src="\images\india-living\financial-banking-in-india.jpg" alt="financial banking in india" style="width:800px;" />
 

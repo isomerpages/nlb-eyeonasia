@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Wong Fong Engineering – Innovation drives success in China
+title: 'Wong Fong Engineering – Innovation drives success in China'
 permalink: /china/share/what-employers-say/wong-fong-engineering/
-breadcrumb: Wong Fong Engineering – Innovation drives success in China
-collection_name: china-share-employers
+breadcrumb: 'Wong Fong Engineering – Innovation drives success in China'
+
 ---
+
 
 <img src="\images\china-employers\wong-fong-engineering.jpg" alt="wong fong engineering" style="width:800px;" />
 

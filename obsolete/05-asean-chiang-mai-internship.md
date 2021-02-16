@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Thailand - Internship at College of Arts, Media and Technology, Chiang Mai University
+title: 'Thailand - Internship at College of Arts, Media and Technology, Chiang Mai University'
 permalink: /asean-countries/share/what-young-people-say/thailand-internship-chiang-mai-university/
-breadcrumb: Thailand - Internship at College of Arts, Media and Technology, Chiang Mai University
-collection_name: asean-share-youngpeople
+breadcrumb: 'Thailand - Internship at College of Arts, Media and Technology, Chiang Mai University'
+
 ---
+
 
 <img src="\images\asean-youngpeople\Internship-Chiang-Mai.jpg" alt="Thailand internship banner" style="width:800px;" />
 

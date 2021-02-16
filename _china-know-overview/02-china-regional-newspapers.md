@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Regional newspapers
+title: 'Regional newspapers'
 permalink: /china/know/overview-of-china/regional-newspapers/
-breadcrumb: Regional newspapers
-collection_name: china-know-overview
+breadcrumb: 'Regional newspapers'
+
 ---
+
 
 <img src="\images\china-overview\regional-newspapers.jpg" alt="regional newspapers banner" style="width:800px;" />
 

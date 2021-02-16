@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Selected China municipalities and provinces - An overview
+title: 'Selected China municipalities and provinces - An overview'
 permalink: /china/know/china-municipalities-provinces/overview/
-breadcrumb: Selected China municipalities and provinces - An overview
-collection_name: china-know-selected
+breadcrumb: 'Selected China municipalities and provinces - An overview'
+
 ---
+
 
 <img src="\images\china-selected\overview-selected-china.jpg" alt="selected china banner" style="width:800px;" />
 

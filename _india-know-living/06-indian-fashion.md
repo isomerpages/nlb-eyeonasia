@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Indian fashion
+title: 'Indian fashion'
 permalink: /india/know/living-in-india/indian-fashion/
-breadcrumb: Indian fashion
-collection_name: india-know-living
+breadcrumb: 'Indian fashion'
+
 ---
+
 
 <img src="\images\india-living\indian-fashion.jpg" alt="indian-fashion" style="width:800px;" />
 

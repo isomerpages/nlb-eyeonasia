@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Almaty - A city profile
+title: 'Almaty - A city profile'
 permalink: /other-asian-countries/central-asia/almaty-a-city-profile/
-breadcrumb: Almaty - A city profile
-collection_name: other-central-asia
+breadcrumb: 'Almaty - A city profile'
+
 ---
+
 
 <img src="\images\central-asia\almaty-profile.jpg" alt="Almaty profile banner" style="width:800px;" />
 
