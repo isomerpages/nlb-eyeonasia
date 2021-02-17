@@ -145,7 +145,6 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -166,13 +165,14 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 					<h5><b>Surabaya: A City Profile</b></h5>
 				</div>
 			</div>
+            </a>        
 		</div>
 	</div>
 </div>
 
 
-<p><p>
 
+<p><p>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -182,7 +182,6 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 					<h5><b></b></h5>
 				</div>
 			</div>
-			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/thailand-a-country-profile/" class="project-link">
@@ -196,6 +195,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 		</div>
 	</div>
 </div>
+
 
 <p><p>
 
