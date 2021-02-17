@@ -7,7 +7,7 @@ breadcrumb: 'Looking to Asia with a global mindset'
 
 <img src="\images\asean-countries\Looking-to-Asia.png" alt="Looking to Asia" style="width:800px;" />
 
-This is a selection of books on ASEAN (Mekong Region), the United Arab Emirates (UAE), China and India, curated for Eye on Asia Forum 2021. It is not meant to be an exhaustive list. More information about the forum can be found at the [Eye on Asia Events](https://www.eyeonasia.gov.sg/eoa-events/){:target="_blank page
+This is a selection of books on ASEAN (Mekong Region), the United Arab Emirates (UAE), China and India, curated for Eye on Asia Forum 2021. It is not meant to be an exhaustive list. More information about the forum can be found at the [Eye on Asia Events](https://www.eyeonasia.gov.sg/eoa-events/){:target="_blank"} page
 
 ### **Books for Session 1: ASEAN and the United Arab Emirates (3 March 2021)**
 
