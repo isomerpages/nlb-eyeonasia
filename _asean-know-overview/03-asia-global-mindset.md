@@ -7,13 +7,13 @@ breadcrumb: 'Looking to Asia with a global mindset'
 
 <img src="\images\asean-countries\Looking-to-Asia.png" alt="Looking to Asia" style="width:800px;" />
 
-This is a selection of books on ASEAN (Mekong Region), the United Arab Emirates (UAE), China and India, curated for Eye on Asia Forum 2021. It is not meant to be an exhaustive list. More information about the forum can be found at Eye on Asia Events: https://www.eyeonasia.gov.sg/eoa-events/ {:target="_blank"}
+This is a selection of books on ASEAN (Mekong Region), the United Arab Emirates (UAE), China and India, curated for Eye on Asia Forum 2021. It is not meant to be an exhaustive list. More information about the forum can be found at Eye on Asia Events: https://www.eyeonasia.gov.sg/eoa-events/{:target="_blank"}
 
 ### **Books for Session 1: ASEAN and the United Arab Emirates (3 March 2021)**
 
 <img src="/images/book-covers/Globalization-development-in-Mekong.jpg" style="width:150px;" />
 
-[**Globalization and development in the Mekong economies **](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201174588){:target="_blank"}
+[**Globalization and development in the Mekong economies**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201174588){:target="_blank"}
 
 This book examines some of the opportunities and threats to continued globalisation faced by 4 countries in the Mekong Region: Cambodia, Lao PDR, Myanmar and Vietnam. In addition, it looks at the reforms undertaken by these countries to open up their economies and recommends the future steps that they can take to continue the reform process.
 
