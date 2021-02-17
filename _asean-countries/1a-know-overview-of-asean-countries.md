@@ -143,7 +143,6 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 		</div>
 	</div>
 </div>
-
 <p><p>
 <div>
 	<div class="row is-multiline">
@@ -170,28 +169,28 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 	</div>
 </div>
 
-
-
 <p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<div class="col is-half-tablet padding--bottom--lg">
 			<img src="/images/asean-countries/placeholder-ASEAN.jpg" alt="Discover ASEAN" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b></b></h5>
 				</div>
 			</div>
-
+		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/overview-of-asean-countries/thailand-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Thailand-snapshot-small.jpg" alt="Thailand - A Country Profile" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Thailand: A Country Profile</b></h5>
+				<a href="/asean-countries/know/overview-of-asean-countries/thailand-a-country-profile/" class="project-link">
+			<img src="/images/asean-countries/Thailand-snapshot-small.jpg" alt="Thailand - A Country Profile" class="project-image">
+		<div class="project-card">
+			<div class="project-title margin--bottom--xs">
+				<h5><b>Thailand: A Country Profile</b></h5>
 				</div>
 			</div>
-			</a>
+            </a>        
 		</div>
 	</div>
 </div>
