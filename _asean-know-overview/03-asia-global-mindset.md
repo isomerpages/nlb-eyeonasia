@@ -7,9 +7,9 @@ breadcrumb: 'Looking to Asia with a global mindset'
 
 <img src="\images\asean-countries\Looking-to-Asia.png" alt="Looking to Asia" style="width:800px;" />
 
-This is a selection of books on ASEAN (Mekong Region), the United Arab Emirates (UAE), China and India, curated for Eye on Asia Forum 2021. It is not meant to be an exhaustive list. More information about the forum can be found at the [Eye on Asia Events](https://www.eyeonasia.gov.sg/eoa-events/){:target="_blank"} page
+This is a selection of books on ASEAN (Mekong Region), the United Arab Emirates (UAE), China and India, curated for the Eye on Asia Forum 2021 on 3 and 4 March. It is not meant to be an exhaustive list. More information about the forum can be found at the [Eye on Asia Events](https://www.eyeonasia.gov.sg/eoa-events/){:target="_blank"} page.
 
-### **Books for Session 1: ASEAN and the United Arab Emirates (3 March 2021)**
+### **Books on ASEAN (Mekong Region)**
 
 <img src="/images/book-covers/Globalization-development-in-Mekong.jpg" style="width:150px;" />
 
@@ -39,6 +39,10 @@ With its rich agriculture, natural resources and vast energy resources, the Grea
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
+---
+
+### **Books on the United Arab Emirates (UAE)**
+
 <img src="/images/book-covers/Dubai - The epicenter of modern innovation - A guide to implementing innovation strategies.jpg" style="width:150px;" />
 
 [**Dubai- The epicenter of modern innovation: A guide to implementing innovation strategies**](https://nlb.overdrive.com/media/4020299){:target="_blank"}
@@ -65,7 +69,7 @@ Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
 
 ---
 
-### **Books for Session 2: China and India (4 March 2021)**
+### **Books on China**
 
 <img src="/images/book-covers/Young-China-hand.jpg" style="width:150px;" />
 
@@ -90,6 +94,10 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 In <i>Dealing with China</i>, Henry Paulson draws on his access to and experience with contemporary China's political and business elite to look at how China became an economic superpower in the world today and how the United States can engage China. He also discusses how foreigners can do business, tap on opportunities and compete with China.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+---
+
+### **Books on India**
 
 <img src="/images/book-covers/India-grows-at-night.jpg" style="width:150px;" />
 
