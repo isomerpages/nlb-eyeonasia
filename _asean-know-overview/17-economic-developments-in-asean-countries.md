@@ -1,7 +1,7 @@
 ---
-title: 'Economic developments in ASEAN countries'
+title: 'Economic Developments in ASEAN Countries'
 permalink: /asean-countries/know/overview-of-asean-countries/economic-developments-in-asean-countries/
-breadcrumb: 'Economic developments in ASEAN countries'
+breadcrumb: 'Economic Developments in ASEAN Countries'
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 'International and regional economic cooperation in ASEAN Countries'
+title: 'International and Regional Economic Cooperation in ASEAN Countries'
 permalink: /asean-countries/know/overview-of-asean-countries/economic-cooperation/
-breadcrumb: 'International and regional economic cooperation in ASEAN Countries'
+breadcrumb: 'International and Regional Economic Cooperation in ASEAN Countries'
 
 ---
 

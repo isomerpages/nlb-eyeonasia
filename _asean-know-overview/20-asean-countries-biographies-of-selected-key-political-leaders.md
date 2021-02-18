@@ -1,7 +1,7 @@
 ---
-title: 'ASEAN countries - Biographies of selected key political leaders'
+title: 'ASEAN Countries - Biographies of Selected Key Political Leaders'
 permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-biographies-of-selected-key-political-leaders/
-breadcrumb: 'ASEAN countries - Biographies of selected key political leaders'
+breadcrumb: 'ASEAN Countries - Biographies of Selected Key Political Leaders'
 
 ---
 

@@ -17,7 +17,7 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 				<img src="/images/asean-countries/Looking-to-Asia.png" alt="Looking to Asia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Looking to Asia with a global mindset</b></h5>
+					<h5><b>Looking to Asia With a Global Mindset</b></h5>
 				</div>
 			</div>
 			</a>

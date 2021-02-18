@@ -1,7 +1,7 @@
 ---
-title: 'ASEAN countries - A look at technology and innovation'
+title: 'ASEAN Countries - A Look at Technology and Innovation'
 permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-a-look-at-technology-and-innovation/
-breadcrumb: 'ASEAN countries - A look at technology and innovation'
+breadcrumb: 'ASEAN Countries - A Look at Technology and Innovation'
 
 ---
 
