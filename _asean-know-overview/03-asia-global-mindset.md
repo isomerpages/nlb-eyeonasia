@@ -1,7 +1,7 @@
 ---
-title: 'Looking to Asia with a global mindset'
+title: 'Looking to Asia With A Global Mindset'
 permalink: /asean-countries/know/overview-of-asean-countries/looking-to-asia-with-global-mindset/
-breadcrumb: 'Looking to Asia with a global mindset'
+breadcrumb: 'Looking to Asia With a Global Mindset'
 
 ---
 

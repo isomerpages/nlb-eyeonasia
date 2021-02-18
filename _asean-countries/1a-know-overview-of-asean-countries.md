@@ -37,7 +37,6 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -55,13 +54,14 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 				<img src="/images/asean-countries/Looking-to-Asia.png" alt="Looking to Asia" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Looking to Asia with a global mindset</b></h5>
+					<h5><b>Looking to Asia With a Global Mindset</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 	</div>
 </div>
+
 
 <p><p>
 
@@ -251,7 +251,6 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 </div>
 
 <p><p>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -269,7 +268,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 				<img src="/images/asean-countries/Technology-and-innovation-in-ASEAN-small.jpg" alt="ASEAN countries: A look at technology and innovation" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN countries: A look at technology and innovation</b></h5>
+					<h5><b>ASEAN Countries: A Look at Technology and Innovation</b></h5>
 				</div>
 			</div>
 			</a>
@@ -277,8 +276,8 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 	</div>
 </div>
 
-<p><p>
 
+<p><p>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -286,7 +285,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 				<img src="/images/asean-countries/Economic-developments-in-ASEAN-countries-small.jpg" alt="Economic developments in ASEAN countries" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Economic developments in ASEAN countries</b></h5>
+					<h5><b>Economic Developments in ASEAN countries</b></h5>
 				</div>
 			</div>
 			</a>
@@ -296,7 +295,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 				<img src="/images/asean-countries/International-and-regional-economic-cooperation-in-ASEAN-countries-small.jpg" alt="International and regional economic cooperation in ASEAN countries" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>International and regional economic cooperation in ASEAN countries</b></h5>
+					<h5><b>International and Regional Economic Cooperation in ASEAN Countries</b></h5>
 				</div>
 			</div>
 			</a>
@@ -304,8 +303,8 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 	</div>
 </div>
 
-<p><p>
 
+<p><p>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -313,7 +312,7 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 				<img src="/images/asean-countries/ASEAN-countries-Political-structures-small.jpg" alt="ASEAN countries: Political structures" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN countries: Political structures</b></h5>
+					<h5><b>ASEAN Countries: Political Structures</b></h5>
 				</div>
 			</div>
 			</a>
@@ -323,13 +322,14 @@ The Association of Southeast Asian Nations, or ASEAN, is a regional organization
 				<img src="/images/asean-countries/ASEAN-countries-biographies-small.jpg" alt="ASEAN countries: Biographies of selected key political leaders" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN countries: Biographies of selected key political leaders</b></h5>
+					<h5><b>ASEAN Countries: Biographies of Selected Key Political Leaders</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 	</div>
 </div>
+
 
 <p><p>
 

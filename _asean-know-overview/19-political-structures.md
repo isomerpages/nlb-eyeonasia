@@ -1,7 +1,7 @@
 ---
-title: 'ASEAN countries - Political structures'
+title: 'ASEAN countries - Political Structures'
 permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-political-structures/
-breadcrumb: 'ASEAN countries - Political structures'
+breadcrumb: 'ASEAN countries - Political Structures'
 
 ---
 
