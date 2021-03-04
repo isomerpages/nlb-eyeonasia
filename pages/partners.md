@@ -7,7 +7,7 @@ breadcrumb: Partners
 
 <img src="/images/partners/partners-banner.jpg" alt="partners banner" style="width:800px;" />
 
-Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore, International Trading Institute at Singapore Management University, GlobalConnect@SBF, McGraw-Hill Education (Asia), Nanyang Business School, Ngee Ann Polytechnic, OSG Youth Alliance, Singapore Global Network, Singapore Indian Chamber of Commerce & Industry, Singapore Polytechnic, Singapore University of Social Sciences, Temasek Polytechnic, The ASEAN Living Room, Yale-NUS College and Youth Corps Singapore. 
+Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore, International Trading Institute at Singapore Management University, GlobalConnect@SBF, McGraw-Hill Education (Asia), Nanyang Business School, Ngee Ann Polytechnic, OSG Youth Alliance, Singapore Global Network, Singapore Indian Chamber of Commerce & Industry, Singapore Polytechnic, Singapore University of Social Sciences, Temasek Polytechnic, The ASEAN Living Room, UAE Singapore Business Council, Yale-NUS College and Youth Corps Singapore. 
 
 
 We thank our partners for contributing to the initiative by allowing us access to their resources on ASEAN countries, China and India, providing information on the work and learning opportunities in these countries as well as first-hand accounts of people who have lived and worked there.
@@ -79,14 +79,18 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="http://www.tlr.asia/"><img src="/images/partners/ASEAN Living Room Logo 2.png" alt="The ASEAN Living Room"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.yale-nus.edu.sg/"><img src="/images/partners/yale-nus-logo-new.png" alt="Yale NUS College"></a>
+			<a href="https://www.uaesbc.com/"><img src="/images/partners/UAESBC.jpg" alt="UAE Singapore Business Council"></a>
 		</div>
+		
 		<!--div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="max-height:80%;max-width:80%;"></a>
+			<a href="https://www.yale-nus.edu.sg"><img src="/images/partners/yale-nus-logo-new.png" alt="Yale NUS College"></a>
 		</div-->
 	</div>
 	
 	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="https://www.yale-nus.edu.sg"><img src="/images/partners/yale-nus-logo-new.png" alt="Yale NUS College"></a>
+		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council" style="max-height:80%;max-width:80%;"></a>
 		</div>
