@@ -29,7 +29,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/03-mar-2021/" class="project-link">
-				<img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 1.png" class="project-image">
+				<img src="\images\past-events\03-Mar-2021\EOA Forum 3 March 2021.png" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (ASEAN-Mekong Region and the UAE)</b></h5>
@@ -40,7 +40,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/04-mar-2021/" class="project-link">
-				<img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 2.png" class="project-image">
+				<img src="\images\past-events\03-Mar-2021\EOA Forum 4 March 2021.pn" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (China and India)</b></h5>
@@ -51,7 +51,9 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	</div>
 </div>
 
-<p><p><p><p><p>
+<br>
+<br>
+<br>
 
 <div>
 	<div class="row is-multiline">
