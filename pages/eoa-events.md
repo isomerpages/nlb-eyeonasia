@@ -15,15 +15,43 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### **Upcoming Event**
+<!-- ### **Upcoming Event**
 
 <h5><b>Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (Session 1 - ASEAN-Mekong Region and the UAE)</b></h5>
 <a href="/events/upcoming-events/03-mar-2021/"><img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 1.png" style="width:800px;" /></a>
 
 <h5><b>Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (Session 2 - China and India)</b></h5>
 <a href="/events/upcoming-events/04-mar-2021/"><img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 2.png" style="width:800px;" /></a>
-
+-->
 ### **Past Events**
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/03-mar-2021/" class="project-link">
+				<img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 1.png" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (ASEAN-Mekong Region and the UAE)</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<br>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/04-mar-2021/" class="project-link">
+				<img src="\images\past-events\03-Mar-2021\EOA Eventbrite Session 2.png" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset (China and India)</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p><p>
 
 <div>
 	<div class="row is-multiline">
