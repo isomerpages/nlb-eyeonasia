@@ -101,7 +101,7 @@ This webinar is organised by the National Library Singapore and in collaboration
 [Ngee Ann Polytechnic](https://www.np.edu.sg/travelandlearn/Pages/default.aspx)<br>
 [Singapore Business Federation](https://www.sbf.org.sg/)<br>
 [Singapore Indian Chamber of Commerce and Industry](https://www.sicci.com/)<br>
-[UAE Singapore Business Council
+[UAE Singapore Business Council](https://www.uaesbc.com/)
 
 
 
