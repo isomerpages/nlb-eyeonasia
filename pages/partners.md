@@ -79,7 +79,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="http://www.tlr.asia/"><img src="/images/partners/ASEAN Living Room Logo 2.png" alt="The ASEAN Living Room"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.uaesbc.com/"><img src="/images/partners/UAESBC.jpeg" alt="UAE Singapore Business Council"></a>
+			<a href="https://www.uaesbc.com/"><img src="/images/partners/UAESBC_new2.jpeg" alt="UAE Singapore Business Council"></a>
 		</div>
 		
 		<!--div class="col is-one-third-desktop is-one-third-tablet">
