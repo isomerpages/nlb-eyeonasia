@@ -20,6 +20,12 @@ new environments in the region. Change your perspective of Asia and adopt a glob
 **Conducted via Zoom  - Register <a href="https://go.gov.sg/nl-3mar" target="_blank">here</a>**
 
 
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/94ucsus83bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### **About the Speakers**
 
 **ASEAN-Mekong Region**<br>
@@ -63,6 +69,12 @@ Amy Wee has spent more than 10 years in Vietnam and has forged good networks and
 **Conducted via Zoom  - Register <a href="https://go.gov.sg/nl-4mar" target="_blank">here</a>**
 
 
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/2gZDd8qigK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### **About the Speakers**
 
 **China**<br>
@@ -102,21 +114,6 @@ This webinar is organised by the National Library Singapore and in collaboration
 [Singapore Business Federation](https://www.sbf.org.sg/)<br>
 [Singapore Indian Chamber of Commerce and Industry](https://www.sicci.com/)<br>
 [UAE Singapore Business Council](https://www.uaesbc.com/)
-
-
-
-##### **Watch the full programme:**
-
-<u><b>Session 1 - ASEAN-Mekong Region and the United Arab Emirates</b></u>
-
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/94ucsus83bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-<u><b>Session 2 - China and India</b></u>
-
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/2gZDd8qigK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 <a href="https://go.gov.sg/nl-3mar"  target="_blank"><img src="\images\past-events\03-Mar-2021\Eye on Asia Forum 2021.jpg" style="width:800px;" /></a>
