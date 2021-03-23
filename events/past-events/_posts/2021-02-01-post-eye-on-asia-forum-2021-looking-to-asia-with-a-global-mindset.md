@@ -1,7 +1,7 @@
 ---
 title: 'Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset'
 permalink: /events/past-events/03-and-04-mar-2021/
-date: 2021-03-08T00:00:00.000Z
+date: 2021-03-03T00:00:00.000Z
 
 ---
 
@@ -19,6 +19,12 @@ new environments in the region. Change your perspective of Asia and adopt a glob
 
 **Conducted via Zoom  - Register <a href="https://go.gov.sg/nl-3mar" target="_blank">here</a>**
 
+
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/94ucsus83bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### **About the Speakers**
 
@@ -63,6 +69,12 @@ Amy Wee has spent more than 10 years in Vietnam and has forged good networks and
 **Conducted via Zoom  - Register <a href="https://go.gov.sg/nl-4mar" target="_blank">here</a>**
 
 
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/2gZDd8qigK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### **About the Speakers**
 
 **China**<br>
@@ -103,12 +115,5 @@ This webinar is organised by the National Library Singapore and in collaboration
 [Singapore Indian Chamber of Commerce and Industry](https://www.sicci.com/)<br>
 [UAE Singapore Business Council](https://www.uaesbc.com/)
 
-
-
-<!--##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O9kA8M6u4ss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div-->
 
 <a href="https://go.gov.sg/nl-3mar"  target="_blank"><img src="\images\past-events\03-Mar-2021\Eye on Asia Forum 2021.jpg" style="width:800px;" /></a>
