@@ -112,7 +112,7 @@ defaults:
 
 colors:
     primary-color: '#2D3436'
-    secondary-color: '#E21216'
+    secondary-color: '#C20e11'
     media-colors:
         - title: media-color-one
           color: '#2d3436'
