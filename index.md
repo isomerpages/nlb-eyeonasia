@@ -7,7 +7,7 @@ sections:
     - hero:
           title: 'Eye on Asia'
           subtitle: 'Navigating with you the shift of growth opportunities to Asia'
-          background: '/images/shared/NLB Eye on Asia_Web Banner.png'
+          background: '/images/shared/NLB Eye on Asia_Web Banner.webp'
           button: 'KNOW . SHARE . GO'
           url: /about/about-eye-on-asia
           key_highlights:
@@ -31,7 +31,7 @@ sections:
           subtitle: null
           description: 'Gain insights from professionals who have ventured into the region'
           url: /eoa-events/
-          image: /images/eoa-home-image-1.jpg
+          image: /images/eoa-home-image-1.webp
           alt: 'Events image'
           button: 'DISCOVER MORE'
     - infopic:
@@ -39,7 +39,7 @@ sections:
           subtitle: null
           description: 'Keep in tune with regional trends'
           url: 'https://www.youtube.com/watch?v=pdvQm8VZ4cs&list=PL8iW4pSvDCw6ym3goCZ0XPr7Pg2P_XEEK'
-          image: /images/eoa-home-image-2.jpg
+          image: /images/eoa-home-image-2.webp
           alt: 'YouTube playlist'
           button: 'WATCH OUR PAST TALKS'
 

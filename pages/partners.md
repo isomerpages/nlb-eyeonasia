@@ -40,7 +40,6 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="http://www.nbs.ntu.edu.sg/Pages/default.aspx"><img src="/images/partners/NBS_color-2.jpg" alt="Nanyang Business School"></a>
 		</div>
 	</div>
-
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo-2.png" alt="Singapore Polytechnic"></a>
@@ -55,7 +54,6 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:70%;"></a>
 		</div-->
 	</div>
-	
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://sicci.com/"><img src="/images/partners/SICCI-logo-95th-logo-300x260.png" alt="Singapore Indian Chamber of Commerce & Industry" style="width:70%;"></a>
@@ -70,7 +68,6 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="http://www.tp.edu.sg/"><img src="/images/partners/tp-logo-new.png" alt="Temasek Polytechnic"></a>
 		</div-->
 	</div>
-	
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="http://www.tp.edu.sg/"><img src="/images/partners/tp-logo-new.png" alt="Temasek Polytechnic"></a>
@@ -81,12 +78,10 @@ We thank our partners for contributing to the initiative by allowing us access t
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.uaesbc.com/"><img src="/images/partners/UAESBC_new2.jpg" alt="UAE Singapore Business Council"></a>
 		</div>
-		
 		<!--div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.yale-nus.edu.sg"><img src="/images/partners/yale-nus-logo-new.png" alt="Yale NUS College"></a>
 		</div-->
 	</div>
-	
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.yale-nus.edu.sg"><img src="/images/partners/yale-nus-logo-new.png" alt="Yale NUS College"></a>
