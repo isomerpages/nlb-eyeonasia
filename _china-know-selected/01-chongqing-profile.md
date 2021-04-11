@@ -80,6 +80,7 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^6]: Chongqing travel guide – how to plan a trip to Chongqing. (2021, February 7). *China Highlights*. Retrieved January 27, 2021, from  [https://www.chinahighlights.com](https://www.chinahighlights.com/chongqing/){:target="_blank"}
 
+[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved January 27, 2021, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="blank"}; Chongqing municipality. (2017). *New Zealand Foreign Affairs & Trade.* Retrieved January 21, 2021, from [https://www.mfat.govt.nz](https://www.mfat.govt.nz/en/countries-and-regions/asia/china/new-zealand-embassy/chengdu/){:target="blank"}
 
 [^8]: China’s big cities target slower growth in 2017. (2017, January 15). *Fortune*. Retrieved January 27, 2021, from  [http://fortune.com](http://fortune.com/2017/01/15/china-cities-growth-2017/){:target="_blank"}
 
