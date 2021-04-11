@@ -24,7 +24,7 @@ Chongqing is located at the confluence of the Yangtze and Jialing Rivers in sout
 
 ### **Economy**
 
-<img src="\images\china-selected\chongqing-chart-1.png" style="width:350px;" />
+<!-- img src="\images\china-selected\chongqing-chart-1.png" style="width:350px;" /-->
 
 Chongqing is one of the fastest growing cities in China.[^8] Besides the construction of the Three Gorges Dam Project, its rapid economic growth could also be attributed to China’s “favourable policies”, particularly the “Go West” strategy launched in 2000, which aims to generate investment in western China. Chongqing has largely benefitted from the policy and became a significant trading and manufacturing hub as well as a major gateway to west China.[^9] With its strategic location, Chongqing is also “a key strategic node” of the Belt and Road Initiative, which was unveiled in 2013 and aims to connect 65 countries across three continents through China.[^10]
 
@@ -80,7 +80,6 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^6]: Chongqing travel guide – how to plan a trip to Chongqing. (2021, February 7). *China Highlights*. Retrieved January 27, 2021, from  [https://www.chinahighlights.com](https://www.chinahighlights.com/chongqing/){:target="_blank"}
 
-[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved January 27, 2021, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="blank"}; Chongqing municipality. (2017). *New Zealand Foreign Affairs & Trade.* Retrieved January 21, 2021, from [https://www.mfat.govt.nz](https://www.mfat.govt.nz/en/countries-and-regions/north-asia/china/new-zealand-consulate-general-chengdu-china/chongqing-municipality/){:target="blank"}
 
 [^8]: China’s big cities target slower growth in 2017. (2017, January 15). *Fortune*. Retrieved January 27, 2021, from  [http://fortune.com](http://fortune.com/2017/01/15/china-cities-growth-2017/){:target="_blank"}
 
