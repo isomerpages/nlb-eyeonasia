@@ -26,27 +26,23 @@ Jiangsu province, located on the east coast of China, is bounded by the Yellow S
 
 <!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\jiangsu-profile-chart-1.jpg" style="width:350px;" />Data Source: Jiangsu: Market Profile. (2018, January). Hong Kong Trade Development Council.</div-->
 
-Jiangsu’s GDP ranked the second in China in 2018, after Guangdong, accounting for about 10.3 percent of the national total. At the end of 2018, there were about 1.98 million private enterprises in Jiangsu, compared to just 286, 000 in 2002. The southern Jiangsu area of Suzhou, Wuxi, Changzhou, Nanjing and Zhenjiang, that is part of the Yangtze River Delta economic region, is the province’s economic hub. The GDP of the southern Jiangsu area accounted for 57.2 percent of Jiangsu’s total GDP in 2018.[^7]Despite the COVID-19 pandemic, Jiangsu’s GDP increased by 3.7 percent to reach 10.27 trillion yuan (US$1.59 trillion) in 2020. [^8]
+Jiangsu’s GDP ranked the second in China in 2018, after Guangdong, accounting for about 10.3 percent of the national total. At the end of 2018, there were about 1.98 million private enterprises in Jiangsu, compared to just 286, 000 in 2002. The southern Jiangsu area of Suzhou, Wuxi, Changzhou, Nanjing and Zhenjiang, that is part of the Yangtze River Delta economic region, is the province’s economic hub. The GDP of the southern Jiangsu area accounted for 57.2 percent of Jiangsu’s total GDP in 2018.[^7] Despite the COVID-19 pandemic, Jiangsu’s GDP increased by 3.7 percent to reach 10.27 trillion yuan (US$1.59 trillion) in 2020. [^8]
 
 ### **Industries**
 
 Jiangsu’s main industries are electronics, telecommunications, chemicals, machinery and equipment, textiles and garment, and metallurgy. The province is also moving towards the development of new and high technology products and is now an important IT manufacturing base in China.[^9] In 2019, the volume of Jiangsu’s digital economy reached four trillion yuan (around US$600 billion), accounting for over 40 percent of the province's GDP. In the first three quarters of 2020, Jiangsu’s electronic information manufacturing sector's operating income rose over six percent year-on-year to 1.9 trillion yuan. The software and information services sector achieved an operating revenue of 774 billion yuan in 2020, an annual increase of around six percent.[^10]
 
- 
-
 ### **Foreign trade and investment**
 
 Major exports of Jiangsu include electronic and mechanical products, new and high technology products, automatic data processing machines and accessories, and garments and clothing accessories. In 2019, the export value of electronic products amounted to RMB 1,796 billion, or 66 percent of total export value. Major export markets included the United States, Hong Kong, Japan and South Korea. In 2019, exports to Hong Kong accounted for 6.7 percent of Jiangsu’s total exports. As a manufacturing base, major imports included electronic and mechanical products, high technology products, and integrated circuit and liquid crystal display panels. Major import sources included South Korea, Taiwan and Japan. Foreign investments in Jiangsu are still mainly engaged in the manufacturing sector, particularly in telecommunication equipment, computers, machinery, chemical products and textiles.[^11]
 
- 
-
 ### **Tourism**
 
-Jiangsu is home to ancient towns and temples, exquisite and elegant classical gardens, and a beautiful landscape of lakes and mountains. The three major tourist centres in Jiangsu are the Yangtze River area, the Tai Lake area and the Xuhuai area. Nine classical gardens in Suzhou are designated as UNESCO world cultural heritage sites[^12]
+Jiangsu is home to ancient towns and temples, exquisite and elegant classical gardens, and a beautiful landscape of lakes and mountains. The three major tourist centres in Jiangsu are the Yangtze River area, the Tai Lake area and the Xuhuai area. Nine classical gardens in Suzhou are designated as UNESCO world cultural heritage sites.[^12]
 
 ### **Singapore and Jiangsu**
 
-Singapore and Jiangsu share strong ties through the China-Singapore Suzhou Industrial Park (SIP) and Singapore-Nanjing Eco Hi-Tech Island (SNEHTI) project. Despite the COVID-19 pandemic, Singapore and Jiangsu continued to sustain trade and investment momentum in 2020. From January to August 2020, bilateral trade between both sides grew 1.6 percent year-on-year to reach US$9 billion. Additionally, Singapore companies continued to show strong interest in Jiangsu province, with 10 commercial projects signed at the 14th Singapore-Jiangsu Cooperation Council (SJCC) meeting on 18 November 2020[^13]
+Singapore and Jiangsu share strong ties through the China-Singapore Suzhou Industrial Park (SIP) and Singapore-Nanjing Eco Hi-Tech Island (SNEHTI) project. Despite the COVID-19 pandemic, Singapore and Jiangsu continued to sustain trade and investment momentum in 2020. From January to August 2020, bilateral trade between both sides grew 1.6 percent year-on-year to reach US$9 billion. Additionally, Singapore companies continued to show strong interest in Jiangsu province, with 10 commercial projects signed at the 14th Singapore-Jiangsu Cooperation Council (SJCC) meeting on 18 November 2020.[^13]
 
 ---
 ### **References**
