@@ -71,4 +71,4 @@ With comparatively lower overheads and a huge pool of talent, Xi’an is an attr
 
 [^12]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^13]:West China: Overview. (2021). *Enterprise Singapore.* Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank""}
+[^13]:West China: Overview. (2021). *Enterprise Singapore.* Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank"}
