@@ -47,40 +47,28 @@ With comparatively lower overheads and a huge pool of talent, Xi’an is an attr
 
 ---
 ### **References**
-[^1]: Shaanxi: Market Profile. (2020, June 9). Hong Kong Trade Development Council. Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
+[^1]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^2]: 2-6: Population at year-end by region. (2017). China Statistical Yearbook 2017. National Bureau of Statistics of China. Retrieved July 12, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^2]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^3]: Doing business in Shaanxi. (2018). Ministry of Commerce of the People’s Republic of China. Retrieved July 12, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shaanxi.shtml){:target="_blank"}
+[^3]: Shaanxi. (2021). *Encyclopedia Britannica*. Retrieved March 31, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Shaanxi){:target="_blank"}
 
-[^4]: 3-9 Gross regional product. (2017). China Statistical Yearbook 2017. National Bureau of Statistics of China. Retrieved July 12, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^4]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^5]: 3-9 Gross regional product. (2017). China Statistical Yearbook 2017. National Bureau of Statistics of China. Retrieved July 12, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^5]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^6]: Doing business in Shaanxi. (2018). Ministry of Commerce of the People’s Republic of China. Retrieved July 12, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shaanxi.shtml){:target="_blank"}
+[^6]: Shaanxi. (2021). *Encyclopedia Britannica*. Retrieved March 31, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Shaanxi){:target="_blank"}
 
-[^7]: Doing business in Shaanxi. (2018). Ministry of Commerce of the People’s Republic of China. Retrieved July 12, 2018, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shaanxi.shtml){:target="_blank"}
+[^7]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^8]: 3-11 Gross domestic product by city (district). Shaanxi Statistical Yearbook 2017. (2017). China Statistics Press. Retrieved July 12, 2018, from [http://www.shaanxitj.gov.cn](http://www.shaanxitj.gov.cn/upload/2018/7/zk/indexeh.htm){:target="_blank"}
+[^8]: Shaanxi sees stable economic growth in 2018. (2019, June 24). *China Daily.* Retrieved March 31, 2021, from [https://govt.chinadaily.com.cn](https://govt.chinadaily.com.cn/s/201906/24/WS5d103a64498e12256565e6ce/shaanxi-sees-stable-economic-growth-in-2018.html){:target="_blank"}
 
-[^9]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
+[^9]: Shaanxi sees stable economic growth in 2018. (2019, June 24). *China Daily.* Retrieved March 31, 2021, from [https://govt.chinadaily.com.cn](https://govt.chinadaily.com.cn/s/201906/24/WS5d103a64498e12256565e6ce/shaanxi-sees-stable-economic-growth-in-2018.html){:target="_blank"}
 
-[^10]: Xian travel guide. (2018). Travel China Guide. Retrieved July 12, 2018, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/xian.htm){:target="_blank"}
+[^10]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^11]: Xian Yang China. (n.d.). Xianyang Municipal Government. Retrieved July 12, 2018, from [http://www.xys.gov.cn](http://www.xys.gov.cn/yww/column/11453.htm){:target="_blank"}
+[^11]: Shaanxi Travel Guide. (2021). *Travel China Guide.* Retrieved March 31, 2021, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/shaanxi/){:target="_blank"}
 
-[^12]: Baoji: Shaanxi China. (2017, May 4). Shaanxi Provincial People’s Government. Retrieved July 12, 2018, from [http://en.shaanxi.gov.cn](http://en.shaanxi.gov.cn/about/cities/77753.htm){:target="_blank"}
+[^12]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^13]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
-
-[^14]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
-
-[^15]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
-
-[^16]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
-
-[^17]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}
-
-[^18]: Shaanxi: Market Profile. (2018, April 26). HKTDC Research. Retrieved July 12, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Shaanxi-Market-Profile/ff/en/1/1X000000/1X06BVMT.htm){:target="_blank"}; Tourism: Shaanxi China. (2018). Shaanxi Provincial People’s Government. Retrieved July 12, 2018, from [http://en.shaanxi.gov.cn](http://en.shaanxi.gov.cn/info/iIndex.jsp?cat_id=17483){:target="_blank"}
-
-[^19]: Yuan, A. (2017, April 7). Xi’an – Dynamic ancient city in Shaanxi China. Enterprise Singapore. Retrieved July 12, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/-/media/ie-singapore/files/download/slides/iadvisory-xi-an-and-urumqi/understanding-the-business-landscape-and-opportunities-in-xian-china.ashx?la=en){:target="_blank"}
+[^13]:West China: Overview. (2021). *Enterprise Singapore.* Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank""}
