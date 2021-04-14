@@ -86,34 +86,43 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^4]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
 
-[^5]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf)){:target="_blank"}
+[^5]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
 [^6]: 3-9: Gross regional product (2019). (2020). *National Bureau of Statistics of China.*.Retrieved March 9, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
 
 [^7]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
+
 [^8]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
+
 [^9]: Jinan (Shandong) city information. (2021, February 23). *HKTDC.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/jinan){:target="_blank"}
 
 [^10]: Shandong Jinan, the city of springs. (n.d.) *Friendly Shandong*. Retrieved March 9, 2021, from [http://www.travelshandong.com](http://www.travelshandong.com/cities/jinan/){:target="_blank"}
 
-[^11]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf)){:target="_blank"}
+[^11]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
 [^12]: Qingdao (Shandong) city information. (2021, February 23). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/qingdao){:target="_blank"}
+
 [^13 ]: Schwerdtfeger, M. (2020, February 18). What are the top ports in China? *Port Technology.* Retrieved March 9, 2021, from [https://www.porttechnology.org/](https://www.porttechnology.org/news/what-are-the-top-ports-in-china){:target="_blank"}
+
 [^14]: Qingdao attracts foreign investors with a world-class business environment. (2017, December 28). *PR Newswire.* Retrieved March 9, 2021, from [https://www.prnewswire.com](https://www.prnewswire.com/news-releases/qingdao-attracts-foreign-investors-with-a-world-class-business-environment-300575975.html){:target="_blank"}
-[^15]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf)){:target="_blank"}
+
+[^15]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
 [^16]: Weifang (Shandong) city information. (2021, February 23). *HKTDC.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/weifang){:target="_blank"}
+
 [^17]: Overview of Weifang. (2019, April 11). *Select Shandong.* Retrieved March 9, 2021, from [http://en.selectshandong.com](http://en.selectshandong.com/enwebsite/article/index/id/653.html){:target="_blank"} 
+
 [^18]: Invitation: The 19th China (Shouguang) International Vegetable SciTech Fair. (2018, January 8). *DVF Shouguang.* Retrieved September 14, 2018, from [http://www.sgcbh.com/](http://www.sgcbh.com/zhgk/zhzyzl/201912/t20191211_1295814.html){:target="_blank"}
 
-[^19]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf)){:target="_blank"}
+[^19]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
+
 [^20]: Yantai (Shandong) city information. (2021, February 23). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/yantai){:target="blank"}; Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf)){:target="blank"}
+
 [^21]: New city slogan for Yantai unveiled. (2018, July 7). *Wonderland Yantai.* Retrieved March 9, 2021, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/shandong/yantai/2018-07/20/content_36616178.htm){:target="_blank"}
 
 [^22]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
 
-[^23]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf)){:target="blank"}
+[^23]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="blank"}
 
 [^24]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
 
@@ -124,4 +133,5 @@ SSBC has identified the trading of food products as one potential growth area. S
 [^27]: World Heritage list. (2017). *UNESCO*. Retrieved March 9, 2021, from [http://whc.unesco.org](http://whc.unesco.org/en/list/){:target="blank"}; China starts restoring Great Wall’s oldest section. (2015, June 24). *Xinhuanet*. Retrieved March 9, 2021,from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/culture/2015-06/25/content_21098392.htm){:target="blank"}
 
 [^28]: More trade and connectivity opportunities for Singapore in Shandong province. (2019, October 31). *Enterprise Singapore.* Retrieved March 9, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/october/more-trade-and-connectivity-opportunities-for-singapore-companies-in-shandong-province){:target="blank"}; Singapore looks to boost bilateral investments, trade with Shandong. (2018, April 18). *Business Times.* Retrieved March 9, 2021, from [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg/government-economy/singapore-looks-to-boost-bilateral-investments-trade-with-shandong){:target="blank"}
+
 [^29]: More trade and connectivity opportunities for Singapore in Shandong province. (2019, October 31). *Enterprise Singapore.* Retrieved March 9, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/october/more-trade-and-connectivity-opportunities-for-singapore-companies-in-shandong-province){:target="blank"}
