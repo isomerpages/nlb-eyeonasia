@@ -54,36 +54,32 @@ Despite the current challenging business landscape due to the COVID-19 pandemic,
 
 ---
 ### **References**
-[^1]: Sichuan Province. (2017). China Today. Retrieved September 13, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/sichuan.htm){:target="_blank"}
+[^1]: Sichuan: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/sichuan){:target="blank"}
 
-[^2]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 13, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^2]: Sichuan: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/sichuan){:target="blank"}
 
-[^3]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 13, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^3]: Sichuan: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/sichuan){:target="blank"}
 
-[^4]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 13, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^4]: Sichuan: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/sichuan){:target="blank"}
 
-[^5]: National Data. (2017). National Bureau of Statistics of China. Retrieved September 13, 2017, from <http://data.stats.gov.cn/>{:target="_blank"}
+[^5]: Sichuan: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/sichuan){:target="blank"}
 
-[^6]: Sichuan. (2017). Encyclopedia Britannica. Retrieved September 13, 2017, from [https://www.britannica.com](https://www.britannica.com/place/Sichuan){:target="_blank"}
+[^6]: Sichuan. (2021). *Encyclopedia Britannica.* Retrieved March 31, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Sichuan){:target="blank"}
 
-[^7]: Top China provinces/municipalities by GDP in 2016. (2017, February 21). China Internet Watch. Retrieved September 13, 2017, from [https://www.chinainternetwatch.com](https://www.chinainternetwatch.com/19810/top-cities-gdp-2016/){:target="_blank"}
+[^7]: Sichuan's GDP reaches 598 billion USD in 2018. (2019, January 22). *Xinhua*. Retrieved March 31, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/2019-01/22/c_137765876.htm){:target="_blank"}
 
-[^8]: Economic overview of Sichuan province. (2017). Ministry of Foreign Affairs Netherlands. Retrieved December 15, 2017, from [https://www.rvo.nl](https://www.rvo.nl/sites/default/files/2017/11/Economic-overview-Sichuan-province-China.pdf){:target="_blank"}
+[^8]: China's Sichuan sets 7-percent growth target for 2021. (2021, January 30). *Xinhua*. Retrieved March 31, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/2021-01/30/c_139709666.htm){:target="_blank"}
 
-[^9]: Major Industries in Chengdu. (2015, October 29). Intern China. Retrieved September 13, 2017, from [https://internchina.com](https://internchina.com/major-industries-in-chengdu/){:target="_blank"}
+[^9]: Chengdu tops list of best performing cities in China. (2017, September 11). *Milken Institute.* Retrieved March 31, 2021, from [https://milkeninstitute.org](https://milkeninstitute.org/articles/chengdu-tops-list-best-performing-cities-china){:target="_blank"}
 
-[^10]: Chengdu retakes top spot as China’s best-performing big city. (2017, September 11). Bloomberg News. Retrieved September 13, 2017, from [https://www.bloomberg.com](https://www.bloomberg.com/news/articles/2017-09-11/chengdu-reclaims-top-spot-as-china-s-best-performing-major-city){:target="_blank"}
+[^10]: Sichuan: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/sichuan){:target="blank"}
 
-[^11]: Sichuan: Market Profile. (2017, February 9). Hong Kong Trade Development Council. Retrieved September 13, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Sichuan-Market-Profile/ff/en/1/1X000000/1X06BVRO.htm){:target="_blank"}
+[^11]: Sichuan: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/sichuan){:target="blank"}
 
-[^12]: Sichuan: Market Profile. (2017, February 9). Hong Kong Trade Development Council. Retrieved September 13, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Sichuan-Market-Profile/ff/en/1/1X000000/1X06BVRO.htm){:target="_blank"}
+[^12]: Sichuan: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/sichuan){:target="blank"}
 
-[^13]: Sichuan: Market Profile. (2017, February 9). Hong Kong Trade Development Council. Retrieved September 13, 2017, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Sichuan-Market-Profile/ff/en/1/1X000000/1X06BVRO.htm){:target="_blank"}
+[^13]: China's Sichuan reports record-high foreign trade volume in 2020. (2021, January 21). *Xinhua.* Retrieved March 31, 2021, from [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn/a/202101/21/WS60093f70a31024ad0baa43b7.html){:target="_blank"}
 
-[^14]: Geography. (2017). Global Sichuan. Retrieved December 15, 2017, from [http://global.tsichuan.com](http://global.tsichuan.com/home/know/about#Geography){:target="_blank"}
+[^14]: Sichuan Province. (2021). *China today.* Retrieved September 13, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/sichuan.htm){:target="_blank"}
 
-[^15]: Sichuan Province. (2017). China today. Retrieved September 13, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/sichuan.htm){:target="_blank"}
-
-[^16]: Sichuan cuisine. (2017, February). China Highlights. Retrieved September 13, 2017, from [https://www.chinahighlights.com](https://www.chinahighlights.com/travelguide/chinese-food/chuan-cuisine.htm){:target="_blank"}
-
-[^17]: Business Councils between Singapore and China. (2016). IE Singapore. Retrieved September 13, 2017, from [https://www.iesingapore.gov.sg](https://www.iesingapore.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
+[^15]: Singapore companies continue to pursue opportunities in Sichuan despite COVID-19 pandemic. (2020, September 29). *Enterprise Singapore.* Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/sep-2020/sstic-meeting_media-release_final.pdf?la=en){:target="blank"}
