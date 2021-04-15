@@ -64,8 +64,7 @@ Despite the COVID-19 pandemic, Singapore-Zhejiang economic collaboration remains
 
 [^8]: Zhejiang's GDP up 3.6 percent in 2020. (2021, January 26). *Xinhua.* Retrieved March 31, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/2021-01/26/c_139698401.htm){:target="_blank"}
 
-[^9]: Zhejiang set to unlock gains from digital economy. (2019, July 23). China Daily. Retrieved March 31, 2021, from 
-[https://www.chinadaily.com.cn](https://www.chinadaily.com.cn/a/201907/23/WS5d366fe4a310d8305640080e.html){:target="_blank"}
+[^9]: Zhejiang set to unlock gains from digital economy. (2019, July 23). China Daily. Retrieved March 31, 2021, from [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn/a/201907/23/WS5d366fe4a310d8305640080e.html){:target="_blank"}
 
 [^10]: Zhejiang: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/zhejiang){:target="_blank"}
 
