@@ -54,7 +54,7 @@ The BRI is currently developing six international economic cooperation corridors
 
 [^3]: 2-1: Population and its composition. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^4]:  Timeline – the rise of Chinese leader Xi Jinping. (2018, March 16). *Reuters.* Retrieved January 26, 2021 from [https://www.channelnewsasia.com](https://www.channelnewsasia.com/news/asia/timeline---the-rise-of-chinese-leader-xi-jinping-10050280){:target="_blank"}
+[^4]:  Timeline – the rise of Chinese leader Xi Jinping. (2018, March 16). *Reuters.* Retrieved January 26, 2021 from [https://www.reuters.com](https://www.reuters.com/article/us-china-parliament-xi-timeline-idUSKCN1GS0ZA){:target="_blank"}
 
 [^5]:  Li Keqiang – Premier of China’s State Council (2018, March 19). *The State Council, The People’s Republic of China.* Retrieved January 26, 2021 from [http://english.gov.cn](http://english.gov.cn/premier/2018/03/19/content_281476082486006.htm){:target="_blank"}
 
