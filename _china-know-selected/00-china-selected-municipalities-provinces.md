@@ -32,7 +32,7 @@ The two municipalities and seven provinces experienced high economic growth in 2
 | Sichuan                     | 83.75                                | 4,661.6                              | 55,774                               | 7.5                            |
 | Zhejiang                    | 58.5                                 | 6,235.2                              | 107,624                              | 6.8                            |
 
-###### Source: Data & Profiles – Mainland China Provinces & Cities. *Hong Kong Trade Development Council.* https://research.hktdc.com/en/data-and-profiles/mcpc
+###### Source: Data & Profiles – Mainland China Provinces & Cities. *Hong Kong Trade Development Council.* [https://research.hktdc.com/en/data-and-profiles/mcpc]
 
 ##### **Chongqing**
 
