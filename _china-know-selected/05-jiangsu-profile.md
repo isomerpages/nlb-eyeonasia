@@ -13,10 +13,10 @@ This article provides an overview of Jiangsu for those keen on exploring the pos
 ### **Key Facts**
 
 - **Land Area:** 102,600 sq kilometres[^1]
-- **Population:** 80.7 million (2019)[^2]
+- **Population (2019):** 80.7 million[^2]
 - **Provincial Capital:** Nanjing[^3]
-- **Gross Regional Product (GRP):** 9,963.1 billion RMB (2019)[^4]
-- **GRP Per Capita:** 123,607 RMB (2019)[^5]
+- **Gross Regional Product (GRP) (2019):** RMB 9,963.1 billion[^4]
+- **GRP Per Capita (2019):** RMB 123,607 RMB[^5]
 
 ### **Introduction**
 

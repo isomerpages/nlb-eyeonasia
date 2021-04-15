@@ -12,8 +12,8 @@ This article provides an overview of Sichuan for those keen on exploring the pos
 - **Land area:** 486,052 sq km[^1]
 - **Population (2019):** 83.75 million[^2]
 - **Provincial capital:** Chengdu[^3]
-- **Gross domestic product (GDP) (2019):** 4,661.6 billion RMB[^4]
-- **GDP per capita (2019):** 55,774 RMB[^5]
+- **Gross domestic product (GDP) (2019):** RMB 4,661.6 billion[^4]
+- **GDP per capita (2019):** RMB 55,774[^5]
 
 
 ### **Introduction**

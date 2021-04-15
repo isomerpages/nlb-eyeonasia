@@ -12,8 +12,8 @@ This article provides an overview of Zhejiang for those keen on exploring the po
 - **Land area:** 105,500 sq km[^1]
 - **Population (2019):** 58.5 million[^2]
 - **Provincial capital:** Hangzhou[^3]
-- **Gross Domestic Product (GDP) (2019):** 6,235.2 billion RMB[^4]
-- **GDP per capita (2019):** 107,624 RMB[^5]
+- **Gross Domestic Product (GDP) (2019):** RMB 6,235.2 billion[^4]
+- **GDP per capita (2019):** RMB 107,624[^5]
 
 ### **Introduction**
 

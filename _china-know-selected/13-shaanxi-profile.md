@@ -12,7 +12,7 @@ This article provides an overview of Shaanxi for those keen on exploring the pos
 - **Land area:** 205,600 sq km[^1]
 - **Population (2019):** 38.64 million[^2]
 - **Provincial capital:** Xi’an[^3]
-- **Gross Regional Product (GRP)(2019):** RMB 2,579.3 billion[^4]
+- **Gross Regional Product (GRP) (2019):** RMB 2,579.3 billion[^4]
 - **GRP per capita (2019)**: RMB 66,649 [^5]
 
 ### **Introduction**

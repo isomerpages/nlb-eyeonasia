@@ -16,7 +16,7 @@ This article provides an overview of Nanjing for those keen on exploring the pos
 - **Land area:** 6,587 sq km[^2]
 - **Population (2019):** 8.5 million[^3]
 - **Mayor:** Han Liming[^4]
-- **GDP (2019):** RMB 1.403 billion
+- **Gross Domestic Product (GDP) (2019):** RMB 1.403 billion
 - **GDP Per Capita:** RMB 165,682[^5]
 
 ### **Introduction**

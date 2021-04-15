@@ -16,7 +16,7 @@ This article provides an overview of Liaoning for those keen on exploring the po
 - **Population:** 43.52 million[^2]
 - **Provincial capital:** Shenyang
 - **Gross Regional Product (GRP) (2019):** RMB 2,491 billion[^3]
-- **GRP per capita (2019):** RMB 57,191.[^4]
+- **GRP per capita (2019):** RMB 57,191[^4]
 - **Major cities:** Shenyang, Dalian, Anshan, Fushun Dandong, Jinzhou, Yingkou
 
 

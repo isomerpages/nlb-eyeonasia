@@ -13,9 +13,9 @@ This article provides an overview of Guangdong for those keen on exploring the p
 ### **Key Facts**
 
 - **Land area:** 179,643 sq km[^1]
-- **Population:** 115.21 million (2019)[^2]
+- **Population (2019):** 115.21 million[^2]
 - **Provincial capital:** Guangzhou
-- **Gross regional product (2019):** RMB 10,767.107 billion[^3]
+- **Gross regional product (GRP) (2019):** RMB 10,767.107 billion[^3]
 - **GRP per capita (2019):** RMB 94,172[^4]
 - **Major cities:** Dongguan, Foshan, Guangzhou, Shantou, Shenzhen, Zhongshan[^5]
 

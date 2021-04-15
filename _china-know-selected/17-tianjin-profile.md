@@ -11,8 +11,8 @@ This article provides an overview of Tianjin for those keen on exploring the pos
 
 - **Land area:** 11,917sq km[^1]
 - **Population (2019):** 15.62 million [^2]
-- **Gross domestic product (GDP) (2019):** 1,410.4 billion RMB[^3]
-- **GDP per capita (2019):** 90,371 RMB[^4]
+- **Gross domestic product (GDP) (2019):** RMB 1,410.4 billion[^3]
+- **GDP per capita (2019):** RMB 90,371[^4]
 
 
 

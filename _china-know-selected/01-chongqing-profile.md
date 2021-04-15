@@ -14,8 +14,8 @@ This article provides an overview of Chongqing for those keen on exploring the p
 
 - **Land area:** 82,400 sq km[^1]
 - **Population (2019):** 31.24 million[^2]
-- **Gross Domestic Product (2019):** RMB 2,360.577 billion[^3]
-- **Gross Domestic Product per capita (2019):** RMB 75,828[^4]
+- **Gross Domestic Product (GDP) (2019):** RMB 2,360.577 billion[^3]
+- **GDP per capita (2019):** RMB 75,828[^4]
 
 ### **Introduction**
 Chongqing is located at the confluence of the Yangtze and Jialing Rivers in southwest China. It is surrounded by Hubei and Hunan to the east, Guizhou to the south, Sichuan to the west and north, and Shaanxi at its northeast corner. It was established as one of the four direct-controlled municipalities in 1997 and the only one in west China. Chongqing reports directly to the central government.[^5] Comprising 21 districts and 17 counties,[^6] it has become the largest economic centre in west China as well as an important transportation hub and an inland port.[^7]

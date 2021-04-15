@@ -13,7 +13,7 @@ This article provides an overview of Wuhan for those keen on exploring the possi
 - **Land area:** 8,494 sq km[^2]
 - **Population (2019):** 11.21 million[^3]
 - **Mayor:** Zhou Xianwang[^4]
-- **GDP (2019):** RMB 37.89 billion[^5]
+- **Gross Domestic Product (GDP) (2019):** RMB 37.89 billion[^5]
 - **GDP Per Capita:** RMB 145,545[^6]
 
 
