@@ -74,8 +74,7 @@ On 1 December 2020, Singapore and Tianjin signed a memorandum of understanding (
 
 [^6]: Tianjin economy continues to grow. (2016, June 13). *China Daily.* Retrieved March 31, 2021, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/tianjin2012/2016-06/13/content_25690996.htm){:target="_blank"}
 
-[^7]: Manufacturing, high-tech to spur Tianjin GDP surge. (2021, January 28). China Daily. Retrieved March 31, 2021, from
-[http://global.chinadaily.com.cn](http://global.chinadaily.com.cn/a/202101/28/WS6012106ea31024ad0baa5a0e.html){:target="_blank"}
+[^7]: Manufacturing, high-tech to spur Tianjin GDP surge. (2021, January 28). China Daily. Retrieved March 31, 2021, from [http://global.chinadaily.com.cn](http://global.chinadaily.com.cn/a/202101/28/WS6012106ea31024ad0baa5a0e.html){:target="_blank"}
 
 [^8]: Tianjin: Market profile. (2020, May, 28). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/tianjin){:target="_blank"}
 
@@ -85,8 +84,6 @@ On 1 December 2020, Singapore and Tianjin signed a memorandum of understanding (
 
 [^11]: Tianjin: Market profile. (2020, May, 28). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/tianjin){:target="_blank"}
 
-[^12]: Tianjin Attractions (2021). *Exploring Tianjin.* Retrieved March 31, 2021, from
-[http://www.exploringtianjin.com](http://www.exploringtianjin.com/attractions.html){:target="_blank"}
+[^12]: Tianjin Attractions (2021). *Exploring Tianjin.* Retrieved March 31, 2021, from [http://www.exploringtianjin.com](http://www.exploringtianjin.com/attractions.html){:target="_blank"}
 
-[^13]: Choo, Y. T. (2020, December 1). Singapore, Tianjin ink MOU to deepen cooperation in trade, development. *The Straits Times.* Retrieved March 31, 2021, from
-[https://www.straitstimes.com](https://www.straitstimes.com/business/singapore-tianjin-ink-mou-to-deepen-cooperation-in-trade-development){:target="_blank"}
+[^13]: Choo, Y. T. (2020, December 1). Singapore, Tianjin ink MOU to deepen cooperation in trade, development. *The Straits Times.* Retrieved March 31, 2021, from [https://www.straitstimes.com](https://www.straitstimes.com/business/singapore-tianjin-ink-mou-to-deepen-cooperation-in-trade-development){:target="_blank"}
