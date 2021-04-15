@@ -113,7 +113,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^19]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
-[^20]: Yantai (Shandong) city information. (2021, February 23). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/yantai){:target="blank"}; Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf)){:target="_blank"}
+[^20]: Yantai (Shandong) city information. (2021, February 23). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/yantai){:target="blank"}; Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
 [^21]: New city slogan for Yantai unveiled. (2018, July 7). *Wonderland Yantai.* Retrieved March 9, 2021, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/m/shandong/yantai/2018-07/20/content_36616178.htm){:target="_blank"}
 
