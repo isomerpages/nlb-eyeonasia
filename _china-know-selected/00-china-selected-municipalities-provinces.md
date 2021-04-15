@@ -12,154 +12,107 @@ This article provides an overview of selected municipalities and provinces in Ch
 
 ### **Introduction**
 
-This overview covers the municipalities of Chongqing and Tianjin and provinces of Guangdong, Jiangsu, Liaoning, Shandong, Sichuan and Zhejiang. These municipalities and provinces were selected as Singapore has business councils, as well as substantial trade and investments, with each of them. The business councils “provide platforms for Singapore companies to network with Chinese government officials and communities.“[^1] They also deepen collaboration at the provincial level and help to strengthen bilateral relations and the internationalisation of Singapore companies.[^2]
+This overview covers the municipalities of Chongqing and Tianjin, and the provinces of Guangdong, Jiangsu, Liaoning, Shandong, Shaanxi, Sichuan and Zhejiang. These municipalities and provinces were selected as Singapore has business councils, as well as substantial trade and investments with them. The business councils provide platforms for Singapore companies to network with Chinese government officials and communities. They also deepen collaboration at the provincial level and help to strengthen bilateral relations and the internationalisation of Singapore companies.[^1]
 
 
 
-### **Economy**
+### **Economic Indicators**
 
-With the exception of Liaoning, these six provinces and Chongqing experienced high economic growth between 2015 and 2016. Their Gross Regional Product (GRP) growth ranged from -22.4 percent in Liaoning to 12.85 percent in Chongqing.
+The two municipalities and seven provinces experienced high economic growth in 2019 with their year-on-year GDP growth ranging from 4.8 to 7.5 percent.[^2]
 
-<img src="/images/china-selected/selected-china-chart-1.png" style="width:750px;" />
+| **Province / Municipality** | **Population (2019)**  **(Million)** | **GDP (2019)**     **(RMB Billion)** | **Per Capita GDP (2019)**  **(RMB)** | **GDP Growth (2019)**  **(%)** |
+| --------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------ |
+| Chongqing                   | 31.2                                 | 2,360.6                              | 75,828                               | 6.3                            |
+| Tianjin                     | 15.62                                | 1,410.4                              | 90,371                               | 4.8                            |
+| Guangdong                   | 115.0                                | 10,767.1                             | 94,200                               | 6.2                            |
+| Jiangsu                     | 80.7                                 | 9,963.1                              | 123,607                              | 6.1                            |
+| Liaoning                    | 43.52                                | 2,491.0                              | 57,191                               | 5.5                            |
+| Shandong                    | 100.7                                | 7,106.8                              | 70,653                               | 5.5                            |
+| Shaanxi                     | 38.64                                | 2,579.3                              | 66,649                               | 6.0                            |
+| Sichuan                     | 83.75                                | 4,661.6                              | 55,774                               | 7.5                            |
+| Zhejiang                    | 58.5                                 | 6,235.2                              | 107,624                              | 6.8                            |
+
+###### Source: Data & Profiles – Mainland China Provinces & Cities. *Hong Kong Trade Development Council.* https://research.hktdc.com/en/data-and-profiles/mcpc
 
 ##### **Chongqing**
 
-In 2016, Chongqing had a population of 30.48 million.[^3] On 14 March 1997, Chongqing became one of China’s four direct-controlled municipalities and the only one in west China.[^4] Its economy grew from RMB 1.572 trillion in 2015 to RMB 1.774 trillion in 2016.[^5] It is now the largest economic centre in west China and is also an important transportation hub and inland port.[^6] Given its strategic location, Chongqing is also “a key strategic node” of the One Belt One Road initiative unveiled in 2013 with the aim of connecting about 80 countries across three continents to China.[^7]
+Chongqing is the operating HQ of Singapore’s and China’s third government-to-government project – the China-Singapore (Chongqing) Demonstration Initiative on Strategic Connectivity (CCI). Chongqing is currently developing its advanced manufacturing capabilities in fields such as aviation, electric vehicles, biomedicine, medical equipment and new materials. Chongqing is home to many notable Singapore projects including Raffles City Chongqing (Capitaland’s largest investment in China to date), Raffles Medical Group’s first general hospital in China and Sembcorp Industries’ group of power plants.[^3]
 
-<u>Industries</u>
 
-Chongqing’s major industries include automobiles, iron and steel and aluminium.[^8] It is moving away from heavy industry towards the manufacturing of electronic and high technology products.[^9] The move has prompted many leading multinational companies, such as Hewlett-Packard, Foxconn, Inventec, Acer, IBM and CISCO, to set up their businesses in Chongqing.[^10]
+
+##### Tianjin
+
+Tianjin is home to the Singapore-China government-to-government platform project -- Tianjin Eco-City. Its pillar industries include manufacturing, electronics, and petrochemicals. Tianjin is often designated as a pilot area for financial innovation as well as policy experiments, making it a region to watch for businesses. Singapore projects in Tianjin include YCH and Mapletree’s logistics facilities in Tianjin Binhai New Area Airport Logistics Park, PSA’s container port terminal joint venture project with Tianjin Port Group, and Lian Huat Group’s integrated business park in Beichen District.[^4]
 
 
 
 ##### **Guangdong**
 
-Guangdong covers an area of 179,757 square kilometres.[^11] Its population was 109.99 million in 2016.[^12] Its GRP grew 36.8 percent from RMB 7.28 trillion in 2015 to 8.085 trillion in 2016.[^13] Its economic hub is the Pearl River Delta (PRD) Economic Zone.[^14] The Shenzhen Special Economic Zone in Guangdong is one of China’s most successful Special Economic Zones. The province’s capital city is Guangzhou.[^15] There is a Singapore Consulate-General Office there where Singaporeans can seek consular assistance.[^16]
-
-<u>Industries</u>
-
-Guangdong is noted for its light manufacturing industries such as television sets, electrical fans and refrigerators, as well as consumer products such as garments, toys, shoes and electronics.[^17] The provincial government is also seeking to grow the financial, tourism and cultural sectors.[^18]
+Guangdong province and Singapore have been strong economic and trade partners over the years and have developed deep and diverse linkages, especially with new developments in the Greater Bay Area (GBA). Beyond the key cities of Guangzhou and Shenzhen, Singapore companies are venturing into other cities in the GBA, such as Huizhou. Rich in land resources, Huizhou is leveraging its strong foundation in the electronics and petrochemicals sectors, to develop the Infocomm Technology and new materials clusters to further its growth. Additionally, Singapore companies have found opportunities in sectors such as smart city solutions and financial services.[^5]
 
 
 
 ##### **Jiangsu**
 
-Jiangsu, located on the Yangtze River delta, had a population of 79.99 million in 2016.[^19] Its land area is 102,600 square kilometres.[^20] The province’s GRP grew 10.35 percent from RMB 7.01 trillion in 2015 to RMB7.74 trillion in 2016.[^21] The capital city of the province is Nanjing.[^22]
-
-<u>Industries</u>
-
-The main industries in Jiangsu are electronics, telecommunications, machinery, metallurgy, machinery and equipment, chemicals, textiles and garments.[^23] Apart from being named “China Famous Software City”, Nanjing has a biomedical industry that has been averaging 30 percent growth per annum.[^24]
+Jiangsu is Singapore’s largest investment destination in China. Bolstered by the China-Singapore Suzhou Industrial Park, the first Singapore-China government-to-government project, and the Sino-Singapore Nanjing Eco Hi-tech Island, Singapore has cultivated strong relationships with Jiangsu’s provincial and municipal governments. Key Singapore projects in Jiangsu include CapitaLand’s Suzhou Centre and Keppel’s Nantong Shipyard.[^6]
 
 
 
 ##### **Liaoning**
 
-Located in northeast China, Liaoning has a land area of 148,000 square kilometres.[^25] The province’s capital city is Shenyang. Its population in 2016 was 43.78 million.[^26] The province’s GRP declined 22.4 percent from RMB 2.87 trillion in 2015 to RMB 2.22 trillion in 2016.[^27]
+Since the province is still in the nascent stages of its economic transformation, there is less competition in its cities compared to first-tier cities such as Shanghai and Beijing. This makes Liaoning an ideal location for SMEs looking to venture to China. PSA’s first overseas project was in Dalian where it formed a joint venture with Dalian Port Authority to develop the Dalian Container Port. Ascendas-Singbridge has a joint venture with Dalian Software Park to form Dalian Ascendas IT Park. Companies in Liaoning include Armstrong’s manufacturing plant and CapitaLand Township in Shenyang, Etonhouse’s International school in Dalian and Q&M’s dental centres.[^7]
 
-<u>Industries</u>
 
-Liaoning’s pillar industries include machinery and equipment, food processing, metallurgy and petrochemicals.[^28] It is also an important production base for industrial equipment and machinery in China.[^29] Additionally, Liaoning is rich in mineral resources such as boron, coal, diamonds, iron ore, jade, magnesite and oil.[^30]
+
+##### Shaanxi
+
+Shaanxi is the largest economy in northwest China, and also serves as the gateway to Central Asian and European countries under the Belt & Road Initiative (BRI). Xi’an, the capital city of Shaanxi, is the province’s most developed and vibrant city. It accounts for over one-third of Shaanxi’s GDP and over 90 percent of its FDI. With comparatively lower overheads and a huge pool of talent, Xi’an is an attractive destination city for both startups and established high-tech enterprises. This strong ecosystem has persuaded global firms such as Micron and Samsung to set up semiconductor manufacturing facilities in the city. Singapore companies such as CapitaLand, Banyan Tree, Surbana Jurong, Mapletree Logistics and Ascott have a presence in Xi’an, while Straco has been operating a cable car service at Lishan since the 1990s.[^8]
 
 
 
 ##### **Shandong**
 
-Shandong lies in the Bohai Bay economic region and covers an area of around 157,900 square kilometres.[^31] Jinan serves as the province’s capital city and the port of Qingdao is among China’s busiest.[^32] The population of Shandong was 99.47 million in 2016.[^33] The province’s GRP grew 38.9 percent from RMB 6.3 trillion in 2015 to RMB 6.802 trillion in 2016.[^34]
+Shandong is the second most populous province and one of the largest consumer markets in China.
 
-<u>Industries</u>
+While Jinan is the provincial capital, Qingdao, the coastal city, remains the province's leading industrial centre. The key demand drivers are rapid urbanisation and industrialisation. Urban solutions, infrastructure (BRI) and tertiary services are key sectors of interest to Singapore companies. 
 
-Apart from food processing and manufacturing, Shandong also has oil and coal. Its heavy industry accounted for around 68 percent of its gross industrial output. Shandong is also home to some of China’s famous local brands such as Tsingtao Beer and Haier Electronics.[^35] Additionally, the city of Yantai is an export base for apples, peanuts and vegetables.[^36]
+Notable Singapore companies in Shandong include Engro Corporation, EtonHouse, CapitaMalls Asia, Pacific International Lines, Freshening, Prima Limited, Viking Airtech and DBS.[^9]
 
 
 
 ##### **Sichuan**
 
-Sichuan is located along the upper reaches of the Yangtze River in southwestern China and is one of the most industrialised provinces in western China. It occupies a land area of 486,052 square kilometres.[^37] The province’s capital city is Chengdu. Its population was 82.62 million in 2016.[^38] Its GRP grew around 9.7 percent from RMB 3 trillion in 2015 to RMB 3.29 trillion in 2016.[^39] Singapore has a Consulate-General office in Chengdu that provides consular assistance to Singaporeans.[^40]
-
-<u>Industries</u>
-
-Apart from being a major agricultural producer, Sichuan is also expanding its industrial activities rapidly over the last two decades. Its major industries include gas, electricity, steel, cement, Chinese medicine and chemical fibre. Furthermore, Sichuan’s telecommunications equipment, computer and other electronic equipment sectors have grown rapidly in recent years.[^41]
-
-
-
-##### **Tianjin**
-
-Tianjin, with a population of 15.62 million in 2016,[^42] has experienced fast economic growth in recent years.[^43] Its GRP in 2015 was RMB 1.65 trillion, which was an increase of about 46 percent from the RMB 1.1 trillion recorded in 2011.[^44] In 2016, it grew by another 8.36 percent to reach RMB 1.788 trillion.[^45]
-
-The Singapore-Tianjin Eco-city, a government-to-government project between Singapore and China, is located within the Tianjin Binhai New Area, one of China’s fastest growing regions. It is 40 kilometres from Tianjin City Centre and 150 kilometres from Beijing City Centre.[^46]
-
-<u>Industries</u>
-
-The province’s main industries include high-tech (particularly electronic information) products, automotive, electronics, petrochemicals, metallurgy, medicine, energy and financial services.[^47] The service sector, in particular, is developing rapidly, In 2016, the industry’s two sub-sectors, wholesale and retail trade, and finance accounted for 22.4 percent and 17.8 percent of the service sector’s total added value respectively.[^48]
+Sichuan is West China’s largest economy, and home to over 80 million residents. Its comparatively low labour and land costs, as well as enhanced connectivity, have attracted investors seeking cheaper production bases in inland China. Sichuan is developing its advanced manufacturing capabilities in areas such as aviation, electric vehicles, biomedicine, medical equipment, oil and gas drilling, digitally controlled machine tools and robots, and new materials. Notable Singapore companies in Sichuan include Etonhouse, Mapletree Logistics, Perennial, Rigel Technology, Keppel Land, Awfully Chocolate and House of Seafood.[^10]
 
 
 
 ##### **Zhejiang**
 
-Zhejiang covers a land area of 101,800 square kilometres[^49] and is situated on China’s eastern coast. Hangzhou is the province’s capital city. In 2016, it had a population of 55.9 million.[^50] The province’s GRP grew from RMB 4.29 trillion in 2015 to RMB 4.725 trillion in 2016.[^51]
+Home to global e-commerce behemoth Alibaba, Zhejiang houses the China (Hangzhou) Cross-Border E-Commerce Pilot Zone, the nation's first comprehensive pilot zone for cross-border e-commerce. With a robust ecosystem of suppliers, distributors, technology, capital and end-users, Zhejiang’s capital of Hangzhou is an attractive destination for Singapore technology firms.
 
-<u>Industries</u>
-
-Apart from light industries such as textiles and garments (especially socks and ties), Zhejiang also has heavy industries whose products include electrical equipment and machinery as well as chemicals.[^52] The province is also a leading centre for e-commerce. It is also home to Alibaba, the world’s largest e-business platform.[^53]
+The Zhejiang (Zhoushan) Free Trade Zone will spur commodity trade liberalisation, while facilities such as the Ascendas Singapore – Hangzhou Science & Technology Park (SHSTP) provide attractive landing pads for firms looking to develop new technologies. Key Singapore projects in Zhejiang include Ascendas Singapore, Consort Bunker and Anacle Asia Pacific R&D Centre.[^11]
 
 ---
 ### **References**
 
-[^1]: Business councils between Singapore and China. (2017). *Enterprise Singapore.* Retrieved June 15 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/Business-Councils){:target="_blank"}
-[^2]: So, G. (2016, January 28). Change of guard at Singapore-China business councils. *The Business Times.* Retrieved June 15, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/News/2016/1/Change-of-guard-at-Singapore-China-business-councils){:target="_blank"}
-[^3]: 2-6. Population at Year-end by Region. (2017). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^4]:  Administrative divisions. (2011). *Chongqing Municipal Government.* Retrieved June 15, 2018, from [http://en.cq.gov.cn](http://en.cq.gov.cn/AboutChongqing/2007/6/12/981920.shtml){:target="_blank"}
-[^5]:  3-9: Gross regional product and indices. (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices. (2016). *China Statistical Yearbook 2017.* Retrieved June 11, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^6]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved June, 15, 2018, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="_blank"}; Chongqing municipality. (2017). *New Zealand Foreign Affairs & Trade.* Retrieved June 15, 2018, from [https://www.mfat.govt.nz](https://www.mfat.govt.nz/en/countries-and-regions/north-asia/china/new-zealand-consulate-general-chengdu-china/chongqing-municipality/){:target="_blank"}
-[^7]: Chongqing profile. (n.d.). *International Students’ Department.* Retrieved June 15, 2018, from [http://interstar.sisu.edu.cn](http://interstar.sisu.edu.cn/ywz/Profile/Chongqing_Profile.htm){:target="_blank"}; About Belt and Road Initiative. (2018). *Enterprise Singapore.* Retrieved June 15, 2018, from [https:/.ie.singapore.gov.sg](https://www.iesingapore.gov.sg/Venture-Overseas/Browse-By-Market/Asia-Pacific/China/About-OBOR){:target="_blank"}
-[^8]: Chongqing: Market profile. (2018, January 29). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Chongqing-Market-Profile/ff/en/1/1X000000/1X06BPV2.htm){:target="_blank"}
-[^9]: Chongqing New North Zone. (2012, December 11). *HKTDC Research.* Retrieved June 15, 2018, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X09RJ78/hktdc-research/Chongqing-New-North-Zone){:target="_blank"}
-[^10]: Tse, W. V. (2017, July 31). Investing in inland China: Assessing Chongqing’s industrial zones. *China Briefing.* Retrieved June 15, 2018, from [http://www.china-briefing.com](http://www.china-briefing.com/news/2017/07/31/investing-inland-china-assessing-chongqings-industrial-zones.html){:target="_blank"}
-[^11]: Guangdong: Market profile*.* (2018, February 23). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Guangdong-Market-Profile/ff/en/1/1X39VTST/1X06BUOU.htm){:target="_blank"}
-[^12]: 2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^13]: 3-9: Gross regional product and indices. (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^14]: Guangdong: Market profile. (2018, February 23). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Facts-and-Figures/Guangdong-Market-Profile/ff/en/1/1X000000/1X06BUOU.htm){:target="_blank"}
-[^15]: Guangdong. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-guangdong.aspx?lang=eng){:target="_blank"}
-[^16]: About Consulate General. (2012). *Ministry of Foreign Affairs.* Retrieved June 15, 2018, from [https://www.mfa.gov.sg](https://www.mfa.gov.sg/content/mfa/overseasmission/guangzhou.html){:target="_blank"}
-[^17]:  Guangdong: Market profile. (2016, November 24). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Guangdong-Market-Profile/ff/en/1/1X39VTST/1X06BUOU.htm){:target="_blank"}
-[^18]:   Guangdong. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-guangdong.aspx?lang=eng){:target="_blank"}
-[^19]:	 2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^20]:	Jiangsu’s facts. (2014). *Jiangsu.net.* Retrieved June 15, 2018, from [http://www.jiangsu.net](http://www.jiangsu.net/info/info/jiangsu_fact.php){:target="_blank"}
-[^21]:  3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
-[^22]:  Jiangsu’s facts. (2014). *Jiangsu.net.* Retrieved June 15, 2018, from [http://www.jiangsu.net](http://www.jiangsu.net/info/info/jiangsu_fact.php){:target="_blank"}
-[^23]:  Jiangsu: Market profile. (2018, January 10). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Jiangsu-Market-Profile/ff/en/1/1X39VTST/1X06BV87.htm){:target="_blank"}
-[^24]:   Jiangsu. (2016, September 9). *Government of Canada.* Retrieved June15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-jiangsu.aspx?lang=eng){:target="_blank"}
-[^25]:  Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"} 
-[^26]: 2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^27]:  3-9: Gross regional product and indices. (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^28]:  Liaoning. (2017, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-liaoning.aspx?lang=eng){:target="_blank"}; Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"}
-[^29]: Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"}
-[^30]:  Liaoning: Market profile. (2018, March 22). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Liaoning-Market-Profile/ff/en/1/1X39VTST/1X06BWFX.htm){:target="_blank"} 
-[^31]:  Shandong: Market profile. (2018, April 4). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Shandong-Market-Profile/ff/en/1/1X39VTST/1X06BVNS.htm){:target="_blank"}
-[^32]:  Tianjin. (2017, May 25). *Government of Canada.* Retrieved June 11, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-shandong.aspx?lang=eng){:target="_blank"}
-[^33]:   2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^34]:  3-9: Gross regional product and indices (2015). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^35]:  Shandong: Market profile. (2018, April 4). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Shandong-Market-Profile/ff/en/1/1X39VTST/1X06BVNS.htm){:target="_blank"}
-[^36]:  Shandong: Market profile. (2017, January 26). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Shandong-Market-Profile/ff/en/1/1X39VTST/1X06BVNS.htm){:target="_blank"}
-[^37]:  Sichuan: Market profile. (2018, January 30). *HKTDC Research.* Retrieved June 15, 2018 from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Sichuan-Market-Profile/ff/en/1/1X39VTST/1X06BVRO.htm){:target="_blank"}
-[^38]:  2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^39]:  3-9: Gross regional product and indices (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^40]:  Consulate-General of the Republic of Singapore. (2012). *Ministry of Foreign Affairs.* Retrieved June 15, 2018, from [https://www.mfa.gov.sg](https://www.mfa.gov.sg/content/mfa/overseasmission/chengdu.html){:target="_blank"}
-[^41]:  Sichuan: Market profile. (2018, January 30). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Sichuan-Market-Profile/ff/en/1/1X39VTST/1X06BVRO.htm){:target="_blank"}
-[^42]:  2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^43]:  Tianjin. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-tianjin.aspx?lang=eng){:target="_blank"}
-[^44]:  3-9: Gross regional product and indices. (2015). *China Statistical Yearbook 2016.* Retrieved June 11, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}: 3-9: Gross regional product and indices. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^45]:  3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
-[^46]:  Sino-Singapore Tianjin Eco-city: A model for sustainable development. (2017, August 25). *Government of Singapore.* Retrieved June 15, 2018, from [http://www.tianjinecocity.gov.sg](http://www.tianjinecocity.gov.sg/bg_intro.htm){:target="_blank"}
-[^47]:  Tianjin. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-tianjin.aspx?lang=eng){:target="_blank"}
-[^48]:  Tianjin: Market profile. (2018, April 6). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Tianjin-Market-Profile/ff/en/1/1X39VTST/1X06BVTM.htm){:target="_blank"}
-[^49]:  Geographical and natural features. (2010). *Zhejiang.* Retrieved June 15, 2018, from [http://english.zj.gov.cn](http://english.zj.gov.cn/col/col11078/index.html){:target="_blank"}
-[^50]:  2-6: Population at year-end by region. (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
-[^51]:  3-9: Gross regional product and indices (2016). *China Statistical Yearbook 2017.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}; 3-9: Gross regional product and indices (2015). *China Statistical Yearbook 2016.* Retrieved June 15, 2018, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm){:target="_blank"}
-[^52]:  Zhejiang: Market profile. (2018, March 1). *HKTDC Research.* Retrieved June 15, 2018, from [http://china-trade-research.hktdc.com](http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Zhejiang-Market-Profile/ff/en/1/1X39VTST/1X06BVYH.htm){:target="_blank"}
-[^53]:  Zhejiang. (2016, September 9). *Government of Canada.* Retrieved June 15, 2018, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-zhejiang.aspx?lang=eng){:target="_blank"}
+[^1]: China: Market Profile. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/market-profile){:target="_blank"}
 
+[^2]: Data & Profiles – Mainland China Provinces & Cities. (2021). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc){:target="_blank"}
 
+[^3]: West China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank"}
 
+[^4]:  North China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/north-china/overview){:target="_blank"}
 
+[^5]:  Singapore companies seize opportunities in new sectors and cities as Guangdong develops the Greater Bay Area. (2020, August 31). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/aug-2020/mr06520-singapore-companies-seize-opportunities-in-new-sectors-and-cities-as-guangdong-develops-the-greater-bay-area.pdf?la=en){:target="_blank"}
 
+[^6]: East China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/east-china/overview){:target="_blank"}
+
+[^7]: North China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/north-china/overview){:target="_blank"}
+
+[^8]: West China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank"}
+
+[^9]: North China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/north-china/overview){:target="_blank"}
+
+[^10]: West China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank"}
+
+[^11]: East China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/east-china/overview){:target="_blank"}
