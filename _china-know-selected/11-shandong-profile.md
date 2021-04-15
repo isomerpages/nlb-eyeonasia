@@ -99,7 +99,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^12]: Qingdao (Shandong) city information. (2021, February 23). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/qingdao){:target="_blank"}
 
-[^13 ]: Schwerdtfeger, M. (2020, February 18). What are the top ports in China? *Port Technology.* Retrieved March 9, 2021, from [https://www.porttechnology.org/](https://www.porttechnology.org/news/what-are-the-top-ports-in-china){:target="_blank"}
+[^13]: Schwerdtfeger, M. (2020, February 18). What are the top ports in China? *Port Technology.* Retrieved March 9, 2021, from [https://www.porttechnology.org/](https://www.porttechnology.org/news/what-are-the-top-ports-in-china){:target="_blank"}
 
 [^14]: Qingdao attracts foreign investors with a world-class business environment. (2017, December 28). *PR Newswire.* Retrieved March 9, 2021, from [https://www.prnewswire.com](https://www.prnewswire.com/news-releases/qingdao-attracts-foreign-investors-with-a-world-class-business-environment-300575975.html){:target="_blank"}
 
