@@ -12,14 +12,6 @@ third_nav_title: Go
 Connect with fellow Singaporeans through this selection of Singapore communities in ASEAN countries available from the Internet. This is not meant to be an exhaustive list.
 
 <hr/>
-### **ASEAN**
-
-#### The Young SEAkers
-The Young SEAkers is a non-profit headquartered in Singapore, with upcoming regional chapters across all 10 ASEAN countries and China. We aim to nurture a community of ASEAN youths change-makers passionate about advancing the interests of the ASEAN-China region. We are the first and only Southeast-Asia based non-profit focusing on youths with a China and ASEAN angle.
-
-[**Find out more**](https://www.theyoungseakers.com/){:target="_blank"}
-
-<hr/>
 ### **Cambodia**
 
 #### The Singapore Club Cambodia
