@@ -15,7 +15,7 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/asean-weekly-news-digests/" class="project-link">
-				<img src="/images/asean-youngpeople/What-young-people-say-new.jpg" alt="ASEAN: Weekly News Digests" class="project-image">
+				<img src="/images/asean-youngpeople/ASEAN-youth-reading-news-hanoi-small.jpg" alt="ASEAN: Weekly News Digests" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>ASEAN: Weekly News Digests</b></h5>
