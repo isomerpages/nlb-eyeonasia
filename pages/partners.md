@@ -76,7 +76,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 			<a href="http://www.tlr.asia/"><img src="/images/partners/ASEAN Living Room Logo 2.png" alt="The ASEAN Living Room"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.theyoungseakers.com/"><img src="/images/partners/The-Young-SEAkers.png" alt="The Young SEAkers" height="100px"></a>
+			<a href="https://www.theyoungseakers.com/"><img src="/images/partners/The-Young-SEAkers.jpg" alt="The Young SEAkers"></a>
 		</div>
 	</div>
 	<div class="row is-multiline">
