@@ -36,6 +36,8 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 	</div>
 </div>
 
+<p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
