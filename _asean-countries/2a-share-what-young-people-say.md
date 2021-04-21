@@ -14,6 +14,31 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/share/what-young-people-say/asean-weekly-news-digests/" class="project-link">
+				<img src="/images/asean-youngpeople/What-young-people-say-new.jpg" alt="ASEAN: Weekly News Digests" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>ASEAN: Weekly News Digests</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<!--div class="col is-half-tablet padding--bottom--lg">
+			<a href="/asean-countries/share/what-young-people-say/myanmar-travel-and-learn/" class="project-link">
+				<img src="/images/asean-youngpeople/Travel-and-learn-small.jpg" alt="Myanmar: Travel and Learn" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Myanmar: Travel and Learn</b></h5>
+				</div>
+			</div>
+			</a>
+		</div-->
+	</div>
+</div>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/indonesia-insights-about-yogyakarta/" class="project-link">
 				<img src="/images/asean-youngpeople/SP-Indonesia-bg-small.jpg" alt="Indonesia: Insights about Yogyakarta" class="project-image">
 			<div class="project-card">
