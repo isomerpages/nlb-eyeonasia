@@ -77,3 +77,8 @@ The Singapore Manufacturing Federation organises trade fairs, overseas business 
 This award provides its recipients with opportunities to deepen essential skill-sets to navigate and overcome the complexity of overseas markets. Awardees will also gain exposure in learning how to manage and lead international teams and projects effectively.
 
 [Find out more](https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000057){:target="_blank"}
+
+### **The Young SEAkers**
+The Young SEAkers is a non-profit headquartered in Singapore, with upcoming regional chapters across all 10 ASEAN countries and China. We aim to nurture a community of ASEAN youths change-makers passionate about advancing the interests of the ASEAN-China region. We are the first and only Southeast-Asia based non-profit focusing on youths with a China and ASEAN angle.
+
+[Find out more](https://www.theyoungseakers.com/){:target="_blank"}
