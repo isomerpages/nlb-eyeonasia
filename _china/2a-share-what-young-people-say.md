@@ -14,6 +14,33 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-young-people-say/bridging-worlds-e-magazine" class="project-link">
+				<img src="\images\china-youngpeople\bridging-worlds.png" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Bridging Worlds E-Magazine</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<!--div class="col is-half-tablet padding--bottom--lg">
+			<a href="/china/share/what-young-people-say/modern-history-of-singapore-and-china-through-story-of-yanxi-palace-and-the-little-nyonya" class="project-link">
+				<img src="\images\china-youngpeople\modern-history-of-singapore-and-china.png" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Modern history through ‘Story of Yanxi Palace’ and ‘The Little Nyonya’</b></h5>
+				</div>
+			</div>
+			</a>
+		</div-->
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-young-people-say/fintech-landscape-in-china/" class="project-link">
 				<img src="\images\china-youngpeople\fintech-landscape-in-china.jpg" class="project-image">
 			<div class="project-card">
@@ -22,7 +49,6 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 				</div>
 			</div>
 			</a>
-
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/china/share/what-young-people-say/modern-history-of-singapore-and-china-through-story-of-yanxi-palace-and-the-little-nyonya" class="project-link">
