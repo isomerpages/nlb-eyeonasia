@@ -5,7 +5,7 @@ date: 2021-05-12T00:00:00.000Z
 
 ---
 
-<img src="\images\past-events\12-May-2021\EOA page banner.png" style="width:1000px;" />
+<img src="\images\past-events\12-May-2021\EOA page banner.jpg" style="width:1000px;" />
 
 As Intellectual Property (IP) is invaluable to any business, managing and protecting your IP in today’s highly competitive and commercialised world is vital.
 
@@ -34,5 +34,5 @@ Kaushik Bora is an experienced lawyer, admitted to the Indian Bar, and has been 
 </div>
 -->
 
-<a href="https://www.eventbrite.sg/e/eye-on-asia-managing-and-protecting-intellectual-property-in-asia-registration-147924140085"  target="_blank"><img src="\images\past-events\13-Jan-2021\EOA eDM 12 May 2021.jpg" style="width:800px;" /></a>
+<a href="https://www.eventbrite.sg/e/eye-on-asia-managing-and-protecting-intellectual-property-in-asia-registration-147924140085"  target="_blank"><img src="\images\past-events\12-May-2021\EOA eDM 12 May 2021.jpg" style="width:800px;" /></a>
 
