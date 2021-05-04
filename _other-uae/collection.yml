@@ -1,0 +1,13 @@
+collections:
+  other-uae:
+    output: true
+    order:
+      - looking-to-asia-with-a-global-mindset.md
+      - abu-dhabi-a-city-profile.md
+      - discovering-abu-dhabi.md
+      - dubai-a-city-profile.md
+      - discovering-dubai.md
+      - living-in-the-uae.md
+      - working-in-the-uae.md
+      - initiatives.md
+      - singapore-communities-in-the-uae.md

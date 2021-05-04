@@ -4,99 +4,21 @@ url: 'https://www.eyeonasia.gov.sg'
 google_analytics: UA-50449401-26
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
-collections:
-    about:
-        output: true
-    asean-countries:
-        output: true
-    asean-know-overview:
-        output: true
-    asean-know-living:
-        output: true
-    asean-know-working:
-        output: true
-    asean-share-youngpeople:
-        output: true
-    asean-share-employers:
-        output: true
-    asean-go-students:
-        output: true
-    asean-go-professionals:
-        output: true
-    china:
-        output: true
-    china-know-overview:
-        output: true
-    china-know-selected:
-        output: true
-    china-know-living:
-        output: true
-    china-know-working:
-        output: true
-    china-know-sharing:
-        output: true
-    china-share-youngpeople:
-        output: true
-    china-share-employers:
-        output: true
-    china-go-students:
-        output: true
-    china-go-professionals:
-        output: true
-    india:
-        output: true
-    india-know-overview:
-        output: true
-    india-know-selected:
-        output: true
-    india-know-living:
-        output: true
-    india-know-working:
-        output: true
-    india-share-youngpeople:
-        output: true
-    india-share-employers:
-        output: true
-    india-go-students:
-        output: true
-    india-go-professionals:
-        output: true
-    past-events:
-        output: true
-    events:
-        output: true
-    upcoming-events:
-        output: true
-    other-asian-countries:
-        output: true
-    other-uae:
-        output: true
-    other-central-asia:
-        output: true
-    eoa-events:
-        output: true
-    obsolete:
-        output: false
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 resources_name: events
 paginate: 12
 paginate_path: '/events/page:num'
@@ -105,22 +27,30 @@ favicon: /images/favicon-eoa.png
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
 
 colors:
-    primary-color: '#2D3436'
-    secondary-color: '#C20e11'
-    media-colors:
-        - title: media-color-one
-          color: '#2d3436'
-        - title: media-color-two
-          color: '#e21216'
-        - title: media-color-three
-          color: '#00838f'
-        - title: media-color-four
-          color: '#00838f'
-        - title: media-color-five
-          color: '#00838f'
+  primary-color: '#2D3436'
+  secondary-color: '#C20e11'
+  media-colors:
+    - title: media-color-one
+      color: '#2d3436'
+    - title: media-color-two
+      color: '#e21216'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
+staging: https://nlb-eoa-staging.netlify.com
+staging: https://nlb-eoa-staging.netlify.com
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
