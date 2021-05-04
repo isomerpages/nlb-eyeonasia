@@ -1,0 +1,15 @@
+collections:
+  china-know-living:
+    output: true
+    order:
+      - sharing-economy-in-china.md
+      - china-s-rising-cashless-society.md
+      - understanding-healthcare-in-china.md
+      - chinese-food-culture.md
+      - looking-at-china-s-financial-and-banking-sector.md
+      - understanding-chinese-culture.md
+      - personal-anecdotes.md
+      - chinese-language.md
+      - a-glimpse-into-chinese-homes.md
+      - chinese-etiquette-and-customs.md
+      - the-future-of-mobility-in-china.md
