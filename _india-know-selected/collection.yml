@@ -1,0 +1,20 @@
+collections:
+  india-know-selected:
+    output: true
+    order:
+      - andhra-pradesh-a-profile.md
+      - discovering-andhra-pradesh.md
+      - gujarat-a-profile.md
+      - discovering-gujarat.md
+      - haryana-a-profile.md
+      - discovering-haryana.md
+      - maharashtra-a-profile.md
+      - discovering-maharashtra.md
+      - national-capital-region-of-india-a-profile.md
+      - discovering-delhi-national-capital-region.md
+      - pune-a-city-profile.md
+      - discovering-pune.md
+      - rajasthan-a-city-profile.md
+      - discovering-rajasthan.md
+      - tamil-nadu-a-profile.md
+      - discovering-tamil-nadu.md

@@ -1,0 +1,13 @@
+collections:
+  india-know-working:
+    output: true
+    order:
+      - corporate-social-responsibility-in-india.md
+      - understanding-cultural-intelligence.md
+      - business-culture-in-india.md
+      - entrepreneurship-in-india.md
+      - india-s-consumer-market-and-culture.md
+      - future-economy.md
+      - innovation-in-india.md
+      - inspiring-stories-and-insights.md
+      - talent-management.md

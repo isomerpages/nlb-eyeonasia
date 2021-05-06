@@ -1,0 +1,21 @@
+collections:
+  china-know-overview:
+    output: true
+    order:
+      - china-a-country-profile.md
+      - 30-years-of-singapore-china-diplomatic-relations.md
+      - regional-newspapers.md
+      - looking-to-asia-with-a-global-mindset.md
+      - artificial-intelligence-in-china.md
+      - social-commerce-in-china.md
+      - asean-and-china.md
+      - sustainability-and-green-initiatives-in-china.md
+      - education-in-china.md
+      - discovering-china-s-history.md
+      - understanding-china.md
+      - learning-about-china-s-transformation.md
+      - china-s-influential-young.md
+      - belt-and-road-initiative.md
+      - innovation-in-china.md
+      - china-s-digital-transformation.md
+      - contemporary-china.md

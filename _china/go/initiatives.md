@@ -15,7 +15,7 @@ Check out selected programmes and opportunities available so that you can better
 
 Supported by Business China Singapore, the Business China Singapore Youth Chapter (BCYC) is a voluntary group of youths formed in 2010, which envisions itself to be the leading Singapore-based community that inspires youths to become China-savvy and facilitates connections with China. It has a vibrant calendar of year-round activities which serve the needs of the BCYC community.
 
-[Find out more](https://www.businesschina.org.sg/en/for-youths/business-china-youth-chapter/){:target="_blank"}
+[Find out more](https://www.businesschina.org.sg/en/for-youths/overview/business-china-youth-chapter-2/){:target="_blank"}
 
 ### **Enterprise Singapore**
 

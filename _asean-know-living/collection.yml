@@ -1,0 +1,40 @@
+collections:
+  asean-know-living:
+    output: true
+    order:
+      - transportation-in-brunei.md
+      - customs-costumes-etiquette-in-brunei.md
+      - financial-services-banking-and-payment-systems-in-brunei.md
+      - housing-in-brunei.md
+      - transportation-in-cambodia.md
+      - customs-costumes-etiquette-in-cambodia.md
+      - financial-services-banking-and-payment-systems-in-cambodia.md
+      - housing-in-cambodia.md
+      - transportation-in-indonesia.md
+      - customs-costumes-etiquette-in-indonesia.md
+      - financial-services-banking-and-payment-systems-in-indonesia.md
+      - housing-in-indonesia.md
+      - transportation-in-laos.md
+      - customs-costumes-etiquette-in-laos.md
+      - financial-services-banking-and-payment-systems-in-laos.md
+      - housing-in-laos.md
+      - transportation-in-malaysia.md
+      - customs-costumes-etiquette-in-malaysia.md
+      - financial-services-banking-and-payment-systems-in-malaysia.md
+      - housing-in-malaysia.md
+      - transportation-in-myanmar.md
+      - customs-costumes-etiquette-in-myanmar.md
+      - financial-services-banking-and-payment-systems-in-myanmar.md
+      - housing-in-myanmar.md
+      - transportation-in-philippines.md
+      - customs-costumes-etiquette-in-philippines.md
+      - financial-services-banking-and-payment-systems-in-philippines.md
+      - housing-in-philippines.md
+      - transportation-in-thailand.md
+      - customs-costumes-etiquette-in-thailand.md
+      - financial-services-banking-and-payment-systems-in-thailand.md
+      - housing-in-thailand.md
+      - transportation-in-vietnam.md
+      - customs-costumes-etiquette-in-vietnam.md
+      - financial-services-banking-and-payment-systems-in-vietnam.md
+      - housing-in-vietnam.md

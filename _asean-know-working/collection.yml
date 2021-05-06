@@ -1,0 +1,24 @@
+collections:
+  asean-know-working:
+    output: true
+    order:
+      - understanding-cultural-intelligence.md
+      - listen-discussing-business-in-southeast-asia.md
+      - business-culture-in-brunei.md
+      - working-in-brunei.md
+      - business-culture-in-cambodia.md
+      - working-in-cambodia.md
+      - business-culture-in-indonesia.md
+      - working-in-indonesia.md
+      - business-culture-in-laos.md
+      - working-in-laos.md
+      - business-culture-in-malaysia.md
+      - working-in-malaysia.md
+      - business-culture-in-myanmar.md
+      - working-in-myanmar.md
+      - business-culture-in-the-philippines.md
+      - working-in-the-philippines.md
+      - business-culture-in-thailand.md
+      - working-in-thailand.md
+      - business-culture-in-vietnam.md
+      - working-in-vietnam.md
