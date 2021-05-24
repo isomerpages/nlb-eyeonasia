@@ -26,7 +26,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/12-may-2021/" class="project-link">
-				<img src="\images\past-events\12-May-2021\EOA Thumbnail.jpg" class="project-image">
+				<img src="\images\past-events\12-May-2021\EOA May 2021 Speaker Photo.png" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Managing and Protecting Intellectual Property in Asia</b></h5>
@@ -138,7 +138,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/08-nov-2019/" class="project-link">
-				<img src="/images/past-events/test-1.jpg" class="project-image">
+				<img src="/images/past-events/08-Nov-2019/08 Nov speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Why Not? Challenging Norms and Making a Difference in China</b></h5>
@@ -149,7 +149,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/10-oct-2019/" class="project-link">
-				<img src="/images/past-events/test-2.jpg"  class="project-image">
+				<img src="/images/past-events/10-Oct-2019/10 Oct Speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Talent Management in China ...</b></h5>
@@ -166,7 +166,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/02-sep-2019/" class="project-link">
-				<img src="/images/past-events/test-3.jpg" class="project-image">
+				<img src="/images/past-events/02-Sep-2019/2 Sept speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Engineering and Reinventing Yourself as an Entrepreneur ...</b></h5>
@@ -177,7 +177,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/07-aug-2019/" class="project-link">
-				<img src="/images/past-events/test-4.jpg"  class="project-image">
+				<img src="/images/past-events/07-Aug-2019/7 Aug speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Sustainable Economic Development ...</b></h5>
@@ -194,7 +194,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/09-jul-2019/" class="project-link">
-				<img src="/images/past-events/test-5.jpg" class="project-image">
+				<img src="/images/past-events/09-Jul-2019/9 Jul speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Entrepreneurship Opportunities in India</b></h5>
@@ -205,7 +205,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/30-may-2019/" class="project-link">
-				<img src="/images/past-events/test-6.jpg"  class="project-image">
+				<img src="/images/past-events/30-May-2019/30 May speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Traditional to Trendy - Ya Kun’s Journey of Internationalisation ...</b></h5>
@@ -222,7 +222,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/08-may-2019/" class="project-link">
-				<img src="/images/past-events/test-7.jpg" class="project-image">
+				<img src="/images/past-events/08-May-2019/8 May speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Digital Transformation in China’s Automotive Industry</b></h5>
@@ -233,7 +233,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/11-apr-2019/" class="project-link">
-				<img src="/images/past-events/test-8.jpg"  class="project-image">
+				<img src="/images/past-events/11-Apr-2019/11 Apr speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>The Aviation Industry is Booming ...</b></h5>
@@ -250,7 +250,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/02-mar-2019/" class="project-link">
-				<img src="/images/past-events/test-9.jpg" class="project-image">
+				<img src="/images/past-events/02-Mar-2019/2 Mar speakers.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>The Human Library Collection - Opportunities Beyond Singapore</b></h5>
@@ -261,7 +261,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/07-feb-2019/" class="project-link">
-				<img src="/images/past-events/test-10.jpg"  class="project-image">
+				<img src="/images/past-events/07-Feb-2019/7 Feb speakers.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Blockchain for Ports and Shipping Industry in China</b></h5>
@@ -278,7 +278,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/15-jan-2019/" class="project-link">
-				<img src="/images/past-events/test-11.jpg" class="project-image">
+				<img src="/images/past-events/15-Jan-2019/15 Jan speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>China’s Belt & Road Initiative - Opportunities and Implications</b></h5>
@@ -289,7 +289,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/09-jan-2019/" class="project-link">
-				<img src="/images/past-events/test-12.jpg"  class="project-image">
+				<img src="/images/past-events/09-Jan-2019/9 Jan speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>The Halal Travel Industry – Next Big Wave</b></h5>
@@ -306,7 +306,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/08-nov-2018/" class="project-link">
-				<img src="/images/past-events/test-13.jpg" class="project-image">
+				<img src="/images/past-events/08-Nov-2018/8 Nov speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Are you ready to be a China-savvy young Singaporean?</b></h5>
@@ -317,7 +317,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/04-oct-2018/" class="project-link">
-				<img src="/images/past-events/test-14.jpg"  class="project-image">
+				<img src="/images/past-events/04-Oct-2018/4 Oct speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Exploring China - Opportunities and Challenges</b></h5>
@@ -334,7 +334,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/04-sep-2018/" class="project-link">
-				<img src="/images/past-events/test-15.jpg" class="project-image">
+				<img src="/images/past-events/04-Sep-2018/4 Sep speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Bridging India and Singapore</b></h5>
@@ -345,7 +345,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/16-aug-2018/" class="project-link">
-				<img src="/images/past-events/test-16.jpg"  class="project-image">
+				<img src="/images/past-events/16-Aug-2018/16 aug speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Belt and Road Initiative ...</b></h5>
@@ -362,7 +362,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/05-jul-2018/" class="project-link">
-				<img src="/images/past-events/test-17.jpg" class="project-image">
+				<img src="/images/past-events/05-Jul-2018/5 Jul speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Starting up in an evolving China</b></h5>
@@ -373,7 +373,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/06-jun-2018/" class="project-link">
-				<img src="/images/past-events/test-18.jpg"  class="project-image">
+				<img src="/images/past-events/06-Jun-2018/6 Jun speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Demystifying the Indian ‘white tiger’</b></h5>
@@ -390,7 +390,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/04-may-2018/" class="project-link">
-				<img src="/images/past-events/test-19.jpg" class="project-image">
+				<img src="/images/past-events/04-May-2018/4 May speaker.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Evolution of education and trends in China</b></h5>
@@ -401,7 +401,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/03-apr-2018/" class="project-link">
-				<img src="/images/past-events/test-20.jpg"  class="project-image">
+				<img src="/images/past-events/03-Apr-2018/3 Apr speaker.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Exploring work or business opportunities in Indonesia?</b></h5>
@@ -418,7 +418,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/20-mar-2018/" class="project-link">
-				<img src="/images/past-events/test-21.jpg" class="project-image">
+				<img src="/images/past-events/20-Mar-2018/20 Mar speakers.jpg" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Are you aspiring to work beyond Singapore?</b></h5>
@@ -429,7 +429,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/events/past-events/official-launch-10-february-2018/" class="project-link">
-				<img src="/images/past-events/test-22.jpg"  class="project-image">
+				<img src="/images/past-events/official launch 10 feb 2018.jpg"  class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Official launch – 10 February 2018</b></h5>
