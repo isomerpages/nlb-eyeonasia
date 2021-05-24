@@ -1,6 +1,6 @@
 ---
 title: 'Managing and Protecting Intellectual Property in Asia'
-permalink: /events/upcoming-events/12-may-2021/
+permalink: /events/past-events/12-may-2021/
 date: 2021-05-12T00:00:00.000Z
 
 ---

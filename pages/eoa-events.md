@@ -14,12 +14,41 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-### **Upcoming Event**
+
+<!--### **Upcoming Event**
 
 <h5><b>Managing and Protecting Intellectual Property in Asia</b></h5>
 <a href="/events/upcoming-events/12-may-2021/"><img src="\images\past-events\12-May-2021\EOA Thumbnail.jpg" style="width:800px;"></a>
+-->
 
 ### **Past Events**
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/12-may-2021/" class="project-link">
+				<img src="\images\past-events\12-May-2021\EOA Thumbnail.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Managing and Protecting Intellectual Property in Asia</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<br>
+		<!--div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/past-events/13-jan-2021/" class="project-link">
+				<img src="\images\past-events\13-Jan-2021\EOA 13 Jan 2021_Group Photo.png" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Myanmar Venture Stories and Opportunities Post-COVID-19</b></h5>
+				</div>
+			</div>
+			</a>
+		</div-->
+	</div>
+</div>
+
+<br>
 
 <div>
 	<div class="row is-multiline">
