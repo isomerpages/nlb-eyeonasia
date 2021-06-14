@@ -47,7 +47,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 staging: https://nlb-eoa-staging.netlify.com
-staging: https://nlb-eoa-staging.netlify.com
 plugins:
   - jekyll-feed
   - jekyll-assets
