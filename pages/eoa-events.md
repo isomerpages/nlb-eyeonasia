@@ -16,7 +16,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 ### **Upcoming Event**
 
 <h5><b>A Perspective of Kazakhstan's Social Environment and Economic Opportunities</b></h5>
-<a href="/events/upcoming-events/12-may-2021/"><img src="\images\past-events\12-May-2021\EOA Thumbnail.jpg" style="width:800px;"></a>
+<a href="/events/upcoming-events/21-july-2021/"><img src="\images\past-events\12-May-2021\EOA Thumbnail.jpg" style="width:800px;"></a>
 
 
 ### **Past Events**
