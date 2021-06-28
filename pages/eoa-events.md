@@ -2,9 +2,7 @@
 title: Events
 permalink: /eoa-events/
 breadcrumb: Events
-
 ---
-
 <img src="/images/past-events/events-banner.jpg" style="width:900px;" />
 
 Keen to explore opportunities in ASEAN countries, China and India including emerging Asian cities? Or curious to learn more about the growing trends and developments in these countries? Discover tips and gain insights from these speakers who have ventured into the region through the Eye on Asia programme series! 
@@ -15,11 +13,11 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--### **Upcoming Event**
+### **Upcoming Event**
 
-<h5><b>Managing and Protecting Intellectual Property in Asia</b></h5>
+<h5><b>A Perspective of Kazakhstan's Social Environment and Economic Opportunities</b></h5>
 <a href="/events/upcoming-events/12-may-2021/"><img src="\images\past-events\12-May-2021\EOA Thumbnail.jpg" style="width:800px;"></a>
--->
+
 
 ### **Past Events**
 <div>
