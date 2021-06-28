@@ -1,8 +1,8 @@
 ---
-title: TBC
-permalink: /events/past-events/21-july-2021/
+title: A Perspective of Kazakhstan's Social Environment and Economic Opportunities
+permalink: /events/upcoming-events/21-july-2021/
 date: 2021-07-21T00:00:00.000Z
-published: false
+published: true
 ---
 <img src="\images\past-events\12-May-2021\EOA page banner.jpg" style="width:1000px;" />
 
