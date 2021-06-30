@@ -16,19 +16,19 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 ### **Upcoming Event**
 <div>
 	<div class="row is-multiline">
-	<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/events/past-events/12-may-2021/" class="project-link">
-				<img src="\images\past-events\12-May-2021\EOA May 2021 Speaker Photo.png" class="project-image">
- <div class="project-card">
-	<div class="project-title margin--bottom--xs">
-<h5><b>A Perspective of Kazakhstan's Social Environment and Economic Opportunities</b></h5>
-<a href="/events/upcoming-events/21-july-2021/"><img src="\images\past-events\12-May-2021\EOA Thumbnail.jpg" style="width:800px;"></a>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/events/upcoming-events/21-july-2021/" class="project-link">
+				<img src="\images\past-events\21-Jul-2021\EOA Thumbnail.jpg" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>A Perspective of Kazakhstan's Social Environment and Economic Opportunities</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<br>
 	</div>
-	</div>
-	  </a>
- </div>
-	</div>
-	</div>
+</div>
 
 ### **Past Events**
 <div>
