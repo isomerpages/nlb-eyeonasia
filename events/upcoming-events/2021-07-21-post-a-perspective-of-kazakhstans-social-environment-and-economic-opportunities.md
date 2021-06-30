@@ -2,9 +2,8 @@
 title: A Perspective of Kazakhstan's Social Environment and Economic Opportunities
 permalink: /events/upcoming-events/21-july-2021/
 date: 2021-07-21T00:00:00.000Z
-published: true
 ---
-<img src="\images\past-events\12-May-2021\EOA page banner.jpg" style="width:1000px;" />
+<img src="\images\past-events\21-Jul-2021\EDM For SFM.jpg" style="width:1000px;" />
 
 Get insights into the living and working experience of a Singaporean who saw the development of Kazakhstan, from a nation which was struggling after the dissolution of the Soviet Union at the end of 1991 to its development to become one of the wealthiest ex-Soviet states in Central Asia.
 
@@ -35,4 +34,4 @@ Renee How studied architecture and practiced as an architect for 2 years before 
 </div>
 -->
 
-<a href="https://www.eventbrite.sg/e/eye-on-asia-managing-and-protecting-intellectual-property-in-asia-registration-147924140085"  target="_blank"><img src="\images\past-events\12-May-2021\EOA eDM 12 May 2021.jpg" style="width:800px;" /></a>
+<a href="https://www.eventbrite.sg/e/eye-on-asia-managing-and-protecting-intellectual-property-in-asia-registration-147924140085"  target="_blank"><img src="\images\past-events\21-Jul-2021\EOA eDM 21 July 2021.jpg" style="width:800px;" /></a>
