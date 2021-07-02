@@ -4,8 +4,7 @@ date: 2021-07-02
 permalink: /events/upcoming-events/21-july-2021/
 layout: post
 ---
-
-<img src="\images\past-events\21-Jul-2021\EDM For SFM.jpg" style="width:1000px;" />
+<img src="\images\past-events\21-Jul-2021\EDM For SFM.jpg" style="width:800px;" />
 
 Get insights into the living and working experience of a Singaporean who saw the development of Kazakhstan, from a nation which was struggling after the dissolution of the Soviet Union at the end of 1991 to its development to become one of the wealthiest ex-Soviet states in Central Asia.
 
