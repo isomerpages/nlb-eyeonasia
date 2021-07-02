@@ -1,9 +1,10 @@
 ---
-title: 'China’s Belt & Road Initiative - Opportunities and Implications'
+title: China's Belt & Road Initiative - Opportunities and Implications
+date: 2019-01-15
 permalink: /events/past-events/15-jan-2019/
-date: 2019-01-15T00:00:00.000Z
-
+layout: post
 ---
+
 
 
 <img src="\images\past-events\15-Jan-2019\banner.jpg" alt="15-Jan-2019 banner" style="width:800px;" />
