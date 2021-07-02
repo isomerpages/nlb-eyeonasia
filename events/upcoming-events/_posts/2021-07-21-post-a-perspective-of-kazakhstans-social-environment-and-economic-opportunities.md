@@ -13,9 +13,11 @@ The director of Impact Invest Central Asia (Singapore) and Impact Central Asia (
 
 **6.00 pm – 7.00 pm (Singapore Time)**
 
-**Conducted via Zoom  - Register <a href="https://www.eventbrite.sg/e/eye-on-asia-managing-and-protecting-intellectual-property-in-asia-registration-147924140085" target="_blank">here</a>**
+**Conducted via Zoom  - Register <a href="https://www.eventbrite.sg/e/a-perspective-of-kazakhstans-social-environment-and-economic-opportunities-registration-161744802057" target="_blank">here</a>**
 
 This webinar is organised in collaboration with <a href="https://globalconnect.sbf.org.sg/" target="_blank">GlobalConnect@SBF</a>.
+
+This webinar is also supported by SkillsFuture Singapore in line with [SkillsFuture Month 2021](https://skillsfuturemonth.sg/){:target="_blank"}.
 
 
 ### **About the Speaker**
@@ -34,4 +36,4 @@ Renee How studied architecture and practiced as an architect for 2 years before 
 </div>
 -->
 
-<a href="https://www.eventbrite.sg/e/eye-on-asia-managing-and-protecting-intellectual-property-in-asia-registration-147924140085"  target="_blank"><img src="\images\past-events\21-Jul-2021\EOA eDM 21 July 2021.jpg" style="width:800px;" /></a>
+<!--a href="https://www.eventbrite.sg/e/eye-on-asia-managing-and-protecting-intellectual-property-in-asia-registration-147924140085"  target="_blank"><img src="\images\past-events\21-Jul-2021\EOA eDM 21 July 2021.jpg" style="width:800px;" /></a-->
