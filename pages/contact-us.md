@@ -1,20 +1,27 @@
 ---
 layout: contact_us
 permalink: /contact-us/
-breadcrumb: 'Contact Us'
-title: 'Contact Us'
+breadcrumb: Contact Us
+title: Contact Us
 locations:
-    - title: HQ Address
-      find-directions: 'https://www.google.com.sg/maps/place/National+Library+Board/@1.2975644,103.8521073,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a53b44f507:0x2ce078e72b32d70!8m2!3d1.297559!4d103.854296'
-      address: Level 7, National Library Building<br>100 Victoria Street<br>Singapore 188064<br>
+  - address:
+      - National Library Building
+      - "100 Victoria Street, Level 7, "
+      - Singapore 188064
+    operating_hours:
+      - days: Mon - Sun
+        time: 10.00am - 9.00pm
+        description: Closed at 5.00pm on eves of Christmas, New Year and Chinese New
+          Year.  Closed on Public Holidays.
+    maps_link: https://maps.google.com/maps?q=Level+7,+National+Library+Building100+Victoria+StreetSingapore+188064
+    title: HQ Address
 image-url: null
 contacts:
-    - title: 'Are you inspired by Eye on Asia?'
-      content:
-            - other: 'Did you learn something useful from our resources? Or do you have a new idea to share with us? Tell us what you think!'
-            - email: 'ref@nlb.gov.sg'
-
+  - content:
+      - phone: ""
+      - email: ref@nlb.gov.sg
+      - other: Did you learn something useful from our resources? Or do you have a new
+          idea to share with us? Tell us what you think!
+    title: Email us at
+agency_name: Lee Kong Chian Reference Library
 ---
-
-
-

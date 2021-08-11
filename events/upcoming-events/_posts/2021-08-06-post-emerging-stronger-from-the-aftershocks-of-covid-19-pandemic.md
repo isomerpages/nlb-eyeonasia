@@ -1,7 +1,7 @@
 ---
-title: A Perspective of Kazakhstan's Social Environment and Economic Opportunities
-date: 2021-07-02
-permalink: /events/upcoming-events/21-july-2021/
+title: Emerging Stronger from the Aftershocks of COVID-19 Pandemic
+date: 2021-08-06
+permalink: /events/upcoming-events/15-sept-2021
 layout: post
 ---
 <img src="\images\past-events\21-Jul-2021\EDM For SFM.jpg" style="width:800px;" />
@@ -17,9 +17,6 @@ The director of Impact Invest Central Asia (Singapore) and Impact Central Asia (
 **Conducted via Zoom  - Register <a href="https://www.eventbrite.sg/e/a-perspective-of-kazakhstans-social-environment-and-economic-opportunities-registration-161744802057" target="_blank">here</a>**
 
 This webinar is organised in collaboration with <a href="https://globalconnect.sbf.org.sg/" target="_blank">GlobalConnect@SBF</a>.
-
-This webinar is also supported by SkillsFuture Singapore in line with [SkillsFuture Month 2021](https://skillsfuturemonth.sg/){:target="_blank"}.
-
 
 ### **About the Speaker**
 
