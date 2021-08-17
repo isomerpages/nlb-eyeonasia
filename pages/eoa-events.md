@@ -9,7 +9,9 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 ### **Grow your possibilities with Eye on Asia**
 
-
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### **Upcoming Event**
 <div>
