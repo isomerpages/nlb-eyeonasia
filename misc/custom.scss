@@ -382,7 +382,6 @@ $desktop: 960px + (2 * $gap) !default;
 
 a.project-link {
 	text-decoration: none;
-    	object-fit: scale-down;
 }
 
 .project-card {
@@ -396,7 +395,7 @@ a.project-link {
 }
 
 .project-image {
-    object-fit: cover;
+    object-fit: scale-down;
     height: 230px;
     width: 100%;
 	}
