@@ -4,11 +4,11 @@ date: 2021-08-06
 permalink: /events/upcoming-events/15-sept-2021
 layout: post
 ---
-<img style="width:800px;" src="/images/past-events/15-sep-2021/15-Sep-2021-EOA%20Eventbrite%20V2.jpg">
+<img src="/images/past-events/15-sep-2021/15-Sep-2021-EOA%20Eventbrite%20V2.jpg" style="width:800px;">
  
-The COVID-19 pandemic has taken a toll on governments, businesses and individuals all around the world. Join us as we explore strategies on how digital ecosystems and smart cities across ASEAN can emerge stronger from the aftershocks. 
+The COVID-19 pandemic has impacted governments, businesses and individuals across the world. Join our panelists as they share strategies on how digital ecosystems and smart cities across ASEAN can bounce back and emerge stronger from the aftershocks of the pandemic.
 
-Panelists will delve into the key drivers to building a safer, more resilient and sustainable Smart ASEAN. Members of Smart Cities Network (SCN) will provide an overview of their projects on Cyber Security, Circular Economy and Resiliency in the region. This session also serves as a networking opportunity for you to collaborate with SCN and its members to penetrate the ASEAN region.
+Discover the key drivers of building a safer, more resilient and sustainable smart ASEAN and learn more about the Smart Cities Network’s (SCN) projects on cyber security, circular economy and resiliency in the region. This session also presents the chance to explore collaborative opportunities with SCN and its members, and gain a foothold in the ASEAN region. 
 
 **Wednesday, 15 September 2021**
 
@@ -24,25 +24,22 @@ This webinar is organised in collaboration with <a href="https://www.smartcities
 **Chairman**<br>
 **Smart Cities Network**
 
-Tay Kok-Chin (KC) is currently the Chairman of Smart Cities Network, a network of innovative solution and services providers for smart cities globally. KC is concurrently the ASEAN Director for Smart Cities Council, one of the largest ecosystem of stakeholders for smart cities globally. He has been involved with Smart Cities since 2011 when he was with IBM Leader for Smarter Planet and Smarter Buildings for ASEAN. He project managed the Smarter Cities Challenge in collaboration with the Singapore government in 2012. KC is widely acknowledged as a thought leader for smart and sustainable cities and provides consultancy services at the city and national level in a few countries in South East Asia. Since August 2020, he has been the Master Consultant for a property developer in Vietnam to develop Smart Communities for them.
+Tay Kok Chin (KC) is currently the Chairman of Smart Cities Network, an international network of innovative solution and services providers for smart cities. KC is also the ASEAN Director for Smart Cities Council, one of the largest ecosystems of stakeholders for smart cities globally. KC is widely acknowledged as a thought leader for smart and sustainable cities and provides consultancy services at the city and national levels in Southeast Asia. Since August 2020, he has been the Master Consultant for a property developer in Vietnam to develop Smart Communities.
 
 **Anna Koh**<br>
 **Senior Vice-President, Marketing and Business Enablement**<br>
 **CYFIRMA**
 
-Anna Koh has 2+ decades of sales, marketing, and branding experience in the IT industry across APAC. With expertise across start-ups and multi-national corporations, she has helped built new businesses in both established and emerging companies. She has been instrumental in helping these companies define their brand, chart their digitalization journeys, and build strategic partnerships. She oversees marketing for CYFIRMA and is a staunch advocate of cybersecurity for businesses seeking new digital growth.
+Anna Koh has more than two decades of sales, marketing and branding experience in the IT sector across the Asia-Pacific region. She has lent her expertise to start-ups and multi-national corporations, and helped build new businesses in both established and emerging companies. She has been instrumental in helping these companies define their brands, chart their digitalisation journeys, and create strategic partnerships. She oversees marketing at CYFIRMA and is a staunch advocate of cyber security for businesses seeking new digital growth.
 
 **Shiva Susarla**<br>
 **Founder**<br>
 **RENERGii and Circular Cities Asia**
 
-Shiva Susarla focuses on innovating for Urban Circular Economy. He is the Founder of RENERGII, a Singaporean innovation firm for building new circular startups. He is also the Founder of Circular Cities Asia, a Singaporean open innovation platform to foster circular economy innovation. Shiva has more than a decade's experience in cleantech and sustainability innovation and investment in Singapore. He has an MBA from the Asian Institute of Management, Philippines and a BE from VTU, India. He has also completed his coursework for the M.Eng from NUS. He is a Fellow of the prestigious Edmund Hillary Fellowship program.
+Shiva Susarla focuses on innovating for Urban Circular Economy. He is the Founder of RENERGii, a Singapore innovation firm focused on building new circular startups. He is also the Founder of Circular Cities Asia, a Singapore open innovation platform that fosters circular economy innovation. Shiva has more than a decade's experience in cleantech and sustainability innovation and investment in Singapore. He has an MBA from the Asian Institute of Management, Philippines, a Bachelor of Engineering from Visvesvaraya Technological University, India, and graduated with a Masters in Engineering from the National University of Singapore. He is also a Fellow of the prestigious Edmund Hillary Fellowship programme.
 
 **Goh Seok Mei**<br>
 **Executive Director**<br>
 **United Cities Singapore**
 
-Goh Seok Mei is the Board Member and Executive Director of United Cities Singapore, a non-profit organisation that assist cities in achieving United Nations Sustainable Development Goals 2030 by providing awareness, education, innovative and sustainable technologies, academic partnerships and funding opportunities. She is an entrepreneur that started her first company in 2001 and has led organisations offering consultancy services, Digital Twin technologies in Smart Cities, provided support nationwide for Malaysia 999 Emergency Response Centres and managed 700 social entrepreneurs in the telecommunications industry. Her current project is working with Cauayan City in the Philippines on the Intelligent Disaster Early Warning (iDEW) roadmap. This project has won 2 global awards, Amazon Web Services  City on a Cloud, Gamechanger Award and Unbound UK, Urban Innovation Award. In her spare time, she contributes to research and knowledge to the United Nations International Telecommunication Union (UN-ITU) workgroups, mentors students from NUS, NTU, SMU, Temasek Polytechnic and with Singapore Mentoring Alliance for Action (AfA).
-
-
-
+is a Board Member and the Executive Director of United Cities Singapore, a non-profit organisation that helps cities achieve the United Nations’ sustainable development goals by 2030. An entrepreneur, Seok Mei started her first company in 2001 and has led organisations that have offered consultancy services, Digital Twin technologies in Smart Cities, provided nationwide support for Malaysia 999 Emergency Response Centres and managed 700 social entrepreneurs in the telecommunications industry. She is currently working with Cauayan City in the Philippines on the award-winning Intelligent Disaster Early Warning (iDEW) roadmap. She also mentors students and contributes to research and knowledge for the United Nations International Telecommunication Union (UN-ITU) workgroups. 
