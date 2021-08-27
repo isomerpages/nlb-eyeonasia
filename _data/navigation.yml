@@ -50,3 +50,5 @@ links:
     url: /events/
   - title: Partners
     url: /partners/
+  - title: Events
+    collection: events
