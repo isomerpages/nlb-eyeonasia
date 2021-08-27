@@ -1,12 +1,9 @@
 ---
-title: 'What Young People Say'
+title: What Young People Say
 permalink: /asean-countries/share/what-young-people-say/
-breadcrumb: 'What Young People Say'
+breadcrumb: What Young People Say
 third_nav_title: Share
-
 ---
-
-
 ![banner-asean-share-what-young-people-say](\images\asean-youngpeople\What-young-people-say-new.jpg)
 
 Read firsthand experiences and stories from young enterprising Singaporeans who have visited ASEAN countries for study trips and see ASEAN from their perspectives.
@@ -150,10 +147,10 @@ Read firsthand experiences and stories from young enterprising Singaporeans who 
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-young-people-say/vietnam-insights-soybean-industry/" class="project-link">
-				<img src="/images/asean-youngpeople/Vietnam-soybeans-industry-small.jpg" alt="Myanmar: Insights into the soybean industry" class="project-image">
+				<img src="/images/asean-youngpeople/Vietnam-soybeans-industry-small.jpg" alt="Vietnam: Insights into the soybean industry" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Myanmar: Insights into the soybean industry</b></h5>
+					<h5><b>Vietnam: Insights into the soybean industry</b></h5>
 				</div>
 			</div>
 			</a>
