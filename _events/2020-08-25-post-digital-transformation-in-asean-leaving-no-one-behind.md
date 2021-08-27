@@ -1,8 +1,8 @@
 ---
-title: Digital Transformation in ASEAN - Leaving No One Behind
+title: 'Digital Transformation in ASEAN - Leaving No One Behind'
 permalink: /events/past-events/16-sep-2020/
 date: 2020-09-16T00:00:00.000Z
-third_nav_title: Past Events
+
 ---
 
 

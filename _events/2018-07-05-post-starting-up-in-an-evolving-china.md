@@ -1,8 +1,8 @@
 ---
-title: Starting up in an evolving China
+title: 'Starting up in an evolving China'
 permalink: /events/past-events/05-jul-2018/
 date: 2018-07-05T00:00:00.000Z
-third_nav_title: Past Events
+
 ---
 
 
@@ -58,4 +58,8 @@ Keen to explore more about living and working in China? Check out these resource
 ##### **Event gallery**
 
 | <a href="\images\past-events\05-Jul-2018\image-1.jpg"><img src="\images\past-events\05-Jul-2018\image-1.jpg" style="width:200px;" /></a> | <a href="\images\past-events\05-Jul-2018\image-2.jpg"><img src="\images\past-events\05-Jul-2018\image-2.jpg" style="width:200px;" /></a> | <a href="\images\past-events\05-Jul-2018\image-3.jpg"><img src="\images\past-events\05-Jul-2018\image-3.jpg" style="width:200px;" /></a> | <a href="\images\past-events\05-Jul-2018\image-4.jpg"><img src="\images\past-events\05-Jul-2018\image-4.jpg" style="width:200px;" /></a> |
-| 
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |                                                              |
+
+<img src="\images\past-events\05-Jul-2018\edm.jpg" style="width:650px;" />
+

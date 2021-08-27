@@ -1,8 +1,8 @@
 ---
-title: Belt and Road Initiative - Opportunities in China and Cambodia
+title: 'Belt and Road Initiative - Opportunities in China and Cambodia'
 permalink: /events/past-events/16-aug-2018/
 date: 2018-08-16T00:00:00.000Z
-third_nav_title: Past Events
+
 ---
 
 
@@ -49,4 +49,9 @@ He holds a Bachelor of Arts in Political Science & History from the National Uni
 ##### **Event gallery**
 
 | <a href="\images\past-events\16-Aug-2018\image-1.jpg"><img src="\images\past-events\16-Aug-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\16-Aug-2018\image-2.jpg"><img src="\images\past-events\16-Aug-2018\image-2.jpg" style="width:200px;" /></a> | <a href="\images\past-events\16-Aug-2018\image-3.jpg"><img src="\images\past-events\16-Aug-2018\image-3.jpg" style="width:250px;" /></a> |
-| 
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="\images\past-events\16-Aug-2018\image-4.jpg"><img src="\images\past-events\16-Aug-2018\image-4.jpg" style="width:200px;" /></a> | <a href="\images\past-events\16-Aug-2018\image-5.jpg"><img src="\images\past-events\16-Aug-2018\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\16-Aug-2018\image-6.jpg"><img src="\images\past-events\16-Aug-2018\image-6.jpg" style="width:250px;" /></a> |
+
+
+<img src="\images\past-events\16-Aug-2018\edm.jpg" style="width:650px;" />
+

@@ -1,8 +1,8 @@
 ---
-title: Sand and Skyscrapers – Understanding the United Arab Emirates
+title: 'Sand and Skyscrapers – Understanding the United Arab Emirates'
 permalink: /events/past-events/18-nov-2020/
 date: 2020-11-18T00:00:00.000Z
-third_nav_title: Past Events
+
 ---
 
 

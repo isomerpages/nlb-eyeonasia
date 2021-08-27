@@ -3,7 +3,6 @@ title: Let's Talk Social Impact - The Road Less Travelled Around ASEAN
 date: 2019-12-20
 permalink: /events/past-events/14-jan-2020/
 layout: post
-third_nav_title: Past Events
 ---
 
 
@@ -29,4 +28,20 @@ Register now via <https://go.gov.sg/nl-programme-14jan>
 ##### **Event gallery**
 
 | <a href="\images\past-events\14-Jan-2020\image-1.jpg"><img src="\images\past-events\14-Jan-2020\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\14-Jan-2020\image-2.jpg"><img src="\images\past-events\14-Jan-2020\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\14-Jan-2020\image-3.jpg"><img src="\images\past-events\14-Jan-2020\image-3.jpg" style="width:250px;" /></a> |
-| 
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="\images\past-events\14-Jan-2020\image-4.jpg"><img src="\images\past-events\14-Jan-2020\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\14-Jan-2020\image-5.jpg"><img src="\images\past-events\14-Jan-2020\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\14-Jan-2020\image-6-1.jpg"><img src="\images\past-events\14-Jan-2020\image-6-1.jpg" style="width:250px;" /></a> |
+
+#####  **Watch highlights of the programme:** 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TGwbjrBgoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lz2aZEl-csk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<img src="\images\past-events\14-Jan-2020\Eye on Asia Programme 14 Jan.jpg" style="width:650px;" />
+

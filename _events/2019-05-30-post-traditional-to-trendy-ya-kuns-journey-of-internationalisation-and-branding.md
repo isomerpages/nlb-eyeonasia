@@ -3,7 +3,6 @@ title: Traditional to Trendy - Ya Kun's Journey of Internationalisation and Bran
 date: 2019-05-30
 permalink: /events/past-events/30-may-2019/
 layout: post
-third_nav_title: Past Events
 ---
 
 
@@ -31,4 +30,20 @@ Navigate the shifts in global economic power to Asia with Eye on Asia’s curate
 ##### **Event gallery**
 
 | <a href="\images\past-events\30-May-2019\image-1.jpg"><img src="\images\past-events\30-May-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\30-May-2019\image-2.jpg"><img src="\images\past-events\30-May-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\30-May-2019\image-3.jpg"><img src="\images\past-events\30-May-2019\image-3.jpg" style="width:250px;" /></a> |
-| 
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="\images\past-events\30-May-2019\image-4.jpg"><img src="\images\past-events\30-May-2019\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\30-May-2019\image-5.jpg"><img src="\images\past-events\30-May-2019\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\30-May-2019\image-6.jpg"><img src="\images\past-events\30-May-2019\image-6.jpg" style="width:250px;" /></a> |
+
+#####  **Watch highlights of the programme:** 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0NllYDAN_ds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cuDSeGXLvO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<img src="\images\past-events\30-May-2019\edm.jpg" style="width:650px;" />
+

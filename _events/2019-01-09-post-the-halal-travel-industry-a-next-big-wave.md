@@ -1,8 +1,8 @@
 ---
-title: The Halal Travel Industry – Next Big Wave
+title: 'The Halal Travel Industry – Next Big Wave'
 permalink: /events/past-events/09-jan-2019/
 date: 2019-01-09T00:00:00.000Z
-third_nav_title: Past Events
+
 ---
 
 
@@ -37,4 +37,21 @@ Free admission. Register now via [this link](https://bit.ly/2zwiTTE)
 ##### **Event gallery**
 
 | <a href="\images\past-events\09-Jan-2019\image-1.jpg"><img src="\images\past-events\09-Jan-2019\image-1.jpg" style="width:200px;" /></a> | <a href="\images\past-events\09-Jan-2019\image-2.jpg"><img src="\images\past-events\09-Jan-2019\image-2.jpg" style="width:200px;" /></a> | <a href="\images\past-events\09-Jan-2019\image-3.jpg"><img src="\images\past-events\09-Jan-2019\image-3.jpg" style="width:200px;" /></a> | <a href="\images\past-events\09-Jan-2019\image-4.jpg"><img src="\images\past-events\09-Jan-2019\image-4.jpg" style="width:200px;" /></a> |
-| 
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |                                                              |
+
+
+#####  **Watch highlights of the programme:** 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fGSLMOyWpb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbeDl-bDuLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<img src="\images\past-events\09-Jan-2019\edm.jpg" style="width:650px;" />
+

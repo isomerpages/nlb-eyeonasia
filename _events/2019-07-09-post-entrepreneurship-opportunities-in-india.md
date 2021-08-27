@@ -1,8 +1,8 @@
 ---
-title: Entrepreneurship Opportunities in India
+title: 'Entrepreneurship Opportunities in India'
 permalink: /events/past-events/09-jul-2019/
 date: 2019-07-09T00:00:00.000Z
-third_nav_title: Past Events
+
 ---
 
 
@@ -27,4 +27,20 @@ Free admission. Register now via [this link.](https://bit.ly/2VKnM8O)
 ##### **Event gallery**
 
 | <a href="\images\past-events\09-Jul-2019\image-1.jpg"><img src="\images\past-events\09-Jul-2019\image-1.jpg" style="width:350px;" /></a> | <a href="\images\past-events\09-Jul-2019\image-2.jpg"><img src="\images\past-events\09-Jul-2019\image-2.jpg" style="width:350px;" /></a> |
-| 
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+#####  **Watch highlights of the programme:** 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0SuN53GbnFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hAApwsu934A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<img src="\images\past-events\09-Jul-2019\edm.jpg" style="width:650px;" />
+
