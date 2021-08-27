@@ -1,9 +1,9 @@
 ---
-title: 'Official launch – 10 February 2018'
+title: Official launch – 10 February 2018
 permalink: /events/past-events/official-launch-10-february-2018/
 date: 2018-02-10T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\10-Feb-2018\10-feb-2018 banner.jpg" alt="10-feb-2018 banner" style="width:800px;" />
