@@ -1,8 +1,8 @@
 ---
-title: 'Digital Transformation in China’s Automotive Industry'
+title: Digital Transformation in China’s Automotive Industry
 permalink: /events/past-events/08-may-2019/
 date: 2019-05-08T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -29,20 +29,4 @@ Eye on Asia offers resources on ASEAN countries, China and India for young Singa
 ##### **Event gallery**
 
 | <a href="\images\past-events\08-May-2019\image-1.jpg"><img src="\images\past-events\08-May-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-May-2019\image-2.jpg"><img src="\images\past-events\08-May-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-May-2019\image-3.jpg"><img src="\images\past-events\08-May-2019\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
-
-#####  **Watch highlights of the programme:** 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_8SzOIywxiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8ulfDupOlz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<img src="\images\past-events\08-May-2019\edm.jpg" style="width:650px;" />
-
+| 

@@ -1,8 +1,8 @@
 ---
-title: 'Exploring work or business opportunities in Indonesia?'
+title: Exploring work or business opportunities in Indonesia?
 permalink: /events/past-events/03-apr-2018/
 date: 2018-04-03T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -33,11 +33,4 @@ Farid MN is an accountant by training and has over 15 years of regional experien
 ##### **Event gallery**
 
 | <a href="\images\past-events\03-Apr-2018\image-1.jpg"><img src="\images\past-events\03-Apr-2018\image-1.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-2.jpg"><img src="\images\past-events\03-Apr-2018\image-2.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-3.jpg"><img src="\images\past-events\03-Apr-2018\image-3.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-4.jpg"><img src="\images\past-events\03-Apr-2018\image-4.jpg" style="width:200px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="\images\past-events\03-Apr-2018\image-5.jpg"><img src="\images\past-events\03-Apr-2018\image-5.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-6.jpg"><img src="\images\past-events\03-Apr-2018\image-6.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-7.jpg"><img src="\images\past-events\03-Apr-2018\image-7.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-8.jpg"><img src="\images\past-events\03-Apr-2018\image-8.jpg" style="width:200px;" /></a> |
-| <a href="\images\past-events\03-Apr-2018\image-9.jpg"><img src="\images\past-events\03-Apr-2018\image-9.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-10.jpg"><img src="\images\past-events\03-Apr-2018\image-10.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-11.jpg"><img src="\images\past-events\03-Apr-2018\image-11.jpg" style="width:200px;" /></a> | <a href="\images\past-events\03-Apr-2018\image-12.jpg"><img src="\images\past-events\03-Apr-2018\image-12.jpg" style="width:200px;" /></a> |
-| <a href="\images\past-events\03-Apr-2018\image-13.jpg"><img src="\images\past-events\03-Apr-2018\image-13.jpg" style="width:200px;" /></a> |                                                              |                                                              |                                                              |
-
-
-<img src="\images\past-events\03-Apr-2018\edm.jpg" style="width:650px;" />
-
+| 

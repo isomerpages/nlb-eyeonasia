@@ -2,6 +2,7 @@
 title: Managing and Protecting Intellectual Property in Asia
 permalink: /events/past-events/12-may-2021/
 date: 2021-05-12T00:00:00.000Z
+third_nav_title: Past Events
 ---
 <img src="\images\past-events\12-May-2021\EOA page banner.jpg" style="width:1000px;" />
 

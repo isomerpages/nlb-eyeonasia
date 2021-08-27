@@ -1,8 +1,8 @@
 ---
-title: 'The Human Library Collection - Opportunities Beyond Singapore'
+title: The Human Library Collection - Opportunities Beyond Singapore
 permalink: /events/past-events/02-mar-2019/
 date: 2019-03-02T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -51,9 +51,4 @@ Free admission. Register now via [this link](https://bit.ly/2G2p9aF)
 ##### **Event gallery**
 
 | <a href="\images\past-events\02-Mar-2019\image-1.jpg"><img src="\images\past-events\02-Mar-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-2.jpg"><img src="\images\past-events\02-Mar-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-3.jpg"><img src="\images\past-events\02-Mar-2019\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="\images\past-events\02-Mar-2019\image-4.jpg"><img src="\images\past-events\02-Mar-2019\image-4.jpg" style="width:110px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-5.jpg"><img src="\images\past-events\02-Mar-2019\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-6.jpg"><img src="\images\past-events\02-Mar-2019\image-6.jpg" style="width:250px;" /></a> |
-| <a href="\images\past-events\02-Mar-2019\image-7.jpg"><img src="\images\past-events\02-Mar-2019\image-7.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-8.jpg"><img src="\images\past-events\02-Mar-2019\image-8.jpg" style="width:250px;" /></a> | <a href="\images\past-events\02-Mar-2019\image-9.jpg"><img src="\images\past-events\02-Mar-2019\image-9.jpg" style="width:250px;" /></a> |
-
-<img src="\images\past-events\02-Mar-2019\edm.jpg" style="width:650px;" />
-
+| 

@@ -1,8 +1,8 @@
 ---
-title: 'Are you ready to be a China-savvy young Singaporean?'
+title: Are you ready to be a China-savvy young Singaporean?
 permalink: /events/past-events/08-nov-2018/
 date: 2018-11-08T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -38,20 +38,4 @@ Dr Tan Eng Han has spent most of his 24 years in China in the area of education 
 ##### **Event gallery**
 
 | <a href="\images\past-events\08-Nov-2018\image-1.jpg"><img src="\images\past-events\08-Nov-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-Nov-2018\image-2.jpg"><img src="\images\past-events\08-Nov-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-Nov-2018\image-3.jpg"><img src="\images\past-events\08-Nov-2018\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="\images\past-events\08-Nov-2018\image-4.jpg"><img src="\images\past-events\08-Nov-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\08-Nov-2018\image-5.jpg"><img src="\images\past-events\08-Nov-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |
-
-#####  **Watch highlights of the programme:** 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xwwQxD6Oj30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wqMm4T-EkRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<img src="\images\past-events\08-Nov-2018\edm.jpg" style="width:650px;" />
-
+| 

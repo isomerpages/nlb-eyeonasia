@@ -1,8 +1,8 @@
 ---
-title: 'Talent Management in China - Attracting and Retaining Talent for SMEs'
+title: Talent Management in China - Attracting and Retaining Talent for SMEs
 permalink: /events/past-events/10-oct-2019/
 date: 2019-10-10T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -29,19 +29,4 @@ Qi Ming is the Culture and Talent Director of McGraw-Hill Education Asia. He has
 ##### **Event gallery**
 
 | <a href="\images\past-events\10-Oct-2019\image-1.jpg"><img src="\images\past-events\10-Oct-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\10-Oct-2019\image-2.jpg"><img src="\images\past-events\10-Oct-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\10-Oct-2019\image-3.jpg"><img src="\images\past-events\10-Oct-2019\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
-
-#####  **Watch highlights of the programme:** 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/129qW7jVYEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uizYLlaY1oU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<img src="\images\past-events\10-Oct-2019\edm.jpg" style="width:650px;" />
+| 

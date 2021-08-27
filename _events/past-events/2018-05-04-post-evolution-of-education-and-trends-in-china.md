@@ -1,8 +1,8 @@
 ---
-title: 'Evolution of education and trends in China'
+title: Evolution of education and trends in China
 permalink: /events/past-events/04-may-2018/
 date: 2018-05-04T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -45,8 +45,4 @@ Joseph Chong is the managing director of Ulearning Technology (International) Pt
 ##### **Event gallery**
 
 | <a href="\images\past-events\04-May-2018\image-1.jpg"><img src="\images\past-events\04-May-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-May-2018\image-2.jpg"><img src="\images\past-events\04-May-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-May-2018\image-3.jpg"><img src="\images\past-events\04-May-2018\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="\images\past-events\04-May-2018\image-4.jpg"><img src="\images\past-events\04-May-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-May-2018\image-5.jpg"><img src="\images\past-events\04-May-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |
-
-<img src="\images\past-events\04-May-2018\edm.jpg" style="width:650px;" />
-
+| 

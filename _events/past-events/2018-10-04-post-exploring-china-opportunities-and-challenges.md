@@ -1,8 +1,8 @@
 ---
-title: 'Exploring China - Opportunities and Challenges'
+title: Exploring China - Opportunities and Challenges
 permalink: /events/past-events/04-oct-2018/
 date: 2018-10-04T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -45,21 +45,4 @@ Elston Sam is a final year student at Nanyang Technological University, majoring
 ##### **Event gallery**
 
 | <a href="\images\past-events\04-Oct-2018\image-1.jpg"><img src="\images\past-events\04-Oct-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-2.jpg"><img src="\images\past-events\04-Oct-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-3.jpg"><img src="\images\past-events\04-Oct-2018\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="\images\past-events\04-Oct-2018\image-4.jpg"><img src="\images\past-events\04-Oct-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-5.jpg"><img src="\images\past-events\04-Oct-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |
-
-
-#####  **Watch highlights of the programme:** 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cYA8Nmil1n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v8UdoV832Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<img src="\images\past-events\04-Oct-2018\edm.jpg" style="width:650px;" />
-
+| 

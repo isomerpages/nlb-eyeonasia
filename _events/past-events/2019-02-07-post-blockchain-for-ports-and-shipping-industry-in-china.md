@@ -1,8 +1,8 @@
 ---
-title: 'Blockchain for Ports and Shipping Industry in China'
+title: Blockchain for Ports and Shipping Industry in China
 permalink: /events/past-events/07-feb-2019/
 date: 2019-02-07T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -37,20 +37,4 @@ Free admission. Please register via [this link](https://bit.ly/2SVvHuu)
 ##### **Event gallery**
 
 | <a href="\images\past-events\07-Feb-2019\image-1.jpg"><img src="\images\past-events\07-Feb-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\07-Feb-2019\image-2.jpg"><img src="\images\past-events\07-Feb-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\07-Feb-2019\image-3.jpg"><img src="\images\past-events\07-Feb-2019\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
-
-#####  **Watch highlights of the programme:** 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_P3EhXMZId0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9mUaS0HcM0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<img src="\images\past-events\07-Feb-2019\edm.jpg" style="width:650px;" />
-
+| 

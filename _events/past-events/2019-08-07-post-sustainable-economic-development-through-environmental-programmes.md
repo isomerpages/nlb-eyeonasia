@@ -1,8 +1,8 @@
 ---
-title: 'Sustainable Economic Development Through Environmental Programmes'
+title: Sustainable Economic Development Through Environmental Programmes
 permalink: /events/past-events/07-aug-2019/
 date: 2019-08-07T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -27,8 +27,4 @@ Muhammad Yani bAS has more than 25 years’ experience in the entrepreneurship, 
 ##### **Event gallery**
 
 | <a href="\images\past-events\07-Aug-2019\image-1.jpg"><img src="\images\past-events\07-Aug-2019\image-1.jpg" style="width:350px;" /></a> | <a href="\images\past-events\07-Aug-2019\image-2.jpg"><img src="\images\past-events\07-Aug-2019\image-2.jpg" style="width:350px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
-
-<img src="\images\past-events\07-Aug-2019\edm.jpg" style="width:650px;" />
-
+| 

@@ -1,8 +1,8 @@
 ---
-title: 'Myanmar Venture Stories and Opportunities Post-COVID-19'
+title: Myanmar Venture Stories and Opportunities Post-COVID-19
 permalink: /events/past-events/13-jan-2021/
 date: 2021-01-13T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 

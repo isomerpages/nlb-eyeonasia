@@ -3,6 +3,7 @@ title: China's Belt & Road Initiative - Opportunities and Implications
 date: 2019-01-15
 permalink: /events/past-events/15-jan-2019/
 layout: post
+third_nav_title: Past Events
 ---
 
 
@@ -48,20 +49,4 @@ This programme is in partnership with Business China.
 ##### **Event gallery**
 
 | <a href="\images\past-events\15-Jan-2019\image-1.jpg"><img src="\images\past-events\15-Jan-2019\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\15-Jan-2019\image-2.jpg"><img src="\images\past-events\15-Jan-2019\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\15-Jan-2019\image-3.jpg"><img src="\images\past-events\15-Jan-2019\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="\images\past-events\15-Jan-2019\image-4.jpg"><img src="\images\past-events\15-Jan-2019\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\15-Jan-2019\image-5.jpg"><img src="\images\past-events\15-Jan-2019\image-5.jpg" style="width:250px;" /></a> | <a href="\images\past-events\15-Jan-2019\image-6.jpg"><img src="\images\past-events\15-Jan-2019\image-6.jpg" style="width:250px;" /></a> |
-
-#####  **Watch highlights of the programme:** 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tk5sq5VTqGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qAqs_kfx4Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<img src="\images\past-events\15-Jan-2019\edm.jpg" style="width:650px;" />
-
+| 

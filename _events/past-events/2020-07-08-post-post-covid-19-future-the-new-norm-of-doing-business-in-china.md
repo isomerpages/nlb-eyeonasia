@@ -1,8 +1,8 @@
 ---
-title: 'Post-COVID-19 Future - The New Norm of Doing Business in China'
+title: Post-COVID-19 Future - The New Norm of Doing Business in China
 permalink: /events/past-events/08-jul-2020/
 date: 2020-07-08T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 

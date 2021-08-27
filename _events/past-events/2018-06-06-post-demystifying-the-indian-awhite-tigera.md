@@ -1,8 +1,8 @@
 ---
-title: 'Demystifying the Indian ‘white tiger’'
+title: Demystifying the Indian ‘white tiger’
 permalink: /events/past-events/06-jun-2018/
 date: 2018-06-06T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -47,9 +47,4 @@ Lalit’s career has taken him across India and he has worked in cities from Mum
 ##### **Event gallery**
 
 | <a href="\images\past-events\06-Jun-2018\image-1.jpg"><img src="\images\past-events\06-Jun-2018\image-1.jpg" style="width:200px;" /></a> | <a href="\images\past-events\06-Jun-2018\image-2.jpg"><img src="\images\past-events\06-Jun-2018\image-2.jpg" style="width:110px;" /></a> | <a href="\images\past-events\06-Jun-2018\image-3.jpg"><img src="\images\past-events\06-Jun-2018\image-3.jpg" style="width:200px;" /></a> | <a href="\images\past-events\06-Jun-2018\image-4.jpg"><img src="\images\past-events\06-Jun-2018\image-4.jpg" style="width:200px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |                                                              |
-
-
-<img src="\images\past-events\06-Jun-2018\edm.jpg" style="width:650px;" />
-
+| 

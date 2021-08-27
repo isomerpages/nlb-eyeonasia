@@ -1,8 +1,8 @@
 ---
-title: 'Are you aspiring to work beyond Singapore?'
+title: Are you aspiring to work beyond Singapore?
 permalink: /events/past-events/20-mar-2018/
 date: 2018-03-20T00:00:00.000Z
-
+third_nav_title: Past Events
 ---
 
 
@@ -61,8 +61,4 @@ Abdul Rahim has an in-depth understanding of supply chain management and industr
 ##### **Event gallery**
 
 | <a href="\images\past-events\20-Mar-2018\image-1.jpg"><img src="\images\past-events\20-Mar-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\20-Mar-2018\image-2.jpg"><img src="\images\past-events\20-Mar-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\20-Mar-2018\image-3.jpg"><img src="\images\past-events\20-Mar-2018\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
-
-<img src="\images\past-events\20-Mar-2018\edm.jpg" style="width:650px;" />
-
+| 
