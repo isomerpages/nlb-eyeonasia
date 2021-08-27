@@ -1,9 +1,9 @@
 ---
-title: 'Digital Transformation in ASEAN - Leaving No One Behind'
+title: Digital Transformation in ASEAN - Leaving No One Behind
 permalink: /events/past-events/16-sep-2020/
 date: 2020-09-16T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\16-Sep-2020\Eye on Asia Eventbrite 16 Sep 2020.jpg" style="width:1000px;" />

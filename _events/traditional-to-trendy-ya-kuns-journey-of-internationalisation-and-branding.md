@@ -7,6 +7,7 @@ layout: post
 
 
 
+
 <img src="\images\past-events\30-May-2019\banner.jpg" alt="30-May-2019 banner" style="width:800px;" />
 
 From its humble beginnings in 1944, Ya Kun has transformed from a heritage brand into a regional one with a presence in over nine countries. Join Jesher Loi, Ya Kun’s Director of Branding and Marketing Development, and learn more about the company’s challenges and successes in their journey to internationalisation.

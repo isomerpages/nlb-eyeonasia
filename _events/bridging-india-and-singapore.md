@@ -1,9 +1,9 @@
 ---
-title: 'Bridging India and Singapore'
+title: Bridging India and Singapore
 permalink: /events/past-events/04-sep-2018/
 date: 2018-09-04T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\04-Sep-2018\banner.jpg" alt="04-Sep-2018 banner" style="width:800px;" />

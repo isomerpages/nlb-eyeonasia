@@ -5,6 +5,7 @@ permalink: /events/upcoming-events/15-sept-2021
 layout: post
 ---
 
+
 <img src="/images/past-events/15-sep-2021/15-Sep-2021-EOA%20Eventbrite%20V2.jpg" style="width:800px;">
 
 The COVID-19 pandemic has impacted governments, businesses and individuals across the world. Join our panelists as they share strategies on how digital ecosystems and smart cities across ASEAN can bounce back and emerge stronger from the aftershocks of the pandemic.

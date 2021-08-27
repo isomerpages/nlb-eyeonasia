@@ -7,6 +7,7 @@ layout: post
 
 
 
+
 <img src="\images\past-events\15-Jan-2019\banner.jpg" alt="15-Jan-2019 banner" style="width:800px;" />
 
 What comes to your mind when you think about China’s “Belt and Road Initiative”? Do you see opportunities, increased investment and trade, improved connectivity, infrastructure development or an expansion of China’s influence, global and soft power? These were some questions posed by the speaker, Dr Koh Chin Yee, Vice-President for South Seas Society as he opened his talk on 15 January 2019 to a captive audience.

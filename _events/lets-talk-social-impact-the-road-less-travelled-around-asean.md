@@ -7,6 +7,7 @@ layout: post
 
 
 
+
 <img src="\images\past-events\14-Jan-2020\EOA 14 Jan 2020_Image Banner 2.jpg" style="width:1000px;" />
 
 Michelle Leong is the founder and CEO of **The ASEAN Living Room**, a networking programme that aims to connect the ASEAN social impact family by bringing together activators in the social impact and entrepreneurship space to build bridges, exchange knowledge and ideate cross-border solutions.

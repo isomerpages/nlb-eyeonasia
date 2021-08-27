@@ -1,9 +1,9 @@
 ---
-title: 'The Human Library Collection - Opportunities Beyond Singapore'
+title: The Human Library Collection - Opportunities Beyond Singapore
 permalink: /events/past-events/02-mar-2019/
 date: 2019-03-02T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\02-Mar-2019\banner.jpg" alt="02-Mar-2019 banner" style="width:800px;" />

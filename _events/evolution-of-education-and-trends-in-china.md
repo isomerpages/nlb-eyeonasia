@@ -1,9 +1,9 @@
 ---
-title: 'Evolution of education and trends in China'
+title: Evolution of education and trends in China
 permalink: /events/past-events/04-may-2018/
 date: 2018-05-04T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\04-May-2018\banner.jpg" alt="04-may-2018 banner" style="width:800px;" />

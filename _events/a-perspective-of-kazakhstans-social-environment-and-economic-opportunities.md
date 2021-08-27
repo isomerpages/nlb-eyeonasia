@@ -4,6 +4,7 @@ date: 2021-07-21
 permalink: /events/past-events/21-july-2021/
 layout: post
 ---
+
 <img src="\images\past-events\21-Jul-2021\EDM For SFM.jpg" style="width:800px;" />
 
 ### **Watch the full programme:**

@@ -3,6 +3,7 @@ title: Managing and Protecting Intellectual Property in Asia
 permalink: /events/past-events/12-may-2021/
 date: 2021-05-12T00:00:00.000Z
 ---
+
 <img src="\images\past-events\12-May-2021\EOA page banner.jpg" style="width:1000px;" />
 
 As Intellectual Property (IP) is invaluable to any business, managing and protecting your IP in today’s highly competitive and commercialised world is vital.

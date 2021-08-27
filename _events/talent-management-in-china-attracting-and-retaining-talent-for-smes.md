@@ -1,9 +1,9 @@
 ---
-title: 'Talent Management in China - Attracting and Retaining Talent for SMEs'
+title: Talent Management in China - Attracting and Retaining Talent for SMEs
 permalink: /events/past-events/10-oct-2019/
 date: 2019-10-10T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\10-Oct-2019\banner.jpg" alt="10-Oct-2019 banner" style="width:800px;" />

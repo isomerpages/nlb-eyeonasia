@@ -1,9 +1,9 @@
 ---
-title: 'Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset'
+title: Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset
 permalink: /events/past-events/03-and-04-mar-2021/
 date: 2021-03-03T00:00:00.000Z
-
 ---
+
 
 <img src="\images\past-events\03-Mar-2021\EOA Forum 3 and 4 March 2021 Group Photo.png" style="width:1000px;" />
 

@@ -1,9 +1,9 @@
 ---
-title: 'Exploring China - Opportunities and Challenges'
+title: Exploring China - Opportunities and Challenges
 permalink: /events/past-events/04-oct-2018/
 date: 2018-10-04T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\04-Oct-2018\banner.jpg" alt="04-Oct-2018 banner" style="width:800px;" />

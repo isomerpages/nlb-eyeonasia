@@ -1,9 +1,9 @@
 ---
-title: 'Starting up in an evolving China'
+title: Starting up in an evolving China
 permalink: /events/past-events/05-jul-2018/
 date: 2018-07-05T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\05-Jul-2018\banner.jpg" alt="05-Jul-2018 banner" style="width:800px;" />

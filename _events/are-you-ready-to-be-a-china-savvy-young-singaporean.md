@@ -1,9 +1,9 @@
 ---
-title: 'Are you ready to be a China-savvy young Singaporean?'
+title: Are you ready to be a China-savvy young Singaporean?
 permalink: /events/past-events/08-nov-2018/
 date: 2018-11-08T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\08-Nov-2018\banner.jpg" alt="08-Nov-2018 banner" style="width:800px;" />

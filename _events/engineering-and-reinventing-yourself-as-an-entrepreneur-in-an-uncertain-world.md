@@ -1,9 +1,9 @@
 ---
-title: 'Engineering and Reinventing Yourself as an Entrepreneur in an Uncertain World'
+title: Engineering and Reinventing Yourself as an Entrepreneur in an Uncertain World
 permalink: /events/past-events/02-sep-2019/
 date: 2019-09-02T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\02-Sep-2019\banner.jpg" alt="02-Sep-2019 banner" style="width:800px;" />

@@ -1,9 +1,9 @@
 ---
-title: 'Sand and Skyscrapers – Understanding the United Arab Emirates'
+title: Sand and Skyscrapers – Understanding the United Arab Emirates
 permalink: /events/past-events/18-nov-2020/
 date: 2020-11-18T00:00:00.000Z
-
 ---
+
 
 
 <img src="\images\past-events\18-Nov-2020\EOA Nov 2020 Speaker Photo.jpg" style="width:1000px;" />
