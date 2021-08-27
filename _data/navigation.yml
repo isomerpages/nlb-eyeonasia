@@ -47,6 +47,6 @@ links:
       - title: Visit our Resource Centre
         url: /about/visit-our-resource-centre/
   - title: Events
-    url: /eoa-events/
+    resource_room: true
   - title: Partners
     url: /partners/
