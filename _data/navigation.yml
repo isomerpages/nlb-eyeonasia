@@ -47,6 +47,6 @@ links:
       - title: Visit our Resource Centre
         url: /about/visit-our-resource-centre/
   - title: Events
-    resource_room: true
+    url: /events/
   - title: Partners
     url: /partners/
