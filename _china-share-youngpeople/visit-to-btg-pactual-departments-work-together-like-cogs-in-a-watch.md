@@ -18,6 +18,6 @@ breadcrumb: 'Visit to BTG Pactual - Departments work together like cogs in a wat
 
 *The bottom line is – the trading role is not the sole activity within a trading house. Departments work together like cogs in a watch. To get things moving, everyone has a role to play. Risk management, finance, human resources, operations and legal – employment opportunities within a trading house can cater to undergraduates of various specific interests and skills.*
 
-[Read more about SMU’s Industry Study Mission China visit to BTG Pactual Commodities.](/resources/ISM-China-2015.pdf){:target="_blank"}
+[Read more about SMU’s Industry Study Mission China visit to BTG Pactual Commodities.](/files/resources/ISM-China-2015.pdf){:target="_blank"}
 
 Credit: International Trading Institute@SMU

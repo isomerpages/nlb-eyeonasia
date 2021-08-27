@@ -18,6 +18,6 @@ breadcrumb: 'Student experience - A fascinating visit to the Yangshan Deepwater 
 
 *Yangshan Port is to serve as a hub to spoke ports along the Yangtze River Delta, which give access to the fastest-growing areas along the Yangtze River. Additionally, Phase 4 is expected to be completed this year to be the biggest automated terminal with an estimated throughout of 6.3 million TEUs. It also complements the Shanghai Free Trade Zone programme.*
 
-[Read more about SMU’s Shanghai Industry Study Mission 2017 visit to Yangshan Deepwater Port.](/resources/SMU-Shanghai-Trip-Report_2017.pdf){:target="_blank"}
+[Read more about SMU’s Shanghai Industry Study Mission 2017 visit to Yangshan Deepwater Port.](/files/resources/SMU-Shanghai-Trip-Report_2017.pdf){:target="_blank"}
 
 Credit: International Trading Institute@SMU
