@@ -1,11 +1,8 @@
 ---
-title: 'Malaysia - A country profile'
+title: Malaysia - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/malaysia-a-country-profile/
-breadcrumb: 'Malaysia - A country profile'
-
+breadcrumb: Malaysia - A country profile
 ---
-
-
 <img src="/images/asean-countries/Malaysia snapshot cover iso.jpg" alt="Malaysia snapshot banner" style="width:800px;" />
 
 This article provides an overview of Malaysia for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
@@ -16,7 +13,7 @@ This article provides an overview of Malaysia for those keen on exploring the po
 - **Geography:** 13 states and 3 federal territories[^2]
 - **Land area:** 330,524 sq km[^3]
 - **Population (2020):** 32.7 million[^4]
-- **Head of government:** Prime Minister Tan Sri Dato’ Haji Muhyiddin bin Haji Mohd. Yassin[^5]
+- **Head of government:** Prime Minister Dato’ Sri Ismail Sabri bin Yaakob[^5]
 - **National language:** Bahasa Malaysia[^6]
 - **Currency:** Malaysian Ringgit (MYR)[^7]
 - **GDP (2019):** MYR1,510.7 billion[^8]
@@ -60,7 +57,7 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 [^4]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=155&bul_id=OVByWjg5YkQ3MWFZRTN5bDJiaEVhZz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09){:target="_blank"}
 
-[^5]:Biography. (2020). *Prime Minister’s Office of Malaysia*. Retrieved November 18, 2020, from [https://www.pmo.gov.my/](https://www.pmo.gov.my/biography-2/){:target="_blank"}
+[^5]:Biography. (2021). *Prime Minister’s Office of Malaysia*. Retrieved September 27, 2021, from [https://www.pmo.gov.my/](https://www.pmo.gov.my/biography-2/){:target="_blank"}
 
 [^6]: Official language. (2020). *MyGovernment*. Retrieved November 18, 2020, from [https://www.malaysia.gov.my/](https://www.malaysia.gov.my/portal/content/30118){:target="_blank"}
 
