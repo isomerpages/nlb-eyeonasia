@@ -3,13 +3,14 @@ title: Emerging Stronger from the Aftershocks of the COVID-19 Pandemic
 date: 2021-08-06
 permalink: /events/past-events/15-sept-2021
 ---
-
 <img src="/images/past-events/15-sep-2021/15-Sep-2021-EOA%20Eventbrite%20V2.jpg" style="width:800px;">
 
 ### **Watch the full programme:**
 
+<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MkBkB9Ftm88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
+	
 The COVID-19 pandemic has impacted governments, businesses and individuals across the world. Join our panelists as they share strategies on how digital ecosystems and smart cities across ASEAN can bounce back and emerge stronger from the aftershocks of the pandemic.
 
 Discover the key drivers of building a safer, more resilient and sustainable smart ASEAN and learn more about the Smart Cities Network’s (SCN) projects on cyber security, circular economy and resiliency in the region. This session also presents the chance to explore collaborative opportunities with SCN and its members, and gain a foothold in the ASEAN region. 
