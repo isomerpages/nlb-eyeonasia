@@ -41,7 +41,7 @@ You can also watch them on our Eye on Asia playlist at the [National Library's Y
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a class="project-link" href="/events/upcoming-events/15-sept-2021/">
+			<a class="project-link" href="/events/past-events/15-sept-2021">
 				<img class="project-image" src="/images/past-events/15-sep-2021/Group-photo.png">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
