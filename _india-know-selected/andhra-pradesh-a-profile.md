@@ -3,7 +3,9 @@ title: Andhra Pradesh - A profile
 permalink: /india/know/selected-india-states/andhra-pradesh-profile/
 breadcrumb: Andhra Pradesh - A profile
 ---
-<img src="\images\india-selected\andhra-pradesh-profile.jpg" alt="andhra pradesh profile" style="width:800px;" />
+<img src="\images\india-selected\Andhra-Pradesh-A-Profile-temple.jpg" alt="Veerabhadra Temple, Lepakshi" style="width:800px;" />
+
+
 
 This article provides an overview of Andhra Pradesh for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -84,10 +86,7 @@ In February 2018, another MOU was signed between Singapore Business Federation (
 [^4]:  Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh,* p. 177. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 
 [^5]:  Chief Ministers. (n.d.). National Portal of India. Retrieved September 13, 2021, from 
-
 [https://www.india.gov.in/my-government/whos-who/chief-ministers](https://www.india.gov.in/my-government/whos-who/chief-ministers)
-
-
 
 
 [^6]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
