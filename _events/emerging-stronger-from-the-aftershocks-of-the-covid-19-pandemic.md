@@ -3,6 +3,7 @@ title: Emerging Stronger from the Aftershocks of the COVID-19 Pandemic
 date: 2021-08-06
 permalink: /events/past-events/15-sept-2021
 ---
+
 <img src="/images/past-events/15-sep-2021/15-Sep-2021-EOA%20Eventbrite%20V2.jpg" style="width:800px;">
 
 ### **Watch the full programme:**
