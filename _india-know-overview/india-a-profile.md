@@ -1,12 +1,9 @@
 ---
-title: 'India - A profile'
+title: India - A profile
 permalink: /india/know/overview-of-india/india-profile/
-breadcrumb: 'India - A profile'
-
+breadcrumb: India - A profile
 ---
-
-
-<img src="\images\india-overview\india-profile.jpg" alt="india profile" style="width:800px;" />
+<img src="\images\india-overview\India Know Overview.png" alt="india profile" style="width:800px;" />
 
 This article provides an overview of India for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -16,14 +13,14 @@ This article provides an overview of India for those keen on exploring the possi
 
 - **Official name:** Republic of India;[^1]
 - **Land area:** 3,287,263 sq km² 
-- **Population (2017 estimate):** 1.34 billion[^2]
+- **Population (2019 estimate):** 1.366 billion[^2]
 - **Head of State:** President Ram Nath Kovind[^3]
 - **Head of Government:** Prime Minister Narendra Modi[^4]
-- **Languages:** India’s constitution recognizes 22 different languages.[^5] Hindi is the official language, spoken by 30 percent of the population, while English is used for official purposes and for business. Individual states may have their own official languages and several states have legislated their own languages.[^6]
-- **Currency:** Rupee (INR)[^7]
-- **Capital:**  New Delhi[^8]
-- **Nominal Gross Domestic Product (GDP):** US$2.262 trillion (2016); US$2.515 trillion (2017 estimates)[^9]
-- **GDP Per Capita – US$ at purchasing power parity:** US$6,578 (2016); US$7,066 (2017)[^10]
+- **Languages:** India’s constitution recognizes 22 different languages. Hindi is the official language and English is used for official purposes and for business. [^5]
+- **Currency:** Rupee (INR)[^6]
+- **Capital:**  New Delhi[^7]
+- **Nominal Gross Domestic Product (GDP):** US$2.661 trillion (2020)[^8]
+- **GDP Per Capita – US$ at purchasing power parity:** US$6,504 (2020)[^9]
 
 ### **Introduction**
 
@@ -31,27 +28,31 @@ India is made up of 29 states and seven Union Territories. The country’s bound
 
 ### **Demographic profile**
 
-India’s population is relatively young, with those aged 49 and below accounting for more than 70 percent of the population.[^12] In 2011, India’s population sex ratio was 940 females for every 1000 males.[^13] 
+India’s population is relatively young, with those aged 49 and below accounting for more than 70 percent of the population.[^11] In 2011, India’s population sex ratio was 940 females for every 1000 males.[^12] 
 
 ### **Economic profile**
 
-India’s GDP growth slowed from eight percent in FY 2015/16 to 7.1 percent in FY 2016/17.[^14] In FY 2017/18, growth is estimated at 6.75 percent.[^15] However, the economy is expected to maintain steady growth at seven percent. By FY 2020, growth is projected at 7.4 percent.[^16] According to Morgan Stanley, India’s GDP could reach US$6 trillion by 2027 if it could successfully digitise its economy. It would also pave the way for the country’s equity market to be one of the five largest in the world.[^17] 
+India’s economy is one of the fastest growing major economy and the fifth largest in the world. Due to the COVID-19 pandemic, the country’s economy experienced a “historic contraction” of 7.4 percent in 2020-2021. However, India’s economy is expected to grow by 8.2 percent in 2021-2022. [^13]
+
+The government of India has rolled out several initiatives to attract foreign investors to India. Make in India initiative was introduced in September 2014 to attract foreign investments and strengthen the country’s manufacturing sector. The initiative seeks to enhance skill development, create employment opportunities, and build best in class manufacturing infrastructure. Digital India is another initiative with a vision to transform the country into a digitally empowered society and knowledge economy. It focuses on three core components: creation of digital infrastructure, delivering services digitally and to increase the digital literacy.[^14]
+
 
 ### **Consumer market**
 
-<img src="/images/india-overview/india-profile-chart-1.png" style="width:600px;" />
+India has a large consumer market that offers abundant opportunities. It is set to become the world’s third largest consumer market, after the United States and China, valued at around US$4 trillion by 2025. This growth is largely driven by rising affluence and as more Indians move from rural villages to cities.   [^15]
 
-India has a large consumer market that offers abundant opportunities. It is set to become the world’s fifth largest consumer market worth around US$1.5 trillion by 2025. According to the Boston Consulting Group, India’s consumption expenditures is “expected to rise by a factor of three to reach US$4 trillion by 2025”. India’s nominal year-over-year expenditure growth of 12 percent is more than double the anticipated global rate of five percent and will make India the third-largest consumer market by 2025.” This growth is largely driven by rising affluence, with the number of those joining the elite and affluent segments of society expected to increase from eight percent in 2016 to 16 percent in 2025.[^18]
+Of the 1.3 billion people in India, one-third of them are in the 15 to 34 age group. It means there are more than 400 million young people, and they have been the “main driving force behind the country’s swift e-commerce growth, which shot up by 30 percent in the last two years alone”. [^16]
 
-Of the 1.3 billion people in India, one-third of them are in the 15 to 34 age group. It means there are more than 400 million young people, many of whom are tech-savvy. Moreover, there are more Internet users among them than in the United States.[^19]
+India’s e-commerce is expected to surpass the United States to become the second largest e-commerce market in the world by 2034. It is forecasted to grow at a 27 percent CAGR, from US$30 billion in 2019, to US$99 billion by 2024. This presents huge opportunities in the realm of technology and e-commerce. The two sectors that are likely to be the key drivers of the incremental growth are grocery and apparel. The Indian government hopes to grow India’s digital economy to US$1 trillion by 2025. [^17]
 
-Online spending between 2014 to 2016 increased seven-fold to between US$80 million and US$90 million. The Boston Consulting Group anticipates the number of people spending online to hit 300 million to 350 million by 2025[^20] thus providing huge opportunities in the realm of technology and e-commerce.[^21] Furthermore, the government hopes to grow India’s digital economy to US$1 trillion by 2022, but India’s tech firms are even more bullish by predicting that it has the potential to grow to US$4 trillion by 2022.[^22]
 
 ### **India’s Smart Cities Mission**
 
-India’s Smart Cities Mission was launched by Prime Minister Narendra Modi on 25 June 2015. It seeks to modernise 98 existing Indian cities and their satellite towns. Some of the first 20 announced include Pune (Maharashtra), Jaipur (Rajasthan), Surat (Gujarat), Ahmedabad (Gujarat), Visakhapatnam (Andhra Pradesh), Solapur (Maharashtra), New Delhi Municipal Corporation, Coimbatore (Tamil Nadu), Kakinada (Andhra Pradesh), Udaipur (Rajasthan) and Chennai (Tamil Nadu).[^23]
+India’s Smart Cities Mission was launched by Prime Minister Narendra Modi on 25 June 2015. It seeks to modernise 99 existing Indian cities and their satellite towns. Some of the first 20 announced include Pune (Maharashtra), Jaipur (Rajasthan), Surat (Gujarat), Ahmedabad (Gujarat), Visakhapatnam (Andhra Pradesh), Solapur (Maharashtra), New Delhi Municipal Corporation, Coimbatore (Tamil Nadu), Kakinada (Andhra Pradesh), Udaipur (Rajasthan) and Chennai (Tamil Nadu).[^18]
 
-India is open to help from international partners, including private participation, to achieve this mission. It offers an investment window of S$1.2 billion and opportunities for the introduction of integrated infrastructure solutions.[^24] There are projects worth S$16 billion planned in 33 Indian cities thus far, with opportunities open to Singapore companies”[^25]
+India is open to help from international partners to achieve this mission. There are projects worth S$40.4 billion planned in 99 Indian cities thus far, with opportunities open to Singapore companies.  [^19] 
+
+
 
 ### **India-Singapore economic relations**
 
