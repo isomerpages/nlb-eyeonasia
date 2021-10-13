@@ -1,12 +1,9 @@
 ---
-title: 'Rajasthan - A city profile'
+title: Rajasthan - A city profile
 permalink: /india/know/selected-india-states/rajasthan-profile/
-breadcrumb: 'Rajasthan - A city profile'
-
+breadcrumb: Rajasthan - A city profile
 ---
-
-
-<img src="\images\india-selected\rajasthan-profile.jpg" alt="rajasthan profile" style="width:800px;" />
+<img src="\images\india-selected\rajasthan-profile.jpg" alt="rajasthan profile" style="width:800px; height:520px;" />
 
 This article provides an overview of Rajasthan for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -110,6 +107,3 @@ In the same month, a tourism skills training centre was also launched in Udaipur
 [^22]: Economic review 2017-18. (2018, February). Government of Rajasthan. Retrieved March 7, 2018, from [http://plan.rajasthan.gov.in](http://plan.rajasthan.gov.in/content/dam/planning-portal/Directorate%20of%20Economics%20and%20Statistics/Publication/Regular%20Publications/economic%20review%20english/Economic_Review_English_17-18.pdf){:target="_blank"}
 [^23]: IE Singapore signs MOU with Rajasthan to help Singapore companies capture opportunities in smart urban solutions and tourism. (2016, October 6). IE Singapore. Retrieved March 16, 2017, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Market/Africa-Middle-East/Oman/News/mc/Media-Releases/2016/10/IES-signs-MOU-with-Rajasthan-to-help-SG-COYS-capture-opps-in-smart-urban-solutions-and-tourism){:target="_blank"}
 [^24]: Ganapathy, N. (2016, October 3). Training centre in Rajasthan a collaboration with Singapore. The Straits Times. Retrieved March 16, 2017, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/News/2016/10/Training-centre-in-Rajasthan-a-collaboration-with-Singapore){:target="_blank"}; Yong, C. (2016, October 6). PM Lee launches Singapore’s second skills training in India. The Straits Times. Retrieved March 16, 2017, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/News/2016/10/PM-Lee-launches-Singapores-second-skills-training-centre-in-India){:target="_blank"}
-
-
-
