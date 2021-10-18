@@ -72,7 +72,7 @@ In February 2018, another MOU was signed between Singapore Business Federation (
 
 ### **References**
 
-[^1]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
+[^1]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from[https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
 
 
 [^2]:About Andhra Pradesh. (2019, July 8). National Panchayat Portal. Retrieved September 13, 2021, from
