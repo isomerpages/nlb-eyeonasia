@@ -98,31 +98,25 @@ In February 2018, another MOU was signed between Singapore Business Federation (
 (https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf) [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 
 
-[^9]: Vision overview. (2020). *Planning Department Government of Andhra Pradesh*. Retrieved September 2021, from[http://apvision.ap.gov.in/vision2029.php](http://apvision.ap.gov.in/vision2029.php)
+[^9]: Vision overview. (2020). *Planning Department Government of Andhra Pradesh*. Retrieved September 2021, from [http://apvision.ap.gov.in/vision2029.php](http://apvision.ap.gov.in/vision2029.php)
 
 
-[^10]:Andhra Pradesh. (2021, June). *India Brand Equity Foundation*. Retrieved September 13, 2021 from[https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf)
+[^10]:Andhra Pradesh. (2021, June). *India Brand Equity Foundation*. Retrieved September 13, 2021 from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf)
 
 
 [^11]: Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, p. 177. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 
-
-
 [^12]: Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, p. 178. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf ](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf )
 
-
-[^13]: Andhra Pradesh. (2021, June). *India Brand Equity Foundation*. Retrieved September 13, 2021, from[https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf)
-
+[^13]: Andhra Pradesh. (2021, June). *India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf)
 
 [^14]:  Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh,* pp. 22, 43. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/SocioEconomic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf); 
 Andhra Pradesh. (2021, June). *India Brand Equity Foundation.* Retrieved September 13, 2021, from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf)
 
 [^15]:Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, p. 22. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 
-
 [^16]:Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, pp. 16. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 Tourism footfalls. (2021, February 23). *CORE Dashboard*. Retrieved September 13, 2021, from [https://core.ap.gov.in/CMDashBoard/UserInterface/Tourism/TourismSummaryReport.aspx](https://core.ap.gov.in/CMDashBoard/UserInterface/Tourism/TourismSummaryReport.aspx)
-
 
 [^17]: Andhra Pradesh Tourism official website. (n.d.). Retrieved September 13, 2021, from[http://www.aptourism.gov.in/](http://www.aptourism.gov.in/)
 
