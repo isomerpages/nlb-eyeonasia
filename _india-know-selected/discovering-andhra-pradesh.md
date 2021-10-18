@@ -28,21 +28,12 @@ Vishakapatnam (Vizag) offers unique advantages, as opposed to other knowledge in
 Retrieved from ProQuest Central. *myLibrary* ID is required to access this database. 
 
 
-[http://eresources.nlb.gov.sg/Main/Browse?startsWith=P](https://eresources.nlb.gov.sg/Main/Browse?startsWith=P)
-
-
-(http://eresources.nlb.gov.sg/Main/Browse?startsWith=P)
-
-
 
 [**Adoption and impact of water-saving technologies in the Nagarjuna Sagar Project area of Andhra Pradesh**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E)
 
 Explore how water-saving interventions were conducted in Guntur, Andhra Pradesh. The interventions used were alternating wetting and drying, modified System of Rice Intensification, and direct sowing of rice. 
 
 Retrieved from EBSCOhost Business Source Complete. *myLibrary* ID is required to access this database.
-
-[http://eresources.nlb.gov.sg/Main/Browse?startsWith=E](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E)
-
 
 
 ---
@@ -60,10 +51,9 @@ Discover what Andhra Pradesh has to offer with its vast geographical area combin
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
 [**Andhra Pradesh Industrial Development Policy2020-2023**](https://apedb.gov.in/downloads/ap-industrial-policy-2020-23-brochure-final.pdf )
-{:target="_blank"}
+
 
 This policy aims to drive industrialisation based on the natural competitive advantages of a long coastline and a large pool of talented resources. It seeks to focus on promoting high value add and cutting edge industries to be future proof. Ten sectors for special thrust include toys and furniture, footwear and leather, machinery and precision equipment, aerospace and defence, pharma, textiles, automobile, electronics and petrochemicals.
 
 [https://apedb.gov.in/downloads/ap-industrial-policy-2020-23-brochure-final.pdf ](https://apedb.gov.in/downloads/ap-industrial-policy-2020-23-brochure-final.pdf )
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
