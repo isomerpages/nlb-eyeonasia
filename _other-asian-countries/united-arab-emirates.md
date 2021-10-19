@@ -1,10 +1,8 @@
 ---
-title: 'United Arab Emirates'
+title: United Arab Emirates
 permalink: /other-asian-countries/uae/
-breadcrumb: 'United Arab Emirates'
-
+breadcrumb: United Arab Emirates
 ---
-
 <img src="/images/uae/uae-banner.jpg" alt="UAE banner" style="width:800px;" />
 
 The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A country with a rich history, its rapid growth, modern infrastructure and future-oriented initiatives make it an attractive nation to live and work in.
@@ -104,6 +102,23 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/other-asian-countries/uae/initiatives" class="project-link">
+				<img src="/images/asean-professionals/For-young-professionals-new.jpg" alt="initiatives" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Initiatives</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/other-asian-countries/uae/singapore-communities-in-uae/" class="project-link">
 				<img src="/images/shared/sg-communities-new.jpg" alt="SG Communities" class="project-image">
 			<div class="project-card">
@@ -113,5 +128,15 @@ The United Arab Emirates (UAE) is a federation of seven emirates in Asia. A coun
 			</div>
 			</a>
 		</div>
+		<!--div class="col is-half-tablet padding--bottom--lg">
+			<a href="/other-asian-countries/uae/singapore-communities-in-uae/" class="project-link">
+				<img src="/images/shared/sg-communities-new.jpg" alt="SG Communities" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Singapore Communities in the UAE</b></h5>
+				</div>
+			</div>
+			</a>
+		</div-->
 	</div>
 </div>
