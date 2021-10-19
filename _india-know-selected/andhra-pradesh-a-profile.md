@@ -74,27 +74,19 @@ In February 2018, another MOU was signed between Singapore Business Federation (
 
 [^1]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
 
-
-[^2]:About Andhra Pradesh. (2019, July 8). National Panchayat Portal. Retrieved September 13, 2021, from
-[https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
-
+[^2]:About Andhra Pradesh. (2019, July 8). National Panchayat Portal. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
 
 [^3]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
-
 
 [^4]:  Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh,* p. 177. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 
 [^5]:  Chief Ministers. (n.d.). National Portal of India. Retrieved September 13, 2021, from [https://www.india.gov.in/my-government/whos-who/chief-ministers](https://www.india.gov.in/my-government/whos-who/chief-ministers)
 
-
 [^6]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
-
 
 [^7]:  Andhra Pradesh. (2021, June). *India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf ](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf ) 
 
-
-[^8]: Andhra Pradesh. (2021, June).*India Brand Equity Foundation*. Retrieved September 13, 2021, from 
-[https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf]Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, p. 3. Retrieved September 13, 2021, from 
+[^8]: Andhra Pradesh. (2021, June).*India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf]Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, p. 3. Retrieved September 13, 2021, from 
 (https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf) [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 
 
