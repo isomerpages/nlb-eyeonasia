@@ -24,7 +24,7 @@ This article provides an overview of India for those keen on exploring the possi
 
 ### **Introduction**
 
-India is made up of 29 states and seven Union Territories. The country’s boundaries extend from the Himalayan mountain ranges to the tropical rainforests in the south. It is bounded by the Bay of Bengal to the east, the Arabian Sea to the west, and the Indian Ocean to the south. It shares a border with Pakistan and Afghanistan at the northwest. China, Bhutan and Nepal at the north; Myanmar at the east; and Bangladesh at the east of the state of West Bengal. Sri Lanka is separated from India by the Palk Strait and the Gulf of Mannar.[^11]
+India is made up of 28 states and eight Union Territories. The country’s boundaries extend from the Himalayan mountain ranges to the tropical rainforests in the south. It is bounded by the Bay of Bengal to the east, the Arabian Sea to the west, and the Indian Ocean to the south. It shares a border with Pakistan and Afghanistan at the northwest. China, Bhutan and Nepal at the north; Myanmar at the east; and Bangladesh at the east of the state of West Bengal. Sri Lanka is separated from India by the Palk Strait and the Gulf of Mannar.[^10]
 
 ### **Demographic profile**
 
@@ -56,41 +56,57 @@ India is open to help from international partners to achieve this mission. There
 
 ### **India-Singapore economic relations**
 
-<img src="/images/india-overview/india-profile-chart-2.png" style="width:300px;" />
 
-In 2005, the India-Singapore Comprehensive Economic Cooperation Agreement (CECA) was signed.[^26] This agreement covers tariff reduction/elimination for 82 percent of Singapore’s domestic exports.[^27]
+In 2005, the India-Singapore Comprehensive Economic Cooperation Agreement (CECA) was signed. This agreement covers tariff reduction/elimination for 81 percent of Singapore’s domestic exports.[^20]
 
-Bilateral trade between Singapore and India has been growing. Between 2000 and 2010, India saw an average year-on-year growth of 35.28 percent in services exports to Singapore. Exports to India grew from S$4.4 billion in 2012 to S$4.9 billion in 2016, while imports rose from S$3.1 billion in 2012 to S$5.3 billion in 2016.[^28] India was Singapore’s ninth-largest investment partner in 2016, with Singapore’s investments in India amounting to US$27.7 billion (S$36.3 billion).[^29]
+Bilateral trade between Singapore and India has been growing. Exports to India grew from S$4.2 billion in 2015 to S$6.0 billion in 2019, while imports rose from S$4.0 billion in 2015 to S$7.6 billion in 2019.[^21] Singapore is India’s top investment partner in 2020-2021, accounting for 29 percent of the total foreign direct investment (FDI) received by India. [^22]
+
+
 
 ---
 ### **References**
 
-[^1]: Country report: India. (2018), Economist Intelligence Unit. p. 20.  Retrieved March 10, 2018 from NLB eResources.
-[^2]: Country report: India. (2018), Economist Intelligence Unit. p. 20.  Retrieved March 10, 2018 from NLB eResources.
-[^3]: Country report: India. (2018), Economist Intelligence Unit. p. 20.  Retrieved March 10, 2018 from NLB eResources.
-[^4]:  Country report: India. (2018), Economist Intelligence Unit. p. 20.  Retrieved March 10, 2018 from NLB eResources.
-[^5]:  Profile. (2017, August 17). India.gov.in: National Portal of India. Retrieved March 10, 2018, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile){:target="_blank"}
-[^6]:  Country report: India. (2018), Economist Intelligence Unit. p. 19.  Retrieved March 10, 2018 from NLB eResources.
-[^7]: India: A snapshot. (2018). India Brand Equity Foundation. Retrieved March 10, 2018, from [https://www.ibef.org](https://www.ibef.org/economy/indiasnapshot/about-india-at-a-glance){:target="_blank"}
-[^8]: Country report: India. (2018), Economist Intelligence Unit. p. 19.  Retrieved March 10, 2018 from NLB eResources.
-[^9]: Country report: India. (2018), Economist Intelligence Unit. p. 12.  Retrieved March 10, 2018, from NLB eResources.
-[^10]: Country report: India. (2018), Economist Intelligence Unit. p. 12.  Retrieved March 10, 2018, from NLB eResources.
-[^11]: Profile. (2017, August 17). India.gov.in: National Portal of India. Retrieved March 10, 2018, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile){:target="_blank"}
-[^12]: Country report: India. (2018), Economist Intelligence Unit. p. 2.  Retrieved March 10, 2018, from NLB eResources.
-[^13]: Sex ratio in India. (2015). Census 2011. Retrieved March 10, 2018 from [https://www.census2011.co.in](https://www.census2011.co.in/sexratio.php){:target="_blank"}
-[^14]: India’s Financial Year (FY) starts on 1 April and ends on 31 March the next year. Source: Country report: India. (2018), Economist Intelligence Unit. p. 19.  Retrieved March 10, 2018, from NLB eResources.
-[^15]: Facts about the Indian economy. (2018, February). India Brand Equity Foundation. Retrieved March 10, 2018, from [https://www.ibef.org](https://www.ibef.org/economy/indiasnapshot/facts-about-indian-economy){:target="_blank"}
-[^16]: The World Bank in India: Overview. (2017, October 11). The World Bank. Retrieved March 10, 2018, from [www.worldbank.org](www.worldbank.org/en/country/india/overview){:target="_blank"}
-[^17]: Cheang, M., & Jegarajah, S. (2017, November 17). There could be a multitrillion-dollar opportunity waiting in India, Morgan Stanley says. CNBC. Retrieved March 15, 2018, from [https://www.cnbc.com](https://www.cnbc.com/2017/11/17/digitization-could-present-india-with-investment-opportunity-worth-trillions-morgan-stanley-says.html){:target="_blank"}
-[^18]: Singhi, A., Jain, N., & Sanghi, K. (2017, March 20). The new Indian: The many facets of a changing consumer. Boston Consulting Group. Retrieved March 10, 2018, from [https://www.bcg.com](https://www.bcg.com/publications/2017/marketing-sales-globalization-new-indian-changing-consumer.aspx){:target="_blank"}
-[^19]: India will be a $6 trillion economy in 10 years: Morgan Stanley report. Hindustan Times. Retrieved March 10, 2018, from [https://www.hindustantimes.com](https://www.hindustantimes.com/india-news/india-will-be-a-6-trillion-economy-in-10-years-morgan-stanley-report/story-evOJGAhNOVvqZrmqn8sSfM.html){:target="_blank"}
-[^20]: Singhi, A., Jain, N., & Sanghi, K. (2017, March 20). The new Indian: The many facets of a changing consumer. Boston Consulting Group. Retrieved March 10, 2018, from [https://www.bcg.com](https://www.bcg.com/publications/2017/marketing-sales-globalization-new-indian-changing-consumer.aspx){:target="_blank"}
-[^21]: Consumerism in India: Time to shop. (2015, December 14). International Enterprise Singapore. Retrieved March 10, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/IE-Blog/ISEC-2015/Consumerism-in-India){:target="_blank"}
-[^22]: Gooptu, D. (2017, June 19). India’s digital economy can reach $4 trillion in 4 years. Enterprise Innovation. Retrieved March 10, 2018, from [https://www.enterpriseinnovation.net](https://www.enterpriseinnovation.net/article/indias-digital-economy-can-reach-4-trillion-4-years-641214749){:target="_blank"}
-[^23]: Govt. announces list of first 20 smart cities under “smart cities mission”. (2016, October 1). The Hindu. Retrieved March 15, 2018, from [http://www.thehindu.com](http://www.thehindu.com/news/national/Govt.-announces-list-of-first-20-smart-cities-under-Smart-Cities-Mission/article14027175.ece){:target="_blank"}
-[^24]: Smart and livable cities: India. (2016, July 29). International Enterprise Singapore. Retrieved March 10, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Venture-Overseas/Browse-By-Sector/Environment-Infrastructure-Solutions/Smart-and-Liveable-Cities/Profiled-Markets/India){:target="_blank"}
-[^25]: Sun, T. (2016, July 27). Knocking on India’s smart cities door. The Business Times. Retrieved March 10, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Media-Centre/News/2016/7/Knocking-on-India-s-Smart-Cities-door){:target="_blank"}
-[^26]: Free trade agreements. (2016, November 2). IE Singapore. Retrieved March 10, 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/venture-overseas/browse-by-market/asia-pacific/india/free-trade-agreements?sa=1){:target="_blank"}
-[^27]: India-Singapore Comprehensive Economic Cooperation Agreement. (CECA). (2017, November 13). IE Singapore. Retrieved 10 March 2018, from [https://ie.enterprisesg.gov.sg](https://ie.enterprisesg.gov.sg/Trade-From-Singapore/International-Agreements/free-trade-agreements/CECA){:target="_blank"}
-[^28]: Singapore’s International Trade. (2018, February 14). Department of Statistics, Singapore. Retrieved March 10, 2018, from [https://www.singstat.gov.sg](https://www.singstat.gov.sg/statistics/visualising-data/infographics/singapore-international-trade){:target="_blank"}
-[^29]: Chan, J.H. (2018, January 30). Growing ASEAN-India ties: Economic opportunities for Singapore in India. ISAS Brief No. 550. Institute of South Asian Studies, National University of Singapore. Retrieved March 10, 2018, from [https://www.isas.nus.edu.sg](https://www.isas.nus.edu.sg/wp-content/uploads/2018/03/ISAS-Briefs-No.-550-Growing-ASEAN-India-Ties.pdf){:target="_blank"}
+[^1]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+
+[^2]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+
+[^3]:President. (2018, August 14). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/my-government/whos-who/president](https://www.india.gov.in/my-government/whos-who/president)
+
+[^4]:  Prime Minister. (2019, May 30). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/my-government/whos-who/prime-minister](https://www.india.gov.in/my-government/whos-who/prime-minister)
+
+[^5]:  Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+
+[^6]:  Currency symbol. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.gov.in/national-identity-elements/currency-symbol.php](https://knowindia.gov.in/national-identity-elements/currency-symbol.php)
+
+[^7]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+
+[^8]: India: Annual data and forecast. (2021, September 6). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database.
+
+[^9]: India: Annual data and forecast. (2021, September 6). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database.
+
+[^10]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+
+[^11]: Country report: India. (2021, January), *Economist Intelligence Unit*. Retrieved July 26, 2021, from Economist Intelligence Unit database.
+
+[^12]: Sex ration. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.gov.in/profile/sex-ratio.php](https://knowindia.gov.in/profile/sex-ratio.php)
+
+[^13]: Country report: India. (2021). *Economist Intelligence Uni*t. Retrieved September 13, 2021, from Economist Intelligence Unit database. 
+
+[^14]: About Indian economy growth rate and statistics. (2021, July).* India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org/economy/indian-economy-overview;](https://www.ibef.org/economy/indian-economy-overview)Make in India. (2021). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org/economy/make-in-india;](https://www.ibef.org/economy/make-in-india)Introduction. (2021).* Digital India*. Retrieved July 26, 2021, from [https://www.digitalindia.gov.in/content/introduction](https://www.digitalindia.gov.in/content/introduction)  
+
+[^15]: India: What to know about the world’s third largest consumer market. (2021, March 26). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market](https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market)  
+
+[^16]: India: What to know about the world’s third largest consumer market. (2021, March 26). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market](https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market)
+
+[^17]: Indian e-commerce industry analysis. (2021, September 9). *India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/industry/ecommerce-presentation](https://www.ibef.org/industry/ecommerce-presentation)  
+
+[^18]: Govt. announces list of first 20 smart cities under “smart cities mission”. (2016, October 1). *The Hindu*. Retrieved July, 26, 2021, from [http://www.thehindu.com/news/national/Govt.-announces-list-of-first-20-smart-cities-under-Smart-Cities-Mission/article14027175.ece](http://www.thehindu.com/news/national/Govt.-announces-list-of-first-20-smart-cities-under-Smart-Cities-Mission/article14027175.ece)
+
+[^19]:Sun, T. (2016, July 27). Knocking on India’s smart cities door. *The Business Times*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/blog/knocking-on-indias-smart-cities-door](https://www.enterprisesg.gov.sg/blog/knocking-on-indias-smart-cities-door)
+
+[^20]: India-Singapore Comprehensive Economic Cooperation Agreement. (CECA). (2021). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/singapore-ftas/CECA](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/singapore-ftas/CECA)
+
+
+[^21]: Singapore’s International Trade. (2021, September). *Department of Statistics, Singapore*. Retrieved September 16, 2021, from [https://www.singstat.gov.sg/modules/infographics/-/media/Files/visualising_data/infographics/trade_and_investment/singapore-international-trade.pdf](https://www.singstat.gov.sg/modules/infographics/-/media/Files/visualising_data/infographics/trade_and_investment/singapore-international-trade.pdf) 
+
+[^22]: Bhardwaj, N. (2021, June 22). Why Indian businesses view Singapore as a preferred investment base in Asia. *India Briefing*. Retrieved July 26, 2021, from [https://www.india-briefing.com/news/why-indian-businesses-view-singapore-as-a-preferred-investment-base-in-asia-22517.html/](https://www.india-briefing.com/news/why-indian-businesses-view-singapore-as-a-preferred-investment-base-in-asia-22517.html/)
