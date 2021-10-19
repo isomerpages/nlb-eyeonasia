@@ -13,16 +13,15 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--
 ### **Upcoming Event**
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a class="project-link" href="/events/upcoming-events/15-sept-2021/">
-				<img class="project-image" src="/images/past-events/15-sep-2021/15-Sep-2021-EOA%20Eventbrite%20V2.jpg">
+			<a class="project-link" href="/events/upcoming-events/17-nov-2021/">
+				<img class="project-image" src="/images/past-events/17-nov-2021/EOA%2017%20Nov%20EDM.jpg">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Emerging Stronger from the Aftershocks of COVID-19 Pandemic</b></h5>
+					<h5><b>Belt and Road Initiative Revisited: Boon or Bane for Southeast Asia</b></h5>
 				</div>
 			</div>
 			</a>
@@ -30,7 +29,6 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 	</div>
 </div>
--->
 
 ### **Past Events**
 
