@@ -86,8 +86,7 @@ In February 2018, another MOU was signed between Singapore Business Federation (
 
 [^7]:  Andhra Pradesh. (2021, June). *India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf ](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf ) 
 
-[^8]: Andhra Pradesh. (2021, June).*India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf]; 
-(https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf){:target="_blank"}
+[^8]: Andhra Pradesh. (2021, June).*India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf); {:target="_blank"}
 Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, p. 3. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 
 {:target="_blank"}
