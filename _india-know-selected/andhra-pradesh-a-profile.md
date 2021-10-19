@@ -108,6 +108,7 @@ Andhra Pradesh. (2021, June). *India Brand Equity Foundation.* Retrieved Septemb
 [^15]:Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, p. 22. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
 
 [^16]:Socio economic survey 2020-21. (2021). *Planning Department Government of Andhra Pradesh*, pp. 16. Retrieved September 13, 2021, from [http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf](http://www.apsdps.ap.gov.in/Reports-Publications/Socio-eco/Socio_Economic_Survey_2020-21.pdf)
+{:target="_blank"}
 Tourism footfalls. (2021, February 23). *CORE Dashboard*. Retrieved September 13, 2021, from [https://core.ap.gov.in/CMDashBoard/UserInterface/Tourism/TourismSummaryReport.aspx](https://core.ap.gov.in/CMDashBoard/UserInterface/Tourism/TourismSummaryReport.aspx)
 
 [^17]: Andhra Pradesh Tourism official website. (n.d.). Retrieved September 13, 2021, from[http://www.aptourism.gov.in/](http://www.aptourism.gov.in/)
