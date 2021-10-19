@@ -13,7 +13,7 @@ This is a selection of resources on Andhra Pradesh available from the [NLB catal
 
 <img src="/images/book-covers/The-making-of-miracles-in-Indian-states-Andhra-Pradesh-Bihar-and-Gujarat.jpg" style="width:150px;" />
 
-[**The making of miracles in Indian states: Andhra Pradesh, Bihar, and Gujarat**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202665108){:target="_blank"}
+[**The making of miracles in Indian states: Andhra Pradesh, Bihar, and Gujarat**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202665108)
 
 Andhra Pradesh is one of three Indian states that have shown miracle levels of growth in the 21st century. Find out more about how Andhra Pradesh achieved this, in particular the impact of good and effective leadership quality in improving the growth outcomes.
 
@@ -46,7 +46,7 @@ Retrieved from EBSCOhost Business Source Complete. *myLibrary* ID is required to
 
 
 Discover what Andhra Pradesh has to offer with its vast geographical area combined with great historical and cultural heritage. Explore the nature and wild life experiences, heritage spots, beaches, as well as religious and spiritual destinations. 
-[http://www.aptourism.gov.in/ ](http://www.aptourism.gov.in/ )
+
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
@@ -54,6 +54,3 @@ Discover what Andhra Pradesh has to offer with its vast geographical area combin
 
 
 This policy aims to drive industrialisation based on the natural competitive advantages of a long coastline and a large pool of talented resources. It seeks to focus on promoting high value add and cutting edge industries to be future proof. Ten sectors for special thrust include toys and furniture, footwear and leather, machinery and precision equipment, aerospace and defence, pharma, textiles, automobile, electronics and petrochemicals.
-
-[https://apedb.gov.in/downloads/ap-industrial-policy-2020-23-brochure-final.pdf ](https://apedb.gov.in/downloads/ap-industrial-policy-2020-23-brochure-final.pdf )
-
