@@ -76,7 +76,7 @@ Bilateral trade between Singapore and India has been growing. Exports to India g
 
 [^5]:  Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
 
-[^6]:  Currency symbol. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.gov.in/national-identity-elements/currency-symbol.php](https://knowindia.gov.in/national-identity-elements/currency-symbol.php)
+[^6]:  Currency symbol. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.india.gov.in/national-identity-elements/currency-symbol.php](https://knowindia.india.gov.in/national-identity-elements/currency-symbol.php)
 
 [^7]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
 
@@ -88,11 +88,11 @@ Bilateral trade between Singapore and India has been growing. Exports to India g
 
 [^11]: Country report: India. (2021, January), *Economist Intelligence Unit*. Retrieved July 26, 2021, from Economist Intelligence Unit database.
 
-[^12]: Sex ration. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.gov.in/profile/sex-ratio.php](https://knowindia.gov.in/profile/sex-ratio.php)
+[^12]: Sex ratio. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.india.gov.in/profile/sex-ratio.php](https://knowindia.india.gov.in/profile/sex-ratio.php)
 
-[^13]: Country report: India. (2021). *Economist Intelligence Uni*t. Retrieved September 13, 2021, from Economist Intelligence Unit database. 
+[^13]: Country report: India. (2021). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database. 
 
-[^14]: About Indian economy growth rate and statistics. (2021, July).* India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org/economy/indian-economy-overview;](https://www.ibef.org/economy/indian-economy-overview)Make in India. (2021). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org/economy/make-in-india;](https://www.ibef.org/economy/make-in-india)Introduction. (2021).* Digital India*. Retrieved July 26, 2021, from [https://www.digitalindia.gov.in/content/introduction](https://www.digitalindia.gov.in/content/introduction)  
+[^14]: About Indian economy growth rate and statistics. (2021, July). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org/economy/indian-economy-overview;](https://www.ibef.org/economy/indian-economy-overview) Make in India. (2021). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org/economy/make-in-india;](https://www.ibef.org/economy/make-in-india)Introduction. (2021). *Digital India*. Retrieved July 26, 2021, from [https://www.digitalindia.gov.in/content/introduction](https://www.digitalindia.gov.in/content/introduction)
 
 [^15]: India: What to know about the world’s third largest consumer market. (2021, March 26). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market](https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market)  
 
