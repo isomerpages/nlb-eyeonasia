@@ -52,3 +52,5 @@ Dr Oh Ei Sun is the principal adviser at Pacific Research Center of Malaysia and
 **The Young SEAkers**
 
 Calvin Wee is the co-founder of The Young SEAkers, a non-profit organisation that brings together vibrant, competent ASEAN youths who are passionate about advancing the ASEAN-China region. A keen China-Southeast Asia watcher, Calvin is also the co-founder of ASEAN HANDS, the first podcast dedicated to business in Southeast Asia. Calvin represented Singapore in the Young ASEAN Leaders Policy Initiative 2020 held at Chulalongkorn University in Thailand. Calvin graduated from NUS Business School with a Bachelor’s in Business Administration (Honours), which included stints in Fudan University and Peking University during his exchange programmes.
+
+![Belt and Road Initiative Revisited: Boon or Bane for Southeast Asia?](/images/past-events/17-nov-2021/EOA%20DS.jpg)
