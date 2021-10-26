@@ -73,7 +73,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.theyoungseakers.com/"><img src="/images/partners/The-Young-SEAkers.jpg" alt="The Young SEAkers"></a>
+			<a href="https://www.theyoungseakers.com/"><img src="/images/partners/TheYoungSEAkers Logo Blue.png" alt="The Young SEAkers"></a>
 		</div>
 				<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.uaesbc.com/"><img src="/images/partners/UAESBC_new2.jpg" alt="UAE Singapore Business Council"></a>
