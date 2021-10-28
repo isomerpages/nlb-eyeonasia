@@ -16,7 +16,7 @@ breadcrumb: 'Indonesia - Insights into the coal mining, port and shipping indust
 
 *More specifically, Balikpapan is a seaport city on the east coast of East Kalimantan. Shipping from the Semayang and Kariangau harbours and air travel from the Sultan Aji Muhamad Sulaiman Airport are the main modes of transportation available in the city. It is a resource-rich region known for its timber, mining, and petroleum export products. Recently the economy of Balikpapan has shifted [its] focus to mining as well.*
 
-[Read more about SMU’s Industry Study Mission Indonesia 2013 visits to PT Bayan Resources, Balikpapan Coal Terminal (BCL) and Kalimantan Floating Transfer Station (KFT).](/resources/IndoNewsletter_compressed.pdf){:target="_blank"}
+[Read more about SMU’s Industry Study Mission Indonesia 2013 visits to PT Bayan Resources, Balikpapan Coal Terminal (BCL) and Kalimantan Floating Transfer Station (KFT).](/files/resources/IndoNewsletter_compressed.pdf){:target="_blank"}
 
 Credit: International Trading Institute@SMU
 

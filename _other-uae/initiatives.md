@@ -2,11 +2,8 @@
 title: Initiatives
 permalink: /other-asian-countries/uae/initiatives
 breadcrumb: Initiatives
-
 ---
-
-
-![banner-asean-go-for-professionals](\images\asean-professionals\For-young-professionals-new.jpg)
+![banner-asean-go-for-professionals](/images/asean-professionals/For-young-professionals-new.jpg)
 
 Check out selected programmes and opportunities available so that you can better prepare and develop your competencies!
 

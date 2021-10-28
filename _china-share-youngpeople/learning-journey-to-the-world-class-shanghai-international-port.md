@@ -16,6 +16,6 @@ breadcrumb: 'Learning journey to the world-class Shanghai International Port'
 
 *Visiting SIPG to learn more about the company and its operations was truly an eye-opener. It gave us a first-hand experience of how a world-class port operates and stay competitive. We saw how SIPG makes full use of the current policy and market to reinforce its leading position in the China port industry.*
 
-[Read more about SMU’s Shanghai Industry Study Mission 2017 to Shanghai International Port (Group) Co. Ltd.](/resources/SMU-Shanghai-Trip-Report_2017.pdf){:target="_blank"}
+[Read more about SMU’s Shanghai Industry Study Mission 2017 to Shanghai International Port (Group) Co. Ltd.](/files/resources/SMU-Shanghai-Trip-Report_2017.pdf){:target="_blank"}
 
 Credit: International Trading Institute@SMU
