@@ -1,11 +1,8 @@
 ---
-title: 'Discovering Abu Dhabi'
+title: Discovering Abu Dhabi
 permalink: /other-asian-countries/uae/discovering-abu-dhabi/
-breadcrumb: 'Discovering Abu Dhabi'
-
+breadcrumb: Discovering Abu Dhabi
 ---
-
-
 <img src="\images\uae\abu-dhabi-guide.jpg" alt="Abu Dhabi guide banner" style="width:800px;" />
 
 This is a selection of resources on Discovering Abu Dhabi available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
@@ -33,18 +30,20 @@ Retrieved from Overdrive. (myLibrary ID is required to access this database).
 
 <img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;" />
 
-[**Abu Dhabi’s initiatives to fast-track non-oil growth**](https://oxfordbusinessgroup.com/news/abu-dhabi%E2%80%99s-initiatives-fast-track-non-oil-growth){:target="_blank"}
+[**How Abu Dhabi is supporting innovation to build a sustainable economy**](https://investmentmonitor.ai/uae/how-abu-dhabi-is-supporting-innovation-to-build-a-sustainable-economy){:target="_blank"}
 
-Abu Dhabi has launched a series of initiatives to support the growth of its non-oil sector as part of its efforts to diversify its economy away from hydrocarbons. In June 2019, it announced the creation of a US$1.1 billion fund to boost R&D in the emirate. The fund, which seeks to incentivise greater levels of innovation, provides rebates to companies that invest in R&D and launch new business ventures.
+Innovation is crucial to economic growth. Find out how Abu Dhabi is creating an innovation-friendly economy that it places at the core of its future development strategy.
 
 <img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;" />
 
-[**Abu Dhabi economic vision 2030**](https://www.actvet.gov.abudhabi/en/Media/Lists/ELibraryLD/economic-vision-2030-full-versionEn.pdf){:target="_blank"}
+[**Abu Dhabi plans $6bn culture spending to diversify from oil**](https://www.ft.com/content/c0ae0344-280b-40f0-a67f-7edc24033caf){:target="_blank"}
 
-The 2030 Dubai Industrial Strategy aims to develop and implement long-term industrial policies to enhance the competitiveness and sustainability of the industrial sector in Dubai and across its free zones. It identifies target industrial sectors and focuses on strengthening industrial integration – connecting the target sector with educational and research institutions to stimulate innovation and creativity with a view to developing strategic industries. In addition, the Dubai Industrial Strategy aims to create an attractive environment for these strategic industries.
+In one of its efforts to diversify from its oil-dependent economy, Abu Dhabi is investing US$6 billion in creative and cultural industries that include building museums and investments in sectors ranging from media, gaming and music to cultural heritage, architecture and the arts.
+
+
 
 <img src="/images/resources/Article 4.jpg" alt="article icon 4" style="width:180px;" />
 
-[**Dubai, Abu Dhabi continue to rank highest for quality of living**](https://www.gulftoday.ae/business/2019/03/23/dubai-abu-dhabi-continue-to-rank-highest-for-quality-of-living){:target="_blank"}
+[**Visit Abu Dhabi**](https://visitabudhabi.cn/en){:target="_blank"}
 
-Mercer’s 21st annual Quality of Living survey revealed that Dubai continues to have the highest quality of living in the Middle East, followed closely by Abu Dhabi. These cities have integrated aggressive targets to use less energy, as well as facilitate the development of smart cities.
+There is something to do for everyone in Abu Dhabi. Explore the things to do, where to go and what to see in the city.
