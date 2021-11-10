@@ -1,16 +1,87 @@
 ---
-title: 'ASEAN countries - Political Structures'
+title: ASEAN countries - Political Structures
 permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-political-structures/
-breadcrumb: 'ASEAN countries - Political Structures'
-
+breadcrumb: ASEAN countries - Political Structures
 ---
-
-
 <img src="/images/asean-countries/ASEAN-countries-Political-structures.jpg" alt="political structures banner" style="width:800px;" />
 
 This is a selection of resources on political structures in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
+
+
+
+<img src="/images/book-covers/Managing conflicts in a globalizing ASEAN.png " style="width:180px;" />
+
+[**Managing Conflicts in a Globalizing ASEAN: Incompatibility management through good governance**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353556)
+
+This book investigates the patterns of conflict management in contemporary Southeast Asia. The region has long been characterized by the twin process of state-formation and nation-building, which has been responsible for the region's conflicts. While this process is still ongoing, regional conflicts and their management are increasingly affected by globalisation, which not only serves as a new source of conflict, but also makes new instruments available for conflict management
+
+
+All rights reserved.
+Singapore: Springer, 2020
+
+
+<img src="/images/book-covers/Uneasy military encounters.png" style="width:180px;" />
+
+[**Uneasy Military Encounters: The imperial politics of counterinsurgency in Southern Thailand**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205243550)
+
+This book presents a political ethnography of the Thai military's counterinsurgency practices in the southern borderland, home to the greater part of the Malay-Muslim minority. The resulting ethnography excavates the imperial politics of concrete encounters between the military and the southern population in the ongoing conflict in southern Thailand.
+
+
+All rights reserved.
+Ithaca New York: Cornell University Press, 2020
+
+
+
+<img src="/images/book-covers/Routledge handbook of contemporary Thailand.png" style="width:180px;" />
+
+[**Routledge handbook of contemporary Thailand**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204080684)
+
+This book examines the state of contemporary Thailand and argues that while Thailand has changed much in the past decades, many of its problems have remained intact or even persistent, particularly problems related to domestic politics. It underlines emerging issues at this critical juncture in the kingdom and focuses on the history, politics, economy, society, culture, religion and international relations of the country.
+
+All rights reserved.
+Abingdon, Oxon; New York, N: Routledge, 2020.
+
+<img src="/images/book-covers/Rising Islamic conservatism in Indonesia- Islamic groups and identity politics.png" style="width:180px;" />
+
+[**Rising Islamic conservatism in Indonesia: Islamic groups and identity politics**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205261472)
+
+This book examines how the rise of Islamic conservatism poses challenges to Indonesia's continued existence as a secular state, with far-reaching implications for the social, cultural and political fortunes of the country. It contributes a model of analysis in the field of Indonesian and Islamic studies on the logic of Islamic conservative activism in Indonesia. 
+
+
+All rights reserved.
+Singapore: World Scientific Publishing Co. Pte. Ltd.; Mandaluyong City, the Philippines: Anvil Publishing, Inc., 2019
+
+<img src="/images/book-covers/Indonesia- twenty years of democracy.png" style="width:180px;" />
+
+[Indonesia: Twenty years of democracy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204402026)
+
+This Element argues that after twenty years of democratization, Indonesia has performed admirably. This is especially so when the country's accomplishments are placed in comparative perspective. However, as we analytically focus more closely to inspect Indonesia's political regime, political economy, and how identity-based mobilizations have emerged, it is clear that Indonesia still has many challenges to overcome, some so pressing that they could potentially erode or reverse many of the democratic gains the country has achieved since its former authoritarian ruler, Soeharto, was forced to resign in 1998.
+
+All rights reserved.
+Cambridge, United Kingdom: Cambridge University Press, 2018
+
+<img src="/images/book-covers/Changing lives in Laos- society- politics- and culture in a post-socialist state.png" style="width:180px;" />
+
+[**Changing lives in Laos: society, politics, and culture in a post-socialist state**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202556738)
+
+During the last two decades, Laos has undergone major transformations due to a massive influx of foreign investment. Improved communications and new forms of mobility have dramatically altered rural life. The book brings together contributions from young scholars that look closely at these transitions and the resulting rise of a new social, cultural, and economic order. 
+
+All rights reserved.
+Singapore: NUS Press, 2017
+
+
+
+<img src="/images/book-covers/The Political Economy of Southeast Asia.png" style="width:180px;" />
+
+[**The Political Economy of Southeast Asia**](nlb.overdrive.com/media/5330650)
+
+
+This book demonstrates why a critical political economy approach is more crucial than ever for understanding Southeast Asia's transformation. Across a wide range of topics, the book explains how capitalist development and globalisation are reshaping the societies, economies and politics of a diverse group of countries, casting light on the deep sources of economic and social power in the region.
+
+Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
+
 
 <img src="/images/book-covers/Blood-and-silk-Power-and-conflict-in-modern-Southeast-Asia.png" style="width:180px;" />
 
@@ -28,44 +99,14 @@ Damien Kingsbury, professor of international politics at Deakin University, Aust
 
 All rights reserved, New York: Routledge, 2017.
 
-<img src="/images/book-covers/Politics-and-governance-in-Indonesia-The-police-in-the-era-of-Reformasi.png" style="width:180px;" />
 
-[**Politics and governance in Indonesia: The police in the era of Reformasi**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+---
+### **You may also like**
 
-Once under the jurisdiction of the military, policing in Indonesia has since been decentralised. In this pioneering work about the Indonesian police, scholar Muradi studies the changes in policing since Suharto came to power in 1966. Muradi argues that the professionalisation of the force, as well as the enforcing of modern and democratic policing, will lead to effective public control.
+<img src="/images/book-covers/Building Inclusive Democracies In ASEAN.png" style="width:180px;" />
 
-All rights reserved, Hoboken: Routledge, 2014.
+[**Building Inclusive Democracies In ASEAN**](http://eresources.nlb.gov.sg/Main/browse/resource/1049)
 
-Retrieved from EBSCOHost database. (*myLibrary* ID is required to access this database.)
+This ebook examines that a well-functioning democracy is part of what ultimately fosters inclusive growth and development. Inequitable access to democratic processes and mechanisms produces government policies and initiatives that are inconsistent with the needs of the majority. It also researches on the symptoms and effects of traditional patron-client politics, experiences, insights, analyses, policy recommendations and on reform efforts along the lines of citizens' participation, transparency, and evidence-based policymaking.
 
-<img src="/images/book-covers/Cambodia’s-neoliberal-order-Violence-authoritarianism-and-the-contestation-of-public-space.png" style="width:180px;" />
-
-[**Cambodia’s neoliberal order: Violence, authoritarianism, and the contestation of public space**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13681210){:target="_blank"}
-
-Simon Springer, associate professor of geography at the University of Victoria, Canada, analyses contemporary Cambodian politics through the public space. He reveals the opinions of Cambodians on the shifting position of public space in Cambodia’s democratic development, and argues that neoliberalism obstructed the country’s path towards democracy.
-
-All rights reserved, New York: Routledge, 2010.
-
-<img src="/images/book-covers/Contemporary-authoritarianism-in-Southeast-Asia-Structures-institutions-and-agency.png" style="width:180px;" />
-
-[**Contemporary authoritarianism in Southeast Asia: Structures, institutions and agency**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200147128){:target="_blank"}
-
-This compilation of essays focuses on how authoritarianism presents itself in Southeast Asia. Case studies include the Philippines, where electoral cheating and human rights violations have occurred; Indonesia, where the government’s grip on the military continues to be weak, with commanders in unaccountable positions; as well as the executive abuses of former Thai Prime Minister Thaksin Shinawatra while he was still in office.
-
-All rights reserved, London: Routledge, 2013.
-
-<img src="/images/book-covers/Conflict-in-Myanmar-War-politics-religion.png" style="width:180px;" />
-
-[**Conflict in Myanmar: War, politics, religion**](https://nlb.overdrive.com/media/3302830){:target="_blank"}
-
-*Conflict in Myanmar* is a collection of papers originally presented at the Myanmar/Burma Update Conference 2015 held at the Australian National University, Canberra. Themed “Making Sense of Conflict”, the conference examined the ongoing political, social and armed conflict in Myanmar from various perspectives.
-
-Retrieved from OverDrive. (*myLibrary* ID is required to access this database.)
-
-<img src="/images/book-covers/Citizenship-and-democratization-in-Southeast-Asia.png" style="width:180px;" />
-
-[**Citizenship and democratization in Southeast Asia**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=J){:target="_blank"}
-
-Download this compilation of essays about topics such as everyday citizenship in rural Java, elections and emerging citizenship in Cambodia, and the role of digital media in Malaysia’s electoral reform movement.
-
-Retrieved from JSTOR. (*myLibrary* ID is required to access this database)
+Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is required to access this database)
