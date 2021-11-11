@@ -55,7 +55,7 @@ Singapore: World Scientific Publishing Co. Pte. Ltd.; Mandaluyong City, the Phil
 
 <img src="/images/book-covers/Indonesia- twenty years of democracy.png" style="width:180px;" />
 
-[Indonesia: Twenty years of democracy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204402026)
+[**Indonesia: Twenty years of democracy**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204402026)
 
 This Element argues that after twenty years of democratization, Indonesia has performed admirably. This is especially so when the country's accomplishments are placed in comparative perspective. However, as we analytically focus more closely to inspect Indonesia's political regime, political economy, and how identity-based mobilizations have emerged, it is clear that Indonesia still has many challenges to overcome, some so pressing that they could potentially erode or reverse many of the democratic gains the country has achieved since its former authoritarian ruler, Soeharto, was forced to resign in 1998.
 
@@ -75,7 +75,7 @@ Singapore: NUS Press, 2017
 
 <img src="/images/book-covers/The Political Economy of Southeast Asia.png" style="width:180px;" />
 
-[**The Political Economy of Southeast Asia**](nlb.overdrive.com/media/5330650)
+[**The Political Economy of Southeast Asia**](https://nlb.overdrive.com/media/5330650)
 
 
 This book demonstrates why a critical political economy approach is more crucial than ever for understanding Southeast Asia's transformation. Across a wide range of topics, the book explains how capitalist development and globalisation are reshaping the societies, economies and politics of a diverse group of countries, casting light on the deep sources of economic and social power in the region.
@@ -105,7 +105,7 @@ All rights reserved, New York: Routledge, 2017.
 
 <img src="/images/book-covers/Building Inclusive Democracies In ASEAN.png" style="width:180px;" />
 
-[**Building Inclusive Democracies In ASEAN**](http://eresources.nlb.gov.sg/Main/browse/resource/1049)
+[**Building Inclusive Democracies In ASEAN**](https://eresources.nlb.gov.sg/Main/browse/resource/1049)
 
 This ebook examines that a well-functioning democracy is part of what ultimately fosters inclusive growth and development. Inequitable access to democratic processes and mechanisms produces government policies and initiatives that are inconsistent with the needs of the majority. It also researches on the symptoms and effects of traditional patron-client politics, experiences, insights, analyses, policy recommendations and on reform efforts along the lines of citizens' participation, transparency, and evidence-based policymaking.
 
