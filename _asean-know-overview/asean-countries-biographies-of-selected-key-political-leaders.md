@@ -45,7 +45,7 @@ Bangkok: River Books, 2019
 <img src="/images/book-covers/Malaysia Post Mahathir.png" style="width:180px;" />
 
 [**Malaysia Post Mahathir
-A decade of change**](nlb.overdrive.com/media/5613996)
+A decade of change**](https://nlb.overdrive.com/media/5613996)
 
 
 This collection of essays will look at how Malaysian society has evolved in the past decade without Mahathir as PM. While there are groups in Malaysia that would like to see the return of Mahathirism, others are questioning if Malaysia is heading in the right direction or Malaysia should return to Mahathir-type policies.
@@ -57,7 +57,7 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 <img src="/images/book-covers/Cambodia.png" style="width:180px;" />
 
 
-[**Cambodia - Report from a Stricken Land**](nlb.overdrive.com/media/4226361)
+[**Cambodia - Report from a Stricken Land**](https://nlb.overdrive.com/media/4226361)
 
 
 The book explores Cambodia's last days of peace, the Khmer Rouge genocide, and the nation's troubled present. With a controversial election won by the ruling party of Prime Minister Hun Sen—extending his more-than-thirty years in power—Cambodia is once again the focus of worldwide concern.
@@ -72,7 +72,7 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
  <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Indonesia in 2020: COVID-19 and Jokowi's Neo-liberal Turn.**](http://eresources.nlb.gov.sg/Main/browse/resource/1049 )
+[**Indonesia in 2020: COVID-19 and Jokowi's Neo-liberal Turn.**](https://eresources.nlb.gov.sg/Main/browse/resource/1049 )
 
 
 After his inauguration to a second term in October 2019, Indonesian President Joko Widodo had looked forward to consolidating his political and economic legacy. Politically, his rule was stable.  From January 2021, the world's news cycle was dominated by COVID-19, fundamentally changing political and economic trajectories. The article examines how the Jokowi government dealt with the COVID-19 situation which saw a high number of deaths in Indonesia.
@@ -81,7 +81,7 @@ Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is r
 
  <img src="/images/resources/Article 2.jpg" style="width:180px;" />
  
- [**Charismatic Political Leadership and Tun Dr Mahathir Mohamad's Malaysia: Power, Control, Stability and Defence.**](http://eresources.nlb.gov.sg/Main/browse/resource/1049 )
+ [**Charismatic Political Leadership and Tun Dr Mahathir Mohamad's Malaysia: Power, Control, Stability and Defence.**](https://eresources.nlb.gov.sg/Main/browse/resource/1049 )
  
 This research analyses historical information, documents, memoirs and articles to better understand Mahathir’s leadership.  Under his leadership, Malaysia made remarkable economic and political progress. He oversaw many innovations and was able to develop the country due to his exceptional leadership qualities. His style and attitude were highly criticized by some and labelled as dictatorial. This stigma did not detract him from the path he considered right for Malaysia.
  
@@ -92,7 +92,7 @@ Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is r
 
  <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Brunei. Military Technology.**](http://eresources.nlb.gov.sg/Main/browse/resource/1049 )
+[**Brunei. Military Technology.**](https://eresources.nlb.gov.sg/Main/browse/resource/1049 )
 
 
 The article presents a country profile for Brunei with Head of State and Prime Minister H. M. Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah. It examines topics which include the legal system, type of government and administrative divisions, air forces and economy such as the gross domestic product, budget and balance of trade.

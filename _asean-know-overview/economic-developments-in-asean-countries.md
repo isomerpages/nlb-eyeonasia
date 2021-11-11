@@ -88,7 +88,8 @@ Singapore: ISEAS-Yusof Ishak Institute, 2019
 
 <img src="/images/book-covers/Innovative Infrastructure Financing through Value Capture in Indonesia.png " style="width:180px;" />
 
-[**Innovative Infrastructure Financing through Value Capture in Indonesia**](nlb.overdrive.com/media/6504637)
+[**Innovative Infrastructure Financing through Value Capture in Indonesia**](https://nlb.overdrive.com/media/6504637)
+
 
 Indonesia needs significant additional infrastructure investment to sustain its economic growth. However, COVID-19 pandemic has further limited the fiscal space of the government. This report proposes a new method to increase infrastructure investment. The report studies how Indonesia's existing policies and regulations can be used to build a value capture framework that ensures the maximization of the social, economic, and environmental value of infrastructure investments.
 
@@ -99,7 +100,7 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
 [**Green Finance Strategies for Post-COVID-19
 Economic Recovery in Southeast Asia
-Greening Recoveries for Planet and People**](nlb.overdrive.com/media/6004602)
+Greening Recoveries for Planet and People**](https://nlb.overdrive.com/media/6004602)
 
 This book examines how  coronavirus disease (COVID-19) pandemic has seen governments across developing Asia move significant amounts of capital into relief efforts that have saved countless lives and livelihoods. But emerging economic recovery packages must not upset the sensitive balance between economic growth and the region's natural capital. 
 
@@ -111,7 +112,7 @@ Retrieved from OverDrive.*myLibrary* ID login is required to access this ebook.
 
 
 [**An Evolving ASEAN
-Vision and Reality**](nlb.overdrive.com/media/5103215)
+Vision and Reality**](https://nlb.overdrive.com/media/5103215)
 
 The book discusses how the formation of ASEAN was originally driven by political and security concerns. In the decades that followed, ASEAN's scope evolved to include an ambitious and progressive economic agenda. In December 2015, the ASEAN Economic Community (AEC) was formally launched. Although AEC has enjoyed some notable successes, the vision of economic integration is yet to be fully realized.
 
@@ -140,8 +141,7 @@ All rights reserved, Singapore: ISEAS-Yusof Ishak Institute, 2017.
 <img src="/images/book-covers/The ASEAN Way-Sustaining Growth and Security.png" style="width:180px;" />
 
 
-[**The ASEAN Way: Sustaining Growth and Security**](http://eresources.nlb.gov.sg/Main/browseresource/1049)
-
+[**The ASEAN Way: Sustaining Growth and Security**](https://eresources.nlb.gov.sg/Main/browse/resource/1049)
 
 The book examines the evolution of monetary policy and prudential frameworks of the ASEAN¬5, with particular focus on changes since the Asian financial crisis and the more recent period of unconventional monetary policy in advanced economies. It also looks at policy responses to global financial spillovers and elaborates on the challenges ahead for monetary policy, financial stability frameworks, and the deepening of financial markets.
 
@@ -151,7 +151,7 @@ Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is r
 
 <img src="/images/book-covers/Southeast Asia Beyond Crises and Traps.png" style="width:180px;" />
 
-[**Southeast Asia Beyond Crises and Traps**](http://eresources.nlb.gov.sg/Main/browse/resource/1049)
+[**Southeast Asia Beyond Crises and Traps**](https://eresources.nlb.gov.sg/Main/browse/resource/1049)
 
 
 This book examines five countries in South East Asia that are instructive case studies of how the region has had to negotiate pathways of development beyond crises and traps. At two ends of just one decade, 1997–2007, Indonesia, Malaysia, the Philippines, Thailand and Vietnam all had to weather the shocks of an East Asian financial crisis and a global financial crisis and emerged with continued albeit slower economic growth.
