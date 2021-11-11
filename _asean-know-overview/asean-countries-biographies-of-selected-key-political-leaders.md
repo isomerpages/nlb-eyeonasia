@@ -44,8 +44,7 @@ Bangkok: River Books, 2019
 
 <img src="/images/book-covers/Malaysia Post Mahathir.png" style="width:180px;" />
 
-[**Malaysia Post Mahathir
-A decade of change**](https://nlb.overdrive.com/media/5613996)
+[**Malaysia Post Mahathir- A decade of change**](https://nlb.overdrive.com/media/5613996)
 
 
 This collection of essays will look at how Malaysian society has evolved in the past decade without Mahathir as PM. While there are groups in Malaysia that would like to see the return of Mahathirism, others are questioning if Malaysia is heading in the right direction or Malaysia should return to Mahathir-type policies.
