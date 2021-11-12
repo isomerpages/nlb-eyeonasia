@@ -42,6 +42,7 @@ Abu Dhabi’s economy is supported largely by natural resources. However, it is 
 **Tourism** 
 
 Tourism is one of the key non-oil sectors of Abu Dhabi.[^11] It is currently seeking to grow its tourism sector as part of efforts to diversify its economy and reduce its dependence on oil revenue.[^12]The emirate comprises three main regions – the UAE capital city and its surrounds, Al Ain (Eastern Region) and Al Dhafra (Western Region). It boasts some of the world’s most beautiful landscapes, with geographically diverse scenery and rich culture and history.[^13]
+
 In 2020, Abu Dhabi’s tourism sector was significantly impacted by the COVID-19 pandemic. However, with the push for vaccination and easing of travel restrictions, the city expects the hospitality and tourism industry to recover with its hotel occupancy rate to grow to at least 80 percent in 2021.[^14]
 
 
@@ -94,4 +95,4 @@ On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global 
 
 [^19]: Monetary Authority of Singapore and Abu Dhabi Global Market collaborate to foster fintech innovation and cross-border activities. *Monetary Authority of Singapore*. Retrieved October 20, 2021, from [https://www.mas.gov.sg/](https://www.mas.gov.sg/news/media-releases/2017/monetary-authority-of-singapore-and-abu-dhabi-global-market){:target="_blank"}
 
-[^20]: Singapore bolsters trade relations with Abu Dhabi. (2019). *Rikvin.* Retrieved October 20, 2021, from [https://www.rikvin.com/](https://www.rikvin.com/press-releases/spore-bolsters-trade-relations-with-abu-dhabi/){:target="blank"};Osman, H. (2017, March 8). The Singapore and Abu Dhabi governments are working together to promote fintech.  *TechinAsia.* Retrieved October 20, 2021, from [https://www.techinasia.com/](https://www.techinasia.com/singapore-abudhabi-fintech-partnership){:target="_blank"}
+[^20]: Singapore bolsters trade relations with Abu Dhabi. (2019). *Rikvin.* Retrieved October 20, 2021, from [https://www.rikvin.com/](https://www.rikvin.com/press-releases/spore-bolsters-trade-relations-with-abu-dhabi/){:target="blank"}; Osman, H. (2017, March 8). The Singapore and Abu Dhabi governments are working together to promote fintech.  *TechinAsia.* Retrieved October 20, 2021, from [https://www.techinasia.com/](https://www.techinasia.com/singapore-abudhabi-fintech-partnership){:target="_blank"}
