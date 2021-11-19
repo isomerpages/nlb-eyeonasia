@@ -1,7 +1,9 @@
 ---
 title: Belt and Road Initiative Revisited Boon or Bane for Southeast Asia
-permalink: /events/upcoming-events/17-nov-2021
+permalink: /events/past-events/17-nov-2021
+description: ""
 ---
+
 ![Belt and Road Initiative Revisited: Boon or Bane for Southeast Asia](/images/past-events/17-nov-2021/EOA%2017%20Nov%20EDM.jpg)
 
 # Belt and Road Initiative Revisited: Boon or Bane for Southeast Asia?
