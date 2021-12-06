@@ -1,20 +1,21 @@
 ---
 title: Post-COVID-19 Future - The New Norm of Doing Business in China
 permalink: /events/past-events/08-jul-2020/
-date: 2020-07-08T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\08-Jul-2020\EOA Eventbrite V2.jpg" style="width:1000px;" />
 
 The Singapore-China “fast lane” arrangement allows for essential business and official travel between both countries. What will be the new normal of working or doing business in China? Hear from local industry professionals based in China as they share their challenges and how they are reinventing their business models in light of the COVID-19 pandemic.
 
+##### **Watch the full programme:**
+
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e56aeaf7-941c-4dee-b98b-ae14006babc3&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 **Wednesday, 8 July 2020**
 
 **5.00 pm – 6.00 pm (Singapore Time)**
 
-**Online Event - Register <a href="https://www.eventbrite.com/e/post-covid-19-future-the-new-norm-of-doing-business-in-china-registration-110919093996">here</a>**
+**Conducted via Zoom (online)**
 
 Navigating with you the shift of growth opportunities to Asia.
 
@@ -41,22 +42,4 @@ Eng Han oversees ACT Inc.’s learning businesses in Asia and supports its asses
 
 Zhong Yi is a business facilitator who is currently focused on translating technologies into business opportunities. He worked in the finance industry before starting a health management application and a business in the entertainment industry. He later became a business facilitator helping Chinese companies in the merger and acquisitions of overseas companies.
 
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pdvQm8VZ4cs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<!--### **Online Programme/Event Administrative Information**
-
-***online event***
-
-• This programme will take place on Zoom.
-
-• A link to the virtual programme will be sent to your email.
-
-• Please ensure that you enter a valid email address.
-
-• You may access Zoom through the app or web browser.
-
-<a href="https://www.eventbrite.com/e/post-covid-19-future-the-new-norm-of-doing-business-in-china-registration-110919093996"--><img src="\images\past-events\08-Jul-2020\EOA eDM V5.jpg" style="width:800px;" /></a>
+<img src="\images\past-events\08-Jul-2020\EOA eDM V5.jpg" style="width:800px;" />

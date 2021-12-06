@@ -1,14 +1,15 @@
 ---
 title: Sustainable Economic Development Through Environmental Programmes
 permalink: /events/past-events/07-aug-2019/
-date: 2019-08-07T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\07-Aug-2019\banner.jpg" alt="07-Aug-2019 banner" style="width:800px;" />
 
 Join Muhammad Yani bAS, as he talks about Sustainable Economic Development projects that could solve the ever-growing demand for recoverable resources and bio-fuel energy through an economical, eco-efficient and eco-environmental approach. He will also share his extensive experience of managing such projects in India and ASEAN countries such as Thailand, Indonesia and Malaysia.
+
+##### **Watch the full programme:**
+
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=eebc25ca-de8b-4f69-b317-ae16001e6b1e&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 **Wednesday, 7 August 2019**
 
@@ -18,7 +19,6 @@ Join Muhammad Yani bAS, as he talks about Sustainable Economic Development proje
 
 **National Library Building**
 
-Free admission. Register now via [this link](https://go.gov.sg/eoa-sustainable-development)
 
 ##### **About the Speaker**
 

@@ -1,16 +1,16 @@
 ---
 title: Engineering and Reinventing Yourself as an Entrepreneur in an Uncertain World
 permalink: /events/past-events/02-sep-2019/
-date: 2019-09-02T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\02-Sep-2019\banner.jpg" alt="02-Sep-2019 banner" style="width:800px;" />
 
 Landing a job in a traditional engineering firm is becoming increasingly more difficult as these companies are unable to support the growing number of engineering graduates.
 
 So then, what other opportunities are there for engineers? Join Mr Jameel Ahmed as he taps on his vast professional experience and shares how a willingness to push one’s engineering capabilities, entrepreneurial and business administration skills to the limit can open new doors to a fulfilling career.
+
+##### **Watch the full programme:**
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=7255be3c-fd16-427b-ae20-ae16001e8da7&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 **Monday, 2 September 2019**
 
@@ -20,11 +20,6 @@ So then, what other opportunities are there for engineers? Join Mr Jameel Ahmed 
 
 **National Library Building**
 
-For access to The Pod, please proceed to the lift lobby opposite the information counter at Level 1.
-
-Free Admission. Register now via <https://go.gov.sg/nl-eyeonasia-sep>
-
- 
 
 ##### **About the Speaker**
 

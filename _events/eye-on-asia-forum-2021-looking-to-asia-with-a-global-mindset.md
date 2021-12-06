@@ -1,7 +1,6 @@
 ---
 title: Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset
 permalink: /events/past-events/03-and-04-mar-2021/
-date: 2021-03-03T00:00:00.000Z
 ---
 
 
@@ -17,14 +16,11 @@ new environments in the region. Change your perspective of Asia and adopt a glob
 
 **6.00 pm to 7.15 pm (SGT)**
 
-**Conducted via Zoom  - Register <a href="https://go.gov.sg/nl-3mar" target="_blank">here</a>**
-
-
+**Conducted via Zoom (online)**
 
 ##### **Watch the full programme:**
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/94ucsus83bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=1844dfc0-04a6-4bf7-9a13-ae1400833eb0&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ### **About the Speakers**
 
@@ -56,8 +52,6 @@ The United Arab Emirates (UAE) is Singapore’s largest trading and investment p
 
 Amy Wee has spent more than 10 years in Vietnam and has forged good networks and relations with Vietnamese and foreign business communities. Her experience with and understanding of the Vietnamese business culture has allowed her to impart valuable market insights and instil confidence into Singapore companies venturing into Vietnam.
 
-
-
 ---
 
 <u><b>Session 2 - China and India</b></u>
@@ -66,14 +60,12 @@ Amy Wee has spent more than 10 years in Vietnam and has forged good networks and
 
 **6.00 pm to 7.15 pm (SGT)**
 
-**Conducted via Zoom  - Register <a href="https://go.gov.sg/nl-4mar" target="_blank">here</a>**
-
+**Conducted via Zoom  (online)**
 
 
 ##### **Watch the full programme:**
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/2gZDd8qigK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=14e6af7c-1b5d-4939-870d-ae1400834664&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ### **About the Speakers**
 

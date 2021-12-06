@@ -1,25 +1,22 @@
 ---
 title: Emerging Stronger from the Aftershocks of the COVID-19 Pandemic
-date: 2021-08-06
 permalink: /events/past-events/15-sept-2021
 ---
 <img src="/images/past-events/15-sep-2021/15-Sep-2021-EOA%20Eventbrite%20V2.jpg" style="width:800px;">
 
-### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MkBkB9Ftm88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-	
 The COVID-19 pandemic has impacted governments, businesses and individuals across the world. Join our panelists as they share strategies on how digital ecosystems and smart cities across ASEAN can bounce back and emerge stronger from the aftershocks of the pandemic.
 
 Discover the key drivers of building a safer, more resilient and sustainable smart ASEAN and learn more about the Smart Cities Network’s (SCN) projects on cyber security, circular economy and resiliency in the region. This session also presents the chance to explore collaborative opportunities with SCN and its members, and gain a foothold in the ASEAN region. 
+
+### **Watch the full programme:**
+
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=bd10a0b7-f454-4449-9f87-adf60035c2fc&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 **Wednesday, 15 September 2021**
 
 **6.30 pm – 7.30 pm (Singapore Time)**
 
-**Conducted via Zoom  - Register <a href="https://www.eventbrite.sg/e/eye-on-asia-emerging-stronger-from-the-aftershocks-of-covid-19-pandemic-registration-166034374283">here</a>**
+**Conducted via Zoom (online)**
 
 This webinar is organised in collaboration with <a href="https://www.smartcitiesnetwork.net/">Smart Cities Network</a>.
 
@@ -48,3 +45,5 @@ Shiva focuses on innovating for Urban Circular Economy. He is the Founder of REN
 **United Cities Singapore**
 
 Seok Mei is a Board Member and the Executive Director of United Cities Singapore, a non-profit organisation that helps cities achieve the United Nations’ sustainable development goals by 2030. An entrepreneur, Seok Mei started her first company in 2001 and has led organisations that have offered consultancy services, Digital Twin technologies in Smart Cities, provided nationwide support for Malaysia 999 Emergency Response Centres and managed 700 social entrepreneurs in the telecommunications industry. She is currently working with Cauayan City in the Philippines on the award-winning Intelligent Disaster Early Warning (iDEW) roadmap. She also mentors students and contributes to research and knowledge for the United Nations International Telecommunication Union (UN-ITU) workgroups.
+
+![EDM](/images/past-events/15-sep-2021/EOA Eventbrite V2.jpg)
