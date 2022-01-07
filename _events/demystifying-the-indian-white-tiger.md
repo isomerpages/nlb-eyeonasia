@@ -1,10 +1,7 @@
 ---
 title: Demystifying the Indian ‘white tiger’
 permalink: /events/past-events/06-jun-2018/
-date: 2018-06-06T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\06-Jun-2018\banner.jpg" alt="06-Jun-2018 banner" style="width:800px;" />
 
@@ -30,7 +27,6 @@ Sharing in their personal capacities and drawing upon literary, cultural and ane
 
 Their aim is not to provide definitive answers about India today, but rather to raise candid questions and points of deliberation for a meaningful post-presentation discussion, to allow participants to form their own conclusions about the country.
 
-Free admission. Please [register here](https://www.nlb.gov.sg/golibrary2/e/eye-on-asia-series-demystifying-the-indian-white-tiger-44935125).
 
 ##### **About the Speakers**
 

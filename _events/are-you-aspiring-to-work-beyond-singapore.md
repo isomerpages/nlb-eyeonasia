@@ -1,9 +1,7 @@
 ---
 title: Are you aspiring to work beyond Singapore?
 permalink: /events/past-events/20-mar-2018/
-date: 2018-03-20T00:00:00.000Z
 ---
-
 <img src="\images\past-events\20-mar-2018\banner.jpg" alt="20-mar-2018 banner" style="width:800px;" />
 
 Eye on Asia launched its first monthly programme on 20 March 2018. We were treated to a special panel discussion where our speakers shared their experiences on living and working in ASEAN countries and China.

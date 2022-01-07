@@ -1,64 +1,125 @@
 ---
-title: 'Economic Developments in ASEAN Countries'
+title: Economic Developments in ASEAN Countries
 permalink: /asean-countries/know/overview-of-asean-countries/economic-developments-in-asean-countries/
-breadcrumb: 'Economic Developments in ASEAN Countries'
-
+breadcrumb: Economic Developments in ASEAN Countries
 ---
-
-
 <img src="/images/asean-countries/Economic-developments-in-ASEAN-countries.jpg" alt="economic developments banner" style="width:800px;" />
 
 This is a selection of resources on economic developments in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-development-of-Malaysian-capitalism-From-British-rule-to-the-present-day.jpg" style="width:180px;" />
 
-[**The development of Malaysian capitalism: From British rule to the present day**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202847317){:target="_blank"}
 
-This volume provides an overview of Malaysian capitalism from 1874 to its recent global crises. It surveys Malaysia’s political economy, mapping the intersecting forces that inform it such as economic growth, broader Asian development, the weight of colonial institutions, the influence of Islamic finance, and the role of the state.
+<img src="/images/book-covers/Globalization-productivity and production networks in ASEAN.png " style="width:180px;" />
 
-All rights reserved, Malaysia: Strategic Information and Research Development Centre, 2017.
+[**Globalization, Productivity and Production Networks in ASEAN**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205396043)
 
-<img src="/images/book-covers/The-Myanmar-Economy-Its-Past-Present-and-Prospects.jpg" style="width:180px;" />
+This book examines the challenges that ASEAN need to overcome in order to sustain and intensify economic growth. The ASEAN market is widely regarded as a new hub of growth, not least in light of increasing protectionism and declining economic growth of the three largest countries in Northeast Asia (China, Japan, and South Korea). Contributors address a range of issues with a concentrated focus on evidence from Indonesia.
 
-[**The Myanmar economy: Its past, present and prospects**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202395029){:target="_blank"}
+All rights reserved.
+Basingstoke: Palgrave Macmillan, 2020
 
-To place Myanmar’s modern economy in context, this book considers its historical background and policies so as to lay out its future roadmap.
 
-All rights reserved, Tokyo: Springer, 2016.
+<img src="/images/book-covers/Myanmar- politics- economy and society.png " style="width:180px;" />
 
-<img src="/images/book-covers/Brunei-From-the-age-of-commerce-to-the-21st-century.jpg" style="width:180px;" />
+[**Myanmar: Politics, Economy and Society**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205243516)
 
-[**Brunei: From the age of commerce to the 21st century**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200953233){:target="_blank"}
 
-The book offers a look at Brunei’s history beginning with the end of the Ice Age and to its emergence as a modern sultanate. It contains information and analysis of her economic, social, cultural and political issues. The economic history section is devoted to conditions that have arisen over recent decades, and offers an analysis of the dominant economic role of revenues from hydrocarbon resources during this period.
+This book provides a sophisticated, yet accessible, overview of the key political, economic and social challenges facing contemporary Myanmar and explains the complex historical and ethnic dynamics that have shaped the country. With clear and incisive contributions from the world's leading Myanmar scholars, this book assesses the policies and political reforms that have provoked contestation in Myanmar's recent history and driven both economic and social change.
 
-All rights reserved, Singapore: NUS Press in association with Research Institute on Contemporary Southeast Asia, 2015.
+All rights reserved.
+Abingdon, Oxon; New York, NY: Routledge, 2021
 
-<img src="/images/book-covers/State-structure-policy-formation-and-economic-development-in-Southeast-Asia-The-political-economy-of-Thailand-and-the-Philippines.jpg" style="width:180px;" />
+<img src="/images/book-covers/The socialist market economy in Asia.png " style="width:180px;" />
 
-[**State structure, policy formation, and economic development in Southeast Asia: The political economy of Thailand and the Philippines**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14267644){:target="_blank"}
+[**The socialist market economy in Asia**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205269966)
 
-This book focuses on a historical and comparative analysis of Thailand and the Philippines, showing that differences in respective institutional configurations of state power had led to the different economic policies implemented, particularly when dealing with any economic crisis.
+Three of the best global performers in terms of economic growth are authoritarian states led by communist parties. The ‘socialist market economy’ model employed in China, Vietnam and Laos performs better than the economic systems in countries at a similar level of income per capita on a wide range of development indicators, yet market reforms and governance failures have led to highly unequal societies and significant environmental problems.
 
-All rights reserved, London: Routledge, 2012.
 
-<img src="/images/book-covers/Cambodia’s-economic-transformation.jpg" style="width:180px;" />
+All rights reserved.
+Basingstoke: Palgrave Macmillan, 2020
 
-[**Cambodia’s economic transformation**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14179873){:target="_blank"}
 
-This book examines the political economy of the Cambodian boom from 2002, analysing the changing structure of the economy, the relationship between state and market, and outcomes for the poor.
+<img src="/images/book-covers/The economy and business environment of Vietnam.png " style="width:180px;" />
 
-All rights reserved, Copenhagen: Nias Press, 2011.
+[**The economy and business environment of Vietnam**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205504093)
 
-<img src="/images/book-covers/Economic-change-in-modern-Indonesia-Colonial-and-post-colonial-comparisons.jpg" style="width:180px;" />
+This book provides an introduction to the economy and business environment of Vietnam, whose economy is rapidly growing. The introduction argues that though there may be perceived disadvantages in investing in Vietnam, there are a number of benefits as well, such as the country's openness to trade and foreign direct investment, the increasing ease of doing business there and the dynamism of the economy.
 
-[**Economic change in modern Indonesia: Colonial and post-colonial comparisons**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202499360){:target="_blank"}
 
-The first part of this book offers a chronological study of Indonesia’s economic development from the late 19th to the early 21st century, while the second part explores topics including the persistence of economic nationalism and the ongoing tensions among Indonesia’s diverse regions.
+All rights reserved.
+Roderick Macdonald, 2020
 
-All rights reserved, United Kingdom : Cambridge University Press, 2016.
+<img src="/images/book-covers/Human resource management in an emerging South Asian economy.png " style="width:180px;" />
+
+[**Human resource management in an emerging South Asian economy: The case of Brunei**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204378330)
+
+
+This book focuses on human resource management in the country context of Brunei Darussalam, analysing, comparing and contrasting domestic enterprises with multinational enterprises, and oil and gas with non-oil and -gas sectors, and draws out the comparative lessons for understanding the potential and performance consequences of HR interventions in resource-centred national economies. 
+
+All rights reserved.
+New York: Routledge, 2020
+
+
+
+<img src="/images/book-covers/Issues and challenges in the Malaysian Economy.png " style="width:180px;" />
+
+[**Issues and challenges in the Malaysian Economy: Towards inclusive growth**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204153461)
+
+
+Focusing on Malaysia's shifting economic profile and position, this book offers new insights and perspectives to scholars and researchers on a range of new developments impacting on growth, such as the effects of the digital economy on job creation and the threats of environmental degradation and trade protectionism.
+
+
+All rights reserved.
+Emerald Points, 2019
+
+<img src="/images/book-covers/The Indonesian economy in transition.png " style="width:180px;" />
+
+[**The Indonesian economy in transition: policy challenges in the Jokowi era and beyond**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203894547)
+
+By any indicator, Indonesia, the fourth most populous nation on earth, is a development success story. The book discusses the many daunting challenges Indonesia faces and how it achieves faster economic growth along with more attention to environment sustainability, how it achieves more equitable development outcomes and how it develops and nurtures stronger institutional foundations.
+
+All rights reserved.
+Singapore: ISEAS-Yusof Ishak Institute, 2019
+
+
+
+<img src="/images/book-covers/Innovative Infrastructure Financing through Value Capture in Indonesia.png " style="width:180px;" />
+
+[**Innovative Infrastructure Financing through Value Capture in Indonesia**](https://nlb.overdrive.com/media/6504637)
+
+
+Indonesia needs significant additional infrastructure investment to sustain its economic growth. However, COVID-19 pandemic has further limited the fiscal space of the government. This report proposes a new method to increase infrastructure investment. The report studies how Indonesia's existing policies and regulations can be used to build a value capture framework that ensures the maximization of the social, economic, and environmental value of infrastructure investments.
+
+Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
+
+<img src="/images/book-covers/Green Finance Strategies for Post-COVID-19.png " style="width:180px;" />
+
+
+[**Green Finance Strategies for Post-COVID-19
+Economic Recovery in Southeast Asia
+Greening Recoveries for Planet and People**](https://nlb.overdrive.com/media/6004602)
+
+This book examines how  coronavirus disease (COVID-19) pandemic has seen governments across developing Asia move significant amounts of capital into relief efforts that have saved countless lives and livelihoods. But emerging economic recovery packages must not upset the sensitive balance between economic growth and the region's natural capital. 
+
+Retrieved from OverDrive.*myLibrary* ID login is required to access this ebook.
+
+
+
+<img src="/images/book-covers/An Evolving ASEAN.png" style="width:180px;" />
+
+
+[**An Evolving ASEAN
+Vision and Reality**](https://nlb.overdrive.com/media/5103215)
+
+The book discusses how the formation of ASEAN was originally driven by political and security concerns. In the decades that followed, ASEAN's scope evolved to include an ambitious and progressive economic agenda. In December 2015, the ASEAN Economic Community (AEC) was formally launched. Although AEC has enjoyed some notable successes, the vision of economic integration is yet to be fully realized.
+
+
+Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
+
+
 
 <img src="/images/book-covers/A-regional-economic-history-of-Thailand.jpg" style="width:180px;" />
 
@@ -68,10 +129,47 @@ This book presents an economic history of Thailand from the signing of the Bowri
 
 All rights reserved, Singapore: ISEAS-Yusof Ishak Institute, 2017.
 
-<img src="/images/book-covers/Trade-liberalisation-and-poverty-Vietnam-now-and-beyond.jpg" style="width:180px;" />
 
-[**Trade liberalisation and poverty: Vietnam now and beyond**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202246065){:target="_blank"}
 
-This book investigates the effects of trade liberalisation on economic growth and poverty in Vietnam when the country launched *Doi Moi*, a programme of economic and trade reforms in the mid-1980s, placing the economy on a transitional path from central planning to a market economy.
 
-All rights reserved, New York : Routledge, 2016.
+
+---
+### **You May Also Like**
+
+
+
+<img src="/images/book-covers/The ASEAN Way-Sustaining Growth and Security.png" style="width:180px;" />
+
+
+[**The ASEAN Way: Sustaining Growth and Security**](https://eresources.nlb.gov.sg/Main/browse/resource/1049)
+
+The book examines the evolution of monetary policy and prudential frameworks of the ASEAN¬5, with particular focus on changes since the Asian financial crisis and the more recent period of unconventional monetary policy in advanced economies. It also looks at policy responses to global financial spillovers and elaborates on the challenges ahead for monetary policy, financial stability frameworks, and the deepening of financial markets.
+
+Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is required to access this database)
+
+
+
+<img src="/images/book-covers/Southeast Asia Beyond Crises and Traps.png" style="width:180px;" />
+
+[**Southeast Asia Beyond Crises and Traps**](https://eresources.nlb.gov.sg/Main/browse/resource/1049)
+
+
+This book examines five countries in South East Asia that are instructive case studies of how the region has had to negotiate pathways of development beyond crises and traps. At two ends of just one decade, 1997–2007, Indonesia, Malaysia, the Philippines, Thailand and Vietnam all had to weather the shocks of an East Asian financial crisis and a global financial crisis and emerged with continued albeit slower economic growth.
+
+Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is required to access this database)
+
+
+<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+
+[**Launch of reports on ASEAN’s logistics industry to drive growth and regional economic integration**](https://safe.menlosecurity.com/https:/www.oecd.org/newsroom/launch-of-reports-on-aseans-logistics-industry-to-drive-growth-and-regional-economic-integration.htm)
+
+
+OECD’s research and analysis concluded that practical, low-cost policies recommended to improve the regulation of ASEAN’s logistics industry will empower existing industry participants and encourage new entrants to identify and take advantage of fresh opportunities and the resulting market efficiencies. In turn, this would benefit businesses and consumers, and ultimately accelerate growth and development across the bloc’s economies.
+
+ <img src="/images/resources/Article 1.jpg" style="width:180px;" />
+ 
+ 
+ [**COVID-19 crisis response in ASEAN Member States
+OECD, 2020**](https://safe.menlosecurity.com/https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-asean-member-states-02f828a2/)
+
+Affected by the outbreak of COVID-19, Southeast Asia is seeing a rapid growth of confirmed cases. With economic downturn caused by domestic containment measures and global disruption to trade, tourism and production, the region is now facing the prospects of a global financial shock and recession. This paper provides a summary of the socio-economic impact, challenges and policy responses employed by ASEAN to mitigate the the pandemic’s negative effects.

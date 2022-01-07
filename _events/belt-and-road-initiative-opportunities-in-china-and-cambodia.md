@@ -1,10 +1,7 @@
 ---
 title: Belt and Road Initiative - Opportunities in China and Cambodia
 permalink: /events/past-events/16-aug-2018/
-date: 2018-08-16T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\16-Aug-2018\banner.jpg" alt="16-Aug-2018 banner" style="width:800px;" />
 
@@ -29,8 +26,6 @@ This is one of the talks under the Eye on Asia programme series for everyone inc
 **Level 5, Possibility Room**
 
 **National Library Building**
-
-Free admission. Register [here](http://bit.ly/2Am95Pc).
 
 Learn how to leverage the myriad of business and career opportunities arising from the Belt and Road Initiative with Anselm Chu, Managing Director of the Singapore (Cambodia) International Academy (a wholly-owned subsidiary of SIM Group).
 

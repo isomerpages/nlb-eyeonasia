@@ -1,27 +1,25 @@
 ---
 title: Belt and Road Initiative Revisited Boon or Bane for Southeast Asia
-permalink: /events/upcoming-events/17-nov-2021
+permalink: /events/past-events/17-nov-2021
+description: ""
 ---
-![Belt and Road Initiative Revisited: Boon or Bane for Southeast Asia](/images/past-events/17-nov-2021/EOA%2017%20Nov%20EDM.jpg)
 
-# Belt and Road Initiative Revisited: Boon or Bane for Southeast Asia?
-
-<!--
- ### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MkBkB9Ftm88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
--->
+<img src="\images\past-events\17-Nov-2021\Speaker Zoom Photo.jpg" alt="17 Nov Photo" style="width:800px;" />
 
 Trade and investment is a two-way street. Investments in ASEAN countries have commonly been discussed, but how has the Belt and Road Initiative (BRI) improved the volume of trade and investment from ASEAN to China? How can we capitalise on the opportunities arising from BRI and navigate the rising geopolitical tensions in the region? Likewise, how has China’s view of BRI in Southeast Asia changed and what are their considerations?
 
 As we commemorate the 30th anniversary of ASEAN-China relations this year, learn more about how the BRI ties into these relations, and the BRI’s effects on Southeast Asia.
 
+### **Watch the full programme:**
+ 
+<div>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=c4f4fb8b-308a-40f4-9fa8-adf20094f4fd&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+</div>
+
 **Wednesday, 17 November 2021**<br>
 **6.00 pm – 7.00 pm (Singapore Time)**
 
-**Conducted via Zoom  - Register <a href="https://www.eventbrite.sg/e/eye-on-asia-belt-road-initiative-revisitedboonbane-for-southeast-asia-tickets-187522794727">here</a>**
+**Conducted via Zoom (online)**
 
 This webinar is organised in collaboration with [The Young SEAkers](https://www.theyoungseakers.com/), the first and only Southeast Asia-based non-profit with a China and ASEAN angle. It currently has operations in all 10 ASEAN countries and China.
 

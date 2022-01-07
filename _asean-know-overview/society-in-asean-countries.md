@@ -1,19 +1,102 @@
 ---
-title: 'Society in ASEAN countries'
+title: Society in ASEAN countries
 permalink: /asean-countries/know/overview-of-asean-countries/society-in-asean-countries/
-breadcrumb: 'Society in ASEAN countries'
-
+breadcrumb: Society in ASEAN countries
 ---
-
-
 <img src="/images/asean-countries/Society-in-ASEAN.jpg" alt="Society in ASEAN banner" style="width:800px;" />
-
+ 
 This is a selection of resources on international and regional economic cooperation in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Brunei-History-Islam-society-and-contemporary-issues.jpg" style="width:180px;" />
 
+<img src="/images/book-covers/Cambodia- from Pol Pot to Hun Sen and beyond.png" style="width:180px;" />
+
+[**Cambodia: from Pol Pot to Hun Sen and beyond**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204511089)
+
+
+Behind a mirage of democracy, ordinary people have few rights and corruption infuses virtually every facet of everyday life. In this lively and compelling study, the first of its kind, the book explores the present state of Cambodian society under Hun Sen's leadership, painting a vivid portrait of a nation struggling to reconcile the promise of peace and democracy with a violent and tumultuous past.
+
+All rights reserved.
+New Haven: Yale University Press, 2020
+
+
+
+<img src="/images/book-covers/Southeast Asia in the new international era.png" style="width:180px;" />
+
+
+[**Southeast Asia in the new international era**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204057190){:target="_blank"}
+
+
+Sensitive to historical legacies and paying special attention to developments since the end of the Cold War, this book highlights the events, players, and institutions that shape the region. Employing a country-by-country format, the analysis engages in context-specific treatment of the region's eleven countries: Thailand, Myanmar, Vietnam, Cambodia, Laos, the Philippines, Indonesia, Timor-Leste, Malaysia, Singapore, and Brunei. 
+
+All rights reserved.
+London: Routledge, 2020
+
+<img src="/images/book-covers/Sustainable development goals in Southeast Asia and ASEAN.png" style="width:180px;" />
+
+
+[**Sustainable development goals in Southeast Asia and ASEAN: national and regional approaches**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203832049)
+
+The international community has come together to pursue certain fundamental goals over the coming period to make progress toward ending poverty and hunger, improving social and economic well-being, preserving the environment and combating climate change, and maintaining peace. The Sustainable Development Goals have been agreed to by states, which have in turn adopted national targets and action plans. 
+
+All rights reserved.
+Leiden: Brill, 2019
+
+<img src="/images/book-covers/Routledge handbook of contemporary Indonesia.png" style="width:180px;" />
+
+[**Routledge handbook of contemporary Indonesia**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203113772)
+
+The handbook offers an overview of the modern making and contemporary dynamics of culture, society, and politics in this powerful Asian nation - Indonesia. It provides a comprehensive survey of key issues in Indonesian politics, economics, religion, and society. 
+
+All rights reserved.
+Abingdon, Oxon; New York, NY: Routledge, 2018
+
+
+
+<img src="/images/book-covers/Thailand- history-politics and the rule of law.png" style="width:180px;" />
+
+[**Thailand: history, politics and the rule of law**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203813957)
+
+This book explains why chronically unstable Thailand struggles to mediate and adjudicate its political disputes. It focuses on the continuities between the pre-1932 and post-1932 periods. Since the shift to constitutional monarchy in 1932, the power of the monarch and military has endured the legislature, electorate and until recently, judiciary have been comparatively powerless, and constitutions and laws have been comparatively unimportant.
+
+All rights reserved.
+Singapore: Marshall Cavendish Editions, 2019
+
+<img src="/images/book-covers/Engaging Modern Brunei.png" style="width:180px;" />
+
+[**Engaging Modern Brunei**](https://nlb.overdrive.com/media/6100680)
+
+
+
+
+This book explores issues shaping and defining modern Bruneian identity. It addresses the research gap regarding Brunei studies in terms of the language, literature, and culture of Brunei which, with its bilingual education, is uniquely positioned at the intersection of the Malay and western worlds. 
+
+
+Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
+	
+<img src="/images/book-covers/Women-Children and Social Transformation in Myanmar.png" style="width:180px;" />
+	
+[**Women: Children and Social Transformation in Myanmar**](https://nlb.overdrive.com/media/5132117)
+
+This book explores the need for deep-seated social change in Myanmar in order to deliver tangible benefits for those that have long faced profound vulnerability and marginalisation. It showcases a range of initiatives aimed at strengthening women's and children's rights, improving education provision and promoting respect for ethnic, religious and linguistic diversity as well as the challenges these initiatives faced.
+	
+Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
+	
+	
+<img src="/images/book-covers/Do young people know ASEAN.png" style="width:180px;" />
+
+[**Do Young People know ASEAN? Update of a Ten-Nation Survey**](https://nlb.overdrive.com/media/3301524)
+
+In 2007, a survey was carried out to gauge young people's awareness and attitudes towards ASEAN following the decision to accelerate the date for accomplishing an integrated ASEAN Community by 2015. An update to the survey was carried out in 2014-15 among the same target population but with an expanded scope. 
+
+
+Retrieved from OverDrive. *myLibrary ID* login is required to access this ebook.
+
+	
+<img src="/images/book-covers/Brunei-History-Islam-society-and-contemporary-issues.jpg" style="width:180px;" />			
+			
+		
 [**Brunei: History, Islam, society and contemporary issues**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202389192){:target="_blank"}
 
 This book provides refreshing perspectives on a wide range of issues concerning Brunei, from the nation’s rich history to its society and ethnicities.
@@ -36,14 +119,6 @@ This book offers insights into community movements in Southeast Asia, with parti
 
 All rights reserved, Chiang Mai: Silkworm Books, 2016.
 
-<img src="/images/book-covers/Demographic-change-in-Southeast-Asia-recent-histories-and-future-directions.jpg" style="width:180px;" />
-
-[**Demographic change in Southeast Asia: recent histories and future directions**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14440170){:target="_blank"}
-
-This book chronicles the demographic transformations that have accompanied the social, political and economic changes in Southeast Asia since decolonisation. It outlines the government policies that have been implemented thus far and addresses the current demographic challenges facing societies with increased mobility and globalisation.
-
-All rights reserved, New York: Cornell University Southeast Asia Program Publications, 2012.
-
 <img src="/images/book-covers/Ethnic-and-religious-identities-and-integration-in-Southeast-Asia.jpg" style="width:180px;" />
 
 [**Ethnic and religious identities and integration in Southeast Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202898913){:target="_blank"}
@@ -52,21 +127,7 @@ This book examines the influences ethnic change and religious traditions have up
 
 All rights reserved, Chiang Mai: Silkworm Books, 2017.
 
-<img src="/images/book-covers/Everyday-Life-in-Southeast-Asia.jpg" style="width:180px;" />
 
-[**Everyday Life in Southeast Asia**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
-
-This book presents a collection of essays that describe the diverse nature of the peoples, cultures and societies of Southeast Asia. It explores the everyday lives and experiences of the ordinary people living in the mainland and island regions by surveying aspects such as household organisation, environment and popular culture.
-
-Retrieved from EBSCOhost database. *myLibrary* ID is required to access this database.
-
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
-
-[**Governing Southeast Asia: New perspectives on states and state-society relations**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-This article discusses the varying nature of states and state-society relations across Southeast Asia.
-
-Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
 
 <img src="/images/book-covers/Law-and-society-in-Malaysia-Pluralism-religion-and-ethnicity.jpg" style="width:180px;" />
 
@@ -84,45 +145,6 @@ Economic modernisation has posed a threat to the existence of religious and mora
 
 All rights reserved, Singapore: Springer Nature, 2017.
 
-<img src="/images/book-covers/Religious-pluralism-state-and-society-in-Asia.jpg" style="width:180px;" />
-
-[**Religious pluralism, state and society in Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200349844){:target="_blank"}
-
-This book examines religious diversity in Asian societies with particular focus on the interactions that occur among people of different religious traditions and beliefs.
-
-All rights reserved, Abingdon; New York: Routledge, 2014.
-
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
-
-[**Southeast Asia’s demographic situation, regional variations and national challenges**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-This article provides a comprehensive analysis of the demographic situation in Southeast Asia, with reference to the distinctive challenges and socio-economic conditions in each country in the region.
-
-Retrieved from ProQuest social science journals database. *myLibrary* ID is required to access this database.
-
-<img src="/images/book-covers/State-society-and-minorities-in-South-and-Southeast-Asia.jpg" style="width:180px;" />
-
-[**State, society, and minorities in South and Southeast Asia**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201511896){:target="_blank"}
-
-This book highlights the challenges facing South and Southeast Asian societies during the rise of minority ethnic and/or religion based conflicts and tensions.
-
-All rights reserved, Lanham: Lexington Books, 2015.
-
-<img src="/images/book-covers/The-house-in-Southeast-Asia-A-changing-social-economic-and-political-domain.jpg" style="width:180px;" />
-
-[**The house in Southeast Asia: A changing social, economic and political domain**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
-
-This book explores the position of ‘the house’ in Southeast Asian societies amidst the social, economic and political transformations in the region.
-
-Retrieved from EBSCOhost database. *myLibrary* ID is required to access this database.
-
-<img src="/images/book-covers/The-peoples-of-Southeast-Asia-today-Ethnography-ethnology-and-change-in-a-complex-region.jpg" style="width:180px;" />
-
-[**The peoples of Southeast Asia today: Ethnography, ethnology, and change in a complex region**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-This book undertakes an anthropological approach to explore the ethnology and ethnography of the mainland and insular regions in Southeast Asia. In addition to providing an overview of the region, it also focuses on how the cultural ways and patterns of adaptation of Southeast Asia’s peoples have evolved over time.
-
-Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this database.
 
 <img src="/images/book-covers/Transforming-society.jpg" style="width:180px;" />
 
@@ -131,4 +153,3 @@ Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this
 This book presents the impacts of social transformation and social development on peoples in social care and well-being, community life and nation building. It sheds light on the challenges of social development with relevant case studies addressing issues such as welfare, workforce and community development.
 
 All rights reserved, Abingdon; New York: Routledge, 2017.
-

@@ -4,9 +4,24 @@ permalink: /events/past-events/04-oct-2018/
 date: 2018-10-04T00:00:00.000Z
 ---
 
-
-
 <img src="\images\past-events\04-Oct-2018\banner.jpg" alt="04-Oct-2018 banner" style="width:800px;" />
+
+Drawn by China’s strong economic growth and modernising efforts, Singaporeans Kenneth Sun, Chief Strategy Officer of Riverwood Pte Ltd, and Elston Sam, a final year student at Nanyang Technological University, took the leap of faith to explore opportunities that the Chinese market had to offer.
+
+Join them as they share what they have learnt as well as their personal experiences from taking the road less travelled.
+
+#####  **Watch highlights of the programme:** 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cYA8Nmil1n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### **Watch the full programme:**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v8UdoV832Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 Ever considered taking the road less travelled? Be bold, take that first step and go global! This was the common call by our two speakers – Elston Sam, a final year student from the Nanyang Technological University, and Kenneth Sun, Chief Strategy Officer of Riverwood Pte Ltd as they shared about their leap of faith into China where opportunities abound.
 
@@ -16,10 +31,6 @@ Next, Kenneth focused on the insights gained from his foray into the Chinese mar
 
 This is one of the talks under the Eye on Asia programme series for everyone including young Singaporeans who want to explore opportunities in the region and beyond.
 
-Drawn by China’s strong economic growth and modernising efforts, Singaporeans Kenneth Sun, Chief Strategy Officer of Riverwood Pte Ltd, and Elston Sam, a final year student at Nanyang Technological University, took the leap of faith to explore opportunities that the Chinese market had to offer.
-
-Join them as they share what they have learnt as well as their personal experiences from taking the road less travelled.
-
 **Tuesday, 4 October 2018**
 
 **7.00 pm – 8.30 pm**
@@ -27,8 +38,6 @@ Join them as they share what they have learnt as well as their personal experien
 **Level 5, Possibility Room**
 
 **National Library Building**
-
-Free admission. Register now via [this link](https://bit.ly/2O3Nopu)
 
 **Eye on Asia** offers resources on ASEAN countries, China and India for everyone, including young Singaporeans exploring opportunities in the region and beyond.
 
@@ -47,19 +56,6 @@ Elston Sam is a final year student at Nanyang Technological University, majoring
 | <a href="\images\past-events\04-Oct-2018\image-1.jpg"><img src="\images\past-events\04-Oct-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-2.jpg"><img src="\images\past-events\04-Oct-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-3.jpg"><img src="\images\past-events\04-Oct-2018\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="\images\past-events\04-Oct-2018\image-4.jpg"><img src="\images\past-events\04-Oct-2018\image-4.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Oct-2018\image-5.jpg"><img src="\images\past-events\04-Oct-2018\image-5.jpg" style="width:250px;" /></a> |                                                              |
-
-
-#####  **Watch highlights of the programme:** 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cYA8Nmil1n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-##### **Watch the full programme:**
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v8UdoV832Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 <img src="\images\past-events\04-Oct-2018\edm.jpg" style="width:650px;" />
 

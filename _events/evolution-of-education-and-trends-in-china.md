@@ -1,10 +1,7 @@
 ---
 title: Evolution of education and trends in China
 permalink: /events/past-events/04-may-2018/
-date: 2018-05-04T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\04-May-2018\banner.jpg" alt="04-may-2018 banner" style="width:800px;" />
 
@@ -33,8 +30,6 @@ This is one of the talks under the Eye on Asia programme series for everyone inc
 **National Library Building**
 
 Join Managing Director of Ulearning Technology (International) Joseph Chong, as he shares the current education outlook in China and how you can better understand the trends and opportunities that await you there.
-
-Free admission. Please register via http://bit.ly/2vunTc0
 
 Curated by librarians from the National Library, Eye on Asia offers resources on ASEAN countries, China and India for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities in the region and beyond. For more information, please visit [www.eyeonasia.gov.sg](http://www.eyeonasia.gov.sg/)
 
