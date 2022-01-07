@@ -26,7 +26,7 @@ Join **Dr Koh Chin Yee**, Vice-president of South Seas Society, as he explains C
 
 What comes to your mind when you think about China’s “Belt and Road Initiative”? Do you see opportunities, increased investment and trade, improved connectivity, infrastructure development or an expansion of China’s influence, global and soft power? These were some questions posed by the speaker, Dr Koh Chin Yee, Vice-President for South Seas Society as he opened his talk on 15 January 2019 to a captive audience.
 
-Announced in 2013, the Belt and Road Initiative is China’s most high-profile initiative grounded on dual platforms, namely the Silk Road Economic ***Belt\*** which is land-based and the 21st Century Maritime Silk ***Road\*** which is sea-based. It aims to revive the ancient trade routes spanning through Asia, Africa and Europe.
+Announced in 2013, the Belt and Road Initiative is China’s most high-profile initiative grounded on dual platforms, namely the Silk Road Economic ***Belt*** which is land-based and the 21st Century Maritime Silk ***Road*** which is sea-based. It aims to revive the ancient trade routes spanning through Asia, Africa and Europe.
 
 With a balanced perspective, Dr Koh shared comprehensive insights on the opportunities and challenges as he revisited China’s economic history and the various mega trends in economics, geopolitics and ideology which set the background as well as lead up to the Belt and Road Initiative. With China as the second largest economy in the world, this mega project is set to be the most ambitious and all-encompassing economic development programme in human history.
 

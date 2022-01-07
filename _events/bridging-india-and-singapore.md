@@ -35,8 +35,8 @@ He is also a part of Indian Institute of Technology Alumni Association Singapore
 
 ##### **Event gallery**
 
-| <a href="\images\past-events\04-Sep-2018\image-1.jpg"><img src="\images\past-events\04-Sep-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Sep-2018\image-2.jpg"><img src="\images\past-events\04-Sep-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Sep-2018\image-3.jpg"><img src="\images\past-events\04-Sep-2018\image-3.jpg" style="width:250px;" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
+| <img src="\images\past-events\04-Sep-2018\image-1.jpg" style="width:250px;" /> | <img src="\images\past-events\04-Sep-2018\image-2.jpg" style="width:250px;" /> | <img src="\images\past-events\04-Sep-2018\image-3.jpg" style="width:250px;" /> |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+|                                                                                |                                                                                |                                                                                |
 <img src="\images\past-events\04-Sep-2018\edm.jpg" style="width:650px;" />
 

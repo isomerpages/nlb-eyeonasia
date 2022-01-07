@@ -23,4 +23,4 @@ The United Arab Emirates (UAE) is home to the largest overseas Singaporean popul
 
 Ravi is a veteran of the Singapore Foreign Service with close to a decade in service, of which he has spent almost five years covering the Middle East. Among his different roles were three years as Deputy Chief of Mission and First Secretary (Political) in the Singapore Embassy to the United Arab Emirates in Abu Dhabi.
 
-<a href="https://www.eventbrite.sg/e/sand-and-skyscrapers-understanding-the-united-arab-emirates-eye-on-asia-registration-126999217077"  target="_blank"><img src="\images\past-events\18-Nov-2020\EOA-eDM-18-Nov_FA.jpg" style="width:800px;" /></a>
+<img src="\images\past-events\18-Nov-2020\EOA-eDM-18-Nov_FA.jpg" style="width:800px;" />

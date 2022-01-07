@@ -27,7 +27,6 @@ Sharing in their personal capacities and drawing upon literary, cultural and ane
 
 Their aim is not to provide definitive answers about India today, but rather to raise candid questions and points of deliberation for a meaningful post-presentation discussion, to allow participants to form their own conclusions about the country.
 
-Free admission. Please [register here](https://www.nlb.gov.sg/golibrary2/e/eye-on-asia-series-demystifying-the-indian-white-tiger-44935125).
 
 ##### **About the Speakers**
 

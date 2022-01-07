@@ -27,8 +27,6 @@ This is one of the talks under the Eye on Asia programme series for everyone inc
 
 **National Library Building**
 
-Free admission. Register [here](http://bit.ly/2Am95Pc).
-
 Learn how to leverage the myriad of business and career opportunities arising from the Belt and Road Initiative with Anselm Chu, Managing Director of the Singapore (Cambodia) International Academy (a wholly-owned subsidiary of SIM Group).
 
 Anselm will share pointers on planning for careers in China and Cambodia, as well as insights into managing multi-country businesses based on his experience in regional roles for various MNCs in ASEAN countries and China.

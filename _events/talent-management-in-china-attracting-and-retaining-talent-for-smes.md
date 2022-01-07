@@ -15,9 +15,7 @@ In this climate where both opportunities and intense competition abound, compani
 
 ##### **Watch the full programme:**
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uizYLlaY1oU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=2e868508-7650-4d53-b6c1-ae16001f306e&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 **Thursday, 10 October 2019**
 
@@ -26,7 +24,7 @@ In this climate where both opportunities and intense competition abound, compani
 **Level 5, Possibility Room**
 
 **National Library Building**
-
+  
 
 ##### **About the Speaker**
 

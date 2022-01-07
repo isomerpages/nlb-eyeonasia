@@ -45,4 +45,4 @@ Zhen Han previously worked for Morgan Stanley in investment banking, with a focu
 
 Michelle has a great passion for mentoring and pioneering businesses with social impact in developing communities. In addition, she is committed to connecting entrepreneurs across ASEAN to facilitate cross-border collaborations. She is glad to have become good friends with Lester, Tianhao and Zhen Han while in Myanmar.
 
-<a href="https://www.eventbrite.sg/e/myanmar-venture-stories-and-opportunities-post-covid-19-eye-on-asia-registration-132381734331"  target="_blank"><img src="\images\past-events\13-Jan-2021\Eye on Asia 13 Jan.jpg" style="width:800px;" /></a>
+<img src="\images\past-events\13-Jan-2021\Eye on Asia 13 Jan.jpg" style="width:800px;" />
