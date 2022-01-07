@@ -1,10 +1,7 @@
 ---
 title: Demystifying the Indian ‘white tiger’
 permalink: /events/past-events/06-jun-2018/
-date: 2018-06-06T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\06-Jun-2018\banner.jpg" alt="06-Jun-2018 banner" style="width:800px;" />
 

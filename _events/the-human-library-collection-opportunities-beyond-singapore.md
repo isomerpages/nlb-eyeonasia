@@ -1,10 +1,7 @@
 ---
 title: The Human Library Collection - Opportunities Beyond Singapore
 permalink: /events/past-events/02-mar-2019/
-date: 2019-03-02T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\02-Mar-2019\banner.jpg" alt="02-Mar-2019 banner" style="width:800px;" />
 
@@ -38,15 +35,12 @@ Eye on Asia presents the Human Library Collection where participants are able to
 
  
 
-To ensure that this event can accommodate as many participants as possible, please select **either** Group A or B of the Human Library.
-
 **Saturday, 2 March 2019**
 
 **10.00 am – 11.00 am**
 
 **Level 7, National Library Building**
 
-Free admission. Register now via [this link](https://bit.ly/2G2p9aF)
 
 ##### **Event gallery**
 

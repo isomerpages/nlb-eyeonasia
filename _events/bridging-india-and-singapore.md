@@ -1,10 +1,7 @@
 ---
 title: Bridging India and Singapore
 permalink: /events/past-events/04-sep-2018/
-date: 2018-09-04T00:00:00.000Z
 ---
-
-
 
 <img src="\images\past-events\04-Sep-2018\banner.jpg" alt="04-Sep-2018 banner" style="width:800px;" />
 
@@ -24,8 +21,6 @@ This is one of the talks under the Eye on Asia programme series for everyone inc
 
 **National Library Building**
 
-Free admission. Register [here](https://www.nlb.gov.sg/golibrary2/e/eye-on-asia-programme-series-bridging-india-and-singapore-14917715).
-
 In recent years, bilateral trade between Singapore and India has grown, presenting many economic opportunities for Singapore in India. Join us for an informative evening with a local Project Management Consultant, Krishna Veerapan and Vikas Goel, an engineer, entrepreneur and investor from India as they share their views on working and doing business in India.
 
 ##### **About the Speakers**
@@ -43,7 +38,5 @@ He is also a part of Indian Institute of Technology Alumni Association Singapore
 | <a href="\images\past-events\04-Sep-2018\image-1.jpg"><img src="\images\past-events\04-Sep-2018\image-1.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Sep-2018\image-2.jpg"><img src="\images\past-events\04-Sep-2018\image-2.jpg" style="width:250px;" /></a> | <a href="\images\past-events\04-Sep-2018\image-3.jpg"><img src="\images\past-events\04-Sep-2018\image-3.jpg" style="width:250px;" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |
-
-
 <img src="\images\past-events\04-Sep-2018\edm.jpg" style="width:650px;" />
 
