@@ -35,7 +35,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 
 If you missed out on our past events, find out more about them here. Most sessions are recorded and included here for your convenience.
 
-You can also watch them on our Eye on Asia playlist at the [National Library's YouTube Channel](https://www.youtube.com/playlist?list=PL8iW4pSvDCw6ym3goCZ0XPr7Pg2P_XEEK).
+You can also watch them from our Eye on Asia folder at the [National Library's Video Learning Portal](https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2284661ec0-afab-4a1f-b854-adf2008a85ef%22&view=2).
 
 <div>
 	<div class="row is-multiline">

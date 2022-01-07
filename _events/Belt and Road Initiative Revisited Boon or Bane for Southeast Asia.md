@@ -3,7 +3,8 @@ title: Belt and Road Initiative Revisited Boon or Bane for Southeast Asia
 permalink: /events/past-events/17-nov-2021
 description: ""
 ---
-# Belt and Road Initiative Revisited: Boon or Bane for Southeast Asia?
+
+<img src="\images\past-events\17-Nov-2021\Speaker Zoom Photo.jpg" alt="17 Nov Photo" style="width:800px;" />
 
 Trade and investment is a two-way street. Investments in ASEAN countries have commonly been discussed, but how has the Belt and Road Initiative (BRI) improved the volume of trade and investment from ASEAN to China? How can we capitalise on the opportunities arising from BRI and navigate the rising geopolitical tensions in the region? Likewise, how has China’s view of BRI in Southeast Asia changed and what are their considerations?
 
