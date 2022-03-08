@@ -1,10 +1,11 @@
 ---
 title: China’s Finance Industry (And Its Impact on Asia)
-permalink: /events/upcoming-events/09-mar-2022/
+permalink: /events/past-events/09-mar-2022/
 description: Join finance professionals Eric Sim and Tommy Xie as they provide
   insights and advice to those who want to learn more about this sector.
 image: /images/past-events/09 Mar 2022/EOA Website edm.jpg
 ---
+
 ![9 March EDM](/images/past-events/09%20Mar%202022/EOA-Website-edm.jpg)
 
 As Asia and the world recover from the global pandemic, China’s finance industry has continued to grow. As financial technology develops and finance professionals adapt to the changes, what opportunities are there for those interested in the finance industry? Join finance professionals Eric Sim and Tommy Xie as they provide insights and advice to those who want to learn more about this sector and how it could help them in their businesses.
