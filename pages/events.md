@@ -13,7 +13,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### **Upcoming Event**
+<!--### **Upcoming Event**
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -28,13 +28,31 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		</div>
 		<br>
 	</div>
-</div>
+</div> -->
 
 ### **Past Events**
 
 If you missed out on our past events, find out more about them here. Most sessions are recorded and included here for your convenience.
 
 You can also watch them from our Eye on Asia folder at the [National Library's Video Learning Portal](https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2284661ec0-afab-4a1f-b854-adf2008a85ef%22&view=2).
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a class="project-link" href="/events/past-events/09-mar-2022/">
+				<img class="project-image" src="/images/past-events/09%20Mar%202022/EOA-Website-edm.jpg">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>China’s Finance Industry (And Its Impact on Asia)</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<br>
+	</div>
+</div>
+
+<br>
 
 <div>
 	<div class="row is-multiline">

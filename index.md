@@ -12,11 +12,11 @@ description: Eye on Asia is a collaborative effort by the National Library,
   the future economy.
 sections:
   - hero:
-      title: China’s Finance Industry (And Its Impact on Asia)
-      subtitle: Register for Eye on Asia's upcoming webinar
-      background: /images/past-events/09 Mar 2022/EOA web banner.jpg
+      title: Eye on Asia
+      subtitle: Navigating with you the shift of growth opportunities to Asia
+      background: /images/shared/NLB Eye on Asia_Web Banner.webp
       button: KNOW . SHARE . GO
-      url: /events/upcoming-events/09-mar-2022/
+      url: /about/about-eye-on-asia
       key_highlights:
         - title: ASEAN Countries
           description: Venture into one of the fastest-growing economic blocs in Asia with
