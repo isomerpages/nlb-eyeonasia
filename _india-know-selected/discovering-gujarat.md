@@ -1,24 +1,21 @@
 ---
-title: 'Discovering Gujarat'
+title: Discovering Gujarat
 permalink: /india/know/selected-india-states/gujarat-guide/
-breadcrumb: 'Discovering Gujarat'
-
+breadcrumb: Discovering Gujarat
 ---
-
-
 <img src="\images\india-selected\gujarat-guide.jpg" alt="gujarat guide" style="width:800px;" />
 
 This is a selection of resources on Gujarat available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-idea-of-Gujarat-History-ethnography-and-text.jpg" style="width:150px;" />
+<img src="/images/book-covers/from-gujarat-with-love.jpg" style="width:150px;" />
 
-[**The idea of Gujarat: History, ethnography and text**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13867172){:target="_blank"}
+[**From Gujarat with love: 100 authentic Indian vegetarian recipes**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=205661971){:target="_blank"}
 
-This work critically examines the processes that went into the formation of the region and, in doing so, unsettles a series of conventional wisdom about the land and its inhabitants. Individual chapters explore the work of courts, colonial officers, politicians, scholars, and gods and goddesses in the making of the state. The book provides a broad introduction to the idea of Gujarat, the scope of its history, the nature of its politics, and the dynamics of its society.
+Exploring authentic cuisine from the west coast of India, this book features recipes from the Gujarat region’s “explosive combination of sweet, spicy, and sour flavours,” accompanied by visually stunning images of the foods featured.
 
-All rights reserved, New Delhi: Orient Blackswan, 2010.
+All rights reserved, London: Pavilion Books, 2021.
 
 <img src="/images/book-covers/Modinomics-Inclusive-economics-inclusive-governance.jpg" style="width:150px;" />
 
@@ -32,9 +29,17 @@ All rights reserved, Haryana, India: Skoch Media, 2014.
 
 [**The making of miracles in Indian states: Andhra Pradesh, Bihar, and Gujarat**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202665108){:target="_blank"}
 
-*The Making of Miracles in Indian States* studies three growth miracles in India at the state-level – Andhra Pradesh, Bihar and Gujarat. These are three of the largest and most diverse states in India and have grown at rates exceeding 8 percent for an entire decade. These “miracles” can be partly attributed to visionary leaders such as Chandrababu Naidu, Nitish Kumar and Narendra Modi.
+*The Making of Miracles in Indian States* studies three growth miracles in India at the state-level – Andhra Pradesh, Bihar and Gujarat. These are three of the largest and most diverse states in India and have grown at rates exceeding 8 percent for an entire decade. These “miracles” can be partly attributed to visionary leaders such as Chandrababu Naidu, Nitish Kumar and Narendra Modi. 
 
 All rights reserved, Oxford: Oxford University Press, 2015.
+
+<img src="/images/book-covers/The-idea-of-Gujarat-History-ethnography-and-text.jpg" style="width:150px;" />
+
+[**The idea of Gujarat: History, ethnography and text**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13867172){:target="_blank"}
+
+This work critically examines the processes that went into the formation of the region and, in doing so, unsettles a series of conventional wisdoms about the land and its inhabitants. Individual chapters explore the work of courts, colonial officers, politicians, scholars, and gods and goddesses in the making of the state. The book provides a broad introduction to the idea of Gujarat, the scope of its history, the nature of its politics, and the dynamics of its society. 
+
+All rights reserved, New Delhi: Orient Blackswan, 2010.
 
 <img src="/images/book-covers/Narendra-Modi-A-political-biography.jpg" style="width:150px;" />
 
@@ -44,50 +49,34 @@ Based on recorded interviews with the enigmatic Narendra Modi, this is a balance
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/resources/Database 3.jpg" style="width:180px;" />
-
-[**No cash, no worries for this ‘digital’ village**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-In January 2015, when Prime Minister Narendra Modi presented the nation with its first “digital village”, Akodara in Sabarkantha district of Gujarat, few realised what it would mean for its nearly 1,100 locals – a virtually cashless economy free from everyday currency hassles.
-
-Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
-
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
-
-[**India economy: Gujarat set to drive the government’s push for competition**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-Gujarat is one of India’s most industrialised regions and arguably its most business-friendly state. For much of India’s post-1990 economic reform period, Gujarat’s economy has grown at rates similar to the East Asian tigers. Comprising less than 5 percent of India’s total population, Gujarat’s economic development strategy has focused on cutting red tape, facilitating land acquisition, as well as providing infrastructure and public goods.
-
 ---
 
 ### **You may also like**
 
+[**Gujarat tops NITI Aayog's export index for second year in a row**](https://www.business-standard.com/article/economy-policy/gujarat-tops-niti-aayog-s-export-index-for-second-year-in-a-row-122032600033_1.html)
+
+Gujarat has topped NITI Aayog’s Export Preparedness Index 2021 that aims to evaluate the Indian States’ and Union Territories’ preparedness to export and take measures for improvement wherever possible. This is the second consecutive year that Gujarat has emerged as the top performer. NITI Aayog is the Indian government’s policy think tank. 
+
+[**Information About Gujarat – Industries, Economy, Ports, Exporters & Geography**](https://www.ibef.org/states/gujarat)
+
+Gujarat is one of the India’s leading industrialised states. At current prices, Gujarat’s Gross State Domestic Product (GSDP) is estimated at US$259.25 billion in FY 2022, a year-on-year increase of seven percent. Gujarat is also considered the petroleum capital of India due to its large refining capacity set up by private and public sector companies.
+
+**Gujarat - An unmissable experience**
+
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ffNW9mzV19A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ycFleoXkmoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**I love Gujarat**
+Gujarat Tourism explores the beauty and splendour of Gujarat and presents its vibrant culture, industries and economy. 
 
-This video by Gujarat Tourism explores the beauty and splendour of Gujarat and presents its vibrant culture, industries and economy.
+Source: Gujarat Tourism, 2020.
 
-Source: Gujarat Tourism
+**Gujarat: The gateway to opportunities**
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vJ8GhFOjzkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Gujarat: The gateway to opportunities**
-
 A highly industrialised and developed state, Gujarat is aptly named the growth engine of India. Internet connectivity in every village has made accessing government services easier than ever.
 
-Source: Jitega Gujarat
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gBK2Z1PHPOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-**Gujarat – The socio economic superpower**
-
-Gujarat became an economic superpower under Narendra Modi’s BJP government. It is the most industrialised state in India with an amazing spirit of enterprise.
-
-Source: Gujarat Development
+Source: Jitega Gujarat, 2015.
