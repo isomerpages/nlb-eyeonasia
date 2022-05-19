@@ -1,16 +1,30 @@
 ---
-title: 'Discovering Tamil Nadu'
+title: Discovering Tamil Nadu
 permalink: /india/know/selected-india-states/tamil-nadu-guide/
-breadcrumb: 'Discovering Tamil Nadu'
-
+breadcrumb: Discovering Tamil Nadu
 ---
-
-
 <img src="\images\india-selected\tamil-nadu-guide.jpg" alt="tamil nadu guide" style="width:800px;" />
 
 This is a selection of resources on Tamil Nadu available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
+
+<img src="/images/book-covers/karunanidhi-a-life.jpg" style="width:150px;" />
+
+[**Karunanidhi: A life**](https://nlb.overdrive.com/media/6114030){:target="_blank"}
+
+Muthuvel Karunanidhi was the chief minister of Tamil Nadu for five terms and leader of the Dravida Munnetra Kazhagam (DMK) for over five decades. He is remembered as a strong leader who made invaluable contributions to the development of Tamil Nadu and to Tamil language and culture. This eBook (2021) delves into the life and times of this charismatic figure in the history of Tamil Nadu and India.
+
+Retrieved from OverDrive. *myLibrary ID* is required to access this ebook.
+
+<img src="/images/book-covers/the-strangeness-of-tamil-nadu.jpg" style="width:150px;" />
+
+[**The strangeness of Tamil Nadu: Contemporary history and political culture in South India**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204444060){:target="_blank"}
+
+This book seeks to bring a historical understanding of what the author calls the “strangeness” of Tamil Nadu. This strangeness is attributed to the peculiarities of the Dravidian politics of Tamil Nadu. The book is organised chronologically as well as along thematic sections that reflect the themes of Dravidian ideology -- linguistic identity, state politics, religion and caste. 
+
+All rights reserved, Ranikhet: Permanent Black, 2019.
+
 
 <img src="/images/book-covers/Tamil-A-biography.jpg" style="width:150px;" />
 
@@ -38,25 +52,25 @@ All rights reserved, Mumbai: Marg Foundation, 2010.
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**How Jayalalithaa turned Tamil Nadu into one of the country’s largest economies**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Best performing big state overall: Tamil Nadu: A strong foundation and inclusive growth have helped Tamil Nadu survive the pandemic and stay on its development trajectory**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
-This article reports that Tamil Nadu is among India’s five largest economies, with former Chief Minister Jayalalithaa turning the state into an attractive destination for foreign investment. She had initiated industry-friendly policies which ensured that the state was always in the forefront of huge investments in the manufacturing sector, whether it is mobile handsets or automobile factories.
+Inclusive growth and education have been the priority of successive Tamil Nadu governments. This article reports that Tamil Nadu is tied in third place with Himachal Pradesh on the Sustainable Development Goals (SDG) dashboard. The health of the state is what stood it in good stead during the COVID-19 pandemic. Tamil Nadu was one of the few states that did not register negative growth in the period.
 
 Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**Policy impacts on FDI in India: An analysis among the southern states**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**Tamil Nadu adapts and accelerates**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
-Tamil Nadu, with a strong industrial base in the southern states, is presently ranked third in the list of states attracting foreign direct investment in India. Tamil Nadu has implemented several financial incentives, including capital subsidies, power tariff concessions and sales tax waiver schemes, making it very attractive for FDI. The top five countries investing in Tamil Nadu are Mauritius, Singapore, Japan, USA and the Netherlands.
+Tamil Nadu is one of India's most industrialised states and its traditional strengths in technology and education have helped it to become an IT and software hub. With a US$229 billion economy, Tamil Nadu has one of the biggest economies of any state in India. It experienced an economic growth of 12.5 percent in 2018 with total FDI inflows amounting to US$30.7 billion between 2000 and 2019.
 
 Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Industry-friendly policies make Tamil Nadu investors’ paradise**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
+[**How Jayalalithaa turned Tamil Nadu into one of the country's largest economies**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
 
-This article highlights that Tamil Nadu is one of the fastest-growing states within India. Its automobile and textile industries are thriving.  The government of Tamil Nadu has been promoting and encouraging investments in heavy engineering, renewable energies, and IT and electronics.
+This article reports that Tamil Nadu is among India’s five largest economies, with former Chief Minister Jayalalithaa turning the state into an attractive destination for foreign investment. She enacted industry-friendly policies which ensured that the state was always in the forefront of huge investments in the manufacturing sector -- from mobile handsets to automobile factories.
 
 Retrieved from ProQuest Central. *myLibrary* ID is required to access this database.
 
@@ -64,11 +78,21 @@ Retrieved from ProQuest Central. *myLibrary* ID is required to access this datab
 
 ### **You may also like**
 
+[**Tamil Nadu: Plan for $ 1tn economy by 2030 laid out**](https://timesofindia.indiatimes.com/city/chennai/tn-inks-2200cr-worth-24-mous-targets-100bn-export-by-2030/articleshow/86442052.cms)
+
+The Tamil Nadu government announced the state’s plan to make it a US$1 trillion economy by 2030 from around US$265 billion in 2022. The services sector will be a major focus area as well as emerging sectors such as aerospace and defence, e-vehicles, electronic manufacturing, and petrochemicals. 
+
+[**Tamil Nadu State Report**](https://www.ibef.org/states/tamil-nadu)
+
+Between 2015-16 and 2020-21, Tamil Nadu’s Gross State Domestic Product (GSDP) expanded at a Compound Annual Growth Rate (CAGR) of 10.56 percent to reach US$ 265.49 billion. Tamil Nadu has a diversified manufacturing sector and ranks first among the Indian states in terms of number of factories and industrial workers.
+
+
+
+**Tamil Nadu top 50 tourist places**
+
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBqxTshBhp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-**Tamil Nadu top 50 tourist places**
 
 This video features exciting tourist spots in Tamil Nadu including the ancient sculptures of Mahabalipuram, Meenakshi Amman temple in Madurai, Kodaikanal hill resort, Coonoor waterfalls, Thanjavur palaces and paintings, Mudumalai National Park and Velankanni Church.
 
