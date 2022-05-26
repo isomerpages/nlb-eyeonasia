@@ -40,7 +40,7 @@ You can also watch them from our Eye on Asia folder at the [National Library's V
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a class="project-link" href="/events/past-events/09-mar-2022/">
-				<img class="project-image" src="/images/past-events/09%20Mar%202022/EOA-Website-edm.jpg">
+				<img class="project-image" src="/images/past-events/09%20Mar%202022/Speaker photos.png">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>China’s Finance Industry (And Its Impact on Asia)</b></h5>
