@@ -1,44 +1,42 @@
 ---
-title: 'National Capital Region of India - A profile'
+title: National Capital Region of India - A profile
 permalink: /india/know/selected-india-states/ncr-india-profile/
-breadcrumb: 'National Capital Region of India - A profile'
-
+breadcrumb: National Capital Region of India - A profile
 ---
-
-
 <img src="\images\india-selected\ncr-india-profile.jpg" alt="ncr india profile" style="width:800px;" />
 
-This article provides an overview of National Capital Region of India for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
+This article provides an overview of the National Capital Region of India for those exploring the possibility of living and working there. The information presented here has been gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
 ### **Key facts**
 
-- **Land area:** 53,817 sq km[^1]
-- **Population (2011):** 46,069,000[^2]
+- **Land area:** 55,083 sq km[^1]
+- **Population (2011):** 58,150,000[^2]
 - **Regional Authority:** National Capital Region Planning Board[^3]
 - **Head:** Hardeep Singh Puri, Minister of State (Independent Charge), Housing And Urban Affairs and Chairman of the NCR Planning Board[^4]
 - **Languages:** English, Hindi, Punjabi, Bihari and Haryanvi[^5]
-- **GDP (2016):** US$ 370 billion[^6]
-- **Major cities:** Delhi, Ghaziabad, Faridabad, Gurgaon (Gurugram), Noida & Meerut[^7]
-
+- **GSDP (2021-22):** US$123.9 billion (Delhi)[^6]
+- **Major cities:** Delhi, Gurgaon (Gurugram), Ghaziabad, Faridabad, Noida & Meerut[^7]
 
 
 ### **Introduction**
 
-The National Capital Region (NCR) of India is a unique example of inter-state regional planning and development, covering the entire National Capital Territory of Delhi, 13 districts of the State of Haryana, seven districts of the State of Uttar Pradesh and two districts of the State of Rajasthan, with New Delhi, the nation’s capital as its core.[^8] The NCR and the associated NCR Planning Board were created in 1985 to plan the development of the region and to enact harmonised policies for the control of land use and development of infrastructure in the region so as to avoid any haphazard development of the region.[^9] The NCR Planning Board’s Regional Plan 2021 aims to promote economic growth and develop the entire NCR as a region of global excellence.[^10]
+The National Capital Region (NCR) of India is one of the world’s largest urban agglomerations.[^8] It is a unique example of inter-state regional planning and development, covering the entire National Capital Territory of Delhi, the 13 districts of the State of Haryana, seven districts of the State of Uttar Pradesh and two districts of the State of Rajasthan, with the nation’s capital, New Delhi, as its core.[^9] The NCR and associated NCR Planning Board were created in 1985 to plan the development of the region as well as enact harmonised policies for the control of land use and development of infrastructure in the region, so as to avoid any haphazard development of the region.[^10] The NCR Planning Board’s Regional Plan 2021 aims to promote economic growth and develop the entire NCR as a region of global excellence.[^10]
 
 | **Sub-Region** | **District**                                                 | **Area (Sq Km)** | **Population (2011)** |
 | -------------- | ------------------------------------------------------------ | ---------------- | --------------------- |
-| Delhi          | National Capital District Delhi                              | 1,483            | 16,788,000            |
-| Haryana        | Faridabad, Gurgaon, Mewat, Rohtak, Sonepat, Rewari, Jhajjhar, Panipat, Palwal, Bhiwani, Mahendragarh, Jind & Karnal | 25,327           | 11,031,000            |
-| Uttar Pradesh  | Meerut, Ghaziabad, Gautam Budh Nagar, Bulandshahr, Baghpat, Hapur & Muzzafarnagar | 13,560           | 14,576,000            |
-| Rajasthan      | Alwar, Bharatpur                                             | 13,447           | 3,674,000             |
-|                | **Total**                                                    | **53,817**       | **46,069,000**        |
+| Delhi          | National Capital Territory (NCT) of Delhi                              | 1,483            | 16,790,000            |
+| Haryana        | Faridabad, Gurgaon (Gurugram), Nuh (erstwhile Mewat), Rohtak, Sonepat, Rewari, Jhajjhar, Panipat, Palwal, Bhiwani (including Charkhi Dadri), Mahendragarh, Jind & Karnal | 25,327           | 16,430,000            |
+| Uttar Pradesh  | Meerut, Ghaziabad, Gautam Budh Nagar, Bulandshahr, Baghpat, Hapur, Muzzafarnagar & Shamli | 14,826           | 18,710,000            |
+| Rajasthan      | Alwar, Bharatpur                                             | 13,447           | 6,220,000             |
+|                | **Total**                                                    | **55,083**       | **58,150,000**        |
+
+<font size="3">Source: Annual Report & Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from
+http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf</font>
 
 
+### **Economic profile**
 
-### **Economy profile**
-
-The National Capital Region has over the past decade, emerged as one of the foremost economic centres in India. It contributes significantly to India’s growth, accounting for about seven to eight percent of the total Gross Domestic Product (GDP).[^11] The Gross State Domestic Product (GSDP) growth of Delhi was 8.1 percent in 2017. That year, the services sector contributed 85 percent to the state economy. This was followed by manufacturing at 12 percent and agriculture at three percent.[^12]
+Over the past decade, the NCR has emerged as one of the foremost economic centres in India. It contributes significantly to India’s growth, accounting for about 7 to 8 percent of the total Gross Domestic Product (GDP).[^12] Delhi is one of the fastest growing states in the country with an estimated Gross State Domestic Product (GSDP) of US$ 123.90 billion in 2021-22. The state’s GSDP increased at a CAGR of 8.89 percent between 2015-16 and 2021-22.[^13]
 
 The government of Delhi is committed towards creating a progressive business environment. As per the new Industrial Policy for Delhi 2010-21, the government is keen on developing and promoting the high-tech, sophisticated, knowledge-based IT and ITeS industries in the state. The government has planned to set up a “Centre of Excellence” to promote innovation and entrepreneurship in the sectors to achieve this aim.[^13]
 
@@ -92,6 +90,3 @@ In August 2016, Temasek Holdings-backed Ascendas-Singbridge, one of the leading 
 [^21]: Gurgaon. (2017). Tourist Places in India. Retrieved April 23, 2018, from [http://www.touristplacesinindia.com](http://www.touristplacesinindia.com/gurgaon/){:target="_blank"}
 [^22]: Yap, S. (2016, August 30). Singapore: Ascendas-Singbridge unveils International Tech Park Gurgaon. Deal street ASIA. Retrieved April 23, 2018, from [https://www.dealstreetasia.com](https://www.dealstreetasia.com/stories/singaporeascendas-singbridge-51976/){:target="_blank"}
 [^23]: Yap, S. (2016, August 30). Singapore: Ascendas-Singbridge unveils International Tech Park Gurgaon. Deal street ASIA. Retrieved April 23, 2018, from [https://www.dealstreetasia.com](https://www.dealstreetasia.com/stories/singaporeascendas-singbridge-51976/){:target="_blank"}
-
-
-
