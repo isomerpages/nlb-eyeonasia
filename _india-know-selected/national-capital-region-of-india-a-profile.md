@@ -97,14 +97,11 @@ In August 2016, Temasek Holdings-backed Ascendas-Singbridge, one of the leading 
 
 [^15]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
 
-[^16]: Business and Economy of Gurugram. (2022). Gurugram Online. Retrieved May 24, 2022, from
-[https://www.gurugramonline.in/](https://www.gurugramonline.in/city-guide/business-and-economy-of-gurugram); About District. (2022). District Gurugram. Retrieved May 24, 2022, from [https://gurugram.gov.in/](https://gurugram.gov.in/about-district/)
-
+[^16]: Business and Economy of Gurugram. (2022). Gurugram Online. Retrieved May 24, 2022, from [https://www.gurugramonline.in/](https://www.gurugramonline.in/city-guide/business-and-economy-of-gurugram); About District. (2022). District Gurugram. Retrieved May 24, 2022, from [https://gurugram.gov.in/](https://gurugram.gov.in/about-district/)
 
 [^17]: Gurgaon. (2019). Maps of India. Retrieved May 24, 2022, from [https://www.mapsofindia.com](https://www.mapsofindia.com/gurgaon/)
 
-[^18]: About Ghaziabad. (2022). Ghaziabad Online. Retrieved May 24, 2022, from
-[https://www.ghaziabadonline.in/](https://www.ghaziabadonline.in/city-guide/about-ghaziabad)
+[^18]: About Ghaziabad. (2022). Ghaziabad Online. Retrieved May 24, 2022, from [https://www.ghaziabadonline.in/](https://www.ghaziabadonline.in/city-guide/about-ghaziabad)
 
 [^19]: Business and Economy in Noida. (2022). Noida Online. Retrieved May 24, 2022, from [https://www.noidaonline.in/](https://www.noidaonline.in/city-guide/business-in-noida)
 
@@ -118,8 +115,6 @@ In August 2016, Temasek Holdings-backed Ascendas-Singbridge, one of the leading 
 
 [^24]: Gurgaon. (2022). Tourist Places in India. Retrieved May 24, 2022, from [http://www.touristplacesinindia.com](http://www.touristplacesinindia.com/gurgaon/)
 
-[^25]: Ascendas-Singbridge unveils International Tech Park Gurgaon. (2016, August 27). Capitaland. Retrieved May 24, 2022, from
-[https://investor.capitaland.com/](https://investor.capitaland.com/newsroom/asb-unveils-international-tech-park-gurgaon.pdf)
+[^25]: Ascendas-Singbridge unveils International Tech Park Gurgaon. (2016, August 27). Capitaland. Retrieved May 24, 2022, from [https://investor.capitaland.com/](https://investor.capitaland.com/newsroom/asb-unveils-international-tech-park-gurgaon.pdf)
 
-[^26]: Ascendas-Singbridge unveils International Tech Park Gurgaon. (2016, August 27). Capitaland. Retrieved May 24, 2022, from
-[https://investor.capitaland.com/](https://investor.capitaland.com/newsroom/asb-unveils-international-tech-park-gurgaon.pdf)
+[^26]: Ascendas-Singbridge unveils International Tech Park Gurgaon. (2016, August 27). Capitaland. Retrieved May 24, 2022, from [https://investor.capitaland.com/](https://investor.capitaland.com/newsroom/asb-unveils-international-tech-park-gurgaon.pdf)
