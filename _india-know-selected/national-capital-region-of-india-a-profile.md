@@ -38,55 +38,88 @@ http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf</font>
 
 Over the past decade, the NCR has emerged as one of the foremost economic centres in India. It contributes significantly to India’s growth, accounting for about 7 to 8 percent of the total Gross Domestic Product (GDP).[^12] Delhi is one of the fastest growing states in the country with an estimated Gross State Domestic Product (GSDP) of US$ 123.90 billion in 2021-22. The state’s GSDP increased at a CAGR of 8.89 percent between 2015-16 and 2021-22.[^13]
 
-The government of Delhi is committed towards creating a progressive business environment. As per the new Industrial Policy for Delhi 2010-21, the government is keen on developing and promoting the high-tech, sophisticated, knowledge-based IT and ITeS industries in the state. The government has planned to set up a “Centre of Excellence” to promote innovation and entrepreneurship in the sectors to achieve this aim.[^13]
+The government of Delhi is committed to creating a progressive business environment. As per the new Industrial Policy for Delhi 2010-21, the government is keen on developing and promoting the high-tech, and knowledge-based IT and ITeS (information technology enabled services) industries in the state.[^14]
 
-According to the Department of Industrial Policy & Promotion (DIPP), FDI inflows in Delhi, including part of Uttar Pradesh and Haryana, stood at US$ 74.150 billion from April 2000 to September 2017. The state government allocated a plan outlay of US$ 340.5 million for the development of the energy sector in the state and US$ 483.1 million was allocated to housing and urban development in 2017-18.[^14]
+According to the Department for Promotion of Industry and Internal Trade (DPIIT), inflows of direct foreign investment to Delhi amounted to US$ 108.27 billion between April 2000 and December 2021. In 2021, seven Industrial Entrepreneur Memorandums (IEMs) with proposed investments worth US$ 120.66 million were filed in Delhi.[^15]
 
-Located in the northern part of the Haryana State, Gurgaon (Gurugram) is a major city in the NCR. The city is popularly known as “Cyber City” and “Millennium City” as a number of IT companies are located there. In the past few years, the city has witnessed a substantial growth in the economy with the rise of information technology, ITeS, pharmaceuticals and automobile industries. Many multi-national companies have their branches in Gurgaon considering it a best place to operate business.[^15] Gurgaon is home to many global giants such as Microsoft, Oracle, American Express, IBM, Price Waterhouse Coopers, McKinsey and Company, Google, Dell, Ericsson and Motorola. It is also the manufacturing base of the Maruti Suzuki and Hero Honda groups.[^16]
+Located in the northern part of the Haryana State, Gurgaon (Gurugram) is a major city in the NCR. The city is popularly known as “Cyber City” and “Millennium City” as a number of IT companies are located there. In the past few years, the city has witnessed substantial growth in the economy with the rise of information technology, ITeS, pharmaceuticals and automobile industries. Many multinational companies have their branches in Gurgaon as it is considered an ideal place to operate businesses.[^16] Gurgaon is home to corporate giants such as Microsoft, Oracle, American Express, IBM, Price Waterhouse Coopers, McKinsey and Company, Google, Dell, Ericsson and Motorola. It is also the manufacturing base of the Maruti Suzuki and Hero Honda groups.[^17]
 
-Ghaziabad’s economic growth is attributed to its many industries, especially the steel sector. More than 500 steel organisations in Ghaziabad employ about 25,000 people. The manufacturing sector makes up 53 percent of non-agricultural jobs in Ghaziabad. The manufacturing industry is credited with an income that is eight times the income of other industries put together.[^17]
+Another major city in the NCR is Ghaziabad, located in the state of Uttar Pradesh. Primarily known as a manufacturing city, Ghaziabad has seen major growth in its business and economy due to the development of infrastructure and educational facilities, as well industrial sectors such as IT, ITeS, oil, gas, textile and heavy machinery.[^18]
 
- 
+Noida, a satellite city of Delhi is another major city in the NCR. Located in the state of Uttar Pradesh, Noida is an important centre for trade and commerce. Over the past few decades, the city has seen phenomenal growth in its industry, infrastructure and overall economy. It is considered the education and software hub of northern India with reputed educational institutions and universities offering world-class education and a large number of MNCs making Noida their base. It is one of the largest IT and outsourcing hubs of the country. The close proximity to the national capital and great connectivity via both road and metro has made Noida a preferred business location.[^19]
 
 ### **Tourism**
 
-Delhi, once the seat of empires, has a rich and diverse culture. The city is home to magnificent monuments, museums and art galleries that contribute to a thriving cultural scene, and the many eateries and bustling markets provide a wholesome tourist experience.[^18] Besides the usual tourist attractions like the India Gate, Rashtrapati Bhavan and Parliament House, that are stunning examples of British architecture, museums, temples and memorials provide a fascinating insight into the culture of Delhi.[^19]
+Delhi has a rich and diverse culture. The city is home to magnificent monuments, museums and art galleries that contribute to a thriving cultural scene, which, when coupled with its many eateries and bustling markets, provide a wholesome tourist experience.  Besides the usual attractions such as the India Gate, Rashtrapati Bhavan and Parliament House – which are stunning examples of British architecture – museums, temples and memorials provide a fascinating insight into the culture of Delhi.[^21]
 
-Temples in Delhi are known not only for their religious significance, but also for their experimental designs that challenge conventional architectural standards. For example, the Lotus Temple built by followers of the Bahai faith, is in the shape of a blooming lotus and draws thousands of tourists each day.
+Temples in Delhi are known not only for their religious significance, but also for their experimental designs that challenge conventional architecture. For example, the Lotus Temple built by followers of the Bahai faith, is in the shape of a blooming lotus and draws thousands of tourists each day.[^22]
 
-New Delhi is home to memorials of famous freedom fighters and national leaders. The Raj Ghat, Shanti Van and Shakti Sthal are the resting places of Mahatma Gandhi, Jawaharlal Nehru and Indira Gandhi respectively. Others include the Teen Murti Bhavan (Nehru Memorial Museum), Gandhi Smriti and Indira Gandhi Memorial.[^20]
+New Delhi is also home to memorials of famous freedom fighters and national leaders. The Raj Ghat, Shanti Van and Shakti Sthal are the resting places of Mahatma Gandhi, Jawaharlal Nehru and Indira Gandhi respectively. Others include the Teen Murti Bhavan (Nehru Memorial Museum), Gandhi Smriti and Indira Gandhi Memorial.[^23]
 
-Tourist attractions in Gurgaon include the Sultanpur Bird Sanctuary, an ideal place for ardent bird watchers and bird lovers. Home to over 100 species of birds, the sanctuary is also home to hideouts, watch towers and a museum. The Sheetala Devi Temple in Gurgaon is visited by a large number of pilgrims of all religions and faiths. The Damdama Lake, south of Gurgaon, offers picnic spots, boating and rides on hot air balloons.[^21]
+Tourist attractions in Gurgaon include the Sultanpur Bird Sanctuary, an ideal place for ardent bird watchers and bird lovers. Home to over 100 species of birds, the sanctuary also houses hideouts, watch towers and a museum. Popular with pilgrims of all religions and faiths is the Sheetala Devi Temple in Gurgaon. The Damdama Lake, south of Gurgaon, offers picnic spots, boating and hot air balloon rides.[^24]
 
  
 
 ### **Singapore and NCR**
 
-In August 2016, Temasek Holdings-backed Ascendas-Singbridge, one of the leading sustainable urban and business space solutions provider, announced the opening of International Tech Park Gurgaon (ITPG), an integrated IT park within the upcoming business district in the NCR. The 60-acre ITPG will provide eight million square feet of international standard business space when fully developed, complete with social amenities that can cater to an estimated 60,000 professionals. Besides a unique environment-friendly infrastructure, the park will also offer spacious food courts and conveniences such as banking, transport and covered parking spaces.[^22] Mr Tan Soon Kim, Assistant CEO of IE Singapore, said: “India’s demand for infrastructure development presents immense business opportunities in urban and infrastructure solutions for Singapore companies. Ascendas-Singbridge’s ITPG represents a significant entry into North India by a Singapore company and acts as a good platform for Singapore SMEs to access opportunities in Haryana and its surrounding regions.”[^23]
+In August 2016, Temasek Holdings-backed Ascendas-Singbridge, one of the leading sustainable urban and business space solutions providers, announced the opening of International Tech Park Gurgaon (ITPG), an integrated IT park within the upcoming business district in the NCR. The 60-acre ITPG will provide eight million square feet of international standard business space when fully developed, complete with social amenities that can cater to an estimated 60,000 professionals. Besides a unique environment-friendly infrastructure, the park will also offer spacious food courts and conveniences such as banking, transport and covered parking spaces.[^25] Mr Tan Soon Kim, assistant CEO of IE Singapore, said, “India’s demand for infrastructure development presents immense business opportunities in urban and infrastructure solutions for Singapore companies. Ascendas-Singbridge’s ITPG represents a significant entry into North India by a Singapore company and acts as a good platform for Singapore SMEs to access opportunities in Haryana and its surrounding regions.”[^26]
 
 ---
 ### **References**
 
-[^1]: NCR Constituent Areas. (2017). National Capital Region Planning Board. Retrieved April 23, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/ncrconstituent.html){:target="_blank"}
-[^2]: Annual Report 2016 – 2017. (2017). National Capital Region Planning Board. Retrieved April 23, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/pdf_files/Annual%20Report%202016-17.pdf){:target="_blank"}
-[^3]: History. (2017). National Capital Region Planning Board. Retrieved April 23, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/history.html){:target="_blank"}
-[^4]: Board Members of NCR Planning Board. (2017). National Capital Region Planning Board. Retrieved April 23, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/members.html){:target="_blank"}
-[^5]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2018, March). India Brand Equity Foundation. Retrieved April 23, 2018, from [https://www.ibef.org](https://www.ibef.org/states/delhi.aspx){:target="_blank"}
-[^6]: With GDP of $370 billion, Delhi-NCR muscles out Mumbai as economic capital of India. (2016, November 29). Financial Express. Retrieved April 23, 2018, from [https://www.financialexpress.com](https://www.financialexpress.com/opinion/with-gdp-of-370-billion-delhi-ncr-muscles-out-mumbai-as-economic-capital-of-india/458742/){:target="_blank"}
-[^7]: Annual Report 2016 – 2017. (2017). National Capital Region Planning Board. Retrieved April 23, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/pdf_files/Annual%20Report%202016-17.pdf){:target="_blank"}
-[^8]: Policies & Strategies. (2017). National Capital Region Planning Board. Retrieved April 23, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html){:target="_blank"}
-[^9]: The Gazette of India, National Capital Region Planning Board Act of 1985. (1985, February 11). Ministry of Law and Justice, India. Retrieved May 2, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/pdf_files/ncrpb_act_1985.pdf){:target="_blank"}; Policies & Strategies. (2017). National Capital Region Planning Board. Retrieved April 23, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html){:target="_blank"}
-[^10]: Policies & Strategies. (2017). National Capital Region Planning Board. Retrieved April 23, 2018, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html){:target="_blank"}
-[^11]: Urbanisation in the National Capital Region: Overcoming challenges to improve live-ability. (2017, March). KPMG. Retrieved April 23, 2018, from [https://assets.kpmg.com(https://assets.kpmg.com/content/dam/kpmg/in/pdf/2017/03/Urbanisation-in-the-National-Capital-Region.pdf){:target="_blank"}
-[^12]: Delhi Budget Analysis 2018-19. (2018, March). PRS Legislative Research. Retrieved April 23, 2018, from [http://www.prsindia.org](http://www.prsindia.org/uploads/media/State%20Budget%202018-19/Delhi%20Budget%20Analysis%202018-19.pdf){:target="_blank"}
-[^13]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2018, March). India Brand Equity Foundation. Retrieved April 23, 2018, from [https://www.ibef.org](https://www.ibef.org/states/delhi.aspx){:target="_blank"}
-[^14]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2018, March). India Brand Equity Foundation. Retrieved April 23, 2018, from [https://www.ibef.org](https://www.ibef.org/states/delhi.aspx){:target="_blank"}
-[^15]: Gurgaon. (2013). Delhi Capital. Retrieved April 23, 2018, from [http://www.delhicapital.com](http://www.delhicapital.com/delhi-locations/gurgaon.html){:target="_blank"}
-[^16]: Gurgaon. (2017). Maps of India. Retrieved April 23, 2018, from [https://www.mapsofindia.com](https://www.mapsofindia.com/gurgaon/){:target="_blank"}
-[^17]: The Ghaziabad economy. (2018). Maps of India. Retrieved April 23, 2018, from [https://www.mapsofindia.com](https://www.mapsofindia.com/ghaziabad/economy/){:target="_blank"}
-[^18]: Delhi NCR Tourism. (2018). India.Com. Retrieved April 23, 2018, from [http://www.india.com](http://www.india.com/travel/delhi-ncr/){:target="_blank"}
-[^19]: Delhi Today. (2018). Delhi Tourism. Retrieved April 23, 2018, from [http://www.delhitourism.gov.in](http://www.delhitourism.gov.in/delhitourism/aboutus/delhi_today.jsp){:target="_blank"}
-[^20]: Delhi Today. (2018). Delhi Tourism. Retrieved April 23, 2018, from [http://www.delhitourism.gov.in](http://www.delhitourism.gov.in/delhitourism/aboutus/delhi_today.jsp){:target="_blank"}
-[^21]: Gurgaon. (2017). Tourist Places in India. Retrieved April 23, 2018, from [http://www.touristplacesinindia.com](http://www.touristplacesinindia.com/gurgaon/){:target="_blank"}
-[^22]: Yap, S. (2016, August 30). Singapore: Ascendas-Singbridge unveils International Tech Park Gurgaon. Deal street ASIA. Retrieved April 23, 2018, from [https://www.dealstreetasia.com](https://www.dealstreetasia.com/stories/singaporeascendas-singbridge-51976/){:target="_blank"}
-[^23]: Yap, S. (2016, August 30). Singapore: Ascendas-Singbridge unveils International Tech Park Gurgaon. Deal street ASIA. Retrieved April 23, 2018, from [https://www.dealstreetasia.com](https://www.dealstreetasia.com/stories/singaporeascendas-singbridge-51976/){:target="_blank"}
+[^1]: Annual Report & Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in/](http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf)
+
+[^2]: Annual Report & Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in/](http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf)
+
+[^3]: History. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/history.html)
+
+[^4]: Board Members of NCR Planning Board. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/members.html)
+
+[^5]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+
+[^6]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+
+[^7]: Annual Report 2019 – 2020. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf)
+
+[^8]: Urbanisation in the National Capital Region: Overcoming challenges to improve live-ability. (2017, March). KPMG. Retrieved May 24, 2022, from [https://assets.kpmg.com/](https://assets.kpmg.com/content/dam/kpmg/in/pdf/2017/03/Urbanisation-in-the-National-Capital-Region.pdf)
+
+[^9]: Policies & Strategies. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html)
+
+[^10]: The Gazette of India, National Capital Region Planning Board Act of 1985. (1985, February 11). Ministry of Law and Justice, India. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/pdf_files/ncrpb_act_1985.pdf); Policies & Strategies. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html)
+
+[^11]: Salient features of the Regional Plan-2021 for NCR, notified in 2005. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [https://ncrpb.nic.in/](https://ncrpb.nic.in/pdf_files/Salient%20Features_RP-2021.pdf)
+
+[^12]: Urbanisation in the National Capital Region: Overcoming challenges to improve live-ability. (2017, March). KPMG. Retrieved May 24, 2022, from [https://assets.kpmg.com](https://assets.kpmg.com/content/dam/kpmg/in/pdf/2017/03/Urbanisation-in-the-National-Capital-Region.pdf)
+
+[^13]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+
+[^14]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+
+[^15]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+
+[^16]: Business and Economy of Gurugram. (2022). Gurugram Online. Retrieved May 24, 2022, from
+[https://www.gurugramonline.in/](https://www.gurugramonline.in/city-guide/business-and-economy-of-gurugram); About District. (2022). District Gurugram. Retrieved May 24, 2022, from [https://gurugram.gov.in/](https://gurugram.gov.in/about-district/)
+
+
+[^17]: Gurgaon. (2019). Maps of India. Retrieved May 24, 2022, from [https://www.mapsofindia.com](https://www.mapsofindia.com/gurgaon/)
+
+[^18]: About Ghaziabad. (2022). Ghaziabad Online. Retrieved May 24, 2022, from
+[https://www.ghaziabadonline.in/](https://www.ghaziabadonline.in/city-guide/about-ghaziabad)
+
+[^19:] Business and Economy in Noida. (2022). Noida Online. Retrieved May 24, 2022, from [https://www.noidaonline.in/](https://www.noidaonline.in/city-guide/business-in-noida)
+
+[^20]: Delhi NCR Tourism. (2022). India.Com. Retrieved May 24, 2022, from [http://www.india.com](http://www.india.com/travel/delhi-ncr/)
+
+[^21]: Delhi Today. (2022). Delhi Tourism. Retrieved May 24, 2022, from [http://www.delhitourism.gov.in](http://www.delhitourism.gov.in/delhitourism/aboutus/delhi_today.jsp)
+
+[^22]: Delhi Today. (2018). Delhi Tourism. Retrieved May 24, 2022, from [http://www.delhitourism.gov.in](http://www.delhitourism.gov.in/delhitourism/aboutus/delhi_today.jsp)
+
+[^23]: Delhi Today. (2018). Delhi Tourism. Retrieved May 24, 2022, from [http://www.delhitourism.gov.in](http://www.delhitourism.gov.in/delhitourism/aboutus/delhi_today.jsp)
+
+[^24]: Gurgaon. (2022). Tourist Places in India. Retrieved May 24, 2022, from [http://www.touristplacesinindia.com](http://www.touristplacesinindia.com/gurgaon/)
+
+[^25]: Ascendas-Singbridge unveils International Tech Park Gurgaon. (2016, August 27). Capitaland. Retrieved May 24, 2022, from
+[https://investor.capitaland.com/](https://investor.capitaland.com/newsroom/asb-unveils-international-tech-park-gurgaon.pdf)
+
+[^26]: Ascendas-Singbridge unveils International Tech Park Gurgaon. (2016, August 27). Capitaland. Retrieved May 24, 2022, from
+[https://investor.capitaland.com/](https://investor.capitaland.com/newsroom/asb-unveils-international-tech-park-gurgaon.pdf)
