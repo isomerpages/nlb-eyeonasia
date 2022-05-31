@@ -50,7 +50,7 @@ Noida, a satellite city of Delhi is another major city in the NCR. Located in th
 
 ### **Tourism**
 
-Delhi has a rich and diverse culture. The city is home to magnificent monuments, museums and art galleries that contribute to a thriving cultural scene, which, when coupled with its many eateries and bustling markets, provide a wholesome tourist experience.  Besides the usual attractions such as the India Gate, Rashtrapati Bhavan and Parliament House – which are stunning examples of British architecture – museums, temples and memorials provide a fascinating insight into the culture of Delhi.[^21]
+Delhi has a rich and diverse culture. The city is home to magnificent monuments, museums and art galleries that contribute to a thriving cultural scene, which, when coupled with its many eateries and bustling markets, provide a wholesome tourist experience.[^20] Besides the usual attractions such as the India Gate, Rashtrapati Bhavan and Parliament House – which are stunning examples of British architecture – museums, temples and memorials provide a fascinating insight into the culture of Delhi.[^21]
 
 Temples in Delhi are known not only for their religious significance, but also for their experimental designs that challenge conventional architecture. For example, the Lotus Temple built by followers of the Bahai faith, is in the shape of a blooming lotus and draws thousands of tourists each day.[^22]
 
@@ -106,7 +106,7 @@ In August 2016, Temasek Holdings-backed Ascendas-Singbridge, one of the leading 
 [^18]: About Ghaziabad. (2022). Ghaziabad Online. Retrieved May 24, 2022, from
 [https://www.ghaziabadonline.in/](https://www.ghaziabadonline.in/city-guide/about-ghaziabad)
 
-[^19:] Business and Economy in Noida. (2022). Noida Online. Retrieved May 24, 2022, from [https://www.noidaonline.in/](https://www.noidaonline.in/city-guide/business-in-noida)
+[^19]: Business and Economy in Noida. (2022). Noida Online. Retrieved May 24, 2022, from [https://www.noidaonline.in/](https://www.noidaonline.in/city-guide/business-in-noida)
 
 [^20]: Delhi NCR Tourism. (2022). India.Com. Retrieved May 24, 2022, from [http://www.india.com](http://www.india.com/travel/delhi-ncr/)
 
