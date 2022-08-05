@@ -1,6 +1,6 @@
 ---
 title: Social Media Trends in Malaysia
-permalink: /events/upcoming-event/29-jun-2022/
+permalink: /events/past-events/29-jun-2022/
 description: ""
 ---
 ![29 June EDM](/images/past-events/29%20Jun%202022/EOA-Website-edm.jpg)
@@ -17,15 +17,12 @@ Join WeirdKaya’s Sarah Yeoh and Headline Media’s Chan Jin Wen as they share:
 
 - The role of social media in content marketing
 
-<!--
 ### **Watch the full programme:**
- 
- 
-<div>
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=58b2c1de-10bb-47ba-b239-ae5a005163c9&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-</div>
 
-  -->
+
+<div>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=81b4acbe-3212-469b-8a89-aed800644ac0&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+</div>
 
 
 **Wednesday, 29 June 2022**<br>
