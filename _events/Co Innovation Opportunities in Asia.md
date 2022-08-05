@@ -42,8 +42,7 @@ This programme is organised in collaboration with [**Transfong Ventures**](https
 **Richard Boggs** currently serves as CEO of JCS Biotech Pte Ltd. Hailing from California, he brings over 25 years of experience in Medtech, Medical and Consumer Devices, International Business and Business Development. Richard has led products and teams from inception to global distribution, serving in roles including Global Brand Manager and Vice President of Operations with start-up and growth organisations. He has detailed knowledge of concept-to-commercialisation and multi-channel product distribution.
 
 **Eric Kng**<br>
-**Head (Entrepreneurship & Careers)<br>
-**\*SCAPE**
+**Head (Entrepreneurship & Careers)**<br><b>*SCAPE</b>
 
 **Eric Kng** is the Head of Department (Entrepreneurship & Careers) at \*SCAPE. He is a connector for tech service providers and traditional businesses, with eight years of business development and overseas venturing experience in China and ASEAN. He has a deep-rooted understanding of poising startups following local government policies and investor expectations, and is versatile in helping growing businesses navigate local and foreign markets.
 

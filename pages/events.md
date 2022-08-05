@@ -18,7 +18,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a class="project-link" href="/events/upcoming-event/14-sep-2022/">
-				<img class="project-image" src="/images/past-events/14%20Sep%202022/EOA-Website-edm.jpg">
+				<img class="project-image" src="/images/past-events/14-Sep-2022/EOA-Website-edm.jpg">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Co-Innovation Opportunities in Asia</b></h5>
@@ -29,6 +29,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 	</div>
 </div>
+
 
 
 ### **Past Events**
