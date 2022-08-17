@@ -1,11 +1,8 @@
 ---
-title: 'Discovering Haryana'
+title: Discovering Haryana
 permalink: /india/know/selected-india-states/haryana-guide/
-breadcrumb: 'Discovering Haryana'
-
+breadcrumb: Discovering Haryana
 ---
-
-
 <img src="\images\india-selected\haryana-guide.jpg" alt="haryana guide" style="width:800px;" />
 
 This is a selection of resources on Haryana available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
@@ -14,62 +11,60 @@ This is a selection of resources on Haryana available from the [NLB catalogue](h
 
 <img src="/images/resources/Database 2.jpg" style="width:180px;" />
 
-[**Social sector development and economic growth in Haryana**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Haryana and Punjab among top achievers in “Ease of Doing Business” ranking**](https://eresources.nlb.gov.sg/Main/Resource/1111){:target="_blank"}
 
-This study explores the impact of social sector development on economic growth in Haryana. It finds that increased expenditure on social sector development has a strong
+Haryana, Punjab, Gujarat and Telangana are reported to be among the seven states in India categorised as "top achievers" in the ranking of states and Union Territories based on the implementation of the Business Reform Action Plan (BRAP) 2020. The BRAP 2020 covers business regulatory areas such as: Access to Information; Single Window System; Labour; Environment; Land Administration and Transfer of Land and Property; and Utility Permits. 
 
-and positive impact on the growth of Net State Domestic Product (NSDP) in Haryana. The study recommends the state’s government to focus on public investment in human capital i.e. expenditure on social sector development that will encourage to the growth of the economy.
-
-Retrieved from EBSCOHost Business Source Complete. (*myLibrary* ID is required to access this database)
+Retrieved from ProQuest Central. *myLibrary ID* is required to access this database. 
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;" />
 
-[**Performance of sugar industry in India with special reference to Haryana state**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Haryana is considered industrial powerhouse of India: Anil Vij addressing business leaders**](https://eresources.nlb.gov.sg/Main/Resource/1111){:target="_blank"}
 
-Sugar industry is one of the biggest agricultural based industry in India and plays an important role towards rural development. Haryana is one of the major sugarcane producing states, with 14 out of India’s 509 sugar mills located there. Find out more about the status of the sugar industry in Haryana.
+According to the Haryana Home and Health Minister, Anil Vij, Haryana is the “industrial powerhouse” of India with more than 250 Fortune companies being based there. Haryana is also ranked as the second-best state in the country in terms of ease of logistics and first amongst landlocked states in export preparedness, he said.
 
-Retrieved from EBSCOHost Business Source Complete. (*myLibrary* ID is required to access this database)
+Retrieved from ProQuest Central. *myLibrary ID* is required to access this database.
 
 <img src="/images/resources/Database 3.jpg" style="width:180px;" />
 
-[**A prospect of Sufi tourism circuits in Haryana**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
+[**Haryana Government committed to provide hassle-free business environment, says Chief Secretary**](https://eresources.nlb.gov.sg/Main/Resource/1111){:target="_blank"}
 
-As many towns and cities in Haryana were associated with the mystic Sufis in medieval India, there are numerous tombs and monuments dedicated to them. In 2008, Haryana’s Tourism Policy laid out plans to develop a Sufi tourism circuit in the state. Find out more about the potential of Haryana as a Sufi tourism destination and its potential challenges.
+To attract pharma sector investment, Haryana Chief Secretary Sanjeev Kaushal said the state government is providing various fiscal incentives through pharmaceutical policy, adding that the state is an ideal destination for new pharmaceutical businesses to flourish.
 
-Retrieved from EBSCOHost Business Source Complete. (*myLibrary* ID is required to access this database)
-
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
-
-[**A study of inter-district disparities in health infrastructure in Haryana, India**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P){:target="_blank"}
-
-Despite being one of the economically strong states in India, Haryana suffers from inter-district disparities in health infrastructure. Only a few of its 22 districts are endowed with better health facilities. This article takes a look at the availability of health infrastructure in terms of hospitals, health centres, number of beds in medical institutions, doctors and nurses in the districts of Haryana and examines the disparities in the overall performance of each district in health infrastructure through deprivation and development indices. It also highlights the districts that are in need of a plan of action from the government.
-
-Retrieved from ProQuest Central. (*myLibrary* ID is required to access this database)
+Retrieved from ProQuest Central. *myLibrary ID* is required to access this database.
 
 ---
 
 ### **You may also like**
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Haryana: The bread basket of India**](https://www.ibef.org/download/Haryana-February-2018.pdf){:target="_blank"}
+[**Haryana: The bread basket of India**](https://www.ibef.org/download/Haryana-June-2020.pdf){:target="_blank"}
 
-Gain insights into Haryana’s Vision 2030, its strong economic growth and profile, social, cultural and industrial infrastructures, physical infrastructure development and key industries and public-private partnership projects.
+This paper reports that Haryana is the second largest contributor of food grains to India’s central pool, with the state accounting for 7.28 percent of India’s agricultural exports in 2018-19. In the same period, the state exported major agricultural products worth US$ 1,366.95 million and reached US$ 807.78 million during April-December 2019.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Cyber security policy 2017**](http://www.haryana.gov.in/citizens/policies/Haryana%20state%20policy-2.pdf){:target="_blank"}
+[**Haryana Budget Analysis 2021-22**](https://prsindia.org/budgets/states/haryana-budget-analysis-2021-22){:target="_blank"}
 
-Cyberspace is vulnerable to a wide variety of incidents such as identity theft, phishing, social engineering and cyber terrorism. These incidents may cause complications of a magnitude that may threaten lives, economy and national security. This report presents the Haryana State Cyber Security Policy framework, which provides an overview of what it takes to effectively protect infocommunications technology (ICT) infrastructure, information, information systems and networks and also gives an insight into the government’s approach and strategy for protection of cyber space in the country.
+According to the latest Haryana Budget Analysis, the contribution of agriculture, manufacturing and services sectors in the economy was 19 percent, 30 percent and 51 percent, respectively.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Film industry in North India: Reaching new heights**](https://www2.deloitte.com/content/dam/Deloitte/in/Documents/technology-media-telecommunications/in-tmt-north-film-industry-web-noexp.pdf){:target="_blank"}
+[**Snapshot: The largest producer of passenger vehicles and motorcycles in India**](https://www.investindia.gov.in/state/haryana){:target="_blank"}
 
-The North Indian film industry comprises films produced in Punjab, Haryana and Himachal Pradesh. It is currently small, but growing with favourable future prospects. Find out more about the current state of the North Indian film industry and how supporting industries, such as the music industry and the skill development industry, play a critical role in development of the film industry. The report also takes a look at the regulatory framework that is impacting the industry and elucidates initiatives to create a more nurturing environment for the industry.
+This article reports that Haryana is one of India’s largest automobile hubs and has also emerged as a base for the knowledge the manufacturing industry. Haryana is ranked second in the LEADS Index and fifth in the Export Preparedness Index, 2021.  
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Investment environment and opportunities in food processing: Haryana**](http://foodprocessingindia.co.in/state-profile-pdf/haryana.pdf){:target="_blank"}
+[**Haryana’s big push to attract investment, create jobs**](https://indianexpress.com/article/explained/explained-haryanas-big-push-to-attract-investment-create-jobs-7999237/){:target="_blank"}
 
-Haryana’s agricultural and manufacturing industry has experienced sustained growth since 1970s. It is the leading contributor of India’s milk production and food grains. Find out more about the strength of Haryana’s food processing industry, the industrial areas and food parks that are available for investors, investment opportunities, and the state government initiatives and incentives for the food processing sector.
+The Haryana government announced three major policies in June 2022 aimed at attracting investments and creating more jobs, while being focused on the ease of doing business. The three policies are: Haryana Electric Vehicle (EV) Policy 2022, State Startup Policy 2022, and Data Centre Policy 2022.
+
+<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+
+[**Top 10 Best Tourist Places to Visit in Haryana**](https://www.youtube.com/watch?v=_6Xn688demA)
+
+Haryana is described as a “jewel in India’s crown” in terms of its rich tourist sites. The Shivalik Hills in the northeast and Aravalli range towards the south of Haryana are major attractions for nature lovers. Haryana also has a number of historic sites that date back to the ancient civilisations of the Vedic era. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_6Xn688demA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

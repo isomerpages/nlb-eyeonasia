@@ -17,11 +17,11 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a class="project-link" href="/events/upcoming-event/29-jun-2022/">
-				<img class="project-image" src="/images/past-events/29%20Jun%202022/EOA-Website-edm.jpg">
+			<a class="project-link" href="/events/upcoming-event/14-sep-2022/">
+				<img class="project-image" src="/images/past-events/14-Sep-2022/EOA-Website-edm.jpg">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Social Media Trends in Malaysia</b></h5>
+					<h5><b>Co-Innovation Opportunities in Asia</b></h5>
 				</div>
 			</div>
 			</a>
@@ -29,6 +29,8 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 		<br>
 	</div>
 </div>
+
+
 
 ### **Past Events**
 
@@ -39,8 +41,19 @@ You can also watch them from our Eye on Asia folder at the [National Library's V
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<a class="project-link" href="/events/past-events/29-jun-2022/">
+				<img class="project-image" src="/images/past-events/29%20Jun%202022/EOA-Website-edm.jpg">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Social Media Trends in Malaysia</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<br>
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a class="project-link" href="/events/past-events/09-mar-2022/">
-				<img class="project-image" src="/images/past-events/09%20Mar%202022/Speaker photos.png">
+				<img class="project-image" src="/images/past-events/09%20Mar%202022/EOA-Website-edm.jpg">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>China’s Finance Industry (And Its Impact on Asia)</b></h5>
@@ -48,9 +61,9 @@ You can also watch them from our Eye on Asia folder at the [National Library's V
 			</div>
 			</a>
 		</div>
-		<br>
-	</div>
+    </div>
 </div>
+
 
 <br>
 
@@ -79,6 +92,7 @@ You can also watch them from our Eye on Asia folder at the [National Library's V
 		</div>
 	</div>
 </div>
+
 
 <br>
 
