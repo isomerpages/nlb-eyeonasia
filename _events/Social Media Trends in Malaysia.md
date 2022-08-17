@@ -29,9 +29,8 @@ Join WeirdKaya’s Sarah Yeoh and Headline Media’s Chan Jin Wen as they share:
 **6.00 pm – 7.30 pm (Singapore Time)**
 
 **Conducted via Zoom (online)**<br>
-**Register [here](https://www.eventbrite.sg/e/eye-on-asia-social-media-trends-in-malaysia-tickets-334326247807)**
 
-This programme is organised in collaboration with [**Headline Media**](https://headlinemedia.my/).
+This programme was organised in collaboration with [**Headline Media**](https://headlinemedia.my/).
 
 ### **About the Speakers**
 
