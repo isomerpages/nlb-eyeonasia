@@ -1,6 +1,6 @@
 ---
 title: Co Innovation Opportunities in Asia
-permalink: /events/upcoming-event/14-sep-2022/
+permalink: /events/past-events/14-sep-2022/
 description: ""
 ---
 ![14 Sept EDM](/images/past-events/14-sep-2022/EOA-Website-edm.jpg)
@@ -10,20 +10,18 @@ Technology and globalisation has facilitated collaborations across borders to ta
 Our speakers will provide their insights and thoughts from their experiences in venture building, R&D, product development and much more. Learn about co-innovation in Singapore, China, Thailand and Vietnam from our experts in this panel discussion.
 
 
-<!--
 ### **Watch the full programme:**
 
 
 <div>
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=81b4acbe-3212-469b-8a89-aed800644ac0&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=6bbe9c01-4a70-4a30-b7b5-af1d0051a24b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 </div>
--->
+
 
 **Wednesday, 14 Sept 2022**<br>
 **6.00 pm – 7.30 pm (Singapore Time)**
 
 **Conducted via Zoom (online)**<br>
-**Register [here](https://www.eventbrite.sg/e/eye-on-asia-co-innovation-opportunities-in-asia-tickets-383914016157)**
 
 This programme is organised in collaboration with [**Transfong Ventures**](https://www.transfong.com/), with support from the [**Asian Children Skincare Innovation Center**](https://www.acsic-asia.org/) (ACSIC).
 
@@ -44,8 +42,6 @@ This programme is organised in collaboration with [**Transfong Ventures**](https
 **Eric Kng**<br>
 **Head (Entrepreneurship & Careers)**<br><b>*SCAPE</b>
 
-**Eric Kng** is the Head of Department (Entrepreneurship & Careers) at \*SCAPE. He is a connector for tech service providers and traditional businesses, with eight years of business development and overseas venturing experience in China and ASEAN. He has a deep-rooted understanding of poising startups following local government policies and investor expectations, and is versatile in helping growing businesses navigate local and foreign markets.
+**Eric Kng** was previously the Head of Department (Entrepreneurship & Careers) at \*SCAPE. He is a connector for tech service providers and traditional businesses, with eight years of business development and overseas venturing experience in China and ASEAN. He has a deep-rooted understanding of poising startups following local government policies and investor expectations, and is versatile in helping growing businesses navigate local and foreign markets.
 
-<!--
-![EOA Programme 29 June 2022](/images/past-events/29%20Jun%202022/EOA%20DBB.jpg)
--->
+![EOA Programme 14 Sept 2022](/images/past-events/14-sep-2022/EOA%20Web%20Banner.jpg)

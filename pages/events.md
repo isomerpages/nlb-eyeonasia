@@ -12,12 +12,36 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<!--
 ### **Upcoming Event**
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a class="project-link" href="/events/upcoming-event/14-sep-2022/">
+			<a class="project-link" href="/events/past-events/14-sep-2022/">
+				<img class="project-image" src="/images/past-events/14-Sep-2022/EOA-Website-edm.jpg">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Co-Innovation Opportunities in Asia</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<br>
+	</div>
+</div>
+-->
+
+
+### **Past Events**
+
+If you missed out on our past events, find out more about them here. Most sessions are recorded and included here for your convenience.
+
+You can also watch them from our Eye on Asia folder at the [National Library's Video Learning Portal](https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2284661ec0-afab-4a1f-b854-adf2008a85ef%22&view=2).
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a class="project-link" href="/events/past-events/14-sep-2022/">
 				<img class="project-image" src="/images/past-events/14-Sep-2022/EOA-Website-edm.jpg">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -30,13 +54,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 	</div>
 </div>
 
-
-
-### **Past Events**
-
-If you missed out on our past events, find out more about them here. Most sessions are recorded and included here for your convenience.
-
-You can also watch them from our Eye on Asia folder at the [National Library's Video Learning Portal](https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2284661ec0-afab-4a1f-b854-adf2008a85ef%22&view=2).
+<br>
 
 <div>
 	<div class="row is-multiline">
@@ -63,7 +81,6 @@ You can also watch them from our Eye on Asia folder at the [National Library's V
 		</div>
     </div>
 </div>
-
 
 <br>
 
