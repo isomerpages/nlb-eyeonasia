@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Growing Singapore Talents for Global Leadership.md
       - Co Innovation Opportunities in Asia.md
       - Social Media Trends in Malaysia.md
       - China’s Finance Industry (And Its Impact on Asia).md
