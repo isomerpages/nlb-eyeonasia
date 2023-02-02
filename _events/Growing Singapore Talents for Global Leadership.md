@@ -21,7 +21,9 @@ As more growth opportunities arise in Asia and the ASEAN region, Singapore is we
 
 **Venue: NLB Building, Level 5, Possibility Room**<br>
 
-This programme is organised in collaboration with the [**Singapore Business Federation**](https://www.sbf.org.sg/), the apex business chamber championing the interests of the Singapore business community in the areas of trade, investment and industrial relations..
+Click [**here**](https://www.eventbrite.sg/e/eye-on-asia-growing-singapore-talents-for-global-leadership-tickets-500517590587) to register.
+
+This programme is organised in collaboration with the [**Singapore Business Federation**](https://www.sbf.org.sg/), the apex business chamber championing the interests of the Singapore business community in the areas of trade, investment and industrial relations.
 
 ### **About the Speakers**
 
