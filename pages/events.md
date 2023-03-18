@@ -13,6 +13,7 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<!--
 ### **Upcoming Event**
 <div>
 	<div class="row is-multiline">
@@ -26,10 +27,9 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 			</div>
 			</a>
 		</div>
-		<br>
 	</div>
 </div>	
-
+-->
 
 ### **Past Events**
 
@@ -40,6 +40,17 @@ You can also watch them from our Eye on Asia folder at the [National Library's V
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
+			<a class="project-link" href="/events/past-events/15-feb-2023/">
+				<img class="project-image" src="/images/past-events/15-Feb-2023/eoa-edm.jpg">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Growing Singapore Talents for Global Leadership</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<br>
+<div class="col is-half-tablet padding--bottom--lg">
 			<a class="project-link" href="/events/past-events/14-sep-2022/">
 				<img class="project-image" src="/images/past-events/14-Sep-2022/EOA-Website-edm.jpg">
 			<div class="project-card">
@@ -49,7 +60,6 @@ You can also watch them from our Eye on Asia folder at the [National Library's V
 			</div>
 			</a>
 		</div>
-		<br>
 	</div>
 </div>
 
