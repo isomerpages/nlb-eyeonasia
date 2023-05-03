@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Eye on Asia
+title: National Library Board
 permalink: /
 description: Eye on Asia is a collaborative effort by the National Library,
   Singapore with partners such as Enterprise Singapore, Business China Singapore
@@ -48,4 +48,5 @@ sections:
       image: /images/eoa-home-image-2.webp
       alt: YouTube playlist
       button: WATCH OUR PAST TALKS
+image: /images/isomer-logo.svg
 ---
