@@ -1,6 +1,6 @@
 ---
 title: 'Working in the Philippines'
-permalink: /asean-countries/know/working-in-asean-countries/working-in-Philippines/
+permalink: /asean-countries/know/working-in-asean-countries/working-in-philippines/
 breadcrumb: 'Working in the Philippines'
 
 ---

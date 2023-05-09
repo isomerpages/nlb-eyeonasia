@@ -1,6 +1,6 @@
 ---
 title: 'Training programmes'
-permalink: null
+permalink: null/
 breadcrumb: 'Training programmes'
 
 ---

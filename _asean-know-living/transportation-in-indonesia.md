@@ -1,6 +1,6 @@
 ---
 title: 'Transportation in Indonesia'
-permalink: /asean-countries/know/living-in-asean-countries/transportation-in-Indonesia/
+permalink: /asean-countries/know/living-in-asean-countries/transportation-in-indonesia/
 breadcrumb: 'Transportation in Indonesia'
 
 ---

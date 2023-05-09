@@ -1,6 +1,6 @@
 ---
 title: 'Fintech landscape in China'
-permalink: /china/share/what-young-people-say/fintech-landscape-in-china
+permalink: /china/share/what-young-people-say/fintech-landscape-in-china/
 breadcrumb: 'Fintech landscape in China'
 
 ---

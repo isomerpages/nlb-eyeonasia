@@ -1,6 +1,6 @@
 ---
 title: 'About Eye on Asia'
-permalink: /about/about-eye-on-asia
+permalink: /about/about-eye-on-asia/
 breadcrumb: 'About Eye on Asia'
 
 ---

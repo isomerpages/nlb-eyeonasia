@@ -1,6 +1,6 @@
 ---
 title: 'Transportation in Laos'
-permalink: /asean-countries/know/living-in-asean-countries/transportation-in-Laos/
+permalink: /asean-countries/know/living-in-asean-countries/transportation-in-laos/
 breadcrumb: 'Transportation in Laos'
 
 ---
