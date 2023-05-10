@@ -24,6 +24,8 @@ Don’t miss out on the chance to learn and explore the limitless opportunities 
 **7.00 pm – 8.30 pm (Singapore Time)**<br>
 **Possibility Room, Level 5, National Library Building**
 
+Register [**here**](https://go.gov.sg/16may2023)
+
 This programme is organised in collaboration with [**Business China**](https://businesschina.org.sg/).
 
 ### **About the Speakers**
