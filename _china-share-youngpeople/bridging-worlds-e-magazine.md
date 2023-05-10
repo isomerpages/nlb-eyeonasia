@@ -1,6 +1,6 @@
 ---
 title: 'Bridging Worlds e-Magazine'
-permalink: /china/share/what-young-people-say/bridging-worlds-e-magazine
+permalink: /china/share/what-young-people-say/bridging-worlds-e-magazine/
 breadcrumb: 'Bridging Worlds e-Magazine'
 ---
 

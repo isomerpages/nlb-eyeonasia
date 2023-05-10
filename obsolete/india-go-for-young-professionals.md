@@ -1,6 +1,6 @@
 ---
 title: 'For Young Professionals'
-permalink: null
+permalink: null/
 breadcrumb: 'For Young Professionals'
 third_nav_title: Go
 

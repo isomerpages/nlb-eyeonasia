@@ -1,6 +1,6 @@
 ---
 title: 'International exchange programmes'
-permalink: null
+permalink: null/
 breadcrumb: 'International exchange programmes'
 
 ---

@@ -48,4 +48,5 @@ sections:
       image: /images/eoa-home-image-2.webp
       alt: YouTube playlist
       button: WATCH OUR PAST TALKS
+image: /images/logo-eoa.png
 ---

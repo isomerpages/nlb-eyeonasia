@@ -1,6 +1,13 @@
-title: 'National Library Board'
-description: 'Eye on Asia is a collaborative effort by the National Library, Singapore with partners such as Enterprise Singapore, Business China Singapore to provide resources for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities abroad. Focusing on ASEAN countries, China and India including emerging cities, you will discover a broad overview of useful resources to help you be more aware of developments in these countries as Singapore gears itself for the future economy.'
-url: 'https://www.eyeonasia.gov.sg'
+title: Eye on Asia
+description: Eye on Asia is a collaborative effort by the National Library,
+  Singapore with partners such as Enterprise Singapore, Business China Singapore
+  to provide resources for everyone, including young Singaporeans who wish to
+  find out more about the region and explore internationalisation opportunities
+  abroad. Focusing on ASEAN countries, China and India including emerging
+  cities, you will discover a broad overview of useful resources to help you be
+  more aware of developments in these countries as Singapore gears itself for
+  the future economy.
+url: https://www.eyeonasia.gov.sg
 google_analytics: UA-50449401-26
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -21,7 +28,7 @@ exclude:
   - Gemfile.lock
 resources_name: events
 paginate: 12
-paginate_path: '/events/page:num'
+paginate_path: /events/page:num
 is_government: false
 favicon: /images/favicon-eoa.png
 permalink: none
@@ -31,25 +38,28 @@ defaults:
       path: ""
     values:
       layout: page
-
 colors:
-  primary-color: '#2D3436'
-  secondary-color: '#C20e11'
+  primary-color: "#2D3436"
+  secondary-color: "#C20e11"
   media-colors:
     - title: media-color-one
-      color: '#2d3436'
+      color: "#2d3436"
     - title: media-color-two
-      color: '#e21216'
+      color: "#e21216"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
-staging: https://nlb-eoa-staging.netlify.com
+      color: "#00838f"
+staging: https://staging.d2mt4f2flurqxu.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+shareicon: /images/logo-eoa.png
+facebook-pixel: ""
+google_analytics_ga4: G-F1L4XSKXTC
+linkedin-insights: ""

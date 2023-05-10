@@ -1,6 +1,6 @@
 ---
 title: 'From copycat to technology powerhouse'
-permalink: /china/share/what-young-people-say/from-copycat-to-technology-powerhouse
+permalink: /china/share/what-young-people-say/from-copycat-to-technology-powerhouse/
 breadcrumb: 'From copycat to technology powerhouse'
 
 ---

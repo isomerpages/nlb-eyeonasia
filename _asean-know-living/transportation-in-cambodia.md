@@ -1,6 +1,6 @@
 ---
 title: 'Transportation in Cambodia'
-permalink: /asean-countries/know/living-in-asean-countries/transportation-in-Cambodia/
+permalink: /asean-countries/know/living-in-asean-countries/transportation-in-cambodia/
 breadcrumb: 'Transportation in Cambodia'
 
 ---

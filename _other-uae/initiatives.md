@@ -1,6 +1,6 @@
 ---
 title: Initiatives
-permalink: /other-asian-countries/uae/initiatives
+permalink: /other-asian-countries/uae/initiatives/
 breadcrumb: Initiatives
 ---
 ![banner-asean-go-for-professionals](/images/asean-professionals/For-young-professionals-new.jpg)

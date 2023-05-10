@@ -1,6 +1,6 @@
 ---
 title: Belt and Road Initiative Revisited Boon or Bane for Southeast Asia
-permalink: /events/past-events/17-nov-2021
+permalink: /events/past-events/17-nov-2021/
 description: ""
 ---
 

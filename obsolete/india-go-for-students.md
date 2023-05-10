@@ -1,6 +1,6 @@
 ---
 title: 'For Students'
-permalink: null
+permalink: null/
 breadcrumb: 'For Students'
 third_nav_title: Go
 

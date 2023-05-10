@@ -1,6 +1,6 @@
 ---
 title: Emerging Stronger from the Aftershocks of the COVID-19 Pandemic
-permalink: /events/past-events/15-sept-2021
+permalink: /events/past-events/15-sept-2021/
 ---
 <img src="/images/past-events/15-sep-2021/EOA%20Eventbrite%20V2.jpg" style="width:800px;">
 
