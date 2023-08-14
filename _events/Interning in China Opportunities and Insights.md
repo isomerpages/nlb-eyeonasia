@@ -25,6 +25,7 @@ Don’t miss out on the chance to learn and explore the limitless opportunities 
 
 This programme was organised in collaboration with [**Business China**](https://businesschina.org.sg/).
 
+
 ### **About the Speakers**
 
 **Eugene Chua**<br>
