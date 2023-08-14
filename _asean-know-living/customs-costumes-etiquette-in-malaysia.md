@@ -58,12 +58,6 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook)
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Culture & Heritage – People**](http://www.malaysia.travel/en/es/about-malaysia/culture-n-heritage){:target="_blank"}
+[**About Malaysia**](https://www.malaysia.travel/about-malaysia){:target="_blank"}
 
-This official Malaysia tourism website provides an overview of the ethnic groups in Malaysia. These include the three main groups namely the Malays, Chinese and Indians, as well as the indigenous ethnic groups.
-
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
-
-[**Traditional attire**](http://www.malaysia.travel/en/es/about-malaysia/culture-n-heritage/traditional-attire){:target="_blank"}
-
-This official Malaysia tourism website provides an overview of the traditional attires of the different ethnic groups of Malaysia. Some examples include the Malay *baju kebaya*, Indian *saree* and Chinese *cheongsam*.
+This official Malaysia tourism website provides an overview of Malaysia's geography, climate, history, economy, culture, religion and national languages.

@@ -49,9 +49,9 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 ### **References**
 
-[^1]:Country. (2017). *Tourism Malaysia*. Retrieved October 10, 2018, from [http://www.malaysia.travel](http://www.malaysia.travel/en/my/about-malaysia/fast-facts/general){:target="_blank"}
+[^1]:Getting to Malaysia. (2023). *Malaysia Tourism Promotion Board*. Retrieved August 14, 2023, from [http://www.malaysia.travel](https://www.malaysia.travel/about-malaysia/getting-here){:target="_blank"}
 
-[^2]:About Malaysia. (2017). *Tourism Malaysia*. Retrieved October 10, 2018, from [http://www.malaysia.travel](http://www.malaysia.travel/en/my/about-malaysia){:target="_blank"}
+[^2]:About Malaysia. (2023). *Malaysia Tourism Promotion Board*. Retrieved August 14, 2023, from [http://www.malaysia.travel](https://www.malaysia.travel/about-malaysia){:target="_blank"}
 
 [^3]:Malaysia statistical handbook (p. 1). (2019, October). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/uploads/files/1_Articles_By_Themes/Others/MSHB/Buku_Maklumat_Perangkaan_Malaysia_2019.pdf){:target="_blank"}
 
@@ -91,11 +91,11 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 [^20]:About Malaysia. (2020). *Prince Court*. Retrieved November 18, 2020, from [https://princecourt.com](https://princecourt.com/info-about-malaysia/){:target="blank"}
 
-[^21]:The majestic Petronas Twin Towers. (n.d.). *Malaysia Truly Asia.* Retrieved November 18, 2020, from [http://www.malaysia.travel](https://www.malaysia.travel/peek-into-malaysia/wander-your-way/the-majestic-petronas-twin-towers){:target="_blank"}
+[^21]:The majestic Petronas Twin Towers. (n.d.). *Malaysia Truly Asia.* Retrieved November 18, 2020, from [http://www.malaysia.travel](https://www.malaysia.travel/explore/the-majestic-petronas-twin-towers){:target="_blank"}
 
-[^22]:Conquer the tallest peak of South East Asia. (n.d.). *Malaysia Truly Asia.* Retrieved November 18, 2020, from [http://www.malaysia.travel](https://www.malaysia.travel/peek-into-malaysia/wander-your-way/conquer-the-tallest-peak-of-south-east-asia){:target="_blank"}
+[^22]:Mount Kinabalu. (n.d.). *Malaysia Tourism Promotion Board*. Retrieved August 14, 2023, from [http://www.malaysia.travel](https://www.malaysia.travel/explore/mount-kinabalu){:target="_blank"}
 
-[^23]:20 reasons to visit Malaysia in 2020. (2020). *Malaysia Truly Asia.* Retrieved November 18, 2020, from [http://www.malaysia.travel](https://www.malaysia.travel/peek-into-malaysia/sketch-your-journey/20-reasons-to-visit-malaysia-in-2020){:target="_blank"}
+[^23]:20 Awesome and True Malaysian Breakfast. (2023). *Malaysia Tourism Promotion Board*. Retrieved August 14, 2023, [http://www.malaysia.travel](https://www.malaysia.travel/explore/20-awesome-and-true-malaysian-breakfast){:target="_blank"}
 
 [^24]: Tourism satellite account 2019. (2020, September 18). Department of Statistics Malaysia. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=111&bul_id=dEZ6N0dYUDJEWkVxMzdOalY3UUJSdz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="blank"} ; Malaysia tourism statistics in brief. (2020). *Tourism Malaysia.* Retrieved November 18, 2020, from [http://www.tourism.gov.my](http://www.tourism.gov.my/statistics){:target="blank"}
 

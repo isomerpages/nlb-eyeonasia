@@ -42,7 +42,7 @@ Retrieved from OverDrive. (*myLibrary*ID is required to access this database)
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;" />
 
-[**Bangkok Mass Transit System (BTS) Service Routes Map**](http://www.bts.co.th/customer/en/02-route-current_new.aspx){:target="_blank"}
+[**Bangkok Mass Transit System (BTS) Service Routes Map**](https://www.bts.co.th/eng/routemap.html){:target="_blank"}
 
 This interactive map shows the latest service routes for the BTS Skytrain in Bangkok, with information about fares and travel time available. The website also provides tips on exploring Bangkok using the BTS network.
 

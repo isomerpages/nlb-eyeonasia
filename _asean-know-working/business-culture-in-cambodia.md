@@ -42,6 +42,6 @@ Retrieved from NetLibrary (eBooks on EBSCOHost). (*myLibrary*ID is required to a
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Doing business in Cambodia**](https://www.rvo.nl/sites/default/files/2016/05/factsheet-doing-business-in-cambodia.pdf){:target="_blank"}
+[**Doing business in Cambodia**](https://www.rvo.nl/sites/default/files/2019/01/doing-business-in-cambodia.pdf){:target="_blank"}
 
 This report is a detailed case study on Cambodia’s economy as well as the dos and don’ts when conducting business in the country.

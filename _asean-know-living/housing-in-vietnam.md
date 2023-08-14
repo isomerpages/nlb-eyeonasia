@@ -41,7 +41,7 @@ Retrieved from OverDrive. (*myLibrary ID* is required to access this database.)
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Living in Vietnam**](https://www.internations.org/vietnam-expats/guide/living-in-vietnam-15470){:target="_blank"}
+[**Living in Vietnam**](https://www.internations.org/vietnam-expats/guide/living-short){:target="_blank"}
 
 Arm yourself with tips in your search for accommodation in urban spaces like Hanoi and Ho Chi Minh City with this guide, which looks at living and housing in Vietnam.
 

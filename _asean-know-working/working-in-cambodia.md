@@ -20,7 +20,7 @@ Job seekers can visit Phnom Penh Capital Hall’s official website to find out m
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Working in Phnom Penh**](http://www.internations.org/phnom-penh-expats/guide/working-in-phnom-penh-18328?ref=gci_rel_tl){:target="_blank"}
+[**Find Out How to Get a Job and Work in Phnom Penh**](https://www.internations.org/phnom-penh-expats/guide/working-short){:target="_blank"}
 
 Learn more about the key aspects of working in Phnom Penh, such as applying for work permits and job hunting.
 

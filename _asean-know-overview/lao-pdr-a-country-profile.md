@@ -73,13 +73,13 @@ Lao PDR welcomed 4.58 million international visitors in 2019, representing a gro
 
 [^12]:ASEAN’s future cities: High-speed rail on track to connect Vientiane to the region. (2017, March 23) *My HSR.* Retrieved January 25, 2021, from [https://www.myhsr.com.my](https://www.myhsr.com.my/resource/newsroom/asias-future-cities-high-speed-rail-on-track-to-connect-vientiane-to-the-region ){:target="blank"} ; Lao PDR economic monitor. (2019, January). *The World Bank Group.* Retrieved January 25, 2021, from [http://documents.worldbank.org](http://documents1.worldbank.org/curated/en/818841549314902040/pdf/134324-REPLACEMENT-PUBLIC-LEM-2019-January.pdf){:target="_blank"}
 
-[^13]:ASEAN investment report 2018: Foreign direct investment and the digital economy in ASEAN. (2018, November 5). *Association of Southeast Asian Nations and United Nations Conference on Trade and Development.* Retrieved January 25, 2021, from [https://asean.org](https://asean.org/storage/2018/11/ASEAN-Investment-Report-2018-for-Website.pdf){:target="_blank"}
+[^13]:ASEAN investment report 2018: Foreign direct investment and the digital economy in ASEAN. (2018, November 5). *Association of Southeast Asian Nations and United Nations Conference on Trade and Development.* Retrieved August 14, 2023, from [https://investasean.asean.org](https://investasean.asean.org/files/upload/2018%20ASEAN%20Investment%20Report%20(Website).pdf){:target="_blank"}
 
 [^14]:SEZs in Lao PDR. (2019, February 21). *Investment Promotion Department, Ministry of Planning and Investment.* Retrieved January 25, 2021,, from [http://www.investlaos.gov.la](http://investlaos.gov.la/start-up-business/special-economic-zone/){:target="_blank"}
 
 [^15]:Lee, X.E. (2017, May 2). Opportunities for Singapore companies to invest in Laos, says, its PM. *Sgsme.sg.* Retrieved January 25, 2021, from [http://www.sgsme.sg](http://www.sgsme.sg/news/opportunities-singapore-companies-invest-laos-says-its-pm){:target="_blank"}
 
-[^16]:Surbana Jurong, Phongsavanh Group and Mekong Group collaborate to support Laos’ growth journey. (2017, September 1). *Surbana Jurong.* Retrieved January 25, 2021, from [https://surbanajurong.com](https://surbanajurong.com/resources/press-releases/collaborate-support-laos-growth-journey/){:target="_blank"}
+[^16]:Surbana Jurong, Phongsavanh Group and Mekong Group collaborate to support Laos’ growth journey. (2017, September 1). *Surbana Jurong.* Retrieved January 25, 2021, from [https://surbanajurong.com](https://surbanajurong.com/wp-content/uploads/2017/09/20170901-Press-Release-MOU-Signing-Laos.pdf){:target="_blank"}
 
 [^17]:Laos' foreign tourist arrivals up 9 percent in 2019. (2020, January 8). *Xinhua News.* Retrieved January 25, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/asiapacific/2020-01/08/c_138688181.htm){:target="_blank"}
 

@@ -53,9 +53,3 @@ Retrieved from OverDrive. (*myLibrary ID* is required to access this ebook.)
 [**Business etiquette in Vietnam**](https://www.vietchamsg.org/business-etiquette-vietnam/){:target="_blank"}
 
 This article provides advice on the key beliefs, values and attitudes upheld in Vietnamese businesses.
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
-[**Understand the concept of saving face in Vietnamese culture**](http://thevietnamguide.com/tvg/tag/business-culture/){:target="_blank"}
-
-This article provides an overview to concepts such as “saving face” and professional greetings to ensure your business starts off on the right foot in Vietnam.

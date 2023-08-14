@@ -32,7 +32,7 @@ This is a guide to resources and information on accommodation in Phnom Penh.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Housing in Cambodia**](http://www.internations.org/cambodia-expats/guide/living-in-cambodia-17146/housing-in-cambodia-2){:target="_blank"}
+[**Housing in Cambodia**](https://www.internations.org/cambodia-expats/guide/living-short){:target="_blank"}
 
 This article provides practical information and advice on the cost of living and platforms to find the right accommodation in Cambodia.
 

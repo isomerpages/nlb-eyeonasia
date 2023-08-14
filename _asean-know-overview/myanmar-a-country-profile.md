@@ -65,7 +65,7 @@ In October 2018, tourists from Japan, South Korea, Hong Kong and Macau were gran
 
 [^8]: Myanmar. (2021). *Encyclopedia Britannica.* Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Myanmar){:target="_blank"}
 
-[^9]:Myanmar. (2020, May). *Asian Development Bank*. Retrieved January 25, 2021, from [https://www.adb.org](https://www.adb.org/sites/default/files/publication/27782/mya-2019.pdf){:target="_blank"}
+[^9]:Myanmar. (2020, May). *Asian Development Bank*. Retrieved January 25, 2021, from https://www.adb.org/sites/default/files/publication/27782/mya-2019.pdf
 
 [^10]:The World Bank in Myanmar – Overview. (2020, October 2). *The World Bank.* Retrieved January 25, 2021, from  [http://www.worldbank.org](http://www.worldbank.org/en/country/myanmar/overview){:target="_blank"}
 
@@ -76,4 +76,4 @@ In October 2018, tourists from Japan, South Korea, Hong Kong and Macau were gran
 [^13]:Aw, C. W. (2019, September 25). Singapore, Myanmar sign new investment treaty. *The Straits Times*. Retrieved January 25, 2021, from [http://www.straitstimes.com](https://www.straitstimes.com/business/spore-myanmar-sign-new-investment-treaty){:target="_blank"}
 [^14]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post*. Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="_blank"}
 [^15]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post.* Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="_blank"}
-[^16]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post.* Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="blank"} ;  Booming tourism times to be back in Myanmar? (2019, October 11). *ASEAN Travel.* Retrieved January 25, 2021, from [http://asean.travel](http://asean.travel/2019/10/11/booming-tourism-times-to-be-back-in-myanmar/){:target="blank"}
+[^16]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post.* Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="blank"}

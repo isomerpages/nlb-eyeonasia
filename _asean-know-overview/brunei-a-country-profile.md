@@ -14,7 +14,7 @@ This article provides an overview of Brunei for those keen on exploring the poss
 - **Official name:** Brunei Darussalam
 - **Capital:** Bandar Seri Begawan
 - **Land area:** 5,765 sq km[^1]
-- **Population (2019):** 459,500[^2]
+- **Population (2022):** 445,400[^2]
 - **Head of state:** His Majesty Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah
 - **Official language:** Malay
 - **Currency:** Brunei Dollar (BND)[^3]
@@ -29,10 +29,10 @@ Brunei’s commitment to continued prosperity and stable macroeconomics is under
 
 ### **Demographic Profile**
 
-In 2019, the Bruneian population was 459,500, up from 442,400 the previous year. Brunei citizens accounted for the largest share of the population with 72.2 percent (331,800 persons), while permanent residents and temporary residents made up 7.3 percent (33,500 persons) and 20.5 percent (94,200 persons) of the population respectively. More than 74 percent of its population were aged between 15 and 64 years old, 20.6 percent were below 15 years of age and 4.83 percent were 65 years and older. Malays form the majority of the population at 65.8 percent.[^10]
+In 2023, the Bruneian population was 445,400, up from 440,715 the previous year. Brunei citizens accounted for the largest share of the population with 75.9 percent (338,300 persons), while permanent residents and temporary residents made up 5.7 percent (25,800 persons) and 18.2 percent (81,300 persons) of the population respectively. More than 73 percent of its population were aged between 15 and 64 years old, 20.5 percent were below 15 years of age and 6.4 percent were 65 years and older. Malays form the majority of the population at 72.6 percent.[^10]
 
 ### **Economic Profile**
-In 2019, Brunei’s gross domestic product (GDP) reached BND18.375 billion, with a GDP per capita of BND39,989. Its GDP was valued at BND18.301 billion and the per-capita GDP was BND41,366 in 2018. The economic growth in 2019 was attributed to the growth in the oil and gas and non-oil and gas sectors.[^11]
+In 2022, Brunei’s gross domestic product (GDP) reached BND20.003 billion, with a GDP per capita of BND51,645. Its GDP was valued at BND18.822 billion and the per-capita GDP was BND43,772 in 2021. The economic growth in 2019 was attributed to the growth in the non-oil and gas sectors.[^11]
 
 ### **Foreign trade and investment**
 
@@ -57,26 +57,26 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 
 [^1]: About Brunei. (2020). *Information Department Prime Minister’s Office Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.information.gov.bn](http://www.information.gov.bn/SitePages/About Brunei Darussalam.aspx){:target="_blank"}
 
-[^2]: Population. (2020). *Department of Economic Planning and Development.* Retrieved October 13, 2020, from [http://www.depd.gov.bn](http://www.depd.gov.bn/SitePages/Population.aspx){:target="_blank"}
+[^2]: Population. (2022). *Department of Economic Planning and Statistics.* Retrieved August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/Population.aspx){:target="_blank"}
 
 [^3]: About Brunei. (2020). *Information Department Prime Minister’s Office Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.information.gov.bn](http://www.information.gov.bn/SitePages/About Brunei Darussalam.aspx){:target="_blank"}
 
-[^4]: National accounts. (2020). *Department of Economic Planning and Development.* Retrieved October 13, 2020, from [http://www.depd.gov.bn](http://www.depd.gov.bn/SitePages/National%20Accounts.aspx){:target="_blank"}
+[^4]: National accounts. (2022). *Department of Economic Planning and Statistics.* August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/National%20Accounts.aspx){:target="_blank"}
 [^5]:  About Brunei Darussalam. (2017). *Government of Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/germany-berlin/SitePages/businessinbrunei.aspx){:target="_blank"}
 [^6]: Business in Brunei. (2018, September). *Ministry of Foreign Affairs.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/usa-washington/SitePages/businessinbrunei.aspx){:target="_blank"}
 
 [^7]: Brunei. (2018). *Islamic Chamber of Commerce, Industry & Agriculture.* Retrieved October 13, 2020, from [http://www.iccia.com](https://www.iccia.com/?q=islamicTourism/home&ctr=Brunei){:target="_blank"}
 [^8]: Brunei Darussalam. (2020, June). *Ministry of Finance and Economy,* p. 2. Retrieved October 13, 2020, from [https://sustainabledevelopment.un.org](https://sustainabledevelopment.un.org/content/documents/26410VNR_2020_Brunei_Report.pdf){:target="_blank"}
 [^9]: Brunei Darussalam. (n.d.). *Invest in Asean.* Retrieved October 13, 2020, from [http://investinasean.asean.org](http://investasean.asean.org/index.php/page/view/asean-member-states/view/709/newsid/795/brunei-darussalam.html){:target="_blank"}
-[^10]: Population. (2020). *Department of Economic Planning and Development*. Retrieved October 30, 2020, from [http://www.depd.gov.bn](http://www.depd.gov.bn/SitePages/Population.aspx){:target="_blank"} 
-[^11]: National accounts. (2020). *Department of Economic Planning and Development*. Retrieved October 30, 2020, from [http://www.depd.gov.bn](http://www.depd.gov.bn/SitePages/National%20Accounts.aspx){:target="_blank"} 
+[^10]: Population. (2022). *Department of Economic Planning and Statistics.* Retrieved August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/Population.aspx){:target="_blank"}
+[^11]: National accounts. (2022). *Department of Economic Planning and Statistics.* August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/National%20Accounts.aspx){:target="_blank"}
 [^12]: Brunei Darussalam statistical yearbook. (2019). *Department of Economic Planning and Development*, pp. 127-130*.* Retrieved October 13, 2020, from [http://www.deps.gov.bn](http://www.deps.gov.bn/DEPD Documents Library/DOS/BDSYB/BDSYB_2018/BDSYB_2018.pdf){:target="_blank"}
 [^13]: Ley Choon makes further inroads into Brunei with B$29 million new project wins. (2013, July 17). *Ley Choon Group Holdings Limited*. Retrieved October 13, 2020, from [http://www.leychoon.com](http://www.leychoon.com/wp-content/uploads/2015/05/Ley-Choon-makes-further-inroads-into-Brunei-with-B29.pdf){:target="_blank"}
 
 [^14]: ST Engineering secures $66.5mln project in Brunei. (2010, June 14). *Singapore Business Review*. Retrieved October 13, 2020, from [http://sbr.com.sg](http://sbr.com.sg/building-engineering/news/st-engineering-secures-665mln-project-in-brunei){:target="_blank"}
 
 [^15]: Construction. (2015). *Greatearth*. Retrieved October 13, 2020, from [http://www.greatearth.sg/](https://www.greatearth.sg/construction){:target="_blank"}
-[^16]: Energy white paper. (n.d.). *Energy Department*, p.2. Retrieved October 13, 2020, from [http://www.des.gov.bn](http://www.des.gov.bn/SiteCollectionDocuments/Energy White Paper 2014(1).pdf){:target="_blank"}
+[^16]: Energy white paper. (n.d.). *Energy Department*, p.2. Retrieved August 14, 2023, from [https://www.usasean.org](https://www.usasean.org/sites/default/files/uploads/Energy%20White%20Paper%202014.pdf){:target="_blank"}
 [^17]: Garcia, Z. S (2019, February 14). Brunei’s investment outlook for 2019. *ASEAN Briefing.* Retrieved October 13, 2020, from [https://www.aseanbriefing.com/](https://www.aseanbriefing.com/news/bruneis-investment-outlook-2019/){:target="_blank"}
 [^18]: Mission, vision and strategic objectives. (2017). *Ministry of Primary Resources and Tourism*. Retrieved October 13, 2020, from [http://www.tourism.gov.bn](http://www.tourism.gov.bn/SitePages/Mission,%20Vision%20and%20Strategic%20Objectives.aspx){:target="_blank"}
 [^19]: Tourism statistics for the year 2018. (2019). *Ministry of Primary Resources and Tourism.* Retrieved October 13, 2020, from [http://www.tourism.gov.bn](http://www.tourism.gov.bn/SiteCollectionDocuments/Statistics/Press Release - Tourism Statistics 2018.pdf){:target="_blank"}
