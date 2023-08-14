@@ -38,12 +38,6 @@ Instead of cash, new systems have been set up to process tax payments in Laos th
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**The dawn of digital financial services in Lao PDR**](http://mm4p.uncdf.org/dawn-digital-financial-services-lao-pdr){:target="_blank"}
-
-This is a video case-study showcasing Laos’ journey to develop branchless banking services.
-
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
-
 [**Laos – Banking systems**](https://www.export.gov/article?id=Laos-Banking-Systems){:target="_blank"}
 
 This article provides information on Laos’ banking systems and some rules and regulations.

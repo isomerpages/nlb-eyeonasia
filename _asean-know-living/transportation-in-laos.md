@@ -26,12 +26,6 @@ This high speed rail connecting all the way from Kunming in China to Vientiane i
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Asia’s future cities: Laos capital on the road to modern public transport system?**](http://www.channelnewsasia.com/news/asiapacific/asia-s-future-cities-laos-capital-on-the-road-to-modern-public-t-7588290){:target="_blank"}
-
-An article on the plans by the Laos government to build a multi-billion dollar transport system to deal with traffic congestions especially in the city of Vientiane. This project is set for possible completion in 2021.
-
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
-
 [**Driving In Laos: What licence do I need?**](http://jclao.com/driving-laos-license-need/){:target="_blank"}
 
 This guide provides practical information on the types of licences required for its holder to drive in Laos. Accompanying photos are particularly useful for foreigners who may be confused by the types of licence available and their requirements.

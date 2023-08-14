@@ -24,7 +24,7 @@ Encompassing more than 650 million people, the ASEAN economy is relatively large
 
 [^3]: Khuong, V. (2020, July). ASEAN economic prospects amid emerging turbulence: Development challenges and implications for reform. *Brookings Institution.* Retrieved January 25, 2021, from [https://www.brookings.edu](https://www.brookings.edu/wp-content/uploads/2020/07/FP_20200710_asean_economic_prospects_vu.pdf){:target="_blank"}
 
-[^4]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org](https://asean.org/storage/2018/02/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
+[^4]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org](https://asean.org/wp-content/uploads/2021/08/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
 
 ASEAN’s merchandise trade amounted to US$2,815.2 billion in 2019. Intra-ASEAN accounted for 22.5 percent of ASEAN’s total trade, followed by China (18.0 percent), the United States (10.5 percent), and the EU28 (10.0 percent). Inflows of foreign direct investments (FDI) rebounded by 4.9 percent in 2019 compared to 2018 to stand at US$160.6 billion. Among external partners, the US contributed the largest FDI inflow with 15.2 percent of the total, followed by Japan (12.7 percent) and the EU28 (10.1 percent), while intra-ASEAN accounted for 13.9 percent.[^5]
 

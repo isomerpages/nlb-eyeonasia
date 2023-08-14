@@ -40,6 +40,6 @@ This detailed guide covers the requirements for finding work in Thailand, the jo
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Deloitte – Taxation and investment in Thailand 2017**](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/international-business-support/deloitte-cn-ibs-thailand-tax-invest-en-2017.pdf){:target="_blank"}
+[**Taxation and Investment in Thailand 2017 – June 2018**](https://www2.deloitte.com/content/dam/Deloitte/th/Documents/tax/th-tax-taxation-investment-thailand-guide-2018.pdf){:target="_blank"}
 
-This guide to taxation and investment in Thailand provides information on the investment climate, setting up a business, business taxation, taxes on individuals, and the labour environment, including the employment of foreigners.
+This 2018 guide to taxation and investment in Thailand provides information on the investment climate, setting up a business, business taxation, taxes on individuals, and the labour environment, including the employment of foreigners.

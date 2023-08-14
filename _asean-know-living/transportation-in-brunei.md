@@ -50,6 +50,6 @@ All rights reserved, Bandar Seri Begawan: Department of Town & Country Planning,
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;" />
 
-[**Land Transport Department. Ministry of Communication. Brunei Darussalam.**](http://mincom.gov.bn/ltd/Theme/Home.aspx){:target="_blank"}
+[**Land Transport Department. Ministry of Communication. Brunei Darussalam.**](https://www.jpd.gov.bn/Theme/Home.aspx){:target="_blank"}
 
 The official website of Brunei’s Land Transport Department. This resource allows users to access services such as registration of licenses for vehicles as well as the application for driving licenses. Important information such as bus routes and list of licensed taxi drivers can also be found here.

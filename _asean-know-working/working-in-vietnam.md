@@ -34,13 +34,13 @@ Retrieved from OverDrive. (*myLibrary ID* is required to access this ebook.)
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;" />
 
-[**Working in Hanoi**](https://www.internations.org/hanoi-expats/guide/working-in-hanoi-18185){:target="_blank"}
+[**Find Out How to Get a Job and Work in Hanoi**](https://www.internations.org/hanoi-expats/guide/working-short){:target="_blank"}
 
 Hanoi’s progressive economic development has led to an expansion of employment opportunities in its service and agriculture sectors for the local and expat population. This article provides insight into Hanoi’s economy, job seeking platforms and work permits.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Working in Ho Chi Minh City**](https://www.internations.org/hanoi-expats/guide/working-in-ho-chi-minh-city-18107){:target="_blank"}
+[**Find Out How to Get a Job and Work in Ho Chi Minh City**](https://www.internations.org/ho-chi-minh-city-expats/guide/working-short){:target="_blank"}
 
 Ho Chi Minh City’s position as the economic centre of Vietnam has made it a thriving environment with an array of employment opportunities for expatriates who are interested in working there. This article provides insight on Ho Chi Minh City’s economy, job seeking platforms and work permits.
 

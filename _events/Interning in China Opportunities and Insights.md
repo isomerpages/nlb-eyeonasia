@@ -11,22 +11,20 @@ Thrilled to find out what companies seek in their further employees and what set
 
 Don’t miss out on the chance to learn and explore the limitless opportunities that China offers!
 
-
-<!--### **Watch the full programme:**
-
+### **Watch the full programme:**
 
 <div>
-<iframe src="" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=b682c1d1-ffea-4978-9436-b0280014ae2d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 </div>
--->
+
+
 
 **Tuesday, 16 May 2022**<br>
 **7.00 pm – 8.30 pm (Singapore Time)**<br>
 **Possibility Room, Level 5, National Library Building**
 
-Register [**here**](https://go.gov.sg/16may2023)
+This programme was organised in collaboration with [**Business China**](https://businesschina.org.sg/).
 
-This programme is organised in collaboration with [**Business China**](https://businesschina.org.sg/).
 
 ### **About the Speakers**
 

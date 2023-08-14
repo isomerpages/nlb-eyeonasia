@@ -18,7 +18,5 @@ This extract is reproduced with permission:
 
 *Says the 30-year-old: “To be a good entrepreneur, you need to be in constant pursuit of new knowledge – speak to people around you, travel around, and read as much as possible.”*
 
-[Read more from NBS Alumni e-Newsletter](http://enewsletter.ntu.edu.sg/NBSAlumni/May2016/Pages/FeaturedAlumni2.aspx){:target="_blank"}
-
 Credit: Nanyang Business School
 

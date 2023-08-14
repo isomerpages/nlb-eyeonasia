@@ -26,7 +26,7 @@ This article gives useful tips on renting a place in Yangon. It tells you what t
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;" />
 
-[**Yangon’s real estate challenge**](https://www.bangkokpost.com/print/888416/){:target="_blank"}
+[**Yangon’s real estate challenge**](https://www.bangkokpost.com/world/888416/yangon-real-estate-challenge){:target="_blank"}
 
 Covering both commercial and residential spaces, this article assesses the real estate situation in Yangon. It includes useful updates on the condominium market and recent legal developments.
 
