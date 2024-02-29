@@ -1,0 +1,16 @@
+collections:
+  china:
+    output: true
+    order:
+      - china.md
+      - know/.keep
+      - know/overview-of-china.md
+      - know/selected-china-municipalities-and-provinces.md
+      - know/living-in-china.md
+      - know/working-in-china.md
+      - share/.keep
+      - share/what-young-people-say.md
+      - share/what-employers-say.md
+      - go/.keep
+      - go/initiatives.md
+      - go/singapore-communities-in-china.md

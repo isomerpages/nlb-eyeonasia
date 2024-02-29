@@ -1,0 +1,15 @@
+collections:
+  other-central-asia:
+    output: true
+    order:
+      - almaty-a-city-profile.md
+      - discovering-almaty.md
+      - nur-sultan-a-city-profile.md
+      - discovering-nur-sultan.md
+      - samarkand-a-city-profile.md
+      - discovering-samarkand.md
+      - tashkent-a-city-profile.md
+      - discovering-tashkent.md
+      - living-in-central-asia.md
+      - working-in-central-asia.md
+      - singapore-communities-in-central-asia.md

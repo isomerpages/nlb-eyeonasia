@@ -1,0 +1,13 @@
+collections:
+  india-know-living:
+    output: true
+    order:
+      - architecture-in-india.md
+      - commuting-in-india.md
+      - entertainment-in-india.md
+      - festivals-in-india.md
+      - financial-and-banking-services-in-india.md
+      - food-and-cuisines-in-india.md
+      - indian-fashion.md
+      - media-in-india.md
+      - sports-and-recreation-in-india.md

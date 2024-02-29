@@ -1,0 +1,15 @@
+collections:
+  asean-countries:
+    output: true
+    order:
+      - asean-countries.md
+      - know/.keep
+      - know/overview-of-asean-countries.md
+      - know/living-in-asean-countries.md
+      - know/working-in-asean-countries.md
+      - share/.keep
+      - share/what-young-people-say.md
+      - share/what-employers-say.md
+      - go/.keep
+      - go/initiatives.md
+      - go/singapore-communities-in-asean-countries.md

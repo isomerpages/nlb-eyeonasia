@@ -1,0 +1,27 @@
+collections:
+  china-know-selected:
+    output: true
+    order:
+      - selected-china-municipalities-and-provinces-an-overview.md
+      - chongqing-a-profile.md
+      - discovering-chongqing.md
+      - guangdong-a-profile.md
+      - discovering-guangdong.md
+      - jiangsu-a-profile.md
+      - discovering-jiangsu.md
+      - liaoning-a-profile.md
+      - discovering-liaoning.md
+      - nanjing-a-profile.md
+      - discovering-nanjing.md
+      - shandong-a-profile.md
+      - discovering-shandong.md
+      - shaanxi-a-profile.md
+      - discovering-shaanxi.md
+      - sichuan-a-profile.md
+      - discovering-sichuan.md
+      - tianjin-a-profile.md
+      - discovering-tianjin.md
+      - wuhan-a-profile.md
+      - discovering-wuhan.md
+      - zhejiang-a-profile.md
+      - discovering-zhejiang.md

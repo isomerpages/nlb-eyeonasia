@@ -1,0 +1,16 @@
+collections:
+  india:
+    output: true
+    order:
+      - india.md
+      - know/.keep
+      - know/overview-of-india.md
+      - know/selected-india-states.md
+      - know/living-in-india.md
+      - know/working-in-india.md
+      - share/.keep
+      - share/what-young-people-say.md
+      - share/what-employers-say.md
+      - go/.keep
+      - go/initiatives.md
+      - go/singapore-communities-in-india.md
