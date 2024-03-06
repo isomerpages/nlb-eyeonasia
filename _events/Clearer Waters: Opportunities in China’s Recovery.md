@@ -14,12 +14,11 @@ businesses and individuals have much to benefit from exploring new opportunities
 in this recovering region. Hear from experts and business practitioners
 and gain insights into what the Chinese market can offer, and how Singapore
 can tap into China’s new directions.</p>
-<p>&lt;!--</p>
 <h3><strong>Watch the full programme:</strong></h3>
 <div class="iframe-wrapper">
 <iframe style="border: 1px solid #464646;" height="405" width="720" allowfullscreen="true" frameborder="0" src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=b682c1d1-ffea-4978-9436-b0280014ae2d&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=false&amp;interactivity=all"></iframe>
 </div>
-<p>--&gt;</p>
+<p></p>
 <p><strong>Tuesday, 27 February 2024</strong> 
 <br><strong>7.00 pm – 8.30 pm (Singapore Time)</strong> 
 <br><strong>Possibility Room, Level 5, National Library Building</strong>
