@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - "Clearer Waters: Opportunities in China’s Recovery.md"
       - Interning in China Opportunities and Insights.md
       - Growing Singapore Talents for Global Leadership.md
       - Co Innovation Opportunities in Asia.md
