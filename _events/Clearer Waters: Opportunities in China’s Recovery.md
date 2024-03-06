@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/past-events/27 Feb 2023/27_Feb_EDM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/past-events/27 Feb 2024/27_Feb_EDM.jpg">
 </div>
 <p>President Xi Jinping’s 2024 New Year message to China was optimistic,
 despite some economic setbacks in 2023. As we move into the new year, enterprising
@@ -20,14 +20,14 @@ can tap into China’s new directions.</p>
 <iframe style="border: 1px solid #464646;" height="405" width="720" allowfullscreen="true" frameborder="0" src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=b682c1d1-ffea-4978-9436-b0280014ae2d&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=false&amp;interactivity=all"></iframe>
 </div>
 <p>--&gt;</p>
-<p><strong>Tuesday, 27 February 2024</strong>
-<br><strong>7.00 pm – 8.30 pm (Singapore Time)</strong>
+<p><strong>Tuesday, 27 February 2024</strong> 
+<br><strong>7.00 pm – 8.30 pm (Singapore Time)</strong> 
 <br><strong>Possibility Room, Level 5, National Library Building</strong>
 </p>
 <p>This programme is organized in collaboration with <strong><a href="https://www.theyoungseakers.com/" rel="nofollow noopener noreferrer" target="_blank">The Young SEAkers</a></strong>.</p>
 <h3><strong>About the Speakers</strong></h3>
-<p><strong>Dr Victor Tay</strong>
-<br><strong>CEO of Global Catalyst Advisory</strong>
+<p><strong>Dr Victor Tay</strong> 
+<br><strong>CEO of Global Catalyst Advisory</strong> 
 <br><strong>Governing Council and CEO of China ASEAN Business Alliance</strong>
 </p>
 <p>Victor Tay is the Chief Executive Office at Global Catalyst Advisory and
@@ -50,7 +50,7 @@ was also the chairman of United Nations Global Company NS.
 <br>
 <br>Victor was a scholarship recipient with University of Oxford and had studied
 at Harvard University.</p>
-<p><strong>Lim Tern Poh</strong>
+<p><strong>Lim Tern Poh</strong> 
 <br><strong>ASEAN-China Young Leaders Scholar</strong>
 </p>
 <p>Lim Tern Poh (TP) is an aspiring global leader. He seeks to bridge Western
@@ -63,7 +63,7 @@ by the Chinese government.</p>
 and Head of AI Product at AI2Lab. He holds a Master of Computing (AI) from
 NUS. TP’s interdisciplinary experience allows him to combine AI technical
 expertise with strategic foresight to create impact at scale.</p>
-<p><strong>Tan Hong Lye, Cecilia</strong>
+<p><strong>Tan Hong Lye, Cecilia</strong> 
 <br><strong>CEO of Sasseur Asset Management Pte. Ltd.</strong>
 </p>
 <p>Cecilia was appointed the CEO of Sasseur Asset Management Pte Ltd in August
