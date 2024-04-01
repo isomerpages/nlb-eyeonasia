@@ -25,7 +25,7 @@ You can also watch them from our Eye on Asia folder at the [National Library's V
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a class="project-link" href="/events/past-events/27-feb-2024/">
-				<img class="project-image" src="/images/past-events/27-Feb-2024/27_Feb_EDM.jpg">
+				<img class="project-image" src="/images/past-events/27 Feb 2024/27_Feb_EDM.jpg">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Clearer Waters - Opportunities in China’s Recovery</b></h5>
