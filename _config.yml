@@ -26,7 +26,6 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-resources_name: events
 paginate: 12
 paginate_path: /events/page:num
 is_government: false
