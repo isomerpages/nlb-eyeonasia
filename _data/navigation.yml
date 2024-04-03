@@ -41,11 +41,7 @@ links:
   - title: About
     false_collection: true
     url: /about/about-eye-on-asia/
-    sublinks:
-      - title: About Eye on Asia
-        url: /about/about-eye-on-asia/
-      - title: Visit our Resource Centre
-        url: /about/visit-our-resource-centre/
+    sublinks: []
   - title: Events
     url: /events/
   - title: Partners
