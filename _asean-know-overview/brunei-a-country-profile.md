@@ -36,7 +36,7 @@ In 2022, Brunei’s gross domestic product (GDP) reached BND20.003 billion, with
 
 Brunei’s foreign direct investment (FDI) totalled BND1.245 billion in 2018. Hong Kong SAR contributed the largest share of total investment with BND902.4 million (72.5 percent) – an increase from the BND651.5 million recorded the previous year. The manufacturing sector was the largest recipient of FDI inflows in 2018, which amounted to BND945.6 million.[^12]
 
-One of the Singapore companies in Brunei is Ley Choon Group Holdings Ltd. In 2013, it received new contracts totalling BND29.6 million for the building of a flyover bridge at Jalan Gadong and Jalan Telanai and for infrastructure works involving the supply and installation of sewerage systems at Berangan, Kianggeh and Subok.[^13] In 2010, ST Engineering secured a S$66.5 million project in Brunei to design and construct a waste management facility in Sungai Paku.[^14] Greatearth Construction Pte Ltd, through its subsidiary in Brunei, Greatearth (B) Sdn Bhd, has “an extensive track record in housing and infrastructure projects”[^15]
+One of the Singapore companies in Brunei is Ley Choon Group Holdings Ltd. In 2013, it received new contracts totalling BND29.6 million for the building of a flyover bridge at Jalan Gadong and Jalan Telanai and for infrastructure works involving the supply and installation of sewerage systems at Berangan, Kianggeh and Subok.[^13] In 2010, ST Engineering secured a S$66.5 million project in Brunei to design and construct a waste management facility in Sungai Paku.[^14] 
 
 ### **Industries**
 
@@ -73,7 +73,6 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 
 [^14]: ST Engineering secures $66.5mln project in Brunei. (2010, June 14). *Singapore Business Review*. Retrieved October 13, 2020, from [http://sbr.com.sg](http://sbr.com.sg/building-engineering/news/st-engineering-secures-665mln-project-in-brunei){:target="_blank"}
 
-[^15]: Construction. (2015). *Greatearth*. Retrieved October 13, 2020, from [http://www.greatearth.sg/](https://www.greatearth.sg/construction){:target="_blank"}
 [^16]: Energy white paper. (n.d.). *Energy Department*, p.2. Retrieved April 4, 2024, from [https://policy.asiapacificenergy.org/](https://policy.asiapacificenergy.org/sites/default/files/Energy%20White%20Paper%202014%281%29.pdf){:target="_blank"}
 [^17]: Garcia, Z. S (2019, February 14). Brunei’s investment outlook for 2019. *ASEAN Briefing.* Retrieved October 13, 2020, from [https://www.aseanbriefing.com/](https://www.aseanbriefing.com/news/bruneis-investment-outlook-2019/){:target="_blank"}
 [^18]: Mission, vision and strategic objectives. (2017). *Ministry of Primary Resources and Tourism*. Retrieved October 13, 2020, from [http://www.tourism.gov.bn](http://www.tourism.gov.bn/SitePages/Mission,%20Vision%20and%20Strategic%20Objectives.aspx){:target="_blank"}
