@@ -14,7 +14,6 @@ locations:
           Year.  Closed on Public Holidays.
     maps_link: https://maps.google.com/maps?q=Level+7,+National+Library+Building100+Victoria+StreetSingapore+188064
     title: HQ Address
-image-url: null
 contacts:
   - content:
       - phone: ""
