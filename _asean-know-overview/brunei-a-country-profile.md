@@ -1,12 +1,10 @@
 ---
-title: 'Brunei - A country profile'
+title: Brunei - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/brunei-a-country-profile/
-breadcrumb: 'Brunei - A country profile'
-
+breadcrumb: Brunei - A country profile
+variant: markdown
 ---
-
-
-<img src="/images/asean-countries/Brunei snapshot cover iso.jpg" alt="Brunei snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Brunei snapshot cover iso.jpg" alt="Brunei snapshot banner" style="width:800px;">
 
 This article provides an overview of Brunei for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -65,7 +63,7 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 [^5]:  About Brunei Darussalam. (2017). *Government of Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/germany-berlin/SitePages/businessinbrunei.aspx){:target="_blank"}
 [^6]: Business in Brunei. (2018, September). *Ministry of Foreign Affairs.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/usa-washington/SitePages/businessinbrunei.aspx){:target="_blank"}
 
-[^7]: Brunei. (2018). *Islamic Chamber of Commerce, Industry & Agriculture.* Retrieved October 13, 2020, from [http://www.iccia.com](https://www.iccia.com/?q=islamicTourism/home&ctr=Brunei){:target="_blank"}
+[^7]: Brunei. (2018). *Islamic Chamber of Commerce, Industry &amp; Agriculture.* Retrieved October 13, 2020, from [http://www.iccia.com](https://www.iccia.com/?q=islamicTourism/home&amp;ctr=Brunei){:target="_blank"}
 [^8]: Brunei Darussalam. (2020, June). *Ministry of Finance and Economy,* p. 2. Retrieved October 13, 2020, from [https://sustainabledevelopment.un.org](https://sustainabledevelopment.un.org/content/documents/26410VNR_2020_Brunei_Report.pdf){:target="_blank"}
 [^9]: Brunei Darussalam. (n.d.). *Invest in Asean.* Retrieved October 13, 2020, from [http://investinasean.asean.org](http://investasean.asean.org/index.php/page/view/asean-member-states/view/709/newsid/795/brunei-darussalam.html){:target="_blank"}
 [^10]: Population. (2022). *Department of Economic Planning and Statistics.* Retrieved August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/Population.aspx){:target="_blank"}
@@ -76,7 +74,7 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 [^14]: ST Engineering secures $66.5mln project in Brunei. (2010, June 14). *Singapore Business Review*. Retrieved October 13, 2020, from [http://sbr.com.sg](http://sbr.com.sg/building-engineering/news/st-engineering-secures-665mln-project-in-brunei){:target="_blank"}
 
 [^15]: Construction. (2015). *Greatearth*. Retrieved October 13, 2020, from [http://www.greatearth.sg/](https://www.greatearth.sg/construction){:target="_blank"}
-[^16]: Energy white paper. (n.d.). *Energy Department*, p.2. Retrieved August 14, 2023, from [https://www.usasean.org](https://www.usasean.org/sites/default/files/uploads/Energy%20White%20Paper%202014.pdf){:target="_blank"}
+[^16]: Energy white paper. (n.d.). *Energy Department*, p.2. Retrieved April 4, 2024, from [https://policy.asiapacificenergy.org/](https://policy.asiapacificenergy.org/sites/default/files/Energy%20White%20Paper%202014%281%29.pdf){:target="_blank"}
 [^17]: Garcia, Z. S (2019, February 14). Brunei’s investment outlook for 2019. *ASEAN Briefing.* Retrieved October 13, 2020, from [https://www.aseanbriefing.com/](https://www.aseanbriefing.com/news/bruneis-investment-outlook-2019/){:target="_blank"}
 [^18]: Mission, vision and strategic objectives. (2017). *Ministry of Primary Resources and Tourism*. Retrieved October 13, 2020, from [http://www.tourism.gov.bn](http://www.tourism.gov.bn/SitePages/Mission,%20Vision%20and%20Strategic%20Objectives.aspx){:target="_blank"}
 [^19]: Tourism statistics for the year 2018. (2019). *Ministry of Primary Resources and Tourism.* Retrieved October 13, 2020, from [http://www.tourism.gov.bn](http://www.tourism.gov.bn/SiteCollectionDocuments/Statistics/Press Release - Tourism Statistics 2018.pdf){:target="_blank"}
