@@ -1,12 +1,10 @@
 ---
-title: 'Cambodia - A country profile'
+title: Cambodia - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/cambodia-a-country-profile/
-breadcrumb: 'Cambodia - A country profile'
-
+breadcrumb: Cambodia - A country profile
+variant: markdown
 ---
-
-
-<img src="/images/asean-countries/Cambodia snapshot cover.jpg" alt="Cambodia snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Cambodia snapshot cover.jpg" alt="Cambodia snapshot banner" style="width:800px;">
 
 This article provides an overview of Cambodia for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -68,5 +66,5 @@ Due to the COVID-19 pandemic in 2020, international arrivals contracted by 74.1 
 [^18]: Economic Situation. (2017). *Council for the Development of Cambodia*. Retrieved October 16, 2018, from http://www.cambodiainvestment.gov.kh/country-overview/economic-situation.htm
 [^19]: Cambodia Economic Update: Restrained Recovery. (2020, November). *The World Bank*. Retrieved January 25, 2021, from [http://documents1.worldbank.org](http://documents1.worldbank.org/curated/en/986491608013945613/pdf/Cambodia-Economic-Update-Restrained-Recovery-Special-Focus-Adapting-to-COVID-19-in-an-Uncertain-World.pdf){:target="blank"}
 [^20]: Cambodia Services. (2017). *Encyclopedia Britannica.* Retrieved October 16, 2018, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia/Trade){:target="_blank"}
-[^21]: Tourism Statistics. (2017). *Ministry of Tourism, Cambodia.* Retrieved July 16, 2018, from [http://cambodia-tourism.org](http://cambodia-tourism.org/statistic/tourist-statistic-2017/){:target="_blank"}
+[^21]: Tourism Statistics Report: Annual Report 2022. (2022). *Ministry of Tourism.* Retrieved April 4, 2024, from [https://www.tourismcambodia.com/img/resources/cambodia_tourism_statistics_2022.pdf){:target="_blank"}
 [^22]: Cambodia Economic Update: Restrained Recovery. (2020, November). *The World Bank*. Retrieved January 25, 2021, from [http://documents1.worldbank.org](http://documents1.worldbank.org/curated/en/986491608013945613/pdf/Cambodia-Economic-Update-Restrained-Recovery-Special-Focus-Adapting-to-COVID-19-in-an-Uncertain-World.pdf){:target="blank"} ↩
