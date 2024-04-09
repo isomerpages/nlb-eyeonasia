@@ -68,8 +68,10 @@ Indonesia also promotes itself as a key halal destination in the region by devel
 
 [^9]: About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 15, 2020, from [http://www.bi.go.id](http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx){:target="_blank"}
 
-[^10]: UNESCO Jakarta marks “Batik Day” by wearing batik to work. (2017, October 3). *UNESCO Jakarta Regional Science Bureau for Asia and the Pacific.* Retrieved October 15, 2020, from [http://www.unesco.org](http://www.unesco.org/new/en/jakarta/about-this-office/single-view/news/unesco_jakarta_marks_batik_day_by_wearing_batik_to_wor/){:target="_blank"}
+[^10]: Indonesian Batik. (2009). *UNESCO Intangible Cultural Heritage.* Retrieved April 4, 2024, from [http://ich.unesco.org](https://ich.unesco.org/en/RL/indonesian-batik-00170){:target="_blank"}
+
 [^11]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+
 [^12]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
 
 [^13]: Indonesia. (2020). *The World Bank.* Retrieved October 15, 2020, from [https://www.worldbank.org](https://www.worldbank.org/en/country/indonesia/overview){:target="_blank"}
