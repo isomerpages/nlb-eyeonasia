@@ -82,7 +82,7 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 [^15]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=153&amp;bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&amp;menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
 
-[^16]:Lee, C. (2019, February). Manufacturing performance and services inputs: Evidence from Malaysia. *ISEAS Yusof Ishak Institute Economics Working Paper No. 2019-02*. Retrieved November 18, 2020, from [https://www.iseas.edu.sg](https://www.iseas.edu.sg/images/pdf/ISEAS%20EWP%202019-2%20Lee%20(003).pdf ){:target="_blank"}; 
+[^16]:Lee, C. (2019, February). Manufacturing performance and services inputs: Evidence from Malaysia. *ISEAS Yusof Ishak Institute Economics Working Paper No. 2019-02*. Retrieved November 18, 2020, from [https://www.iseas.edu.sg](https://www.iseas.edu.sg/wp-content/uploads/pdfs/ISEAS%20EWP%202019-2%20Lee%20(003).pdf){:target="_blank"}; 
 
 [^17]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=153&amp;bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&amp;menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
 
