@@ -41,7 +41,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.np.edu.sg/Pages/default.aspx"><img src="/images/partners/Ngee-Ann-Poly-logo-2.png" alt="Singapore Polytechnic"></a>
+			<a href="https://www.np.edu.sg/"><img src="/images/partners/Ngee-Ann-Poly-logo-2.png" alt="Singapore Polytechnic"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.osg.sg/"><img src="/images/partners/OSG Youth Alliance Logo-2.png" alt="Globalising Young Minds"></a>
@@ -85,7 +85,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.youthcorps.sg/en"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council"></a>
+			<a href="https://www.youthcorps.gov.sg/"><img src="/images/partners/YCS-_-NYC-Version-small.png" alt="National Youth Council"></a>
 		</div>
 	</div>
 </div>
