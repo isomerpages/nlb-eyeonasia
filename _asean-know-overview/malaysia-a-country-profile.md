@@ -70,7 +70,7 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 [^10]: About Malaysia. (2009, December 31). Ministry of Foreign Affairs, Malaysia. Retrieved November 18, 2020, from [https://www.kln.gov.my](https://www.kln.gov.my/web/deu_frankfurt/news-from-mission/-/blogs/about-malaysia){:target="blank"} ; Demography of population. (n.d.). *MyGovernment.* Retrieved November 18, 2020, from [https://www.malaysia.gov.my](https://www.malaysia.gov.my/portal/content/30114){:target="blank"}
 
-[^11]:Malaysia: East Malaysia immigration requirements and practices. (2017, February). PwC. Retrieved November 18, 2020, from [https://www.gmsasia.pwc.com](https://www.gmsasia.pwc.com/en/ias/malaysia-new-immigration-feb2017.pdf){:target="_blank"}
+[^11]:Malaysia: East Malaysia immigration requirements and practices. (2017, February). PwC. Retrieved April 9, 2024, from [https://www.pwc.com](https://www.pwc.com/gx/en/services/people-organisation/publications/assets/pwc-east-malaysia-immigration-requirements-and-practices.pdf){:target="_blank"}
 
 [^12]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=155&amp;bul_id=OVByWjg5YkQ3MWFZRTN5bDJiaEVhZz09&amp;menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09){:target="blank"} ; Leong, T. (2017, August 3). Who are Malaysia’s bumiputera? *The Straits Times.* Retrieved October 10, 2018, from [http://www.straitstimes.com](http://www.straitstimes.com/asia/se-asia/who-are-malaysias-bumiputera){:target="blank"}
 
