@@ -34,7 +34,7 @@ Due to the COVID-19 pandemic, economic growth contracted in 2020, driven by sign
 
 ### **Foreign Trade**
 
-The country's primary exports include electronics, semiconductors, transport equipment, construction materials, and minerals. As an open economy, the Philippines trades with other economies around the world.[^13] The top export markets in FY 2019 were China, Japan, United States and Thailand. The top import suppliers in FY 2019 were China, Japan, South Korea, United States and Singapore.[^14]
+The country's primary exports include electronics, semiconductors, transport equipment, construction materials, and minerals. As an open economy, the Philippines trades with other economies around the world.[^13] The top export markets in January 2024 were USA, Japan, Hong Kong, China and South Korea. At the same time, the top import suppliers  were China, Japan, South Korea, and USA.[^14]
 
 ### **Tourism**
 
@@ -68,6 +68,6 @@ The Philippines hosted a record high of 8.2 million foreign tourists in 2019, th
 
 [^13]:About the Philippines. (2021). *Philippine Government Portal.* Retrieved January 25, 2021, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"} ↩
 
-[^14]:Trade in goods. (2021). *Department of Trade &amp; Industry, Philippines.* Retrieved January 25, 2021, from [https://www.dti.gov.ph](https://www.dti.gov.ph/resources/trade-statistics){:target="_blank"}
+[^14]:Highlights of the Philippine Export and Import. (2024, March 12). *Philippine Statistics Authority.* Retrieved April 9, 2024, from [https://www.psa.gov.ph/](https://www.psa.gov.ph/statistics/export-import/monthly){:target="_blank"}
 
 [^15]:About the Philippines. (2021). *Philippine Government Portal.* Retrieved January 25, 2021, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"}
