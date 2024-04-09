@@ -58,7 +58,7 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 [^4]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=155&amp;bul_id=OVByWjg5YkQ3MWFZRTN5bDJiaEVhZz09&amp;menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09){:target="_blank"}
 
-[^5]:Biography. (2021). *Prime Minister’s Office of Malaysia*. Retrieved September 27, 2021, from [https://www.pmo.gov.my/](https://www.pmo.gov.my/biography-2/){:target="_blank"}
+[^5]:Ahli-Ahli Jemaah Menteri. (2024, April 8). *Jabatan Perdana Menteri*. Retrieved April 4, 2024, from [https://www.kabinet.gov.my/](https://www.kabinet.gov.my/bkpp/index.php/anggota-pentadbiran/menteri){:target="_blank"}
 
 [^6]: Official language. (2020). *MyGovernment*. Retrieved November 18, 2020, from [https://www.malaysia.gov.my/](https://www.malaysia.gov.my/portal/content/30118){:target="_blank"}
 
