@@ -55,14 +55,11 @@ Thailand is home to Buddhist temples, exotic wildlife and spectacular islands. I
 Thailand 4.0 is an economic model that aims to deal with the "middle income trap", economic disparities and the imbalance between the environment and society, by developing a value-based economy.
 
 The model has three elements:
+1. The development of a knowledge-based economy with an emphasis on R&amp;D, science &amp; technology, and innovation.
+2. Moving towards an inclusive society with equitable access to prosperity and development.
+3. Focus on sustainable growth and development.
 
-1.  
-
-“unlock Thailand from several economic challenges and help the country break free from the middle-income trap”. It comprises four objectives: 
-economic prosperity – to  create a value-based economy that is driven by innovation, technology and creativity; 
-social well-being – to   create a society that moves forward without leaving anyone behind (inclusive society) through realisation of the full potential of all members of society; 
-raising human values – to transform cost-effective labour into a skilled workforce; and 
-environmental protection – to become a liveable society that possesses an economic system capable of adjusting to climate change and low carbon society.[^24]
+The country will also focus on 10 targeted industries, namely: Aviation and logistics; biofuels and biochemicals; robotics; digital development; next-generation automotive; medical industries; smart electronics; affluent, medical and wellness tourism; agriculture and biotechnology, and food for the future.[^24]
 
 ---
 
