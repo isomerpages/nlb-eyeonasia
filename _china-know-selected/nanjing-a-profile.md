@@ -1,12 +1,10 @@
 ---
-title: 'Nanjing - A profile'
+title: Nanjing - A profile
 permalink: /china/know/china-municipalities-provinces/nanjing-profile/
-breadcrumb: 'Nanjing - A profile'
-
+breadcrumb: Nanjing - A profile
+variant: markdown
 ---
-
-
-<img src="\images\china-selected\nanjing-profile.jpg" alt="nanjing profile banner" style="width:800px;" />
+<img src="\images\china-selected\nanjing-profile.jpg" alt="nanjing profile banner" style="width:800px;">
 
 This article provides an overview of Nanjing for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -21,7 +19,7 @@ This article provides an overview of Nanjing for those keen on exploring the pos
 
 ### **Introduction**
 
-Nanjing is the capital city of Jiangsu Province in East China. Founded 2,500 years ago, the city has long been “a major centre of culture, education, research, politics, economy, transport networks and tourism.”[^6] It has also been dubbed the “Capital of 10 Ancient Dynasties”, given that it served as the capital city for many Chinese dynasties, and twice as the capital of a united China until the Japanese conquered it in 1937.[^7]
+Nanjing is the capital city of Jiangsu Province in East China. Established more than 2,500 years ago, the city has many historical sights, its memorials, museums and cultural sights.[^6] It has also been dubbed the “Capital of 10 Ancient Dynasties”, given that it served as the capital city for many Chinese dynasties, and twice as the capital of a united China until the Japanese conquered it in 1937.[^7]
 
 ### **Geography**
 
@@ -69,13 +67,13 @@ Nanjing has always been viewed as a city of culture and one of the more pleasant
 
 [^5]: Nanjing (Jiangsu) city information. (2021, January 28). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/jiangsu/nanjing){:target="_blank"}
 
-[^6]: Nanjing. (n.d.). *Hioffer.* Retrieved March 8, 2021, from [https://www.hioffer.com](https://www.hioffer.com/area/detail?id=136){:target="_blank"}
+[^6]: General Introduction of Nanjing. (2014, March 5). *Nanjing, China.* Retrieved April 8, 2024, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/gynj/overview/201403/t20140325_1946035.html){:target="_blank"}
 
-[^7]:  Charming Nanjing, the magnificent city. (2015, July 6). *Nanjing, China.* Retrieved March 8, 2021, from Nanjing.gov.cn website: [http://english.nanjing.gov.cn](http://english.nanjing.gov.cn/gynj/overview/201507/t20150706_1946036.html){:target="blank"}; Zeng, Z., & Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="blank"}
+[^7]: Charming Nanjing, the magnificent city. (2015, July 6). *Nanjing, China.* Retrieved April 8, 2024, from: [http://english.nanjing.gov.cn](http://english.nanjing.gov.cn/gynj/overview/201507/t20150706_1946036.html){:target="_blank"}; Zeng, Z., &amp; Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
 
 [^8]: General introduction of Nanjing. (2014, March 25). *Nanjing, China.* Retrieved March 8, 2021, from [http://english.nanjing.gov.cn](http://english.nanjing.gov.cn/gynj/overview/201403/t20140325_1946035.html){:target="_blank"}
 
-[^9]: Zeng, Z., & Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
+[^9]: Zeng, Z., &amp; Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
 
 [^10]: Nanjing office. (2019). *Bay Area Council.* Retrieved March 8, 2021, from [https://www.bayareacouncil.org](https://www.bayareacouncil.org/issues-initiatives/china-policy-overview/nanjing-office/){:target="_blank"}
 
@@ -91,11 +89,11 @@ Nanjing has always been viewed as a city of culture and one of the more pleasant
 
 [^16]: Chinese cities of opportunity 2020. (2020). PwC China. Retrieved March 8, 2021, from [https://www.pwccn.com](https://www.pwccn.com/en/research-and-insights/chinese-cities-of-opportunities-2020-report.pdf){:target="_blank"}
 
-[^17]: City profiling study of China: Nanjing City. (2016, November). Euromonitor International, & United States Department of Agriculture Foreign Agricultural Service.. Retrieved March 8, 2021, from [https://gain.fas.usda.gov](https://gain.fas.usda.gov/Recent GAIN Publications/Emerging City Market Report - Nanjing_Shanghai ATO_China - Peoples Republic of_3-1-2018.pdf)){:target="_blank"}
+[^17]: City profiling study of China: Nanjing City. (2016, November). Euromonitor International, &amp; United States Department of Agriculture Foreign Agricultural Service.. Retrieved March 8, 2021, from [https://gain.fas.usda.gov](https://gain.fas.usda.gov/Recent GAIN Publications/Emerging City Market Report - Nanjing_Shanghai ATO_China - Peoples Republic of_3-1-2018.pdf)){:target="_blank"}
 
 [^18]: Nanjing, city of innovation cum Singapore Nanjing Eco Hi-tech Island Investment Seminar. (2019). sgsme.sg. Retrieved March 8, 2021, from [https://www.sgsme.sg](https://www.sgsme.sg/events/nanjing-city-innovation-cum-singapore-nanjing-eco-hi-tech-island-investment-seminar){:target="_blank"}
 
-[^19]: City profiling study of China: Nanjing City. (2016, November). Euromonitor International, & United States Department of Agriculture Foreign Agricultural Service. Retrieved March 8, 2021, from [https://gain.fas.usda.gov](https://gain.fas.usda.gov/Recent%20GAIN%20Publications/Emerging%20City%20Market%20Report%20-%20Nanjing_Shanghai%20ATO_China%20-%20Peoples%20Republic%20of_3-1-2018.pdf){:target="_blank"}
+[^19]: City profiling study of China: Nanjing City. (2016, November). Euromonitor International, &amp; United States Department of Agriculture Foreign Agricultural Service. Retrieved March 8, 2021, from [https://gain.fas.usda.gov](https://gain.fas.usda.gov/Recent%20GAIN%20Publications/Emerging%20City%20Market%20Report%20-%20Nanjing_Shanghai%20ATO_China%20-%20Peoples%20Republic%20of_3-1-2018.pdf){:target="_blank"}
 
 [^20]: Lung, N. (2018, June 5). Singapore and Nanjing deepen collaboration on AI and sustainable urban solutions. *OpenGov.* Retrieved March 8, 2021, from [https://www.opengovasia.com](https://www.opengovasia.com/singapore-and-nanjing-deepen-collaboration-on-ai-and-sustainable-urban-solutions/){:target="_blank"}
 
