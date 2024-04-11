@@ -1,12 +1,10 @@
 ---
-title: 'Thailand - A country profile'
+title: Thailand - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/thailand-a-country-profile/
-breadcrumb: 'Thailand - A country profile'
-
+breadcrumb: Thailand - A country profile
+variant: markdown
 ---
-
-
-<img src="/images/asean-countries/Thailand snapshot cover iso.jpg" alt="Thailand snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Thailand snapshot cover iso.jpg" alt="Thailand snapshot banner" style="width:800px;">
 
 This article provides an overview of Thailand for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -54,7 +52,17 @@ Thailand is home to Buddhist temples, exotic wildlife and spectacular islands. I
 
 ### **Thailand 4.0**
 
-Thailand 4.0 is an economic model that aims to “unlock Thailand from several economic challenges and help the country break free from the middle-income trap”. It comprises four objectives: economic prosperity – to  create a value-based economy that is driven by innovation, technology and creativity; social well-being – to   create a society that moves forward without leaving anyone behind (inclusive society) through realisation of the full potential of all members of society; raising human values – to transform cost-effective labour into a skilled workforce; and environmental protection – to become a liveable society that possesses an economic system capable of adjusting to climate change and low carbon society.[^24]
+Thailand 4.0 is an economic model that aims to deal with the "middle income trap", economic disparities and the imbalance between the environment and society, by developing a value-based economy.
+
+The model has three elements:
+
+1.  
+
+“unlock Thailand from several economic challenges and help the country break free from the middle-income trap”. It comprises four objectives: 
+economic prosperity – to  create a value-based economy that is driven by innovation, technology and creativity; 
+social well-being – to   create a society that moves forward without leaving anyone behind (inclusive society) through realisation of the full potential of all members of society; 
+raising human values – to transform cost-effective labour into a skilled workforce; and 
+environmental protection – to become a liveable society that possesses an economic system capable of adjusting to climate change and low carbon society.[^24]
 
 ---
 
@@ -70,7 +78,7 @@ Thailand 4.0 is an economic model that aims to “unlock Thailand from several e
 
 [^5]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
 
-[^6]:Prime Minister. (n.d.). Office of the Prime Minister. Retrieved December 9, 2020, from  [https://www.opm.go.th](https://www.opm.go.th/opmportal//index.asp?langs=2&pageid=1629&parent=1629&directory=12145&pagename=content1){:target="_blank"}
+[^6]:Prime Minister. (n.d.). Office of the Prime Minister. Retrieved December 9, 2020, from  [https://www.opm.go.th](https://www.opm.go.th/opmportal//index.asp?langs=2&amp;pageid=1629&amp;parent=1629&amp;directory=12145&amp;pagename=content1){:target="_blank"}
 
 [^7]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
 
@@ -106,4 +114,4 @@ Thailand 4.0 is an economic model that aims to “unlock Thailand from several e
 
 [^23]: Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society,* p. 569. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
 
-[^24]:Thailand 4.0. (n.d.).* Royal Thai Embassy, Washington D.C.* Retrieved December 9, 2020, from [https://thaiembdc.org](https://thaiembdc.org/thailand-4-0-2/){:target="_blank"}
+[^24]:Languepin, Olivier, (2019, February 7). Thailand 4.0, what do you need to know? *Thailand Business News.* Retrieved April 11, 2024, from [https://www.thailand-business-news.com](https://www.thailand-business-news.com/featured/54286-thailand-4-0-need-know){:target="_blank"}
