@@ -44,7 +44,7 @@ This online magazine provides the latest updates on the economy and related soci
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**Exploring Tianjin**](http://www.chinadaily.com.cn/m/tianjin2012/){:target="_blank"}
+[**Exploring Tianjin**](http://www.exploringtianjin.com/){:target="_blank"}
 
 This website sponsored by the Tianjin municipal government provides information and resources for local residents, visitors and businesses.
 
@@ -62,7 +62,7 @@ This report provides an overview of China's economic development landscape and d
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**From red to green: Let a hundred eco-cities blossom: the case of Tianjin Eco-city**](https://dspace.library.uu.nl/bitstream/handle/1874/330488/final%20version%20thesis%20Tianjin%20Eco-city%20%28Pien%2C%20Bacchus%20and%20Anne%20Lotte%29.pdf?sequence=2&amp;isAllowed=y){:target="_blank"}
+[**From red to green: Let a hundred eco-cities blossom: the case of Tianjin Eco-city**](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/22171/final%20version%20thesis%20Tianjin%20Eco-city%20(Pien,%20Bacchus%20and%20Anne%20Lotte).pdf?sequence=2){:target="_blank"}
 
 This thesis presents a holistic approach to study how and to what extent the Tianjin Eco-city contributes to urban sustainability in China. This involves using environmental studies to analyse the negative impacts of human action (such as pollution and waste production) on the city as well as development studies which look at the living well-being and equality of residents. It then applies social sciences, namely using the disciplines of sociology and psychology to study human behaviour and to examine how interactions between institutions and humans affect the progress of urban sustainability.
 
