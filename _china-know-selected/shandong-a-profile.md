@@ -34,7 +34,7 @@ Jinan, Qingdao, Weifang, Weihai, Yantai and Zibo are some of the major cities in
 
 #### **Jinan**
 
-Jinan is the capital city of Shandong province. In 2019, its population was 8.91 million. Its GDP was RMB 944.3 billion in 2019.[^9] It is also known as the City of Springs due to the presence of over 700 natural springs around the city.[^10] Jinan is one of China’s first three software cities, the other two being Chengdu and Nanjing. Its economic focus is on logistics, water management, ICT, healthcare and machinery equipment.[^11]
+Jinan is the capital city of Shandong province. In 2019, its population was 8.91 million. Its GDP was RMB 944.3 billion in 2019.[^9] It is also known as the City of Springs due to the presence of over 800 natural springs around the city.[^10] Jinan is one of China’s first three software cities, the other two being Chengdu and Nanjing. Its economic focus is on logistics, water management, ICT, healthcare and machinery equipment.[^11]
 
 #### **Qingdao**
 
