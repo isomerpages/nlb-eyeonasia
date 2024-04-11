@@ -65,50 +65,50 @@ The country will also focus on 10 targeted industries, namely: Aviation and logi
 
 ### **References**
 
-[^1]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^1]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^2]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 14. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^2]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 14. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^3]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 14. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^3]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 14. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^4]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^4]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^5]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^5]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
 [^6]:Prime Minister. (n.d.). Office of the Prime Minister. Retrieved December 9, 2020, from  [https://www.opm.go.th](https://www.opm.go.th/opmportal//index.asp?langs=2&amp;pageid=1629&amp;parent=1629&amp;directory=12145&amp;pagename=content1){:target="_blank"}
 
-[^7]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^7]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^8]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^8]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^9]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^9]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^10]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 58. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^10]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 58. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^11]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^11]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^12]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13, 76-78. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^12]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 13, 76-78. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^13]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^13]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
 [^14]:Thailand. (2020). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/market-profile){:target="_blank"}
 
-[^15]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 16. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^15]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 16. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
 [^16]:Thailand. (n.d.). *Ministry of Foreign Affairs Singapore.* Retrieved December 9, 2020, from [https://www.mfa.gov.sg](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/Countries-and-Regions/Southeast-Asia/Thailand){:target="_blank"}
 
-[^17]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from  [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="_blank"}
+[^17]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="_blank"}
 
 [^18]:Thailand plans massive investment in transport infrastructure. (2017, January 10). *LinkedIn.* Retrieved December 9, 2020, from [https://www.linkedin.com](https://www.linkedin.com/pulse/thailand-plans-massive-investment-transport-german-thai){:target="_blank"}
 
-[^19]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from  [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="_blank"}
+[^19]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="_blank"}
 
-[^20]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from  [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="blank"} ;  Thailand’s automotive industry outlook 2019. (2019). *AEC Business Advisory.* Retrieved December 9, 2020, from [https://kasikornbank.com](https://kasikornbank.com/international-business/en/Thailand/IndustryBusiness/Pages/201901_Thailand_AutoOutlook19.aspx){:target="blank"}
+[^20]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="blank"} ;  Thailand’s automotive industry outlook 2019. (2019). *AEC Business Advisory.* Retrieved December 9, 2020, from [https://kasikornbank.com](https://kasikornbank.com/international-business/en/Thailand/IndustryBusiness/Pages/201901_Thailand_AutoOutlook19.aspx){:target="blank"}
 
 [^21]:Visit Thailand. (n.d.). *Danish-Thai Chamber of Commerce.* Retrieved December 9, 2020, from [https://dancham.or.th](https://dancham.or.th/visit-thailand/){:target="_blank"}
 
 [^22]:Tourism statistics Thailand 2000-2020. (2020). Thaiwebsites.com. Retrieved December 9, 2020, from [http://www.thaiwebsites.com](http://www.thaiwebsites.com/tourism.asp){:target="_blank"}
 
-[^23]: Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society,* p. 569. Retrieved December 9, 2020, from  [http://service.nso.go.th](http://service.nso.go.th/nso/nsopublish/pubs/e-book/SYB-2563/files/assets/basic-html/index.html#1){:target="_blank"}
+[^23]: Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society,* p. 569. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
 [^24]:Languepin, Olivier, (2019, February 7). Thailand 4.0, what do you need to know? *Thailand Business News.* Retrieved April 11, 2024, from [https://www.thailand-business-news.com](https://www.thailand-business-news.com/featured/54286-thailand-4-0-need-know){:target="_blank"}
