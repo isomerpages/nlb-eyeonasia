@@ -1,26 +1,24 @@
 ---
-title: 'Business culture in Vietnam'
+title: Business culture in Vietnam
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-vietnam/
-breadcrumb: 'Business culture in Vietnam'
-
+breadcrumb: Business culture in Vietnam
+variant: markdown
 ---
-
-
-<img src="/images/asean-working/ASEAN-Vietnam-Business-Culture.jpg" alt="Business culture Vietnam banner" style="width:800px;" />
+<img src="/images/asean-working/ASEAN-Vietnam-Business-Culture.jpg" alt="Business culture Vietnam banner" style="width:800px;">
 
 This is a selection of resources on business culture in Vietnam available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Vietnam-business-guide-Getting-started-in-tomorrow’s-market-today.jpg" style="width:150px;" />
+<img src="/images/book-covers/Vietnam-business-guide-Getting-started-in-tomorrow’s-market-today.jpg" style="width:150px;">
 
 [**Vietnam business guide: Getting started in tomorrow’s market today**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13568218){:target="_blank"}
 
 This guide reveals the unique aspects of Vietnam’s business landscape for foreigners interested in entering its business market.
 
-All rights reserved, Singapore: John Wiley & Sons (Asia), 2010.
+All rights reserved, Singapore: John Wiley &amp; Sons (Asia), 2010.
 
-<img src="/images/book-covers/Doing-business-in-the-ASEAN-countries.jpg" style="width:150px;" />
+<img src="/images/book-covers/Doing-business-in-the-ASEAN-countries.jpg" style="width:150px;">
 
 [**Doing business in the ASEAN countries**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14192497){:target="_blank"}
 
@@ -28,7 +26,7 @@ A practical and comprehensive guide for those keen on doing business in the vari
 
 All rights reserved, New York: Business Expert Press, 2010.
 
-<img src="/images/book-covers/Guerilla-capitalism-The-state-in-the-market-in-Vietnam.jpg" style="width:150px;" />
+<img src="/images/book-covers/Guerilla-capitalism-The-state-in-the-market-in-Vietnam.jpg" style="width:150px;">
 
 [**Guerilla capitalism – The state in the market in Vietnam**](https://nlb.overdrive.com/media/1747903){:target="_blank"}
 
@@ -36,7 +34,7 @@ Based on interviews conducted with managers of state-owned enterprises in Vietna
 
 Retrieved from OverDrive. (*myLibrary ID* is required to access this ebook.)
 
-<img src="/images/book-covers/Vietnam-rising-Culture-and-change-in-Asia’s-tiger-cub.jpg" style="width:150px;" />
+<img src="/images/book-covers/Vietnam-rising-Culture-and-change-in-Asia’s-tiger-cub.jpg" style="width:150px;">
 
 [**Vietnam rising: Culture and change in Asia’s tiger cub**](https://nlb.overdrive.com/media/1556320){:target="_blank"}
 
@@ -48,8 +46,8 @@ Retrieved from OverDrive. (*myLibrary ID* is required to access this ebook.)
 
 ### **You may also like**
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**Business etiquette in Vietnam**](https://www.vietchamsg.org/business-etiquette-vietnam/){:target="_blank"}
+[**Business Etiquette in Vietnam – Customs and Tips**](https://www.vietnam-briefing.com/news/business-etiquette-vietnam-customs-and-tips.html/){:target="_blank"}
 
-This article provides advice on the key beliefs, values and attitudes upheld in Vietnamese businesses.
+This article provides advice on business etiquette in Vietnam, including business greetings, attire, social actions, etc.
