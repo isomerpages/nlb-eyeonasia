@@ -18,15 +18,13 @@ This article provides an overview of Shandong for those keen on exploring the po
 
 ### **Introduction**
 
-Shandong province is located on the eastern coast of China. It borders Tianjin and Hebei to the north, Henan to the west, and Anhui and Shandong to the south. The province has a well-developed rail network system comprising the Beijing-Shanghai Railway, Beijing-Kowloon Railway and many other high-speed railway lines. It also has eight civil airports and seven sea ports, including Qingdao Port.[^5]
+Shandong province is located on the eastern coast of China. It borders Tianjin and Hebei to the north, Henan to the west, and Anhui and Shandong to the south. The province has a well-developed rail network system comprising the Beijing-Shanghai Railway, Beijing-Kowloon Railway and many other high-speed railway lines. It also has seven civil airports and 24 harbours, including Qingdao Port.[^5]
 
 ### **Economy**
 
  In 2022, Shandong’s economy was the third largest in China, after Guangdong and Jiangsu.[^6] 
 
 ### **Industries**
-
-
 
 Heavy industry accounts for more than 67 percent of Shandong’s gross industrial output. The five main industry sectors in Shandong (by share of a value-added industrial output in percentage terms) are raw chemical materials and chemical products (10.3 percent), processing of oil, coal and other fuel (10 percent), processing of food from agricultural products (6.1 percent), manufacturing and processing of non-ferrous metals (5.1 percent) and production and supply of electric power and heat power (5.1 percent). The province also produces almost 12 percent of China’s total crude oil output. Agricultural production includes apples, peanuts and vegetables.[^7]
 
@@ -84,7 +82,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^4]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
-[^5]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
+[^5]: Doing Business in Shandong. (n.d.). *Ministry of Commerce of the People's Republic of China.* Retrieved April 9, 2024, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shandong.shtml){:target="_blank"}
 
 [^6]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
