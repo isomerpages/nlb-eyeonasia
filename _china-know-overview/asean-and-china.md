@@ -101,7 +101,7 @@ This is a video-recording of a forum discussion, held by Milken Institute, on ho
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**The state of Southeast Asia: 2020 survey report**](https://www.iseas.edu.sg/images/pdf/TheStateofSEASurveyReport_2020.pdf){:target="_blank"}
+[**The state of Southeast Asia: 2020 survey report**](https://www.iseas.edu.sg/wp-content/uploads/pdfs/TheStateofSEASurveyReport_2020.pdf){:target="_blank"}
 
 Published by the ASEAN Studies Centre at ISEAS-Yusof Ishak Institute, this report contains the results of The State of Southeast Asia survey conducted in late 2019. The findings indicate that while China is seen as the most influential strategic power in the region, 71.9% of respondents are also worried about its expanding influence. A majority of respondents from Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar and Thailand also prefer China over the United States.
 
