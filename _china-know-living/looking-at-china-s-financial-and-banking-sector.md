@@ -108,9 +108,9 @@ This article takes a look at China’s efforts to rescue and consolidate the str
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**The rise of fintech in China: Redefining financial services**](http://www.ey.com/Publication/vwLUAssets/ey-the-rise-of-fintech-in-china/$FILE/ey-the-rise-of-fintech-in-china.pdf){:target="_blank"}
+[**A Close Reading of China’s Fintech Development Plan for 2022-2025**](https://www.china-briefing.com/news/a-close-reading-china-fintech-development-plan-for-2022-2025/){:target="_blank"}
 
-This 48-page report discusses the emergence of China as the leader in the global financial technology (FinTech) market. Opportunities abound, both domestically and internationally, for Chinese FinTech firms to leverage big data, social media and other Internet-based services to transform customer experience and introduce innovative product offerings.
+This article discusses the contents of China’s Fintech Development Plan for 2022-2025, released by the People's Bank of China. This second plan emphasizes “building momentum” on the basis of “accumulation” to leapfrog the sector’s progress by 2025.
 
 
 
