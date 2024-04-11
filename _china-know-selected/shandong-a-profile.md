@@ -2,18 +2,19 @@
 title: Shandong - A profile
 permalink: /china/know/china-municipalities-provinces/shandong-profile/
 breadcrumb: Shandong - A profile
+variant: markdown
 ---
-<img src="\images\china-selected\shandong-profile.jpg" alt="shandong profile banner" style="width:800px;" />
+<img src="\images\china-selected\shandong-profile.jpg" alt="shandong profile banner" style="width:800px;">
 
 This article provides an overview of Shandong for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
 ### **Key Facts**
 
 - **Land area:** 157,900 sq km[^1]
-- **Population (2019):** 100.7 million[^2]
+- **Population (2022):** 101.6 million[^2]
 - **Provincial capital:** Jinan
-- **Gross Regional Product (GRP) (2019):** RMB 7,106.8 billion[^3]
-- **GRP per capita (2019):** RMB 70,653[^4]
+- **Gross Regional Product (GRP) (2022):** RMB 8,743.5 billion[^3]
+- **GRP per capita (2019):** RMB 86,003[^4]
 
 ### **Introduction**
 
@@ -21,17 +22,17 @@ Shandong province is located on the eastern coast of China. It borders Tianjin a
 
 ### **Economy**
 
- In 2019, Shandong’s economy was the third largest in China, after Guangdong and Jiangsu.[^6] 
+ In 2022, Shandong’s economy was the third largest in China, after Guangdong and Jiangsu.[^6] 
 
 ### **Industries**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shandong-chart-1.jpg" style="width:400px;" />Data Source: CEIC</div-->
+
 
 Heavy industry accounts for more than 67 percent of Shandong’s gross industrial output. The five main industry sectors in Shandong (by share of a value-added industrial output in percentage terms) are raw chemical materials and chemical products (10.3 percent), processing of oil, coal and other fuel (10 percent), processing of food from agricultural products (6.1 percent), manufacturing and processing of non-ferrous metals (5.1 percent) and production and supply of electric power and heat power (5.1 percent). The province also produces almost 12 percent of China’s total crude oil output. Agricultural production includes apples, peanuts and vegetables.[^7]
 
 ### **Major cities**
 
- Jinan, Qingdao, Weifang, Weihai, Yantai and Zibo are some of the major cities in Shandong province.[^8]
+Jinan, Qingdao, Weifang, Weihai, Yantai and Zibo are some of the major cities in Shandong province.[^8]
 
 #### **Jinan**
 
@@ -71,21 +72,21 @@ The Singapore-Shandong Business Council (SSBC) was the first council to be estab
 
 SSBC has identified the trading of food products as one potential growth area. Shandong is the leading agricultural province in China and the top exporter of agricultural produce to Singapore among the Chinese provinces. Key products exported to Singapore include apples, pears and Chinese cabbages. “There is opportunity for Singapore traders and distributors to import a wider range of produce from Shandong that are in demand in Singapore, especially premium fruits and vegetables such as cherries and black garlics. For example, Singapore company Siji Trading is collaborating with NTUC Fairprice to promote Shandong fruits and vegetables in their outlets.” 
 
- Another area that Singapore companies can also partner Shandong in is the sustainable development, as the province steers its traditional industries such as oil & gas towards more environmentally sustainable practices. These include water and waste management, optimisation of energy utilities and the upgrading efforts of refineries to improve operational efficiency and quality of products. For example, Singapore Vac-Tech Engineering is partnering Yantai’s oilfield services company, Jereh Group, to customise an advanced tank cleaning solution to achieve greater efficiency. The solution is currently undergoing test-bedding on Singapore’s Jurong Island, and will potentially be deployed in Shandong and other markets.[^29]
+ Another area that Singapore companies can also partner Shandong in is the sustainable development, as the province steers its traditional industries such as oil &amp; gas towards more environmentally sustainable practices. These include water and waste management, optimisation of energy utilities and the upgrading efforts of refineries to improve operational efficiency and quality of products. For example, Singapore Vac-Tech Engineering is partnering Yantai’s oilfield services company, Jereh Group, to customise an advanced tank cleaning solution to achieve greater efficiency. The solution is currently undergoing test-bedding on Singapore’s Jurong Island, and will potentially be deployed in Shandong and other markets.[^29]
 
 ---
 ### **References**
 [^1]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
 
-[^2]: 2-6: Population at year-end by region. (2020). *National Bureau of Statistics of China.*.Retrieved March 9, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^2]: 2-6: Population at year-end by region. (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
-[^3]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
+[^3]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
-[^4]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
+[^4]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
 [^5]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
-[^6]: 3-9: Gross regional product (2019). (2020). *National Bureau of Statistics of China.*.Retrieved March 9, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm){:target="_blank"}
+[^6]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
 [^7]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
 
