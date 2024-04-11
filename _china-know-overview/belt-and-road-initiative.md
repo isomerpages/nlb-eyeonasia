@@ -142,7 +142,7 @@ All rights reserved, Princeton, NJ: Center for Modern China, 2017.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**China’s Belt and Road Initiative: A guide to market participation**](https://cib.db.com/docs_new/DB_Belt-and-Road_Report.pdf){:target="_blank"}
+[**China’s Belt and Road Initiative: A guide to market participation**](https://corporates.db.com/files/documents/chinas-belt-and-road-initiative-a-guide-to-market-participation.pdf){:target="_blank"}
 
 This white paper provides an overview of the Belt and Road Initiative (BRI) in the context of the global marketplace. It includes case studies of various BRI projects around the world and expansion plans in Europe and South America.
 
@@ -208,6 +208,6 @@ The sharing of the European Union’s (EU) social and environmental best practic
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**Understanding China’s Belt and Road initiative**](https://www.lowyinstitute.org/sites/default/files/documents/Understanding%20China%E2%80%99s%20Belt%20and%20Road%20Initiative_WEB_1.pdf){:target="_blank"}
+[**Understanding China’s Belt and Road initiative**](https://www.lowyinstitute.org/publications/understanding-china-s-belt-road-initiative){:target="_blank"}
 
 This analysis argues that the main objective driving the Belt and Road Initiative (BRI) is China’s need to stimulate economic growth in its underdeveloped rural hinterland. Beijing also wants to leverage on OBOR to export China’s technological and engineering standards to upgrade the country’s industry.
