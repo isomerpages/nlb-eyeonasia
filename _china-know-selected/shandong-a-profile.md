@@ -92,7 +92,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^9]: Jinan (Shandong) city information. (2021, February 23). *HKTDC.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/jinan){:target="_blank"}
 
-[^10]: Shandong Jinan, the city of springs. (n.d.) *Friendly Shandong*. Retrieved March 9, 2021, from [http://www.travelshandong.com](http://www.travelshandong.com/cities/jinan/){:target="_blank"}
+[^10]: Jinan: a veritable City of Springs. (2017, August 31) *China Daily*. Retrieved April 9, 2024, from [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn/m/shandong/shandongculture/2017-08/31/content_31327479.htm){:target="_blank"}
 
 [^11]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
