@@ -2,8 +2,9 @@
 title: Wuhan - A profile
 permalink: /china/know/china-municipalities-provinces/wuhan-profile/
 breadcrumb: Wuhan - A profile
+variant: markdown
 ---
-<img src="\images\china-selected\wuhan-profile.jpg" alt="wuhan profile banner" style="width:800px;" />
+<img src="\images\china-selected\wuhan-profile.jpg" alt="wuhan profile banner" style="width:800px;">
 
 This article provides an overview of Wuhan for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -53,9 +54,9 @@ On 17 January 2018, CapitaLand, through its wholly-owned subsidiary CapitaLand C
 
 ---
 ### **References**
-[^1]: Geography. (n.d.). *The Government of Wuhan.* Retrieved March 9, 2021, from [http://english.wuhan.gov.cn](http://english.wuhan.gov.cn/WO_1/NaG_1/202003/t20200316_950309.shtml){:target="_blank"}
+[^1]: Geography. (n.d.). *The Government of Wuhan.* Retrieved April 9, 2024, from [http://english.wuhan.gov.cn](https://english.wuhan.gov.cn/overview4of4wuhan/geography/202110/t20211026_1819195.shtml){:target="_blank"}
 
-[^2]: Geography. (n.d.). *The Government of Wuhan.* Retrieved March 9, 2021, from [http://english.wuhan.gov.cn](http://english.wuhan.gov.cn/WO_1/NaG_1/202003/t20200316_950309.shtml){:target="_blank"}
+[^2]: Geography. (n.d.). *The Government of Wuhan.* Retrieved April 9, 2024, from [http://english.wuhan.gov.cn](https://english.wuhan.gov.cn/overview4of4wuhan/geography/202110/t20211026_1819195.shtml){:target="_blank"}
 
 [^3]: Wuhan (Hubei) city information. (2021, January 25). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/hubei/wuhan){:target="_blank"}
 
@@ -65,9 +66,9 @@ On 17 January 2018, CapitaLand, through its wholly-owned subsidiary CapitaLand C
 
 [^6]: Wuhan (Hubei) city information. (2021, January 25). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/hubei/wuhan){:target="_blank"}
 
-[^7]: History. (n.d.). *The Government of Wuhan.* Retrieved March 9, 2021, from [http://english.wuhan.gov.cn](http://english.wuhan.gov.cn/WO_1/WH_1/202003/t20200316_950372.shtml){:target="_blank"}
+[^7]: History. (n.d.). *The Government of Wuhan.* Retrieved March 9, 2021, from [http://english.wuhan.gov.cn](https://english.wuhan.gov.cn/overview4of4wuhan/history/202110/t20211026_1819199.shtml){:target="_blank"}
 
-[^8]: Geography. (n.d.). *The Government of Wuhan.* Retrieved March 9, 2021, from [http://english.wuhan.gov.cn](http://english.wuhan.gov.cn/WO_1/NaG_1/202003/t20200316_950309.shtml){:target="_blank"}
+[^8]: Geography. (n.d.). *The Government of Wuhan.* Retrieved March 9, 2021, from [http://english.wuhan.gov.cn](https://english.wuhan.gov.cn/overview4of4wuhan/geography/202110/t20211026_1819195.shtml){:target="_blank"}
 
 [^9]: Economic Profile of China’s Hubei Province. (2020, September 15). *The Canadian Trade Commissioner Service.* Retrieved March 9, 2021, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
 
