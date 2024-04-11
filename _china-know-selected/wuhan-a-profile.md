@@ -88,7 +88,7 @@ On 17 January 2018, CapitaLand, through its wholly-owned subsidiary CapitaLand C
 
 [^17]: Summer studies: Wuhan University. (2018, December 27). *Nanyang Technological University.* Retrieved March 9, 2021, from [https://global.ntu.edu.sg](https://global.ntu.edu.sg/GMP/gemdiscoverer/Summer%20Studies/Pages/Wuhan-University.aspx){:target="blank"}; Cooperation partners. (2014). *Wuhan University.* Retrieved March 9, 2021, from [https://en.whu.edu.cn](https://en.whu.edu.cn/info/1023/1016.htm){:target="blank"}; SMU ventures into Xi’an and cements ties with leading Chinese partner universities in Chengdu and Wuhan. (2018, June 28). *Singapore Management University.* Retrieved March 9, 2021, from [https://admissions.smu.edu.sg](https://admissions.smu.edu.sg/our-community/news/smu-ventures-xian-and-cements-ties-leading-chinese-partner-universities-chengdu){:target="blank"}
 
-[^18]: Economic Profile of China’s Hubei Province. (2020, September 15). *The Canadian Trade Commissioner Service.* Retrieved March 9, 2021, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
+[^18]: Factbox: Key facts about Wuhan, epicenter of China's virus outbreak. (2020, January 23). *Reuters.* Retrieved April 9, 2024, from [https://www.reuters.com](https://www.reuters.com/article/idUSKBN1ZL1P6/){:target="_blank"}
 
 [^19]: Wuhan travel guide. (2019, May 5). *Travel China Guide.* Retrieved March 9, 2021, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/wuhan.htm){:target="_blank"}
 
