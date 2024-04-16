@@ -65,7 +65,7 @@ All rights reserved, Cheltenham: Edward Elgar Publishing, 2019
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**China’s progress towards green growth: An international perspective**](https://www.oecd.org/env/country-reviews/PR-China-Green-Growth-Progress-Report-2018.pdf){:target="_blank"}
+[**China’s progress towards green growth: An international perspective**](https://www.oecd-ilibrary.org/environment/china-s-progress-towards-green-growth_76401a8c-en){:target="_blank"}
 
 This report, compiled by the Organisation for Economic Co-operation and Development (OECD), illustrates China’s progress towards green growth in the context of economic and industrial development. Written from an international perspective, the report found that while China has made great strides, more can be done to achieve greater energy efficiency and improve environmental policies.
 
