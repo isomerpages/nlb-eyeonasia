@@ -1,12 +1,10 @@
 ---
-title: 'Indonesia - A country profile'
+title: Indonesia - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/indonesia-a-country-profile/
-breadcrumb: 'Indonesia - A country profile'
-
+breadcrumb: Indonesia - A country profile
+variant: markdown
 ---
-
-
-<img src="/images/asean-countries/Indonesia snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Indonesia snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;">
 
 This article provides an overview of Indonesia for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -35,7 +33,7 @@ Indonesia’s population reached 268.1 million in 2019, up from 238.5 million in
 
 **Economic profile**
 
-Indonesia is ASEAN’s largest economy.[^13] Its GDP in 2019 was IDR 15,833.9 trillion, a growth of more than six percent from the IDR 14,838.3 trillion achieved in 2017.[^14]  Since 2014, the Indonesian government has been pushing ahead with its plans to make Indonesia a manufacturing hub for Southeast Asia. In 2018, it launched the Making Indonesia 4.0 Roadmap, which aims to boost the industry’s competitiveness by incorporating major innovations such as artificial intelligence, robotics and sensor technology. The roadmap focuses on the capability upgrading of five manufacturing sectors, namely F&B, automotive, electronics, chemicals, and textile and garment.[^15]
+Indonesia is ASEAN’s largest economy.[^13] Its GDP in 2019 was IDR 15,833.9 trillion, a growth of more than six percent from the IDR 14,838.3 trillion achieved in 2017.[^14]  Since 2014, the Indonesian government has been pushing ahead with its plans to make Indonesia a manufacturing hub for Southeast Asia. In 2018, it launched the Making Indonesia 4.0 Roadmap, which aims to boost the industry’s competitiveness by incorporating major innovations such as artificial intelligence, robotics and sensor technology. The roadmap focuses on the capability upgrading of five manufacturing sectors, namely F&amp;B, automotive, electronics, chemicals, and textile and garment.[^15]
 
  **Consumer market**
 
@@ -58,7 +56,7 @@ Indonesia also promotes itself as a key halal destination in the region by devel
 
 [^3]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
 
-[^4]: Presiden dan wakil presiden. (2020). *Portal Informasi Indonesia.* Retrieved October 15, 2020, from [http://indonesia.go.id](https://indonesia.go.id/profil/presiden-dan-wakil-presiden){:target="_blank"}
+[^4]: Presiden dan Wakil Presiden. (2020). *Portal Informasi Indonesia.* Retrieved October 15, 2020, from [http://indonesia.go.id](https://indonesia.go.id/profil/presiden){:target="_blank"}
 
 [^5]: ASEAN member states. (n.d.). *Association of Southeast Asian Nations.* Retrieved October 15, 2020 from [http://asean.org](http://asean.org/asean/asean-member-states/){:target="_blank"} ↩
 
@@ -70,8 +68,10 @@ Indonesia also promotes itself as a key halal destination in the region by devel
 
 [^9]: About Indonesia and Jakarta. (2017). *Bank Indonesia.* Retrieved October 15, 2020, from [http://www.bi.go.id](http://www.bi.go.id/en/icomon/general/about-jakarta/Contents/Default.aspx){:target="_blank"}
 
-[^10]: UNESCO Jakarta marks “Batik Day” by wearing batik to work. (2017, October 3). *UNESCO Jakarta Regional Science Bureau for Asia and the Pacific.* Retrieved October 15, 2020, from [http://www.unesco.org](http://www.unesco.org/new/en/jakarta/about-this-office/single-view/news/unesco_jakarta_marks_batik_day_by_wearing_batik_to_wor/){:target="_blank"}
+[^10]: Indonesian Batik. (2009). *UNESCO Intangible Cultural Heritage.* Retrieved April 4, 2024, from [http://ich.unesco.org](https://ich.unesco.org/en/RL/indonesian-batik-00170){:target="_blank"}
+
 [^11]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
+
 [^12]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"}
 
 [^13]: Indonesia. (2020). *The World Bank.* Retrieved October 15, 2020, from [https://www.worldbank.org](https://www.worldbank.org/en/country/indonesia/overview){:target="_blank"}

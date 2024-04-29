@@ -1,18 +1,16 @@
 ---
-title: 'Discovering Jiangsu'
+title: Discovering Jiangsu
 permalink: /china/know/china-municipalities-provinces/jiangsu-guide/
-breadcrumb: 'Discovering Jiangsu'
-
+breadcrumb: Discovering Jiangsu
+variant: markdown
 ---
-
-
-<img src="\images\china-selected\jiangsu-guide.jpg" alt="jiangsu guide banner" style="width:800px;" />
+<img src="\images\china-selected\jiangsu-guide.jpg" alt="jiangsu guide banner" style="width:800px;">
 
 This is a selection of resources on Jiangsu available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/resources/Database 1.jpg" style="width:150px;" />
+<img src="/images/resources/Database 1.jpg" style="width:150px;">
 
 [**Singapore, a model for (sustainable?) urban development in China: An overview of 20 years of Sino-Singaporean cooperation**](https://eresources.nlb.gov.sg/Main/browse/resource/1322){:target="_blank"}
 
@@ -20,7 +18,7 @@ This study describes how China has looked at Singapore as a model in achieving s
 
 Retrieved from JSTOR. (*myLibrary* ID is required to access this database.)
 
-<img src="/images/resources/Database 2.jpg" style="width:150px;" />
+<img src="/images/resources/Database 2.jpg" style="width:150px;">
 
 [**Institutional change in China's sustainable urban development: A case study on urban renewal and water environmental management**](https://eresources.nlb.gov.sg/Main/browse/resource/1322){:target="_blank"}
 
@@ -28,7 +26,7 @@ Using the Lihu Lake basin in Wuxi (Jiangsu province) as a case study, this resea
 
 Retrieved from JSTOR. (*myLibrary* ID is required to access this database.)
 
-<img src="/images/book-covers/Suzhou-industrial-park-achievements-challenges-prospects.jpg" style="width:150px;" />
+<img src="/images/book-covers/Suzhou-industrial-park-achievements-challenges-prospects.jpg" style="width:150px;">
 
 [**Suzhou Industrial Park: Achievements, challenges and prospects**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204090524){:target="_blank"}
 
@@ -36,7 +34,7 @@ This book describes the economic advancement as well as the sociocultural develo
 
 All rights reserved, Singapore: World Scientific, 2020.
 
-<img src="/images/book-covers/Chinas-transformation-the-success-story.jpg" style="width:150px;" />
+<img src="/images/book-covers/Chinas-transformation-the-success-story.jpg" style="width:150px;">
 
 [**China’s transformation: The success story and the success trap**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203090564){:target="_blank"}
 
@@ -44,7 +42,7 @@ While China’s economic reforms and opening up have generated tremendous domest
 
 All rights reserved, New Delhi: SAGE Publications India Pvt Ltd, 2018.
 
-<img src="/images/resources/Database 3.jpg" style="width:150px;" />
+<img src="/images/resources/Database 3.jpg" style="width:150px;">
 
 [**Healthcare system responsiveness in Jiangsu province, China**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=E){:target="_blank"}
 
@@ -56,43 +54,43 @@ Retrieved from EBSCOHost Academic Search Premier. (*myLibrary* ID is required to
 
 ### **You may also like**
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" style="width:180px;">
 
 [**Singapore professional services companies band together to seize opportunities in Jiangsu**](https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/september/singapore-professional-services-companies-band-together-to-seize-opportunities-in-jiangsu){:target="_blank"}
 
 This media release from Enterprise Singapore outlines how Singapore and Jiangsu have recently worked together to deepen business collaborations, including aiding Jiangsu firms in their internationalisation efforts. An annex in the media release also provides some background information on the economic relations between Singapore and Jiangsu.
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;">
 
 [**Suzhou Industrial Park**](http://www.sipac.gov.cn/english/){:target="_blank"}
 
 This website provides comprehensive news on Suzhou Industrial Park’s latest developments in fields like infrastructure, education, tourism and culture. An investment guide is also provided, along with a description of the park’s masterplan and strategic advantages. 
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;">
 
 [**Jiangsu FTZ drives higher-level opening-up**](http://www.china.org.cn/business/2020-09/07/content_76678887.htm){:target="_blank"}
 
 This article describes how the Suzhou area of the Jiangsu Pilot Free Trade Zone (FTZ), a collaboration between Singapore and China, has become increasingly attractive to foreign investors. It also notes the role that the FTZ plays in the development of China’s economy as a whole. 
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;">
 
 [**Visionary partnership, knowledge innovation: Lessons and insights from the China-Singapore Suzhou Industrial Park**](https://www.clc.gov.sg/docs/default-source/books/book-visionary-partnership-suzhou.pdf){:target="_blank"}
 
 This publication explains how the Suzhou Industrial Park was conceptualised by both the Singapore and Chinese governments, how sound governance and accelerated development were achieved, and what further upgrading and changes will be needed in the future.
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**Jiangsu Chamber of International Commerce – Invest in Jiangsu**](http://en.coicjs.org/News/NewsType-203.aspx){:target="_blank"}
+[**Jiangsu Chamber of International Commerce – Invest in Jiangsu**](https://www.coicjs.org/col/col2568/index.html){:target="_blank"}
 
 Useful statistics on Jiangsu’s and China’s economies, with other commerce-related resources for anyone looking to conduct business in Jiangsu.
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;">
 
 [**Jiangsu now**](http://english.jschina.com.cn/){:target="_blank"}
 
 Up-to-date news on the happenings in Jiangsu, covering living, travelling, food, culture and investment opportunities.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;">
 
 [**Emerging industries become Wuxi’s economic new regime**](http://www.chinadaily.com.cn/m/jiangsu/wuxi/2017-02/09/content_28141527.htm){:target="_blank"}
 

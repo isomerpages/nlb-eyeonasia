@@ -1,12 +1,11 @@
 ---
 layout: contact_us
 permalink: /contact-us/
-breadcrumb: Contact Us
 title: Contact Us
 locations:
   - address:
-      - National Library Building
-      - "100 Victoria Street, Level 7, "
+      - 100 Victoria Street
+      - Level 7
       - Singapore 188064
     operating_hours:
       - days: Mon - Sun
@@ -14,8 +13,7 @@ locations:
         description: Closed at 5.00pm on eves of Christmas, New Year and Chinese New
           Year.  Closed on Public Holidays.
     maps_link: https://maps.google.com/maps?q=Level+7,+National+Library+Building100+Victoria+StreetSingapore+188064
-    title: HQ Address
-image-url: null
+    title: National Library Building
 contacts:
   - content:
       - phone: ""
@@ -24,4 +22,5 @@ contacts:
           idea to share with us? Tell us what you think!
     title: Email us at
 agency_name: Lee Kong Chian Reference Library
+feedback: https://go.gov.sg/nlb-form-feedback
 ---

@@ -1,7 +1,10 @@
 ---
-title: Interning in China - Opportunities and Insights
-permalink: /events/upcoming-events/16-may-2023/
-description: "Thrilled to find out what companies seek in their further employees and what sets a candidate apart from the others? Join us to hear China market gurus share their thoughts and insights."
+title: "Interning in China: Opportunities and Insights"
+permalink: /events/past-events/16-may-2023/
+description: Thrilled to find out what companies seek in their further employees
+  and what sets a candidate apart from the others? Join us to hear China market
+  gurus share their thoughts and insights.
+variant: tiptap
 ---
 ![16 May EDM](/images/past-events/16-may-2023/EOA-Website-edm.jpg)
 
@@ -14,7 +17,7 @@ Don’t miss out on the chance to learn and explore the limitless opportunities 
 ### **Watch the full programme:**
 
 <div>
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=b682c1d1-ffea-4978-9436-b0280014ae2d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=b682c1d1-ffea-4978-9436-b0280014ae2d&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
 </div>
 
 
@@ -45,6 +48,6 @@ Born in the late 70s, Keith is a 4th generation Singaporean educated in Singapor
 
 **Jimmy Lin**<br>
 **Senior Assistant to HR Director**<br>
-**SIG Tax & Accounting**
+**SIG Tax &amp; Accounting**
 
-Jimmy Lin, joined SIG Tax & Accounting after graduation from Singapore Management University. Now he holds the position of Senior Assistant to HR Director.
+Jimmy Lin, joined SIG Tax &amp; Accounting after graduation from Singapore Management University. Now he holds the position of Senior Assistant to HR Director.

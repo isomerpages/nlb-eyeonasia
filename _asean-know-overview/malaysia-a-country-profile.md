@@ -2,8 +2,9 @@
 title: Malaysia - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/malaysia-a-country-profile/
 breadcrumb: Malaysia - A country profile
+variant: markdown
 ---
-<img src="/images/asean-countries/Malaysia snapshot cover iso.jpg" alt="Malaysia snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Malaysia snapshot cover iso.jpg" alt="Malaysia snapshot banner" style="width:800px;">
 
 This article provides an overview of Malaysia for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -49,45 +50,45 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 ### **References**
 
-[^1]:Getting to Malaysia. (2023). *Malaysia Tourism Promotion Board*. Retrieved August 14, 2023, from [http://www.malaysia.travel](https://www.malaysia.travel/about-malaysia/getting-here){:target="_blank"}
+[^1]:Kuala Lumpur. (2024, April 8). *Encyclopaedia Britannica*. Retrieved April 4, 2024, from [https://www.britannica.com](https://www.britannica.com/place/Kuala-Lumpur){:target="_blank"}
 
 [^2]:About Malaysia. (2023). *Malaysia Tourism Promotion Board*. Retrieved August 14, 2023, from [http://www.malaysia.travel](https://www.malaysia.travel/about-malaysia){:target="_blank"}
 
 [^3]:Malaysia statistical handbook (p. 1). (2019, October). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/uploads/files/1_Articles_By_Themes/Others/MSHB/Buku_Maklumat_Perangkaan_Malaysia_2019.pdf){:target="_blank"}
 
-[^4]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=155&bul_id=OVByWjg5YkQ3MWFZRTN5bDJiaEVhZz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09){:target="_blank"}
+[^4]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=155&amp;bul_id=OVByWjg5YkQ3MWFZRTN5bDJiaEVhZz09&amp;menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09){:target="_blank"}
 
-[^5]:Biography. (2021). *Prime Minister’s Office of Malaysia*. Retrieved September 27, 2021, from [https://www.pmo.gov.my/](https://www.pmo.gov.my/biography-2/){:target="_blank"}
+[^5]:Ahli-Ahli Jemaah Menteri. (2024, April 8). *Jabatan Perdana Menteri*. Retrieved April 4, 2024, from [https://www.kabinet.gov.my/](https://www.kabinet.gov.my/bkpp/index.php/anggota-pentadbiran/menteri){:target="_blank"}
 
 [^6]: Official language. (2020). *MyGovernment*. Retrieved November 18, 2020, from [https://www.malaysia.gov.my/](https://www.malaysia.gov.my/portal/content/30118){:target="_blank"}
 
 [^7]:Currency. (2020). *MyGovernment*. Retrieved November 18, 2020, from [http://www.malaysia.gov.my](https://www.malaysia.gov.my/portal/content/140){:target="_blank"}
 
-[^8]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=153&bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
+[^8]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=153&amp;bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&amp;menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
 
-[^9]:My local stats 2019 publication. (2020, October 19). Department of Statistics Malaysia. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=450&bul_id=c1JUc0R6b2FINWpyM3hhRUhZY1dsQT09&menu_id=WjJGK0Z5bTk1ZElVT09yUW1tRG41Zz09){:target="_blank"}
+[^9]:My local stats 2019 publication. (2020, October 19). Department of Statistics Malaysia. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=450&amp;bul_id=c1JUc0R6b2FINWpyM3hhRUhZY1dsQT09&amp;menu_id=WjJGK0Z5bTk1ZElVT09yUW1tRG41Zz09){:target="_blank"}
 
 [^10]: About Malaysia. (2009, December 31). Ministry of Foreign Affairs, Malaysia. Retrieved November 18, 2020, from [https://www.kln.gov.my](https://www.kln.gov.my/web/deu_frankfurt/news-from-mission/-/blogs/about-malaysia){:target="blank"} ; Demography of population. (n.d.). *MyGovernment.* Retrieved November 18, 2020, from [https://www.malaysia.gov.my](https://www.malaysia.gov.my/portal/content/30114){:target="blank"}
 
-[^11]:Malaysia: East Malaysia immigration requirements and practices. (2017, February). PwC. Retrieved November 18, 2020, from [https://www.gmsasia.pwc.com](https://www.gmsasia.pwc.com/en/ias/malaysia-new-immigration-feb2017.pdf){:target="_blank"}
+[^11]:Malaysia: East Malaysia immigration requirements and practices. (2017, February). PwC. Retrieved April 9, 2024, from [https://www.pwc.com](https://www.pwc.com/gx/en/services/people-organisation/publications/assets/pwc-east-malaysia-immigration-requirements-and-practices.pdf){:target="_blank"}
 
-[^12]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=155&bul_id=OVByWjg5YkQ3MWFZRTN5bDJiaEVhZz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09){:target="blank"} ; Leong, T. (2017, August 3). Who are Malaysia’s bumiputera? *The Straits Times.* Retrieved October 10, 2018, from [http://www.straitstimes.com](http://www.straitstimes.com/asia/se-asia/who-are-malaysias-bumiputera){:target="blank"}
+[^12]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=155&amp;bul_id=OVByWjg5YkQ3MWFZRTN5bDJiaEVhZz09&amp;menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09){:target="blank"} ; Leong, T. (2017, August 3). Who are Malaysia’s bumiputera? *The Straits Times.* Retrieved October 10, 2018, from [http://www.straitstimes.com](http://www.straitstimes.com/asia/se-asia/who-are-malaysias-bumiputera){:target="blank"}
 
-[^12]:Gross domestic product 2016. (2017, May 19). *Department of Statistics Malaysia.* Retrieved October 20, 2017, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=153&bul_id=UFRlamRjQUUwbkhXSFNoa0NoMXVkUT09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
+[^12]:Gross domestic product 2016. (2017, May 19). *Department of Statistics Malaysia.* Retrieved October 20, 2017, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=153&amp;bul_id=UFRlamRjQUUwbkhXSFNoa0NoMXVkUT09&amp;menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
 
-[^13]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=153&bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
+[^13]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=153&amp;bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&amp;menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
 
-[^14]:My local stats 2019 publication. (2020, October 19). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=450&bul_id=c1JUc0R6b2FINWpyM3hhRUhZY1dsQT09&menu_id=WjJGK0Z5bTk1ZElVT09yUW1tRG41Zz09){:target="blank"}; My local stats 2018  publication. (2019, August 8). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=450&bul_id=QlhXR01FRHB0TEpmM0dHMmpNemtrZz09&menu_id=WjJGK0Z5bTk1ZElVT09yUW1tRG41Zz09){:target="blank"}
+[^14]:My local stats 2019 publication. (2020, October 19). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=450&amp;bul_id=c1JUc0R6b2FINWpyM3hhRUhZY1dsQT09&amp;menu_id=WjJGK0Z5bTk1ZElVT09yUW1tRG41Zz09){:target="blank"}; My local stats 2018  publication. (2019, August 8). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=450&amp;bul_id=QlhXR01FRHB0TEpmM0dHMmpNemtrZz09&amp;menu_id=WjJGK0Z5bTk1ZElVT09yUW1tRG41Zz09){:target="blank"}
 
-[^15]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=153&bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
+[^15]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia.* Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=153&amp;bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&amp;menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
 
-[^16]:Lee, C. (2019, February). Manufacturing performance and services inputs: Evidence from Malaysia. *ISEAS Yusof Ishak Institute Economics Working Paper No. 2019-02*. Retrieved November 18, 2020, from [https://www.iseas.edu.sg](https://www.iseas.edu.sg/images/pdf/ISEAS%20EWP%202019-2%20Lee%20(003).pdf ){:target="_blank"}; 
+[^16]:Lee, C. (2019, February). Manufacturing performance and services inputs: Evidence from Malaysia. *ISEAS Yusof Ishak Institute Economics Working Paper No. 2019-02*. Retrieved November 18, 2020, from [https://www.iseas.edu.sg](https://www.iseas.edu.sg/wp-content/uploads/pdfs/ISEAS%20EWP%202019-2%20Lee%20(003).pdf){:target="_blank"}; 
 
-[^17]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=153&bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
+[^17]:Malaysia economic performance 2019. (2020, May 13). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=153&amp;bul_id=bVN1K0txTSt1TVRGRFZBRE8yU0JYZz09&amp;menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="_blank"}
 
 [^18]:Rozhan Abu Dardak. (2015, February 4). Transformation of agricultural sector in Malaysia through agricultural policy. *Food and Fertilizer Technology for the Asian and Pacific Region*. Retrieved November 18, 2020, from [https://ap.fftc.org.tw](https://ap.fftc.org.tw/article/818){:target="_blank"}
 
-[^19]:Selected agricultural indicators, Malaysia, 2020. (2020, November 270. *Department of Statistics Malaysia.* Retrieved November 28, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=72&bul_id=RXVKUVJ5TitHM0cwYWxlOHcxU3dKdz09&menu_id=Z0VTZGU1UHBUT1VJMFlpaXRRR0xpdz09){:target="blank"}
+[^19]:Selected agricultural indicators, Malaysia, 2020. (2020, November 270. *Department of Statistics Malaysia.* Retrieved November 28, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=72&amp;bul_id=RXVKUVJ5TitHM0cwYWxlOHcxU3dKdz09&amp;menu_id=Z0VTZGU1UHBUT1VJMFlpaXRRR0xpdz09){:target="blank"}
 
 [^20]:About Malaysia. (2020). *Prince Court*. Retrieved November 18, 2020, from [https://princecourt.com](https://princecourt.com/info-about-malaysia/){:target="blank"}
 
@@ -97,6 +98,6 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 [^23]:20 Awesome and True Malaysian Breakfast. (2023). *Malaysia Tourism Promotion Board*. Retrieved August 14, 2023, [http://www.malaysia.travel](https://www.malaysia.travel/explore/20-awesome-and-true-malaysian-breakfast){:target="_blank"}
 
-[^24]: Tourism satellite account 2019. (2020, September 18). Department of Statistics Malaysia. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=111&bul_id=dEZ6N0dYUDJEWkVxMzdOalY3UUJSdz09&menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="blank"} ; Malaysia tourism statistics in brief. (2020). *Tourism Malaysia.* Retrieved November 18, 2020, from [http://www.tourism.gov.my](http://www.tourism.gov.my/statistics){:target="blank"}
+[^24]: Tourism satellite account 2019. (2020, September 18). Department of Statistics Malaysia. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=111&amp;bul_id=dEZ6N0dYUDJEWkVxMzdOalY3UUJSdz09&amp;menu_id=TE5CRUZCblh4ZTZMODZIbmk2aWRRQT09){:target="blank"} ; Malaysia tourism statistics in brief. (2020). *Tourism Malaysia.* Retrieved November 18, 2020, from [http://www.tourism.gov.my](http://www.tourism.gov.my/statistics){:target="blank"}
 
-[^25]:Arrivals by country. (2020). *My Tourism Data*. Retrieved November 18, 2020, from [http://mytourismdata.tourism.gov.my](http://mytourismdata.tourism.gov.my/?page_id=232#!range=year&from=2019&to=2020&type=55876201563fe,558762c48155c&destination=34MY&origin=32CN,32JP,33IN,34BN,34ID,34PH,34SG,34TH,42UK,51AU){:target="_blank"}
+[^25]:Arrivals by country. (2020). *My Tourism Data*. Retrieved November 18, 2020, from [http://mytourismdata.tourism.gov.my](http://mytourismdata.tourism.gov.my/?page_id=232#!range=year&amp;from=2019&amp;to=2020&amp;type=55876201563fe,558762c48155c&amp;destination=34MY&amp;origin=32CN,32JP,33IN,34BN,34ID,34PH,34SG,34TH,42UK,51AU){:target="_blank"}

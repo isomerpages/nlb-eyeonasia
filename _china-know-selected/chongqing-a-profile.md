@@ -1,12 +1,10 @@
 ---
-title: 'Chongqing - A profile'
+title: Chongqing - A profile
 permalink: /china/know/china-municipalities-provinces/chongqing-profile/
-breadcrumb: 'Chongqing - A profile'
-
+breadcrumb: Chongqing - A profile
+variant: markdown
 ---
-
-
-<img src="\images\china-selected\chongqing-profile.jpg" alt="chongqing profile banner" style="width:800px;" />
+<img src="\images\china-selected\chongqing-profile.jpg" alt="chongqing profile banner" style="width:800px;">
 
 This article provides an overview of Chongqing for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -24,7 +22,7 @@ Chongqing is located at the confluence of the Yangtze and Jialing Rivers in sout
 
 ### **Economy**
 
-<!-- img src="\images\china-selected\chongqing-chart-1.png" style="width:350px;" /-->
+
 
 Chongqing is one of the fastest growing cities in China.[^8] Besides the construction of the Three Gorges Dam Project, its rapid economic growth could also be attributed to China’s “favourable policies”, particularly the “Go West” strategy launched in 2000, which aims to generate investment in western China. Chongqing has largely benefitted from the policy and became a significant trading and manufacturing hub as well as a major gateway to west China.[^9] With its strategic location, Chongqing is also “a key strategic node” of the Belt and Road Initiative, which was unveiled in 2013 and aims to connect 65 countries across three continents through China.[^10]
 
@@ -80,13 +78,13 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^6]: Chongqing travel guide – how to plan a trip to Chongqing. (2021, February 7). *China Highlights*. Retrieved January 27, 2021, from  [https://www.chinahighlights.com](https://www.chinahighlights.com/chongqing/){:target="_blank"}
 
-[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved January 27, 2021, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="blank"}; Chongqing municipality. (2017). *New Zealand Foreign Affairs & Trade.* Retrieved January 21, 2021, from [https://www.mfat.govt.nz](https://www.mfat.govt.nz/en/countries-and-regions/asia/china/new-zealand-embassy/chengdu/){:target="blank"}
+[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved January 27, 2021, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="blank"}; Chongqing municipality. (2017). *New Zealand Foreign Affairs &amp; Trade.* Retrieved January 21, 2021, from [https://www.mfat.govt.nz](https://www.mfat.govt.nz/en/countries-and-regions/asia/china/new-zealand-embassy/chengdu/){:target="blank"}
 
 [^8]: China’s big cities target slower growth in 2017. (2017, January 15). *Fortune*. Retrieved January 27, 2021, from  [http://fortune.com](http://fortune.com/2017/01/15/china-cities-growth-2017/){:target="_blank"}
 
-[^9]: Wong, P., Lin, M. C. Y. & Jackson, J. (2016, September). Best-performing cities: China 2016. *Milken Institute*. Retrieved January 27, 2021, from [https://milkeninstitute.org](https://milkeninstitute.org/reports/best-performing-cities-china-2016){:target="blank"}; Chongqing. (n.d.). *China Briefing*. Retrieved January 27, 2021, from  [http://www.china-briefing.com](http://www.china-briefing.com/regional-intelligence/chongqing.html){:target="blank"}; New five-year plan brings hope to China’s west. (2016, December 27). *The State Council: The People’s Republic of China.* Retrieved January 27, 2021, from [http://english.gov.cn](http://english.gov.cn/premier/news/2016/12/27/content_281475526349906.htm){:target="_blank"}
+[^9]: Wong, P., Lin, M. C. Y. &amp; Jackson, J. (2016, September). Best-performing cities: China 2016. *Milken Institute*. Retrieved January 27, 2021, from [https://milkeninstitute.org](https://milkeninstitute.org/reports/best-performing-cities-china-2016){:target="blank"}; Investing in Inland China: Chongqing, Gateway to China’s West. (n.d.). *China Briefing*. Retrieved April 4, 2024, from  [http://www.china-briefing.com](https://www.china-briefing.com/doing-business-guide/china/where-to-invest/investing-in-inland-china-chongqing-gateway-to-china-s-west){:target="blank"}; New five-year plan brings hope to China’s west. (2016, December 27). *The State Council: The People’s Republic of China.* Retrieved January 27, 2021, from [http://english.gov.cn](http://english.gov.cn/premier/news/2016/12/27/content_281475526349906.htm){:target="_blank"}
 
-[^10]: Chongqing profile. (n.d.). *International Students’ Department.* Retrieved January 27, 2021, from [http://interstar.sisu.edu.cn](http://interstar.sisu.edu.cn/ywz/Profile/Chongqing_Profile.htm){:target="_blank"}; China: Market profile. (2020, October 13).  *Enterprise Singapore.* Retrieved January 27, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/market-profile){:target="_blank"}
+[^10]: Chongqing profile. (n.d.). *International Students’ Department.* Retrieved January 27, 2021, from [http://interstar.sisu.edu.cn](https://interstar.sisu.edu.cn/ywz/Profile/Chongqing_Profile/index.htm){:target="_blank"}; China: Market profile. (2020, October 13).  *Enterprise Singapore.* Retrieved April 4, 2024, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/market-profile){:target="_blank"}
 
 [^11]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
@@ -110,4 +108,4 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^21]:  Greater connectivity between Singapore and Chongqing with the China-Singapore (Chongqing) Connectivity Initiative – Southern Transport Corridor. (2017). *Ministry of Trade and Industry Singapore.* Retrieved January 27, 2021, from [https://www.mti.gov.sg](https://www.mti.gov.sg/Newsroom/Press-Releases/2017/08/GREATER-CONNECTIVITY-BETWEEN-SINGAPORE-AND-CHONGQING-WITH-THE-CHINA-SINGAPORE-CHONGQING-CONNECTIVITY){:target="_blank"}
 
-[^22]:  Full list of commercial signings. (2017). *IE Singapore.* Retrieved January 27, 2021, from [https://www.nas.gov.sg](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20170226004/MR00717_IE partners Chongqing Municipal Govt to drive demonstrative CCI projects_2017 02 26.pdf){:target="_blank"} 
+[^22]:  Full list of commercial signings. (2017). *IE Singapore.* Retrieved January 27, 2021, from [https://www.nas.gov.sg](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20170226004/MR00717_IE partners Chongqing Municipal Govt to drive demonstrative CCI projects_2017 02 26.pdf){:target="_blank"}

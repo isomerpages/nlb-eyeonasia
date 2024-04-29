@@ -1,12 +1,10 @@
 ---
-title: 'Philippines - A country profile'
+title: Philippines - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/philippines-a-country-profile/
-breadcrumb: 'Philippines - A country profile'
-
+breadcrumb: Philippines - A country profile
+variant: markdown
 ---
-
-
-<img src="/images/asean-countries/Philippines snapshot cover iso.jpg" alt="Philippines snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Philippines snapshot cover iso.jpg" alt="Philippines snapshot banner" style="width:800px;">
 
 This is a profile of the Philippines that may be useful for those keen to live and work there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -19,9 +17,8 @@ This is a profile of the Philippines that may be useful for those keen to live a
 - **Head of government:** President Rodrigo Roa Duterte[^5]
 - **GDP (2020):** US$367.362 billion[^6]
 - **GDP per capita (2020):** US$ 3,372.529[^7]
-- **Major cities (2015 census):** Manila, Quezon City, Davao City, Caloocan, Cebu City, Zamboanga City, Taguig, Antipolo, Pasig and Cagayan de Oro[^8]
 
-<img src="/images/asean-countries/PL-demographics.png" alt="Philippines snapshot chart 1" style="width:350px;" />
+<img src="/images/asean-countries/PL-demographics.png" alt="Philippines snapshot chart 1" style="width:350px;">
 
 ### **Introduction**
 
@@ -37,7 +34,7 @@ Due to the COVID-19 pandemic, economic growth contracted in 2020, driven by sign
 
 ### **Foreign Trade**
 
-The country's primary exports include electronics, semiconductors, transport equipment, construction materials, and minerals. As an open economy, the Philippines trades with other economies around the world.[^13] The top export markets in FY 2019 were China, Japan, United States and Thailand. The top import suppliers in FY 2019 were China, Japan, South Korea, United States and Singapore.[^14]
+The country's primary exports include electronics, semiconductors, transport equipment, construction materials, and minerals. As an open economy, the Philippines trades with other economies around the world.[^13] The top export markets in January 2024 were USA, Japan, Hong Kong, China and South Korea. At the same time, the top import suppliers  were China, Japan, South Korea, and USA.[^14]
 
 ### **Tourism**
 
@@ -57,11 +54,9 @@ The Philippines hosted a record high of 8.2 million foreign tourists in 2019, th
 
 [^5]:Rodrigo Duterte: President of the Philippines. (2021). *Encyclopedia Britannica.* Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/topic/Rodrigo-Duterte){:target="_blank"}
 
-[^6]:Report for selected countries and subjects: October 2020. (2020). *International Monetary Fund.* Retrieved January 25, 2021, from [https://www.imf.org](https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=566,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,PCPIPCH,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1){:target="_blank"}
+[^6]:Report for selected countries and subjects: October 2020. (2020). *International Monetary Fund.* Retrieved January 25, 2021, from [https://www.imf.org](https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=566,&amp;s=NGDPD,PPPGDP,NGDPDPC,PPPPC,PCPIPCH,&amp;sy=2018&amp;ey=2025&amp;ssm=0&amp;scsm=1&amp;scc=0&amp;ssd=1&amp;ssc=0&amp;sic=0&amp;sort=country&amp;ds=.&amp;br=1){:target="_blank"}
 
-[^7]:Report for selected countries and subjects: October 2020. (2020). *International Monetary Fund.* Retrieved January 25, 2021, from [https://www.imf.org](https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=566,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,PCPIPCH,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1){:target="_blank"}
-
-[^8]:Philippines. (2021). *Encyclopedia Britannica.* Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Philippines){:target="blank"} ; Highlights of the Philippine Population, 2015 Census of Population. (2015). *Philippine Statistics Authority.* Retrieved January 25, 2021, from [https://www.psa.gov.ph](https://www.psa.gov.ph/sites/default/files/attachments/hsd/pressrelease/2015%20population%20counts%20Summary_0.xlsx){:target="blank"}
+[^7]:Report for selected countries and subjects: October 2020. (2020). *International Monetary Fund.* Retrieved January 25, 2021, from [https://www.imf.org](https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=566,&amp;s=NGDPD,PPPGDP,NGDPDPC,PPPPC,PCPIPCH,&amp;sy=2018&amp;ey=2025&amp;ssm=0&amp;scsm=1&amp;scc=0&amp;ssd=1&amp;ssc=0&amp;sic=0&amp;sort=country&amp;ds=.&amp;br=1){:target="_blank"}
 
 [^9]:Philippines. (2021). *Encyclopedia Britannica.* Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Philippines){:target="_blank"} ↩
 
@@ -73,6 +68,6 @@ The Philippines hosted a record high of 8.2 million foreign tourists in 2019, th
 
 [^13]:About the Philippines. (2021). *Philippine Government Portal.* Retrieved January 25, 2021, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"} ↩
 
-[^14]:Trade in goods. (2021). *Department of Trade & Industry, Philippines.* Retrieved January 25, 2021, from [https://www.dti.gov.ph](https://www.dti.gov.ph/resources/trade-statistics){:target="_blank"}
+[^14]:Highlights of the Philippine Export and Import. (2024, March 12). *Philippine Statistics Authority.* Retrieved April 9, 2024, from [https://www.psa.gov.ph/](https://www.psa.gov.ph/statistics/export-import/monthly){:target="_blank"}
 
-[^15]:About the Philippines. (2021). *Philippine Government Portal.* Retrieved January 25, 2021, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"} 
+[^15]:About the Philippines. (2021). *Philippine Government Portal.* Retrieved January 25, 2021, from [https://www.gov.ph](https://www.gov.ph/about-the-philippines){:target="_blank"}

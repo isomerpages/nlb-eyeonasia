@@ -2,7 +2,8 @@ collections:
   events:
     output: true
     order:
-      - Interning in China Opportunities and Insights.md
+      - "Clearer Waters: Opportunities in China’s Recovery.md"
+      - "Interning in China: Opportunities and Insights.md"
       - Growing Singapore Talents for Global Leadership.md
       - Co Innovation Opportunities in Asia.md
       - Social Media Trends in Malaysia.md

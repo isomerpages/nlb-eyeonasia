@@ -1,18 +1,16 @@
 ---
-title: 'Housing in Indonesia'
+title: Housing in Indonesia
 permalink: /asean-countries/know/living-in-asean-countries/housing-in-indonesia/
-breadcrumb: 'Housing in Indonesia'
-
+breadcrumb: Housing in Indonesia
+variant: markdown
 ---
-
-
-<img src="/images/asean-living/ASEAN-Indonesia-Housing.jpg" alt="Housing in Indonesia banner" style="width:800px;" />
+<img src="/images/asean-living/ASEAN-Indonesia-Housing.jpg" alt="Housing in Indonesia banner" style="width:800px;">
 
 This is a selection of resources on housing in Indonesia available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Cultureshock-Jakarta-A-survival-guide-to-customs-and-etiquette.jpg" style="width:150px;" />
+<img src="/images/book-covers/Cultureshock-Jakarta-A-survival-guide-to-customs-and-etiquette.jpg" style="width:150px;">
 
 [**Cultureshock! Jakarta: A survival guide to customs and etiquette**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=2153BA72-BC54-4781-AF08-51A2CF6901A4){:target="_blank"}
 
@@ -20,7 +18,7 @@ In the chapter “Settling In”, readers can find detailed information on the t
 
 Retrieved from OverDrive. (*MyLibrary ID* is required to access this ebook.)
 
-<img src="/images/book-covers/Pocket-Jakarta.png" style="width:150px;" />
+<img src="/images/book-covers/Pocket-Jakarta.png" style="width:150px;">
 
 [**Pocket Jakarta: Top sights, local life, made easy**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202942171){:target="_blank"}
 
@@ -32,19 +30,19 @@ All rights reserved, Footscray, Victoria: Lonely Planet Global Limited, 2017.
 
 ### **You may also like**
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;">
 
 [**Five tips for affordable apartment living**](http://www.thejakartapost.com/adv/2016/11/29/five-tips-for-affordable-apartment-living.html){:target="_blank"}
 
 *Jakarta Post* gives five tips for renting an apartment in the city at a low cost while making the same savings you would when renting a house.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**Residential expatriate housing sector**](http://www.colliers.com/-/media/files/marketresearch/apac/indonesia/q42015-jakarta-researchandforecastreport-expathousing.pdf?la=en-gb){:target="_blank"}
+[**Cost of Living in Indonesia as an Expat: How Much Do You Need Per Month?**](https://www.expatden.com/indonesia/cost-of-living-in-indonesia/){:target="_blank"}
 
-This report provides a quick breakdown of rental costs in several expat areas as well as the average prices of the different types of accommodations available in Jakarta.
+This article provides some estimates on the costs of living in Indonesia, including housing and living expenses such as rent, utilities and home services, etc.
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;">
 
 [**Finding your dream home in Jakarta with the help of an expat specialist**](http://indonesiaexpat.biz/featured/finding-dream-home-jakarta-help-expat-specialist/){:target="_blank"}
 

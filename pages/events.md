@@ -2,6 +2,7 @@
 title: Events
 permalink: /events/
 breadcrumb: Events
+variant: markdown
 ---
 <img style="width:900px;" src="/images/past-events/events-banner.jpg">
 
@@ -10,36 +11,30 @@ Keen to explore opportunities in ASEAN countries, China and India including emer
 ### **Grow your possibilities with Eye on Asia**
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_WA0uNFsjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
-<!--
-### **Upcoming Event**
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a class="project-link" href="/events/upcoming-events/16-may-2023/">
-				<img class="project-image" src="/images/past-events/16-may-2023/EOA-Website-edm.jpg">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Interning in China - Opportunities and Insights</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>	
--->
+
 
 ### **Past Events**
 
 If you missed out on our past events, find out more about them here. Most sessions are recorded and included here for your convenience.
 
-You can also watch them from our Eye on Asia folder at the [National Library's Video Learning Portal](https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2284661ec0-afab-4a1f-b854-adf2008a85ef%22&view=2).
+You can also watch them from our Eye on Asia folder at the [National Library's Video Learning Portal](https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2284661ec0-afab-4a1f-b854-adf2008a85ef%22&amp;view=2).
 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a class="project-link" href="/events/upcoming-events/16-may-2023/">
+			<a class="project-link" href="/events/past-events/27-feb-2024/">
+				<img class="project-image" src="/images/past-events/27 Feb 2024/27_Feb_EDM.jpg">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Clearer Waters - Opportunities in China’s Recovery</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+<div class="col is-half-tablet padding--bottom--lg">
+			<a class="project-link" href="/events/past-events/16-may-2023/">
 				<img class="project-image" src="/images/past-events/16-may-2023/EOA-Website-edm.jpg">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">

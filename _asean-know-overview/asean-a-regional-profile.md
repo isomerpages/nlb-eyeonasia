@@ -1,12 +1,10 @@
 ---
-title: 'ASEAN - A regional profile'
+title: ASEAN - A regional profile
 permalink: /asean-countries/know/overview-of-asean-countries/asean-a-regional-profile/
-breadcrumb: 'ASEAN - A regional profile'
-
+breadcrumb: ASEAN - A regional profile
+variant: markdown
 ---
-
-
-<img src="\images\asean-countries\asean-banner.jpg" alt="ASEAN snapshot banner" style="width:800px;" />
+<img src="\images\asean-countries\asean-banner.jpg" alt="ASEAN snapshot banner" style="width:800px;">
 
 This article provides an overview of ASEAN countries for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -32,11 +30,11 @@ ASEAN’s merchandise trade amounted to US$2,815.2 billion in 2019. Intra-ASEAN 
 
 The economic response to the COVID-19 pandemic has been comprehensive, even taking into account fiscal and administrative constraints. All the major economies in the region have put in place large macroeconomic policy support packages to mitigate the economic impact of the outbreak, including by providing direct assistance to firms and households. The most important preparation for restarting economic activity is to help firms and vital economic relationships survive the crisis. [^6]
 
-[^6]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/](https://asean.org/storage/2018/02/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
+[^6]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/wp-content/uploads/2021/08/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
 
 The economic recovery is expected to revive trade and resuscitate supply chains to some extent. Large private firms, especially lead firms in global value chains, are already helping to support their suppliers in developing countries. More generally, the beneficiaries of the economic revival will be those countries that are open to trade and foreign direct investment, are well connected to global markets, and have a predictable environment for doing business. As the world economy recovers, ASEAN could support stronger international rules to restrain both protection and incentives to ensure that the world continues to reap the efficiency benefits of trade and global value chains. The post-pandemic recovery will offer new opportunities to build a more sustainable, inclusive and resilient future in a world transformed by the pandemic.[^7]
 
-[^7]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/](https://asean.org/storage/2018/02/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
+[^7]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/](https://asean.org/wp-content/uploads/2021/08/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
 
 ### **ASEAN Economic Community (AEC)**
 
@@ -52,4 +50,3 @@ On 15 November 2020, Singapore signed the Regional Comprehensive Economic Partne
 
 ---
 ### **References**
-

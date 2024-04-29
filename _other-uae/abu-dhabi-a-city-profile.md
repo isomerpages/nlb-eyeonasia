@@ -2,8 +2,9 @@
 title: Abu Dhabi - A city profile
 permalink: /other-asian-countries/uae/abu-dhabi-a-city-profile/
 breadcrumb: Abu Dhabi - A city profile
+variant: markdown
 ---
-<img src="\images\uae\Abu Dhabi City.jpg" alt="Abu Dhabi City snapshot banner" style="width:800px;" />
+<img src="\images\uae\Abu Dhabi City.jpg" alt="Abu Dhabi City snapshot banner" style="width:800px;">
 
 This article provides an overview of Abu Dhabi for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -65,7 +66,7 @@ On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global 
 
 [^4]: Explore. (2021). *AbuDhabi.com.* Retrieved October 20, 2021, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/city-info/){:target="_blank"}
 
-[^5]: UAE capital & surrounds. (2021). *Department of Culture and Tourism Abu Dhabi.* Retrieved October 20, 2021 from [https://visitabudhabi.cn/](https://visitabudhabi.cn/en/explore/regions/uae.capital.aspx){:target="_blank"}
+[^5]: UAE capital &amp; surrounds. (2021). *Department of Culture and Tourism Abu Dhabi.* Retrieved October 20, 2021 from [https://visitabudhabi.cn/](https://visitabudhabi.cn/en/explore/regions/uae.capital.aspx){:target="_blank"}
 
 [^6]: Abu Dhabi geography. (2021). Retrieved October 20, 2021, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/geography/){:target="_blank"}
 
@@ -87,7 +88,7 @@ On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global 
 
 [^15]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved October 20, 2021, from [https://www.mti.gov.sg/](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/10/Abu-Dhabi-and-Singapore-to-explore-potential-areas-of-cooperation-at-12th-Abu-DhabiSingapore-Joint-F.pdf){:target="_blank"}
 
-[^16]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="_blank"}; Nurturing the champion mindset. (2018). *Bloom Education.* Retrieved October 20, 2021, from <http://www.mindchamps.ae/>{:target="_blank"}
+[^16]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved April 11, 2024, from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="_blank"}; MindChamps Nursery Abu Dhabi. (n.d.). *edcare.ae.* Retrieved April 11, 2024, from [https://edcare.ae/](https://edcare.ae/nurseries/mindchamps-nursery-abu-dhabi){:target="_blank"}
 
 [^17]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved October 20, 2021 from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="_blank"}
 

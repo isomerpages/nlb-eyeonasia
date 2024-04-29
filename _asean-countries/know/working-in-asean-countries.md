@@ -1,13 +1,11 @@
 ---
-title: 'Working in ASEAN Countries'
+title: Working in ASEAN Countries
 permalink: /asean-countries/know/working-in-asean-countries/
-breadcrumb: 'Working in ASEAN Countries'
+breadcrumb: Working in ASEAN Countries
 third_nav_title: Know
-
+variant: markdown
 ---
-
-
-<img src="/images/asean-working/Working in ASEAN new.jpg" style="width:800px;" />
+<img src="/images/asean-working/Working in ASEAN new.jpg" style="width:800px;">
 
 With rapid economic developments in Southeast Asia, ASEAN cities offer many opportunities in various industries and sectors for people who wish to work there. Let our curated resources offer insights to working in an ASEAN city.
 
@@ -23,22 +21,12 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 			</div>
 			</a>
 		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/working-in-asean/discussing-business-in-sea/" class="project-link">
-				<img src="/images/asean-working/Discussing-Business-in-Southeast-Asia-small.jpg" alt="Listen: Discussing business in Southeast Asia" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Listen: Discussing business in Southeast Asia</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-brunei/" class="project-link">
@@ -63,9 +51,9 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-cambodia/" class="project-link">
@@ -90,9 +78,9 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-indonesia/" class="project-link">
@@ -117,9 +105,9 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-laos/" class="project-link">
@@ -144,9 +132,9 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-malaysia/" class="project-link">
@@ -171,9 +159,9 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-myanmar/" class="project-link">
@@ -198,9 +186,9 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-philippines/" class="project-link">
@@ -225,9 +213,9 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-thailand/" class="project-link">
@@ -252,9 +240,9 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/working-in-asean-countries/business-culture-in-vietnam/" class="project-link">
@@ -279,5 +267,6 @@ With rapid economic developments in Southeast Asia, ASEAN cities offer many oppo
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
+</p>

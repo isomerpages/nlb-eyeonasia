@@ -1,12 +1,10 @@
 ---
-title: 'Liaoning - A profile'
+title: Liaoning - A profile
 permalink: /china/know/china-municipalities-provinces/liaoning-profile/
-breadcrumb: 'Liaoning - A profile'
-
+breadcrumb: Liaoning - A profile
+variant: markdown
 ---
-
-
-<img src="\images\china-selected\liaoning-profile.jpg" alt="liaoning profile banner" style="width:800px;" />
+<img src="\images\china-selected\liaoning-profile.jpg" alt="liaoning profile banner" style="width:800px;">
 
 This article provides an overview of Liaoning for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -29,7 +27,7 @@ Liaoning province, in the northeast region of China, borders Jilin province to t
 
 ### **Economy**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\liaoning-chart-1.png" style="width:400px;" />Data source: HKTDC Research</div-->
+
 
 The province is endowed with large reserves of mineral resources, including ferrous metals, non-ferrous metals, and oil and gas.[^7] Its reserves of boron, magnesite, diamonds and jade are also the largest in China.[^8]
 
@@ -37,7 +35,7 @@ The province is endowed with large reserves of mineral resources, including ferr
 
 Shenyang, previously known as Mukden, is the capital city of Liaoning province.[^9] It is the birthplace of the Qing dynasty and has one of China’s two best-preserved imperial palace complexes,[^10] the other being the Forbidden Palace in Beijing.[^11]
 
-Shenyang is an advanced manufacturing base.[^12] Its prominent manufacturing sectors comprise automotive components, building materials, agricultural product processing, chemical product manufacturing, and steel and non-ferrous metal smelting. Today, the city’s economy also relies on electronics, textiles, and pharmaceuticals, as well as other light manufacturing industries.[^13] Well-known automobile manufacturer BMW AG is also expanding its battery cell plant with a local partner in Shenyang.[^14]
+Shenyang is an advanced manufacturing base.[^12] It is a hub for machine tools, automotive industry, and high-tech industrialisation. Shenyang also has its own "Silicon Valley" on Sanhao Street where numerous computer, internet and technology companies reside.[^13] Well-known automobile manufacturer BMW AG is also expanding its battery cell plant with a local partner in Shenyang.[^14]
 
 ##### **Dalian**
 
@@ -101,9 +99,9 @@ In July 2019, 11 Singapore companies signed project agreements, with more than h
 
 [^12]: Shenyang: An old industrial base. (2018, July 10). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com.cn](http://www.chinatoday.com.cn/ctenglish/2018/tourism/201807/t20180710_800134922.html){:target="_blank"}
 
-[^13]: Shenyang. (n.d.). Export.gov. Retrieved March 8, 2021, from [https://2016.export.gov/](https://2016.export.gov/china/doingbizinchina/regionalinfo/shenyang/index.asp#:~:text=Shenyang%20is%20known%20as%20one,and%20non%2Dferrous%20metal%20smelting){:target="blank"}
+[^13]: New Industry in Shenyang. (2016, December 8). *Euromoney*. Retrieved April 8, 2024, from [https://www.euromoney.com/](https://www.euromoney.com/article/b12kqdj8pmgxc1/new-industry-in-shenyang){:target="blank"}
 
-[^14]: Zhong, N., & Wu, Y, (2018, September 12). Liaoning pursues revitalization. *The State Council of the Republic of China.* Retrieved March 8, 2021 from [http://english.gov.cn](http://english.gov.cn/news/top_news/2018/09/12/content_281476299560684.htm){:target="_blank"}
+[^14]: Zhong, N., &amp; Wu, Y, (2018, September 12). Liaoning pursues revitalization. *The State Council of the Republic of China.* Retrieved March 8, 2021 from [http://english.gov.cn](http://english.gov.cn/news/top_news/2018/09/12/content_281476299560684.htm){:target="_blank"}
 
 [^15]: China’s Dalian looks to cooperation with Silicon Valley. (2018, November 5). Xinhua. Retrieved March 8, 2021 from [http://en.imsilkroad.com](http://en.imsilkroad.com/p/117402.html){:target="_blank"}
 
@@ -113,7 +111,7 @@ In July 2019, 11 Singapore companies signed project agreements, with more than h
 
 [^18]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}
 
-[^19]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}; Zhong, N., & Wu, Y, (2018, September 12). Liaoning pursues revitalization. *The State Council of the Republic of China.* Retrieved March 8, 2021 from [http://english.gov.cn](http://english.gov.cn/news/top_news/2018/09/12/content_281476299560684.htm){:target="blank"}
+[^19]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}; Zhong, N., &amp; Wu, Y, (2018, September 12). Liaoning pursues revitalization. *The State Council of the Republic of China.* Retrieved March 8, 2021 from [http://english.gov.cn](http://english.gov.cn/news/top_news/2018/09/12/content_281476299560684.htm){:target="blank"}
 
 [^20]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}
 

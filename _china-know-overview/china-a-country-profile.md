@@ -2,8 +2,9 @@
 title: China - A country profile
 permalink: /china/know/overview-of-china/china-a-country-profile/
 breadcrumb: China - A country profile
+variant: markdown
 ---
-<img src="\images\china-overview\china-profile.jpg" alt="china profile banner" style="width:800px;" />
+<img src="\images\china-overview\china-profile.jpg" alt="china profile banner" style="width:800px;">
 
 This article provides an overview of China for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -58,19 +59,19 @@ The BRI is currently developing six international economic cooperation corridors
 
 [^5]:  Li Keqiang – Premier of China’s State Council (2018, March 19). *The State Council, The People’s Republic of China.* Retrieved January 26, 2021 from [http://english.gov.cn](http://english.gov.cn/premier/2018/03/19/content_281476082486006.htm){:target="_blank"}
 
-[^6]:  The Communist Part of China. (2012, November 15). *The Central People’s Government of the People’s Republic of China.* Retrieved January 26, 2021, from [http://english1.english.gov.cn](http://english1.english.gov.cn/2007-10/22/content_923081.htm){:target="_blank"}
+[^6]:  Constitution of the People's Republic of China. (2019, November 20). *Communist Party of China Central Committee Institute of Party History and Literature.* Retrieved April 16, 2024, from [http://english.www.gov.cn/](http://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html){:target="_blank"}
 
-[^7]: Currency. (2012, March 27). *Chinese Government’s Official Web Portal.* Retrieved January 26, 2021, from [http://english1.english.gov.cn](http://english1.english.gov.cn/2005-08/16/content_23765.htm){:target="_blank"}
+[^7]: Law of the People’s Republic of China on The People’s Bank of China (2003, December 27). *Tenth National People’s Congress.* Retrieved April 16, 2024, from [http://www.pbc.gov.cn](http://www.pbc.gov.cn/en/3688253/3689003/3709953/index.html){:target="_blank"}
 
-[^8]: 2-1: Population and its composition. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="blank"}; 2-5 Age composition and dependency ration of population. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="blank"}
+[^8]: 2-1: Population and its composition. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="blank"}; 2-5 Age composition and dependency ration of population. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="blank"}
 
-[^9]: 2-2: Birth rate, death rage and national growth rate of population. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China*. Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^9]: 2-2: Birth rate, death rage and national growth rate of population. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China*. Retrieved January 26, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^10]: 2-9: Population by age and gender (2019). China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China*. Retrieved January 26, 2021,  from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^10]: 2-9: Population by age and gender (2019). China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China*. Retrieved January 26, 2021,  from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^11]: 2-8: Total population by urban and rural residence and birth rate, death rate, natural growth rate by region (2019). China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China*. Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^11]: 2-8: Total population by urban and rural residence and birth rate, death rate, natural growth rate by region (2019). China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China*. Retrieved January 26, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^12]: Fifty-six ethnic groups. (n.d.) Chinese Government’s Official Web Portal. Retrieved January 26, 2021, from  [http://english1.english.gov.cn](http://english1.english.gov.cn/2006-02/08/content_182626.htm){:target="_blank"}
+[^12]: 25-19: Geographic Distribution and Population of Ethnic Minorities. (2019). China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China*. Retrieved January 26, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
 [^13]: The World Bank in China. (2018, April 19). *The World Bank*. Retrieved January 26, 2021, from [http://www.worldbank.org](http://www.worldbank.org/en/country/china/overview){:target="_blank"}
 

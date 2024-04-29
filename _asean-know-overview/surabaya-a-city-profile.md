@@ -1,15 +1,14 @@
 ---
-title: 'Surabaya - A city profile'
+title: Surabaya - A city profile
 permalink: /asean-countries/know/overview-of-asean-countries/surabaya-a-city-profile/
-breadcrumb: 'Surabaya - A city profile'
-
+breadcrumb: Surabaya - A city profile
+variant: markdown
 ---
+<img src="/images/asean-countries/Surabaya-snapshot-cover.jpg" alt="Surabaya snapshot banner" style="width:800px;">
 
-<img src="/images/asean-countries/Surabaya-snapshot-cover.jpg" alt="Surabaya snapshot banner" style="width:800px;" />
 
-<!-- https://www.istockphoto.com/photo/aerial-view-of-cityscape-at-night-with-vibrant-lights-surabaya-gm970142094-264349522?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2FSurabaya%2F&utm_medium=affiliate&utm_source=pexels&utm_term=surabaya -->
 
-<!-- https://www.istockphoto.com/photo/cityscape-surabya-inodnesia-gm901609992-248734338 -->
+
 
 This article provides an overview of Surabaya for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -34,7 +33,7 @@ In recent years, the city has also received international awards such as Asian T
 
 ### **Demographic profile**
 
-Surabaya is a multi-ethnic and multi-cultural city and the second most populous city in Indonesia. Its population is made up of Javanese, Chinese, Madurese, Arabs and others.[^11] In 2019, Surabaya’s population reached 2.89 million. More than 10 percent of its population comprised age group 20 to 24 years old.[^12]
+Surabaya is a multi-ethnic and multi-cultural city and the second most populous city in Indonesia. Its population is made up of Javanese, Chinese, Madurese, Arabs and others.[^11] In 2022, Surabaya’s population reached 2.88 million.[^12]
 
 ### **Economic profile**
 
@@ -68,9 +67,9 @@ Singapore is one of the top five foreign investors in Surabaya. In 2012, Enterpr
 
 [^10]:About Surabaya. (2017). *Dinas Kebudayaan dan Pariwisata Kota Surabaya.* Retrieved December 11, 2020, from [https://sparkling.surabaya.go.id](https://sparkling.surabaya.go.id/about-surabaya/the-history-of-surabaya/){:target="_blank"}
 
-[^11]:Karakter orang Surabaya. (2017). *Dinas Kebudayaan dan Pariwisata Kota Surabaya.* Retrieved December 11, 2020, from [https://sparkling.surabaya.go.id](https://sparkling.surabaya.go.id/about-surabaya/people-and-culture/){:target="_blank"} ; Profil kota Surabaya 2016. (2016). *Dinas Komunikasi dan Informatika kota Surabaya*, p. 49. Retrieved December 11, 2020, from [http://www.surabaya.go.id](http://www.surabaya.go.id/uploads/attachments/2016/10/13986/profil_surabaya_2016_vfinal_ar_compressed_compress.pdf){:target="blank"}
+[^11]:Profil kota Surabaya 2016. (2016). *Dinas Komunikasi dan Informatika kota Surabaya*, p. 49. Retrieved April 11, 2024, from [http://www.surabaya.go.id](http://www.surabaya.go.id/uploads/attachments/2016/10/13986/profil_surabaya_2016_vfinal_ar_compressed_compress.pdf){:target="_blank"}
 
-[^12]:Statistik daerah kota Surabaya 2020. (2020). *Badan Pusat Statistik Kota Surabaya,* p. 4. Retrieved December 11, 2020, from [https://surabayakota.bps.go.id](https://surabayakota.bps.go.id/publication.html){:target="_blank"}
+[^12]:Total Population of Surabaya by Sex and Age Group (People), 2021-2022 (2023, October 18). *BPS-Statistics Indonesia Kota Surabaya*. Retrieved April 11, 2024, from [https://surabayakota.beta.bps.go.id](https://surabayakota.beta.bps.go.id/en/statistics-table/2/MjM2IzI=/-total-population-of-surabaya-by-sex-and-age-group--people-.html){:target="_blank"}
 
 [^13]:9 Profil kota Surabaya 2016. (2016). *Dinas Komunikasi dan Informatika kota Surabaya*, p. 63. Retrieved December 11, 2020, from [http://www.surabaya.go.id](http://www.surabaya.go.id/uploads/attachments/2016/10/13986/profil_surabaya_2016_vfinal_ar_compressed_compress.pdf){:target="blank"}
 

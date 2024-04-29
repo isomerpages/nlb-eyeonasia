@@ -1,12 +1,10 @@
 ---
-title: 'What Employers Say'
+title: What Employers Say
 permalink: /asean-countries/share/what-employers-say/
-breadcrumb: 'What Employers Say'
+breadcrumb: What Employers Say
 third_nav_title: Share
-
+variant: markdown
 ---
-
-
 ![banner-asean-share-what-employers-say](\images\asean-employers\What-employers-say-new.jpg)
 
 Outstanding Singapore businessmen, entrepreneurs, professionals and organisations have entered the ASEAN markets over the decades. Learn more about their ventures and what it takes to make that first step.
@@ -36,9 +34,9 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-employers-say/sg-based-globally-present/" class="project-link">
@@ -63,9 +61,9 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-employers-say/business-guides-by-the-business-times/" class="project-link">
@@ -90,9 +88,9 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-employers-say/kpmg-asean-business-guide/" class="project-link">
@@ -117,9 +115,9 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 	</div>
 </div>
 
-<p><p>
+<p></p><p>
 
-<div>
+</p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-employers-say/singapore-firms-indonesia-growth/" class="project-link">
@@ -143,22 +141,3 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 		</div>
 	</div>
 </div>
-
-<p><p>
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/share/what-employers-say/skills-internship-job-search/" class="project-link">
-				<img src="/images/asean-employers/Skills-for-internship-small.jpg" alt="Skills for internship and job search" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Skills for internship and job search</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
-</div>
-
-<p><p>

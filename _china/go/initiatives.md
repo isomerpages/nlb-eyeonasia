@@ -3,10 +3,8 @@ title: Initiatives
 permalink: /china/go/initiatives/
 breadcrumb: Initiatives
 third_nav_title: Go
-
+variant: markdown
 ---
-
-
 ![banner-asean-go-for-professionals](\images\asean-professionals\For-young-professionals-new.jpg)
 
 Check out selected programmes and opportunities available so that you can better prepare and develop your competencies!
@@ -49,7 +47,7 @@ Passionate about youth development? Have a project that provides exposure to ASE
 
 Organised by its Continuing Education & Training Academy, the Ngee Ann Polytechnic offers learning journeys to Asian cities, where participants can pick up skills to start a business and explore new markets to grow their business.
 
-[Find out more](https://www.np.edu.sg/travelandlearn/Pages/default.aspx){:target="_blank"}
+[Find out more](https://www.cet.np.edu.sg/travel-and-learn/){:target="_blank"}
 
 ### **Singapore Business Federation**
 

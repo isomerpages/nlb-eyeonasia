@@ -1,12 +1,10 @@
 ---
-title: 'Guangdong - A profile'
+title: Guangdong - A profile
 permalink: /china/know/china-municipalities-provinces/guangdong-profile/
-breadcrumb: 'Guangdong - A profile'
-
+breadcrumb: Guangdong - A profile
+variant: markdown
 ---
-
-
-<img src="\images\china-selected\guangdong-profile.jpg" alt="guangdong profile banner" style="width:800px;" />
+<img src="\images\china-selected\guangdong-profile.jpg" alt="guangdong profile banner" style="width:800px;">
 
 This article provides an overview of Guangdong for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -95,19 +93,19 @@ Singapore’s investments in Guangdong grew 16 percent in 2019 to reach US$1.08 
 [^5]: Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
 [^6]: Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
 
-[^7]: Falkenheim, V. C., Yeung, Y., & Chang, C. (2016). Guangdong. *Encyclopaedia Britannica*. Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="blank"}; Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="blank"}
+[^7]: Falkenheim, V. C., Yeung, Y., &amp; Chang, C. (2016). Guangdong. *Encyclopaedia Britannica*. Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="blank"}; Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="blank"}
 
 [^8]: Doing business in Guangdong province of China. (n.d.). *Ministry of Commerce of the People’s Republic of China*. Retrieved March 8, 2021, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Guangdong.shtml){:target="_blank"}
 
-[^9]: Falkenheim, V. C., Yeung, Y., & Chang, C. (2016). Guangdong. *Encyclopaedia Britannica*. Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="blank"}; Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="blank"}
+[^9]: Falkenheim, V. C., Yeung, Y., &amp; Chang, C. (2016). Guangdong. *Encyclopaedia Britannica*. Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="blank"}; Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="blank"}
 
 [^10]: Zhang, Z. Y. (2019, June 19). Guangzhou: Industry, economics, and policy. *China Briefing.* Retrieved March 8, 2021, from [https://www.china-briefing.com/](https://www.china-briefing.com/news/guangzhou-industry-economics-policy/){:target="_blank"}; Zia, H. (2018, September 25). Guangdong – A key hub on the Maritime Silk Road. *China Daily.* Retrieved March 8, 2021, from [http://www.chinadaily.com.cn/](http://www.chinadaily.com.cn/a/201809/25/WS5ba9e159a310c4cc775e7fbc.html){:target="blank"}
 
-[^11]: Wang, C. (2017, January 23). Guangdong remains China’s economic powerhouse. *Global Times*. Retrieved March 8, 2021, from [http://www.globaltimes.cn](http://www.globaltimes.cn/content/1030347.shtml){:target="blank"}; Guangdong’s economy remains biggest, Chongqing leads growth. (2017, February 7). *China Daily*. Retrieved March 8, 2021, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/business/2017-02/07/content_28126256.htm){:target="blank"}
+[^11]: Wang, C. (2017, January 23). Guangdong remains China’s economic powerhouse. *Global Times*. Retrieved April 8, 2024, from [http://www.globaltimes.cn](https://www.globaltimes.cn/page/201701/1030347.shtml){:target="blank"}; Guangdong’s economy remains biggest, Chongqing leads growth. (2017, February 7). *China Daily*. Retrieved March 8, 2021, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/business/2017-02/07/content_28126256.htm){:target="blank"}
 
 [^12]: Guangdong. (n.d.). Government of Canada. Retrieved March 8, 2021, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-guangdong.aspx?lang=eng){:target="blank"}; PRD economic profile. (2018, May 10). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong/pearl-river-delta){:target="blank"}
 
-[^13]: He, H., & Gan, N. (2016, February 1). Tale of two Guangdong cities: The reinvention of Shenzhen. South China Morning Post. Retrieved March 8, 2021, from [http://www.scmp.com](http://www.scmp.com/news/china/economy/article/1908544/tale-two-guangdong-cities-reinvention-shenzhen){:target="blank"}; Shepard, W. (2016, July 14). A look inside Shenzhen’s high-tech empire. *Forbes*. Retrieved March 8, 2021, from [https://www.forbes.com](https://www.forbes.com/sites/wadeshepard/2016/07/14/a-look-inside-shenzhens-high-tech-empire/#278be1764f36){:target="blank"}
+[^13]: He, H., &amp; Gan, N. (2016, February 1). Tale of two Guangdong cities: The reinvention of Shenzhen. South China Morning Post. Retrieved March 8, 2021, from [http://www.scmp.com](http://www.scmp.com/news/china/economy/article/1908544/tale-two-guangdong-cities-reinvention-shenzhen){:target="blank"}; Shepard, W. (2016, July 14). A look inside Shenzhen’s high-tech empire. *Forbes*. Retrieved March 8, 2021, from [https://www.forbes.com](https://www.forbes.com/sites/wadeshepard/2016/07/14/a-look-inside-shenzhens-high-tech-empire/#278be1764f36){:target="blank"}
 
 [^14]: China’s tiered city system explained. (2016). *South China Morning Post*. Retrieved March 8, 2021, from [http://multimedia.scmp.com](http://multimedia.scmp.com/2016/cities/){:target="_blank"}
 
@@ -119,7 +117,7 @@ Singapore’s investments in Guangdong grew 16 percent in 2019 to reach US$1.08 
 
 [^18]: Shenzhen (Guangdong) city information. (2019, May 16). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong/shenzhen){:target="_blank"}
 
-[^19]: Jing, M., & Lee, A. (2017 August 12). Where is China’s Silicon Valley? *South China Morning Post*. Retrieved March 8, 2021, from [http://www.scmp.com](http://www.scmp.com/tech/start-ups/article/2106494/where-chinas-silicon-valley){:target="_blank"}
+[^19]: Jing, M., &amp; Lee, A. (2017 August 12). Where is China’s Silicon Valley? *South China Morning Post*. Retrieved March 8, 2021, from [http://www.scmp.com](http://www.scmp.com/tech/start-ups/article/2106494/where-chinas-silicon-valley){:target="_blank"}
 
 [^20]: Shantou (Guangdong) city information. (2021, February 16). *HKTDC Research.* Retreived March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong/shantou){:target="_blank"}
 
