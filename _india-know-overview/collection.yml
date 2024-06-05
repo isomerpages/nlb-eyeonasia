@@ -1,0 +1,11 @@
+collections:
+  india-know-overview:
+    output: true
+    order:
+      - india-a-profile.md
+      - regional-newspapers.md
+      - looking-to-asia-with-a-global-mindset.md
+      - understanding-india.md
+      - discovering-india-s-history.md
+      - india-s-influential-young.md
+      - learning-about-india-s-transformation.md

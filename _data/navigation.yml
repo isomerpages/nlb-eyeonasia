@@ -1,0 +1,46 @@
+logo: /images/logo-eoa.webp
+links:
+  - title: ASEAN Countries
+    false_collection: true
+    url: /asean-countries/know/overview/
+    sublinks:
+      - title: Know
+        url: /asean-countries/know/overview-of-asean-countries/
+      - title: Share
+        url: /asean-countries/share/what-young-people-say/
+      - title: Go
+        url: /asean-countries/go/initiatives/
+  - title: China
+    false_collection: true
+    url: /china/know/overview/
+    sublinks:
+      - title: Know
+        url: /china/know/overview-of-china/
+      - title: Share
+        url: /china/share/what-young-people-say/
+      - title: Go
+        url: /china/go/initiatives/
+  - title: India
+    false_collection: true
+    url: /india/know/overview
+    sublinks:
+      - title: Know
+        url: /india/know/overview-of-india/
+      - title: Share
+        url: /india/share/what-young-people-say/
+      - title: Go
+        url: /india/go/initiatives/
+  - title: Other Asian Countries
+    false_collection: true
+    url: /other-asian-countries/overview/
+    sublinks:
+      - title: Central Asia
+        url: /other-asian-countries/central-asia/
+      - title: United Arab Emirates
+        url: /other-asian-countries/uae/
+  - title: About
+    url: /about/about-eye-on-asia/
+  - title: Events
+    url: /events/
+  - title: Partners
+    url: /partners/

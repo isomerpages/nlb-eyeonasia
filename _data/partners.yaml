@@ -1,0 +1,25 @@
+# Founding partners
+founding-partners:
+    - name: EnterpriseSG
+      title:
+      organisation:
+      image-url: https://www.eyeonasia.gov.sg/images/partners/Enterprise-SG-logo-270x85-1.png
+    - name: Business China Singapore
+      title:
+      organisation:
+      image-url: https://www.eyeonasia.gov.sg/images/partners/BC-Logo-White-BG-270x113-1.jpg
+    - name: Singapore Management University International Trading Institute
+      title:
+      organisation:
+      image-url: https://www.eyeonasia.gov.sg/images/partners/SMU-logo-370x93-1.jpg
+
+# Partners
+partners:
+    - name: Nanyang Business School
+      title:
+      organisation:
+      image-url: https://www.eyeonasia.gov.sg/images/partners/NBS_color-740x138.jpg
+    - name: Ngee Ann Polytechnic
+      title:
+      organisation:
+      image-url: https://www.eyeonasia.gov.sg/images/partners/Ngee-Ann-Poly-logo.png
