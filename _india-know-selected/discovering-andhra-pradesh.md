@@ -2,8 +2,9 @@
 title: Discovering Andhra Pradesh
 permalink: /india/know/selected-india-states/andhra-pradesh-guide/
 breadcrumb: Discovering Andhra Pradesh
+variant: markdown
 ---
-<img src="\images\india-selected\andhra-pradesh-guide.jpg" alt="andhra pradesh guide" style="width:800px;" />
+<img src="\images\india-selected\andhra-pradesh-guide.jpg" alt="andhra pradesh guide" style="width:800px;">
 
 This is a selection of resources on Andhra Pradesh available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet and is not meant to be an exhaustive list. If you know of or come across more useful resources, please drop us a  <a href="http://www.eyeonasia.gov.sg/contact-us/">note</a> so that we can share them with our readers.
 
@@ -11,7 +12,7 @@ This is a selection of resources on Andhra Pradesh available from the [NLB catal
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/The-making-of-miracles-in-Indian-states-Andhra-Pradesh-Bihar-and-Gujarat.jpg" style="width:150px;" />
+<img src="/images/book-covers/The-making-of-miracles-in-Indian-states-Andhra-Pradesh-Bihar-and-Gujarat.jpg" style="width:150px;">
 
 [**The making of miracles in Indian states: Andhra Pradesh, Bihar, and Gujarat**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202665108)
 
@@ -19,7 +20,7 @@ Andhra Pradesh is one of three Indian states that have shown miracle levels of g
 
 All rights reserved, Oxford: Oxford University Press, 2015.
 
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+<img src="/images/resources/Database 1.jpg" style="width:180px;">
 
 [**Vishakhapatnam: Leveraging knowledge economy for building business hub**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P)
 
@@ -40,16 +41,15 @@ Retrieved from EBSCOhost Business Source Complete. *myLibrary* ID is required to
 
 ### **You may also like**
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" style="width:180px;">
 
 [**Andhra Pradesh Tourism**](https://aptourism.gov.in/)
 
 Discover what Andhra Pradesh has to offer with its vast geographical area combined with great historical and cultural heritage. Explore the nature and wild life experiences, heritage spots, beaches, as well as religious and spiritual destinations. 
 
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**Andhra Pradesh Industrial Development Policy 2020-2023**](https://apedb.gov.in/downloads/ap-industrial-policy-2020-23-brochure-final.pdf)
-
+[**Andhra Pradesh Industrial Development Policy 2020-2023**](https://www.amtz.in/static/img/pdf/andhra-pradesh-industrial-development-policy-2020-2023.pdf)
 
 This policy aims to drive industrialisation based on the natural competitive advantages of a long coastline and a large pool of talented resources. It seeks to focus on promoting high value add and cutting edge industries to be future proof. Ten sectors for special thrust include toys and furniture, footwear and leather, machinery and precision equipment, aerospace and defence, pharma, textiles, automobile, electronics and petrochemicals.
