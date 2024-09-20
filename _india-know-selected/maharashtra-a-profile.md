@@ -2,8 +2,9 @@
 title: Maharashtra - A profile
 permalink: /india/know/selected-india-states/maharashtra-profile/
 breadcrumb: Maharashtra - A profile
+variant: markdown
 ---
-<img src="\images\india-selected\Maharashtra Gateway to India.jpg" alt="The Gateway to India, Mumbai" style="width:800px;" />
+<img src="\images\india-selected\Maharashtra Gateway to India.jpg" alt="The Gateway to India, Mumbai" style="width:800px;">
 
 This article provides an overview of Maharashtra for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -88,7 +89,7 @@ Singapore and the state of Maharashtra have formed a number of partnerships. In 
 
 [^16]: Maharashtra. (2021). *India Brand Equity Foundation*. Retrieved July 27, 2021 from [https://www.ibef.org/states/maharashtra-presentation](https://www.ibef.org/states/maharashtra-presentation)  
 
-[^17]: Maharashtra Tourism Development Corporation. (n.d.). Retrieved July 27, 2021 from [https://www.maharashtratourism.gov.in/web/mh-tourism/faq](https://www.maharashtratourism.gov.in/web/mh-tourism/faq)
+[^17]: Directorate of Tourism. (n.d.). Retrieved July 27, 2021 from [https://www.maharashtratourism.gov.in](https://maharashtratourism.gov.in/directorate-of-tourism-dot/)
 
 [^18]: Ganapathy, N. (2018, May 17). Singapore partners Maharashtra to develop masterplan. *The Straits Times*. Retrieved July 27, 2021, from [https://www.straitstimes.com/asia/south-asia/singapore-partners-maharashtra-to-develop-masterplan](https://www.straitstimes.com/asia/south-asia/singapore-partners-maharashtra-to-develop-masterplan)
 
