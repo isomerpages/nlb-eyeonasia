@@ -59,7 +59,7 @@ Singapore and the state of Maharashtra have formed a number of partnerships. In 
 [^1]: Maharashtra. (2021). *India Brand Equity Foundation*. Retrieved July 27, 2021 from [https://www.ibef.org/states/maharashtra.aspx](https://www.ibef.org/states/maharashtra.aspx)
 
 
-[^2]: Districts in Maharashtra. (n.d.). *Doing Business in Maharashtra*. Retrieved July 27, 2021, from [http://www.doingbusinessinmaharashtra.org/Districts_in_Maharashtra.aspx](http://www.doingbusinessinmaharashtra.org/Districts_in_Maharashtra.aspx)
+[^2]: Districts in Maharashtra. (n.d.). *Doing Business in Maharashtra*. Retrieved July 27, 2021, from [http://www.doingbusinessinmaharashtra.org/](https://doingbusinessinmaharashtra.org/Districts_in_Maharashtra.php)
 
 [^3]: Maharashtra. (2021). *India Brand Equity Foundation*. Retrieved July 27, 2021 from [https://www.ibef.org/states/maharashtra.aspx](https://www.ibef.org/states/maharashtra.aspx)
 
