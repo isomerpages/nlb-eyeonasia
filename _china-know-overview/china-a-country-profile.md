@@ -53,7 +53,7 @@ The BRI is currently developing six international economic cooperation corridors
 
 [^2]: Capital. (2014, August 26). *The State Council, The People’s Republic of China.* Retrieved January 26, 2021, from [http://english.www.gov.cn](http://english.www.gov.cn/archive/china_abc/2014/08/27/content_281474983873414.htm){:target="_blank"}
 
-[^3]: 2-1: Population and its composition. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^3]: 2-1: Population and its composition. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
 [^4]:  Timeline – the rise of Chinese leader Xi Jinping. (2018, March 16). *Reuters.* Retrieved January 26, 2021 from [https://www.reuters.com](https://www.reuters.com/article/us-china-parliament-xi-timeline-idUSKCN1GS0ZA){:target="_blank"}
 
@@ -63,7 +63,7 @@ The BRI is currently developing six international economic cooperation corridors
 
 [^7]: Law of the People’s Republic of China on The People’s Bank of China (2003, December 27). *Tenth National People’s Congress.* Retrieved April 16, 2024, from [http://www.pbc.gov.cn](http://www.pbc.gov.cn/en/3688253/3689003/3709953/index.html){:target="_blank"}
 
-[^8]: 2-1: Population and its composition. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="blank"}; 2-5 Age composition and dependency ration of population. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="blank"}
+[^8]: 2-1: Population and its composition. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="blank"}; 2-5 Age composition and dependency ration of population. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China.* Retrieved January 26, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="blank"}
 
 [^9]: 2-2: Birth rate, death rage and national growth rate of population. China Statistical Yearbook 2020. (2020). *National Bureau of Statistics of China*. Retrieved January 26, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
