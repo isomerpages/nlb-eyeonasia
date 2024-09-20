@@ -74,7 +74,7 @@ Besides its push to become a smart city, Pune has been an attractive business de
 
 [^10]: Pune Population 2022. (2022). *World Population Review.* Retrieved August 1, 2022, from [http://worldpopulationreview.com](http://worldpopulationreview.com/world-cities/pune-population/){:target="_blank"}
 
-[^11]: City Spotlight: Pune.(2022). *India Briefing.* Retrieved August 1, 2022, from [https://www.india-briefing.com](https://www.india-briefing.com/news/city-spotlight-pune-12044.html/){:target="_blank"}
+[^11]: City Spotlight: Pune.(2016, April 29). *India Briefing.* Retrieved August 1, 2022, from [https://www.india-briefing.com](https://www.india-briefing.com/news/city-spotlight-pune-12044.html/){:target="_blank"}
 
 [^12]: Gour, V. (2016, March 7). What makes Pune an industrial powerhouse? *CN Traveller.* Retrieved August 1, 2022, from [https://www.cntraveller.in](https://www.cntraveller.in/story/what-makes-pune-an-industrial-powerhouse/){:target="_blank"}
 
