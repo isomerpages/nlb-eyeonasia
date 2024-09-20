@@ -29,8 +29,6 @@ Surabaya, known as the City of Heroes, is the second largest city in Indonesia, 
 
 With free elementary to high school education as well as a “12 years of compulsory study” policy, which requires all children to attend school for 12 years, Surabaya is an education hub. It also offers non-formal education and provides free work training to upskill and prepare workers for the future. Apart from its well-known tertiary institutions such as the Sepuluh Nopember Institute of Technology, Airlangga University and Surabaya State University, Surabaya also has about 100 vocational schools that specialise in business, agribusiness, technology and engineering, informatics, communication, health and technology.[^9]
 
-In recent years, the city has also received international awards such as Asian Townscape Award by the United Nations, ASEAN Environment Sustainable City Award and Asian Cities of the Future.[^10]
-
 ### **Demographic profile**
 
 Surabaya is a multi-ethnic and multi-cultural city and the second most populous city in Indonesia. Its population is made up of Javanese, Chinese, Madurese, Arabs and others.[^11] In 2022, Surabaya’s population reached 2.88 million.[^12]
@@ -64,8 +62,6 @@ Singapore is one of the top five foreign investors in Surabaya. In 2012, Enterpr
 [^8]:Statistik daerah kota Surabaya 2020. (2020). *Badan Pusat Statistik Kota Surabaya,* p. 1. Retrieved December 11, 2020, from [https://surabayakota.bps.go.id](https://surabayakota.bps.go.id/publication.html){:target="blank"} ; Surabaya’s strategic location connects east and west. (n.d.). *Oxford Business Group.* Retrieved December 11, 2020, from [https://oxfordbusinessgroup.com](https://oxfordbusinessgroup.com/analysis/soaring-surabaya-second-tier-city-capitalising-its-strategic-location-providing-connections-between){:target="blank"}
 
 [^9]:Profil kota Surabaya 2016. (2016). *Dinas Komunikasi dan Informatika kota Surabaya*, pp. 11, 13, 15*.* Retrieved December 11, 2020, from [http://www.surabaya.go.id](http://www.surabaya.go.id/uploads/attachments/2016/10/13986/profil_surabaya_2016_vfinal_ar_compressed_compress.pdf){:target="blank"}
-
-[^10]:About Surabaya. (2017). *Dinas Kebudayaan dan Pariwisata Kota Surabaya.* Retrieved December 11, 2020, from [https://sparkling.surabaya.go.id](https://sparkling.surabaya.go.id/about-surabaya/the-history-of-surabaya/){:target="_blank"}
 
 [^11]:Profil kota Surabaya 2016. (2016). *Dinas Komunikasi dan Informatika kota Surabaya*, p. 49. Retrieved April 11, 2024, from [http://www.surabaya.go.id](http://www.surabaya.go.id/uploads/attachments/2016/10/13986/profil_surabaya_2016_vfinal_ar_compressed_compress.pdf){:target="_blank"}
 
