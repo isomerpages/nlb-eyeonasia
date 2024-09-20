@@ -50,7 +50,7 @@ Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of S
 ---
 ### **References**
 
-[^1]: Information about the region. (2024). *Invest in Astana*. Retrieved September 5, 2024, from [https://astana.invest.gov.kz/]https://astana.invest.gov.kz/about/info/){:target="_blank"}
+[^1]: Information about the region. (2024). *Invest in Astana*. Retrieved September 5, 2024, from [https://astana.invest.gov.kz/](https://astana.invest.gov.kz/about/info/){:target="_blank"}
 
 [^2]: The Constitution of the Republic of Kazakhstan. (2019). *Parliament of the Republic of Kazakhstan*. Retrieved September 5, 2022, from [http://www.parlam.kz](http://www.parlam.kz/en/constitution){:target="_blank"}
 
@@ -60,11 +60,11 @@ Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of S
 
 [^5]: Nur-Sultan. (2022). *Encyclopaedia Britannica*. Retrieved September 5, 2022, from [https://www.britannica.com](https://www.britannica.com/place/Nur-Sultan){:target="_blank"}
 
-[^6]: Information about the region. (2024). *Invest in Astana*. Retrieved September 5, 2024, from [https://astana.invest.gov.kz/]https://astana.invest.gov.kz/about/info/){:target="_blank"}
+[^6]: Information about the region. (2024). *Invest in Astana*. Retrieved September 5, 2024, from [https://astana.invest.gov.kz/](https://astana.invest.gov.kz/about/info/){:target="_blank"}
 
 [^7]: Information about the region. (2024). *Invest in Astana*. Retrieved September 5, 2024, from [https://astana.invest.gov.kz/](https://astana.invest.gov.kz/about/info/){:target="_blank"}
 
-[^8]: How Nur-Sultan’s growth story continued during Covid-19. (2021, October 15). *Investment Monitor*. Retrieved September 5, 2022, from [https://www.investmentmonitor.ai/](https://www.investmentmonitor.ai/analysis/nur-sultan-kazakhstan-fdi-covid-growth){:target="_blank"}
+[^8]: How Nur-Sultan’s growth story continued during Covid-19. (2021, October 15). *Investment Monitor*. Retrieved September 5, 2022, from [https://www.investmentmonitor.ai/](https://www.investmentmonitor.ai/features/nur-sultan-kazakhstan-fdi-covid-growth/){:target="_blank"}
 
 [^9]: Cohen, A. (2018, June 18). Kazakhstan's new capital is growing up quick. (2019). *Forbes.* Retrieved September 5, 2022, from [https://www.forbes.com](https://www.forbes.com/sites/arielcohen/2018/06/08/kazakhstans-new-capital-is-growing-up-quick/#1d8a1f991c44){:target="_blank"}
 
