@@ -2,8 +2,9 @@
 title: Gujarat - A profile
 permalink: /india/know/selected-india-states/gujarat-profile/
 breadcrumb: Gujarat - A profile
+variant: markdown
 ---
-<img src="\images\india-selected\gujarat-profile.jpg" alt="gujarat profile" style="width:800px;" />
+<img src="\images\india-selected\gujarat-profile.jpg" alt="gujarat profile" style="width:800px;">
 
 This article provides a profile of Gujarat, India for those exploring the possibility of living and working there. The information presented has been gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -43,7 +44,7 @@ Gujarat has a developed pharmaceutical sector with over 3,300 pharmaceutical man
 
 Gujarat is reported to be world’s largest producer of processed diamonds, accounting for 72 percent of the world’s processed diamond share and 80 percent of India’s diamond exports. Gujarat’s production of denim contributes 65 to 70 percent of India’s total denim production, making it the largest manufacturer of denim in the country and the third largest in the world.[^17]
 
-### **Foreign Trade & Investment**
+### **Foreign Trade &amp; Investment**
 
 The Department for Promotion of Industry and Internal Trade (DPIIT) under the Indian Ministry of Commerce and Industry reported that in FY21, Gujarat received the highest foreign direct investment at US$ 21.89 billion, standing in the forefront of all the Indian states, with 30 percent of the total equity inflows. The Department also revealed that the total exports from Gujarat stood at US$ 63,440 million in 2019-20 and US$ 60,587 million in 2020-21.[^18]
 
@@ -74,7 +75,7 @@ International Enterprise (IE) Singapore (now known as Enterprise Singapore) sign
 
 [^6]: About Gujarat. (2022). Gujarat Tourism. Retrieved April 29, 2022, from [https://www.gujarattourism.com/](https://www.gujarattourism.com/about-gujarat.html){:target="_blank"}
 
-[^7]: Information About Gujarat – Industries, Economy, Ports, Exporters & Geography. (2022, March). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org](https://www.ibef.org/states/gujarat){:target="_blank"}
+[^7]: Information About Gujarat – Industries, Economy, Ports, Exporters &amp; Geography. (2022, March). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org](https://www.ibef.org/states/gujarat){:target="_blank"}
 
 [^8]: Gujarat population census data 2011. (2022). Census 2011 Organisation, India. Retrieved April 29, 2022, from [https://www.census2011.co.in](https://www.census2011.co.in/census/state/gujarat.html){:target="_blank"}
 
@@ -82,7 +83,7 @@ International Enterprise (IE) Singapore (now known as Enterprise Singapore) sign
 
 [^10]: Gujarat: The growth engine of India. (2020, June). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/download/Gujarat-June-20202.pdf){:target="_blank"}
 
-[^11]: Information About Gujarat – Industries, Economy, Ports, Exporters & Geography. (2022, March). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/states/gujarat){:target="_blank"}
+[^11]: Information About Gujarat – Industries, Economy, Ports, Exporters &amp; Geography. (2022, March). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/states/gujarat){:target="_blank"}
 
 [^12]: Gujarat: The growth engine of India. (2020, June). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/download/Gujarat-June-20202.pdf){:target="_blank"}
 
@@ -94,10 +95,10 @@ International Enterprise (IE) Singapore (now known as Enterprise Singapore) sign
 
 [^16]: GSDP Of Gujarat, Economic Growth Presentation and Reports. (2022, February). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/states/gujarat-presentation){:target="_blank"}
 
-[^17]: Information About Gujarat – Industries, Economy, Ports, Exporters & Geography. (2022, March). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/states/gujarat){:target="_blank"}
+[^17]: Information About Gujarat – Industries, Economy, Ports, Exporters &amp; Geography. (2022, March). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/states/gujarat){:target="_blank"}
 
-[^18]: Information About Gujarat – Industries, Economy, Ports, Exporters & Geography. (2022, March). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/states/gujarat){:target="_blank"}
+[^18]: Information About Gujarat – Industries, Economy, Ports, Exporters &amp; Geography. (2022, March). India Brand Equity Foundation. Retrieved April 29, 2022, from [https://www.ibef.org/](https://www.ibef.org/states/gujarat){:target="_blank"}
 
 [^19]: About Gujarat. (2022). Gujarat Tourism. Retrieved April 29, 2022, from [https://www.gujarattourism.com/](https://www.gujarattourism.com/about-gujarat.html){:target="_blank"}
 
-[^20]: Kapil, G. (2017, January 13). International Enterprise Singapore signs MOU with Gujarat Government. Connected to India. Retrieved April 29, 2022, from [https://www.connectedtoindia.com/](https://www.connectedtoindia.com/international-enterprise-singapore-signs-mou-with-gujarat-government-467.html){:target="_blank"}
+[^20]: IE Singapore. (2017, January 12). IE Singapore deepens network with Gujarat government to facilitate opportunities for Singapore companies in manufacturing, logistics services and port technologies. *National Archives of Singapore*. Retrieved September 20, 2024, from [https://www.nas.gov.sg/](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20170112005/MR00117__IE_Gujarat%20MOUs_2017%2001%2012.pdf){:target="_blank"}
