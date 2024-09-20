@@ -2,8 +2,9 @@
 title: Almaty - A city profile
 permalink: /other-asian-countries/central-asia/almaty-a-city-profile/
 breadcrumb: Almaty - A city profile
+variant: markdown
 ---
-<img src="\images\central-asia\almaty-profile.jpg" alt="Almaty profile banner" style="width:800px;" />
+<img src="\images\central-asia\almaty-profile.jpg" alt="Almaty profile banner" style="width:800px;">
 
 This article provides an overview of Almaty for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -57,11 +58,11 @@ Singapore regards Kazakhstan as an important partner, not just in the Central As
 ---
 ### **References**
 
-[^1]: Official Statistics. (2022). *Bureau of National Statistics, Republic of Kazakhstan*. Retrieved September 1, 2022, from <http://stat.gov.kz/>{:target="_blank"}
+[^1]: Official Statistics. (2022). *Bureau of National Statistics, Republic of Kazakhstan*. Retrieved September 1, 2022, from {:target="_blank"}
 
 [^2]: The Constitution of the Republic of Kazakhstan. (2022). *Parliament of the Republic of Kazakhstan*. Retrieved November 27, 2019, from [http://www.parlam.kz](http://www.parlam.kz/en/constitution){:target="_blank"}
 
-[^3]: Introduction. (2022). *National Bank of Kazakhstan.* Retrieved September 1, 2022, from [https://nationalbank.kz](https://nationalbank.kz/?docid=170&switch=english){:target="_blank"}
+[^3]: Introduction. (2022). *National Bank of Kazakhstan.* Retrieved September 1, 2022, from [https://nationalbank.kz](https://nationalbank.kz/?docid=170&amp;switch=english){:target="_blank"}
 
 [^4]: Over a million tourists, 11.2 thousand new apartments, 20 new industrial enterprises — Development of Almaty. (2019, June 15). *Official Information Source of the Prime Minister of the Republic of Kazakhstan*. Retrieved September 1, 2022, from [https://primeminister.kz](https://primeminister.kz/en/news/reviews/112-tis-novih-kvartir-svishe-milliona-turistov-20-novih-promishlennih-predpriyatii-kak-razvivaetsya-almaty){:target="_blank"}
 
@@ -71,13 +72,14 @@ Singapore regards Kazakhstan as an important partner, not just in the Central As
 
 [^7]: Almaty. (2022). *Encyclopedia Britannica*. Retrieved September 1, 2022, from [https://www.britannica.com](https://www.britannica.com/place/Almaty-Kazakhstan){:target="_blank"}
 
-[^8]: The bridge between Asia and Europe. (2017). *Explore Almaty*. Retrieved September 1, 2022, from <https://www.almaty-kazakhstan.net/>{:target="_blank"}
+[^8]: The bridge between Asia and Europe. (2017). *Explore Almaty*. Retrieved September 1, 2022, from {:target="_blank"}
 
 [^9]: Kazakhstan’s economic growth accelerates in first quarter. (2022, April 12). *Astana Times*. Retrieved September 1, 2022, from [https://astanatimes.com/](https://astanatimes.com/2022/04/kazakhstans-economic-growth-accelerates-in-first-quarter/){:target="_blank"}
 
-[^10]: Devonshire-Ellis, D. (2022, February 17). Almaty responsible for 31.5% of Kazakhstan’s entire retail trade. *Silk Road Briefing*. Retrieved September 1, 2022, from [https://www.silkroadbriefing.com/](https://www.silkroadbriefing.com/news/2022/02/17/almaty-responsible-for-31-5-of-kazakhstans-entire-retail-trade/){:target="_blank"}
+[^10]: Doing Business in
+Kazakhstan. (2021) *Baker McKenzie*. Retrieved September 20, 2024, from [https://www.bakermckenzie.com/](https://www.bakermckenzie.com/en/-/media/files/insight/guides/2021/doing-business-in-kazakhstan-2021.pdf){:target="_blank"}
 
-[^11]: The bridge between Asia and Europe. (2017). *Explore Almaty*. Retrieved September 1, 2022, from <https://www.almaty-kazakhstan.net/>{:target="_blank"}
+[^11]: The bridge between Asia and Europe. (2017). *Explore Almaty*. Retrieved September 1, 2022, from {:target="_blank"}
 
 [^12]: Almaty: Kazakhstan's first capital and the "City of Gardens". (2017, June 23). *Euronews.* Retrieved September 1, 2022, from [https://www.euronews.com](https://www.euronews.com/2017/06/23/almaty-kazakhstan-s-first-capital-and-the-city-of-gardens){:target="_blank"}
 
@@ -87,4 +89,4 @@ Singapore regards Kazakhstan as an important partner, not just in the Central As
 
 [^15]: Assaniyaz, A. (2022, August 8). Number of foreign tourists in Almaty projected to reach pre-pandemic level by 2022. Astana Times. Retrieved September 1, 2022, from [https://astanatimes.com/](https://astanatimes.com/2022/08/number-of-foreign-tourists-in-almaty-projected-to-reach-pre-pandemic-level-by-2022/){:target="_blank"}
 
-[^16]: Speech by MOS Koh Poh Koon at the Almaty-Singapore Business Forum. (2017, April 20). *Ministry of Trade & Industry, Singapore.* Retrieved September 1, 2022, from [https://www.mti.gov.sg](https://www.mti.gov.sg/Newsroom/Speeches/2017/04/Speech-by-MOS-Koh-Poh-Koon-at-the-Almaty-Singapore-Business-Forum){:target="_blank"}
+[^16]: Speech by MOS Koh Poh Koon at the Almaty-Singapore Business Forum. (2017, April 20). *Ministry of Trade &amp; Industry, Singapore.* Retrieved September 1, 2022, from [https://www.mti.gov.sg](https://www.mti.gov.sg/Newsroom/Speeches/2017/04/Speech-by-MOS-Koh-Poh-Koon-at-the-Almaty-Singapore-Business-Forum){:target="_blank"}
