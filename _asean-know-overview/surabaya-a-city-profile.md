@@ -65,7 +65,7 @@ Singapore is one of the top five foreign investors in Surabaya. In 2012, Enterpr
 
 [^11]:Profil kota Surabaya 2016. (2016). *Dinas Komunikasi dan Informatika kota Surabaya*, p. 49. Retrieved April 11, 2024, from [http://www.surabaya.go.id](http://www.surabaya.go.id/uploads/attachments/2016/10/13986/profil_surabaya_2016_vfinal_ar_compressed_compress.pdf){:target="_blank"}
 
-[^12]:Total Population of Surabaya by Sex and Age Group (People), 2021-2022 (2023, October 18). *BPS-Statistics Indonesia Kota Surabaya*. Retrieved April 11, 2024, from [https://surabayakota.beta.bps.go.id](https://surabayakota.beta.bps.go.id/en/statistics-table/2/MjM2IzI=/-total-population-of-surabaya-by-sex-and-age-group--people-.html){:target="_blank"}
+[^12]:Total Population of Surabaya by Sex and Age Group (People), 2021-2022 (2023, October 18). *BPS-Statistics Indonesia Kota Surabaya*. Retrieved April 11, 2024, from https://surabayakota.beta.bps.go.id
 
 [^13]:9 Profil kota Surabaya 2016. (2016). *Dinas Komunikasi dan Informatika kota Surabaya*, p. 63. Retrieved December 11, 2020, from [http://www.surabaya.go.id](http://www.surabaya.go.id/uploads/attachments/2016/10/13986/profil_surabaya_2016_vfinal_ar_compressed_compress.pdf){:target="blank"}
 
