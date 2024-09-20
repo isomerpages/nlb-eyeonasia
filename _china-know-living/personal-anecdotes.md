@@ -31,12 +31,6 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 ### **You may also like**
 
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;">
-
-[**The post-meal warzone**](https://www.thedailychina.org/the-post-meal-warzone/){:target="_blank"}
-
-Larry Ding muses on how people in mainland China tend to vie with one another for the privilege of paying the bill after meals with family or friends. He believes it could be due to or influenced by cultural notions such as dignity, karma and chivalry amongst the mainland Chinese.
-
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
 [**American performer Alison M.Friedman**](http://chinaplus.cri.cn/podcast/detail/1/224074){:target="_blank"}
