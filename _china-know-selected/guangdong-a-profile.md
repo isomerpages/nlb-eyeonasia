@@ -85,12 +85,14 @@ Singapore’s investments in Guangdong grew 16 percent in 2019 to reach US$1.08 
 ### **References**
 [^1]: Guangdong: Market profile. (2020, April 15). *HKTDC Research*. Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong){:target="_blank"}
 
-[^2]: 2-6 Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^2]: 2-6 Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^3]: 3-9 Gross regional product (2019). (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^3]: 3-9 Gross regional product (2019). (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^4]: 3-9 Gross regional product (2019). (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^4]: 3-9 Gross regional product (2019). (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
+
 [^5]: Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
+
 [^6]: Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
 
 [^7]: Falkenheim, V. C., Yeung, Y., &amp; Chang, C. (2016). Guangdong. *Encyclopaedia Britannica*. Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="blank"}; Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="blank"}
