@@ -1,5 +1,4 @@
 collections:
   india-share-youngpeople:
     output: true
-    order:
-      - life-changing-internships-abroad-offer-new-perspectives-and-added-skills.md
+    order: []
