@@ -1,18 +1,16 @@
 ---
-title: 'Innovation in India'
+title: Innovation in India
 permalink: /india/know/working-in-india/innovation-india/
-breadcrumb: 'Innovation in India'
-
+breadcrumb: Innovation in India
+variant: markdown
 ---
-
-
-<img src="\images\india-working\innovation-india.jpg" alt="innovation india" style="width:800px;" />
+<img src="\images\india-working\innovation-india.jpg" alt="innovation india" style="width:800px;">
 
 This is a selection of resources on innovation in India available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/india-as-a-pioneer-of-innovation.png" style="width:150px;" />
+<img src="/images/book-covers/india-as-a-pioneer-of-innovation.png" style="width:150px;">
 
 [**India as a pioneer of innovation**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203124335){:target="_blank"}
 
@@ -20,7 +18,7 @@ What does innovation mean to India? Where are the predominant sites of innovatio
 
 All rights reserved, New Delhi: Oxford University Press, 2017
 
-<img src="/images/book-covers/igniting-innovation-the-tata-way.jpg" style="width:150px;" />
+<img src="/images/book-covers/igniting-innovation-the-tata-way.jpg" style="width:150px;">
 
 [**Igniting innovation: The Tata way**](https://nlb.overdrive.com/media/4617749){:target="_blank"}
 
@@ -28,7 +26,7 @@ The $100 billion salt-to-software conglomerate Tata Group comprises over 100 com
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/Strategic-marketing-and-innovation-for-Indian-MSMEs.jpg" style="width:150px;" />
+<img src="/images/book-covers/Strategic-marketing-and-innovation-for-Indian-MSMEs.jpg" style="width:150px;">
 
 [**Strategic marketing and innovation for Indian MSMEs**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203007958){:target="_blank"}
 
@@ -36,7 +34,7 @@ Learn how strategic marketing – core to improving productivity, profitability 
 
 All rights reserved, Singapore: Springer Nature Singapore, 2017.
 
-<img src="/images/book-covers/Innovation-and-scaling-for-impact-How-effective-social-enterprises-do-it.jpg" style="width:150px;" />
+<img src="/images/book-covers/Innovation-and-scaling-for-impact-How-effective-social-enterprises-do-it.jpg" style="width:150px;">
 
 [**Innovation and scaling for impact: How effective social enterprises do it**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202833732){:target="_blank"}
 
@@ -44,7 +42,7 @@ This title reassesses how social sector organisations create value through innov
 
 All rights reserved, California: Stanford Business Books, an imprint of Stanford University Press, 2017.
 
-<img src="/images/book-covers/A-Biography-of-innovations-From-birth-to-maturity.jpg" style="width:150px;" />
+<img src="/images/book-covers/A-Biography-of-innovations-From-birth-to-maturity.jpg" style="width:150px;">
 
 [**A biography of innovations: From birth to maturity**](https://nlb.overdrive.com/media/3590640){:target="_blank"}
 
@@ -52,7 +50,7 @@ Bestselling author of *The Case of the Bonsai Manager*, R. Gopalakrishnan explor
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/Innovation-stories-from-India-Inc-Their-story-in-their-words.jpg" style="width:150px;" />
+<img src="/images/book-covers/Innovation-stories-from-India-Inc-Their-story-in-their-words.jpg" style="width:150px;">
 
 [**Innovation stories from India Inc: Their story in their words**](https://nlb.overdrive.com/media/3373291){:target="_blank"}
 
@@ -60,7 +58,7 @@ Read the stories of India’s finest business leaders on the innovation journey 
 
 Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
-<img src="/images/book-covers/Knowledge-innovation-strategy.jpg" style="width:150px;" />
+<img src="/images/book-covers/Knowledge-innovation-strategy.jpg" style="width:150px;">
 
 [**Knowledge innovation strategy**](https://nlb.overdrive.com/media/3077085){:target="_blank"}
 
@@ -72,26 +70,26 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
 ### **You may also like**
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;">
 
 [**MyGov Innovate: MyGov Innovation**](https://innovate.mygov.in/){:target="_blank"}
 
 This Government of India website showcases current and past initiatives and challenges encouraging entrepreneurs and innovators in India to contribute to solving problems and issues today.
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" style="width:180px;">
 
 [**Release of the White Paper on India as an Innovation Economy - Role of IP and ICT**](https://ebtc-project.eu/index.php/communication/press-corner/press-releases/327-press-release-other/508-release-of-the-white-paper-on-india-as-an-innovation-economy-role-of-ip-and-ict){:target="_blank"}
 
 This White Paper by the European Business and Technology Centre discusses how India can enhance its global positioning as an innovation hub, bring in investment technology and create quality jobs through well-defined roadmaps/strategies and partnership with the European Union (EU), its Member States and European institutes. 
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;" />
+<img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**IPO Journal – The official journal of the India Patent Office**](http://www.ipindia.nic.in/journal-patents.htm){:target="_blank"}
+[**IPO Journal – The official journal of the India Patent Office**](https://search.ipindia.gov.in/IPOJournal/Journal/Patent){:target="_blank"}
 
 *IPO Journal* details the various patents that are applied in India every week. Archives up to the year of 2007 are available.
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;">
 
 [**India Innovation Growth Programme 2.0**](http://www.indiainnovates.in/){:target="_blank"}
 
-In 2007, the India Innovation Growth Programme (IIGP) was launched as a public-private partnership between the Government of India’s Department of Science & Technology and Lockheed Martin Corporation with the aim of building an innovation pipeline in India. Since then, the initiative has been revamped with an additional partner, Tata Trusts, and rebranded as IIGP 2.0 in line with the Government of India’s push towards start-ups focusing on innovations with strong societal impact and cutting edge industrial innovations.
+In 2007, the India Innovation Growth Programme (IIGP) was launched as a public-private partnership between the Government of India’s Department of Science &amp; Technology and Lockheed Martin Corporation with the aim of building an innovation pipeline in India. Since then, the initiative has been revamped with an additional partner, Tata Trusts, and rebranded as IIGP 2.0 in line with the Government of India’s push towards start-ups focusing on innovations with strong societal impact and cutting edge industrial innovations.
