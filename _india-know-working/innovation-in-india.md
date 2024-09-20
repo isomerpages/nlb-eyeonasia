@@ -78,7 +78,7 @@ This Government of India website showcases current and past initiatives and chal
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**Release of the White Paper on India as an Innovation Economy - Role of IP and ICT**](https://ebtc-project.eu/index.php/communication/press-corner/press-releases/327-press-release-other/508-release-of-the-white-paper-on-india-as-an-innovation-economy-role-of-ip-and-ict){:target="_blank"}
+[**India as an Innovation Economy - Role of IP and ICT**](https://icrier.org/pdf/ICRIER-EBTC_White_paper_IP-ICT.pdf){:target="_blank"}
 
 This White Paper by the European Business and Technology Centre discusses how India can enhance its global positioning as an innovation hub, bring in investment technology and create quality jobs through well-defined roadmaps/strategies and partnership with the European Union (EU), its Member States and European institutes. 
 
