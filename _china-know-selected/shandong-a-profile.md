@@ -106,7 +106,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^16]: Weifang (Shandong) city information. (2021, February 23). *HKTDC.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/weifang){:target="_blank"}
 
-[^17]: Overview of Weifang. (2019, April 11). *Select Shandong.* Retrieved March 9, 2021, from [http://en.selectshandong.com](http://en.selectshandong.com/enwebsite/article/index/id/653.html){:target="_blank"} 
+[^17]: Weifang. (2022, December 20). *Select Shandong.* Retrieved September 20, 2024, from [http://en.selectshandong.com](https://en.selectshandong.com/csyl/wf/20348.shtml){:target="_blank"} 
 
 [^18]: Invitation: The 19th China (Shouguang) International Vegetable SciTech Fair. (2018, January 8). *DVF Shouguang.* Retrieved September 14, 2018, from [http://www.sgcbh.com/](http://www.sgcbh.com/zhgk/zhzyzl/201912/t20191211_1295814.html){:target="_blank"}
 
