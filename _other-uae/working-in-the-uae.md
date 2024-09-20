@@ -91,7 +91,7 @@ Published by the Ministry of Economy of the United Arab Emirates (UAE), the UAE 
 
 <img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;">
 
-[**UAE banking perspectives 2018**](https://assets.kpmg/content/dam/kpmg/ae/pdf/uae-banking-perspectives.pdf){:target="_blank"}
+[**UAE banking perspectives 2022**](https://assets.kpmg.com/content/dam/kpmg/ae/pdf-2022/04/kpmg-uae-Banking-Perspectives-2022.pdf){:target="_blank"}
 
 The United Arab Emirates (UAE), in particular Dubai, has emerged as a key financial hub of the Middle East in recent years. Find out how developments such as technological innovation, regulations, culture and governance will impact the banking sector in UAE in the near future from this report.
 
@@ -103,7 +103,7 @@ Interested to find out more about the market for agri-food products in the Unite
 
 <img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;">
 
-[**Food for thought: UAE 2018 food &amp; beverage report**](https://assets.kpmg/content/dam/kpmg/ae/pdf/food-beverage-2018.pdf){:target="_blank"}
+[**Food for thought: UAE 2018 food &amp; beverage report**](http://dataonaplate.com/wp-content/uploads/2019/05/KPMG-UAE-2018-Food-Beverage-report.pdf){:target="_blank"}
 
 This report examines the food and beverage industry in the United Arab Emirates (UAE), with a special focus on restaurants, cafes and eateries. Besides market trends and key statistics on the industry, it also looks at people’s preferences in cuisine and the increasing use of food delivery apps in the UAE.
 
