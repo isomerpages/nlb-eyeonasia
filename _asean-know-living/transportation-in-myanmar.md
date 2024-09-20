@@ -32,12 +32,6 @@ This site provides a useful listing of airlines and airports that connect to Yan
 
 This is a list of bus routes plotted on Google Maps. You can view bus routes based on bus service number, township or bus stop. The website has both English and Burmese versions.
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;">
-
-[**Taxi service firms compete hard for Yangon’s customers**](https://www.mmtimes.com/business/26348-taxi-service-firms-compete-hard-for-yangon-s-customers.html){:target="_blank"}
-
-This 12 June 2017 *Myanmar Times* article provides useful information on the state of taxi and private car hire services in Yangon.
-
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
 [**Road Transport Administration Department**](http://www.myanmarrtad.com/){:target="_blank"}
