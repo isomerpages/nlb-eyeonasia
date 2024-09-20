@@ -2,8 +2,9 @@
 title: Haryana - A profile
 permalink: /india/know/selected-india-states/haryana-profile/
 breadcrumb: Haryana - A profile
+variant: markdown
 ---
-<img src="\images\india-selected\haryana-profile.jpg" alt="haryana profile" style="width:800px;" />
+<img src="\images\india-selected\haryana-profile.jpg" alt="haryana profile" style="width:800px;">
 
 This article provides an overview of Haryana for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -13,9 +14,9 @@ This article provides an overview of Haryana for those keen on exploring the pos
 - **Land area:** 44,212 sq km[^2]
 - **Population:** 25.4 million[^3]
 - **Head of government:** Manohar Lal (Chief Minister)[^4]
-- **State languages:** Hindi, Punjabi & English[^5]
+- **State languages:** Hindi, Punjabi &amp; English[^5]
 - **GSDP (Gross State Domestic Product) (2021–22):** US$ 121.77 billion[^6]
-- **Major cities:** Faridabad, Gurugram, Panipat, Ambala & Yamunanagar[^7]
+- **Major cities:** Faridabad, Gurugram, Panipat, Ambala &amp; Yamunanagar[^7]
 
 
 
@@ -59,11 +60,11 @@ On 23 May 2017, Haryana’s Chief Minister, Manohar Lal Khattar, signed five maj
 
 [^4]: About Haryana. (2022). Government of Haryana. Retrieved June 30, 2022, from [http://www.haryana.gov.in](http://www.haryana.gov.in/){:target="_blank"}
 
-[^5]: About Haryana: Information on industries, geography, economy & growth. (2021, November). Indian Brand Equity Foundation. Retrieved June 30, 2022, from [https://www.ibef.org](https://www.ibef.org/states/haryana.aspx){:target="_blank"}
+[^5]: About Haryana: Information on industries, geography, economy &amp; growth. (2021, November). Indian Brand Equity Foundation. Retrieved June 30, 2022, from [https://www.ibef.org](https://www.ibef.org/states/haryana.aspx){:target="_blank"}
 
 [^6]: Industrial development and economic growth in Haryana. (2022, February). Indian Brand Equity Foundation. Retrieved June 30, 2022, from [https://www.ibef.org](https://www.ibef.org/states/haryana-presentation){:target="_blank"}
  
-[^7]: Urban agglomerations/cities having population 1 lakh and above. (2012). Provisional Population Totals, Census of India 2011. Retrieved June 30, 2022, from [https://www.censusindia.gov.in](https://www.censusindia.gov.in/2011-prov-results/paper2/data_files/India2/Table_3_PR_UA_Citiees_1Lakh_and_Above.pdf){:target="_blank"}
+[^7]: Census Tables (n.d.), Office of the Registrar General &amp; Census Commissioner, India. Retrieved September 20, 2024, from [https://censusindia.gov.in](https://censusindia.gov.in/census.website/data/census-tables){:target="_blank"}
 
 [^8]: Haryana. (2022). Encyclopedia Britannica. Retrieved June 30, 2022, from [https://www.britannica.com](https://www.britannica.com/place/Haryana){:target="_blank"}
 
