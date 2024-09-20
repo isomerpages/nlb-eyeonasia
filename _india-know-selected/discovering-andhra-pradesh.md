@@ -50,6 +50,6 @@ Discover what Andhra Pradesh has to offer with its vast geographical area combin
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**Andhra Pradesh Industrial Development Policy 2020-2023**](https://www.amtz.in/static/img/pdf/andhra-pradesh-industrial-development-policy-2020-2023.pdf)
+[**Andhra Pradesh releases State Industrial Policy 2023-27**](https://finexadvisors.in/wp-content/uploads/2023/04/AP-Industrial-Policy-2023.pdf)
 
-This policy aims to drive industrialisation based on the natural competitive advantages of a long coastline and a large pool of talented resources. It seeks to focus on promoting high value add and cutting edge industries to be future proof. Ten sectors for special thrust include toys and furniture, footwear and leather, machinery and precision equipment, aerospace and defence, pharma, textiles, automobile, electronics and petrochemicals.
+Andhra Pradesh has launched its State Industrial Policy 2023-27, focusing on economic growth, port-led development, and enhancing the logistical ecosystem. Key initiatives include streamlined land allotment, investment subsidies, and support for SC/ST entrepreneurs. The policy aims to boost employment, entrepreneurship, and women's participation in economic development while establishing a start-up zone in Visakhapatnam.
