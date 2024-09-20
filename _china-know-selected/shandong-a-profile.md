@@ -38,7 +38,7 @@ Jinan is the capital city of Shandong province. In 2019, its population was 8.91
 
 #### **Qingdao**
 
-Qingdao is Shandong’s economic centre. In 2018, it had a population of 9.5 million. Its GDP in 2019 was RMB 1,174.1 billion.[^12] It was also the fifth largest container port in China in terms of throughput and home to well-known Chinese brands such as Tsingtao Beer and Haier.[^13] Many foreign companies operate there, including ANZ Bank, HSBC, and and Yamaguchi Bank Ltd, to name a few.[^14] Its main industries include logistics, shipbuilding and marine technology, ICT, water management, healthcare, wealth management, tourism, and fishery.[^15]
+Qingdao is Shandong’s economic centre. In 2018, it had a population of 9.5 million. Its GDP in 2019 was RMB 1,174.1 billion.[^12] It was also the fifth largest container port in China in terms of throughput and home to well-known Chinese brands such as Tsingtao Beer and Haier.[^13] Many foreign companies operate there, including ANZ Bank, HSBC, and and Yamaguchi Bank Ltd, to name a few.[^14] Its main industries include logistics, shipbuilding and marine technology, ICT, water management, healthcare, wealth management, tourism, and fishery.
 
 #### **Weifang**
 
@@ -101,8 +101,6 @@ SSBC has identified the trading of food products as one potential growth area. S
 [^13]: Schwerdtfeger, M. (2020, February 18). What are the top ports in China? *Port Technology.* Retrieved March 9, 2021, from [https://www.porttechnology.org/](https://www.porttechnology.org/news/what-are-the-top-ports-in-china){:target="_blank"}
 
 [^14]: Qingdao attracts foreign investors with a world-class business environment. (2017, December 28). *PR Newswire.* Retrieved March 9, 2021, from [https://www.prnewswire.com](https://www.prnewswire.com/news-releases/qingdao-attracts-foreign-investors-with-a-world-class-business-environment-300575975.html){:target="_blank"}
-
-[^15]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
 [^16]: Weifang (Shandong) city information. (2021, February 23). *HKTDC.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/weifang){:target="_blank"}
 
