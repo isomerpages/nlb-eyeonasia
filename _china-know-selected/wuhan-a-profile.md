@@ -21,7 +21,7 @@ This article provides an overview of Wuhan for those keen on exploring the possi
 
 ### **Introduction**
 
-The city of Wuhan dates back 3,500 years.[^7] Today, it serves as the capital city of Hubei province in central China. Situated at the confluence of the Yangtze and Han Rivers,[^8] the city lies within 1,200 km of other major Chinese cities such as Beijing, Shanghai, Guangzhou, Chengdu and Xi’an.[^9]
+The city of Wuhan dates back 3,500 years.[^7] Today, it serves as the capital city of Hubei province in central China. Situated at the confluence of the Yangtze and Han Rivers,[^8] the city lies within 1,200 km of other major Chinese cities such as Beijing, Shanghai, Guangzhou, Chengdu and Xi’an.
 
 
 
@@ -69,8 +69,6 @@ On 17 January 2018, CapitaLand, through its wholly-owned subsidiary CapitaLand C
 [^7]: History. (n.d.). *The Government of Wuhan.* Retrieved March 9, 2021, from [http://english.wuhan.gov.cn](https://english.wuhan.gov.cn/overview4of4wuhan/history/202110/t20211026_1819199.shtml){:target="_blank"}
 
 [^8]: Geography. (n.d.). *The Government of Wuhan.* Retrieved March 9, 2021, from [http://english.wuhan.gov.cn](https://english.wuhan.gov.cn/overview4of4wuhan/geography/202110/t20211026_1819195.shtml){:target="_blank"}
-
-[^9]: Economic Profile of China’s Hubei Province. (2020, September 15). *The Canadian Trade Commissioner Service.* Retrieved March 9, 2021, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
 
 [^10]: Zhu, M. (2018, January 18). CapitaLand signs MoU to build integrated development in Wuhan, China. *The Edge.* Retrieved March 9, 2021, from [https://www.theedgemarkets.com](https://www.theedgemarkets.com/article/capitaland-signs-mou-build-integrated-development-wuhan-china){:target="_blank"}
 
