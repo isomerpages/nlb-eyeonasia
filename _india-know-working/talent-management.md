@@ -1,18 +1,16 @@
 ---
-title: 'Talent management'
+title: Talent management
 permalink: /india/know/working-in-india/talent-management/
-breadcrumb: 'Talent management'
-
+breadcrumb: Talent management
+variant: markdown
 ---
-
-
-<img src="\images\india-working\talent-management.jpg" alt="talent management" style="width:800px;" />
+<img src="\images\india-working\talent-management.jpg" alt="talent management" style="width:800px;">
 
 This is a selection of resources on human resource management in India available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/skilling-india-challenges-and-opportunities.jpg" style="width:150px;" />
+<img src="/images/book-covers/skilling-india-challenges-and-opportunities.jpg" style="width:150px;">
 
 [**Skilling India: Challenges and opportunities**](https://nlb.overdrive.com/media/4300388){:target="_blank"}
 
@@ -20,7 +18,7 @@ This book provides a systematic understanding of the processes of skill formatio
 
 Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
-<img src="/images/book-covers/outbound-hiring-how-innovative-companies-are-winning-the-global-war-for-talent.jpg" style="width:150px;" />
+<img src="/images/book-covers/outbound-hiring-how-innovative-companies-are-winning-the-global-war-for-talent.jpg" style="width:150px;">
 
 [**Outbound hiring: How innovative companies are winning the global war for talent**](https://nlb.overdrive.com/media/5081602){:target="_blank"}
 
@@ -28,7 +26,7 @@ Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
 Retrieved from OverDrive. *myLibrary* ID login is required to access this ebook.
 
-<img src="/images/book-covers/talent-management-in-global-organizations-a-cross-country-perspective.png" style="width:150px;" />
+<img src="/images/book-covers/talent-management-in-global-organizations-a-cross-country-perspective.png" style="width:150px;">
 
 [**Talent management in global organizations: A cross-country perspective**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203814964){:target="_blank"}
 
@@ -36,7 +34,7 @@ Read the personal accounts of India’s best managers and find out how they came
 
 All rights reserved, Cham: Palgrave Macmillan, 2018.
 
-<img src="/images/book-covers/Human-resource-management-and-the-global-financial-crisis.jpg" style="width:150px;" />
+<img src="/images/book-covers/Human-resource-management-and-the-global-financial-crisis.jpg" style="width:150px;">
 
 [**Human resource management and the global financial crisis: Evidence from India’s IT/BPO industry**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203071310){:target="_blank"}
 
@@ -44,7 +42,7 @@ How did the Indian IT sector deal with the global financial crisis? What human r
 
 All rights reserved, London: Routledge, 2018.
 
-<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+<img src="/images/resources/Database 3.jpg" style="width:180px;">
 
 [**The role of data analytics in talent acquisition and retention with special reference to SMEs in India: A conceptual study.**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
@@ -52,7 +50,7 @@ This study examines the advantages of applying data analytics in talent acquisit
 
 Retrieved from EBSCOhost research databases. *mylibrary* ID login is required to access this database.
 
-<img src="/images/resources/Database 1.jpg" style="width:180px;" />
+<img src="/images/resources/Database 1.jpg" style="width:180px;">
 
 [**Leveraging social networking for talent management: An exploratory study of Indian firms**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
@@ -60,7 +58,7 @@ Utilising social capital and social network theories, this research explores and
 
 Retrieved from EBSCOhost research databases. *mylibrary* ID login is required to access this database.
 
-<img src="/images/resources/Database 2.jpg" style="width:180px;" />
+<img src="/images/resources/Database 2.jpg" style="width:180px;">
 
 [**People-centric HRM practices in India.**](http://eresources.nlb.gov.sg/Main/browse/resource/1285){:target="_blank"}
 
@@ -72,14 +70,8 @@ Retrieved from EBSCOhost research databases. *mylibrary* ID login is required to
 
 ### **You may also like**
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;">
 
 [**National Institute of Personnel Management**](https://www.nipm.in/){:target="_blank"}
 
 The National Institute of Personnel Management is the body of Indian professional managers engaged in human resource management, with chapters all over India. Members are privy to various resources, including networking sessions and training courses.
-
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
-
-[**Government of India Ministry of Human Resource Development**](http://www.mhrd.gov.in/){:target="_blank"}
-
-India’s Ministry of Human Resource Development oversees education from elementary level to adult education. Explore the Indian government’s various initiatives and schemes through this website.
