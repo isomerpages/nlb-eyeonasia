@@ -1,12 +1,10 @@
 ---
-title: 'Yangon - A city profile'
+title: Yangon - A city profile
 permalink: /asean-countries/know/overview-of-asean-countries/yangon-a-city-profile/
-breadcrumb: 'Yangon - A city profile'
-
+breadcrumb: Yangon - A city profile
+variant: markdown
 ---
-
-
-<img src="/images/asean-countries/Yangon snapshot iso.jpg" alt="Yangon snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Yangon snapshot iso.jpg" alt="Yangon snapshot banner" style="width:800px;">
 
 This article provides an overview of Yangon for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -56,19 +54,19 @@ As of 30 September 2018, the highest foreign direct investment inflows to Myanma
 
 [^5]:Myanmar Kyat. (n.d.). *Oanda.* Retrieved December 10, 2020, from [https://www1.oanda.com](https://www1.oanda.com/currency/iso-currency-codes/MMK){:target="_blank"}
 
-[^6]:Yangon. (2020). *Ministry of Hotels & Tourism.* Retrieved December 10, 2020, from [https://tourism.gov.mm](https://tourism.gov.mm/yangon/){:target="_blank"}
+[^6]:Yangon. (2020). *Ministry of Hotels &amp; Tourism.* Retrieved December 10, 2020, from [https://tourism.gov.mm](https://tourism.gov.mm/yangon/){:target="_blank"}
 
 [^7]:*Ministry of Labour, Immigration and Population.* Retrieved December 10, 2020, from [https://www.dop.gov.mm](https://www.dop.gov.mm/sites/dop.gov.mm/files/datamap-documents/ics_pr_population_en.xlsx){:target="_blank"}
 
 [^8]:Doing business in Yangon 2018. (2018). *PricewaterhouseCooper Myanmar Co.*, pp. 4, 8, 10, 12. Retrieved December 10, 2020, from [https://www.pwc.com](https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf){:target="_blank"}
 
-[^9]:New Yangon Development Company Ltd. (n.d.). Retrieved December 10, 2020, from <https://nydc.com.mm/>{:target="blank"}; Yee, Y. M. (2019, January 25). Yangon’s new city to start bidding process. *Myanmar Times.* Retrieved December 10, 2020, [https://www.mmtimes.com](https://www.mmtimes.com/news/yangons-new-city-start-bidding-process.html){:target="blank"}; Doing business in Yangon 2018. (2018). *PricewaterhouseCooper Myanmar Co.,* p. 34. Retrieved December 10, 2020, from [https://www.pwc.com](https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf){:target="blank"}; Socio-economic master plan for New Yangon city. (2018, September). *New Yangon Development Company Ltd,* pp. 6, 9. Retrieved December 10, 2020, from [https://nydc.com.mm](https://nydc.com.mm/wp-files/NYDC-Socio-Economic-Master-Plan-English.pdf){:target="blank"}
+[^9]:New Yangon Development Company Ltd. (n.d.). Retrieved December 10, 2020, from [https://www.nydc.com.mm/](https://www.nydc.com.mm/) {:target="blank"}; Myanmar Times. (n.d.). Yangon’s new city to start bidding process. *MMRD.* Retrieved September 20, 2024, [http://www.mmrdrs.com/yangons-new-city-start-bidding-process/](http://www.mmrdrs.com/yangons-new-city-start-bidding-process/){:target="blank"}; Doing business in Yangon 2018. (2018). *PricewaterhouseCooper Myanmar Co.,* p. 34. Retrieved December 10, 2020, from [https://www.pwc.com](https://www.pwc.com/mm/en/publications/assets/yangon-business-guide-2018.pdf){:target="blank"}; Socio-economic master plan for New Yangon city. (2018, September). *New Yangon Development Company Ltd,* pp. 6, 9. Retrieved December 10, 2020, from [https://nydc.com.mm](https://nydc.com.mm/wp-files/NYDC-Socio-Economic-Master-Plan-English.pdf){:target="blank"}
 
 [^10]:Myanmar business guide. (2018.). *PwC,* pp. 24-25. Retrieved December 10, 2020, from [https://www.pwc.com](https://www.pwc.com/mm/en/publications/assets/myanmar-business-guide.pdf){:target="_blank"}
 
 [^11]:Yamon, A. (2019, January 19). Myanmar plans smart city in Thilawa SEZ. *Global New Light of Myanmar.* Retrieved December 10, 2020, from [http://www.globalnewlightofmyanmar.com](http://www.globalnewlightofmyanmar.com/myanmar-plans-smart-city-in-thilawa-sez/){:target="_blank"}
 
-[^12]:Yangon. (2020). *Ministry of Hotels & Tourisms.* Retrieved December 20, 2020, from [http://tourism.gov.mm](http://tourism.gov.mm/yangon){:target="_blank"}
+[^12]:Yangon. (2020). *Ministry of Hotels &amp; Tourisms.* Retrieved December 20, 2020, from [http://tourism.gov.mm](http://tourism.gov.mm/yangon){:target="_blank"}
 
 [^13]:2019 Myanmar statistical yearbook. (2019, September). *Central Statistical Organization,* p. 459. Retrieved December 10, 2020, from [http://mmsis.gov.mm](http://mmsis.gov.mm/sub_menu/statistics/fileDb.jsp?code_code=001){:target="_blank"}
 
