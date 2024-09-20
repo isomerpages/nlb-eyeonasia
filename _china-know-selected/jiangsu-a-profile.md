@@ -1,12 +1,10 @@
 ---
-title: 'Jiangsu - A profile'
+title: Jiangsu - A profile
 permalink: /china/know/china-municipalities-provinces/jiangsu-profile/
-breadcrumb: 'Jiangsu - A profile'
-
+breadcrumb: Jiangsu - A profile
+variant: markdown
 ---
-
-
-<img src="\images\china-selected\jiangsu-profile.jpg" alt="jiangsu profile banner" style="width:800px;" />
+<img src="\images\china-selected\jiangsu-profile.jpg" alt="jiangsu profile banner" style="width:800px;">
 
 This article provides an overview of Jiangsu for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -24,7 +22,7 @@ Jiangsu province, located on the east coast of China, is bounded by the Yellow S
 
 ### **Economy**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\jiangsu-profile-chart-1.jpg" style="width:350px;" />Data Source: Jiangsu: Market Profile. (2018, January). Hong Kong Trade Development Council.</div-->
+
 
 Jiangsu’s GDP ranked the second in China in 2018, after Guangdong, accounting for about 10.3 percent of the national total. At the end of 2018, there were about 1.98 million private enterprises in Jiangsu, compared to just 286, 000 in 2002. The southern Jiangsu area of Suzhou, Wuxi, Changzhou, Nanjing and Zhenjiang, that is part of the Yangtze River Delta economic region, is the province’s economic hub. The GDP of the southern Jiangsu area accounted for 57.2 percent of Jiangsu’s total GDP in 2018.[^7] Despite the COVID-19 pandemic, Jiangsu’s GDP increased by 3.7 percent to reach 10.27 trillion yuan (US$1.59 trillion) in 2020. [^8]
 
@@ -68,6 +66,6 @@ Singapore and Jiangsu share strong ties through the China-Singapore Suzhou Indus
 
 [^11]: Jiangsu: Market Profile. (2020, March 31). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/jiangsu){:target="_blank"}
 
-[^12]: Geographic position and natural environment. (2017). *Jiangsu Provincial People’s Government*. Retrieved March 31, 2021, from [http://en.jiangsu.gov.cn/](http://en.jiangsu.gov.cn/col/col54121/index.html){:target="_blank"}
+[^12]: Overview of Jiangsu. (2024. June 5). *Jiangsu Provincial People’s Government*. Retrieved September 20, 2024, from [http://en.jiangsu.gov.cn/](https://en.jiangsu.gov.cn/col/col88905/index.html){:target="_blank"}
 
 [^13]: Jiangsu’s economic transformation brings new opportunities in biomedical and professional services. (2020, November 18). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprise.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/nov-2020/enterprise-singapore-media-release_14th-sjcc-meeting_18-nov-2020.pdf?la=en){:target="_blank"}
