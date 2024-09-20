@@ -102,15 +102,5 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 			</div>
 			</a>
 		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/china/share/what-employers-say/skills-internship-job-search/" class="project-link">
-				<img src="/images/china-employers/Skills-for-internship-small.jpg" alt="Skills for internship and job search" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Skills for internship and job search</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
 	</div>
 </div>
