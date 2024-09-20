@@ -65,7 +65,7 @@ Shenyang and Dalian are the major consumer centres in Liaoning. In 2019, per cap
 
 In 2019, Liaoning received 2.94 million overseas tourists. Foreign exchange earnings from tourism in 2019 amounted to US$1.74 billion.[^21]
 
-Liaoning has a variety of tourist attractions, ranging from natural landscapes to historical sites and modern-day ones. For instance, the provincial capital of Shenyang is home to three UNESCO World Heritage sites: the Imperial Palace and the mausoleums containing the Zhaoling, Fuling and Yongling tombs. [^22] Dalian, Liaoning’s major port city, is well-known for its picturesque landscapes, pleasant climate and numerous seaside resorts. Jinzhou is famous for its dinosaur fossils, while nearby Qianshan has many towering pavilions and temples nestled among pine trees.[^23]  Other activities available to tourists include rafting, snowboarding and skiing.[^24] 
+Liaoning has a variety of tourist attractions, ranging from natural landscapes to historical sites and modern-day ones. For instance, the provincial capital of Shenyang is home to three UNESCO World Heritage sites: the Imperial Palace and the mausoleums containing the Zhaoling, Fuling and Yongling tombs. Dalian, Liaoning’s major port city, is well-known for its picturesque landscapes, pleasant climate and numerous seaside resorts. Jinzhou is famous for its dinosaur fossils, while nearby Qianshan has many towering pavilions and temples nestled among pine trees.[^23]  Other activities available to tourists include rafting, snowboarding and skiing.[^24] 
 
 ### **Singapore and Liaoning**
 
@@ -116,8 +116,6 @@ In July 2019, 11 Singapore companies signed project agreements, with more than h
 [^20]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}
 
 [^21]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}
-
-[^22]: Liaoning travel guide. (2018, July 12). *China Highlights.* Retrieved March 8, 2021, from [https://www.chinahighlights.com](https://www.chinahighlights.com/liaoning/){:target="_blank"}
 
 [^23]: Top 10 attractions in Liaoning, China. (2013, July 8). *China.org.cn.* Retrieved March 8, 2021, from [http://www.china.org.cn](http://www.china.org.cn/top10/2013-07/08/content_29354647.htm){:target="_blank"}
 
