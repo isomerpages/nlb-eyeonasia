@@ -38,7 +38,7 @@ Jinan is the capital city of Shandong province. In 2019, its population was 8.91
 
 #### **Qingdao**
 
-Qingdao is Shandong’s economic centre. In 2018, it had a population of 9.5 million. Its GDP in 2019 was RMB 1,174.1 billion.[^12] It was also the fifth largest container port in China in terms of throughput and home to well-known Chinese brands such as Tsingtao Beer and Haier.[^13] Many foreign companies operate there, including ANZ Bank, HSBC, and and Yamaguchi Bank Ltd, to name a few.[^14] Its main industries include logistics, shipbuilding and marine technology, ICT, water management, healthcare, wealth management, tourism, and fishery.[^15]
+Qingdao is Shandong’s economic centre. In 2018, it had a population of 9.5 million. Its GDP in 2019 was RMB 1,174.1 billion.[^12] It was also the fifth largest container port in China in terms of throughput and home to well-known Chinese brands such as Tsingtao Beer and Haier.[^13] Many foreign companies operate there, including ANZ Bank, HSBC, and and Yamaguchi Bank Ltd, to name a few.[^14] Its main industries include logistics, shipbuilding and marine technology, ICT, water management, healthcare, wealth management, tourism, and fishery.
 
 #### **Weifang**
 
@@ -102,11 +102,9 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^14]: Qingdao attracts foreign investors with a world-class business environment. (2017, December 28). *PR Newswire.* Retrieved March 9, 2021, from [https://www.prnewswire.com](https://www.prnewswire.com/news-releases/qingdao-attracts-foreign-investors-with-a-world-class-business-environment-300575975.html){:target="_blank"}
 
-[^15]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
-
 [^16]: Weifang (Shandong) city information. (2021, February 23). *HKTDC.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/weifang){:target="_blank"}
 
-[^17]: Overview of Weifang. (2019, April 11). *Select Shandong.* Retrieved March 9, 2021, from [http://en.selectshandong.com](http://en.selectshandong.com/enwebsite/article/index/id/653.html){:target="_blank"} 
+[^17]: Weifang. (2022, December 20). *Select Shandong.* Retrieved September 20, 2024, from [http://en.selectshandong.com](https://en.selectshandong.com/csyl/wf/20348.shtml){:target="_blank"} 
 
 [^18]: Invitation: The 19th China (Shouguang) International Vegetable SciTech Fair. (2018, January 8). *DVF Shouguang.* Retrieved September 14, 2018, from [http://www.sgcbh.com/](http://www.sgcbh.com/zhgk/zhzyzl/201912/t20191211_1295814.html){:target="_blank"}
 

@@ -85,12 +85,14 @@ Singapore’s investments in Guangdong grew 16 percent in 2019 to reach US$1.08 
 ### **References**
 [^1]: Guangdong: Market profile. (2020, April 15). *HKTDC Research*. Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong){:target="_blank"}
 
-[^2]: 2-6 Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^2]: 2-6 Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^3]: 3-9 Gross regional product (2019). (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^3]: 3-9 Gross regional product (2019). (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^4]: 3-9 Gross regional product (2019). (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^4]: 3-9 Gross regional product (2019). (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
+
 [^5]: Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
+
 [^6]: Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="_blank"}
 
 [^7]: Falkenheim, V. C., Yeung, Y., &amp; Chang, C. (2016). Guangdong. *Encyclopaedia Britannica*. Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="blank"}; Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="blank"}
@@ -103,7 +105,7 @@ Singapore’s investments in Guangdong grew 16 percent in 2019 to reach US$1.08 
 
 [^11]: Wang, C. (2017, January 23). Guangdong remains China’s economic powerhouse. *Global Times*. Retrieved April 8, 2024, from [http://www.globaltimes.cn](https://www.globaltimes.cn/page/201701/1030347.shtml){:target="blank"}; Guangdong’s economy remains biggest, Chongqing leads growth. (2017, February 7). *China Daily*. Retrieved March 8, 2021, from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/business/2017-02/07/content_28126256.htm){:target="blank"}
 
-[^12]: Guangdong. (n.d.). Government of Canada. Retrieved March 8, 2021, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-guangdong.aspx?lang=eng){:target="blank"}; PRD economic profile. (2018, May 10). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong/pearl-river-delta){:target="blank"}
+[^12]: PRD economic profile. (2018, May 10). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong/pearl-river-delta){:target="blank"}
 
 [^13]: He, H., &amp; Gan, N. (2016, February 1). Tale of two Guangdong cities: The reinvention of Shenzhen. South China Morning Post. Retrieved March 8, 2021, from [http://www.scmp.com](http://www.scmp.com/news/china/economy/article/1908544/tale-two-guangdong-cities-reinvention-shenzhen){:target="blank"}; Shepard, W. (2016, July 14). A look inside Shenzhen’s high-tech empire. *Forbes*. Retrieved March 8, 2021, from [https://www.forbes.com](https://www.forbes.com/sites/wadeshepard/2016/07/14/a-look-inside-shenzhens-high-tech-empire/#278be1764f36){:target="blank"}
 

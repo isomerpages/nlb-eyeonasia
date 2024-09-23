@@ -68,7 +68,7 @@ China has been gradually putting in place many components of its Belt and Road I
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**A brief introduction to the animal husbandry industry in Liaoning Province**](https://www.rvo.nl/sites/default/files/2017/04/a-brief-introduction-to-liaonings-animal-husbandry-industry.pdf){:target="_blank"}
+[**A brief introduction to the animal husbandry industry in Liaoning Province**](https://www.agroberichtenbuitenland.nl/binaries/agroberichtenbuitenland/documenten/rapporten/2017/03/01/animal-husbandry-liaoning/a-brief-introduction-to-liaonings-animal-husbandry-industry.pdf){:target="_blank"}
 
 Northeast China is known as the agricultural heartland of China. This report provides brief information on the animal husbandry industry in Liaoning province and discusses business opportunities and challenges that are expected to arise for Dutch companies investing in the region.
 

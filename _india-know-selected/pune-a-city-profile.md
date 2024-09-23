@@ -2,8 +2,9 @@
 title: Pune - A city profile
 permalink: /india/know/selected-india-states/pune-profile/
 breadcrumb: Pune - A city profile
+variant: markdown
 ---
-<img src="\images\india-selected\pune-profile.jpg" alt="pune profile" style="width:800px;" />
+<img src="\images\india-selected\pune-profile.jpg" alt="pune profile" style="width:800px;">
 
 This article provides an overview of Pune for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -53,19 +54,19 @@ Besides its push to become a smart city, Pune has been an attractive business de
 ---
 ### **References**
 
-[^1]: About District. (2022). District Pune, *Government of India*. Retrieved August 1, 2022, from <https://pune.gov.in/>{:target="_blank"}
+[^1]: About District. (2022). District Pune, *Government of India*. Retrieved August 1, 2022, from {:target="_blank"}
 
 [^2]: Pune Population 2022. (2022). *World Population Review*. Retrieved August 1, 2022, from [http://worldpopulationreview.com](http://worldpopulationreview.com/world-cities/pune-population/){:target="_blank"}
 
 [^3]: Pune Population 2022. (2022). *World Population Review*. Retrieved August 1, 2022, from [http://worldpopulationreview.com](http://worldpopulationreview.com/world-cities/pune-population/){:target="_blank"}
 
-[^4]: Who’s who. (2022). *District Pune, Government of India.* Retrieved August 1, 2022, from <https://pune.gov.in/>{:target="_blank"}
+[^4]: Who’s who. (2022). *District Pune, Government of India.* Retrieved August 1, 2022, from {:target="_blank"}
 
 [^5]: District at a Glance. (2022). *District Pune, Government of India.* Retrieved August 1, 2022, from [https://pune.gov.in](https://pune.gov.in/about-pune/district-at-a-glance/){:target="_blank"}
 
 [^6]: From Mumbai to Delhi, here's a list of the top 10 richest cities in India 2021. (2021, October 22). *India Times.* Retrieved August 1, 2022, from [https://www.indiatimes.com](https://www.indiatimes.com/trending/social-relevance/top-10-richest-cities-in-india-2021-552132.html){:target="_blank"}
 
-[^7]: About District. (2022). *District Pune, Government of India.* Retrieved August 1, 2022, from <https://pune.gov.in/>{:target="_blank"}
+[^7]: About District. (2022). *District Pune, Government of India.* Retrieved August 1, 2022, from {:target="_blank"}
 
 [^8]: Ease of Living Index Full List. (2021, March 4). *India Today.* Retrieved August 1, 2022, from [https://www.indiatoday.in](https://www.indiatoday.in/india/story/ease-of-living-index-bengaluru-best-city-pune-ahmedabad-indore-1775525-2021-03-04){:target="_blank"}
 
@@ -73,7 +74,7 @@ Besides its push to become a smart city, Pune has been an attractive business de
 
 [^10]: Pune Population 2022. (2022). *World Population Review.* Retrieved August 1, 2022, from [http://worldpopulationreview.com](http://worldpopulationreview.com/world-cities/pune-population/){:target="_blank"}
 
-[^11]: Pune.(2022). *India Briefing.* Retrieved August 1, 2022, from [https://www.india-briefing.com](https://www.india-briefing.com/regional-intelligence/pune.html){:target="_blank"}
+[^11]: City Spotlight: Pune.(2016, April 29). *India Briefing.* Retrieved August 1, 2022, from [https://www.india-briefing.com](https://www.india-briefing.com/news/city-spotlight-pune-12044.html/){:target="_blank"}
 
 [^12]: Gour, V. (2016, March 7). What makes Pune an industrial powerhouse? *CN Traveller.* Retrieved August 1, 2022, from [https://www.cntraveller.in](https://www.cntraveller.in/story/what-makes-pune-an-industrial-powerhouse/){:target="_blank"}
 

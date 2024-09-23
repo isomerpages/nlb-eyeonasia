@@ -66,16 +66,6 @@ Outstanding Singapore businessmen, entrepreneurs, professionals and organisation
 </p><div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/share/what-employers-say/business-guides-by-the-business-times/" class="project-link">
-				<img src="\images\asean-employers\business-guides-by-the-business-times.jpg" alt="business-guides-by-the-business-times" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Business guides by The Business Times</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/share/what-employers-say/indonesia-market/" class="project-link">
 				<img src="\images\asean-employers\indonesia-market.jpg" alt="indonesia-market" class="project-image">
 			<div class="project-card">

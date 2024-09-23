@@ -33,7 +33,7 @@ Singapore Business Federation (SBF), in partnership with Enterprise Singapore, h
 
 A youth development programme by the National Youth Council (NYC) which provides short-term overseas immersion opportunities for youths to gain a more holistic understanding of the social and cultural contexts, and awareness of economic opportunities in ASEAN member states, China and India.
 
-[Find out more](https://www.nyc.gov.sg/en/initiatives/programmes/asia-ready-exposure-programme/){:target="_blank"}
+[Find out more](https://www.nyc.gov.sg/programmes-grants/asia-ready-exposure-programme/){:target="_blank"}
 
 **Asia-Ready Exposure Programme Grant**
 
@@ -85,10 +85,3 @@ The Singapore Manufacturing Federation organises trade fairs, overseas business 
 
 [Find out more](https://www.smfederation.org.sg/focus-area/internationalization){:target="_blank"}
 
-### **SkillsFuture Study Award for International Business**
-
-**Enterprise Singapore**
-
-This award provides its recipients with opportunities to deepen essential skill-sets to navigate and overcome the complexity of overseas markets. Awardees will also gain exposure in learning how to manage and lead international teams and projects effectively.
-
-[Find out more](https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000057){:target="_blank"}

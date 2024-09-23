@@ -2,8 +2,9 @@
 title: Dubai - A city profile
 permalink: /other-asian-countries/uae/dubai-a-city-profile/
 breadcrumb: Dubai - A city profile
+variant: markdown
 ---
-<img src="\images\uae\dubai-profile.jpg" alt="Dubai snapshot banner" style="width:800px;" />
+<img src="\images\uae\dubai-profile.jpg" alt="Dubai snapshot banner" style="width:800px;">
 
 This article provides an overview of Dubai for those keen to explore the possibility of living and working there. Gathered from open sources, the information presented is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -69,7 +70,7 @@ The UAE Singapore Business Council conducts talks for members on relevant busine
 
 [^11]: Profiled cities. (2022). *Enterprise Singapore.* Retrieved September 4, 2022, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
 
-[^13]: Key sectors. (2022). *Visit Dubai.* Retrieved September 4, 2022, from [https://www.visitdubai.com](https://www.visitdubai.com/en/business-in-dubai/why-dubai/key-sectors){:target="_blank"}
+[^13]: Industries. (n.d.). *Visit Dubai.* Retrieved September 4, 2022, from [https://www.visitdubai.com](https://www.investindubai.gov.ae/en/industries){:target="_blank"}
 
 [^14]: Things to do in Dubai. (2022). *Visit Dubai.* Retrieved September 4, 2022, from [https://www.visitdubai.com](https://www.visitdubai.com/en/discover/things-to-do-in-dubai){:target="_blank"}
 

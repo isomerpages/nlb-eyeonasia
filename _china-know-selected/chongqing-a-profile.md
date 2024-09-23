@@ -68,13 +68,13 @@ Other commercial signings between Singapore and Chongqing include the following:
 ### **References**
 [^1]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^2]: 2-6: Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^2]: 2-6: Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^3]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^3]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^4]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^4]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
-[^5]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="blank"}; Chongqing (Chungking). (n.d.). *China Today.* Retrieved January 27, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/chongqing.htm){:target="blank"}; Chongqing. (2016, September 9). *Government of Canada.* Retrieved January 27, 2021, from [http://www.canadainternational.gc.ca](http://www.canadainternational.gc.ca/china-chine/mapchina-cartechine-chongqing.aspx?lang=eng){:target="_blank"}
+[^5]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="blank"}; Chongqing (Chungking). (n.d.). *China Today.* Retrieved January 27, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/chongqing.htm){:target="blank"}
 
 [^6]: Chongqing travel guide – how to plan a trip to Chongqing. (2021, February 7). *China Highlights*. Retrieved January 27, 2021, from  [https://www.chinahighlights.com](https://www.chinahighlights.com/chongqing/){:target="_blank"}
 
@@ -98,7 +98,7 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^16]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^17]: 15-12: Total retail sales of consumer goods. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^17]: 15-12: Total retail sales of consumer goods. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
 
 [^18]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 

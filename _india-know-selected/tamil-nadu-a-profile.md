@@ -2,8 +2,9 @@
 title: Tamil Nadu - A profile
 permalink: /india/know/selected-india-states/tamil-nadu-profile/
 breadcrumb: Tamil Nadu - A profile
+variant: markdown
 ---
-<img src="\images\india-selected\tamil-nadu-profile.jpg" alt="tamil nadu profile" style="width:800px;" />
+<img src="\images\india-selected\tamil-nadu-profile.jpg" alt="tamil nadu profile" style="width:800px;">
 
 This article provides a profile of Tamil Nadu for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -15,7 +16,7 @@ This article provides a profile of Tamil Nadu for those keen on exploring the po
 - **Head of government:** M. K. Stalin (Chief Minister)[^4]
 - **State languages:** Tamil[^5]
 - **GSDP (Gross State Domestic Product):** US$265.49 billion (2020-21)[^6]
-- **Major cities:** Chennai, Coimbatore, Madurai, Tiruchirappalli, Salem & Tirunelveli.[^7]
+- **Major cities:** Chennai, Coimbatore, Madurai, Tiruchirappalli, Salem &amp; Tirunelveli.[^7]
 
 
 
@@ -96,4 +97,4 @@ In November 2017, Singapore’s Consul General in Chennai, Roy Kho announced tha
 
 [^15]: Tourism - An overview. (2019). Tamil Nadu Tourism. Retrieved March 31, 2022, from [http://www.tamilnadutourism.org/](http://www.tamilnadutourism.org/TN-Overview.html){:target="_blank"}
 
-[^16]: Singapore keen on starting new ventures in Tamil Nadu: Consul General. (2017, November 11). The Tribune, India. Retrieved March 31, 2022, from [http://www.tribuneindia.com](http://www.tribuneindia.com/news/nation/singapore-keen-on-starting-new-ventures-in-tamil-nadu-consul-general/496068.html){:target="_blank"}
+[^16]: Singapore keen on starting new ventures in Tamil Nadu: Consul General Roy Kho. (2017, November 11). The Economic Times. Retrieved September 20, 2024, from [https://economictimes.indiatimes.com/](https://economictimes.indiatimes.com/news/economy/foreign-trade/singapore-keen-on-starting-new-ventures-in-tamil-nadu-consul-general-roy-kho/articleshow/61603166.cms?from=mdr){:target="_blank"}
