@@ -83,9 +83,9 @@ In July 2019, 11 Singapore companies signed project agreements, with more than h
 
 [^4]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}
 
-[^5]: Doing business in Liaoning province of China. (n.d.). *Ministry of Commerce of the People’s Republic of China.* Retrieved March 8, 2021, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/liaoning.shtml){:target="_blank"}
+[^5]: Doing business in Liaoning province of China. (n.d.). *Ministry of Commerce of the People’s Republic of China.* Retrieved March 8, 2021, from english.mofcom.gov.cn
 
-[^6]: Liaoning – survey. (2007, April 24). *Ministry of Commerce, People’s Republic of China.* Retrieved March 8, 2021, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aarticle/zt_business/lanmub/200704/20070404604925.html){:target="_blank"}
+[^6]: Liaoning – survey. (2007, April 24). *Ministry of Commerce, People’s Republic of China.* Retrieved March 8, 2021, from english.mofcom.gov.cn
 
 [^7]: Doing business in Liaoning. (n.d.). *China.org.cn.* Retrieved March 8, 2021, from [http://www.china.org.cn](http://www.china.org.cn/living_in_china/abc/2009-06/24/content_18006511.htm){:target="_blank"}
 
