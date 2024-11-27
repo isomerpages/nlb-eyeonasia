@@ -82,7 +82,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^4]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
-[^5]: Doing Business in Shandong. (n.d.). *Ministry of Commerce of the People's Republic of China.* Retrieved April 9, 2024, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Shandong.shtml){:target="_blank"}
+[^5]: Doing Business in Shandong. (n.d.). *Ministry of Commerce of the People's Republic of China.* Retrieved April 9, 2024, from english.mofcom.gov.cn
 
 [^6]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
