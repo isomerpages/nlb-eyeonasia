@@ -63,7 +63,7 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 [^5]:  About Brunei Darussalam. (2017). *Government of Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/germany-berlin/SitePages/businessinbrunei.aspx){:target="_blank"}
 [^6]: Business in Brunei. (2018, September). *Ministry of Foreign Affairs.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/usa-washington/SitePages/businessinbrunei.aspx){:target="_blank"}
 
-[^7]: Brunei. (2018). *Islamic Chamber of Commerce, Industry &amp; Agriculture.* Retrieved October 13, 2020, from [http://www.iccia.com](https://www.iccia.com/?q=islamicTourism/home&amp;ctr=Brunei){:target="_blank"}
+[^7]: Brunei. (2018). *Islamic Chamber of Commerce, Industry &amp; Agriculture.* Retrieved October 13, 2020, from [https://iccdglobal.com/](https://iccdglobal.com/countries-2/brunei/){:target="_blank"}
 [^8]: Brunei Darussalam. (2020, June). *Ministry of Finance and Economy,* p. 2. Retrieved October 13, 2020, from [https://sustainabledevelopment.un.org](https://sustainabledevelopment.un.org/content/documents/26410VNR_2020_Brunei_Report.pdf){:target="_blank"}
 [^9]: Brunei Darussalam. (n.d.). *Invest in Asean.* Retrieved October 13, 2020, from [http://investinasean.asean.org](http://investasean.asean.org/index.php/page/view/asean-member-states/view/709/newsid/795/brunei-darussalam.html){:target="_blank"}
 [^10]: Population. (2022). *Department of Economic Planning and Statistics.* Retrieved August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/Population.aspx){:target="_blank"}
