@@ -1,18 +1,16 @@
 ---
-title: 'Sports and recreation in India'
+title: Sports and recreation in India
 permalink: /india/know/living-in-india/sports-and-recreation-in-india/
-breadcrumb: 'Sports and recreation in India'
-
+breadcrumb: Sports and recreation in India
+variant: markdown
 ---
-
-
-<img src="\images\india-living\sports-in-india.jpg" alt="sports and recreation in india" style="width:800px;" />
+<img src="\images\india-living\sports-in-india.jpg" alt="sports and recreation in india" style="width:800px;">
 
 This is a selection of resources on sports and recreation in India from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Free-hit-The-story-of-womens-cricket-in-India.jpg" style="width:150px;" />
+<img src="/images/book-covers/Free-hit-The-story-of-womens-cricket-in-India.jpg" style="width:150px;">
 
 [**Free hit: The story of women’s cricket in India**](http://nlb.overdrive.com/media/4384926){:target="_blank"}
 
@@ -20,7 +18,7 @@ This is a selection of resources on sports and recreation in India from the [NLB
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/Imperfect-Sanjay-Manjrekar.jpg" style="width:150px;" />
+<img src="/images/book-covers/Imperfect-Sanjay-Manjrekar.jpg" style="width:150px;">
 
 [**Imperfect**](http://nlb.overdrive.com/media/3668854 ){:target="_blank"}
 
@@ -28,7 +26,7 @@ Sanjay Manjrekar looks back on his career as a cricketer, taking the reader on a
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/Barefoot-to-boots-The-many-lives-of-Indian-football.jpg" style="width:150px;" />
+<img src="/images/book-covers/Barefoot-to-boots-The-many-lives-of-Indian-football.jpg" style="width:150px;">
 
 [**Barefoot to boots: The many lives of Indian football**](https://nlb.overdrive.com/media/3565791){:target="_blank"}
 
@@ -36,7 +34,7 @@ Few football fans today may recall that India was once known as the “Brazil of
 
 Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+<img src="/images/resources/Database 3.jpg" style="width:180px;">
 
 [**Nation at play: A history of sport in India**](https://eresources.nlb.gov.sg/main/browse/resource/1324/){:target="_blank"}
 
@@ -44,7 +42,7 @@ This is an informative overview of the history of India’s sports from ancient 
 
 Retrieved from ProQuest Ebook Central. *myLibrary* ID is required to access this ebook.
 
-<img src="/images/book-covers/Wisden-India-Almanack-2017.jpg" style="width:150px;" />
+<img src="/images/book-covers/Wisden-India-Almanack-2017.jpg" style="width:150px;">
 
 [**Wisden India Almanack 2017**](https://nlb.overdrive.com/media/3166144){:target="_blank"}
 
@@ -56,8 +54,8 @@ Retrieved from OverDrive. *myLibrary* ID is required to access this ebook.
 
 ### **You may also like**
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**National Games – Indian Olympic Association**](https://www.olympic.ind.in/national-games){:target="_blank"}
+[**National Games – Indian Olympic Association**](https://olympic.ind.in/national-games){:target="_blank"}
 
 The Olympic movement gathered momentum in India in the 1920s, with the need to identify national talent for the Olympic Games prompting the initiation of the National Games in India. The first edition was launched in an undivided Punjab in 1924 and has continued every few years up to now.
