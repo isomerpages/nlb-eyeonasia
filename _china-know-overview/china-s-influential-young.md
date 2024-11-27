@@ -69,7 +69,7 @@ This article examines the spending habits of the millennial generation in China.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**China's free-spending Gen-Zs and what triggers their buying: Report**](https://jingdaily.com/gen-z-chinese-characteristics/){:target="_blank"}
+[**China's free-spending Gen-Zs and what triggers their buying: Report**](https://jingdaily.com/posts/gen-z-chinese-characteristics){:target="_blank"}
 
 According to A Generation Without Borders report (https://www.occstrategy.com/media/1806/a-generation-without-borders.pdf), compared to their peers in the United States, the United Kingdom and France, China's Gen-Z spend the largest proportion (15 percent) of a household's income. Chinese Gen-Zs also save less, prefer limited-edition products, are more interested in unique experiences and attach high value to social issues such as human rights and environmental issues.
 
