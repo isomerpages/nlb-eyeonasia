@@ -22,19 +22,19 @@ Encompassing more than 650 million people, the ASEAN economy is relatively large
 
 [^3]: Khuong, V. (2020, July). ASEAN economic prospects amid emerging turbulence: Development challenges and implications for reform. *Brookings Institution.* Retrieved January 25, 2021, from [https://www.brookings.edu](https://www.brookings.edu/wp-content/uploads/2020/07/FP_20200710_asean_economic_prospects_vu.pdf){:target="_blank"}
 
-[^4]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org](https://asean.org/wp-content/uploads/2021/08/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
+[^4]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org](https://asean.org/serial/asean-economic-integration-brief-7/){:target="_blank"}
 
 ASEAN’s merchandise trade amounted to US$2,815.2 billion in 2019. Intra-ASEAN accounted for 22.5 percent of ASEAN’s total trade, followed by China (18.0 percent), the United States (10.5 percent), and the EU28 (10.0 percent). Inflows of foreign direct investments (FDI) rebounded by 4.9 percent in 2019 compared to 2018 to stand at US$160.6 billion. Among external partners, the US contributed the largest FDI inflow with 15.2 percent of the total, followed by Japan (12.7 percent) and the EU28 (10.1 percent), while intra-ASEAN accounted for 13.9 percent.[^5]
 
-[^5]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/](https://asean.org/storage/2018/02/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
+[^5]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/](https://asean.org/serial/asean-economic-integration-brief-7/){:target="_blank"}
 
 The economic response to the COVID-19 pandemic has been comprehensive, even taking into account fiscal and administrative constraints. All the major economies in the region have put in place large macroeconomic policy support packages to mitigate the economic impact of the outbreak, including by providing direct assistance to firms and households. The most important preparation for restarting economic activity is to help firms and vital economic relationships survive the crisis. [^6]
 
-[^6]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/wp-content/uploads/2021/08/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
+[^6]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/serial/asean-economic-integration-brief-7/){:target="_blank"}
 
 The economic recovery is expected to revive trade and resuscitate supply chains to some extent. Large private firms, especially lead firms in global value chains, are already helping to support their suppliers in developing countries. More generally, the beneficiaries of the economic revival will be those countries that are open to trade and foreign direct investment, are well connected to global markets, and have a predictable environment for doing business. As the world economy recovers, ASEAN could support stronger international rules to restrain both protection and incentives to ensure that the world continues to reap the efficiency benefits of trade and global value chains. The post-pandemic recovery will offer new opportunities to build a more sustainable, inclusive and resilient future in a world transformed by the pandemic.[^7]
 
-[^7]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/](https://asean.org/wp-content/uploads/2021/08/01-AEIB7_FINAL_28July2020.pdf){:target="_blank"}
+[^7]: ASEAN Economic Integration Brief. (2020, July). *ASEAN.* Retrieved January 25, 2021, from [https://asean.org/](https://asean.org/serial/asean-economic-integration-brief-7/){:target="_blank"}
 
 ### **ASEAN Economic Community (AEC)**
 

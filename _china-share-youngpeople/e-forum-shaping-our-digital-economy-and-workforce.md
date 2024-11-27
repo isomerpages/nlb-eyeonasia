@@ -1,12 +1,10 @@
 ---
-title: 'e-Forum – Shaping our digital economy and workforce'
+title: e-Forum – Shaping our digital economy and workforce
 permalink: /china/share/what-young-people-say/shaping-our-digital-economy-and-workforce/
-breadcrumb: 'e-Forum – Shaping our digital economy and workforce'
-
+breadcrumb: e-Forum – Shaping our digital economy and workforce
+variant: markdown
 ---
-
-
-<img src="\images\china-youngpeople\osg-2-image.jpg" style="width:800px;" />
+<img src="\images\china-youngpeople\osg-2-image.jpg" style="width:800px;">
 
 **This text is reproduced with permission:**
 
@@ -20,10 +18,10 @@ This e-Forum series is also supported by the National Library, Singapore.
 
 OSG Youth Alliance is a non-profit social enterprise with a mission of promoting global-mindedness, resilient and enterprising spirits among youths. It brings youths and industry practitioners together through different programs and dialogues over a broad-based social platform. OSG is currently conducting regular events including Individual sharing, discussions, company visits and case competitions where industry professionals share their professional and entrepreneurial experiences with youths.
 
-To connect with OSG Youth Alliance, please refer to <https://www.osg.sg/contact-us> or email your enquiry to [osg@osg.sg](mailto:osg@osg.sg).
+To connect with OSG Youth Alliance, visit their [website](https://www.osgyouthalliance.org/)
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_nOWes1hRGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_nOWes1hRGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
-Credit: OSG Youth Alliance
+Credit: [OSG Youth Alliance](https://www.osgyouthalliance.org/)

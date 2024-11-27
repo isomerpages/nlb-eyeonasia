@@ -34,7 +34,7 @@ This is a list of bus routes plotted on Google Maps. You can view bus routes bas
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**Road Transport Administration Department**](http://www.myanmarrtad.com/){:target="_blank"}
+[**Road Transport Administration Department**](https://rtad.gov.mm/){:target="_blank"}
 
 Aside from public transport, there is, of course, the option of driving your own vehicle in Myanmar. The government department overseeing this is the Road Transport Administration Department, whose website hosts information about driving licenses to vehicle inspections. The site is in Burmese, with an English translation of basic information.
 

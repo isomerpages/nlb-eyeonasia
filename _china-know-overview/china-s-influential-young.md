@@ -37,7 +37,7 @@ Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)
 
 <img src="/images/book-covers/Youth-cultures-in-China.jpg" style="width:150px;">
 
-[**Youth cultures in China**](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=66C05938-A220-4E14-91BE-20D2C32ACEA3){:target="_blank"}
+[**Youth cultures in China**](https://nlb.overdrive.com/media/2715799){:target="_blank"}
 
 What does it mean to be young in a country that is changing so quickly? What does it mean to be young in a country ruled by a single political party, during a time of globalisation and exposure to different cultures? This fascinating and informative book explores the lives of Chinese youth and examines their experiences, the ways in which they are represented in the media, as well as their interactions with both traditional and, in particular, new media.
 
@@ -45,7 +45,7 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 <img src="/images/book-covers/Wish-Lanterns.jpg" style="width:150px;">
 
-[**Wish Lanterns: Young lives in China**](https://singapore.libraryreserve.com/ContentDetails.htm?id=C400BEC2-3F03-4FF9-BCA4-F82E152BB4EA){:target="_blank"}
+[**Wish Lanterns: How the Young Generation Is Shaping China's Future**](https://nlb.overdrive.com/media/5152808){:target="_blank"}
 
 Six young Chinese living in various parts of China provide gripping accounts of modern life. Growing up in China’s one-child policy, they face fierce competition and intense pressure to succeed. Readers of all ages will empathise with the lives of the generation destined to shape their nation and the world.
 
@@ -69,7 +69,7 @@ This article examines the spending habits of the millennial generation in China.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**China's free-spending Gen-Zs and what triggers their buying: Report**](https://jingdaily.com/gen-z-chinese-characteristics/){:target="_blank"}
+[**China's free-spending Gen-Zs and what triggers their buying: Report**](https://jingdaily.com/posts/gen-z-chinese-characteristics){:target="_blank"}
 
 According to A Generation Without Borders report (https://www.occstrategy.com/media/1806/a-generation-without-borders.pdf), compared to their peers in the United States, the United Kingdom and France, China's Gen-Z spend the largest proportion (15 percent) of a household's income. Chinese Gen-Zs also save less, prefer limited-edition products, are more interested in unique experiences and attach high value to social issues such as human rights and environmental issues.
 

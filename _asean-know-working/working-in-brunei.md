@@ -1,24 +1,22 @@
 ---
-title: 'Working in Brunei'
+title: Working in Brunei
 permalink: /asean-countries/know/working-in-asean-countries/working-in-brunei/
-breadcrumb: 'Working in Brunei'
-
+breadcrumb: Working in Brunei
+variant: markdown
 ---
-
-
-<img src="/images/asean-working/ASEAN-Brunei-Working.jpg" alt="Working in Brunei banner" style="width:800px;" />
+<img src="/images/asean-working/ASEAN-Brunei-Working.jpg" alt="Working in Brunei banner" style="width:800px;">
 
 This is a selection of resources on working in Brunei available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 
 ### **Discover more**
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**Employment & labour**](https://www.brunei.gov.bn/services/Employment%20and%20Labour.aspx){:target="_blank"}
+[**Employment &amp; labour**](https://www.gov.bn/services/Employment%20and%20Labour.aspx){:target="_blank"}
 
 A useful resource for conducting official matters with the government of Brunei. A link to Job Centre Brunei is also provided for job seekers or those who wish to upgrade themselves through training.
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" style="width:180px;">
 
 [**Ministry of Health – Foreign Workers Health Screening Programme**](http://www.moh.gov.bn/SitePages/Foreign%20Workers%20Health%20Screening%20Programme.aspx){:target="_blank"}
 

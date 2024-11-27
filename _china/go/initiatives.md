@@ -9,17 +9,12 @@ variant: markdown
 
 Check out selected programmes and opportunities available so that you can better prepare and develop your competencies!
 
-### **Business China Singapore Youth Chapter**
-
-Supported by Business China Singapore, the Business China Singapore Youth Chapter (BCYC) is a voluntary group of youths formed in 2010, which envisions itself to be the leading Singapore-based community that inspires youths to become China-savvy and facilitates connections with China. It has a vibrant calendar of year-round activities which serve the needs of the BCYC community.
-
-[Find out more](https://www.businesschina.org.sg/en/for-youths/overview/business-china-youth-chapter-2/){:target="_blank"}
-
 ### **Enterprise Singapore**
 
 Enterprise Singapore offers various tools and support to deepen your market presence, expand your global footprint and help make your internationalisation journey smoother.
 
 [Find out more](https://www.enterprisesg.gov.sg/keepgrowing/go-global){:target="_blank"}
+
 
 ### **GlobalConnect@SBF**
 
@@ -33,7 +28,7 @@ Singapore Business Federation (SBF), in partnership with Enterprise Singapore, h
 
 A youth development programme by the National Youth Council (NYC) which provides short-term overseas immersion opportunities for youths to gain a more holistic understanding of the social and cultural contexts, and awareness of economic opportunities in ASEAN member states, China and India.
 
-[Find out more](https://www.nyc.gov.sg/programmes-grants/asia-ready-exposure-programme/){:target="_blank"}
+[Find out more](https://www.nyc.gov.sg/programmes-grants/asia-ready-exposure-programme){:target="_blank"}
 
 **Asia-Ready Exposure Programme Grant**
 
@@ -61,18 +56,6 @@ The Singapore Chinese Chamber of Commerce and Industry organises business missio
 
 [Find out more](https://www.sccci.org.sg/){:target="_blank"}
 
-### **Singapore Chinese Chamber Institute of Business**
-
-Individuals can learn Business Mandarin and acquire a good understanding of the business culture in China.
-
-[Find out more](http://www.scciob.edu.sg/){:target="_blank"}
-
-### **Singapore Federation of Chinese Clan Associations**
-
-To foster bilingual and bicultural talents, this scholarship will be awarded annually to outstanding students pursuing their studies in top-ranking Chinese universities to finance their studies and living expenses.
-
-[Find out more](https://sfcca.sg/en/sfccascholarship/){:target="_blank"}
-
 ### **Singapore Global Network**
 
 At Singapore Global Network, we are passionate about building connections and creating opportunities. As a community, we aim to grow Singapore’s overseas networks by building meaningful and lasting relationships with family and friends across the globe. Whether you’re considering a move to Singapore, a Singaporean living abroad, or just curious about opportunities here, we want to help connect you with the right people or resources to get you started.
@@ -83,5 +66,9 @@ At Singapore Global Network, we are passionate about building connections and cr
 
 The Singapore Manufacturing Federation organises trade fairs, overseas business missions and training for its members to develop cross border relations and provide a gateway for its members to overseas business ventures.
 
-[Find out more](https://www.smfederation.org.sg/focus-area/internationalization){:target="_blank"}
+[Find out more](https://www.smfederation.org.sg/focus-area/internationalisation){:target="_blank"}
 
+### **The Young SEAkers**
+The Young SEAkers is a non-profit headquartered in Singapore, with upcoming regional chapters across all 10 ASEAN countries and China. We aim to nurture a community of ASEAN youths change-makers passionate about advancing the interests of the ASEAN-China region. We are the first and only Southeast-Asia based non-profit focusing on youths with a China and ASEAN angle.
+
+[Find out more](https://www.theyoungseakers.com/){:target="_blank"}

@@ -2,8 +2,9 @@
 title: Tashkent - A city profile
 permalink: /other-asian-countries/central-asia/tashkent-a-city-profile/
 breadcrumb: Tashkent - A city profile
+variant: markdown
 ---
-<img src="\images\central-asia\Tashkent Tower in Central Asia.jpg " alt="Tashkent Tower snapshot banner" style="width:800px;" />
+<img src="\images\central-asia\Tashkent Tower in Central Asia.jpg" alt="Tashkent Tower snapshot banner" style="width:800px;">
 
 This article provides an overview of Tashkent for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -75,13 +76,13 @@ In 2008, the Management Development Institute of Singapore (MDIS) set up its Tas
 [^5]: Tashkent. (n.d.). *New World Encyclopedia.* Retrieved October 19, 2021, from [https://www.newworldencyclopedia.org/entry/Tashkent](https://www.newworldencyclopedia.org/entry/Tashkent)
 
 
-[^6]: Matyakubova, D. (2018, June). Who is “Tashkent City” for? Nation-branding and public dialogue in Uzbekistan. *Central Asia Program.* Retrieved October 19, 2021, from [https://centralasiaprogram.org/](https://centralasiaprogram.org/wp-content/uploads/2018/06/Matyakubova-CAP-Fellows-Paper-June-2018.pdf){:target="_blank"}; Tashkent City will become a modern center of Tashkent. (2018, July 18). *Embassy of the Republic of Uzbekistan to the Republic of Latvia.* Retrieved October 19, 2021, from [https://uzbekistan.lv/](https://uzbekistan.lv/en/tashkent-city-will-become-a-modern-center-of-tashkent/){:target="_blank"} 
+[^6]: Matyakubova, D. (2018, June). Who is “Tashkent City” for? Nation-branding and public dialogue in Uzbekistan. *Central Asia Program.* Retrieved October 19, 2021, from [https://centralasiaprogram.org/](https://centralasiaprogram.org/wp-content/uploads/2018/06/Matyakubova-CAP-Fellows-Paper-June-2018.pdf){:target="_blank"}; Tashkent City will become a modern center of Tashkent. (2018, July 18). *Embassy of the Republic of Uzbekistan to the Republic of Latvia.* Retrieved October 19, 2021, from [http://uzbekistan-geneva.ch/](http://uzbekistan-geneva.ch/tashkent-city-will-become-a-modern-center-of-tashkent.html/){:target="_blank"} 
 
-[^7]: Allan, A. (2019, February 12). 23 things to know before you go to Tashkent. *Roads & Kingdoms.* Retrieved October 19, 2021, from [https://roadsandkingdoms.com/](https://roadsandkingdoms.com/2019/know-before-you-go-to-tashkent/){:target="_blank"}
+[^7]: Allan, A. (2019, February 12). 23 things to know before you go to Tashkent. *Roads &amp; Kingdoms.* Retrieved October 19, 2021, from [https://roadsandkingdoms.com/](https://roadsandkingdoms.com/2019/know-before-you-go-to-tashkent/){:target="_blank"}
 
 [^8]: Uzbekistan in a hurry to grow its Islamic economy. (2019, June 17). *Global Islamic Economy Gateway.* Retrieved October 19, 2021, from [https://www.salaamgateway.com/](https://www.salaamgateway.com/en/story/profile__uzbekistan_in_a_hurry_to_grow_its_islamic_economy-SALAAM17062019184554/){:target="_blank"}
 
-[^9]: Tashkent- the modern metropolis. (2021). *Uzbekistan.Travel.* Retrieved October 19, 2021, from [https://uzbekistan.travel/](https://uzbekistan.travel/i/tashkent/){:target="_blank"}; Tourism.(n.d.).  *Ministry of Foreign Affairs of the Republic of Uzbekistan.* Retrieved October 19, 2021, from [https://mfa.uz/](https://mfa.uz/en/pages/turizm){:target="_blank"}
+[^9]: Tashkent- the modern metropolis. (2021). *Uzbekistan.Travel.* Retrieved October 19, 2021, from [https://uzbekistan.travel/en](https://uzbekistan.travel/en/i/tashkent/){:target="_blank"}; Tourism.(n.d.).  *Ministry of Foreign Affairs of the Republic of Uzbekistan.* Retrieved October 19, 2021, from [https://mfa.uz/](https://mfa.uz/en/pages/turizm){:target="_blank"}
 
 [^10]: Senior Minister Dr Maliki Osman introductory visit to Uzbekistan. (2019, June 6). *In Diplomacy.* Retrieved October 19, 2021, from [http://www.indiplomacy.com/](http://www.indiplomacy.com/2019/06/06/senior-minister-dr-maliki-osman-introductory-visit-to-uzbekistan/) 
 
