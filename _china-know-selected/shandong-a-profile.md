@@ -108,7 +108,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^18]: Invitation: The 19th China (Shouguang) International Vegetable SciTech Fair. (2018, January 8). *DVF Shouguang.* Retrieved September 14, 2018, from [http://www.sgcbh.com/](http://www.sgcbh.com/zhgk/zhzyzl/201912/t20191211_1295814.html){:target="_blank"}
 
-[^19]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
+[^19]: Wang Qianyi, Zhang Miao, Cheong Kee Cheok, (2014). City profile – Shouguang.  *Cities, 40*(A), pp 70-81. Retrieved November 24, 2024, from [https://www.sciencedirect.com/](https://doi.org/10.1016/j.cities.2014.03.006){:target="_blank"}
 
 [^20]: Yantai (Shandong) city information. (2021, February 23). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/yantai){:target="blank"}; Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
 
