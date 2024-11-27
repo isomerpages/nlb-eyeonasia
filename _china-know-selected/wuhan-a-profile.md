@@ -31,8 +31,6 @@ Described as a “high-growth city” by Lim Ming Yan, president and group CEO o
 
 Wuhan is home to the country’s largest inland port. Moreover, it is where maritime, river, rail and road transport routes converge, thus enabling it to serve as a strategic distribution point for produce from the middle of the Yangtze valley and for west and southwest China.[^12] It is also one of the cities (apart from Shanghai, Shenzhen and Suzhou) that is emerging as a conducive place for tech companies to grow. In fact, Wuhan is known for its talent in innovation.[^13]
 
-The city’s major industries include automotive, steel and iron manufacturing, high-tech industries such as optoelectronic technology, pharmaceutical, biology engineering, new material industry and environmental protection. There are also a number of joint ventures with foreign companies, including Honda, Nissan and PSA Peugeot-Citroen.[^14]
-
 
 ### **Education**
 
@@ -77,8 +75,6 @@ On 17 January 2018, CapitaLand, through its wholly-owned subsidiary CapitaLand C
 [^12]: Wuhan, China. (2019). Encyclopaedia Britannica. Retrieved March 9, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Wuhan){:target="_blank"}
 
 [^13]: IE Singapore to help local companies access China’s innovation ecosystem and tap market opportunities. (2017, October 2). *The Edge Markets.* Retrieved March 9, 2021, from [https://www.theedgemarkets.com](https://www.theedgemarkets.com/article/ie-singapore-help-local-companies-access-chinas-innovation-ecosystem-and-tap-market){:target="_blank"}
-
-[^14]: Economic Profile of China’s Hubei Province. (2020, September 15). *The Canadian Trade Commissioner Service.* Retrieved March 9, 2021, from [https://www.tradecommissioner.gc.ca](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/112025.aspx?lang=eng){:target="_blank"}
 
 [^15]: Best universities in China. (2020, September 4). *The Student.*  March 9, 2021, from [https://www.timeshighereducation.com](https://www.timeshighereducation.com/student/best-universities/best-universities-china){:target="blank"}; Wuhan: UNESCO city of design. (n.d.). *Cities of Design Network.* Retrieved March 9, 2021, from  [https://www.designcities.net](https://www.designcities.net/city/wuhan/){:target="_blank"}
 
