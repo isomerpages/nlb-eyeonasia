@@ -111,4 +111,4 @@ The country will also focus on 10 targeted industries, namely: Aviation and logi
 
 [^23]: Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society,* p. 569. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^24]:Languepin, Olivier, (2019, February 7). Thailand 4.0, what do you need to know? *Thailand Business News.* Retrieved April 11, 2024, from [https://www.thailand-business-news.com](https://www.thailand-business-news.com/featured/54286-thailand-4-0-need-know){:target="_blank"}
+[^24]: Thailand 4.0: The Next Revolution (2017). *Ministry of Industry.* Retrieved April 11, 2024, from [https://www.industry.go.th](https://www.industry.go.th/web-upload/1xff0d34e409a13ef56eea54c52a291126/m_magazine/12668/373/file_download/b29e16008a87c72b354efebef853a428.pdf){:target="_blank"}
