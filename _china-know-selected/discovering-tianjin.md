@@ -42,12 +42,6 @@ This comprehensive publication by Deloitte provides an overview of Tianjin and i
 
 This online magazine provides the latest updates on the economy and related social changes both in Tianjin and China as a whole. 
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;">
-
-[**Exploring Tianjin**](http://www.exploringtianjin.com/){:target="_blank"}
-
-This website sponsored by the Tianjin municipal government provides information and resources for local residents, visitors and businesses.
-
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
 [**Tianjin Port Free Trade Zone**](https://www.tjftz.gov.cn/english/){:target="_blank"}
