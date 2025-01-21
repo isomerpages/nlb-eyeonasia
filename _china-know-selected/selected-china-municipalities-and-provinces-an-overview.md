@@ -1,12 +1,10 @@
 ---
-title: 'Selected China municipalities and provinces - An overview'
+title: Selected China municipalities and provinces - An overview
 permalink: /china/know/china-municipalities-provinces/overview/
-breadcrumb: 'Selected China municipalities and provinces - An overview'
-
+breadcrumb: Selected China municipalities and provinces - An overview
+variant: markdown
 ---
-
-
-<img src="\images\china-selected\overview-selected-china.jpg" alt="selected china banner" style="width:800px;" />
+<img src="\images\china-selected\overview-selected-china.jpg" alt="selected china banner" style="width:800px;">
 
 This article provides an overview of selected municipalities and provinces in China for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -32,7 +30,7 @@ The two municipalities and seven provinces experienced high economic growth in 2
 | Sichuan                     | 83.75                                | 4,661.6                              | 55,774                               | 7.5                            |
 | Zhejiang                    | 58.5                                 | 6,235.2                              | 107,624                              | 6.8                            |
 
-###### Source: Data & Profiles – Mainland China Provinces & Cities. *Hong Kong Trade Development Council.* [https://research.hktdc.com/en/data-and-profiles/mcpc]
+###### Source: Data &amp; Profiles – Mainland China Provinces &amp; Cities. *Hong Kong Trade Development Council.* [https://research.hktdc.com/en/data-and-profiles/mcpc]
 
 ##### **Chongqing**
 
@@ -60,13 +58,13 @@ Jiangsu is Singapore’s largest investment destination in China. Bolstered by t
 
 ##### **Liaoning**
 
-Since the province is still in the nascent stages of its economic transformation, there is less competition in its cities compared to first-tier cities such as Shanghai and Beijing. This makes Liaoning an ideal location for SMEs looking to venture to China. PSA’s first overseas project was in Dalian where it formed a joint venture with Dalian Port Authority to develop the Dalian Container Port. Ascendas-Singbridge has a joint venture with Dalian Software Park to form Dalian Ascendas IT Park. Companies in Liaoning include Armstrong’s manufacturing plant and CapitaLand Township in Shenyang, Etonhouse’s International school in Dalian and Q&M’s dental centres.[^7]
+Since the province is still in the nascent stages of its economic transformation, there is less competition in its cities compared to first-tier cities such as Shanghai and Beijing. This makes Liaoning an ideal location for SMEs looking to venture to China. PSA’s first overseas project was in Dalian where it formed a joint venture with Dalian Port Authority to develop the Dalian Container Port. Ascendas-Singbridge has a joint venture with Dalian Software Park to form Dalian Ascendas IT Park. Companies in Liaoning include Armstrong’s manufacturing plant and CapitaLand Township in Shenyang, Etonhouse’s International school in Dalian and Q&amp;M’s dental centres.[^7]
 
 
 
 ##### Shaanxi
 
-Shaanxi is the largest economy in northwest China, and also serves as the gateway to Central Asian and European countries under the Belt & Road Initiative (BRI). Xi’an, the capital city of Shaanxi, is the province’s most developed and vibrant city. It accounts for over one-third of Shaanxi’s GDP and over 90 percent of its FDI. With comparatively lower overheads and a huge pool of talent, Xi’an is an attractive destination city for both startups and established high-tech enterprises. This strong ecosystem has persuaded global firms such as Micron and Samsung to set up semiconductor manufacturing facilities in the city. Singapore companies such as CapitaLand, Banyan Tree, Surbana Jurong, Mapletree Logistics and Ascott have a presence in Xi’an, while Straco has been operating a cable car service at Lishan since the 1990s.[^8]
+Shaanxi is the largest economy in northwest China, and also serves as the gateway to Central Asian and European countries under the Belt &amp; Road Initiative (BRI). Xi’an, the capital city of Shaanxi, is the province’s most developed and vibrant city. It accounts for over one-third of Shaanxi’s GDP and over 90 percent of its FDI. With comparatively lower overheads and a huge pool of talent, Xi’an is an attractive destination city for both startups and established high-tech enterprises. This strong ecosystem has persuaded global firms such as Micron and Samsung to set up semiconductor manufacturing facilities in the city. Singapore companies such as CapitaLand, Banyan Tree, Surbana Jurong, Mapletree Logistics and Ascott have a presence in Xi’an, while Straco has been operating a cable car service at Lishan since the 1990s.[^8]
 
 
 
@@ -90,29 +88,29 @@ Sichuan is West China’s largest economy, and home to over 80 million residents
 
 Home to global e-commerce behemoth Alibaba, Zhejiang houses the China (Hangzhou) Cross-Border E-Commerce Pilot Zone, the nation's first comprehensive pilot zone for cross-border e-commerce. With a robust ecosystem of suppliers, distributors, technology, capital and end-users, Zhejiang’s capital of Hangzhou is an attractive destination for Singapore technology firms.
 
-The Zhejiang (Zhoushan) Free Trade Zone will spur commodity trade liberalisation, while facilities such as the Ascendas Singapore – Hangzhou Science & Technology Park (SHSTP) provide attractive landing pads for firms looking to develop new technologies. Key Singapore projects in Zhejiang include Ascendas Singapore, Consort Bunker and Anacle Asia Pacific R&D Centre.[^11]
+The Zhejiang (Zhoushan) Free Trade Zone will spur commodity trade liberalisation, while facilities such as the Ascendas Singapore – Hangzhou Science &amp; Technology Park (SHSTP) provide attractive landing pads for firms looking to develop new technologies. Key Singapore projects in Zhejiang include Ascendas Singapore, Consort Bunker and Anacle Asia Pacific R&amp;D Centre.[^11]
 
 ---
 ### **References**
 
 [^1]: China: Market Profile. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/market-profile){:target="_blank"}
 
-[^2]: Data & Profiles – Mainland China Provinces & Cities. (2021). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc){:target="_blank"}
+[^2]: Data &amp; Profiles – Mainland China Provinces &amp; Cities. (2021). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc){:target="_blank"}
 
-[^3]: West China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank"}
+[^3]: West China (2024). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/west-china){:target="_blank"}
 
-[^4]:  North China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/north-china/overview){:target="_blank"}
+[^4]:  North China (2024). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/north-china){:target="_blank"}
 
 [^5]:  Singapore companies seize opportunities in new sectors and cities as Guangdong develops the Greater Bay Area. (2020, August 31). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/aug-2020/mr06520-singapore-companies-seize-opportunities-in-new-sectors-and-cities-as-guangdong-develops-the-greater-bay-area.pdf?la=en){:target="_blank"}
 
-[^6]: East China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/east-china/overview){:target="_blank"}
+[^6]: East China. (2024). *Enterprise Singapore*. Retrieved January 21, 2024, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/east-china){:target="_blank"}
 
-[^7]: North China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/north-china/overview){:target="_blank"}
+[^7]: North China (2024). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/north-china){:target="_blank"}
 
-[^8]: West China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank"}
+[^8]: West China (2024). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/west-china){:target="_blank"}
 
-[^9]: North China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/north-china/overview){:target="_blank"}
+[^9]: North China (2024). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/north-china){:target="_blank"}
 
-[^10]: West China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank"}
+[^10]: West China (2024). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/west-china){:target="_blank"}
 
-[^11]: East China: Overview. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/east-china/overview){:target="_blank"}
+[^11]: East China. (2024). *Enterprise Singapore*. Retrieved January 21, 2024, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/east-china){:target="_blank"}
