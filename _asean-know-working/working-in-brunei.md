@@ -18,6 +18,6 @@ A useful resource for conducting official matters with the government of Brunei.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**Ministry of Health – Foreign Workers Health Screening Programme**](http://www.moh.gov.bn/SitePages/Foreign%20Workers%20Health%20Screening%20Programme.aspx){:target="_blank"}
+[**Ministry of Health – Foreign Workers Health Screening Programme**](https://moh.gov.bn/services/foreign-worker-health-screening/){:target="_blank"}
 
 Foreign workers are required to undergo health screening within one week of their arrival in Brunei. This website provides information on the process and procedures for both new foreign workers and those who are renewing their contracts.
