@@ -73,11 +73,10 @@ Tourism contributes greatly to Vietnam’s economic growth. It was voted as “A
 
 [^11]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p. 26. Retrieved December 10, 2020, from[https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
 
-[^12]:Profiled industries. (2019, December 2). *Enterprise Singapore.* Retrieved December 10, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/vietnam/profiled-industries){:target="_blank"}
+[^12]:Vietnam. (2025, January 17). *Enterprise Singapore.* Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/vietnam/overview){:target="_blank"}
 
 [^13]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p. 29. Retrieved December 10, 2020, from [https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="blank"} ; Tourism contributes significantly to Vietnam’s economy. (2016, August 10). *Vietnam+*. Retrieved April 11, 2024, from [https://en.vietnamplus.vn](https://en.vietnamplus.vn/tourism-contributes-significantly-to-vietnams-economy/97439.vnp){:target="blank"}
 
 [^14]:A beginners guide to Viet Nam now. (2019). *Vietnam National Administration of Tourism.* Retrieved December 10, 2020, from [https://vietnam.travel](https://vietnam.travel/sites/default/files/2019-11/Beginner%27s%20Guide%20to%20Vietnam%20Now.pdf){:target="_blank"}
 
 [^15]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p. 606. Retrieved December 10, 2020, from [https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
-
