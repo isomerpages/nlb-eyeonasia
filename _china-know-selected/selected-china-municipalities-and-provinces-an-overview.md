@@ -93,7 +93,7 @@ The Zhejiang (Zhoushan) Free Trade Zone will spur commodity trade liberalisation
 ---
 ### **References**
 
-[^1]: China: Market Profile. (2021). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/market-profile){:target="_blank"}
+[^1]: China. (2024). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/overview){:target="_blank"}
 
 [^2]: Data &amp; Profiles – Mainland China Provinces &amp; Cities. (2021). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc){:target="_blank"}
 
