@@ -68,7 +68,7 @@ The UAE Singapore Business Council conducts talks for members on relevant busine
 
 [^10]: The Emirate of Dubai. (2022). *Government of Dubai.* Retrieved September 4, 2022, [https://mediaoffice.ae/](https://mediaoffice.ae/general-information/the-emirate-of-dubai){:target="_blank"}
 
-[^11]: Profiled cities. (2022). *Enterprise Singapore.* Retrieved September 4, 2022, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/middle-east/united-arab-emirates/profiled-cities#dubai){:target="_blank"}
+[^11]: United Arab Emirate. (2024). *Enterprise Singapore.* Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/middle-east/united-arab-emirates/overview){:target="_blank"}
 
 [^13]: Industries. (n.d.). *Visit Dubai.* Retrieved September 4, 2022, from [https://www.visitdubai.com](https://www.investindubai.gov.ae/en/industries){:target="_blank"}
 
