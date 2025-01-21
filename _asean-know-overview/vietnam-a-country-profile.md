@@ -47,25 +47,29 @@ The rising disposable incomes and growing consumer brand awareness has led to a 
 
 Tourism contributes greatly to Vietnam’s economic growth. It was voted as “Asia’s leading destination” by the World Travel Awards (WTA) in 2019. The popular destinations include Ha Long Bay in north Quang Ninh province, Phu Quoc island in southern Kien Giang province and Nha Trang in the central coastal province of Khanh Hoa. [^13] Vietnam offers various kinds of attractions ranging from cultural tourism, sea tourism, natural and ecological tourism as well as sports and recreation tourism.[^14] In 2019, Vietnam received more than 18 million foreign visitors, an increase of 16.2 percent from the previous year.[^15]
 
-[^1]:About Vietnam. (n.d.). *Socialist Republic of Viet Nam Government Portal.* Retrieved December 10, 2020, from [http://chinhphu.vn](http://chinhphu.vn/portal/page/portal/English/TheSocialistRepublicOfVietnam/AboutVietnam/AboutVietnamDetail?categoryId=10000103&amp;articleId=10000505){:target="_blank"}
+------
+
+### **References**
+
+[^1]:Constitution 1992. (n.d.). *Socialist Republic of Viet Nam Government Portal.* Retrieved December 10, 2020, from [https://vietnam.gov.vn](https://vietnam.gov.vn/constitution-1992-68962){:target="_blank"}
 
 [^2]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p. 97. Retrieved December 10, 2020, from [https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
 
 [^3]:Nguyen Xuan Phuc was sworn in as Prime Minister. (2016, April 7). *Vietnam Government Portal*. Retrieved December 10, 2020, from [http://primeminister.chinhphu.vn](http://primeminister.chinhphu.vn/VideoView.aspx?itemid=38){:target="_blank"}
 
-[^4]:Vietnam culture overview. (n.d.). *Socialist Republic Viet Nam Government Portal.* Retrieved December 10, 2020, from [http://chinhphu.vn](http://chinhphu.vn/portal/page/portal/English/TheSocialistRepublicOfVietnam/AboutVietnam/AboutVietnamDetail?categoryId=10000103&amp;articleId=10000475){:target="_blank"}
+[^4]:Vietnam culture overview. (n.d.). *Socialist Republic Viet Nam Government Portal.* Retrieved December 10, 2020, from [https://vietnam.gov.vn](https://vietnam.gov.vn/culture-68969){:target="_blank"}
 
 [^5]:Monetary policy objectives. (n.d.). *The State Bank of Vietnam.* Retrieved December 10, 2020, from [https://www.sbv.gov.vn](https://www.sbv.gov.vn/webcenter/portal/en/home/sbv/mpolicy/mpobjectives?_afrLoop=9493476159015297#%40%3F_afrLoop%3D9493476159015297%26centerWidth%3D80%2525%26leftWidth%3D20%2525%26rightWidth%3D0%2525%26showFooter%3Dfalse%26showHeader%3Dfalse%26_adf.ctrl-state%3Ddun3q655m_108){:target="_blank"}
 
 [^6]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p.191. Retrieved December 10, 2020, from [https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
 
-[^7]:Overview on Vietnam geography. (n.d.). *Socialist Republic Viet Nam Governmental Portal.* Retrieved December 10, 2020, from [http://chinhphu.vn](http://chinhphu.vn/portal/page/portal/English/TheSocialistRepublicOfVietnam/AboutVietnam/AboutVietnamDetail?categoryId=10000103&amp;articleId=10000505){:target="_blank"}
+[^7]: Geography. (n.d.). *Socialist Republic Viet Nam Governmental Portal.* Retrieved December 10, 2020, from [https://vietnam.gov.vn](https://vietnam.gov.vn/geography-68963){:target="_blank"}
 
 [^8]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p.93. Retrieved December 10, 2020, from [https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
 
 [^9]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p.97-98. Retrieved December 10, 2020, from [https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
 
-[^10]:Ethnic groups in Vietnam. (n.d.). *Socialist Republic of Viet Nam Government Portal.* Retrieved December 10, 2020, from [http://chinhphu.vn](http://chinhphu.vn/portal/page/portal/English/TheSocialistRepublicOfVietnam/AboutVietnam/AboutVietnamDetail?categoryId=10000103&amp;articleId=10002652){:target="_blank"}
+[^10]:Ethnic groups in Vietnam. (n.d.). *Socialist Republic of Viet Nam Government Portal.* Retrieved December 10, 2020, from [http://vietnam.gov.vn](https://vietnam.gov.vn/ethnic-groups-in-viet-nam){:target="_blank"}
 
 [^11]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p. 26. Retrieved December 10, 2020, from[https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
 
@@ -77,6 +81,3 @@ Tourism contributes greatly to Vietnam’s economic growth. It was voted as “A
 
 [^15]:Statistical yearbook of Viet Nam 2019. (2020). *General Statistics Office,* p. 606. Retrieved December 10, 2020, from [https://www.gso.gov.vn](https://www.gso.gov.vn/wp-content/uploads/2020/09/Nien-giam-thong-ke-day-du-2019.pdf){:target="_blank"}
 
-------
-
-### **References**
