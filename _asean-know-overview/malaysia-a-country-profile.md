@@ -92,7 +92,7 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 [^20]:About Malaysia. (2020). *Prince Court*. Retrieved November 18, 2020, from [https://princecourt.com](https://princecourt.com/info-about-malaysia/){:target="blank"}
 
-[^21]:The majestic Petronas Twin Towers. (n.d.). *Malaysia Truly Asia.* Retrieved November 18, 2020, from [http://www.malaysia.travel](https://www.malaysia.travel/explore/the-majestic-petronas-twin-towers){:target="_blank"}
+[^21]:The majestic Petronas Twin Towers. (n.d.). *Malaysia Truly Asia.* Retrieved November 18, 2020, from [http://www.malaysia.travel](https://www.malaysia.travel/explore/petronas-twin-tower){:target="_blank"}
 
 [^22]:Mount Kinabalu. (n.d.). *Malaysia Tourism Promotion Board*. Retrieved August 14, 2023, from [http://www.malaysia.travel](https://www.malaysia.travel/explore/mount-kinabalu){:target="_blank"}
 
