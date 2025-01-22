@@ -21,7 +21,7 @@ This article provides an overview of Guangdong for those keen on exploring the p
 
 ### **Introduction**
 
-Guangdong is China’s southern most mainland province and has one of the longest coastlines in China, measuring more than 4,300 kilometres.[^6] It faces the South China Sea to the southeast and south and is bounded by the Guangxi Zhuang Autonomous Region to the west, Hunan and Jiangxi provinces to the north, and Fujian to the northeast.[^7] The Guangdong province is adjacent to Hong Kong and Macau.[^8] Its capital, Guangzhou, is located at the “head of the Pearl River Delta”.[^9] One of the earliest trading ports in Chinese history, Guangdong is the starting point of the “Maritime Silk Road”. The province has a long history of commerce.[^10]
+Guangdong is China’s southern most mainland province and has one of the longest coastlines in China, measuring more than 4,300 kilometres.[^6] It faces the South China Sea to the southeast and south and is bounded by the Guangxi Zhuang Autonomous Region to the west, Hunan and Jiangxi provinces to the north, and Fujian to the northeast. The Guangdong province is adjacent to Hong Kong and Macau.[^7] Its capital, Guangzhou, is located at the “head of the Pearl River Delta”.[^9] One of the earliest trading ports in Chinese history, Guangdong is the starting point of the “Maritime Silk Road”. The province has a long history of commerce.[^10]
 
 
 
@@ -97,8 +97,6 @@ Guangdong continues to be Singapore's top Chinese provincial trading partner for
 
 [^7]: Falkenheim, V. C., Yeung, Y., &amp; Chang, C. (2016). Guangdong. *Encyclopaedia Britannica*. Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="blank"}; Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="blank"}
 
-[^8]: Doing business in Guangdong province of China. (n.d.). *Ministry of Commerce of the People’s Republic of China*. Retrieved March 8, 2021, from [http://english.mofcom.gov.cn](http://english.mofcom.gov.cn/aroundchina/Guangdong.shtml){:target="_blank"}
-
 [^9]: Falkenheim, V. C., Yeung, Y., &amp; Chang, C. (2016). Guangdong. *Encyclopaedia Britannica*. Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Guangdong){:target="blank"}; Guangdong province. (n.d.). *China Today*. Retrieved March 8, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/guangdong.htm){:target="blank"}
 
 [^10]: Zhang, Z. Y. (2019, June 19). Guangzhou: Industry, economics, and policy. *China Briefing.* Retrieved March 8, 2021, from [https://www.china-briefing.com/](https://www.china-briefing.com/news/guangzhou-industry-economics-policy/){:target="_blank"}; Zia, H. (2018, September 25). Guangdong – A key hub on the Maritime Silk Road. *China Daily.* Retrieved March 8, 2021, from [http://www.chinadaily.com.cn/](http://www.chinadaily.com.cn/a/201809/25/WS5ba9e159a310c4cc775e7fbc.html){:target="blank"}
@@ -133,7 +131,7 @@ Guangdong continues to be Singapore's top Chinese provincial trading partner for
 
 [^25]: Guangdong: Market profile. (2020, April 15). *HKTDC Research*. Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong){:target="_blank"}
 
-[^26]: Guangdong: Market profile. (2020, April 15). *HKTDC Research*. Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong){:target="_blank"}; 6-6 Per capita income and expenditure of urban households. (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm){:target="blank"}
+[^26]: Guangdong: Market profile. (2020, April 15). *HKTDC Research*. Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong){:target="_blank"}; 6-6 Per capita income and expenditure of urban households. (2020). *National Bureau of Statistics of China.* Retrieved March 8, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="blank"}
 
 [^27]: Guangdong: Market profile. (2020, April 15). *HKTDC Research*. Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/guangdong){:target="_blank"}
 
