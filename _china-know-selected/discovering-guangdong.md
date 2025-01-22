@@ -87,4 +87,4 @@ This article describes the trends in Guangdong’s economic performance as well 
 
 
 
-*Last updated on Oct 2020*
+*Last updated on Oct 2024*
