@@ -46,7 +46,7 @@ Tianjin is home to the Singapore-China government-to-government platform project
 
 ##### **Guangdong**
 
-Guangdong province and Singapore have been strong economic and trade partners over the years and have developed deep and diverse linkages, especially with new developments in the Greater Bay Area (GBA). Beyond the key cities of Guangzhou and Shenzhen, Singapore companies are venturing into other cities in the GBA, such as Huizhou. Rich in land resources, Huizhou is leveraging its strong foundation in the electronics and petrochemicals sectors, to develop the Infocomm Technology and new materials clusters to further its growth. Additionally, Singapore companies have found opportunities in sectors such as smart city solutions and financial services.[^5]
+Guangdong province and Singapore have been strong economic and trade partners over the years and have developed deep and diverse linkages, especially with new developments in the Greater Bay Area (GBA). Beyond the key cities of Guangzhou and Shenzhen, Singapore companies are venturing into other cities in the GBA, such as Huizhou. Rich in land resources, Huizhou is leveraging its strong foundation in the electronics and petrochemicals sectors, to develop the Infocomm Technology and new materials clusters to further its growth. Additionally, Singapore companies have found opportunities in sectors such as the green economy and healthcare.[^5]
 
 
 
@@ -101,7 +101,7 @@ The Zhejiang (Zhoushan) Free Trade Zone will spur commodity trade liberalisation
 
 [^4]:  North China (2024). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/north-china){:target="_blank"}
 
-[^5]:  Singapore companies seize opportunities in new sectors and cities as Guangdong develops the Greater Bay Area. (2020, August 31). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/aug-2020/mr06520-singapore-companies-seize-opportunities-in-new-sectors-and-cities-as-guangdong-develops-the-greater-bay-area.pdf?la=en){:target="_blank"}
+[^5]:  Singapore and Guangdong to deepen cooperation in emerging areas of green economy and healthcare &amp; biomedical. (2024, July 31). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2024/july/mr02524_singapore-and-guangdong-to-deepen-cooperation-in-emerging-areas-of-green-economy-and-healthcare-biomedical.pdf){:target="_blank"}
 
 [^6]: East China. (2024). *Enterprise Singapore*. Retrieved January 21, 2024, from [https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/east-china){:target="_blank"}
 
