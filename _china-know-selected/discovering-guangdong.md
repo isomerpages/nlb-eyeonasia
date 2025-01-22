@@ -74,7 +74,7 @@ This journal article studies how Guangdong’s typhoons influence labour markets
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**Singapore and Guangdong to deepen cooperation in emergingareas of green economy and healthcare &amp; biomedical**](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2024/july/mr02524_singapore-and-guangdong-to-deepen-cooperation-in-emerging-areas-of-green-economy-and-healthcare-biomedical.pdf){:target="_blank"}
+[**Singapore and Guangdong to deepen cooperation in emerging areas of green economy and healthcare &amp; biomedical**](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2024/july/mr02524_singapore-and-guangdong-to-deepen-cooperation-in-emerging-areas-of-green-economy-and-healthcare-biomedical.pdf){:target="_blank"}
 
 Following the 14th Singapore-Guangdong Collaboration Council (SGCC) meeting, Singapore and China continue to affirm existing close business ties and the seven areas of cooperation under the SGCC. Key bilateral projects, including those in the areas of sustainability, green economy, health and biomedical industries, continue to anchor collaborations and serve as launchpads for Singapore companies venturing into the region.
 
