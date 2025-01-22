@@ -67,11 +67,11 @@ Nanjing has always been viewed as a city of culture and one of the more pleasant
 
 [^5]: Nanjing (Jiangsu) city information. (2021, January 28). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/jiangsu/nanjing){:target="_blank"}
 
-[^6]: General Introduction of Nanjing. (2014, March 5). *Nanjing, China.* Retrieved April 8, 2024, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/gynj/overview/201403/t20140325_1946035.html){:target="_blank"}
+[^6]: Traditional Culture. (2024, May 10). *Nanjing China.* Retrieved January 21, 2025, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/ThisisNanjing/WelcometoNanjing/Traditionalculture/){:target="_blank"}
 
-[^7]: Charming Nanjing, the magnificent city. (2015, July 6). *Nanjing, China.* Retrieved April 8, 2024, from: [http://english.nanjing.gov.cn](http://english.nanjing.gov.cn/gynj/overview/201507/t20150706_1946036.html){:target="_blank"}; Zeng, Z., &amp; Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
+[^7]: History. (2024, May 10). *Nanjing China.* Retrieved January 21, 2025, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/ThisisNanjing/WelcometoNanjing/History/){:target="_blank"}; Zeng, Z., &amp; Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
 
-[^8]: General introduction of Nanjing. (2014, March 25). *Nanjing, China.* Retrieved March 8, 2021, from [http://english.nanjing.gov.cn](http://english.nanjing.gov.cn/gynj/overview/201403/t20140325_1946035.html){:target="_blank"}
+[^8]: City Overview. (2024, May 10). *Nanjing China.* Retrieved January 21, 2025, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/ThisisNanjing/WelcometoNanjing/CityOverview/){:target="_blank"}
 
 [^9]: Zeng, Z., &amp; Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
 
