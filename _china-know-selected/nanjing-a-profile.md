@@ -87,7 +87,7 @@ Nanjing has always been viewed as a city of culture and one of the more pleasant
 
 [^15]: Nanjing, city of innovation cum Singapore Nanjing Eco Hi-tech Island Investment Seminar. (2019). *sgsme.sg.* Retrieved March 8, 2021, from [https://www.sgsme.sg](https://www.sgsme.sg/events/nanjing-city-innovation-cum-singapore-nanjing-eco-hi-tech-island-investment-seminar){:target="blank"}; Nanjing (Jiangsu) city information. (2021, January 28). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/jiangsu/nanjing){:target="blank"}
 
-[^16]: Chinese cities of opportunity 2020. (2020). PwC China. Retrieved March 8, 2021, from [https://www.pwccn.com](https://www.pwccn.com/en/research-and-insights/chinese-cities-of-opportunities-2020-report.pdf){:target="_blank"}
+[^16]: Chinese cities of opportunity 2024. (2024). PwC. Retrieved January 21, 2025, from [https://www.pwccn.com](https://www.pwccn.com/en/research-and-insights/chinese-cities-of-opportunities-2024-report.html){:target="_blank"}
 
 [^17]: City profiling study of China: Nanjing City. (2016, November). Euromonitor International, &amp; United States Department of Agriculture Foreign Agricultural Service.. Retrieved March 8, 2021, from [https://gain.fas.usda.gov](https://gain.fas.usda.gov/Recent GAIN Publications/Emerging City Market Report - Nanjing_Shanghai ATO_China - Peoples Republic of_3-1-2018.pdf)){:target="_blank"}
 
