@@ -116,7 +116,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^22]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
 
-[^23]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
+[^23]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.*
 
 [^24]: Shandong: Market profile. (2020, March 31). *HKTDC.* Retrieved March 9, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong){:target="_blank"}
 
@@ -126,6 +126,6 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^27]: World Heritage list. (2017). *UNESCO*. Retrieved March 9, 2021, from [http://whc.unesco.org](http://whc.unesco.org/en/list/){:target="blank"}; China starts restoring Great Wall’s oldest section. (2015, June 24). *Xinhuanet*. Retrieved March 9, 2021,from [http://www.chinadaily.com.cn](http://www.chinadaily.com.cn/culture/2015-06/25/content_21098392.htm){:target="_blank"}
 
-[^28]: More trade and connectivity opportunities for Singapore in Shandong province. (2019, October 31). *Enterprise Singapore.* Retrieved March 9, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/october/more-trade-and-connectivity-opportunities-for-singapore-companies-in-shandong-province){:target="blank"}; Singapore looks to boost bilateral investments, trade with Shandong. (2018, April 18). *Business Times.* Retrieved March 9, 2021, from [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg/government-economy/singapore-looks-to-boost-bilateral-investments-trade-with-shandong){:target="_blank"}
+[^28]: Seow, Joanna. (2019, October 31). Singapore, Shandong to boost collaboration on modern services, connectivity and sustainable development. *The Straits Times.* Retrieved January 23, 2025, from [https://www.straitstimes.com](https://www.straitstimes.com/business/economy/singapore-shandong-to-boost-collaboration-on-modern-services-connectivity-and){:target="blank"}; Singapore looks to boost bilateral investments, trade with Shandong. (2018, April 18). *Business Times.* Retrieved March 9, 2021, from [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg/government-economy/singapore-looks-to-boost-bilateral-investments-trade-with-shandong){:target="_blank"}
 
-[^29]: More trade and connectivity opportunities for Singapore in Shandong province. (2019, October 31). *Enterprise Singapore.* Retrieved March 9, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/october/more-trade-and-connectivity-opportunities-for-singapore-companies-in-shandong-province){:target="_blank"}
+[^29]: Seow, Joanna. (2019, October 31). Singapore, Shandong to boost collaboration on modern services, connectivity and sustainable development. *The Straits Times.* Retrieved January 23, 2025, from [https://www.straitstimes.com](https://www.straitstimes.com/business/economy/singapore-shandong-to-boost-collaboration-on-modern-services-connectivity-and){:target="blank"}
