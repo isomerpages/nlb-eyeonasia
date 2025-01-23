@@ -77,7 +77,7 @@ Singapore regards Kazakhstan as an important partner, not just in the Central As
 [^9]: Kazakhstan’s economic growth accelerates in first quarter. (2022, April 12). *Astana Times*. Retrieved September 1, 2022, from [https://astanatimes.com/](https://astanatimes.com/2022/04/kazakhstans-economic-growth-accelerates-in-first-quarter/){:target="_blank"}
 
 [^10]: Doing Business in
-Kazakhstan. (2021) *Baker McKenzie*. Retrieved September 20, 2024, from [https://www.bakermckenzie.com/](https://www.bakermckenzie.com/en/-/media/files/insight/guides/2021/doing-business-in-kazakhstan-2021.pdf){:target="_blank"}
+Kazakhstan. (2024) *Baker McKenzie*. Retrieved January 23, 2025, from [https://www.bakermckenzie.com/](https://www.bakermckenzie.com/en/insight/publications/guides/doing-business-kazakhstan){:target="_blank"}
 
 [^11]: The bridge between Asia and Europe. (2017). *Explore Almaty.*; Almaty becomes hub for discussing future of global financial markets. (2024, September 20). *China Daily*. Retrieved January 23, 2025, from [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn/a/202409/20/WS66ed1c82a3103711928a8e8e.html){:target="_blank"}
 
