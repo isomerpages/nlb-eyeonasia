@@ -2,8 +2,9 @@
 title: India - A profile
 permalink: /india/know/overview-of-india/india-profile/
 breadcrumb: India - A profile
+variant: markdown
 ---
-<img src="\images\india-overview\India Know Overview.png" alt="india profile" style="width:800px;" />
+<img src="\images\india-overview\India Know Overview.png" alt="india profile" style="width:800px;">
 
 This article provides an overview of India for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -66,45 +67,45 @@ Bilateral trade between Singapore and India has been growing. Exports to India g
 ---
 ### **References**
 
-[^1]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+[^1]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
 
-[^2]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+[^2]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
 
-[^3]:President. (2018, August 14). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/my-government/whos-who/president](https://www.india.gov.in/my-government/whos-who/president)
+[^3]:President. (2018, August 14). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/my-government/whos-who/president)
 
-[^4]:  Prime Minister. (2019, May 30). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/my-government/whos-who/prime-minister](https://www.india.gov.in/my-government/whos-who/prime-minister)
+[^4]:  Prime Minister. (2019, May 30). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/my-government/whos-who/prime-minister)
 
-[^5]:  Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+[^5]:  Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
 
-[^6]:  Currency symbol. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.india.gov.in/national-identity-elements/currency-symbol.php](https://knowindia.india.gov.in/national-identity-elements/currency-symbol.php)
+[^6]:  Currency symbol. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.india.gov.in](https://knowindia.india.gov.in/national-identity-elements/currency-symbol.php)
 
-[^7]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+[^7]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
 
 [^8]: India: Annual data and forecast. (2021, September 6). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database.
 
 [^9]: India: Annual data and forecast. (2021, September 6). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database.
 
-[^10]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in/india-glance/profile](https://www.india.gov.in/india-glance/profile)
+[^10]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
 
 [^11]: Country report: India. (2021, January), *Economist Intelligence Unit*. Retrieved July 26, 2021, from Economist Intelligence Unit database.
 
-[^12]: Sex ratio. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.india.gov.in/profile/sex-ratio.php](https://knowindia.india.gov.in/profile/sex-ratio.php)
+[^12]: Sex ratio. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.india.gov.in](https://knowindia.india.gov.in/profile/sex-ratio.php)
 
 [^13]: Country report: India. (2021). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database. 
 
-[^14]: About Indian economy growth rate and statistics. (2021, July). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org/economy/indian-economy-overview;](https://www.ibef.org/economy/indian-economy-overview) Make in India. (2021). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org/economy/make-in-india;](https://www.ibef.org/economy/make-in-india)Introduction. (2021). *Digital India*. Retrieved July 26, 2021, from [https://www.digitalindia.gov.in/content/introduction](https://www.digitalindia.gov.in/content/introduction)
+[^14]: About Indian economy growth rate and statistics. (2021, July). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org](https://www.ibef.org/economy/indian-economy-overview); Make in India. (2021). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org](https://www.ibef.org/economy/make-in-india); Introduction. (2021). *Digital India*. Retrieved July 26, 2021, from [https://www.digitalindia.gov.in](https://www.digitalindia.gov.in/content/introduction)
 
-[^15]: India: What to know about the world’s third largest consumer market. (2021, March 26). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market](https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market)  
+[^15]: India. (2025, January 17). *Enterprise Singapore*. Retrieved January 23, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/India/overview)
 
-[^16]: India: What to know about the world’s third largest consumer market. (2021, March 26). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market](https://www.enterprisesg.gov.sg/blog/what-to-know-about-the-worlds-third-largest-consumer-market)
+[^16]: India. (2025, January 17). *Enterprise Singapore*. Retrieved January 23, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/India/overview)
 
-[^17]: Indian e-commerce industry analysis. (2021, September 9). *India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/industry/ecommerce-presentation](https://www.ibef.org/industry/ecommerce-presentation)  
+[^17]: Indian e-commerce industry analysis. (2021, September 9). *India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org](https://www.ibef.org/industry/ecommerce-presentation)  
 
-[^18]: Govt. announces list of first 20 smart cities under “smart cities mission”. (2016, October 1). *The Hindu*. Retrieved July, 26, 2021, from [http://www.thehindu.com/news/national/Govt.-announces-list-of-first-20-smart-cities-under-Smart-Cities-Mission/article14027175.ece](http://www.thehindu.com/news/national/Govt.-announces-list-of-first-20-smart-cities-under-Smart-Cities-Mission/article14027175.ece)
+[^18]: Govt. announces list of first 20 smart cities under “smart cities mission”. (2016, October 1). *The Hindu*. Retrieved July, 26, 2021, from [http://www.thehindu.com](http://www.thehindu.com/news/national/Govt.-announces-list-of-first-20-smart-cities-under-Smart-Cities-Mission/article14027175.ece)
 
-[^19]:Sun, T. (2016, July 27). Knocking on India’s smart cities door. *The Business Times*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/blog/knocking-on-indias-smart-cities-door](https://www.enterprisesg.gov.sg/blog/knocking-on-indias-smart-cities-door)
+[^19]:Sun, T. (2016, July 27). Knocking on India’s smart cities door. *The Business Times*. Retrieved January 23, 2025, from [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg/opinion-features/columns/knocking-indias-smart-cities-door)
 
-[^20]: India-Singapore Comprehensive Economic Cooperation Agreement. (CECA). (2021). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/singapore-ftas/CECA](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/singapore-ftas/CECA)
+[^20]: India-Singapore Comprehensive Economic Cooperation Agreement. (CECA). (2021). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/singapore-ftas/CECA)
 
 
 [^21]: Singapore’s International Trade. (2021, September). *Department of Statistics, Singapore*. Retrieved September 16, 2021, from [https://www.singstat.gov.sg/modules/infographics/-/media/Files/visualising_data/infographics/trade_and_investment/singapore-international-trade.pdf](https://www.singstat.gov.sg/modules/infographics/-/media/Files/visualising_data/infographics/trade_and_investment/singapore-international-trade.pdf) 
