@@ -79,7 +79,7 @@ Singapore regards Kazakhstan as an important partner, not just in the Central As
 [^10]: Doing Business in
 Kazakhstan. (2021) *Baker McKenzie*. Retrieved September 20, 2024, from [https://www.bakermckenzie.com/](https://www.bakermckenzie.com/en/-/media/files/insight/guides/2021/doing-business-in-kazakhstan-2021.pdf){:target="_blank"}
 
-[^11]: The bridge between Asia and Europe. (2017). *Explore Almaty*; Almaty becomes hub for discussing future of global financial markets. (2024, September 20). *China Daily*. Retrieved January 23, 2025, from [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn/a/202409/20/WS66ed1c82a3103711928a8e8e.html){:target="_blank"}
+[^11]: The bridge between Asia and Europe. (2017). *Explore Almaty.*; Almaty becomes hub for discussing future of global financial markets. (2024, September 20). *China Daily*. Retrieved January 23, 2025, from [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn/a/202409/20/WS66ed1c82a3103711928a8e8e.html){:target="_blank"}
 
 [^12]: Almaty: Kazakhstan's first capital and the "City of Gardens". (2017, June 23). *Euronews.* Retrieved September 1, 2022, from [https://www.euronews.com](https://www.euronews.com/2017/06/23/almaty-kazakhstan-s-first-capital-and-the-city-of-gardens){:target="_blank"}
 
