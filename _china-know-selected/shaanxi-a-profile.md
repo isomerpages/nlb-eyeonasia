@@ -2,8 +2,9 @@
 title: Shaanxi - A profile
 permalink: /china/know/china-municipalities-provinces/shaanxi-profile/
 breadcrumb: Shaanxi - A profile
+variant: markdown
 ---
-<img src="\images\china-selected\shaanxi-profile.jpg" alt="shaanxi profile banner" style="width:800px;" />
+<img src="\images\china-selected\shaanxi-profile.jpg" alt="shaanxi profile banner" style="width:800px;">
 
 This article provides an overview of Shaanxi for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -22,12 +23,12 @@ Autonomous Region to the north, Shanxi province to the east, Henan and Hubei pro
 
 ### **Economy**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-1.png" style="width:550px;" /></div-->
-Shaanxi has abundant reserves of coal, natural gas, petroleum, salt and other non metal minerals. Together with its rich metallic and non metallic mineral reserves, Shaanxi’s estimated reserves of mineral resources ranked first in the nation. In 2018, Shaanxi’s R&D expenditure reached RMB 53 billion, accounting for 2.18 percent of its GDP. With more than 200, 000 personnel engaged in scientific and technological activities, Shaanxi is an important scientific research and production base in China’s aviation, spaceflight and electronics sectors. In particular, Xi’an, Shaanxi’s capital city, has become an IT powerhouse with the majority of the province’s software enterprises located there.[^7]
+
+Shaanxi has abundant reserves of coal, natural gas, petroleum, salt and other non metal minerals. Together with its rich metallic and non metallic mineral reserves, Shaanxi’s estimated reserves of mineral resources ranked first in the nation. In 2018, Shaanxi’s R&amp;D expenditure reached RMB 53 billion, accounting for 2.18 percent of its GDP. With more than 200, 000 personnel engaged in scientific and technological activities, Shaanxi is an important scientific research and production base in China’s aviation, spaceflight and electronics sectors. In particular, Xi’an, Shaanxi’s capital city, has become an IT powerhouse with the majority of the province’s software enterprises located there.[^7]
 
 ### **Industries**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shaanxi-chart-2.png" style="width:550px;" />Data Source: Shaanxi Statistical Yearbook 2017[^14]</div-->
+
 Shaanxi sped up the development of its agricultural industry with 11 provincial agricultural industrial parks being set up in 2018. The added value of agriculture reached 138.08 billion yuan in 2018, up 3.1 percent year-on-year. Modern service industries such as finance and logistics also enjoyed rapid development in 2018, and Xi'an, Baoji and Yan'an were among the 127 cities to host national logistic hubs run by the National Development and Reform Commission and the Ministry of Transport. The added value of the service industry grew by 8.8 percent. [^8] 
 
 Six new pillar industries such as modern chemicals, automobiles, aerospace and high-end equipment manufacturing, new-generation information technology, new materials, and modern medicine, have also developed rapidly. The production of new energy vehicles and industrial robots saw increases of 70 percent and 36.9 percent respectively in 2018. The added value of strategic emerging industries increased by 10.4 percent, while the added value of the high-tech industry (manufacturing) increased by 14.2 percent year-on-year.  [^9]
@@ -43,7 +44,7 @@ Shaanxi is a place of deep national culture and rich historical relics, especial
 
 ### **Singapore and Shaanxi**
 
-With comparatively lower overheads and a huge pool of talent, Xi’an is an attractive destination city for both startups and established high-tech enterprises. The capital city is home to over 1.2 million college students and 3,000 research & development institutions, ensuring that companies have an abundance of talent and partners to work with. This strong ecosystem has persuaded global firms such as Micron and Samsung to set up semiconductor manufacturing facilities in Xi’an. For Singapore firms contemplating venturing into Shaanxi, Ascendas-Singbridge’s Innovation Towers serves as a suitable launchpad for high-tech and software development companies. Singapore companies such as CapitaLand, Banyan Tree, Surbana Jurong, Mapletree Logistics and Ascott have a presence in Xi’an, while Straco has been operating a cable car service at Lishan since the 1990s. More recently, the latter is investing in a new project to redevelop relic sites in Lishan. [^13]
+With comparatively lower overheads and a huge pool of talent, Xi’an is an attractive destination city for both startups and established high-tech enterprises. The capital city is home to over 1.2 million college students and 3,000 research &amp; development institutions, ensuring that companies have an abundance of talent and partners to work with. This strong ecosystem has persuaded global firms such as Micron and Samsung to set up semiconductor manufacturing facilities in Xi’an. For Singapore firms contemplating venturing into Shaanxi, Ascendas-Singbridge’s Innovation Towers serves as a suitable launchpad for high-tech and software development companies. Singapore companies such as CapitaLand, Banyan Tree, Surbana Jurong, Mapletree Logistics and Ascott have a presence in Xi’an, while Straco has been operating a cable car service at Lishan since the 1990s. More recently, the latter is investing in a new project to redevelop relic sites in Lishan. [^13]
 
 ---
 ### **References**
@@ -71,4 +72,4 @@ With comparatively lower overheads and a huge pool of talent, Xi’an is an attr
 
 [^12]: Shaanxi: Market Profile. (2020, June 9). *Hong Kong Trade Development Council.* Retrieved March 31, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shaanxi){:target="_blank"}
 
-[^13]:West China: Overview. (2021). *Enterprise Singapore.* Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/profiled-regions/west-china/overview){:target="_blank"}
+[^13]:West China. (2024). *Enterprise Singapore.* Retrieved January 21, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/china/profiled-regions/west-china){:target="_blank"}
