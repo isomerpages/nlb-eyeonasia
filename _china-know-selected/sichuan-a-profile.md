@@ -83,4 +83,4 @@ Despite the current challenging business landscape due to the COVID-19 pandemic,
 
 [^14]: Sichuan Province. (2021). *China today.* Retrieved September 13, 2017, from [http://www.chinatoday.com](http://www.chinatoday.com/city/sichuan.htm){:target="_blank"}
 
-[^15]: Singapore companies continue to pursue opportunities in Sichuan despite COVID-19 pandemic. (2020, September 29). *Enterprise Singapore.* Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/sep-2020/sstic-meeting_media-release_final.pdf?la=en){:target="blank"}
+[^15]: Singapore companies continue to pursue opportunities in Sichuan despite COVID-19 pandemic. (2020, September 29). *Enterprise Singapore.*
