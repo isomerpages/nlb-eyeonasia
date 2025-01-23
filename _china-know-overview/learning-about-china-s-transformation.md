@@ -68,6 +68,6 @@ China’s economic transformation not only augurs well for the country but also 
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**Chinese cities of opportunity 2020**](https://www.pwccn.com/en/research-and-insights/chinese-cities-of-opportunities-2020-report.pdf){:target="_blank"}
+[**Chinese cities of opportunity 2024**](https://www.pwccn.com/en/research-and-insights/chinese-cities-of-opportunities-2024-report.html){:target="_blank"}
 
-This report examines the economic potential of some of the key cities in China, including emerging cities like Nanchang and Nanning. It provides comparisons and analyses of these cities in the areas of industrial development, innovation potential, transport, security and quality of life etc.
+This report examines the economic potential of some of the key cities in China, including emerging cities. It provides comparisons and analyses of these cities in the areas of industrial development, innovation potential, transport, security and quality of life etc.
