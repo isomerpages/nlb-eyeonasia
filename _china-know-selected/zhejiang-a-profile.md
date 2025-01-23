@@ -2,8 +2,9 @@
 title: Zhejiang - A profile
 permalink: /china/know/china-municipalities-provinces/zhejiang-profile/
 breadcrumb: Zhejiang - A profile
+variant: markdown
 ---
-<img src="\images\china-selected\zhejiang-profile.jpg" alt="zhejiang profile banner" style="width:800px;" />
+<img src="\images\china-selected\zhejiang-profile.jpg" alt="zhejiang profile banner" style="width:800px;">
 
 This article provides an overview of Zhejiang for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -72,4 +73,4 @@ Despite the COVID-19 pandemic, Singapore-Zhejiang economic collaboration remains
 
 [^12]: Zhejiang Travel Guide. (2021). *Travel China Guide.* Retrieved March 31, 2021, from [https://www.travelchinaguide.com](https://www.travelchinaguide.com/cityguides/zhejiang/){:target="_blank"}
 
-[^13]: Singapore and Zhejiang focus cooperation in pandemic resilient areas of trade and connectivity innovation and sustainable urban management. (2020, December 22). Enterprise Singapore. Retrieved March 31, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/december/singapore-and-zhejiang-focus-cooperation-in-pandemic-resilient-areas-of-trade-and-connectivity-innovation-and-sustainable-urban-management){:target="_blank"}
+[^13]: Singapore and Zhejiang focus cooperation in pandemic resilient areas of trade and connectivity innovation and sustainable urban management. (2020, December 22). *Enterprise Singapore*; Singapore and Zhejiang reaffirm resilient economic and trade ties, and explore new collaboration in digital economy. (2022, April 26). *Enterprise Singapore.* Retrieved January 23, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2022/april/mr02722_singapore-and-zhejiang-reaffirm-resilient-economic-and-trade-ties-and-explore-new-collaboration-in-digital-economy.pdf)
