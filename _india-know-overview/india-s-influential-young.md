@@ -63,9 +63,9 @@ The Western concept of getting internships before plunging into the job market i
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**What do Indian millennials aspire?**](https://www.forbesindia.com/blog/technology/what-do-indian-millennials-aspire/){:target="_blank"}
+[**Not just K-Pop, Indians are in love with Korean self-care too**](https://www.forbesindia.com/article/leadership/not-just-kpop-indians-are-in-love-with-korean-selfcare-too/94970/1){:target="_blank"}
 
-Millennials in India may be digital natives and early fintech adopters, but remain traditional in some money matters. Who are they and what do they aspire towards? BankBazaar surveyed more than 1,500 millennials in India to understand their aspirations through the lens of money management. Find out what they learn here.
+The Korean wave K-dramas and K-pop has reached India and its consumers, creating a growing new market for these goods. Some data show that imports of Korean skincare products have increased by up to 63 percent every year, and influencers have started to take up these products in their offerings.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
