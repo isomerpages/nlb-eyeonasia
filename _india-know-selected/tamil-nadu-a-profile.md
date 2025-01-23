@@ -67,15 +67,15 @@ In November 2017, Singapore’s Consul General in Chennai, Roy Kho announced tha
 ---
 ### **References**
 
-[^1]: About Tamil Nadu. (2022). Government of Tamil Nadu. Retrieved March 31, 2022, from [https://www.tn.gov.in/](https://www.tn.gov.in/tamilnadustate){:target="_blank"}
+[^1]: Government of Tamil Nadu. (2024). Government of Tamil Nadu. Retrieved January 23, 2025, from [https://www.tn.gov.in/](https://www.tn.gov.in){:target="_blank"}
 
-[^2]: About Tamil Nadu. (2022). Government of Tamil Nadu. Retrieved March 31, 2022, from [https://www.tn.gov.in/](https://www.tn.gov.in/tamilnadustate){:target="_blank"}
+[^2]: Government of Tamil Nadu. (2024). Government of Tamil Nadu. Retrieved January 23, 2025, from [https://www.tn.gov.in/](https://www.tn.gov.in){:target="_blank"}
 
-[^3]: About Tamil Nadu. (2022). Government of Tamil Nadu. Retrieved March 31, 2022, from [https://www.tn.gov.in/](https://www.tn.gov.in/tamilnadustate){:target="_blank"}
+[^3]: Government of Tamil Nadu. (2024). Government of Tamil Nadu. Retrieved January 23, 2025, from [https://www.tn.gov.in/](https://www.tn.gov.in){:target="_blank"}
 
 [^4]: Government of Tamil Nadu. (2022). Government of Tamil Nadu. Retrieved March 31, 2022, from [https://www.tn.gov.in/](https://www.tn.gov.in/government){:target="_blank"}
 
-[^5]: About Tamil Nadu. (2022). Government of Tamil Nadu. Retrieved March 31, 2022, from [https://www.tn.gov.in/](https://www.tn.gov.in/tamilnadustate){:target="_blank"}
+[^5]: Government of Tamil Nadu. (2024). Government of Tamil Nadu. Retrieved January 23, 2025, from [https://www.tn.gov.in/](https://www.tn.gov.in){:target="_blank"}
 
 [^6]: About Tamil Nadu: Tourism, Industries, Economy, Agriculture, Climate, Geography. (2021, November). India Brand Equity Foundation. Retrieved March 31, 2022, from [https://www.ibef.org](https://www.ibef.org/states/tamil-nadu.aspx){:target="_blank"}
 
