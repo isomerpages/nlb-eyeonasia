@@ -30,12 +30,6 @@ Retrieved from Economist Intelligence Unit. (*myLibrary* ID is required to acces
 
 ### **You may also like**
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;">
-
-[**Economic revitalisation in Liaoning brings opportunities for Singapore businesses in sustainable development, connectivity and modern services**](https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/july/economic-revitalisation-in-liaoning-brings-opportunities-for-singapore-businesses-in-sustainable-development-connectivity-and-modern-services ){:target="_blank"}
-
-In this media release by Enterprise Singapore, collaboration opportunities between Singapore firms and Chinese companies in Liaoning are highlighted. This media release also notes the efforts that have been made to transform Liaoning, as well as Singapore companies’ increasing interest in this province. 
-
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
 [**Focus on Shenyang, China**](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/96287.aspx?lang=eng){:target="_blank"}

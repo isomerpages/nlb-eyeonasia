@@ -67,11 +67,11 @@ Nanjing has always been viewed as a city of culture and one of the more pleasant
 
 [^5]: Nanjing (Jiangsu) city information. (2021, January 28). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/jiangsu/nanjing){:target="_blank"}
 
-[^6]: General Introduction of Nanjing. (2014, March 5). *Nanjing, China.* Retrieved April 8, 2024, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/gynj/overview/201403/t20140325_1946035.html){:target="_blank"}
+[^6]: Traditional Culture. (2024, May 10). *Nanjing China.* Retrieved January 21, 2025, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/ThisisNanjing/WelcometoNanjing/Traditionalculture/){:target="_blank"}
 
-[^7]: Charming Nanjing, the magnificent city. (2015, July 6). *Nanjing, China.* Retrieved April 8, 2024, from: [http://english.nanjing.gov.cn](http://english.nanjing.gov.cn/gynj/overview/201507/t20150706_1946036.html){:target="_blank"}; Zeng, Z., &amp; Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
+[^7]: History. (2024, May 10). *Nanjing China.* Retrieved January 21, 2025, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/ThisisNanjing/WelcometoNanjing/History/){:target="_blank"}; Zeng, Z., &amp; Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
 
-[^8]: General introduction of Nanjing. (2014, March 25). *Nanjing, China.* Retrieved March 8, 2021, from [http://english.nanjing.gov.cn](http://english.nanjing.gov.cn/gynj/overview/201403/t20140325_1946035.html){:target="_blank"}
+[^8]: City Overview. (2024, May 10). *Nanjing China.* Retrieved January 21, 2025, from: [http://english.nanjing.gov.cn](https://english.nanjing.gov.cn/ThisisNanjing/WelcometoNanjing/CityOverview/){:target="_blank"}
 
 [^9]: Zeng, Z., &amp; Kuo, P-C. (2019). Nanjing. *Encyclopaedia Britannica.* Retrieved March 8, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Nanjing-China){:target="_blank"}
 
@@ -87,7 +87,7 @@ Nanjing has always been viewed as a city of culture and one of the more pleasant
 
 [^15]: Nanjing, city of innovation cum Singapore Nanjing Eco Hi-tech Island Investment Seminar. (2019). *sgsme.sg.* Retrieved March 8, 2021, from [https://www.sgsme.sg](https://www.sgsme.sg/events/nanjing-city-innovation-cum-singapore-nanjing-eco-hi-tech-island-investment-seminar){:target="blank"}; Nanjing (Jiangsu) city information. (2021, January 28). *HKTDC Research*. Retrieved March 8, 2021, from [http://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/jiangsu/nanjing){:target="blank"}
 
-[^16]: Chinese cities of opportunity 2020. (2020). PwC China. Retrieved March 8, 2021, from [https://www.pwccn.com](https://www.pwccn.com/en/research-and-insights/chinese-cities-of-opportunities-2020-report.pdf){:target="_blank"}
+[^16]: Chinese cities of opportunity 2024. (2024). PwC. Retrieved January 21, 2025, from [https://www.pwccn.com](https://www.pwccn.com/en/research-and-insights/chinese-cities-of-opportunities-2024-report.html){:target="_blank"}
 
 [^17]: City profiling study of China: Nanjing City. (2016, November). Euromonitor International, &amp; United States Department of Agriculture Foreign Agricultural Service.. Retrieved March 8, 2021, from [https://gain.fas.usda.gov](https://gain.fas.usda.gov/Recent GAIN Publications/Emerging City Market Report - Nanjing_Shanghai ATO_China - Peoples Republic of_3-1-2018.pdf)){:target="_blank"}
 

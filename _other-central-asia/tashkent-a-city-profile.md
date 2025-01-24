@@ -8,7 +8,7 @@ variant: markdown
 
 This article provides an overview of Tashkent for those keen to explore the possibility of living and working in the city. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
-- ### **Key Facts**
+### **Key Facts**
 
 - **Country**: Uzbekistan 
 
@@ -76,7 +76,7 @@ In 2008, the Management Development Institute of Singapore (MDIS) set up its Tas
 [^5]: Tashkent. (n.d.). *New World Encyclopedia.* Retrieved October 19, 2021, from [https://www.newworldencyclopedia.org/entry/Tashkent](https://www.newworldencyclopedia.org/entry/Tashkent)
 
 
-[^6]: Matyakubova, D. (2018, June). Who is “Tashkent City” for? Nation-branding and public dialogue in Uzbekistan. *Central Asia Program.* Retrieved October 19, 2021, from [https://centralasiaprogram.org/](https://centralasiaprogram.org/wp-content/uploads/2018/06/Matyakubova-CAP-Fellows-Paper-June-2018.pdf){:target="_blank"}; Tashkent City will become a modern center of Tashkent. (2018, July 18). *Embassy of the Republic of Uzbekistan to the Republic of Latvia.* Retrieved October 19, 2021, from [http://uzbekistan-geneva.ch/](http://uzbekistan-geneva.ch/tashkent-city-will-become-a-modern-center-of-tashkent.html/){:target="_blank"} 
+[^6]: Matyakubova, D. (2018, June). Who is “Tashkent City” for? Nation-branding and public dialogue in Uzbekistan. *Central Asia Program.* Retrieved October 19, 2021, from [https://centralasiaprogram.org/](https://centralasiaprogram.org/wp-content/uploads/2018/06/Matyakubova-CAP-Fellows-Paper-June-2018.pdf){:target="_blank"}; Tashkent City will become a modern center of Tashkent. (2018, July 18). *President of the Republic of Uzbekistan.* Retrieved January 23, 2025, from [https://president.uz](https://president.uz/en/lists/view/1185){:target="_blank"} 
 
 [^7]: Allan, A. (2019, February 12). 23 things to know before you go to Tashkent. *Roads &amp; Kingdoms.* Retrieved October 19, 2021, from [https://roadsandkingdoms.com/](https://roadsandkingdoms.com/2019/know-before-you-go-to-tashkent/){:target="_blank"}
 

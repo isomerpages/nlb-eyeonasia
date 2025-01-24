@@ -74,9 +74,10 @@ This journal article studies how Guangdong’s typhoons influence labour markets
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**Singapore companies leverage the development of the Greater Bay Area to capture new growth opportunities in Guangdong**](https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/november/singapore-companies-leverage-the-development-of-the-greater-bay-area-to-capture-new-growth-opportunities-in-guangdong){:target="_blank"}
+[**Singapore and Guangdong to deepen cooperation in emerging areas of green economy and healthcare &amp; biomedical**](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2024/july/mr02524_singapore-and-guangdong-to-deepen-cooperation-in-emerging-areas-of-green-economy-and-healthcare-biomedical.pdf){:target="_blank"}
 
-Following the signing of a memorandum between Singapore and Guangzhou in November 2019, companies in both places will have more opportunities to collaborate in fields like innovation development and intellectual property. The article explains how Singapore companies can partner Chinese ones, as well as examples of companies which have already done so.
+Following the 14th Singapore-Guangdong Collaboration Council (SGCC) meeting, Singapore and China continue to affirm existing close business ties and the seven areas of cooperation under the SGCC. Key bilateral projects, including those in the areas of sustainability, green economy, health and biomedical industries, continue to anchor collaborations and serve as launchpads for Singapore companies venturing into the region.
+
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
@@ -86,4 +87,4 @@ This article describes the trends in Guangdong’s economic performance as well 
 
 
 
-*Last updated on Oct 2020*
+*Last updated on Oct 2024*

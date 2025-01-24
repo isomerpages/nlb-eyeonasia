@@ -1,26 +1,24 @@
 ---
-title: 'Business culture in Cambodia'
+title: Business culture in Cambodia
 permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-cambodia/
-breadcrumb: 'Business culture in Cambodia'
-
+breadcrumb: Business culture in Cambodia
+variant: markdown
 ---
-
-
-<img src="/images/asean-working/ASEAN-Cambodia-Business-Culture.jpg" alt="Business culture Cambodia banner" style="width:800px;" />
+<img src="/images/asean-working/ASEAN-Cambodia-Business-Culture.jpg" alt="Business culture Cambodia banner" style="width:800px;">
 
 This is a selection of resources on business culture in Cambodia available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/Cambodia-Culture-Smart.jpg" style="width:150px;" />
+<img src="/images/book-covers/Cambodia-Culture-Smart.jpg" style="width:150px;">
 
-[**Cambodia – Culture Smart! (The Essential Guide to Customs & Culture)**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13110838){:target="_blank"}
+[**Cambodia – Culture Smart! (The Essential Guide to Customs &amp; Culture)**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13110838){:target="_blank"}
 
 *Cambodia – Culture Smart!* offers illuminating insights into Cambodian culture and society. This concise guide enhances the understanding of attitudes, beliefs and behaviour in Cambodia and helps expats display awareness and develop successful business connections.
 
 All rights reserved, London: Kuperard, 2008.
 
-<img src="/images/book-covers/Doing-business-in-the-ASEAN-countries.jpg" style="width:150px;" />
+<img src="/images/book-covers/Doing-business-in-the-ASEAN-countries.jpg" style="width:150px;">
 
 [**Doing business in the ASEAN countries**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14192497){:target="_blank"}
 
@@ -28,7 +26,7 @@ This book is a practical and comprehensive guide for those keen on doing busines
 
 All rights reserved, New York: Business Expert Press, 2010.
 
-<img src="/images/resources/Database 3.jpg" style="width:180px;" />
+<img src="/images/resources/Database 3.jpg" style="width:180px;">
 
 [**Business practices in Southeast Asia: An interdisciplinary analysis of Theravada Buddhist countries**](http://eresources.nlb.gov.sg/Main/Browse?startsWith=N){:target="_blank"}
 
@@ -40,8 +38,8 @@ Retrieved from NetLibrary (eBooks on EBSCOHost). (*myLibrary*ID is required to a
 
 ### **You may also like**
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;" />
+<img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**Doing business in Cambodia**](https://www.rvo.nl/sites/default/files/2019/01/doing-business-in-cambodia.pdf){:target="_blank"}
+[**Economy Profile Cambodia: Doing business 2020**](https://archive.doingbusiness.org/content/dam/doingBusiness/country/c/cambodia/KHM.pdf){:target="_blank"}
 
-This report is a detailed case study on Cambodia’s economy as well as the dos and don’ts when conducting business in the country.
+The World Bank report looked at the ease of doing business in Cambodia based on various factors, and covers the various procedures to do so including what to expect in terms of time and costs.

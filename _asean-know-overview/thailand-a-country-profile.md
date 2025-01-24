@@ -91,13 +91,13 @@ The country will also focus on 10 targeted industries, namely: Aviation and logi
 
 [^13]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 15. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^14]:Thailand. (2020). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/market-profile){:target="_blank"}
+[^14]:Thailand. (2020). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"}
 
 [^15]:Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society*, p. 16. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
 [^16]:Thailand. (n.d.). *Ministry of Foreign Affairs Singapore.* Retrieved December 9, 2020, from [https://www.mfa.gov.sg](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/Countries-and-Regions/Southeast-Asia/Thailand){:target="_blank"}
 
-[^17]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="_blank"}
+[^17]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"}
 
 [^18]:Thailand plans massive investment in transport infrastructure. (2017, January 10). *LinkedIn.* Retrieved December 9, 2020, from [https://www.linkedin.com](https://www.linkedin.com/pulse/thailand-plans-massive-investment-transport-german-thai){:target="_blank"}
 
@@ -111,4 +111,4 @@ The country will also focus on 10 targeted industries, namely: Aviation and logi
 
 [^23]: Statistical yearbook Thailand 2020. (2020). *National Statistical Office, Ministry of Digital Economy and Society,* p. 569. Retrieved December 9, 2020, from [https://www.nso.go.th](https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2020/){:target="_blank"}
 
-[^24]:Languepin, Olivier, (2019, February 7). Thailand 4.0, what do you need to know? *Thailand Business News.* Retrieved April 11, 2024, from [https://www.thailand-business-news.com](https://www.thailand-business-news.com/featured/54286-thailand-4-0-need-know){:target="_blank"}
+[^24]: Thailand 4.0: The Next Revolution (2017). *Ministry of Industry.* Retrieved April 11, 2024, from [https://www.industry.go.th](https://www.industry.go.th/web-upload/1xff0d34e409a13ef56eea54c52a291126/m_magazine/12668/373/file_download/b29e16008a87c72b354efebef853a428.pdf){:target="_blank"}

@@ -68,4 +68,4 @@ Singapore and Jiangsu share strong ties through the China-Singapore Suzhou Indus
 
 [^12]: Overview of Jiangsu. (2024. June 5). *Jiangsu Provincial People’s Government*. Retrieved September 20, 2024, from [http://en.jiangsu.gov.cn/](https://en.jiangsu.gov.cn/col/col88905/index.html){:target="_blank"}
 
-[^13]: Jiangsu’s economic transformation brings new opportunities in biomedical and professional services. (2020, November 18). *Enterprise Singapore*. Retrieved March 31, 2021, from [https://www.enterprise.gov.sg](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/nov-2020/enterprise-singapore-media-release_14th-sjcc-meeting_18-nov-2020.pdf?la=en){:target="_blank"}
+[^13]: Jiangsu’s economic transformation brings new opportunities in biomedical and professional services. (2020, November 18). *Enterprise Singapore*. Retrieved January 21, 2025, from [https://g-city.sass.org.cn](https://g-city.sass.org.cn/_upload/article/files/24/71/76d907434bb58481912da780adab/25e29ccc-975c-4fba-9615-991e4bc340e1.pdf){:target="_blank"}

@@ -9,7 +9,7 @@ variant: markdown
 
 Connect with fellow Singaporeans through this selection of Singapore communities in ASEAN countries available from the Internet. This is not meant to be an exhaustive list.
 
-<hr>
+
 ### **Cambodia**
 
 #### The Singapore Club Cambodia
@@ -17,7 +17,7 @@ The Singapore Club Cambodia based in Phnom Penh is a social club that aims to co
 
 [**Find out more**](https://singaporeclubcambodia.org/){:target="_blank"}
 
-<hr>
+
 ### **Indonesia**
 
 #### Singapore Chamber of Commerce Indonesia
@@ -31,7 +31,7 @@ Set up by NUS Enterprise in partnership with Salim Group, BLOCK71 Jakarta is an 
 
 [**Find out more**](http://jakarta.block71.co){:target="_blank"}
 
-<hr>
+
 ### **Thailand**
 #### Singapore-Thai Chamber of Commerce
 
@@ -45,7 +45,7 @@ The Singapore Club of Thailand established in Bangkok is a social club for Singa
 
 [**Find out more**](http://www.singaporeclubthailand.org/){:target="_blank"}
 
-<hr>
+
 ### **Vietnam**
 
 #### The Vietnamese Chamber of Commerce in Singapore (VietCham Singapore)
@@ -54,14 +54,14 @@ The Singapore Chamber of Commerce Vietnam (formerly Singapore Business Group HCM
 
 [**Find out more**](https://singchamvn.org/){:target="_blank"}
 
-<hr>
-### **Enterprise Singapore Overseas Centres**
 
-Enterprise Singapore’s Overseas Centres offer assistance to Singaporean companies that wish to venture into the region or are already operating from there.
+### **Enterprise Singapore: Singapore Enterprise Centres**
 
-[**Find out more**](https://www.enterprisesg.gov.sg/contact/overseas-centres){:target="_blank"}
+Enterprise Singapore’s Singapore Enterprise Centres offer assistance to Singaporean companies that wish to venture into the region or are already operating from there.
 
-<hr>
+[**Find out more**](https://www.enterprisesg.gov.sg/about-us/contact-us/singapore-enterprise-centres){:target="_blank"}
+
+
 ### **Singapore Overseas Missions**
 
 The Ministry of Foreign Affairs provides the locations of Singapore’s overseas missions world-wide.

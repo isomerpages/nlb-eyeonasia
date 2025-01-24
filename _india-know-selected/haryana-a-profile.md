@@ -76,8 +76,8 @@ On 23 May 2017, Haryana’s Chief Minister, Manohar Lal Khattar, signed five maj
 
 [^12]: Industrial development and economic growth in Haryana. (2022, February). Indian Brand Equity Foundation. Retrieved June 30, 2022, from [https://www.ibef.org](https://www.ibef.org/states/haryana-presentation){:target="_blank"}
 
-[^13]: About Haryana. (2020). Haryana Tourism. Retrieved June 30, 2022, from [https://haryanatourism.gov.in](https://haryanatourism.gov.in/about-haryana){:target="_blank"}
+[^13]: About us. (2025). Haryana Tourism. Retrieved January 21, 2025, from [https://haryanatourism.gov.in](https://haryanatourism.gov.in/about-us/){:target="_blank"}
 
-[^14]: Destinations. (2020). Haryana Tourism. Retrieved June 30, 2022, from [https://haryanatourism.gov.in](https://haryanatourism.gov.in/hub-destinations){:target="_blank"}
+[^14]: Destinations. (2025). Haryana Tourism. Retrieved January 21, 2025, from [https://haryanatourism.gov.in](https://haryanatourism.gov.in/destinations/){:target="_blank"}
 
 [^15]: Jamal, A. (2017, May 24). Haryana CM’s successful Singapore debut: MOUs worth SGD 3.8 billion signed. Connected to India. Retrieved June 30, 2022, from [https://www.connectedtoindia.com](https://www.connectedtoindia.com/haryana-cms-successful-singapore-debut-mous-worth-sgd-38-billion-signed-1613.html){:target="_blank"}

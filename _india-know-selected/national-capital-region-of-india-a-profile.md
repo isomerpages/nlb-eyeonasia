@@ -2,8 +2,9 @@
 title: National Capital Region of India - A profile
 permalink: /india/know/selected-india-states/ncr-india-profile/
 breadcrumb: National Capital Region of India - A profile
+variant: markdown
 ---
-<img src="\images\india-selected\ncr-india-profile.jpg" alt="ncr india profile" style="width:800px;" />
+<img src="\images\india-selected\ncr-india-profile.jpg" alt="ncr india profile" style="width:800px;">
 
 This article provides an overview of the National Capital Region of India for those exploring the possibility of living and working there. The information presented here has been gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -15,7 +16,7 @@ This article provides an overview of the National Capital Region of India for th
 - **Head:** Hardeep Singh Puri, Minister of State (Independent Charge), Housing And Urban Affairs and Chairman of the NCR Planning Board[^4]
 - **Languages:** English, Hindi, Punjabi, Bihari and Haryanvi[^5]
 - **GSDP (2021-22):** US$123.9 billion (Delhi)[^6]
-- **Major cities:** Delhi, Gurgaon (Gurugram), Ghaziabad, Faridabad, Noida & Meerut[^7]
+- **Major cities:** Delhi, Gurgaon (Gurugram), Ghaziabad, Faridabad, Noida &amp; Meerut[^7]
 
 
 ### **Introduction**
@@ -25,12 +26,12 @@ The National Capital Region (NCR) of India is one of the world’s largest urban
 | **Sub-Region** | **District**                                                 | **Area (Sq Km)** | **Population (2011)** |
 | -------------- | ------------------------------------------------------------ | ---------------- | --------------------- |
 | Delhi          | National Capital Territory (NCT) of Delhi                              | 1,483            | 16,790,000            |
-| Haryana        | Faridabad, Gurgaon (Gurugram), Nuh (erstwhile Mewat), Rohtak, Sonepat, Rewari, Jhajjhar, Panipat, Palwal, Bhiwani (including Charkhi Dadri), Mahendragarh, Jind & Karnal | 25,327           | 16,430,000            |
-| Uttar Pradesh  | Meerut, Ghaziabad, Gautam Budh Nagar, Bulandshahr, Baghpat, Hapur, Muzzafarnagar & Shamli | 14,826           | 18,710,000            |
+| Haryana        | Faridabad, Gurgaon (Gurugram), Nuh (erstwhile Mewat), Rohtak, Sonepat, Rewari, Jhajjhar, Panipat, Palwal, Bhiwani (including Charkhi Dadri), Mahendragarh, Jind &amp; Karnal | 25,327           | 16,430,000            |
+| Uttar Pradesh  | Meerut, Ghaziabad, Gautam Budh Nagar, Bulandshahr, Baghpat, Hapur, Muzzafarnagar &amp; Shamli | 14,826           | 18,710,000            |
 | Rajasthan      | Alwar, Bharatpur                                             | 13,447           | 6,220,000             |
 |                | **Total**                                                    | **55,083**       | **58,150,000**        |
 
-<font size="3">Source: Annual Report & Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from
+<font size="3">Source: Annual Report &amp; Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from
 http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf</font>
 
 
@@ -67,35 +68,35 @@ In August 2016, Temasek Holdings-backed Ascendas-Singbridge, one of the leading 
 ---
 ### **References**
 
-[^1]: Annual Report & Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in/](http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf)
+[^1]: Annual Report &amp; Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in/](http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf)
 
-[^2]: Annual Report & Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in/](http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf)
+[^2]: Annual Report &amp; Annual Accounts 2019-20. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in/](http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf)
 
 [^3]: History. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/history.html)
 
 [^4]: Board Members of NCR Planning Board. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/members.html)
 
-[^5]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+[^5]: About Delhi: Information on industries in Delhi, economy, growth &amp; geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
 
-[^6]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+[^6]: About Delhi: Information on industries in Delhi, economy, growth &amp; geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
 
 [^7]: Annual Report 2019 – 2020. (2020). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/pdf_files/Annual%20Report_English_2019-20.pdf)
 
 [^8]: Urbanisation in the National Capital Region: Overcoming challenges to improve live-ability. (2017, March). KPMG. Retrieved May 24, 2022, from [https://assets.kpmg.com/](https://assets.kpmg.com/content/dam/kpmg/in/pdf/2017/03/Urbanisation-in-the-National-Capital-Region.pdf)
 
-[^9]: Policies & Strategies. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html)
+[^9]: Policies &amp; Strategies. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html)
 
-[^10]: The Gazette of India, National Capital Region Planning Board Act of 1985. (1985, February 11). Ministry of Law and Justice, India. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/pdf_files/ncrpb_act_1985.pdf); Policies & Strategies. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html)
+[^10]: The Gazette of India, National Capital Region Planning Board Act of 1985. (1985, February 11). Ministry of Law and Justice, India. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/pdf_files/ncrpb_act_1985.pdf); Policies &amp; Strategies. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [http://ncrpb.nic.in](http://ncrpb.nic.in/policies_strategies.html)
 
 [^11]: Salient features of the Regional Plan-2021 for NCR, notified in 2005. (2017). National Capital Region Planning Board. Retrieved May 24, 2022, from [https://ncrpb.nic.in/](https://ncrpb.nic.in/pdf_files/Salient%20Features_RP-2021.pdf)
 
 [^12]: Urbanisation in the National Capital Region: Overcoming challenges to improve live-ability. (2017, March). KPMG. Retrieved May 24, 2022, from [https://assets.kpmg.com](https://assets.kpmg.com/content/dam/kpmg/in/pdf/2017/03/Urbanisation-in-the-National-Capital-Region.pdf)
 
-[^13]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+[^13]: About Delhi: Information on industries in Delhi, economy, growth &amp; geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
 
-[^14]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+[^14]: About Delhi: Information on industries in Delhi, economy, growth &amp; geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
 
-[^15]: About Delhi: Information on industries in Delhi, economy, growth & geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
+[^15]: About Delhi: Information on industries in Delhi, economy, growth &amp; geography. (2022, February). India Brand Equity Foundation. Retrieved May 24, 2022, from [https://www.ibef.org](https://www.ibef.org/states/delhi)
 
 [^16]: Business and Economy of Gurugram. (2022). Gurugram Online. Retrieved May 24, 2022, from [https://www.gurugramonline.in/](https://www.gurugramonline.in/city-guide/business-and-economy-of-gurugram); About District. (2022). District Gurugram. Retrieved May 24, 2022, from [https://gurugram.gov.in/](https://gurugram.gov.in/about-district/)
 
@@ -107,11 +108,11 @@ In August 2016, Temasek Holdings-backed Ascendas-Singbridge, one of the leading 
 
 [^20]: Delhi NCR Tourism. (2022). India.Com. Retrieved May 24, 2022, from [http://www.india.com](http://www.india.com/travel/delhi-ncr/)
 
-[^21]: Delhi Today. (2022). Delhi Tourism. Retrieved May 24, 2022, from [http://www.delhitourism.gov.in](http://www.delhitourism.gov.in/delhitourism/aboutus/delhi_today.jsp)
+[^21]: Delhi Today. (2022). Delhi Tourism. Retrieved January 24, 2025, from [http://www.delhitourism.gov.in](https://www.delhitourism.gov.in/aboutus/delhi_today.html)
 
-[^22]: Delhi Today. (2018). Delhi Tourism. Retrieved May 24, 2022, from [http://www.delhitourism.gov.in](http://www.delhitourism.gov.in/delhitourism/aboutus/delhi_today.jsp)
+[^22]: Delhi Today. (2018). Delhi Tourism. Retrieved January 24, 2025, from [http://www.delhitourism.gov.in](https://www.delhitourism.gov.in/aboutus/delhi_today.html)
 
-[^23]: Delhi Today. (2018). Delhi Tourism. Retrieved May 24, 2022, from [http://www.delhitourism.gov.in](http://www.delhitourism.gov.in/delhitourism/aboutus/delhi_today.jsp)
+[^23]: Delhi Today. (2018). Delhi Tourism. Retrieved January 24, 2025, from [http://www.delhitourism.gov.in](https://www.delhitourism.gov.in/aboutus/delhi_today.html)
 
 [^24]: Gurgaon. (2022). Tourist Places in India. Retrieved May 24, 2022, from [http://www.touristplacesinindia.com](http://www.touristplacesinindia.com/gurgaon/)
 
