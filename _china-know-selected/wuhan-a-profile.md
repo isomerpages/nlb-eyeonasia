@@ -34,7 +34,7 @@ Wuhan is home to the country’s largest inland port. Moreover, it is where mari
 
 ### **Education**
 
-There are 89 universities in Wuhan, of which Wuhan University and Huazhong University of Science and Technology at a joint 10th place among China’s universities.[^15] Total enrolment in these universities is more than 1.3 million. Each year, over 100,000 graduates remain in the city as entrepreneurs. In addition, 30 universities offer creative design majors.[^16] Singapore’s universities, such as Nanyang Technological University, National University of Singapore and Singapore Management University, offer study programmes with Wuhan University, which is reputed to enjoy one of China’s most beautiful campuses.[^17]
+There are 89 universities in Wuhan, of which Wuhan University and Huazhong University of Science and Technology at a joint 10th place among China’s universities.[^15] Singapore’s universities, such as Nanyang Technological University, National University of Singapore and Singapore Management University, offer study programmes with Wuhan University, which is reputed to enjoy one of China’s most beautiful campuses.[^17]
 
 
 ### **Tourism**
@@ -78,8 +78,6 @@ On 17 January 2018, CapitaLand, through its wholly-owned subsidiary CapitaLand C
 
 [^15]: Best universities in China. (2020, September 4). *The Student.*  March 9, 2021, from [https://www.timeshighereducation.com](https://www.timeshighereducation.com/student/best-universities/best-universities-china){:target="blank"}; Wuhan: UNESCO city of design. (n.d.). *Cities of Design Network.* Retrieved March 9, 2021, from  [https://www.designcities.net](https://www.designcities.net/city/wuhan/){:target="_blank"}
 
-[^16]: Wuhan: UNESCO city of design. (n.d.). *Cities of Design Network.* Retrieved March 9, 2021, from  [https://www.designcities.net](https://www.designcities.net/city/wuhan/){:target="_blank"}
-
 [^17]: Memorandum of Agreement Signing with Wuhan University. (2023, September 20). *Nanyang Technological University.* Retrieved April 9, 2024, from [https://www.ntu.edu.sg/](https://www.ntu.edu.sg/eee/news-events/news/detail/memorandum-of-agreement-signing-with-wuhan-university){:target="blank"}; Cooperation partners. (2014). *Wuhan University.* Retrieved March 9, 2021, from [https://en.whu.edu.cn](https://en.whu.edu.cn/info/1023/1016.htm){:target="blank"}; SMU ventures into Xi’an and cements ties with leading Chinese partner universities in Chengdu and Wuhan. (2018, June 28). *Singapore Management University.* Retrieved March 9, 2021, from [https://admissions.smu.edu.sg](https://admissions.smu.edu.sg/our-community/news/smu-ventures-xian-and-cements-ties-leading-chinese-partner-universities-chengdu){:target="blank"}
 
 [^18]: Factbox: Key facts about Wuhan, epicenter of China's virus outbreak. (2020, January 23). *Reuters.* Retrieved April 9, 2024, from [https://www.reuters.com](https://www.reuters.com/article/idUSKBN1ZL1P6/){:target="_blank"}
@@ -88,6 +86,6 @@ On 17 January 2018, CapitaLand, through its wholly-owned subsidiary CapitaLand C
 
 [^20]: Singapore delegation visits Wuhan. (2018, July 20). *Hubei. China.* Retrieved March 9, 2021, from [http://en.hubei.gov.cn](http://en.hubei.gov.cn/news/newslist/201807/t20180720_1320493.shtml){:target="_blank"}
 
-[^21]: Chong, K.P. (2017, February 26). Singapore firm takes on eldercare project in Hubei. *The Straits Times.* Retrieved March 9, 2021, from [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/){:target="_blank"}  database
+[^21]: Chong, K.P. (2017, February 26). Singapore firm takes on eldercare project in Hubei. *The Straits Times.* Retrieved March 9, 2021, from [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/){:target="_blank"}
 
 [^22]: Zhu, M. (2018, January 18). CapitaLand signs MoU to build integrated development in Wuhan, China. The Edge. Retrieved March 9, 2021, from [https://www.theedgesingapore.com](https://www.theedgesingapore.com/capital/property/capitaland-signs-mou-build-integrated-development-wuhan-china){:target="_blank"}
