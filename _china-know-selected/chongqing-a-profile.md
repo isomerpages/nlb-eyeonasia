@@ -78,7 +78,7 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^6]: Chongqing travel guide – how to plan a trip to Chongqing. (2021, February 7). *China Highlights*. Retrieved January 27, 2021, from  [https://www.chinahighlights.com](https://www.chinahighlights.com/chongqing/){:target="_blank"}
 
-[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved January 27, 2021, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="blank"}; Chongqing municipality. (2017). *New Zealand Foreign Affairs &amp; Trade.* Retrieved January 21, 2021, from [https://www.mfat.govt.nz](https://www.mfat.govt.nz/en/countries-and-regions/asia/china/new-zealand-embassy/chengdu/){:target="blank"}
+[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved January 27, 2021, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="_blank"}
 
 [^8]: China’s big cities target slower growth in 2017. (2017, January 15). *Fortune*. Retrieved January 27, 2021, from  [http://fortune.com](http://fortune.com/2017/01/15/china-cities-growth-2017/){:target="_blank"}
 
@@ -98,7 +98,7 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^16]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^17]: 15-12: Total retail sales of consumer goods. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^17]: 15-12: Total retail sales of consumer goods. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/nwdsj/2020/indexeh.htm){:target="_blank"}
 
 [^18]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
