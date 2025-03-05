@@ -82,7 +82,7 @@ Indonesia also promotes itself as a key halal destination in the region by devel
 
 [^16]: ASEAN in focus: The Indonesian consumer market. (2017, February 15). *HKTDC Business.* Retrieved October 17, 2017, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X0A91HG/hktdc-research/ASEAN-in-Focus-The-Indonesian-Consumer-Market){:target="blank"}; Dawn of the digital age in Indonesia. (2020, January). *Deloitte.* Retrieved October 15, 2020, from [https://www2.deloitte.com](https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/consumer-business/sea-cb-indonesia-consumer-insights-2020.pdf){:target="blank"}
 
-[^17]: About Indonesia. (2018, July 17). *Ministry of Tourism, Republic of Indonesia.* Retrieved October 15, 2020, from [https://www.indonesia.travel](https://www.indonesia.travel/gb/en/general-information/about-indonesia){:target="blank"}; Bali Indonesia. (2018). *Ministry of Tourism, Republic of Indonesia.* Retrieved October 15, 2020, from [https://www.indonesia.travel](https://www.indonesia.travel/gb/en/destinations/bali-nusa-tenggara/bali){:target="_blank"}
+[^17]: Explore Indonesia. (2025). *Ministry of Tourism, Republic of Indonesia.* Retrieved March 5, 2025, from [https://www.indonesia.travel](https://indonesia.travel/gb/en/explore-indonesia){:target="blank"}; Bali. (2025). *Ministry of Tourism, Republic of Indonesia.* Retrieved March 5, 2025, from [https://www.indonesia.travel](https://indonesia.travel/gb/en/explore-indonesia/bali-nusa-tenggara/bali){:target="_blank"}
 
 [^18]: Statistik Indonesia 2020. (2020).  *Badan Pusat Statistik*, p. 3*.* Retrieved October 15, 2020, from [https://www.bps.go.id](https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik-indonesia-2020.html){:target="_blank"} ↩
 
