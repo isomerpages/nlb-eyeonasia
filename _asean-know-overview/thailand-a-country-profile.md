@@ -97,13 +97,13 @@ The country will also focus on 10 targeted industries, namely: Aviation and logi
 
 [^16]:Thailand. (n.d.). *Ministry of Foreign Affairs Singapore.* Retrieved December 9, 2020, from [https://www.mfa.gov.sg](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/Countries-and-Regions/Southeast-Asia/Thailand){:target="_blank"}
 
-[^17]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"}
+[^17]:Thailand. (n.d.). *Enterprise Singapore.* Retrieved March 5, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"}
 
 [^18]:Thailand plans massive investment in transport infrastructure. (2017, January 10). *LinkedIn.* Retrieved December 9, 2020, from [https://www.linkedin.com](https://www.linkedin.com/pulse/thailand-plans-massive-investment-transport-german-thai){:target="_blank"}
 
-[^19]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="_blank"}
+[^19]:Thailand. (n.d.). *Enterprise Singapore.* Retrieved March 5, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"}
 
-[^20]:Profiled industries. (n.d.). *Enterprise Singapore.* Retrieved December 9, 2020, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/profiled-industries){:target="blank"} ;  Thailand’s automotive industry outlook 2019. (2019). *AEC Business Advisory.* Retrieved December 9, 2020, from [https://kasikornbank.com](https://kasikornbank.com/international-business/en/Thailand/IndustryBusiness/Pages/201901_Thailand_AutoOutlook19.aspx){:target="blank"}
+[^20]:Thailand. (n.d.). *Enterprise Singapore.* Retrieved March 5, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"};  Thailand’s automotive industry outlook 2019. (2019). *AEC Business Advisory.* Retrieved December 9, 2020, from [https://kasikornbank.com](https://kasikornbank.com/international-business/en/Thailand/IndustryBusiness/Pages/201901_Thailand_AutoOutlook19.aspx){:target="blank"}
 
 [^21]:Visit Thailand. (n.d.). *Danish-Thai Chamber of Commerce.* Retrieved December 9, 2020, from [https://dancham.or.th](https://dancham.or.th/visit-thailand/){:target="_blank"}
 
