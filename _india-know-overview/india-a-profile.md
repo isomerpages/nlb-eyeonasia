@@ -105,7 +105,7 @@ Bilateral trade between Singapore and India has been growing. Exports to India g
 
 [^19]:Sun, T. (2016, July 27). Knocking on India’s smart cities door. *The Business Times*. Retrieved January 23, 2025, from [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg/opinion-features/columns/knocking-indias-smart-cities-door)
 
-[^20]: India-Singapore Comprehensive Economic Cooperation Agreement. (CECA). (2021). *Enterprise Singapore*. Retrieved July 26, 2021, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/singapore-ftas/CECA)
+[^20]: India-Singapore Comprehensive Economic Cooperation Agreement. (CECA). (2024, September 5). *Enterprise Singapore*. Retrieved March 5, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/international-agreements/free-trade-agreements/find-an-fta/ceca)
 
 
 [^21]: Singapore’s International Trade. (2021, September). *Department of Statistics, Singapore*. Retrieved September 16, 2021, from [https://www.singstat.gov.sg](https://www.singstat.gov.sg/modules/infographics/-/media/Files/visualising_data/infographics/trade_and_investment/singapore-international-trade.pdf) 
