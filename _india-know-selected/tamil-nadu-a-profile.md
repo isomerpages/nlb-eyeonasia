@@ -73,7 +73,7 @@ In November 2017, Singapore’s Consul General in Chennai, Roy Kho announced tha
 
 [^3]: Government of Tamil Nadu. (2024). Government of Tamil Nadu. Retrieved January 23, 2025, from [https://www.tn.gov.in/](https://www.tn.gov.in){:target="_blank"}
 
-[^4]: Government of Tamil Nadu. (2022). Government of Tamil Nadu. Retrieved March 31, 2022, from [https://www.tn.gov.in/](https://www.tn.gov.in/government){:target="_blank"}
+[^4]: Government of Tamil Nadu. (2022). Government of Tamil Nadu. Retrieved March 31, 2022, from [https://www.tn.gov.in/](https://www.tn.gov.in/governor.php){:target="_blank"}
 
 [^5]: Government of Tamil Nadu. (2024). Government of Tamil Nadu. Retrieved January 23, 2025, from [https://www.tn.gov.in/](https://www.tn.gov.in){:target="_blank"}
 
