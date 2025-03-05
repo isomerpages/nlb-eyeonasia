@@ -44,7 +44,7 @@ Yangon is often the first point of entry for most international visitors. The ci
 
 As of 30 September 2018, the highest foreign direct investment inflows to Myanmar was from Singapore, with 289 enterprises investing US$19.731 billion.[^13] One of these is construction group and property developer Tiong Seng Holdings Limited, which had completed the construction of Yuzana low-cost residential units in the Dagon Seikkan township in Yangon in March 2018.[^14]
 
-[^1]:Geography. (2019). *Yangon City Development Committee.* Retrieved December 20, 2020, from [https://www.ycdc.gov.mm](https://www.ycdc.gov.mm/mobile_yangon.php?yangonname=Geography){:target="blank"}; Facts about YCDC. (2014). *Yangon City Development Committee*, p. 7. Retrieved December 20, 2020, from [https://www.ycdc.gov.mm](https://www.ycdc.gov.mm/download.php?customizedpdf=FactsaboutYCDC2014){:target="blank"}
+[^1]:Geography. (n.d.). *Yangon City Development Committee.* Retrieved March 5, 2025, from [https://www.ycdc.gov.mm](https://www.ycdc.gov.mm/frontend_about_yangon/3){:target="blank"}
 
 [^2]:2019 inter-censal survey -population. (2020). *Ministry of Labour, Immigration and Population.* Retrieved December 20, 2020, from [http://www.dop.gov.mm](https://www.dop.gov.mm/sites/dop.gov.mm/files/datamap-documents/ics_pr_population_en.xlsx){:target="_blank"}
 
