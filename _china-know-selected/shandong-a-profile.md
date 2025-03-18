@@ -82,7 +82,7 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^4]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
-[^5]: Doing Business in Shandong. (n.d.). *Ministry of Commerce of the People's Republic of China.* Retrieved April 9, 2024, from english.mofcom.gov.cn
+[^5]: Doing Business in Shandong. (n.d.). *Ministry of Commerce of the People's Republic of China.*
 
 [^6]: 3-9 Gross Regional Product (2022). (2023). *National Bureau of Statistics of China.* Retrieved April 9, 2024, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm){:target="_blank"}
 
@@ -94,7 +94,8 @@ SSBC has identified the trading of food products as one potential growth area. S
 
 [^10]: Jinan: a veritable City of Springs. (2017, August 31) *China Daily*. Retrieved April 9, 2024, from [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn/m/shandong/shandongculture/2017-08/31/content_31327479.htm){:target="_blank"}
 
-[^11]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.* Retrieved March 9, 2021, from [http://www.rug.nl](https://www.rvo.nl/sites/default/files/2017/01/Economic Overview Shandong 2016.pdf){:target="_blank"}
+[^11]: Economic overview and opportunities of Shandong province. (2016, December). *Netherlands Enterprise Agency.*
+
 
 [^12]: Qingdao (Shandong) city information. (2021, February 23). *HKTDC Research.* Retrieved March 9, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/shandong/qingdao){:target="_blank"}
 
