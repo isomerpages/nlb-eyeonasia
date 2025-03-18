@@ -82,7 +82,7 @@ In 2008, the Management Development Institute of Singapore (MDIS) set up its Tas
 
 [^8]: Uzbekistan in a hurry to grow its Islamic economy. (2019, June 17). *Global Islamic Economy Gateway.* Retrieved October 19, 2021, from [https://www.salaamgateway.com/](https://www.salaamgateway.com/en/story/profile__uzbekistan_in_a_hurry_to_grow_its_islamic_economy-SALAAM17062019184554/){:target="_blank"}
 
-[^9]: Tashkent- the modern metropolis. (2021). *Uzbekistan.Travel.* Retrieved October 19, 2021, from [https://uzbekistan.travel/en](https://uzbekistan.travel/en/i/tashkent/){:target="_blank"}; Tourism.(n.d.).  *Ministry of Foreign Affairs of the Republic of Uzbekistan.* Retrieved October 19, 2021, from [https://mfa.uz/](https://mfa.uz/en/pages/turizm){:target="_blank"}
+[^9]: Tashkent- the modern metropolis. (2021). *Uzbekistan.Travel.* Retrieved October 19, 2021, from [https://uzbekistan.travel/en](https://uzbekistan.travel/en/i/tashkent/)
 
 [^10]: Senior Minister Dr Maliki Osman introductory visit to Uzbekistan. (2019, June 6). *In Diplomacy.* Retrieved October 19, 2021, from [http://www.indiplomacy.com/](http://www.indiplomacy.com/2019/06/06/senior-minister-dr-maliki-osman-introductory-visit-to-uzbekistan/) 
 
