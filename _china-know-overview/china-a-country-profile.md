@@ -57,7 +57,7 @@ The BRI is currently developing six international economic cooperation corridors
 
 [^4]:  Timeline – the rise of Chinese leader Xi Jinping. (2018, March 16). *Reuters.* Retrieved January 26, 2021 from [https://www.reuters.com](https://www.reuters.com/article/us-china-parliament-xi-timeline-idUSKCN1GS0ZA){:target="_blank"}
 
-[^5]:  Li Keqiang – Premier of China’s State Council (2018, March 19). *The State Council, The People’s Republic of China.* Retrieved January 26, 2021 from [http://english.gov.cn](http://english.gov.cn/premier/2018/03/19/content_281476082486006.htm){:target="_blank"}
+[^5]:  Li Keqiang – Premier of China’s State Council (2018, March 19). *The State Council, The People’s Republic of China.* Retrieved January 26, 2021 from [https://english.gov.cn](https://english.www.gov.cn/premier/2018/03/19/content_281476082486006.htm){:target="_blank"}
 
 [^6]:  Constitution of the People's Republic of China. (2019, November 20). *Communist Party of China Central Committee Institute of Party History and Literature.* Retrieved April 16, 2024, from [http://english.www.gov.cn/](http://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html){:target="_blank"}
 
