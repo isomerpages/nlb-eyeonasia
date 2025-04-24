@@ -56,7 +56,7 @@ Retrieved from EBSCOHost Academic Search Premier. (*myLibrary* ID is required to
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**Singapore and Jiangsu see continued business interest with 16 projects signed at bilateral meeting**](https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2023/october/mr04523_17th-sjcc_2023-10-09.pdf){:target="_blank"}
+[**Singapore and Jiangsu see continued business interest with 16 projects signed at bilateral meeting**](https://g-city.sass.org.cn/_upload/article/files/9e/db/499fbd7747a989af200e32ef605d/7b6440be-8b62-4dc5-b0b3-42750037c05e.pdf){:target="_blank"}
 
 This media release from Enterprise Singapore outlines how Singapore and Jiangsu have continued to work together to deepen business collaborations. Both parties noted the potential to deepen partnerships in areas of the green economy and innovation.
 
