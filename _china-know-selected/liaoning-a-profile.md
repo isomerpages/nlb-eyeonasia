@@ -111,7 +111,7 @@ In July 2019, 11 Singapore companies signed project agreements, with more than h
 
 [^18]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}
 
-[^19]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}; Zhong, N., &amp; Wu, Y, (2018, September 12). Liaoning pursues revitalization. *The State Council of the Republic of China.* Retrieved March 8, 2021 from [http://english.gov.cn](http://english.gov.cn/news/top_news/2018/09/12/content_281476299560684.htm){:target="blank"}
+[^19]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}; Zhong, N., &amp; Wu, Y, (2018, September 12). Liaoning pursues revitalization. *The State Council of the Republic of China.* Retrieved March 8, 2021 from [https://english.gov.cn](https://english.www.gov.cn/news/top_news/2018/09/12/content_281476299560684.htm){:target="blank"}
 
 [^20]: Liaoning: Market profile. (2020, March 31). *HKTDC Research.* Retrieved March 8, 2021, from [https://research.hktdc.com/en/](https://research.hktdc.com/en/data-and-profiles/mcpc/provinces/liaoning ){:target="_blank"}
 
