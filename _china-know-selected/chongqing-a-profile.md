@@ -68,19 +68,19 @@ Other commercial signings between Singapore and Chongqing include the following:
 ### **References**
 [^1]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^2]: 2-6: Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^2]: 2-6: Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
 
-[^3]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^3]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
 
-[^4]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/ndsj/2020/indexeh.htm){:target="_blank"}
+[^4]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
 
 [^5]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="blank"}; Chongqing (Chungking). (n.d.). *China Today.* Retrieved January 27, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/chongqing.htm){:target="blank"}
 
 [^6]: Chongqing travel guide – how to plan a trip to Chongqing. (2021, February 7). *China Highlights*. Retrieved January 27, 2021, from  [https://www.chinahighlights.com](https://www.chinahighlights.com/chongqing/){:target="_blank"}
 
-[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved January 27, 2021, from [http://europe.chinadaily.com.cn](http://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="_blank"}
+[^7]: Zhang, H. (2016, January 29). Chongqing building on location advantage. *China Daily Europe.* Retrieved January 27, 2021, from [https://europe.chinadaily.com.cn](https://europe.chinadaily.com.cn/epaper/2016-01/29/content_23299741.htm){:target="_blank"}
 
-[^8]: China’s big cities target slower growth in 2017. (2017, January 15). *Fortune*. Retrieved January 27, 2021, from  [http://fortune.com](http://fortune.com/2017/01/15/china-cities-growth-2017/){:target="_blank"}
+[^8]: China’s big cities target slower growth in 2017. (2017, January 15). *Fortune*. Retrieved January 27, 2021, from  [https://fortune.com](https://fortune.com/2017/01/15/china-cities-growth-2017/){:target="_blank"}
 
 [^9]: Wong, P., Lin, M. C. Y. &amp; Jackson, J. (2016, September). Best-performing cities: China 2016. *Milken Institute*. Retrieved January 27, 2021, from [https://milkeninstitute.org](https://milkeninstitute.org/reports/best-performing-cities-china-2016){:target="blank"}; Investing in Inland China: Chongqing, Gateway to China’s West. (n.d.). *China Briefing*. Retrieved April 4, 2024, from  [http://www.china-briefing.com](https://www.china-briefing.com/doing-business-guide/china/where-to-invest/investing-in-inland-china-chongqing-gateway-to-china-s-west){:target="blank"}; New five-year plan brings hope to China’s west. (2016, December 27). *The State Council: The People’s Republic of China.* Retrieved January 27, 2021, from [https://english.gov.cn](https://english.www.gov.cn/premier/news/2016/12/27/content_281475526349906.htm){:target="_blank"}
 
