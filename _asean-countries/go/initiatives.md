@@ -13,7 +13,7 @@ Check out selected programmes and opportunities available so that you can better
 
 Enterprise Singapore offers various tools and support to deepen your market presence, expand your global footprint and help make your internationalisation journey smoother.
 
-[Find out more](https://www.enterprisesg.gov.sg/keepgrowing/go-global){:target="_blank"}
+[Find out more](https://www.enterprisesg.gov.sg/grow-your-business/go-global){:target="_blank"}
 
 
 ### **GlobalConnect@SBF**
