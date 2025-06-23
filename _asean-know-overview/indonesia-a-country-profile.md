@@ -80,7 +80,7 @@ Indonesia also promotes itself as a key halal destination in the region by devel
 
 [^15]: Khairul Anwar. (2019, June 7). Opportunities in Indonesia’s industry 4.0. *The Business Times.* Retrieved October 15, 2020, from [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg/asean-business/guides/opportunities-in-indonesias-industry-40){:target="_blank"}
 
-[^16]: ASEAN in focus: The Indonesian consumer market. (2017, February 15). *HKTDC Business.* Retrieved October 17, 2017, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X0A91HG/hktdc-research/ASEAN-in-Focus-The-Indonesian-Consumer-Market){:target="blank"}; Dawn of the digital age in Indonesia. (2020, January). *Deloitte.* Retrieved October 15, 2020, from [https://www2.deloitte.com](https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/consumer-business/sea-cb-indonesia-consumer-insights-2020.pdf){:target="blank"}
+[^16]: ASEAN in focus: The Indonesian consumer market. (2017, February 15). *HKTDC Business.* Retrieved October 17, 2017, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X0A91HG/hktdc-research/ASEAN-in-Focus-The-Indonesian-Consumer-Market){:target="blank"}; Dawn of the digital age in Indonesia. (2020, January). *Deloitte.* Retrieved October 15, 2020, from www.deloitte.com
 
 [^17]: Explore Indonesia. (2025). *Ministry of Tourism, Republic of Indonesia.* Retrieved March 5, 2025, from [https://www.indonesia.travel](https://indonesia.travel/gb/en/explore-indonesia){:target="blank"}; Bali. (2025). *Ministry of Tourism, Republic of Indonesia.* Retrieved March 5, 2025, from [https://www.indonesia.travel](https://indonesia.travel/gb/en/explore-indonesia/bali-nusa-tenggara/bali){:target="_blank"}
 
