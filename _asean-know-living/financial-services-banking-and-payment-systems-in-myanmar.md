@@ -12,7 +12,7 @@ This is a selection of resources on financial services, banking and payment syst
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**KnowIt- Survival guide- 4th edition**](https://www.myanmore.com/2017/10/know-it-5/){:target="_blank"}
+[**KnowIt - Survival guide**](https://www.myanmore.com/2017/10/know-it-5/){:target="_blank"}
 
 An essential move by any new arrival to a country is to open a bank account in that country. This guide by expatriate magazine *Myanmore* provides information on the banking services and transaction restrictions in Yangon. It also has a listing of banks operating in Myanmar.
 
