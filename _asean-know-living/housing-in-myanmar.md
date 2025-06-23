@@ -12,9 +12,9 @@ This is a selection of resources on housing in Myanmar available from the [NLB c
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**KnowIt- Survival guide- 4th edition**](https://issuu.com/myanmore/docs/know_it__4__jun-dec_2016__-_issuu__){:target="_blank"}
+[**KnowIt - Survival guide**](https://www.myanmore.com/2017/10/know-it-5/){:target="_blank"}
 
-The next step after getting an overseas job is finding a place to live. Be acquainted with the different neighbourhoods in Yangon and pick up tips on how to find the right accommodation from this guide published by expatriate magazine *Myanmore*. The guide also includes a listing of relocation and real estate companies. Available on Issuu, a content distribution site.
+The next step after getting an overseas job is finding a place to live. Be acquainted with the different neighbourhoods in Yangon and pick up tips on how to find the right accommodation from this guide published by expatriate magazine *Myanmore*. The guide also includes a listing of relocation and real estate companies.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;">
 
@@ -27,4 +27,3 @@ This article gives useful tips on renting a place in Yangon. It tells you what t
 [**Yangon’s real estate challenge**](https://www.bangkokpost.com/world/888416/yangon-real-estate-challenge){:target="_blank"}
 
 Covering both commercial and residential spaces, this article assesses the real estate situation in Yangon. It includes useful updates on the condominium market and recent legal developments.
-
