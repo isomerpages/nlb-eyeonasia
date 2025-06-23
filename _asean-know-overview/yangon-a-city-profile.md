@@ -54,7 +54,7 @@ As of 30 September 2018, the highest foreign direct investment inflows to Myanma
 
 [^5]:Myanmar Kyat. (n.d.). *Oanda.* Retrieved December 10, 2020, from [https://www1.oanda.com](https://www1.oanda.com/currency/iso-currency-codes/MMK){:target="_blank"}
 
-[^6]:Yangon. (2020). *Ministry of Hotels &amp; Tourism.* Retrieved December 10, 2020, from [https://tourism.gov.mm](https://tourism.gov.mm/yangon/){:target="_blank"}
+[^6]:Yangon. (2020). *Ministry of Hotels &amp; Tourism.* Retrieved December 10, 2020, from https://tourism.gov.mm
 
 [^7]:*Ministry of Labour, Immigration and Population.* Retrieved December 10, 2020, from [https://www.dop.gov.mm](https://www.dop.gov.mm/sites/dop.gov.mm/files/datamap-documents/ics_pr_population_en.xlsx){:target="_blank"}
 
@@ -66,7 +66,7 @@ As of 30 September 2018, the highest foreign direct investment inflows to Myanma
 
 [^11]:Yamon, A. (2019, January 19). Myanmar plans smart city in Thilawa SEZ. *Global New Light of Myanmar.* Retrieved December 10, 2020, from [http://www.globalnewlightofmyanmar.com](http://www.globalnewlightofmyanmar.com/myanmar-plans-smart-city-in-thilawa-sez/){:target="_blank"}
 
-[^12]:Yangon. (2020). *Ministry of Hotels &amp; Tourisms.* Retrieved December 20, 2020, from [http://tourism.gov.mm](http://tourism.gov.mm/yangon){:target="_blank"}
+[^12]:Yangon. (2020). *Ministry of Hotels &amp; Tourisms.* Retrieved December 20, 2020, from https://tourism.gov.mm
 
 [^13]:2019 Myanmar statistical yearbook. (2019, September). *Central Statistical Organization,* p. 459. Retrieved December 10, 2020, from [http://mmsis.gov.mm](http://mmsis.gov.mm/sub_menu/statistics/fileDb.jsp?code_code=001){:target="_blank"}
 
