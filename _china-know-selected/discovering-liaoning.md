@@ -30,12 +30,6 @@ Retrieved from Economist Intelligence Unit. (*myLibrary* ID is required to acces
 
 ### **You may also like**
 
-<img src="/images/resources/Article 2.jpg" style="width:180px;">
-
-[**Focus on Shenyang, China**](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/96287.aspx?lang=eng){:target="_blank"}
-
-This webpage by Canada’s Trade Commissioner provides an overview of Shenyang, Liaoning’s largest city, as well as its business environment and major stakeholders. This includes brief lists of its major markets, special industrial zones and key enterprises.
-
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
 [**Investing&nbsp;in Dalian: Key Industries and Preferential Zones to Set Up**](https://www.china-briefing.com/doing-business-guide/china/where-to-invest/investing-in-dalian-key-industries-and-preferential-zones-to-set-up){:target="_blank"}
