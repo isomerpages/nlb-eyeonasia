@@ -13,8 +13,9 @@ This article provides an overview of ASEAN countries for those keen on exploring
 
 The Association of Southeast Asian Nations (ASEAN) is a 10-nation regional organisation made up of Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand and Vietnam. ASEAN was first established on 8 August 1967 in Bangkok, Thailand when the Foreign Ministers of Indonesia, Malaysia, Philippines, Singapore and Thailand signed the ASEAN Declaration.[^1] ASEAN subsequently became a 10-member regional organisation when Brunei Darussalam joined on 7 January 1984, Vietnam on 28 July 1995, Lao PDR and Myanmar on 23 July 1997, and Cambodia on 30 April 1999.[^2]
 
-[^1]: History: The founding of ASEAN. (n.d.). *Association of Southeast Asian Nations.* Retrieved January 25, 2021, from [http://asean.org](http://asean.org/asean/about-asean/history/){:target="_blank"}
-[^2]: Overview. (n.d.). *Association of Southeast Asian Nations.* Retrieved January 25, 2021, from [http://asean.org](http://asean.org/asean/about-asean/overview/){:target="_blank"}
+[^1]: History. (n.d.). *Association of Southeast Asian Nations.* Retrieved January 25, 2021, from [http://asean.org](https://asean.org/the-founding-of-asean/){:target="_blank"}
+
+[^2]: About us. (n.d.). *Association of Southeast Asian Nations.* Retrieved January 25, 2021, from [http://asean.org](https://asean.org/about-us/){:target="_blank"}
 
 ### **Economic growth and integration**
 
