@@ -46,9 +46,9 @@ This microsite by Enterprise Singapore covers the existing bilateral agreements 
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**KnowIt- Survival guide- 4th edition**](https://issuu.com/myanmore/docs/know_it__4__jun-dec_2016__-_issuu__){:target="_blank"}
+[**KnowIt - Survival guide**](https://www.myanmore.com/2017/10/know-it-5/){:target="_blank"}
 
-This guide by expatriate magazine *Myanmore* has useful practical information on various topics, including how to find work in Myanmar (see page 199, “Work and Reside Legally”). Available on Issuu, a content distribution site.
+This guide by expatriate magazine *Myanmore* has useful practical information on various topics, including how to find work in Myanmar (see page 209, “Work and Reside Legally”).
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
