@@ -1,12 +1,10 @@
 ---
-title: 'Myanmar - A country profile'
+title: Myanmar - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/myanmar-a-country-profile/
-breadcrumb: 'Myanmar - A country profile'
-
+breadcrumb: Myanmar - A country profile
+variant: markdown
 ---
-
-
-<img src="/images/asean-countries/Myanmar snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Myanmar snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;">
 
 This is a profile of Myanmar that may be useful for those keen to live and work there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -73,7 +71,10 @@ In October 2018, tourists from Japan, South Korea, Hong Kong and Macau were gran
 
 [^12]:Myanmar's foreign trade reaches over 7.6 bln USD in Q1 of FY 2020-21. (2021, January 9). *Xinhua Net.* Retrieved January 25, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/2021-01/09/c_139654307.htm){:target="_blank"}
 
-[^13]:Aw, C. W. (2019, September 25). Singapore, Myanmar sign new investment treaty. *The Straits Times*. Retrieved January 25, 2021, from [http://www.straitstimes.com](https://www.straitstimes.com/business/spore-myanmar-sign-new-investment-treaty){:target="_blank"}
+[^13]:Ministry of Trade and Industry Singapore. (2019, September 24). Singapore and Myanmar sign Bilateral Investment Treaty at the 7th Singapore-Myanmar Joint Ministerial Working Committee (JMWC) Meeting. Retrieved January 25, 2025, from [https://www.mti.gov.sg](https://www.mti.gov.sg/Newsroom/Press-Releases/2019/09/Singapore-and-Myanmar-sign-Bilateral-Investment-Treaty-at-the-7th-Singapore-Myanmar-JMWC-Meeting){:target="_blank"}
+
 [^14]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post*. Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="_blank"}
+
 [^15]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post.* Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="_blank"}
+
 [^16]:Can Myanmar attract more tourists? (2019, July 8). *The ASEAN Post.* Retrieved January 25, 2021, from [https://theaseanpost.com](https://theaseanpost.com/article/can-myanmar-attract-more-tourists){:target="blank"}
