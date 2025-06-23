@@ -98,8 +98,7 @@ In the same month, a tourism skills training centre was also launched in Udaipur
 
 [^7]: Rajasthan at glance. (n.d.).*Town Planning Department.* Retrieved July 29, 2021, from [https://urban.rajasthan.gov.in/content/raj/udh/ctp/en/urban-profile/rajasthan-at-glance.html](https://urban.rajasthan.gov.in/content/raj/udh/ctp/en/urban-profile/rajasthan-at-glance.html)
 
-
-[^8]: Land &amp; environment. (n.d.). *Government of Rajasthan*. Retrieved July 29, 2021, from [https://rajasthan.gov.in/AboutRajasthan/LandAndEnvironment/Pages/default.aspx](https://rajasthan.gov.in/AboutRajasthan/LandAndEnvironment/Pages/default.aspx); Census Tables. (n.d.). *Office of the Registrar General &amp; Census Commissioner, India.* Retrieved July 29, 2021, from [https://censusindia.gov.in/](https://censusindia.gov.in/census.website/data/census-tables)   
+[^8]: Land &amp; environment. (n.d.). *Government of Rajasthan*. Retrieved July 29, 2021, from [https://rajasthan.gov.in/AboutRajasthan/LandAndEnvironment/Pages/default.aspx](https://rajasthan.gov.in/AboutRajasthan/LandAndEnvironment/Pages/default.aspx); Rajasthan. (2025). Encyclopedia Britannica. Retrieved June 23, 2025, from [https://www.britannica.com](https://www.britannica.com/place/Rajasthan){:target="_blank"}
 
 [^9]: Districts. (n.d.). *Government of Rajasthan*. Retrieved July 29, 2021, from [http://rajasthan.gov.in/Government/DistrictGovernment/Pages/default.aspx](http://rajasthan.gov.in/Government/DistrictGovernment/Pages/default.aspx); About Rajasthan. (n.d.). *Government of Rajasthan*. RetrievedJuly 29, 2021, from [https://rajasthan.gov.in/AboutRajasthan/Pages/default.aspx](https://rajasthan.gov.in/AboutRajasthan/Pages/default.aspx)
 
