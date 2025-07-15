@@ -13,7 +13,7 @@ This article provides an overview of Malaysia for those keen on exploring the po
 - **Capital:** Kuala Lumpur[^1]
 - **Geography:** 13 states and 3 federal territories[^2]
 - **Land area:** 330,524 sq km[^3]
-- **Population (2020):** 32.7 million[^4]
+- **Population (2024):** 34.1 million[^4]
 - **Head of government:** Prime Minister Dato’ Sri Ismail Sabri bin Yaakob[^5]
 - **National language:** Bahasa Malaysia[^6]
 - **Currency:** Malaysian Ringgit (MYR)[^7]
@@ -56,7 +56,7 @@ In 2019, tourism brought 26.1 million international tourist arrivals who contrib
 
 [^3]:Malaysia statistical handbook (p. 1). (2019, October). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/uploads/files/1_Articles_By_Themes/Others/MSHB/Buku_Maklumat_Perangkaan_Malaysia_2019.pdf){:target="_blank"}
 
-[^4]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&amp;cat=155&amp;bul_id=OVByWjg5YkQ3MWFZRTN5bDJiaEVhZz09&amp;menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09){:target="_blank"}
+[^4]:Current population estimates, Malaysia, 2020. (2020, July 15). *Department of Statistics Malaysia*. Retrieved November 18, 2020, from [https://www.dosm.gov.my](https://dosm.gov.my/portal-main/release-content/current-population-estimates-by-administrative-district-2024){:target="_blank"}
 
 [^5]:Ahli-Ahli Jemaah Menteri. (2024, April 8). *Jabatan Perdana Menteri*. Retrieved April 4, 2024, from [https://www.kabinet.gov.my/](https://www.kabinet.gov.my/bkpp/index.php/anggota-pentadbiran/menteri){:target="_blank"}
 
