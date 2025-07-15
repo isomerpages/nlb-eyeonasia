@@ -1,18 +1,16 @@
 ---
-title: 'Working in Thailand'
+title: Working in Thailand
 permalink: /asean-countries/know/working-in-asean-countries/working-in-thailand/
-breadcrumb: 'Working in Thailand'
-
+breadcrumb: Working in Thailand
+variant: markdown
 ---
-
-
-<img src="/images/asean-working/ASEAN-Thailand-Working.jpg" alt="Working in Thailand banner" style="width:800px;" />
+<img src="/images/asean-working/ASEAN-Thailand-Working.jpg" alt="Working in Thailand banner" style="width:800px;">
 
 This is a selection of resources on working in Thailand available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 
 ### **NLB print resources**
 
-<img src="/images/book-covers/Living-abroad-in-Thailand.png" style="width:150px;" />
+<img src="/images/book-covers/Living-abroad-in-Thailand.png" style="width:150px;">
 
 [**Living abroad in Thailand**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13736587){:target="_blank"}
 
@@ -20,7 +18,7 @@ If you’ve ever imagined yourself living in Thailand, then this book is for you
 
 All rights reserved, California: Avalon Travel, 2016.
 
-<img src="/images/book-covers/A-geek-in-Thailand.jpg" style="width:150px;" />
+<img src="/images/book-covers/A-geek-in-Thailand.jpg" style="width:150px;">
 
 [**A geek in Thailand: Discovering the land of golden Buddhas, pad Thai and kickboxing**](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202369758){:target="_blank"}
 
@@ -32,14 +30,14 @@ All rights reserved, Vermont: Tuttle Publishing, 2016.
 
 ### **You may also like**
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;" />
+<img src="/images/resources/Article 1.jpg" style="width:180px;">
 
 [**An expat’s guide to finding work in Thailand**](https://www.thailandstarterkit.com/work/work-in-thailand/){:target="_blank"}
 
 This detailed guide covers the requirements for finding work in Thailand, the job-hunting process, the best places to find job openings, as well as recommended industries and employers.
 
-<img src="/images/resources/Article 4.jpg" style="width:180px;" />
+<img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**Taxation and Investment in Thailand 2017 – June 2018**](https://www2.deloitte.com/content/dam/Deloitte/th/Documents/tax/th-tax-taxation-investment-thailand-guide-2018.pdf){:target="_blank"}
+[**International Tax Thailand Highlights 2024**](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-thailandhighlights-2024.pdf){:target="_blank"}
 
-This 2018 guide to taxation and investment in Thailand provides information on the investment climate, setting up a business, business taxation, taxes on individuals, and the labour environment, including the employment of foreigners.
+This 2024 Deloitte guide to taxation and investment in Thailand provides information on personal income tax rates, special regimes for expats, tax requirements, and other regulations, including the investment and business context.
