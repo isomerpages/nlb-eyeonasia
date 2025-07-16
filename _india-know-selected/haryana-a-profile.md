@@ -54,11 +54,11 @@ On 23 May 2017, Haryana’s Chief Minister, Manohar Lal Khattar, signed five maj
 
 [^1]: Haryana. (2022). Encyclopedia Britannica. Retrieved June 30, 2022, from [https://www.britannica.com](https://www.britannica.com/place/Haryana){:target="_blank"}
 
-[^2]: About Haryana. (2022). Government of Haryana. Retrieved June 30, 2022, from [http://www.haryana.gov.in](http://www.haryana.gov.in/){:target="_blank"}
+[^2]: About Haryana. (2022). Government of Haryana. Retrieved June 30, 2022, from [https://www.haryana.gov.in](https://www.haryana.gov.in/){:target="_blank"}
 
-[^3]: About Haryana. (2022). Government of Haryana. Retrieved June 30, 2022, from [http://www.haryana.gov.in](http://www.haryana.gov.in/){:target="_blank"}
+[^3]: About Haryana. (2022). Government of Haryana. Retrieved June 30, 2022, from [https://www.haryana.gov.in](https://www.haryana.gov.in/){:target="_blank"}
 
-[^4]: About Haryana. (2022). Government of Haryana. Retrieved June 30, 2022, from [http://www.haryana.gov.in](http://www.haryana.gov.in/){:target="_blank"}
+[^4]: About Haryana. (2022). Government of Haryana. Retrieved June 30, 2022, from [https://www.haryana.gov.in](https://www.haryana.gov.in/){:target="_blank"}
 
 [^5]: About Haryana: Information on industries, geography, economy &amp; growth. (2021, November). Indian Brand Equity Foundation. Retrieved June 30, 2022, from [https://www.ibef.org](https://www.ibef.org/states/haryana.aspx){:target="_blank"}
 
