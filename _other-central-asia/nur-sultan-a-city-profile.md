@@ -76,6 +76,6 @@ Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of S
 
 [^13]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*. Retrieved September 5, 2022, from [https://www.straitstimes.com](https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty){:target="_blank"}
 
-[^14]: Singapore, Kazakhstan reaffirm ties during SM Teo Chee Hean's visit. (2019, October 15). *The Straits Times*. Retrieved September 5, 2022, from [https://www.straitstimes.com](https://www.straitstimes.com/asia/spore-kazakhstan-reaffirm-ties-during-sm-teos-visit){:target="_blank"}
+[^14]: Teo Chee Hean reaffirms strong ties with Kazakhstan's leaders; discusses digitalisation. (2019, October 15). *The Straits Times*. Retrieved September 5, 2022, from [https://www.straitstimes.com](https://www.straitstimes.com/asia/teo-chee-hean-reaffirms-strong-ties-with-kazakhstans-leaders-discusses-digitalisation){:target="_blank"}
 
 [^15]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved September 5, 2022, from [https://www.todayonline.com](https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan){:target="_blank"}
