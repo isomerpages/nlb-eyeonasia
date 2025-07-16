@@ -93,7 +93,7 @@ Bilateral trade between Singapore and India has been growing. Exports to India g
 
 [^13]: Country report: India. (2021). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database. 
 
-[^14]: About Indian economy growth rate and statistics. (2021, July). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org](https://www.ibef.org/economy/indian-economy-overview); Make in India. (2021). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org](https://www.ibef.org/economy/make-in-india); Introduction. (2021). *Digital India*. Retrieved July 26, 2021, from [https://www.digitalindia.gov.in](https://www.digitalindia.gov.in/content/introduction)
+[^14]: About Indian economy growth rate and statistics. (2021, July). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org](https://www.ibef.org/economy/indian-economy-overview); Make in India. (2021). *India Brand Equity Foundation*. Retrieved July 26, 2021, from [https://www.ibef.org](https://www.ibef.org/economy/make-in-india); Introduction. (2021). *Digital India*. Retrieved July 26, 2021, from [https://www.digitalindia.gov.in](https://www.digitalindia.gov.in/about-us/)
 
 [^15]: India. (2025, January 17). *Enterprise Singapore*. Retrieved January 23, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/asia-pacific/India/overview)
 
