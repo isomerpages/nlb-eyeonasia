@@ -40,7 +40,7 @@ Over the years, many multinational companies from the electronic industries have
 
 ### **Consumer market**
 
-Chongqing is an important consumer market in southwest China due to its large population. Its per capita disposal income of urban households in 2018 was RMB34,889, an increase of 8.4 percent from 2017.[^16]Its total retail sales of consumer goods reached RMB1,163.17 billion in 2019, up 8.7 percent from the RMB1,070.52 billion achieved the previous year.[^17]Some of the major local and overseas retailers that have established their presence in Chongqing include Gome from Beijing, Carrefour from France, Walmart from the United States and Metro from Germany.[^18]
+Chongqing is an important consumer market in southwest China due to its large population. Its per capita disposal income of urban households in 2018 was RMB34,889, an increase of 8.4 percent from 2017.[^16]Its total retail sales of consumer goods reached RMB1,562.96 billion in 2023, up from the RMB1,429.96 billion achieved the previous year.[^17]Some of the major local and overseas retailers that have established their presence in Chongqing include Gome from Beijing, Carrefour from France, Walmart from the United States and Metro from Germany.[^18]
 
 ### **Tourism**
 
@@ -92,15 +92,15 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^13]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
-[^14]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
+[^14]: Chongqing: Market profile. (2022, Oct 27). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^15]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
+[^15]: Chongqing: Market profile. (2022, Oct 27). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^16]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
+[^16]: Chongqing: Market profile. (2022, Oct 27). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^17]: 15-12: Total retail sales of consumer goods. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/nwdsj/2020/indexeh.htm){:target="_blank"}
+[^17]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
-[^18]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
+[^18]: Chongqing: Market profile. (2022, Oct 27). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
 [^19]: Chongqing profile. (n.d.). *International Students’ Department.* Retrieved January 27, 2021, from [http://interstar.sisu.edu.cn](https://interstar.sisu.edu.cn/ywz/Profile/Chongqing_Profile/index.htm){:target="blank"}; Biography: Joseph Warren Stilwell. (n.d.). *China-Burma-India: Remembering the forgotten theater of World War II*. Retrieved January 27, 2021, from [http://www.cbi-theater.com](http://www.cbi-theater.com/stilwellpages/stilwell_main.html){:target="blank"}
 
