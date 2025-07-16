@@ -76,7 +76,7 @@ Home ownership in China has grown substantially since the housing sector was pri
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**China’s co-living boom puts hundreds of millennials under one roof**](https://qz.com/706409/chinas-co-living-boom-puts-hundreds-of-millenials-under-one-roof-heres-what-its-like-inside-one/){:target="_blank"}
+[**China’s co-living boom puts hundreds of millennials under one roof**](https://qz.com/706409/chinas-co-living-boom-puts-hundreds-of-millennials-under-one-roof-heres-what-its-like-inside-one){:target="_blank"}
 
 An alternative to conventional apartment living is You+, a co-living space much like a university hostel, but with the tenants being mostly entrepreneurs and their employees. Find out what such a living arrangement is like.
 
