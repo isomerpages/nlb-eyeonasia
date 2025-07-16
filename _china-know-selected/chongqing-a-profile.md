@@ -11,9 +11,9 @@ This article provides an overview of Chongqing for those keen on exploring the p
 ### **Key Facts**
 
 - **Land area:** 82,400 sq km[^1]
-- **Population (2019):** 31.24 million[^2]
-- **Gross Domestic Product (GDP) (2019):** RMB 2,360.577 billion[^3]
-- **GDP per capita (2019):** RMB 75,828[^4]
+- **Population (2023):** 31.91 million[^2]
+- **Gross Regional Product (GDP) (2023):** RMB 3,014,580 million[^3]
+- **GRP per capita (2023):** RMB 94,471[^4]
 
 ### **Introduction**
 Chongqing is located at the confluence of the Yangtze and Jialing Rivers in southwest China. It is surrounded by Hubei and Hunan to the east, Guizhou to the south, Sichuan to the west and north, and Shaanxi at its northeast corner. It was established as one of the four direct-controlled municipalities in 1997 and the only one in west China. Chongqing reports directly to the central government.[^5] Comprising 21 districts and 17 counties,[^6] it has become the largest economic centre in west China as well as an important transportation hub and an inland port.[^7]
@@ -34,13 +34,13 @@ Chongqing is one of China’s oldest industrial bases, and its major industries 
 
 ### **Foreign trade and investment**
 
-Chongqing’s total imports and exports reached US$83.95 billion in 2019, an increase from the US$79.02 billion achieved in 2018.[^13]The United States was its leading export market, accounting for 29.4 percent of its total exports. Other major export markets include Germany (11.4 percent), South Korea (5.2 percent) and Hong Kong (4.2 percent). Major import sources were South Korea (accounted for 17.1 percent of total imports), Taiwan (11.6 percent) and Malaysia (7.9 percent).[^14]
+Chongqing’s total imports and exports reached US$101.43 billion in 2023, a decrease from the US$120.35 billion achieved in 2022.[^13] In 2020, the United States was its leading export market, accounting for 25 percent of its total exports. Other major export markets include Germany (10.5 percent), South Korea (5.3 percent) and Hong Kong (5.2 percent). Major import sources were South Korea (accounted for 14.8 percent of total imports), Taiwan (14.4 percent) and Vietnam (12.8 percent).[^14]
 
 Over the years, many multinational companies from the electronic industries have established their presence in Chongqing. By the end of 2019, 293 of the world’s top 500 companies have set up operations there.[^15] With the Belt and Road Initiative, Chongqing is expected to seek more foreign investment and trade opportunities.
 
 ### **Consumer market**
 
-Chongqing is an important consumer market in southwest China due to its large population. Its per capita disposal income of urban households in 2018 was RMB34,889, an increase of 8.4 percent from 2017.[^16]Its total retail sales of consumer goods reached RMB1,163.17 billion in 2019, up 8.7 percent from the RMB1,070.52 billion achieved the previous year.[^17]Some of the major local and overseas retailers that have established their presence in Chongqing include Gome from Beijing, Carrefour from France, Walmart from the United States and Metro from Germany.[^18]
+Chongqing is an important consumer market in southwest China due to its large population. Its per capita disposal income of urban households in 2018 was RMB34,889, an increase of 8.4 percent from 2017.[^16]Its total retail sales of consumer goods reached RMB1,562.96 billion in 2023, up from the RMB1,429.96 billion achieved the previous year.[^17]Some of the major local and overseas retailers that have established their presence in Chongqing include Gome from Beijing, Carrefour from France, Walmart from the United States and Metro from Germany.[^18]
 
 ### **Tourism**
 
@@ -68,11 +68,11 @@ Other commercial signings between Singapore and Chongqing include the following:
 ### **References**
 [^1]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^2]: 2-6: Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
+[^2]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
-[^3]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
+[^3]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
-[^4]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
+[^4]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
 [^5]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="blank"}; Chongqing (Chungking). (n.d.). *China Today.* Retrieved January 27, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/chongqing.htm){:target="blank"}
 
@@ -90,21 +90,21 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^12]: Chongqing New North Zone. (2012, December 11). *HKTDC Research.* Retrieved January 27, 2021, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X09RJ78/hktdc-research/Chongqing-New-North-Zone){:target="blank"}; Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="blank"}
 
-[^13]: National data. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://data.stats.gov.cn](https://data.stats.gov.cn/english/){:target="_blank"}
+[^13]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
-[^14]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
+[^14]: Chongqing: Market profile. (2022, Oct 27). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^15]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
+[^15]: Chongqing: Market profile. (2022, Oct 27). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^16]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
+[^16]: Chongqing: Market profile. (2022, Oct 27). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^17]: 15-12: Total retail sales of consumer goods. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://www.stats.gov.cn](https://www.stats.gov.cn/sj/nwdsj/2020/indexeh.htm){:target="_blank"}
+[^17]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
-[^18]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
+[^18]: Chongqing: Market profile. (2022, Oct 27). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
 [^19]: Chongqing profile. (n.d.). *International Students’ Department.* Retrieved January 27, 2021, from [http://interstar.sisu.edu.cn](https://interstar.sisu.edu.cn/ywz/Profile/Chongqing_Profile/index.htm){:target="blank"}; Biography: Joseph Warren Stilwell. (n.d.). *China-Burma-India: Remembering the forgotten theater of World War II*. Retrieved January 27, 2021, from [http://www.cbi-theater.com](http://www.cbi-theater.com/stilwellpages/stilwell_main.html){:target="blank"}
 
-[^20]:  Lee, S. (2016, April 15). S’pore delegation to visit Chongqing. *The Straits Times.* Retrieved January 27, 2021, from [https://www.straitstimes.com](https://www.straitstimes.com/business/companies-markets/singapore-delegation-to-visit-chongqing){:target="blank"}; Balakrishnan, V. (2016, March 1). Singapore-China ties: A progressive partnership. *The Straits Times.* Retrieved January 27, 2021, from [http://www.straitstimes.com](http://www.straitstimes.com/opinion/singapore-china-ties-a-progressive-partnership){:target="blank"}
+[^20]:  Lee, S. (2016, April 15). S’pore delegation to visit Chongqing. *The Straits Times.* Retrieved January 27, 2021, from [https://www.straitstimes.com](https://www.straitstimes.com/business/companies-markets/singapore-delegation-to-visit-chongqing){:target="blank"}; Balakrishnan, V. (2016, March 1). Singapore-China ties: A progressive partnership. *The Straits Times.* Retrieved January 27, 2021, from [http://www.straitstimes.com](https://www.straitstimes.com/asia/east-asia/singapore-china-ties-a-progressive-partnership){:target="blank"}
 
 [^21]:  Greater connectivity between Singapore and Chongqing with the China-Singapore (Chongqing) Connectivity Initiative – Southern Transport Corridor. (2017). *Ministry of Trade and Industry Singapore.* Retrieved January 27, 2021, from [https://www.mti.gov.sg](https://www.mti.gov.sg/Newsroom/Press-Releases/2017/08/GREATER-CONNECTIVITY-BETWEEN-SINGAPORE-AND-CHONGQING-WITH-THE-CHINA-SINGAPORE-CHONGQING-CONNECTIVITY){:target="_blank"}
 

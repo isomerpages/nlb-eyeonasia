@@ -32,9 +32,9 @@ Retrieved from JSTOR. <i>myLibrary</i> ID is required to access this database.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**White paper on environment for investment in Tianjin Economic-Technological Development Area**](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-mfg-tianjin-economic-technological-development-area.pdf){:target="_blank"}
+[**Tianjin Smart City Creates Economic Prosperity And Better Lives**](https://www.forbes.com/sites/huawei/2019/02/26/tianjin-smart-city-creates-economic-prosperity-and-better-lives/){:target="_blank"}
 
-This comprehensive publication by Deloitte provides an overview of Tianjin and its Economic-Technological Development Area. It describes the government policies and services available to businesses, as well as the business collaboration environment, infrastructure, human resources and living environment conditions in the metropolis.
+As one of China’s first comprehensive reform and innovation districts, the Tianjin Binhai New Area has taken the lead for in-depth integration of Artificial Intelligence and Smart City technologies to set a new benchmark for Smart City solutions. This Forbes article explains further.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 

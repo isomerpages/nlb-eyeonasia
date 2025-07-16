@@ -46,9 +46,9 @@ Six deals have been signed between Singapore companies and Chinese government or
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**Focus on Nanjing, China**](https://www.tradecommissioner.gc.ca/china-chine/market-facts-faits-sur-le-marche/96285.aspx?lang=eng){:target="_blank"}
+[**Investing in Nanjing: Industry, Economics, and Policy**](https://www.china-briefing.com/news/investing-in-nanjing-industry-economics-and-policy/){:target="_blank"}
 
-This webpage describes Nanjing’s eminent status in Jiangsu province and the Yangtze River Delta region as a major telecommunications, transportation, distribution and retail centre. It also provides quick facts on its business environment, key industries and import/export destinations. 
+The article provides an overview of Nanjing’s economic landscape, highlighting its robust industrial sectors, growing foreign investment, and supportive government policies. It details key industries such as electronics, automotive, and biotechnology, and outlines incentives for businesses, including tax benefits and streamlined administrative procedures, positioning Nanjing as a strategic hub for business expansion in China.
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;">
 

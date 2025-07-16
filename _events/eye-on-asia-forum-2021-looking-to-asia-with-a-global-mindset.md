@@ -1,10 +1,9 @@
 ---
 title: Eye on Asia Forum 2021 - Looking to Asia with a Global Mindset
 permalink: /events/past-events/03-and-04-mar-2021/
+variant: markdown
 ---
-
-
-<img src="\images\past-events\03-Mar-2021\EOA Forum 3 and 4 March 2021 Group Photo.png" style="width:1000px;" />
+<img src="\images\past-events\03-Mar-2021\EOA Forum 3 and 4 March 2021 Group Photo.png" style="width:1000px;">
 
 Gain key insights and leverage growth opportunities in a post-pandemic Asia. 
 Join the dialogue and be inspired by the stories of Singaporeans who have ventured into 
@@ -20,13 +19,13 @@ new environments in the region. Change your perspective of Asia and adopt a glob
 
 ##### **Watch the full programme:**
 
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=1844dfc0-04a6-4bf7-9a13-ae1400833eb0&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=1844dfc0-04a6-4bf7-9a13-ae1400833eb0&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
 
 ### **About the Speakers**
 
 **ASEAN-Mekong Region**<br>
 **Ian Yeo**<br>
-**Senior Vice President, Financial Institutions & Structured Finance**<br>
+**Senior Vice President, Financial Institutions &amp; Structured Finance**<br>
 **DZ BANK AG Singapore Branch**
 
 Ian Yeo is a Primary Relationship Manager for Financial Institutions covering ASEAN and the Indian sub-continent, with an emphasis on the Vietnam, Bangladesh and India markets. Prior to joining DZ BANK, he was in investment banking, with a focus on Islamic finance.
@@ -35,7 +34,7 @@ What opportunities are there within the Mekong region? What’s in store for Sin
 
 **United Arab Emirates**<br>
 **Dr Brian Shegar**<br> 
-**President, UAE Singapore Business Council and CEO & Founder, ME Asia Consultancy Pte Ltd**
+**President, UAE Singapore Business Council and CEO &amp; Founder, ME Asia Consultancy Pte Ltd**
 
 Dr Shegar has had an extensive career in international banking, with a focus on Asia-Pacific and the Middle East. He was the CEO of major international banks in the region, including Emirates NBD. He is currently the CEO and Founder of ME Asia Consultancy Pte Ltd. In March 2018, Dr Shegar established the UAE Singapore Business Council as Founding President which was recognised in a G2G agreement signed in 2019 as a platform to promote trade and investment flows between the United Arab Emirates and Singapore. He has a BSc (Hon), MSc (Finance) and a Doctorate in Business Administration and currently sits on the Board of International Advisors of CASS Business School, City, University of London. Dr Shegar has presented and moderated at various local and international talks, panel discussions and conferences on the topics of finance, banking and the Middle East.  
 
@@ -65,7 +64,7 @@ Amy Wee has spent more than 10 years in Vietnam and has forged good networks and
 
 ##### **Watch the full programme:**
 
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=14e6af7c-1b5d-4939-870d-ae1400834664&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=14e6af7c-1b5d-4939-870d-ae1400834664&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
 
 ### **About the Speakers**
 
@@ -73,15 +72,15 @@ Amy Wee has spent more than 10 years in Vietnam and has forged good networks and
 **Aik-Ping Ng**<br>
 **Engineer turned finance professional based in Greater China**
 
-Aik-Ping Ng is a seasoned finance and investment professional with close to 20 years of international and China-based experience spanning private equity, strategic M&A and private wealth management. He currently works at a large financial institution and is a part-time author, mentor and Enneagram coach. A Terman scholar at Stanford University in the United States, Aik-Ping also teaches finance at Renmin University in Beijing, China. He is also an avid golfer, claims to dance salsa, and struggles at the piano.
+Aik-Ping Ng is a seasoned finance and investment professional with close to 20 years of international and China-based experience spanning private equity, strategic M&amp;A and private wealth management. He currently works at a large financial institution and is a part-time author, mentor and Enneagram coach. A Terman scholar at Stanford University in the United States, Aik-Ping also teaches finance at Renmin University in Beijing, China. He is also an avid golfer, claims to dance salsa, and struggles at the piano.
 
 How should young Singaporeans gear up to embrace the opportunities presented by China and the rest of Asia? What are the emerging trends and opportunities in a post-pandemic China? Come draw inspiration from Aik-Ping as he shares his personal story and provides an insider's view into China's transformation through the lens of an overseas Singaporean.
 
 **India**<br>
 **Shobha Tsering Bhalla**<br>
-**Managing Director, India Se Media and Director, Singapore Indian Chamber of Commerce & Industry Board**
+**Managing Director, India Se Media and Director, Singapore Indian Chamber of Commerce &amp; Industry Board**
 
-Shobha Tsering Bhalla is a veteran journalist and media entrepreneur with extensive experience as a senior print and online journalist. In 1989, she joined The Straits Times as a business correspondent and was the first non-resident Indian journalist to have an opinion column in The Sunday Times. In 2007, she founded India Se Media, the first magazine/media company catering to the India diaspora in Singapore and Southeast Asia. Shobha is also on the board of the Singapore Indian Chamber of Commerce & Industry (SICCI) and is the Chairman of SHE@SICCI, which helps socially and economically vulnerable Singapore Indian women entrepreneurs grow their businesses in the post-COVID era.
+Shobha Tsering Bhalla is a veteran journalist and media entrepreneur with extensive experience as a senior print and online journalist. In 1989, she joined The Straits Times as a business correspondent and was the first non-resident Indian journalist to have an opinion column in The Sunday Times. In 2007, she founded India Se Media, the first magazine/media company catering to the India diaspora in Singapore and Southeast Asia. Shobha is also on the board of the Singapore Indian Chamber of Commerce &amp; Industry (SICCI) and is the Chairman of SHE@SICCI, which helps socially and economically vulnerable Singapore Indian women entrepreneurs grow their businesses in the post-COVID era.
 
 Although India is not a signatory to the Regional Comprehensive Economic Partnership (RCEP), its “Act East” policy forms an important part of its Indo-Pacific vision, which places ASEAN its core. With India’s strategic northeast set to play a big role in connecting the subcontinent with Southeast Asia, enhanced by India’s liberalised labour market, how can Singaporeans gain a first-mover advantage in Northeast India? What are the possibilities of tie-ups and cooperation between Singapore and Northeast India? Join Shobha as she shares the cultural similarities between Singapore and Northeast India, as well as how Singapore SMEs with interests in labour-intensive sectors could explore opportunities in India.
 
@@ -102,10 +101,10 @@ This webinar is organised by the National Library Singapore and in collaboration
 
 [Business China](https://www.businesschina.org.sg/en/)<br>
 [GlobalConnect@SBF](https://globalconnect.sbf.org.sg/)<br>
-[Ngee Ann Polytechnic](https://www.np.edu.sg/travelandlearn/Pages/default.aspx)<br>
+[Ngee Ann Polytechnic](https://www.cet.np.edu.sg/travel-and-learn/)<br>
 [Singapore Business Federation](https://www.sbf.org.sg/)<br>
 [Singapore Indian Chamber of Commerce and Industry](https://www.sicci.com/)<br>
 [UAE Singapore Business Council](https://www.uaesbc.com/)
 
 
-<a href="https://go.gov.sg/nl-3mar"  target="_blank"><img src="\images\past-events\03-Mar-2021\Eye on Asia Forum 2021.jpg" style="width:800px;" /></a>
+<a href="https://go.gov.sg/nl-3mar" target="_blank"><img src="\images\past-events\03-Mar-2021\Eye on Asia Forum 2021.jpg" style="width:800px;"></a>
