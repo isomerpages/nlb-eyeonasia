@@ -34,7 +34,7 @@ Chongqing is one of China’s oldest industrial bases, and its major industries 
 
 ### **Foreign trade and investment**
 
-Chongqing’s total imports and exports reached US$83.95 billion in 2019, an increase from the US$79.02 billion achieved in 2018.[^13]The United States was its leading export market, accounting for 29.4 percent of its total exports. Other major export markets include Germany (11.4 percent), South Korea (5.2 percent) and Hong Kong (4.2 percent). Major import sources were South Korea (accounted for 17.1 percent of total imports), Taiwan (11.6 percent) and Malaysia (7.9 percent).[^14]
+Chongqing’s total imports and exports reached US$101.43 billion in 2023, a decrease from the US$120.35 billion achieved in 2022.[^13] In 2020, the United States was its leading export market, accounting for 25 percent of its total exports. Other major export markets include Germany (10.5 percent), South Korea (5.3 percent) and Hong Kong (5.2 percent). Major import sources were South Korea (accounted for 14.8 percent of total imports), Taiwan (14.4 percent) and Vietnam (12.8 percent).[^14]
 
 Over the years, many multinational companies from the electronic industries have established their presence in Chongqing. By the end of 2019, 293 of the world’s top 500 companies have set up operations there.[^15] With the Belt and Road Initiative, Chongqing is expected to seek more foreign investment and trade opportunities.
 
@@ -90,7 +90,7 @@ Other commercial signings between Singapore and Chongqing include the following:
 
 [^12]: Chongqing New North Zone. (2012, December 11). *HKTDC Research.* Retrieved January 27, 2021, from [http://hkmb.hktdc.com](http://hkmb.hktdc.com/en/1X09RJ78/hktdc-research/Chongqing-New-North-Zone){:target="blank"}; Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="blank"}
 
-[^13]: National data. (2020). *National Bureau of Statistics of China.* Retrieved January 27, 2021, from [http://data.stats.gov.cn](https://data.stats.gov.cn/english/){:target="_blank"}
+[^13]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
 [^14]: Chongqing: Market profile. (2020, April 15). *HKTDC Research*. Retrieved January 27, 2021, from [https://research.hktdc.com/](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
