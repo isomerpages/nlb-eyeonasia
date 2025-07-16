@@ -11,9 +11,9 @@ This article provides an overview of Chongqing for those keen on exploring the p
 ### **Key Facts**
 
 - **Land area:** 82,400 sq km[^1]
-- **Population (2019):** 31.24 million[^2]
-- **Gross Domestic Product (GDP) (2019):** RMB 2,360.577 billion[^3]
-- **GDP per capita (2019):** RMB 75,828[^4]
+- **Population (2023):** 31.91 million[^2]
+- **Gross Regional Product (GDP) (2023):** RMB 3,014,580 million[^3]
+- **GRP per capita (2023):** RMB 94,471[^4]
 
 ### **Introduction**
 Chongqing is located at the confluence of the Yangtze and Jialing Rivers in southwest China. It is surrounded by Hubei and Hunan to the east, Guizhou to the south, Sichuan to the west and north, and Shaanxi at its northeast corner. It was established as one of the four direct-controlled municipalities in 1997 and the only one in west China. Chongqing reports directly to the central government.[^5] Comprising 21 districts and 17 counties,[^6] it has become the largest economic centre in west China as well as an important transportation hub and an inland port.[^7]
@@ -68,11 +68,11 @@ Other commercial signings between Singapore and Chongqing include the following:
 ### **References**
 [^1]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="_blank"}
 
-[^2]: 2-6: Population at year-end by region. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
+[^2]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
-[^3]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
+[^3]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
-[^4]: 3-9 Gross regional product. (2020). *National Bureau of Statistics of China.* Retrieved April 24, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/publish.htm){:target="_blank"}
+[^4]: National Data. Annual by Province. (2024). *National Bureau of Statistics of China.* Retrieved July 14, 2025, from [https://data.stats.gov.cn](https://data.stats.gov.cn/english/easyquery.htm?cn=E0103){:target="_blank"}
 
 [^5]: Chongqing: Market profile. (2020, April 15). *HKTDC Research.* Retrieved January 27, 2021, from [https://research.hktdc.com](https://research.hktdc.com/en/data-and-profiles/mcpc/municipalities/chongqing){:target="blank"}; Chongqing (Chungking). (n.d.). *China Today.* Retrieved January 27, 2021, from [http://www.chinatoday.com](http://www.chinatoday.com/city/chongqing.htm){:target="blank"}
 
