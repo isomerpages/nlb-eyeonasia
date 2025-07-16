@@ -64,10 +64,8 @@ This article looks at how Chengdu has funnelled tremendous resources into promot
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**A guide to investing in western China**](https://ifdesign.cloud/assets/images/design-articles/if-design-center-chengdu/white-paper-chengdu.pdf){:target="_blank"}
+[**A guide to investing in western China**](https://downloads.ctfassets.net/9el74s703hin/2WyWppF0S9UT41EECYzAGK/b3c29726886dc67b9a0e4589f5416745/white-paper-chengdu.pdf){:target="_blank"}
 
 This paper provides an overview of Chengdu in aspects such as population, finance, education and leisure. It also expounds on the business environment and opportunities available for foreign companies that are keen to venture into Chengdu. 
 
-
-
-*Last updated on Oct 2020*
+*Last updated on July 2025*
