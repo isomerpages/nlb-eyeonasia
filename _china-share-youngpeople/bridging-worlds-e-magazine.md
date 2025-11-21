@@ -8,7 +8,7 @@ variant: markdown
 
 *Bridging Worlds* is the Business China Youth Chapter (BCYC)'s flagship E-Magazine which brings together specially curated pieces by BCYC members on an array of issues and genres. It seeks to provide perspectives on bilingualism and biculturalism through writing and art.
 
-[Read about the perspectives of BCYC members in their E-Magazine.](https://businesschina.org.sg/en-us/youth-speak/bridging-worlds){:target="_blank"}
+[Read about the perspectives of BCYC members](https://businesschina.org.sg/business-china-youth-chapter/){:target="_blank"}
 
 **About Business China Youth Chapter**
 
