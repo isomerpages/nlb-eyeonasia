@@ -92,7 +92,7 @@ On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global 
 
 [^17]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved October 20, 2021 from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="_blank"}
 
-[^18]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved October 20, 2021, from [https://www.mti.gov.sg/](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/10/Abu-Dhabi-and-Singapore-to-explore-potential-areas-of-cooperation-at-12th-Abu-DhabiSingapore-Joint-F.pdf){:target="_blank"}
+[^18]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved October 20, 2021, from [https://www.mti.gov.sg/](https://www.mti.gov.sg/newsroom/abu-dhabi-and-singapore-to-explore-potential-areas-of-cooperation-at-the-12th-abu-dhabi-singapore-joint-forum/){:target="_blank"}
 
 [^19]: Monetary Authority of Singapore and Abu Dhabi Global Market collaborate to foster fintech innovation and cross-border activities. *Monetary Authority of Singapore*. Retrieved October 20, 2021, from [https://www.mas.gov.sg/](https://www.mas.gov.sg/news/media-releases/2017/monetary-authority-of-singapore-and-abu-dhabi-global-market){:target="_blank"}
 
