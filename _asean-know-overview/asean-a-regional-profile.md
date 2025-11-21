@@ -47,7 +47,7 @@ The establishment of the ASEAN Economic Community (AEC) in 2015 is a major miles
 
 On 15 November 2020, Singapore signed the Regional Comprehensive Economic Partnership (RCEP) agreement, on the sidelines of the 37th ASEAN Summit and Related Meetings, with counterparts from the ASEAN Member States and Australia, China, Japan, New Zealand and South Korea.The RCEP establishes a modern, comprehensive, high-quality and mutually beneficial economic partnership that builds on existing bilateral ASEAN agreements with its Free Trade Agreement (FTA) partners. Comprising about 30 percent of global GDP and close to a third of the world’s population, RCEP is the world’s largest FTA to date. As a key regional agreement, the RCEP will complement Singapore’s existing network of FTAs, expand its economic space, and boost trade and investment flows. It will further broaden and deepen Singapore’s economic linkages and connectivity with the region, open up opportunities and provide businesses with preferential access into growing markets.[^9]
 
-[^9]: Regional comprehensive economic partnership agreement signed. (2020, November 15). *MTI.* Retrieved January 25, 2021, from [https://www.mti.gov.sg](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/11/Press-Release-on-the-Regional-Comprehensive-Economic-Partnership-Signing-15-Nov.pdf){:target="_blank"}
+[^9]: Regional comprehensive economic partnership agreement signed. (2020, November 15). *MTI.* Retrieved January 25, 2021, from [https://www.mti.gov.sg](https://www.mti.gov.sg/newsroom/regional-comprehensive-economic-partnership-agreement-signed/){:target="_blank"}
 
 ---
 ### **References**
