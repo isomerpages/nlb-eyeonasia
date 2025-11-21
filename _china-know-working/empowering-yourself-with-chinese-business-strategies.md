@@ -83,9 +83,3 @@ A "unicorn" is defined as a private start-up valued at more than $1 billion. In 
 [**Doing business in China**](http://www.worldbusinessculture.com/country-profiles/china/){:target="_blank"}
 
 It was once said, ‘In China, everything is possible – but nothing is easy’. This report provides a brief overview of some key concepts to consider when doing business in China so as to avoid failure through the lack of research and planning.
-
-<img src="/images/resources/Article 4.jpg" style="width:180px;">
-
-[**Tapping China's Talent Market**](https://www.aesc.org/insights/magazine/article/tapping-chinas-talent-market){:target="_blank"}
-
-China is rapidly changing, and so is the talent pool available for any industry operating within its borders. This article highlights the growing importance of headhunting in China to source and hire the best person for any position. It also considers how headhunting addresses China's key talent challenges, including scarcity, candidate mobility, diversity and retention,
