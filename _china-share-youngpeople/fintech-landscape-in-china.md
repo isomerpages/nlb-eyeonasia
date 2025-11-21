@@ -1,12 +1,10 @@
 ---
-title: 'Fintech landscape in China'
+title: Fintech landscape in China
 permalink: /china/share/what-young-people-say/fintech-landscape-in-china/
-breadcrumb: 'Fintech landscape in China'
-
+breadcrumb: Fintech landscape in China
+variant: markdown
 ---
-
-
-<img src="\images\china-youngpeople\fintech-landscape-in-china.jpg" style="width:800px;" />
+<img src="\images\china-youngpeople\fintech-landscape-in-china.jpg" style="width:800px;">
 
 Organised by Business China Youth Chapter (BCYC), the BCYC Knowledge Exchange Collective seeks to bring BCYC members to share and discuss topics or trends in relation to Singapore and China.
 
@@ -20,7 +18,7 @@ Organised by Business China Youth Chapter (BCYC), the BCYC Knowledge Exchange Co
 
 *China is leading the way in its Fintech developments, especially in bitcoin and blockchain, of which the latter serves as a national strategy in expediting the payment system to promote better synchronisation and stock exchange.*
 
-[Read more about the BCYC Knowledge Exchange Collective - Fintech Landscape in China.](https://www.businesschina.org.sg/en/for-youths/bcyc-knowledge-exchange-collective-fintech-landscape-in-china/){:target="_blank"}
+[Read more about the BCYC Knowledge Exchange Collective - Fintech Landscape in China.](https://businesschina.org.sg/bcyc-knowledge-exchange-collective-fintech-landscape-in-china/){:target="_blank"}
 
 **About Business China Youth Chapter**
 
@@ -28,4 +26,4 @@ Business China Youth Chapter (BCYC) is a voluntary group of youths which envisio
 
 To join BCYC, please email your enquiry to [bcyc@businesschina.org.sg](mailto:bcyc@businesschina.org.sg). Membership is free and open to youths aged 17 – 28 years old.
 
-Credit: Business China 
+Credit: Business China
