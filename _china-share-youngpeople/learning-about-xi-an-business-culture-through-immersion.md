@@ -1,12 +1,10 @@
 ---
-title: 'Learning about Xi’an business culture through immersion'
+title: Learning about Xi’an business culture through immersion
 permalink: /china/share/what-young-people-say/xian-business-culture/
-breadcrumb: 'Learning about Xi’an business culture through immersion'
-
+breadcrumb: Learning about Xi’an business culture through immersion
+variant: markdown
 ---
-
-
-<img src="\images\china-youngpeople\xian-business-culture.jpg" style="width:800px;" />
+<img src="\images\china-youngpeople\xian-business-culture.jpg" style="width:800px;">
 
 **This extract is reproduced with permission**:
 
@@ -16,7 +14,7 @@ The most significant takeaway for the entire delegation is that to thrive in a f
 
 The BCYC members also benefited immensely from the interaction sessions and the invaluable connections formed with Chinese students and business leaders.
 
-[Read more about Business China Youth Chapter’s Summer China Learning Journey](https://www.businesschina.org.sg/en/for-students/11-singaporean-youths-learnt-about-xian-business-culture-through-immersion/){:target="_blank"}
+[Read more about Business China Youth Chapter’s Summer China Learning Journey](https://businesschina.org.sg/11-singaporean-youths-learnt-about-xian-business-culture-through-immersion/){:target="_blank"}
 
 **About Business China Youth Chapter**
 
