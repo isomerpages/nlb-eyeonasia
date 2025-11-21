@@ -57,9 +57,9 @@ What avenues of education are there for the youth in India today? How can an edu
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**India sees steep rise in internships across different industries as young graduates seek more skills: survey**](https://www.businessinsider.in/internships-in-india-on-the-rise-with-startups-leading-the-way/articleshow/67655265.cms){:target="_blank"}
+[**The rising demand for internships among Indian students**](https://careeraheadonline.com/the-rising-demand-for-internships-among-indian-students/){:target="_blank"}
 
-The Western concept of getting internships before plunging into the job market is fast gaining momentum at Indian workplaces. The number of internship seekers saw a sharp rise since 2013 to 2018, cutting across all industries and demographics. Discover internship trends in India in this report.
+The Western concept of getting internships before plunging into the job market is fast gaining momentum at Indian workplaces. Up to 93% of Indian students now consider internships a pre-requisite for their first job. Discover internship trends in India in this report.
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 

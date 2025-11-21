@@ -1,12 +1,10 @@
 ---
-title: 'From copycat to technology powerhouse'
+title: From copycat to technology powerhouse
 permalink: /china/share/what-young-people-say/from-copycat-to-technology-powerhouse/
-breadcrumb: 'From copycat to technology powerhouse'
-
+breadcrumb: From copycat to technology powerhouse
+variant: markdown
 ---
-
-
-<img src="\images\china-youngpeople\copycat-to-tech-powerhouse.jpg" style="width:800px;" />
+<img src="\images\china-youngpeople\copycat-to-tech-powerhouse.jpg" style="width:800px;">
 
 Organised by Business China Youth Chapter (BCYC), the BCYC Knowledge Exchange Collective seeks to bring BCYC members to share and discuss topics or trends in relation to Singapore and China.
 
@@ -18,7 +16,7 @@ Organised by Business China Youth Chapter (BCYC), the BCYC Knowledge Exchange Co
 
 *China’s impressive digital infrastructure and economy is a story of commercial success. Interconnected cyber-physical systems, from e-commerce, to e-payments and logistics, for example, have made it simple and convenient for users to adopt and integrate in everyday lives.*
 
-[Read more about the BCYC Knowledge Exchange Collective - “China- From Copycat to Technology Powerhouse”.](https://www.businesschina.org.sg/en/for-youths/bcyc-knowledge-exchange-collective-china-from-copycat-to-technology-powerhouse/){:target="_blank"}
+[Read more about the BCYC Knowledge Exchange Collective - “China- From Copycat to Technology Powerhouse”.](https://businesschina.org.sg/bcyc-knowledge-exchange-collective-china-from-copycat-to-technology-powerhouse/){:target="_blank"}
 
 **About Business China Youth Chapter**
 
@@ -26,4 +24,4 @@ Business China Youth Chapter (BCYC) is a voluntary group of youths which envisio
 
 To join BCYC, please email your enquiry to [bcyc@businesschina.org.sg](mailto:bcyc@businesschina.org.sg). Membership is free and open to youths aged 17 – 28 years old.
 
-Credit: Business China 
+Credit: Business China

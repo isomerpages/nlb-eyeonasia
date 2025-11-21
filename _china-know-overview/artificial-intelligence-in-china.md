@@ -74,7 +74,7 @@ In 2017, China’s State Council unveiled its “Next Generation Artificial Inte
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**Deciphering China’s AI dream: The context, components, capabilities, and consequences of China’s strategy to lead the world in AI**](https://www.fhi.ox.ac.uk/wp-content/uploads/Deciphering_Chinas_AI-Dream.pdf){:target="_blank"}
+[**Deciphering China’s AI dream: The context, components, capabilities, and consequences of China’s strategy to lead the world in AI**](https://www.governance.ai/research-paper/deciphering-chinas-ai-dream-the-context-components-capabilities-and-consequences-of-chinas-strategy-to-lead-the-world-in-ai){:target="_blank"}
 
 The report by the Centre for the Governance of AI in the University of Oxford outlines the key features of China’s strategy to lead the world in artificial intelligence (AI) and assesses its current AI capabilities. The author also examines the potential implications of AI development in the country, and dispels commonly-held misconceptions on its AI dream.
 

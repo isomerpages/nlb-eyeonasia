@@ -54,7 +54,7 @@ Due to the COVID-19 pandemic in 2020, international arrivals contracted by 74.1 
 
 [^4]: Cambodia Geography. (2021). *Tourism of Cambodia*. Retrieved January 25, 2021, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/about-cambodia/geography.htm){:target="_blank"}
 
-[^5]: General Population Census of the Kingdom of Cambodia 2019. (2019, June). *National Institute of Statistics, Cambodia.* Retrieved January 25, 2021, from [https://www.nis.gov.kh](https://www.nis.gov.kh/nis/Census2019/Provisional Population Census 2019_English_FINAL.pdf){:target="_blank"}
+[^5]: General Population Census of the Kingdom of Cambodia 2019. (2019, June). *National Institute of Statistics, Cambodia.* Retrieved January 25, 2021, from https://www.nis.gov.kh
 
 [^6]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
 
