@@ -1,12 +1,12 @@
 ---
-title: 'Modern history of Singapore and China through ‘Story of Yanxi Palace’ and ‘The Little Nyonya’'
+title: Modern history of Singapore and China through ‘Story of Yanxi Palace’ and
+  ‘The Little Nyonya’
 permalink: /china/share/what-young-people-say/modern-history-of-singapore-and-china-through-story-of-yanxi-palace-and-the-little-nyonya/
-breadcrumb: 'Modern history of Singapore and China through Story of Yanxi Palace and The Little Nyonya'
-
+breadcrumb: Modern history of Singapore and China through Story of Yanxi Palace
+  and The Little Nyonya
+variant: markdown
 ---
-
-
-<img src="\images\china-youngpeople\modern-history-of-singapore-and-china.png" style="width:800px;" />
+<img src="\images\china-youngpeople\modern-history-of-singapore-and-china.png" style="width:800px;">
 
 **This text is reproduced with permission:**
 
@@ -18,7 +18,7 @@ breadcrumb: 'Modern history of Singapore and China through Story of Yanxi Palace
 
 *Mr Sim provided an overview of the Qing Dynasty and the dynamics of relationships in the palace. He also highlighted how drama series such as the Yanxi Palace offer viewers a glimpse of history even though some portions might have been romanticised. Dr Koh Chin Yee shared about the brief history of the Nyonya and Baba and how the Peranakan culture has integrated into Singaporeans’ lives. He also pointed out the Peranakan heritage of several Singapore's prominent figures who played important roles in Singapore's history.*
 
-[Read more about the Business China Youth Series – Understanding the Modern History of Singapore and China through TV Series ‘Story of Yanxi Palace’ and ‘The Little Nyonya’.](https://www.businesschina.org.sg/en/for-youths/business-china-youth-series-understanding-the-modern-history-of-singapore-and-china-through-tv-series-story-of-yanxi-palace-and-the-little-nyonya/){:target="_blank"}
+[Read more about the Business China Youth Series – Understanding the Modern History of Singapore and China through TV Series ‘Story of Yanxi Palace’ and ‘The Little Nyonya’.](https://businesschina.org.sg/business-china-youth-series-understanding-the-modern-history-of-singapore-and-china-through-tv-series-story-of-yanxi-palace-and-the-little-nyonya/){:target="_blank"}
 
 **About Business China Youth Chapter**
 
@@ -26,4 +26,4 @@ Business China Youth Chapter (BCYC) is a voluntary group of youths which envisio
 
 To join BCYC, please email your enquiry to [bcyc@businesschina.org.sg](mailto:bcyc@businesschina.org.sg). Membership is free and open to youths aged 17 – 28 years old.
 
-Credit: Business China 
+Credit: Business China
