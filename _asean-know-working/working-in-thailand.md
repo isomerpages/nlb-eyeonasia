@@ -38,6 +38,6 @@ This detailed guide covers the requirements for finding work in Thailand, the jo
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**International Tax Thailand Highlights 2024**](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-thailandhighlights-2024.pdf){:target="_blank"}
+[**International Tax Thailand Highlights 2025**](https://www.deloitte.com/content/dam/assets-shared/docs/services/tax/2025/dttl-tax-thailandhighlights-2025.pdf){:target="_blank"}
 
-This 2024 Deloitte guide to taxation and investment in Thailand provides information on personal income tax rates, special regimes for expats, tax requirements, and other regulations, including the investment and business context.
+This annual Deloitte guide to taxation and investment in Thailand provides information on personal income tax rates, special regimes for expats, tax requirements, and other regulations, including the investment and business context.
