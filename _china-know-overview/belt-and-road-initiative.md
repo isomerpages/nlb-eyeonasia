@@ -148,7 +148,7 @@ This white paper provides an overview of the Belt and Road Initiative (BRI) in t
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**Asia Economic Forum on “The One-Belt One-Road Initiative: Impact and Implications” – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law**](https://www.mha.gov.sg/mediaroom/speeches/asia-economic-forum-on-the-one-belt-one-road-initiative-impact-and-implications-speech-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/){:target="_blank"}
+[**Asia Economic Forum on “The One-Belt One-Road Initiative: Impact and Implications” – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law**](https://www.mha.gov.sg/media-room/newsroom/asia-economic-forum-on-the-one-belt-one-road-initiative-impact-and-implications-speech-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/){:target="_blank"}
 
 What are the possible implications and impact of China’s Belt and Road Initiative (BRI) on Singapore and the world at large? Mr K Shanmugam, Singapore Minister for Home Affairs and Minister for Law, shares his views on BRI within the context of geopolitical trends, history of trade and current global economic climate. Singapore is predicted to reap huge economic gains from the tremendous trade and business opportunities, widespread connectivity and multiplication of investment propagated by the BRI project.
 
