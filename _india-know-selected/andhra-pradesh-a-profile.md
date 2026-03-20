@@ -15,7 +15,7 @@ This article provides an overview of Andhra Pradesh for those keen on exploring 
 - **Land area:** 160,205 sq km[^3]
 - **Population (2011):** 49.58 million[^4]
 - **Head of government:** Shri YS Jagan Mohan Reddy  (Chief Minister)[^5]
-- **Language:** Telegu[^6]
+- **Language:** Telugu
 - **Currency:** Indian Rupee (Rs)
 - **Major cities:** Visakhapatnam, Vijayawada, Tirupati, Rajahmundry, Guntur, Kakinada, Ongole, Nellore and Kurnool[^7]
 
@@ -65,8 +65,6 @@ In February 2018, another MOU was signed between Singapore Business Federation (
 [^4]:  Socio economic survey 2022-23. (2023). *Planning Department Government of Andhra Pradesh*. Retrieved January 23, 2025, from [http://www.apsdps.ap.gov.in](http://www.apsdps.ap.gov.in/assets/publications/Socio_Economic_Survey_2022-23.pdf)
 
 [^5]:  Chief Ministers. (n.d.). *National Portal of India*. Retrieved September 13, 2021, from [https://www.india.gov.in/my-government/whos-who/chief-ministers](https://www.india.gov.in/my-government/whos-who/chief-ministers)
-
-[^6]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
 
 [^7]:  Andhra Pradesh. (2021, June). *India Brand Equity Foundation*. Retrieved September 13, 2021, from [https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf](https://www.ibef.org/download/Andhra-Pradesh-June-2021.pdf ) 
 
