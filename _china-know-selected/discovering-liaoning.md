@@ -54,10 +54,6 @@ This article highlights how while northeast China as a whole has been struggling
 
 China has been gradually putting in place many components of its Belt and Road Initiative (BRI). This article describes how Liaoning and northeast China fit into the projects being rolled out and examines the economic benefits and challenges brought about by BRI. 
 
-<img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**A brief introduction to the animal husbandry industry in Liaoning Province**](https://www.agroberichtenbuitenland.nl/binaries/agroberichtenbuitenland/documenten/rapporten/2017/03/01/animal-husbandry-liaoning/a-brief-introduction-to-liaonings-animal-husbandry-industry.pdf){:target="_blank"}
-
-Northeast China is known as the agricultural heartland of China. This report provides brief information on the animal husbandry industry in Liaoning province and discusses business opportunities and challenges that are expected to arise for Dutch companies investing in the region.
 
 *Last updated on Oct 2020*
