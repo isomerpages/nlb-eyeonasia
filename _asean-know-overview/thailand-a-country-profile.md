@@ -44,7 +44,7 @@ Thailand’s key business sectors include infrastructure development and manufac
 
 Thailand has the fourth largest consumer market in ASEAN. Its unemployment rate is at a low one percent and the country has a purchasing power of an estimated US$6,000. In recent years, the purchasing power outside of capital city Bangkok has also grown.[^19]
 
-The Thai automotive sector is the largest in ASEAN. However, the industry has been impacted by the global shift towards electric vehicles (EVs) in recent years. Hence, the “Thai government is persistently trying to encourage the manufacturing of EVs and high-tech auto parts through promotion of incentive packages.”[^20]
+The Thai automotive sector is the largest in ASEAN. However, the industry has been impacted by the global shift towards electric vehicles (EVs) in recent years.[^20]
 
 ### **Tourism**
 
@@ -103,7 +103,7 @@ The country will also focus on 10 targeted industries, namely: Aviation and logi
 
 [^19]:Thailand. (n.d.). *Enterprise Singapore.* Retrieved March 5, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"}
 
-[^20]:Thailand. (n.d.). *Enterprise Singapore.* Retrieved March 5, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"};  Thailand’s automotive industry outlook 2019. (2019). *AEC Business Advisory.* Retrieved December 9, 2020, from [https://kasikornbank.com](https://kasikornbank.com/international-business/en/Thailand/IndustryBusiness/Pages/201901_Thailand_AutoOutlook19.aspx){:target="blank"}
+[^20]:Thailand. (n.d.). *Enterprise Singapore.* Retrieved March 5, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/market-guides/southeast-asia/thailand/overview){:target="_blank"}
 
 [^21]:Visit Thailand. (n.d.). *Danish-Thai Chamber of Commerce.* Retrieved December 9, 2020, from [https://dancham.or.th](https://dancham.or.th/visit-thailand/){:target="_blank"}
 
