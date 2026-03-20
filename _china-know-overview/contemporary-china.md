@@ -277,11 +277,6 @@ Retrieved from ProQuest Central. (*myLibrary* ID is required to access this data
 
 <img src="/images/resources/Database 1.jpg" style="width:180px;">
 
-[**Policy response to low fertility in China: Too little, too late?**](http://eresources.nlb.gov.sg/main/Browse?startsWith=E){:target="_blank"}
-
-This four-page article details China’s declining fertility levels which began manifesting in the 1970s, before the one-child policy was implemented in 1980. Despite the total lifting of the one-child rule in November 2015, the number of births in China has only increased marginally. The author suggests that the Chinese government should introduce policies that will make it easier for citizens to have children and offer schemes to provide financial and healthcare support for its greying population.
-
-Retrieved from EBSCOHost Databases. (*myLibrary* ID is required to access this database.)
 
 ---
 
@@ -302,7 +297,7 @@ Read about the aspirations and consumer pursuits of the Chinese mass affluent po
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
-[**China’s economic rise: History, trends, challenges, and implications for the United States**](https://fas.org/sgp/crs/row/RL33534.pdf){:target="_blank"}
+[**China’s economic rise: History, trends, challenges, and implications for the United States**](https://www.congress.gov/crs-product/RL33534){:target="_blank"}
 
 This report traces the advent of economic reforms and trade liberalisation in China which began 36 years ago and its current economic structure today. It also discusses the challenges which China faces in sustaining a rapidly growing economy and the Chinese government’s plan to implement sweeping economic reforms.
 

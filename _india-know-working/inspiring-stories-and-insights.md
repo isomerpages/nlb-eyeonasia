@@ -78,6 +78,6 @@ When Vikas Khanna was born, the doctor told his mother he would never walk or ru
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**Empirics Asia : 10 Indian Startup Success Stories That Will Inspire You**](https://empirics.asia/10-indian-startup-success-stories-will-inspire/){:target="_blank"}
+[**Empirics Asia : 10 Indian Startup Success Stories That Will Inspire You**](https://empirics.org/10-indian-startup-success-stories-will-inspire/){:target="_blank"}
 
 This article showcases 10 of the most successful India startups that have revolutionised their respective industries. This new generation of startups have made their presence felt not just in the domestic sphere, but globally as well. A selection of success stories from India’s CEOs that offer insights into their strategies, management and more.

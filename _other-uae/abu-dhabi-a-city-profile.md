@@ -66,7 +66,7 @@ On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global 
 
 [^4]: Explore. (2021). *AbuDhabi.com.* Retrieved October 20, 2021, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/city-info/){:target="_blank"}
 
-[^5]: UAE capital &amp; surrounds. (2021). *Department of Culture and Tourism Abu Dhabi.* Retrieved October 20, 2021 from [https://visitabudhabi.cn/](https://visitabudhabi.cn/en/explore/regions/uae.capital.aspx){:target="_blank"}
+[^5]: UAE capital &amp; surrounds. (2021). *Department of Culture and Tourism Abu Dhabi.* Retrieved October 20, 2021 from [https://visitabudhabi.cn/](https://visitabudhabi.ae/en/where-to-go/regions/abu-dhabi-city){:target="_blank"}
 
 [^6]: Abu Dhabi geography. (2021). Retrieved October 20, 2021, from [https://www.abudhabi.com/](https://www.abudhabi.com/v/geography/){:target="_blank"}
 
@@ -82,7 +82,7 @@ On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global 
 
 [^12]: Kamel, D. (2019, February 23). Abu Dhabi tourism grows in 2018 to 10.27 million boosted by Indian and Chinese travellers. *The National.* Retrieved October 20, 2021 from [https://www.thenational.ae/](https://www.thenational.ae/business/travel-and-tourism/abu-dhabi-tourism-grows-in-2018-to-10-27-million-boosted-by-indian-and-chinese-travellers-1.830881){:target="_blank"}
 
-[^13]:Discover three vastly different regions. (2021). *Visit Abu Dhabi*. Retrieved October 20, 2021, from [https://visitabudhabi.cn/en/where-to-go/about-abu-dhabi](https://visitabudhabi.cn/en/where-to-go/about-abu-dhabi ) 
+[^13]:Abu Dhabi Areas and Regions (2021). *Visit Abu Dhabi*. Retrieved October 20, 2021, from [https://visitabudhabi.ae/](https://visitabudhabi.ae/en/where-to-go/regions) 
 
 [^14]:Deena Kamel. (2021, April 19). Abu Dhabi and Dubai hospitality and tourism recovery to accelerate in 2021 on vaccine push. *National News*. Retrieved October 20, 2021, from [https://www.thenationalnews.com/business/travel-and-tourism/abu-dhabi-and-dubai-hospitality-and-tourism-recovery-to-accelerate-in-2021-on-vaccine-push-1.1205973](https://www.thenationalnews.com/business/travel-and-tourism/abu-dhabi-and-dubai-hospitality-and-tourism-recovery-to-accelerate-in-2021-on-vaccine-push-1.1205973) 
 

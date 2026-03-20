@@ -85,9 +85,9 @@ Written by HSBC, this guide provides a brief but informative overview of the exp
 
 <img src="/images/resources/Article 1.jpg" alt="article icon 1" style="width:180px;">
 
-[**UAE Economy Magazine**](https://www.moec.gov.ae/en/uae-economy-magazine){:target="_blank"}
+[**UAE Economy Magazine**](https://www.moet.gov.ae/en/uae-economy-magazine){:target="_blank"}
 
-Published by the Ministry of Economy of the United Arab Emirates (UAE), the UAE Economy Magazine provides updated information on the UAE’s economy and workforce. It presents key updates on foreign trade, local industries, investments, their financial sector and workforce demographics.
+Published by the Ministry of Economy &amp; Tourism of the United Arab Emirates (UAE), the UAE Economy Magazine provides updated information on the UAE’s economy and workforce. It presents key updates on foreign trade, local industries, investments, their financial sector and workforce demographics.
 
 <img src="/images/resources/Article 2.jpg" alt="article icon 2" style="width:180px;">
 

@@ -76,6 +76,6 @@ Being touted as a great place to work at is one of the highest accolades a compa
 
 <img src="/images/resources/Article 3.jpg" style="width:180px;">
 
-[**Business culture in India**](https://www.ukibc.com/india-guide/how-india/business-culture/){:target="_blank"}
+[**Understanding business culture in India**](https://www.westyorks-ca.gov.uk/resources/understanding-business-culture-in-india/){:target="_blank"}
 
-This website by the United Kingdom India Business Council provides a detailed and comprehensive read on the finer points of Indian business etiquette for those who are interested to venture to India for work.
+This article by the United Kingdom India Business Council provides a detailed and comprehensive read on the finer points of Indian business etiquette for those who are interested to venture to India for work.

@@ -54,7 +54,7 @@ Due to the COVID-19 pandemic in 2020, international arrivals contracted by 74.1 
 
 [^4]: Cambodia Geography. (2021). *Tourism of Cambodia*. Retrieved January 25, 2021, from [http://www.tourismcambodia.com](http://www.tourismcambodia.com/about-cambodia/geography.htm){:target="_blank"}
 
-[^5]: General Population Census of the Kingdom of Cambodia 2019. (2019, June). *National Institute of Statistics, Cambodia.* Retrieved January 25, 2021, from https://www.nis.gov.kh
+[^5]: General Population Census of the Kingdom of Cambodia 2019. (2019, June). *National Institute of Statistics, Cambodia.* Retrieved January 25, 2021, from [https://www.nis.gov.kh](https://nis.gov.kh/en/general-population-census-of-cambodia/)
 
 [^6]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
 
@@ -62,9 +62,9 @@ Due to the COVID-19 pandemic in 2020, international arrivals contracted by 74.1 
 
 [^8]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
 
-[^9]: National Accounts 2018. (2019, October). *Cambodia National Institute of Statistics*. Retrieved January 25, 2021, from [http://www.nis.gov.kh](https://www.nis.gov.kh/index.php/en/national-statistical-systems/official-statistics-of-cambodia/81-national-account-table){:target="_blank"}
+[^9]: National Accounts 2018. (2019, October). *Cambodia National Institute of Statistics*. Retrieved January 25, 2021, from [http://www.nis.gov.kh](https://nis.gov.kh/en/gdp-2024-2/){:target="_blank"}
 
-[^10]: National Accounts 2018. (2019, October). *Cambodia National Institute of Statistics*. Retrieved January 25, 2021, from [http://www.nis.gov.kh](https://www.nis.gov.kh/index.php/en/national-statistical-systems/official-statistics-of-cambodia/81-national-account-table){:target="_blank"}
+[^10]: National Accounts 2018. (2019, October). *Cambodia National Institute of Statistics*. Retrieved January 25, 2021, from [http://www.nis.gov.kh](https://nis.gov.kh/en/gdp-2024-2/){:target="_blank"}
 
 [^11]: Cambodia. (2021). *Encyclopedia Britannica*. Retrieved January 25, 2021, from [https://www.britannica.com](https://www.britannica.com/place/Cambodia){:target="_blank"}
 
