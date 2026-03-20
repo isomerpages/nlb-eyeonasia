@@ -57,9 +57,6 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
-[**Social commerce: The new norm in China**](https://www.fbicgroup.com/internal-site/wp-content/uploads/documents/Social_commerce.pdf){:target="_blank"}
-
-This report examines the rise and evolution of social commerce in China, which is touted as the new norm for e-commerce for the country. Besides providing a breakdown of the type of consumers that use social commerce and the products they purchase, it also examines the major types of social commerce platforms in China and the strengths and weaknesses of each type.
 
 <img src="/images/resources/Article 4.jpg" style="width:180px;">
 
