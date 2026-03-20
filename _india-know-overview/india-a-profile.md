@@ -67,25 +67,25 @@ Bilateral trade between Singapore and India has been growing. Exports to India g
 ---
 ### **References**
 
-[^1]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
+[^1]: Facts of India. (2020). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/explore-india/facts-of-india)
 
-[^2]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
+[^2]: Facts of India. (2020). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/explore-india/facts-of-india)
 
 [^3]:President. (2018, August 14). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/my-government/whos-who/president)
 
-[^4]:  Prime Minister. (2019, May 30). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/my-government/whos-who/prime-minister)
+[^4]: Prime Minister. (2019, May 30). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/my-government/whos-who/prime-minister)
 
-[^5]:  Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
+[^5]: Facts of India. (2020). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/explore-india/facts-of-india)
 
 [^6]:  Currency symbol. (n.d.). *Know India*. Retrieved July 26, 2021, from [https://knowindia.india.gov.in](https://knowindia.india.gov.in/national-identity-elements/currency-symbol.php)
 
-[^7]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
+[^7]: Facts of India. (2020). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/explore-india/facts-of-india)
 
 [^8]: India: Annual data and forecast. (2021, September 6). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database.
 
 [^9]: India: Annual data and forecast. (2021, September 6). *Economist Intelligence Unit*. Retrieved September 13, 2021, from Economist Intelligence Unit database.
 
-[^10]: Profile. (2021, March 16). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/india-glance/profile)
+[^10]: Facts of India. (2020). *National Portal of India*. Retrieved July 26, 2021, from [https://www.india.gov.in](https://www.india.gov.in/explore-india/facts-of-india)
 
 [^11]: Country report: India. (2021, January), *Economist Intelligence Unit*. Retrieved July 26, 2021, from Economist Intelligence Unit database.
 
