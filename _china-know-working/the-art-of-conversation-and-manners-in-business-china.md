@@ -70,11 +70,6 @@ All rights reserved, Vermont: Tuttle Publishing, 2016.
 
 ### **You may also like**
 
-<img src="/images/resources/Article 1.jpg" style="width:180px;">
-
-[**The Chinese concept of guanxi can help European companies crack Asia**](https://www.europeanceo.com/business-and-management/the-chinese-concept-of-guanxi-can-help-european-companies-crack-asia/){:target="_blank"}
-
-Cultural differences make entering the Chinese market and forging strong business relationships a struggle, particularly for Western countries. Deeply rooted in Chinese culture and derived from Confucian ethics, the quid pro quo concept of guanxi is critical to ensuring effective communication and building trust.
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
 
