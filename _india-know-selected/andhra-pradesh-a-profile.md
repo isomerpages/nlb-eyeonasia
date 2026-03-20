@@ -10,9 +10,9 @@ This article provides an overview of Andhra Pradesh for those keen on exploring 
 
 ### **Key facts**
 
-- **Capital:** Hyderabad &amp; Amaravati[^1]
-- **Geography:** 13 districts[^2]
-- **Land area:** 160,205 sq km[^3]
+- **Capital:** Hyderabad &amp; Amaravati
+- **Geography:** 13 districts
+- **Land area:** 160,205 sq km
 - **Population (2011):** 49.58 million[^4]
 - **Head of government:** Shri YS Jagan Mohan Reddy  (Chief Minister)[^5]
 - **Language:** Telugu
@@ -55,12 +55,6 @@ Special Economic Zones (SEZs) were developed across various districts in Andhra 
 In February 2018, another MOU was signed between Singapore Business Federation (SBF) and the Confederation of Indian Industry (CII) to form the Andhra Pradesh-Singapore Business Council, which aims “to drive private sector business collaboration to strengthen Singapore-Andhra Pradesh economic ties … across priority sectors including smart infrastructure, agrifood and logistics." Additionally, Singapore’s Ministry of Trade and Industry (MTI) is also partnering with Amaravati Partnership Office and the Andhra Pradesh Capital Region Development Authority to set up an Innovation Corridor. The Innovation Corridor is “a platform to discover, pilot and scale innovative urban solutions” for use in Amaravati.[^20]
 
 ### **References**
-
-[^1]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
-
-[^2]:About Andhra Pradesh. (2019, July 8). National Panchayat Portal. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
-
-[^3]: About Andhra Pradesh. (2019, July 8). *National Panchayat Portal*. Retrieved September 13, 2021, from [https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503](https://www.appr.gov.in/hi/hidden/-/asset_publisher/QMWAauCGi0wX/content/about-andhra-pradesh/3052503)
 
 [^4]:  Socio economic survey 2022-23. (2023). *Planning Department Government of Andhra Pradesh*. Retrieved January 23, 2025, from [http://www.apsdps.ap.gov.in](http://www.apsdps.ap.gov.in/assets/publications/Socio_Economic_Survey_2022-23.pdf)
 
