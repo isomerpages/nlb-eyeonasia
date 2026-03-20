@@ -55,19 +55,19 @@ To boost tourism, the country is focusing on strengthening the attractiveness an
 
 [^1]: About Brunei. (2020). *Information Department Prime Minister’s Office Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.information.gov.bn](http://www.information.gov.bn/SitePages/About Brunei Darussalam.aspx){:target="_blank"}
 
-[^2]: Population. (2022). *Department of Economic Planning and Statistics.* Retrieved August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/Population.aspx){:target="_blank"}
+[^2]: Population. (2022). *Department of Economic Planning and Statistics.* Retrieved August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/population-social-statistics/){:target="_blank"}
 
 [^3]: About Brunei. (2020). *Information Department Prime Minister’s Office Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.information.gov.bn](http://www.information.gov.bn/SitePages/About Brunei Darussalam.aspx){:target="_blank"}
 
-[^4]: National accounts. (2022). *Department of Economic Planning and Statistics.* August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/National%20Accounts.aspx){:target="_blank"}
+[^4]: National accounts. (2022). *Department of Economic Planning and Statistics.* August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/national-accounts/){:target="_blank"}
 [^5]:  About Brunei Darussalam. (2017). *Government of Brunei Darussalam.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/germany-berlin/SitePages/businessinbrunei.aspx){:target="_blank"}
 [^6]: Business in Brunei. (2018, September). *Ministry of Foreign Affairs.* Retrieved October 13, 2020, from [http://www.mfa.gov.bn](http://www.mfa.gov.bn/usa-washington/SitePages/businessinbrunei.aspx){:target="_blank"}
 
 [^7]: Brunei. (2018). *Islamic Chamber of Commerce, Industry &amp; Agriculture.* Retrieved October 13, 2020, from [https://iccdglobal.com/](https://iccdglobal.com/countries-2/brunei/){:target="_blank"}
 [^8]: Brunei Darussalam. (2020, June). *Ministry of Finance and Economy,* p. 2. Retrieved October 13, 2020, from [https://sustainabledevelopment.un.org](https://sustainabledevelopment.un.org/content/documents/26410VNR_2020_Brunei_Report.pdf){:target="_blank"}
 [^9]: Brunei Darussalam. (n.d.). *Invest in Asean.* Retrieved October 13, 2020, from [http://investinasean.asean.org](http://investasean.asean.org/index.php/page/view/asean-member-states/view/709/newsid/795/brunei-darussalam.html){:target="_blank"}
-[^10]: Population. (2022). *Department of Economic Planning and Statistics.* Retrieved August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/Population.aspx){:target="_blank"}
-[^11]: National accounts. (2022). *Department of Economic Planning and Statistics.* August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/SitePages/National%20Accounts.aspx){:target="_blank"}
+[^10]: Population. (2022). *Department of Economic Planning and Statistics.* Retrieved August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/population-social-statistics/){:target="_blank"}
+[^11]: National accounts. (2022). *Department of Economic Planning and Statistics.* August 8, 2023, from [https://deps.mofe.gov.bn](https://deps.mofe.gov.bn/national-accounts/){:target="_blank"}
 [^12]: Brunei Darussalam statistical yearbook. (2019). *Department of Economic Planning and Development*, pp. 127-130*.* Retrieved October 13, 2020, from [http://www.deps.gov.bn](http://www.deps.gov.bn/DEPD Documents Library/DOS/BDSYB/BDSYB_2018/BDSYB_2018.pdf){:target="_blank"}
 [^13]: Ley Choon makes further inroads into Brunei with B$29 million new project wins. (2013, July 17). *Ley Choon Group Holdings Limited*. Retrieved October 13, 2020, from [http://www.leychoon.com](http://www.leychoon.com/wp-content/uploads/2015/05/Ley-Choon-makes-further-inroads-into-Brunei-with-B29.pdf){:target="_blank"}
 
