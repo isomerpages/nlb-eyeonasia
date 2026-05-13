@@ -44,7 +44,7 @@ Total bilateral trade in goods between Singapore and Kazakhstan was valued at $1
 
 On 14 October 2019, Senior Minister Teo Chee Hean visited Nur-Sultan to hold meetings with the country's leaders. At the meetings, they reaffirmed the warm ties between Singapore and Kazakhstan and welcomed the free trade agreement between Singapore and the Eurasian Economic Union that had been signed on 1 October 2019. The agreement is expected to strengthen trade and investment links between Singapore, Kazakhstan and the trade bloc, comprising Kazakhstan, Armenia, Belarus, Kyrgyzstan and Russia.[^14]
 
-Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of Singapore companies that has made a mark in Kazakhstan. Being taken in by the immense tourism potential of what was considered an “exotic” location in Central Asia, Ms Lee has set up a tour consultancy business in Kazakhstan. Other Singapore companies in Kazakhstan include education consultancy Educare, urban planning company RSP Architects Planners and Engineers, and coffee and tea manufacturing company Food Empire.[^15]
+
 
 
 ---
@@ -77,5 +77,3 @@ Singaporean Ms Queenie Lee’s business venture Aveneer, is among a cluster of S
 [^13]: Tan, S. (2018, November 21). Singapore and Kazakhstan ink bilateral investment treaty. *The Straits Times*. Retrieved September 5, 2022, from [https://www.straitstimes.com](https://www.straitstimes.com/business/singapore-and-kazakhstan-ink-bilateral-investment-treaty){:target="_blank"}
 
 [^14]: Teo Chee Hean reaffirms strong ties with Kazakhstan's leaders; discusses digitalisation. (2019, October 15). *The Straits Times*. Retrieved September 5, 2022, from [https://www.straitstimes.com](https://www.straitstimes.com/asia/teo-chee-hean-reaffirms-strong-ties-with-kazakhstans-leaders-discusses-digitalisation){:target="_blank"}
-
-[^15]: Teng, A. (2017, September 2). Singaporean entrepreneurs ascend the vast terrains of Kazakhstan. *Today Online.* Retrieved September 5, 2022, from [https://www.todayonline.com](https://www.todayonline.com/business/singaporean-entrepreneurs-ascend-vast-terrains-kazakhstan){:target="_blank"}

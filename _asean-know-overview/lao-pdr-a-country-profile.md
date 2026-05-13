@@ -1,12 +1,10 @@
 ---
-title: 'Lao PDR - A country profile'
+title: Lao PDR - A country profile
 permalink: /asean-countries/know/overview-of-asean-countries/lao-a-country-profile/
-breadcrumb: 'Lao PDR - A country profile'
-
+breadcrumb: Lao PDR - A country profile
+variant: markdown
 ---
-
-
-<img src="/images/asean-countries/Laos snapshot cover iso.jpg" alt="Laos snapshot banner" style="width:800px;" />
+<img src="/images/asean-countries/Laos snapshot cover iso.jpg" alt="Laos snapshot banner" style="width:800px;">
 
 This article provides an overview of the Lao People’s Democratic Republic for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 
@@ -42,7 +40,7 @@ Bilateral trade between Singapore and Lao PDR amounted to US$51 million in 2016 
 
 ### **Tourism**
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Kuang-Si-Falls.jpg" alt="Laos snapshot image 1" width="width" height="height" style="padding-bottom:0.5em; width:400px;" />Kuang Si Falls. Image source: Pixabay.com</div>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/asean-countries/Kuang-Si-Falls.jpg" alt="Laos snapshot image 1" width="width" height="height" style="padding-bottom:0.5em; width:400px;">Kuang Si Falls. Image source: Pixabay.com</div>
 Lao PDR welcomed 4.58 million international visitors in 2019, representing a growth of nine percent over 2018. Much of the growth was due to the Visit Laos-China Year 2019 campaign. Chinese tourists alone increased by 27 percent or 1.02 million people. Visitors from Thailand, the main source of Laos' tourists, rose by six percent while Vietnamese visitors increased by 11 percent. Tourist arrivals from the United States rose by 22 percent, while visitors from Britain also increased by 22 percent. The number of French visitors rose by 11 percent, while German tourists increased by 13 percent.[^17]
 
 ---
@@ -51,7 +49,7 @@ Lao PDR welcomed 4.58 million international visitors in 2019, representing a gro
 
 [^1]:Laos country profile. (2018, July 24). *BBC News.* Retrieved January 25, 2021 from [https://www.bbc.com](https://www.bbc.com/news/world-asia-pacific-15351898){:target="_blank"}
 
-[^2]:Laos: Basic data. (2018, December 6). *The Economist.* Retrieved January 25, 2021, from [http://country.eiu.com](http://country.eiu.com/article.aspx?articleid=2005905984&Country=Laos&topic=Summary&subtopic=Basic+data){:target="_blank"}
+[^2]:Laos: Basic data. (2018, December 6). *The Economist.* Retrieved January 25, 2021, from [http://country.eiu.com](http://country.eiu.com/article.aspx?articleid=2005905984&amp;Country=Laos&amp;topic=Summary&amp;subtopic=Basic+data){:target="_blank"}
 
 [^3]:Population Total – Lao PDR. (2021). *The World Bank.* Retrieved January 25, 2021, from [https://data.worldbank.org](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LA){:target="_blank"}
 
@@ -73,7 +71,7 @@ Lao PDR welcomed 4.58 million international visitors in 2019, representing a gro
 
 [^12]:ASEAN’s future cities: High-speed rail on track to connect Vientiane to the region. (2017, March 23) *My HSR.* Retrieved January 25, 2021, from [https://www.myhsr.com.my](https://www.myhsr.com.my/resource/newsroom/asias-future-cities-high-speed-rail-on-track-to-connect-vientiane-to-the-region ){:target="blank"} ; Lao PDR economic monitor. (2019, January). *The World Bank Group.* Retrieved January 25, 2021, from [http://documents.worldbank.org](http://documents1.worldbank.org/curated/en/818841549314902040/pdf/134324-REPLACEMENT-PUBLIC-LEM-2019-January.pdf){:target="_blank"}
 
-[^13]:ASEAN investment report 2018: Foreign direct investment and the digital economy in ASEAN. (2018, November 5). *Association of Southeast Asian Nations and United Nations Conference on Trade and Development.* Retrieved August 14, 2023, from [https://investasean.asean.org](https://investasean.asean.org/files/upload/2018%20ASEAN%20Investment%20Report%20(Website).pdf){:target="_blank"}
+[^13]:ASEAN investment report 2018: Foreign direct investment and the digital economy in ASEAN. (2018, November 5). *Association of Southeast Asian Nations and United Nations Conference on Trade and Development.* Retrieved August 14, 2023, from [https://asean.org](https://asean.org/wp-content/uploads/2020/12/ASEAN-Investment-Report-2018-%E2%80%9CForeign-Direct-Investment-and-the-Digital-Economy-in-ASEAN%E2%80%9D.pdf){:target="_blank"}
 
 [^14]:SEZs in Lao PDR. (2019, February 21). *Investment Promotion Department, Ministry of Planning and Investment.* Retrieved January 25, 2021,, from [http://www.investlaos.gov.la](http://investlaos.gov.la/start-up-business/special-economic-zone/){:target="_blank"}
 
@@ -82,6 +80,3 @@ Lao PDR welcomed 4.58 million international visitors in 2019, representing a gro
 [^16]:Surbana Jurong, Phongsavanh Group and Mekong Group collaborate to support Laos’ growth journey. (2017, September 1). *Surbana Jurong.* Retrieved January 25, 2021, from [https://surbanajurong.com](https://surbanajurong.com/wp-content/uploads/2017/09/20170901-Press-Release-MOU-Signing-Laos.pdf){:target="_blank"}
 
 [^17]:Laos' foreign tourist arrivals up 9 percent in 2019. (2020, January 8). *Xinhua News.* Retrieved January 25, 2021, from [http://www.xinhuanet.com](http://www.xinhuanet.com/english/asiapacific/2020-01/08/c_138688181.htm){:target="_blank"}
-
-
-

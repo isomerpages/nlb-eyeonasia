@@ -108,6 +108,6 @@ Bilateral trade between Singapore and India has been growing. Exports to India g
 [^20]: India-Singapore Comprehensive Economic Cooperation Agreement. (CECA). (2024, September 5). *Enterprise Singapore*. Retrieved March 5, 2025, from [https://www.enterprisesg.gov.sg](https://www.enterprisesg.gov.sg/grow-your-business/go-global/international-agreements/free-trade-agreements/find-an-fta/ceca)
 
 
-[^21]: Singapore’s International Trade. (2021, September). *Department of Statistics, Singapore*. Retrieved September 16, 2021, from [https://www.singstat.gov.sg](https://www.singstat.gov.sg/modules/infographics/-/media/Files/visualising_data/infographics/trade_and_investment/singapore-international-trade.pdf) 
+[^21]: Merchandise Trade. (2021, September). *Department of Statistics, Singapore*. Retrieved September 16, 2021, from [https://www.singstat.gov.sg](https://www.singstat.gov.sg/find-data/explore-data-themes/trade-investment/merchandise-trade/latest-news-data) 
 
 [^22]: Bhardwaj, N. (2021, June 22). Why Indian businesses view Singapore as a preferred investment base in Asia. *India Briefing*. Retrieved July 26, 2021, from [https://www.india-briefing.com](https://www.india-briefing.com/news/why-indian-businesses-view-singapore-as-a-preferred-investment-base-in-asia-22517.html/)
