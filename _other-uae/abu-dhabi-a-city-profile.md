@@ -88,7 +88,7 @@ On 29 August 2018, the Monetary Authority of Singapore and the Abu Dhabi Global 
 
 [^15]: Abu Dhabi and Singapore to explore potential areas of cooperation at the 12th Abu Dhabi-Singapore Joint Forum. (2019, November 13). Retrieved October 20, 2021, from [https://www.mti.gov.sg/](https://www.mti.gov.sg/newsroom/abu-dhabi-and-singapore-to-explore-potential-areas-of-cooperation-at-the-12th-abu-dhabi-singapore-joint-forum/){:target="_blank"}
 
-[^16]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved April 11, 2024, from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="_blank"}; MindChamps Nursery Abu Dhabi. (n.d.). *edcare.ae.* Retrieved April 11, 2024, from [https://edcare.ae/](https://edcare.ae/nurseries/mindchamps-nursery-abu-dhabi){:target="_blank"}
+[^16]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved April 11, 2024, from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="blank"}; MindChamps to open nursery in Abu Dhabi in 2017 (ST). (2016, October 14). *Mindchamps.* Retrieved April 11, 2024, from [https://www.mindchamps.org/](https://www.mindchamps.org/blog/mindchamps-to-open-nursery-in-abu-dhabi/){:target="_blank"}
 
 [^17]: Zhaki, A. (2019, February 28). Abu Dhabi Crown Prince on official visit to Singapore. *The Straits Times.* Retrieved October 20, 2021 from [https://www.straitstimes.com/](https://www.straitstimes.com/singapore/abu-dhabi-crown-prince-on-official-visit-to-singapore){:target="_blank"}
 
