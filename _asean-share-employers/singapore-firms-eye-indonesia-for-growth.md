@@ -8,6 +8,6 @@ variant: markdown
 
 Many Singapore firms have expanded to Indonesia and within Southeast Asia as a whole due to rapid developments in infrastructure and connectivity. In this article, these companies explain the benefits of expanding abroad and mention some especially promising industries like health, industrial infrastructure, green economy and digital economy in Indonesia. 
 
-[Read more about the specific conditions that make Indonesia a good place to grow one’s business.](https://www.enterprisesg.gov.sg/resources/media-centre/news/2024/may/more-s-pore-firms-get-help-from-govt-agency-to-enter-indonesia){:target="_blank"}
+[Read more about the specific conditions that make Indonesia a good place to grow one’s business.](https://www.straitstimes.com/asia/se-asia/more-singapore-firms-seek-help-from-government-agency-to-expand-into-indonesia){:target="_blank"}
 
-Source: Enterprise Singapore
+Source: Enterprise Singapore and The Straits Times
