@@ -42,9 +42,9 @@ Retrieved from ProQuest Central. *myLibrary* ID is required to access this datab
 
 <img src="/images/resources/Article 1.jpg" style="width:180px;">
 
-[**Festivals and events in India in October 2020**](https://www.tripsavvy.com/october-india-festivals-and-events-guide-1539301){:target="_blank"}
+[**8 Most Popular Festivals in India**](https://www.tripsavvy.com/most-popular-festivals-in-india-1539299){:target="_blank"}
 
-October is a very exuberant time in India, with many festivals and celebrations occurring all over the country. Take part in events filled with lights, music and dance during India’s own festive season. Besides the schedule of events occurring in India this October, the website also provides information on each of the featured festivals for those who are keen to understand more about festivals in India. 
+Indian celebrations are numerous and varied and are held throughout the year. This webpage lists some of the most popular festivals in the country and their typical occurrence periods. Uncover more information on each of the featured festivals for those who are keen to understand more about festivals in India. 
 
 
 <img src="/images/resources/Article 2.jpg" style="width:180px;">
